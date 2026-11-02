@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ghdl/ghdl](../repos/ghdl/ghdl.md) | ⭐ 2,914 | 2026-08-01 | 41 |
 
+*No VHDL repositories trending today*
 
 ---
 
@@ -53,4 +51,4 @@
 
 ---
 
-*Last updated: 2026-10-29T21:01:54.953Z*
+*Last updated: 2026-11-02T21:51:25.503Z*

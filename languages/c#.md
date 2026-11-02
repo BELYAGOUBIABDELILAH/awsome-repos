@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,757 | 2026-08-01 | 23 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 14,830 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,759 | 2026-08-01 | 11 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 33,768 | 2026-08-02 | 37 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,351 | 2026-08-01 | 17 |
+| [LibreHardwareMonitor/LibreHardwareMonitor](../repos/LibreHardwareMonitor/LibreHardwareMonitor.md) | ⭐ 9,328 | 2026-08-09 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,865 | 2026-08-01 | 11 |
+| [BepInEx/BepInEx](../repos/BepInEx/BepInEx.md) | ⭐ 8,959 | 2026-08-09 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,764 | 2026-08-03 | 37 |
+| [4sval/FModel](../repos/4sval/FModel.md) | ⭐ 3,323 | 2026-08-22 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner](../repos/actions/runner.md) | ⭐ 6,363 | 2026-08-04 | 14 |
+| [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 32,177 | 2026-08-22 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | ⭐ 9,412 | 2026-08-04 | 18 |
+| [RankFTW/RHI](../repos/RankFTW/RHI.md) | ⭐ 2,459 | 2026-09-20 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,395 | 2026-08-04 | 21 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [luolangaga/tubatools](../repos/luolangaga/tubatools.md) | ⭐ 5,899 | 2026-08-12 | 11 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [sourcegit-scm/sourcegit](../repos/sourcegit-scm/sourcegit.md) | ⭐ 6,286 | 2026-08-19 | 10 |
+| [ggml-org/Llama-Windows](../repos/ggml-org/Llama-Windows.md) | ⭐ 344 | 2026-10-07 | 8 |
 
 
 ---
@@ -52,22 +46,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [SteamRE/DepotDownloader](../repos/SteamRE/DepotDownloader.md) | ⭐ 3,462 | 2026-10-01 | Steam depot downloader utilizing the SteamKit2 library. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [SafeExamBrowser/seb-win-refactoring](../repos/SafeExamBrowser/seb-win-refactoring.md) | ⭐ 350 | 2026-10-02 | Safe Exam Browser for Windows. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [andrewmd5/Borderless-Gaming](../repos/andrewmd5/Borderless-Gaming.md) | ⭐ 6,602 | 2026-10-02 | Play your favorite games in a borderless window; no more time consuming alt-tabs.  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [open-telemetry/opentelemetry-dotnet](../repos/open-telemetry/opentelemetry-dotnet.md) | ⭐ 3,761 | 2026-10-02 | The OpenTelemetry .NET Client |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [mcp-servers-for-revit/mcp-servers-for-revit](../repos/mcp-servers-for-revit/mcp-servers-for-revit.md) | ⭐ 366 | 2026-10-07 | 🔥💧🤖 Sparx fork of the mcp-servers-for-revit&#x2F;revit-mcp project |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ggml-org/Llama-Windows](../repos/ggml-org/Llama-Windows.md) | ⭐ 234 | 2026-10-07 | Windows Llama App Companion |
+| [ggml-org/Llama-Windows](../repos/ggml-org/Llama-Windows.md) | ⭐ 344 | 2026-10-07 | Windows Llama App Companion |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [shaked6540/YoutubePlaylistDownloader](../repos/shaked6540/YoutubePlaylistDownloader.md) | ⭐ 3,146 | 2026-10-08 | A tool to download whole playlists, channels or single videos from youtube and also optionally co... |
@@ -80,6 +62,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [studyzy/imewlconverter](../repos/studyzy/imewlconverter.md) | ⭐ 10,488 | 2026-10-09 | ”深蓝词库转换“ 一款开源免费的输入法词库转换程序 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ss14Starlight/space-station-14](../repos/ss14Starlight/space-station-14.md) | ⭐ 132 | 2026-10-11 | An open source project aimed at creating unique mechanics and a pleasant game atmosphere in the g... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [dockersamples/example-voting-app](../repos/dockersamples/example-voting-app.md) | ⭐ 5,844 | 2026-10-11 | Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [nopSolutions/nopCommerce](../repos/nopSolutions/nopCommerce.md) | ⭐ 10,171 | 2026-10-13 | ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [SplitScreen-Me/splitscreenme-nucleus](../repos/SplitScreen-Me/splitscreenme-nucleus.md) | ⭐ 2,098 | 2026-10-13 | Nucleus Co-op is an application that starts multiple instances of a game for split-screen multipl... |
 
 
 ---
@@ -95,9 +89,9 @@
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 40,291 | 2026-08-14 | 6 |
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,965 | 2026-08-03 | 12 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,489 | 2026-08-01 | 20 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 33,217 | 2026-08-02 | 36 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 33,768 | 2026-08-02 | 37 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,757 | 2026-08-01 | 23 |
-| [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 32,100 | 2026-08-22 | 5 |
+| [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 32,177 | 2026-08-22 | 6 |
 | [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,082 | 2026-08-28 | 4 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
 | [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,711 | 2026-08-05 | 14 |
@@ -115,8 +109,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 37 | ⭐ 33,768 | 2026-08-02 | 2026-11-02 |
 | [dotnet/skills](../repos/dotnet/skills.md) | 37 | ⭐ 5,764 | 2026-08-03 | 2026-10-29 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 36 | ⭐ 33,217 | 2026-08-02 | 2026-10-28 |
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 32 | ⭐ 119,367 | 2026-08-02 | 2026-10-28 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 24 | ⭐ 58,750 | 2026-08-02 | 2026-10-28 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 24 | ⭐ 17,296 | 2026-08-02 | 2026-10-28 |
@@ -124,7 +118,7 @@
 | [dotnet/runtime](../repos/dotnet/runtime.md) | 21 | ⭐ 18,395 | 2026-08-04 | 2026-10-29 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 20 | ⭐ 3,804 | 2026-08-01 | 2026-10-28 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 20 | ⭐ 38,489 | 2026-08-01 | 2026-10-23 |
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | 20 | ⭐ 56,004 | 2026-08-06 | 2026-10-27 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 20 | ⭐ 14,830 | 2026-08-01 | 2026-11-02 |
 
 ---
 
@@ -233,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-10-29T21:01:54.832Z*
+*Last updated: 2026-11-02T21:51:25.390Z*

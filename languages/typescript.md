@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 297
+- **Total Repositories**: 300
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-16
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gitroomhq/postiz-app](../repos/gitroomhq/postiz-app.md) | ⭐ 40,100 | 2026-08-02 | 7 |
+| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 41,604 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CopilotKit/CopilotKit](../repos/CopilotKit/CopilotKit.md) | ⭐ 38,367 | 2026-08-07 | 3 |
+| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 110,330 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lfnovo/open-notebook](../repos/lfnovo/open-notebook.md) | ⭐ 40,913 | 2026-08-11 | 3 |
+| [vercel-labs/skills](../repos/vercel-labs/skills.md) | ⭐ 37,797 | 2026-08-10 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-code-action](../repos/anthropics/claude-code-action.md) | ⭐ 9,705 | 2026-08-29 | 3 |
+| [lfnovo/open-notebook](../repos/lfnovo/open-notebook.md) | ⭐ 41,389 | 2026-08-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [KeygraphHQ/shannon](../repos/KeygraphHQ/shannon.md) | ⭐ 50,378 | 2026-09-02 | 3 |
+| [koala73/worldmonitor](../repos/koala73/worldmonitor.md) | ⭐ 90,022 | 2026-08-28 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chthollyphile/folia-major](../repos/chthollyphile/folia-major.md) | ⭐ 10,204 | 2026-10-11 | 5 |
+| [Crosstalk-Solutions/project-nomad](../repos/Crosstalk-Solutions/project-nomad.md) | ⭐ 41,855 | 2026-09-14 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/playwright](../repos/microsoft/playwright.md) | ⭐ 98,817 | 2026-10-15 | 2 |
+| [vercel-labs/scriptc](../repos/vercel-labs/scriptc.md) | ⭐ 6,476 | 2026-09-27 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CopilotKit/OpenBot](../repos/CopilotKit/OpenBot.md) | ⭐ 8,031 | 2026-10-22 | 2 |
+| [CNCKitchen/ScanRuler](../repos/CNCKitchen/ScanRuler.md) | ⭐ 721 | 2026-11-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JetBrains/thinkrail](../repos/JetBrains/thinkrail.md) | ⭐ 5,934 | 2026-10-25 | 5 |
+| [cheaper-inference/OmniRoute](../repos/cheaper-inference/OmniRoute.md) | ⭐ 83,958 | 2026-11-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nightly-labs/openbot](../repos/nightly-labs/openbot.md) | ⭐ 3,806 | 2026-10-25 | 5 |
+| [kgoedecke/doop](../repos/kgoedecke/doop.md) | ⭐ 1,551 | 2026-11-02 | 1 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [pablostanley/yoinks](../repos/pablostanley/yoinks.md) | ⭐ 6,360 | 2026-10-01 | yoink any video from your terminal. no shady ads. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ag-ui-protocol/ag-ui](../repos/ag-ui-protocol/ag-ui.md) | ⭐ 16,207 | 2026-10-01 | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Effect-TS/effect](../repos/Effect-TS/effect.md) | ⭐ 16,783 | 2026-10-02 | Build production-ready applications in TypeScript |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mrifqidaffaaditya/WA-AKG](../repos/mrifqidaffaaditya/WA-AKG.md) | ⭐ 489 | 2026-10-02 | A self-hosted WhatsApp Gateway &amp; Dashboard built with Next.js 15, Baileys, and Prisma. Manage mul... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [hicccc77/WeFlow](../repos/hicccc77/WeFlow.md) | ⭐ 14,649 | 2026-10-02 | WeFlow - 一个本地的微信聊天记录导出和年度报告应用 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [LuxAlgo/Vela](../repos/LuxAlgo/Vela.md) | ⭐ 645 | 2026-10-02 | Fast and modern interactive financial charts with their own native renderer powered by WebGL2 or ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [getsentry/toolkit](../repos/getsentry/toolkit.md) | ⭐ 909 | 2026-10-03 | Agentic tooling for Sentry |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mattermost/mattermost](../repos/mattermost/mattermost.md) | ⭐ 39,252 | 2026-10-03 | Mattermost is an open source platform for secure collaboration across the entire software develop... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [minghinmatthewlam/pi-gui](../repos/minghinmatthewlam/pi-gui.md) | ⭐ 1,140 | 2026-10-03 | Electron GUI app for the pi coding agent runtime |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [tester-army/e2e](../repos/tester-army/e2e.md) | ⭐ 8,136 | 2026-10-06 | Next generation e2e testing framework for web and mobile apps. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [morluto/rea](../repos/morluto/rea.md) | ⭐ 289,610 | 2026-10-06 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [vercel/eve](../repos/vercel/eve.md) | ⭐ 5,483 | 2026-10-07 | The Open Framework for Building Agents |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [elder-plinius/G0DM0D3](../repos/elder-plinius/G0DM0D3.md) | ⭐ 11,550 | 2026-10-07 | LIBERATED AI CHAT |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Vincentwei1021/video-shotcraft](../repos/Vincentwei1021/video-shotcraft.md) | ⭐ 13,220 | 2026-10-08 | AI video skill for Claude Code &amp; Codex — cinematic product videos with Remotion: 152 shot recipe ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Gimanh/taskview-community](../repos/Gimanh/taskview-community.md) | ⭐ 1,273 | 2026-10-08 | TaskView is a self-hosted project and task management platform focused on clarity, ownership, and... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [thebuggeddev/anatomy](../repos/thebuggeddev/anatomy.md) | ⭐ 3,435 | 2026-10-08 | An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [DmNote-App/DmNote](../repos/DmNote-App/DmNote.md) | ⭐ 5,160 | 2026-10-08 | Make it yours. A customizable key viewer for DJMAX RESPECT V and any game. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [videojs/video.js](../repos/videojs/video.js.md) | ⭐ 39,912 | 2026-10-08 | Video.js v10 - open source media player framework for HTML and React. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [openai/codex-security](../repos/openai/codex-security.md) | ⭐ 11,032 | 2026-10-08 | OpenAI&#39;s Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulne... |
 
 
 ---
@@ -100,9 +100,9 @@
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | 2026-07-31 | 3 |
 | [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 116,129 | 2026-08-07 | 12 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 114,136 | 2026-08-17 | 3 |
+| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 110,330 | 2026-08-02 | 11 |
 | [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 108,379 | 2026-08-23 | 2 |
 | [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 103,697 | 2026-08-11 | 23 |
-| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 102,669 | 2026-08-02 | 10 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 100,995 | 2026-08-04 | 4 |
 | [microsoft/playwright](../repos/microsoft/playwright.md) | ⭐ 98,817 | 2026-10-15 | 2 |
 | [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 97,337 | 2026-08-04 | 3 |
@@ -121,7 +121,7 @@
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | 20 | ⭐ 152,634 | 2026-08-07 | 2026-10-20 |
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 20 | ⭐ 78,178 | 2026-08-10 | 2026-10-21 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 19 | ⭐ 41,516 | 2026-08-07 | 2026-10-25 |
-| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 16 | ⭐ 30,797 | 2026-08-01 | 2026-10-27 |
+| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 17 | ⭐ 41,604 | 2026-08-01 | 2026-11-02 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 16 | ⭐ 137,929 | 2026-08-02 | 2026-10-27 |
 | [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 14 | ⭐ 54,366 | 2026-08-01 | 2026-10-28 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 14 | ⭐ 34,200 | 2026-08-02 | 2026-10-03 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-29T21:01:54.950Z*
+*Last updated: 2026-11-02T21:51:25.499Z*

@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 304
+- **Total Repositories**: 306
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-10-12
+- **Last Updated**: 2026-11-02
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AgriciDaniel/claude-seo](../repos/AgriciDaniel/claude-seo.md) | ⭐ 23,932 | 2026-08-08 | 8 |
+| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 66,358 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vectorize-io/hindsight](../repos/vectorize-io/hindsight.md) | ⭐ 56,170 | 2026-08-09 | 7 |
+| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 495,481 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HKUDS/DeepTutor](../repos/HKUDS/DeepTutor.md) | ⭐ 49,792 | 2026-08-11 | 7 |
+| [shiyu-coder/Kronos](../repos/shiyu-coder/Kronos.md) | ⭐ 45,960 | 2026-08-03 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 143,895 | 2026-08-14 | 10 |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 145,456 | 2026-08-14 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [volcengine/OpenViking](../repos/volcengine/OpenViking.md) | ⭐ 41,141 | 2026-08-14 | 7 |
+| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 38,023 | 2026-08-29 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 37,099 | 2026-08-29 | 7 |
+| [derv82/wifit3](../repos/derv82/wifit3.md) | ⭐ 3,042 | 2026-09-25 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rlaope/oh-my-hermes](../repos/rlaope/oh-my-hermes.md) | ⭐ 4,771 | 2026-09-14 | 2 |
+| [mealie-recipes/mealie](../repos/mealie-recipes/mealie.md) | ⭐ 13,781 | 2026-09-28 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [baidu/Unlimited-OCR](../repos/baidu/Unlimited-OCR.md) | ⭐ 29,734 | 2026-10-13 | 4 |
+| [beenuar/AiSOC](../repos/beenuar/AiSOC.md) | ⭐ 6,658 | 2026-10-28 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [beenuar/AiSOC](../repos/beenuar/AiSOC.md) | ⭐ 5,119 | 2026-10-28 | 2 |
+| [FlashML-org/FreeToken](../repos/FlashML-org/FreeToken.md) | ⭐ 15,987 | 2026-11-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ansible/ansible](../repos/ansible/ansible.md) | ⭐ 71,155 | 2026-10-29 | 1 |
+| [karpathy/nanochat](../repos/karpathy/nanochat.md) | ⭐ 59,824 | 2026-11-02 | 1 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [tile-ai/tilelang](../repos/tile-ai/tilelang.md) | ⭐ 8,237 | 2026-10-01 |  Domain-specific language designed to streamline the development of high-performance GPU&#x2F;CPU&#x2F;Acce... |
+| [raullenchai/Rapid-MLX](../repos/raullenchai/Rapid-MLX.md) | ⭐ 3,915 | 2026-10-06 | Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server fo... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [HunxByts/GhostTrack](../repos/HunxByts/GhostTrack.md) | ⭐ 18,332 | 2026-10-01 | Useful tool to track location or mobile number |
+| [dortania/OpenCore-Legacy-Patcher](../repos/dortania/OpenCore-Legacy-Patcher.md) | ⭐ 18,473 | 2026-10-06 | Experience macOS just like before |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Friedrich-M/UniMate](../repos/Friedrich-M/UniMate.md) | ⭐ 2,011 | 2026-10-01 | [SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons |
+| [allenai/olmocr](../repos/allenai/olmocr.md) | ⭐ 19,723 | 2026-10-07 | Toolkit for linearizing PDFs for LLM datasets&#x2F;training |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ifixai-ai/iFixAi](../repos/ifixai-ai/iFixAi.md) | ⭐ 28,720 | 2026-10-01 | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial q... |
+| [MDX-Tom/gpt-instruct](../repos/MDX-Tom/gpt-instruct.md) | ⭐ 9,315 | 2026-10-07 | A Codex jailbreak prompt and test pack for gpt. 针对 gpt 系列的 Codex 破甲提示词与测试包。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [qbittorrent/search-plugins](../repos/qbittorrent/search-plugins.md) | ⭐ 7,079 | 2026-10-01 | Search plugins for qBittorrent search feature |
+| [abrignoni/ALEAPP](../repos/abrignoni/ALEAPP.md) | ⭐ 974 | 2026-10-08 | Android Logs Events And Protobuf Parser |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [getsentry/sentry](../repos/getsentry/sentry.md) | ⭐ 45,184 | 2026-10-02 | Developer-first error tracking and performance monitoring |
+| [IAmTomShaw/f1-race-replay](../repos/IAmTomShaw/f1-race-replay.md) | ⭐ 6,673 | 2026-10-08 | An interactive Formula 1 race visualisation and data analysis tool built with Python! 🏎️ |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [meituan-longcat/LongCat-Video](../repos/meituan-longcat/LongCat-Video.md) | ⭐ 8,710 | 2026-10-03 |  |
+| [Robbyant/lingbot-map](../repos/Robbyant/lingbot-map.md) | ⭐ 17,653 | 2026-10-09 | [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [datalab-to/chandra](../repos/datalab-to/chandra.md) | ⭐ 12,399 | 2026-10-03 | OCR model that handles complex tables, forms, handwriting with full layout. |
+| [Tencent-Hunyuan/Hy-MT2](../repos/Tencent-Hunyuan/Hy-MT2.md) | ⭐ 1,185 | 2026-10-09 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [agno-agi/agno](../repos/agno-agi/agno.md) | ⭐ 42,533 | 2026-10-03 | Build, run, and manage agent platforms. |
+| [headroomlabs-ai/headroom](../repos/headroomlabs-ai/headroom.md) | ⭐ 77,547 | 2026-10-09 | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens fo... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [modelcontextprotocol/python-sdk](../repos/modelcontextprotocol/python-sdk.md) | ⭐ 24,471 | 2026-10-03 | The official Python SDK for Model Context Protocol servers and clients |
+| [hiroi-sora/Umi-OCR](../repos/hiroi-sora/Umi-OCR.md) | ⭐ 47,729 | 2026-10-09 | OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏&#x2F;批量导入图片，PDF文档识别，排除水印&#x2F;页眉页脚，扫描&#x2F;生成二维码。内置多国语言库。 |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 487,953 | 2026-08-01 | 9 |
+| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 495,481 | 2026-08-01 | 10 |
 | [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 368,341 | 2026-08-03 | 6 |
 | [vinta/awesome-python](../repos/vinta/awesome-python.md) | ⭐ 319,105 | 2026-09-07 | 1 |
 | [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 285,114 | 2026-08-08 | 4 |
@@ -98,7 +98,7 @@
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,775 | 2026-08-06 | 9 |
 | [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 178,249 | 2026-08-11 | 8 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 167,557 | 2026-07-31 | 9 |
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 143,895 | 2026-08-14 | 10 |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 145,456 | 2026-08-14 | 11 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 143,038 | 2026-08-04 | 8 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 141,991 | 2026-08-05 | 13 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 133,846 | 2026-08-03 | 11 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-29T21:01:54.924Z*
+*Last updated: 2026-11-02T21:51:25.474Z*

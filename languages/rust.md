@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 229
+- **Total Repositories**: 231
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-28
 
@@ -16,58 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 5,780 | 2026-08-01 | 11 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 45,266 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 28,165 | 2026-08-01 | 16 |
+| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 9,984 | 2026-08-26 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 95,105 | 2026-08-05 | 28 |
+| [Nasiko-Labs/nasiko](../repos/Nasiko-Labs/nasiko.md) | ⭐ 11,535 | 2026-09-22 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 45,552 | 2026-08-05 | 11 |
+| [leepokai/Codync](../repos/leepokai/Codync.md) | ⭐ 1,727 | 2026-10-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 101,543 | 2026-08-09 | 21 |
+| [jub0t/Concat](../repos/jub0t/Concat.md) | ⭐ 13,802 | 2026-10-29 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [screenpipe/screenpipe](../repos/screenpipe/screenpipe.md) | ⭐ 22,159 | 2026-08-10 | 2 |
+| [vercel-labs/agent-desktop](../repos/vercel-labs/agent-desktop.md) | ⭐ 9,320 | 2026-11-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [macro-inc/macro](../repos/macro-inc/macro.md) | ⭐ 5,640 | 2026-08-11 | 9 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [magnitudedev/magnitude](../repos/magnitudedev/magnitude.md) | ⭐ 7,557 | 2026-08-20 | 12 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Mesh-LLM/mesh-llm](../repos/Mesh-LLM/mesh-llm.md) | ⭐ 3,635 | 2026-09-24 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [nyakang/nyaterm](../repos/nyakang/nyaterm.md) | ⭐ 2,095 | 2026-10-01 | 2 |
+| [Duecki1/CalibRaw](../repos/Duecki1/CalibRaw.md) | ⭐ 243 | 2026-11-02 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [nyakang/nyaterm](../repos/nyakang/nyaterm.md) | ⭐ 2,095 | 2026-10-01 | A modern remote terminal workspace |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [JayWebtech/autoshorts](../repos/JayWebtech/autoshorts.md) | ⭐ 1,338 | 2026-10-01 | AutoShorts is a local-first desktop application for turning long-form video or audio recordings i... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [EasyTier/EasyTier](../repos/EasyTier/EasyTier.md) | ⭐ 14,199 | 2026-10-01 | A simple, decentralized mesh VPN with WireGuard support. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [zerx-lab/FluxDown](../repos/zerx-lab/FluxDown.md) | ⭐ 3,362 | 2026-10-02 | Rust 驱动的多协议下载管理器，支持 HTTP&#x2F;FTP&#x2F;BitTorrent 磁力链接及 HLS&#x2F;DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [touchHLE/touchHLE](../repos/touchHLE/touchHLE.md) | ⭐ 3,958 | 2026-10-02 | High-level emulator for early iOS apps. This repo is used for issues, releases and CI. Submit pat... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [rubys/roundhouse](../repos/rubys/roundhouse.md) | ⭐ 481 | 2026-10-03 | Rails as a specification; the deployment target is a build flag |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [storytold/artcraft](../repos/storytold/artcraft.md) | ⭐ 27,737 | 2026-10-06 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
@@ -80,6 +53,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [xerj-org/xerj](../repos/xerj-org/xerj.md) | ⭐ 12,755 | 2026-10-07 | Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs,... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [tracel-ai/burn](../repos/tracel-ai/burn.md) | ⭐ 16,056 | 2026-10-08 | Burn is a next generation tensor library and Deep Learning Framework that doesn&#39;t compromise on f... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [yuxino/Mimi](../repos/yuxino/Mimi.md) | ⭐ 627 | 2026-10-08 | 把电脑或麦克风声音转成实时翻译字幕。Live translated subtitles from computer or microphone audio. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [BrandonKowalski/slot](../repos/BrandonKowalski/slot.md) | ⭐ 131 | 2026-10-11 | A bespoke, Game Boy-centric CFW for the RG SP. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [microsoft/litebox](../repos/microsoft/litebox.md) | ⭐ 3,122 | 2026-10-12 | A security-focused library OS supporting kernel- and user-mode execution |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [raphaelmansuy/edgequake](../repos/raphaelmansuy/edgequake.md) | ⭐ 2,236 | 2026-10-13 | EdegQuake 🌋 High-performance GraphRAG inspired from LightRag written in Rust; Transform document... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [vosen/ZLUDA](../repos/vosen/ZLUDA.md) | ⭐ 15,052 | 2026-10-14 | CUDA on non-NVIDIA GPUs |
 
 
 ---
@@ -106,7 +97,7 @@
 | [bevyengine/bevy](../repos/bevyengine/bevy.md) | ⭐ 48,449 | 2026-08-28 | 3 |
 | [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 46,418 | 2026-08-28 | 2 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 45,552 | 2026-08-05 | 11 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 44,774 | 2026-08-02 | 12 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 45,266 | 2026-08-02 | 13 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 42,354 | 2026-08-10 | 17 |
 
 ---
@@ -123,8 +114,8 @@
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 16 | ⭐ 28,165 | 2026-08-01 | 2026-10-29 |
 | [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | 16 | ⭐ 12,999 | 2026-08-17 | 2026-10-23 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 15 | ⭐ 30,895 | 2026-08-03 | 2026-10-26 |
-| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 14 | ⭐ 9,424 | 2026-08-26 | 2026-10-23 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 12 | ⭐ 44,774 | 2026-08-02 | 2026-10-28 |
+| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 15 | ⭐ 9,984 | 2026-08-26 | 2026-11-02 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 13 | ⭐ 45,266 | 2026-08-02 | 2026-11-02 |
 
 ---
 
@@ -233,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-10-29T21:01:54.935Z*
+*Last updated: 2026-11-02T21:51:25.486Z*

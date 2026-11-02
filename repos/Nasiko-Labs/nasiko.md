@@ -1,6 +1,6 @@
 # Nasiko-Labs&#x2F;nasiko
 
-> Developer Control Plane for your AI Agents
+> The Open Runtime for AI Agents
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;Nasiko-Labs&#x2F;nasiko) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | Other |
-| **Stars** | ⭐ 8,872 |
-| **Forks** | 🍴 1,938 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 11,535 |
+| **Forks** | 🍴 3,069 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 22, 2026 |
-| **Last Seen** | Sep 24, 2026 |
+| **Last Seen** | Nov 2, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 1 days
 
 ---
@@ -69,10 +69,10 @@
 | Aspect | Rating | Details |
 |--------|--------|---------|
 | **Difficulty** | Advanced | Requires systems programming knowledge |
-| **Documentation** | Limited | May require reading source code |
+| **Documentation** | Average | Basic documentation available |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 35&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-29T21:02:00.762Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-11-02T21:51:31.329Z*  
+*Data from 3 trending reports*

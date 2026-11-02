@@ -16,10 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,072 | 2026-08-01 | 42 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | ⭐ 16,594 | 2026-08-09 | 12 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,074 | 2026-08-01 | 43 |
 
 
 ---
@@ -40,7 +37,7 @@
 | [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,606 | 2026-08-01 | 28 |
 | [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,837 | 2026-08-01 | 14 |
 | [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | ⭐ 16,594 | 2026-08-09 | 12 |
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,072 | 2026-08-01 | 42 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,074 | 2026-08-01 | 43 |
 | [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,161 | 2026-08-06 | 13 |
 | [taigaio/taiga-front](../repos/taigaio/taiga-front.md) | ⭐ 385 | 2026-10-13 | 2 |
 
@@ -50,7 +47,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | 42 | ⭐ 16,072 | 2026-08-01 | 2026-10-29 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | 43 | ⭐ 16,074 | 2026-08-01 | 2026-11-02 |
 | [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | 28 | ⭐ 22,606 | 2026-08-01 | 2026-10-23 |
 | [mojs/mojs](../repos/mojs/mojs.md) | 14 | ⭐ 18,837 | 2026-08-01 | 2026-10-27 |
 | [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | 13 | ⭐ 1,161 | 2026-08-06 | 2026-10-25 |
@@ -70,4 +67,4 @@
 
 ---
 
-*Last updated: 2026-10-29T21:01:54.844Z*
+*Last updated: 2026-11-02T21:51:25.401Z*

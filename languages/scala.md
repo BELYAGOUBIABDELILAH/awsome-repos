@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 71
+- **Total Repositories**: 72
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-29
+- **Last Updated**: 2026-11-02
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 9,063 | 2026-08-01 | 60 |
+| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,993 | 2026-08-01 | 57 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/cudf-spark](../repos/NVIDIA/cudf-spark.md) | ⭐ 1,012 | 2026-08-01 | 46 |
+| [canton-network/splice](../repos/canton-network/splice.md) | ⭐ 122 | 2026-08-01 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/gluten](../repos/apache/gluten.md) | ⭐ 1,613 | 2026-08-01 | 57 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,390 | 2026-08-01 | 74 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,283 | 2026-08-01 | 32 |
+| [guardian/grid](../repos/guardian/grid.md) | ⭐ 1,460 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,993 | 2026-08-01 | 56 |
+| [scala/scala](../repos/scala/scala.md) | ⭐ 14,535 | 2026-08-01 | 42 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,355 | 2026-08-01 | 56 |
+| [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,938 | 2026-08-02 | 63 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [canton-network/splice](../repos/canton-network/splice.md) | ⭐ 120 | 2026-08-01 | 32 |
+| [apache/datafusion-comet](../repos/apache/datafusion-comet.md) | ⭐ 1,311 | 2026-08-02 | 52 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,360 | 2026-08-01 | 73 |
+| [zio/zio](../repos/zio/zio.md) | ⭐ 4,434 | 2026-08-02 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [scala/scala](../repos/scala/scala.md) | ⭐ 14,532 | 2026-08-01 | 41 |
+| [OpenXiangShan/XiangShanLab](../repos/OpenXiangShan/XiangShanLab.md) | ⭐ 61 | 2026-09-08 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MightyPirates/OpenComputers](../repos/MightyPirates/OpenComputers.md) | ⭐ 1,742 | 2026-08-01 | 32 |
+| [scala-native/scala-native](../repos/scala-native/scala-native.md) | ⭐ 4,706 | 2026-11-02 | 1 |
 
 
 ---
@@ -77,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [apache/pekko](../repos/apache/pekko.md) | ⭐ 1,661 | 2026-10-29 | Build highly concurrent, distributed, and resilient message-driven applications using Java&#x2F;Scala |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [scala-native/scala-native](../repos/scala-native/scala-native.md) | ⭐ 4,706 | 2026-11-02 | Your favorite language gets closer to bare metal. |
 
 
 ---
@@ -85,10 +88,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,993 | 2026-08-01 | 56 |
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,360 | 2026-08-01 | 73 |
-| [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,923 | 2026-08-02 | 62 |
-| [scala/scala](../repos/scala/scala.md) | ⭐ 14,532 | 2026-08-01 | 41 |
+| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,993 | 2026-08-01 | 57 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,390 | 2026-08-01 | 74 |
+| [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,938 | 2026-08-02 | 63 |
+| [scala/scala](../repos/scala/scala.md) | ⭐ 14,535 | 2026-08-01 | 42 |
 | [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,283 | 2026-08-01 | 32 |
 | [apache/predictionio](../repos/apache/predictionio.md) | ⭐ 12,518 | 2026-09-02 | 13 |
 | [yahoo/CMAK](../repos/yahoo/CMAK.md) | ⭐ 11,918 | 2026-09-07 | 2 |
@@ -112,14 +115,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [apache/spark](../repos/apache/spark.md) | 73 | ⭐ 44,360 | 2026-08-01 | 2026-10-29 |
-| [lichess-org/lila](../repos/lichess-org/lila.md) | 62 | ⭐ 18,923 | 2026-08-02 | 2026-10-29 |
+| [apache/spark](../repos/apache/spark.md) | 74 | ⭐ 44,390 | 2026-08-01 | 2026-11-02 |
+| [lichess-org/lila](../repos/lichess-org/lila.md) | 63 | ⭐ 18,938 | 2026-08-02 | 2026-11-02 |
 | [joernio/joern](../repos/joernio/joern.md) | 61 | ⭐ 3,604 | 2026-08-01 | 2026-10-27 |
 | [delta-io/delta](../repos/delta-io/delta.md) | 60 | ⭐ 9,063 | 2026-08-01 | 2026-10-29 |
 | [apache/gluten](../repos/apache/gluten.md) | 57 | ⭐ 1,613 | 2026-08-01 | 2026-10-29 |
-| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | 56 | ⭐ 73,993 | 2026-08-01 | 2026-10-29 |
+| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | 57 | ⭐ 73,993 | 2026-08-01 | 2026-11-02 |
 | [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | 56 | ⭐ 7,355 | 2026-08-01 | 2026-10-29 |
-| [apache/datafusion-comet](../repos/apache/datafusion-comet.md) | 51 | ⭐ 1,306 | 2026-08-02 | 2026-10-29 |
+| [apache/datafusion-comet](../repos/apache/datafusion-comet.md) | 52 | ⭐ 1,311 | 2026-08-02 | 2026-11-02 |
 | [NVIDIA/cudf-spark](../repos/NVIDIA/cudf-spark.md) | 46 | ⭐ 1,012 | 2026-08-01 | 2026-10-29 |
 | [gatling/gatling](../repos/gatling/gatling.md) | 43 | ⭐ 6,955 | 2026-08-01 | 2026-10-26 |
 
@@ -198,7 +201,8 @@
 - [UdashFramework/udash-core](../repos/UdashFramework/udash-core.md) - Scala framework for building beautiful and maintainable web applications.
 - [ShiftLeftSecurity/codepropertygraph](../repos/ShiftLeftSecurity/codepropertygraph.md) - Code Property Graph: specification, query language, and utilities
 - [apache/pekko](../repos/apache/pekko.md) - Build highly concurrent, distributed, and resilient message-driven applications using Java&#x2F;Scala
+- [scala-native/scala-native](../repos/scala-native/scala-native.md) - Your favorite language gets closer to bare metal.
 
 ---
 
-*Last updated: 2026-10-29T21:01:54.937Z*
+*Last updated: 2026-11-02T21:51:25.488Z*

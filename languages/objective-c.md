@@ -16,43 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,853 | 2026-08-01 | 31 |
+| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,870 | 2026-08-01 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/promises](../repos/google/promises.md) | ⭐ 3,829 | 2026-08-01 | 49 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,505 | 2026-08-02 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 136 | 2026-08-01 | 51 |
+| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 765 | 2026-08-02 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 60 | 2026-08-01 | 51 |
+| [iodefog/VipVideo](../repos/iodefog/VipVideo.md) | ⭐ 6,096 | 2026-08-02 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 291 | 2026-08-01 | 50 |
+| [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | ⭐ 539 | 2026-08-02 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | ⭐ 5,064 | 2026-08-01 | 29 |
+| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,275 | 2026-08-02 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,613 | 2026-08-01 | 51 |
+| [AzureAD/microsoft-authentication-library-common-for-objc](../repos/AzureAD/microsoft-authentication-library-common-for-objc.md) | ⭐ 66 | 2026-08-07 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [danveloper/flash-moe](../repos/danveloper/flash-moe.md) | ⭐ 4,441 | 2026-08-03 | 12 |
+| [pilotmoon/Scroll-Reverser](../repos/pilotmoon/Scroll-Reverser.md) | ⭐ 3,690 | 2026-09-20 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,600 | 2026-08-04 | 34 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | ⭐ 4,504 | 2026-08-05 | 35 |
+| [nfzerox/VirtualMacOniPad](../repos/nfzerox/VirtualMacOniPad.md) | ⭐ 1,999 | 2026-10-03 | 6 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [nfzerox/VirtualMacOniPad](../repos/nfzerox/VirtualMacOniPad.md) | ⭐ 1,934 | 2026-10-03 | People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [orionblur/NeoFreeBird](../repos/orionblur/NeoFreeBird.md) | ⭐ 521 | 2026-10-06 | A tweak for Twitter that reverts branding to pre-2023, blocks ads, unlocks Twitter Blue features,... |
@@ -76,7 +70,7 @@
 | [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | 1 |
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,371 | 2026-08-02 | 7 |
 | [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,613 | 2026-08-01 | 51 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,443 | 2026-08-02 | 32 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,505 | 2026-08-02 | 33 |
 | [SnapKit/Masonry](../repos/SnapKit/Masonry.md) | ⭐ 18,130 | 2026-09-02 | 1 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,600 | 2026-08-04 | 34 |
 | [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,328 | 2026-08-04 | 19 |
@@ -109,7 +103,7 @@
 | [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | 35 | ⭐ 4,504 | 2026-08-05 | 2026-10-29 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | 34 | ⭐ 16,600 | 2026-08-04 | 2026-10-29 |
 | [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 34 | ⭐ 676 | 2026-08-04 | 2026-10-28 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 32 | ⭐ 22,443 | 2026-08-02 | 2026-10-26 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 33 | ⭐ 22,505 | 2026-08-02 | 2026-11-02 |
 
 ---
 
@@ -218,4 +212,4 @@
 
 ---
 
-*Last updated: 2026-10-29T21:01:54.913Z*
+*Last updated: 2026-11-02T21:51:25.462Z*

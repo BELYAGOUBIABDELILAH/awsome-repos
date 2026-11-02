@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 178
+- **Total Repositories**: 180
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-29
 
@@ -16,40 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,968 | 2026-08-04 | 3 |
+| [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,980 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [react/react](../repos/react/react.md) | ⭐ 251,735 | 2026-08-04 | 5 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 112,798 | 2026-08-05 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 111,716 | 2026-08-05 | 33 |
+| [Orkas-AI/Orkas](../repos/Orkas-AI/Orkas.md) | ⭐ 7,701 | 2026-11-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/power-platform-skills](../repos/microsoft/power-platform-skills.md) | ⭐ 1,080 | 2026-08-07 | 10 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 47,930 | 2026-08-08 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | ⭐ 36,212 | 2026-08-16 | 13 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [YuJunZhiXue/dsh-purge](../repos/YuJunZhiXue/dsh-purge.md) | ⭐ 13,038 | 2026-10-19 | 4 |
+| [DeanChensj/jiangshan-map](../repos/DeanChensj/jiangshan-map.md) | ⭐ 3,512 | 2026-11-02 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [WesselKroos/youtube-ambilight](../repos/WesselKroos/youtube-ambilight.md) | ⭐ 294 | 2026-10-01 | This browser extension adds ambient light to YouTube videos |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [libnoname/noname](../repos/libnoname/noname.md) | ⭐ 5,083 | 2026-10-02 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [tabler/tabler-icons](../repos/tabler/tabler-icons.md) | ⭐ 22,093 | 2026-10-02 | A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Joooook/12306-mcp](../repos/Joooook/12306-mcp.md) | ⭐ 2,289 | 2026-10-06 | This is a 12306 ticket search server based on the Model Context Protocol (MCP). |
@@ -71,6 +53,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [songquanpeng/one-api](../repos/songquanpeng/one-api.md) | ⭐ 37,105 | 2026-10-09 | LLM API 管理 &amp; 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [MagicMirrorOrg/MagicMirror](../repos/MagicMirrorOrg/MagicMirror.md) | ⭐ 24,088 | 2026-10-11 | MagicMirror² is an open source modular smart mirror platform. With a growing list of installable ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [poloclub/transformer-explainer](../repos/poloclub/transformer-explainer.md) | ⭐ 8,958 | 2026-10-12 | Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [JoeanAmier/TikTokDownloader](../repos/JoeanAmier/TikTokDownloader.md) | ⭐ 16,745 | 2026-10-12 | 抖音 &#x2F; TikTok 平台作品下载&#x2F;数据采集工具 |
 
 
 ---
@@ -84,7 +75,7 @@
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 158,907 | 2026-08-06 | 4 |
 | [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | 2 |
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,211 | 2026-07-30 | 13 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 111,716 | 2026-08-05 | 33 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 112,798 | 2026-08-05 | 34 |
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,607 | 2026-08-06 | 3 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
@@ -92,7 +83,7 @@
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 77,000 | 2026-08-09 | 2 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,592 | 2026-08-04 | 3 |
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 69,556 | 2026-08-01 | 19 |
-| [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,968 | 2026-08-04 | 3 |
+| [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,980 | 2026-08-04 | 4 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,346 | 2026-08-11 | 4 |
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 60,381 | 2026-08-27 | 14 |
 | [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 59,798 | 2026-10-14 | 1 |
@@ -106,7 +97,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 33 | ⭐ 111,716 | 2026-08-05 | 2026-10-29 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 34 | ⭐ 112,798 | 2026-08-05 | 2026-11-02 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 22 | ⭐ 90,383 | 2026-08-04 | 2026-10-27 |
 | [byoungd/up](../repos/byoungd/up.md) | 19 | ⭐ 69,556 | 2026-08-01 | 2026-10-27 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
@@ -224,4 +215,4 @@
 
 ---
 
-*Last updated: 2026-10-29T21:01:54.889Z*
+*Last updated: 2026-11-02T21:51:25.439Z*

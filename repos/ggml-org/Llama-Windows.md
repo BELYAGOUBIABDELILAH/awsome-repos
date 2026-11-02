@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C# |
 | **License** | MIT |
-| **Stars** | ⭐ 234 |
-| **Forks** | 🍴 25 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 344 |
+| **Forks** | 🍴 40 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 7, 2026 |
-| **Last Seen** | Oct 18, 2026 |
+| **Last Seen** | Nov 2, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in C# or similar-topics*
+*Similar: Check repositories in C# or artificial-intelligence*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 5 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-
+[`artificial-intelligence`](../../topics/artificial-intelligence.md) [`llama`](../../topics/llama.md) [`llama-cpp`](../../topics/llama-cpp.md) [`llama-server`](../../topics/llama-server.md) [`local-ai`](../../topics/local-ai.md) [`local-llm`](../../topics/local-llm.md) [`windows`](../../topics/windows.md) 
 
 ### Curated Categories
-`General` 
+`Artificial Intelligence` `Large Language Models` `Backend Development` `Systems Programming` 
 
 ---
 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-29T21:02:01.114Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-11-02T21:51:31.653Z*  
+*Data from 8 trending reports*

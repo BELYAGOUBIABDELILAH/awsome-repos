@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 220
+- **Total Repositories**: 221
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-28
 
@@ -16,52 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/copilot-sdk](../repos/github/copilot-sdk.md) | ⭐ 10,613 | 2026-08-01 | 11 |
+| [debezium/debezium](../repos/debezium/debezium.md) | ⭐ 13,307 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,384 | 2026-08-01 | 15 |
+| [LiteLDev/LeviLaunchroid](../repos/LiteLDev/LeviLaunchroid.md) | ⭐ 671 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,932 | 2026-08-01 | 15 |
+| [RikkaApps/Shizuku-API](../repos/RikkaApps/Shizuku-API.md) | ⭐ 2,733 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 95,821 | 2026-08-03 | 28 |
+| [adityatandon15/Low-Level-Design-Course](../repos/adityatandon15/Low-Level-Design-Course.md) | ⭐ 1,422 | 2026-08-03 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 6,181 | 2026-08-05 | 29 |
+| [microg/GmsCore](../repos/microg/GmsCore.md) | ⭐ 15,171 | 2026-08-06 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [neo4j/neo4j](../repos/neo4j/neo4j.md) | ⭐ 17,377 | 2026-08-05 | 5 |
+| [ReChronoRain/HyperCeiler](../repos/ReChronoRain/HyperCeiler.md) | ⭐ 5,637 | 2026-08-10 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [StarRocks/starrocks](../repos/StarRocks/starrocks.md) | ⭐ 12,217 | 2026-08-05 | 13 |
+| [FCL-Team/FoldCraftLauncher](../repos/FCL-Team/FoldCraftLauncher.md) | ⭐ 5,127 | 2026-08-17 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,300 | 2026-08-08 | 11 |
+| [Keeperorowner/NagramXF](../repos/Keeperorowner/NagramXF.md) | ⭐ 1,090 | 2026-08-24 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | ⭐ 7,345 | 2026-08-14 | 19 |
+| [JetBrains/intellij-community](../repos/JetBrains/intellij-community.md) | ⭐ 20,702 | 2026-08-25 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/dolphinscheduler](../repos/apache/dolphinscheduler.md) | ⭐ 14,539 | 2026-08-15 | 4 |
+| [AndroidCSOfficial/android-code-studio](../repos/AndroidCSOfficial/android-code-studio.md) | ⭐ 1,388 | 2026-09-28 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Azure/azure-sdk-for-java](../repos/Azure/azure-sdk-for-java.md) | ⭐ 2,563 | 2026-10-01 | This repository is for active development of the Azure SDK for Java. For consumers of the SDK we ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [aleixrodriala/newtube](../repos/aleixrodriala/newtube.md) | ⭐ 286 | 2026-10-03 | SmartTube for phones, unofficial: an open-source YouTube client for Android. Background play, PiP... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [bisq-network/bisq](../repos/bisq-network/bisq.md) | ⭐ 5,139 | 2026-10-03 | A decentralized bitcoin exchange network |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [besu-eth/besu](../repos/besu-eth/besu.md) | ⭐ 1,846 | 2026-10-03 | An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client https:&#x2F;&#x2F;github.com&#x2F;besu-eth&#x2F;b... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [lishuangqiang/AI-Meeting](../repos/lishuangqiang/AI-Meeting.md) | ⭐ 1,056 | 2026-10-06 | 基于 Spring Boot 3 + Java 17 + Spring AI + MySQL + MongoDB + Redis + SSE&#x2F;WebSocket，实现 AI 对话、智能体会话、A... |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Leclowndu93150/Thaumaturge](../repos/Leclowndu93150/Thaumaturge.md) | ⭐ 126 | 2026-10-09 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [apache/calcite](../repos/apache/calcite.md) | ⭐ 5,193 | 2026-10-13 | Apache Calcite |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [apache/shenyu](../repos/apache/shenyu.md) | ⭐ 8,891 | 2026-10-18 | Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governa... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [MewX/light-novel-library_Wenku8_Android](../repos/MewX/light-novel-library_Wenku8_Android.md) | ⭐ 3,338 | 2026-10-19 | [CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [apache/nifi](../repos/apache/nifi.md) | ⭐ 6,273 | 2026-10-23 | Apache NiFi |
 
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-29T21:01:54.886Z*
+*Last updated: 2026-11-02T21:51:25.436Z*

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T21:02:02.110Z",
+  "generated_at": "2026-11-02T21:51:32.662Z",
   "total_count": 100,
   "repositories": [
     {
@@ -992,19 +992,6 @@
     },
     {
       "rank": 77,
-      "full_name": "beenuar/AiSOC",
-      "owner": "beenuar",
-      "name": "AiSOC",
-      "stars": 5119,
-      "estimated_initial_stars": 5019,
-      "growth": 100,
-      "growth_rate": 100,
-      "language": "Python",
-      "first_seen": "2026-10-28",
-      "trending_days": 2
-    },
-    {
-      "rank": 78,
       "full_name": "lightvector/KataGo",
       "owner": "lightvector",
       "name": "KataGo",
@@ -1017,7 +1004,7 @@
       "trending_days": 2
     },
     {
-      "rank": 79,
+      "rank": 78,
       "full_name": "blackcandy-org/blackcandy",
       "owner": "blackcandy-org",
       "name": "blackcandy",
@@ -1030,7 +1017,7 @@
       "trending_days": 2
     },
     {
-      "rank": 80,
+      "rank": 79,
       "full_name": "cloudflare/mcp-server-cloudflare",
       "owner": "cloudflare",
       "name": "mcp-server-cloudflare",
@@ -1043,7 +1030,7 @@
       "trending_days": 2
     },
     {
-      "rank": 81,
+      "rank": 80,
       "full_name": "folke/flash.nvim",
       "owner": "folke",
       "name": "flash.nvim",
@@ -1056,7 +1043,7 @@
       "trending_days": 2
     },
     {
-      "rank": 82,
+      "rank": 81,
       "full_name": "rhysd/actionlint",
       "owner": "rhysd",
       "name": "actionlint",
@@ -1069,7 +1056,7 @@
       "trending_days": 2
     },
     {
-      "rank": 83,
+      "rank": 82,
       "full_name": "microsoft/AI-Engineering-Coach",
       "owner": "microsoft",
       "name": "AI-Engineering-Coach",
@@ -1082,7 +1069,7 @@
       "trending_days": 2
     },
     {
-      "rank": 84,
+      "rank": 83,
       "full_name": "f4exb/sdrangel",
       "owner": "f4exb",
       "name": "sdrangel",
@@ -1095,7 +1082,7 @@
       "trending_days": 2
     },
     {
-      "rank": 85,
+      "rank": 84,
       "full_name": "redlib-org/redlib",
       "owner": "redlib-org",
       "name": "redlib",
@@ -1108,7 +1095,7 @@
       "trending_days": 2
     },
     {
-      "rank": 86,
+      "rank": 85,
       "full_name": "ZiggyCreatures/FusionCache",
       "owner": "ZiggyCreatures",
       "name": "FusionCache",
@@ -1121,7 +1108,7 @@
       "trending_days": 2
     },
     {
-      "rank": 87,
+      "rank": 86,
       "full_name": "jwt/ruby-jwt",
       "owner": "jwt",
       "name": "ruby-jwt",
@@ -1134,7 +1121,7 @@
       "trending_days": 2
     },
     {
-      "rank": 88,
+      "rank": 87,
       "full_name": "CopilotC-Nvim/CopilotChat.nvim",
       "owner": "CopilotC-Nvim",
       "name": "CopilotChat.nvim",
@@ -1147,7 +1134,7 @@
       "trending_days": 2
     },
     {
-      "rank": 89,
+      "rank": 88,
       "full_name": "tutti-os/tutti",
       "owner": "tutti-os",
       "name": "tutti",
@@ -1160,7 +1147,7 @@
       "trending_days": 2
     },
     {
-      "rank": 90,
+      "rank": 89,
       "full_name": "AIDotNet/OpenDeepWiki",
       "owner": "AIDotNet",
       "name": "OpenDeepWiki",
@@ -1173,7 +1160,7 @@
       "trending_days": 2
     },
     {
-      "rank": 91,
+      "rank": 90,
       "full_name": "bowenliang123/dsh-context",
       "owner": "bowenliang123",
       "name": "dsh-context",
@@ -1186,7 +1173,7 @@
       "trending_days": 2
     },
     {
-      "rank": 92,
+      "rank": 91,
       "full_name": "GhostenEditor/Ghosten-Player",
       "owner": "GhostenEditor",
       "name": "Ghosten-Player",
@@ -1199,7 +1186,7 @@
       "trending_days": 2
     },
     {
-      "rank": 93,
+      "rank": 92,
       "full_name": "ghc/ghc",
       "owner": "ghc",
       "name": "ghc",
@@ -1212,7 +1199,7 @@
       "trending_days": 2
     },
     {
-      "rank": 94,
+      "rank": 93,
       "full_name": "jordan-gibbs/hyperresearch",
       "owner": "jordan-gibbs",
       "name": "hyperresearch",
@@ -1225,7 +1212,7 @@
       "trending_days": 2
     },
     {
-      "rank": 95,
+      "rank": 94,
       "full_name": "Jakubantalik/thinking-orbs",
       "owner": "Jakubantalik",
       "name": "thinking-orbs",
@@ -1238,7 +1225,7 @@
       "trending_days": 2
     },
     {
-      "rank": 96,
+      "rank": 95,
       "full_name": "SegFault42/HeliosGen",
       "owner": "SegFault42",
       "name": "HeliosGen",
@@ -1251,7 +1238,7 @@
       "trending_days": 2
     },
     {
-      "rank": 97,
+      "rank": 96,
       "full_name": "cs341-illinois/coursebook",
       "owner": "cs341-illinois",
       "name": "coursebook",
@@ -1264,7 +1251,7 @@
       "trending_days": 2
     },
     {
-      "rank": 98,
+      "rank": 97,
       "full_name": "WecomTeam/wecom-cli",
       "owner": "WecomTeam",
       "name": "wecom-cli",
@@ -1277,7 +1264,7 @@
       "trending_days": 2
     },
     {
-      "rank": 99,
+      "rank": 98,
       "full_name": "GCWing/OpenBitFun",
       "owner": "GCWing",
       "name": "OpenBitFun",
@@ -1290,7 +1277,7 @@
       "trending_days": 2
     },
     {
-      "rank": 100,
+      "rank": 99,
       "full_name": "rafamadriz/friendly-snippets",
       "owner": "rafamadriz",
       "name": "friendly-snippets",
@@ -1300,6 +1287,19 @@
       "growth_rate": 100,
       "language": "Lua",
       "first_seen": "2026-09-09",
+      "trending_days": 2
+    },
+    {
+      "rank": 100,
+      "full_name": "authpass/authpass",
+      "owner": "authpass",
+      "name": "authpass",
+      "stars": 2750,
+      "estimated_initial_stars": 2650,
+      "growth": 100,
+      "growth_rate": 100,
+      "language": "Dart",
+      "first_seen": "2026-08-03",
       "trending_days": 2
     }
   ]

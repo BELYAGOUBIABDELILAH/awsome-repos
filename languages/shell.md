@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 149
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-23
+- **Last Updated**: 2026-11-02
 
 ---
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,706 | 2026-08-01 | 44 |
+| [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | ⭐ 10,250 | 2026-08-03 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openshift/release](../repos/openshift/release.md) | ⭐ 330 | 2026-08-04 | 8 |
+| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,968 | 2026-08-07 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,756 | 2026-08-04 | 10 |
+| [d3/d3](../repos/d3/d3.md) | ⭐ 113,858 | 2026-08-07 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,309 | 2026-08-04 | 23 |
+| [RROrg/rr](../repos/RROrg/rr.md) | ⭐ 8,743 | 2026-08-08 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 26,341 | 2026-08-04 | 13 |
+| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | ⭐ 3,559 | 2026-08-19 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 3,754 | 2026-08-07 | 36 |
+| [ophub/amlogic-s9xxx-openwrt](../repos/ophub/amlogic-s9xxx-openwrt.md) | ⭐ 3,074 | 2026-08-22 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [assafdori/bypass-mdm](../repos/assafdori/bypass-mdm.md) | ⭐ 2,540 | 2026-08-08 | 10 |
+| [bivlked/amneziawg-installer](../repos/bivlked/amneziawg-installer.md) | ⭐ 1,456 | 2026-08-25 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,866 | 2026-08-20 | 13 |
+| [WhatsApp/proxy](../repos/WhatsApp/proxy.md) | ⭐ 2,405 | 2026-09-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,602 | 2026-08-20 | 13 |
+| [CachyOS/linux-cachyos](../repos/CachyOS/linux-cachyos.md) | ⭐ 4,771 | 2026-09-14 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 45,909 | 2026-08-29 | 11 |
+| [EpicGames/unreal-engine-skills-for-claude-code-plugin](../repos/EpicGames/unreal-engine-skills-for-claude-code-plugin.md) | ⭐ 1,872 | 2026-10-11 | 6 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [AppImage/appimage.github.io](../repos/AppImage/appimage.github.io.md) | ⭐ 411 | 2026-10-01 | Given an URL to an AppImage, the GitHub action in this project inspects the AppImage and puts it ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [liuzq2002/Adguard-Home-For-Magisk-Mod](../repos/liuzq2002/Adguard-Home-For-Magisk-Mod.md) | ⭐ 1,601 | 2026-10-01 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [caido/caido](../repos/caido/caido.md) | ⭐ 2,658 | 2026-10-06 | 🚀 Caido releases, wiki and roadmap |
@@ -70,7 +64,7 @@
 | [conda-forge/miniforge](../repos/conda-forge/miniforge.md) | ⭐ 10,253 | 2026-10-09 | A conda-forge distribution. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [EpicGames/unreal-engine-skills-for-claude-code-plugin](../repos/EpicGames/unreal-engine-skills-for-claude-code-plugin.md) | ⭐ 1,547 | 2026-10-11 |  |
+| [EpicGames/unreal-engine-skills-for-claude-code-plugin](../repos/EpicGames/unreal-engine-skills-for-claude-code-plugin.md) | ⭐ 1,872 | 2026-10-11 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [sailor-sh/CK-X](../repos/sailor-sh/CK-X.md) | ⭐ 1,226 | 2026-10-12 | A mock exams for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configure... |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nelvko/clashctl](../repos/nelvko/clashctl.md) | ⭐ 15,015 | 2026-10-15 | 😼 优雅地使用基于 clash&#x2F;mihomo 的代理环境 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [winapps-org/winapps](../repos/winapps-org/winapps.md) | ⭐ 16,088 | 2026-10-16 |  Run Windows apps such as Microsoft Office&#x2F;Adobe in Linux (Ubuntu&#x2F;Fedora) and GNOME&#x2F;KDE as if the... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [IceWhaleTech/ZimaOS](../repos/IceWhaleTech/ZimaOS.md) | ⭐ 3,047 | 2026-10-16 | A Simplified, Focused and Open NAS OS_ |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [d3/d3](../repos/d3/d3.md) | ⭐ 113,793 | 2026-08-07 | 3 |
+| [d3/d3](../repos/d3/d3.md) | ⭐ 113,858 | 2026-08-07 | 4 |
 | [papers-we-love/papers-we-love](../repos/papers-we-love/papers-we-love.md) | ⭐ 110,960 | 2026-10-27 | 1 |
 | [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,706 | 2026-08-01 | 44 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,756 | 2026-08-04 | 10 |
@@ -124,7 +124,7 @@
 | [dockur/windows](../repos/dockur/windows.md) | 15 | ⭐ 53,702 | 2026-08-06 | 2026-10-27 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | 13 | ⭐ 47,855 | 2026-08-04 | 2026-10-21 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | 13 | ⭐ 26,341 | 2026-08-04 | 2026-10-29 |
-| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | 13 | ⭐ 33,866 | 2026-08-20 | 2026-10-29 |
+| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | 13 | ⭐ 10,968 | 2026-08-07 | 2026-11-02 |
 
 ---
 
@@ -213,7 +213,7 @@
 - [ophub/fnnas](../repos/ophub/fnnas.md) - Supports running FnNAS on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3,...
 - [CISOfy/lynis](../repos/CISOfy/lynis.md) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance ...
 - [bioconda/bioconda-recipes](../repos/bioconda/bioconda-recipes.md) - Conda recipes for the bioconda channel.
-- [bivlked/amneziawg-installer](../repos/bivlked/amneziawg-installer.md) - One-command AmneziaWG 2.0 &#x2F; 3.x installer for a self-hosted VPN server on Ubuntu and Debian: DPI ...
+- [bivlked/amneziawg-installer](../repos/bivlked/amneziawg-installer.md) - Install your own AmneziaWG 3.1 VPN server on a fresh Ubuntu or Debian VPS with one command. Made ...
 - [lewagon/dotfiles](../repos/lewagon/dotfiles.md) - Default configuration for Le Wagon&#39;s students
 - [laude-institute/headlong](../repos/laude-institute/headlong.md) - An open source agent microharness featuring persistent agency and recursive LLMs. Of bash, by bas...
 - [juewuy/ShellCrash](../repos/juewuy/ShellCrash.md) - Run sing-box&#x2F;mihomo as client in shell
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-29T21:01:54.941Z*
+*Last updated: 2026-11-02T21:51:25.491Z*

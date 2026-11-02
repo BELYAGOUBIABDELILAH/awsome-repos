@@ -1,6 +1,6 @@
 # CYQawa&#x2F;YunX
 
-> ✨一个安卓网盘解析下载app✨
+> ✨一个安卓 网盘解析 + 视频平台解析 下载app✨
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;CYQawa&#x2F;YunX) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Kotlin |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 5,551 |
-| **Forks** | 🍴 284 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 6,312 |
+| **Forks** | 🍴 325 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 6, 2026 |
-| **Last Seen** | Oct 25, 2026 |
+| **Last Seen** | Nov 2, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 3 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-29T21:02:01.087Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-11-02T21:51:31.624Z*  
+*Data from 8 trending reports*

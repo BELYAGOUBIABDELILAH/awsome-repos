@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 61
+- **Total Repositories**: 62
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-21
 
@@ -16,34 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,545 | 2026-08-01 | 56 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,559 | 2026-08-01 | 57 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/hve-core](../repos/microsoft/hve-core.md) | ⭐ 1,588 | 2026-08-01 | 15 |
+| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,565 | 2026-08-01 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Euro-Office/DesktopEditors](../repos/Euro-Office/DesktopEditors.md) | ⭐ 801 | 2026-08-01 | 14 |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 3,472 | 2026-08-01 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/AL](../repos/microsoft/AL.md) | ⭐ 891 | 2026-08-01 | 11 |
+| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 6,151 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,062 | 2026-08-02 | 17 |
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,710 | 2026-08-03 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dataplat/dbatools](../repos/dataplat/dbatools.md) | ⭐ 2,857 | 2026-08-04 | 4 |
+| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 9,264 | 2026-08-06 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,767 | 2026-08-11 | 21 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [SharePoint/sp-dev-docs](../repos/SharePoint/sp-dev-docs.md) | ⭐ 1,388 | 2026-08-15 | 11 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [MicrosoftEdge/WebView2Feedback](../repos/MicrosoftEdge/WebView2Feedback.md) | ⭐ 526 | 2026-09-01 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [javaht/claude-desktop-zh-cn](../repos/javaht/claude-desktop-zh-cn.md) | ⭐ 8,043 | 2026-10-23 | 5 |
+| [irzyxa/Volume2](../repos/irzyxa/Volume2.md) | ⭐ 1,383 | 2026-11-02 | 1 |
 
 
 ---
@@ -71,6 +62,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [pester/Pester](../repos/pester/Pester.md) | ⭐ 3,369 | 2026-10-29 | Pester is the ubiquitous test and mock framework for PowerShell. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [irzyxa/Volume2](../repos/irzyxa/Volume2.md) | ⭐ 1,383 | 2026-11-02 | Volume² - advanced Windows volume control. |
 
 
 ---
@@ -82,20 +76,20 @@
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 36,799 | 2026-08-01 | 20 |
 | [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,062 | 2026-08-02 | 17 |
 | [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,844 | 2026-08-09 | 1 |
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,545 | 2026-08-01 | 56 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,559 | 2026-08-01 | 57 |
 | [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,073 | 2026-08-04 | 5 |
 | [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,259 | 2026-09-02 | 14 |
 | [SpecterOps/BloodHound-Legacy](../repos/SpecterOps/BloodHound-Legacy.md) | ⭐ 10,597 | 2026-08-06 | 1 |
 | [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,136 | 2026-08-03 | 11 |
-| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 9,149 | 2026-08-06 | 18 |
-| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,528 | 2026-08-01 | 30 |
+| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 9,264 | 2026-08-06 | 19 |
+| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,565 | 2026-08-01 | 31 |
 | [javaht/claude-desktop-zh-cn](../repos/javaht/claude-desktop-zh-cn.md) | ⭐ 8,043 | 2026-10-23 | 5 |
 | [mandiant/commando-vm](../repos/mandiant/commando-vm.md) | ⭐ 7,779 | 2026-08-12 | 1 |
 | [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,674 | 2026-08-07 | 7 |
-| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 6,111 | 2026-08-01 | 23 |
+| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 6,151 | 2026-08-01 | 24 |
 | [jamesstringer90/Easy-GPU-PV](../repos/jamesstringer90/Easy-GPU-PV.md) | ⭐ 5,590 | 2026-09-06 | 3 |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 3,472 | 2026-08-01 | 27 |
 | [pester/Pester](../repos/pester/Pester.md) | ⭐ 3,369 | 2026-10-29 | 1 |
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 3,215 | 2026-08-01 | 26 |
 | [dataplat/dbatools](../repos/dataplat/dbatools.md) | ⭐ 2,857 | 2026-08-04 | 4 |
 | [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,767 | 2026-08-11 | 21 |
 | [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,575 | 2026-08-04 | 9 |
@@ -106,12 +100,12 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [actions/runner-images](../repos/actions/runner-images.md) | 56 | ⭐ 13,545 | 2026-08-01 | 2026-10-29 |
+| [actions/runner-images](../repos/actions/runner-images.md) | 57 | ⭐ 13,559 | 2026-08-01 | 2026-11-02 |
 | [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 44 | ⭐ 936 | 2026-08-01 | 2026-10-28 |
-| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 31 | ⭐ 1,679 | 2026-08-03 | 2026-10-19 |
-| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 30 | ⭐ 8,528 | 2026-08-01 | 2026-10-22 |
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 26 | ⭐ 3,215 | 2026-08-01 | 2026-10-23 |
-| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 23 | ⭐ 6,111 | 2026-08-01 | 2026-10-13 |
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 32 | ⭐ 1,710 | 2026-08-03 | 2026-11-02 |
+| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 31 | ⭐ 8,565 | 2026-08-01 | 2026-11-02 |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 27 | ⭐ 3,472 | 2026-08-01 | 2026-11-02 |
+| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 24 | ⭐ 6,151 | 2026-08-01 | 2026-11-02 |
 | [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 22 | ⭐ 1,553 | 2026-08-01 | 2026-10-23 |
 | [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | 21 | ⭐ 2,767 | 2026-08-11 | 2026-10-29 |
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | 20 | ⭐ 36,799 | 2026-08-01 | 2026-09-21 |
@@ -182,7 +176,8 @@
 - [Azure/Azure-Functions](../repos/Azure/Azure-Functions.md) - 
 - [Azure/azure-sdk](../repos/Azure/azure-sdk.md) - This is the Azure SDK parent repository and mostly contains documentation around guidelines and p...
 - [pester/Pester](../repos/pester/Pester.md) - Pester is the ubiquitous test and mock framework for PowerShell.
+- [irzyxa/Volume2](../repos/irzyxa/Volume2.md) - Volume² - advanced Windows volume control.
 
 ---
 
-*Last updated: 2026-10-29T21:01:54.921Z*
+*Last updated: 2026-11-02T21:51:25.471Z*

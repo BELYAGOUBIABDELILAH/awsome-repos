@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 174
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-28
+- **Last Updated**: 2026-11-02
 
 ---
 
@@ -16,22 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JetBrains/koog](../repos/JetBrains/koog.md) | ⭐ 4,645 | 2026-08-08 | 2 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 65,199 | 2026-08-02 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [capcom6/android-sms-gateway](../repos/capcom6/android-sms-gateway.md) | ⭐ 5,957 | 2026-08-11 | 11 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 63,713 | 2026-08-03 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shiaho777/web-to-app](../repos/shiaho777/web-to-app.md) | ⭐ 7,125 | 2026-08-16 | 10 |
+| [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) | ⭐ 2,162 | 2026-08-04 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PimpinPumpkin/Vela](../repos/PimpinPumpkin/Vela.md) | ⭐ 2,279 | 2026-10-06 | 7 |
+| [SukiSU-Ultra/SukiSU-Ultra](../repos/SukiSU-Ultra/SukiSU-Ultra.md) | ⭐ 6,842 | 2026-08-09 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mossyhub/openautolink](../repos/mossyhub/openautolink.md) | ⭐ 176 | 2026-10-16 | 2 |
+| [Davidona/StreamVault-IPTV](../repos/Davidona/StreamVault-IPTV.md) | ⭐ 961 | 2026-08-12 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [realidkroo/Mochy-Music](../repos/realidkroo/Mochy-Music.md) | ⭐ 347 | 2026-10-28 | 2 |
+| [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 18,934 | 2026-08-17 | 8 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Kunzisoft/KeePassDX](../repos/Kunzisoft/KeePassDX.md) | ⭐ 7,601 | 2026-09-01 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 21,437 | 2026-09-07 | 11 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [CYQawa/YunX](../repos/CYQawa/YunX.md) | ⭐ 6,312 | 2026-10-06 | 8 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | ⭐ 5,313 | 2026-10-12 | 11 |
 
 
 ---
@@ -40,25 +52,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [YuKongA/ghostlock-app](../repos/YuKongA/ghostlock-app.md) | ⭐ 1,825 | 2026-10-01 | GhostLock One-Tap Execution App (CVE-2026-43499) |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ReSukiSU/ReSukiSU](../repos/ReSukiSU/ReSukiSU.md) | ⭐ 1,677 | 2026-10-02 | A KernelSU based root solution for Android |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [home-assistant/android](../repos/home-assistant/android.md) | ⭐ 3,992 | 2026-10-02 | Home Assistant Companion for Android |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [GrapheneOS/Messaging](../repos/GrapheneOS/Messaging.md) | ⭐ 221 | 2026-10-02 | Messaging app |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [agupta07505/SmartIsland](../repos/agupta07505/SmartIsland.md) | ⭐ 340 | 2026-10-02 | Smart Island is a modern, open-source implementation of Android&#39;s Dynamic Island experience. It t... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [PimpinPumpkin/Vela](../repos/PimpinPumpkin/Vela.md) | ⭐ 2,279 | 2026-10-06 | Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map d... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [CYQawa/YunX](../repos/CYQawa/YunX.md) | ⭐ 5,551 | 2026-10-06 | ✨一个安卓网盘解析下载app✨ |
+| [CYQawa/YunX](../repos/CYQawa/YunX.md) | ⭐ 6,312 | 2026-10-06 | ✨一个安卓 网盘解析 + 视频平台解析 下载app✨ |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ahXN00/OwnTV](../repos/ahXN00/OwnTV.md) | ⭐ 673 | 2026-10-06 | Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker ... |
@@ -68,6 +65,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Lelonio/Square](../repos/Lelonio/Square.md) | ⭐ 429 | 2026-10-08 | Unofficial YouTube Music &#x2F; Spotify Premium client for Android, built in Liquid Glass. Audio effec... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [HaoZai000/NexioSchedule](../repos/HaoZai000/NexioSchedule.md) | ⭐ 151 | 2026-10-09 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [BuSung-dev/Root-My-Galaxy](../repos/BuSung-dev/Root-My-Galaxy.md) | ⭐ 1,398 | 2026-10-11 | KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [throneproj/ThroneForAndroid](../repos/throneproj/ThroneForAndroid.md) | ⭐ 586 | 2026-10-11 | Android GUI proxy utility (Empowered by sing-box) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [wasi-master/wmkeyboard](../repos/wasi-master/wmkeyboard.md) | ⭐ 524 | 2026-10-11 | A modern, privacy-first Android keyboard: offline intelligence, 350+ languages, themes, tools and... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | ⭐ 5,313 | 2026-10-12 | BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music |
 
 
 ---
@@ -76,8 +88,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 64,880 | 2026-08-02 | 21 |
-| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 63,564 | 2026-08-03 | 16 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 65,199 | 2026-08-02 | 22 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 63,713 | 2026-08-03 | 17 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 55,659 | 2026-08-06 | 15 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,504 | 2026-08-04 | 13 |
 | [android/architecture-samples](../repos/android/architecture-samples.md) | ⭐ 45,876 | 2026-10-14 | 2 |
@@ -90,9 +102,9 @@
 | [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,479 | 2026-08-05 | 6 |
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 23,173 | 2026-08-02 | 6 |
 | [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,951 | 2026-08-01 | 8 |
-| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,731 | 2026-09-07 | 10 |
+| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 21,437 | 2026-09-07 | 11 |
 | [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,354 | 2026-08-12 | 4 |
-| [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 18,495 | 2026-08-17 | 7 |
+| [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 18,934 | 2026-08-17 | 8 |
 | [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 16,248 | 2026-08-02 | 12 |
 | [ktorio/ktor](../repos/ktorio/ktor.md) | ⭐ 14,525 | 2026-09-12 | 1 |
 | [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) | ⭐ 12,644 | 2026-08-06 | 7 |
@@ -103,12 +115,12 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 21 | ⭐ 64,880 | 2026-08-02 | 2026-10-28 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 22 | ⭐ 65,199 | 2026-08-02 | 2026-11-02 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 20 | ⭐ 32,269 | 2026-08-08 | 2026-10-27 |
 | [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 19 | ⭐ 3,038 | 2026-08-02 | 2026-10-26 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 18 | ⭐ 24,746 | 2026-08-01 | 2026-10-26 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 17 | ⭐ 63,713 | 2026-08-03 | 2026-11-02 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | 17 | ⭐ 43,581 | 2026-08-03 | 2026-10-28 |
-| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 16 | ⭐ 63,564 | 2026-08-03 | 2026-10-28 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 15 | ⭐ 55,659 | 2026-08-06 | 2026-10-20 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | 14 | ⭐ 11,766 | 2026-08-02 | 2026-10-20 |
 | [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | 13 | ⭐ 8,363 | 2026-08-02 | 2026-10-21 |
@@ -221,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-29T21:01:54.896Z*
+*Last updated: 2026-11-02T21:51:25.445Z*

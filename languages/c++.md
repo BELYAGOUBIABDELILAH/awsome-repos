@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 546 | 2026-08-01 | 19 |
+| [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 24,230 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,138 | 2026-08-01 | 20 |
+| [doitsujin/dxvk](../repos/doitsujin/dxvk.md) | ⭐ 18,413 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 119,259 | 2026-08-01 | 12 |
+| [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | ⭐ 22,213 | 2026-08-06 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [electron/electron](../repos/electron/electron.md) | ⭐ 123,622 | 2026-08-01 | 7 |
+| [ml-explore/mlx](../repos/ml-explore/mlx.md) | ⭐ 29,029 | 2026-08-06 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,405 | 2026-08-02 | 10 |
+| [hyprwm/Hyprland](../repos/hyprwm/Hyprland.md) | ⭐ 39,864 | 2026-08-07 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 32,230 | 2026-08-03 | 17 |
+| [UE4SS-RE/RE-UE4SS](../repos/UE4SS-RE/RE-UE4SS.md) | ⭐ 3,110 | 2026-08-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/googletest](../repos/google/googletest.md) | ⭐ 39,678 | 2026-08-04 | 24 |
+| [jellyfin/jellyfin-desktop](../repos/jellyfin/jellyfin-desktop.md) | ⭐ 5,961 | 2026-08-15 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/or-tools](../repos/google/or-tools.md) | ⭐ 14,301 | 2026-08-05 | 5 |
+| [amnezia-vpn/amnezia-client](../repos/amnezia-vpn/amnezia-client.md) | ⭐ 15,665 | 2026-08-16 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lemonade-sdk/lemonade](../repos/lemonade-sdk/lemonade.md) | ⭐ 6,024 | 2026-08-07 | 5 |
+| [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 43,382 | 2026-09-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,876 | 2026-08-08 | 18 |
+| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 50,692 | 2026-10-06 | 7 |
 
 
 ---
@@ -52,19 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [YesterMester/TheSimpsonsGameRecomp](../repos/YesterMester/TheSimpsonsGameRecomp.md) | ⭐ 280 | 2026-10-01 | A work in progress recomp of the The Simpsons Game 2007 from the Xbox 360 using the RexXGlue reco... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [kth-competitive-programming/kactl](../repos/kth-competitive-programming/kactl.md) | ⭐ 3,547 | 2026-10-03 | KTH Algorithm Competition Template Library (... eller KTHs AC-tillverkande lapp) |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [hedge-dev/UnleashedRecomp](../repos/hedge-dev/UnleashedRecomp.md) | ⭐ 5,111 | 2026-10-03 | An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of s... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [zeldaret/tww](../repos/zeldaret/tww.md) | ⭐ 1,039 | 2026-10-03 | Decompilation of The Legend of Zelda: The Wind Waker |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 31,495 | 2026-10-06 | Tool for automatic PS5 executables porting to Linux and Windows |
+| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 50,692 | 2026-10-06 | Tool for automatic PS5 executables porting to Linux and Windows |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [M-Abozaid/esp32-c3-adblock](../repos/M-Abozaid/esp32-c3-adblock.md) | ⭐ 2,354 | 2026-10-06 | Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in... |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [facebook/rebalancer](../repos/facebook/rebalancer.md) | ⭐ 353 | 2026-10-08 | Rebalancer is a domain-specific language and tool for specifying and solving assignment problems ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ytsaurus/ytsaurus](../repos/ytsaurus/ytsaurus.md) | ⭐ 2,283 | 2026-10-08 | YTsaurus is a scalable and fault-tolerant open-source big data platform. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [TigerVNC/tigervnc](../repos/TigerVNC/tigervnc.md) | ⭐ 7,544 | 2026-10-08 | High performance, multi-platform VNC client and server |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [SethRobinson/Patchy](../repos/SethRobinson/Patchy.md) | ⭐ 579 | 2026-10-08 | Open-source image editor focused on PSD compatibility and workflows familiar to Adobe Photoshop u... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ninja-build/ninja](../repos/ninja-build/ninja.md) | ⭐ 13,293 | 2026-10-08 | a small build system with a focus on speed |
 
 
 ---
@@ -100,14 +100,14 @@
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,138 | 2026-08-01 | 20 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,676 | 2026-08-05 | 11 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
+| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 50,692 | 2026-10-06 | 7 |
 | [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,543 | 2026-08-03 | 12 |
 | [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,454 | 2026-09-01 | 3 |
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,405 | 2026-08-02 | 10 |
+| [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 43,382 | 2026-09-06 | 3 |
 | [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 42,460 | 2026-08-19 | 14 |
-| [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 42,293 | 2026-09-06 | 2 |
 | [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 41,272 | 2026-08-09 | 13 |
 | [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 41,019 | 2026-08-02 | 8 |
-| [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 40,788 | 2026-08-06 | 4 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-29T21:01:54.837Z*
+*Last updated: 2026-11-02T21:51:25.393Z*

@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | Kotlin |
+| **Language** | Java |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 551 |
-| **Forks** | 🍴 99 |
-| **Trending Days** | 5 |
+| **Stars** | ⭐ 643 |
+| **Forks** | 🍴 106 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 29, 2026 |
-| **Last Seen** | Oct 25, 2026 |
+| **Last Seen** | Nov 2, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Kotlin or amneziawg*
+*Similar: Check repositories in Java or amneziawg*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 1 days
 
 ---
@@ -81,15 +81,15 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in Kotlin
+- Check similar projects in Java
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 80&#x2F;100
+- **Trending Score**: 95&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-29T21:02:00.964Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-11-02T21:51:31.512Z*  
+*Data from 6 trending reports*

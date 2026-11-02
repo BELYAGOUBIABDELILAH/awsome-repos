@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 143
+- **Total Repositories**: 144
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-27
 
@@ -16,46 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 28,610 | 2026-08-01 | 25 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 13,740 | 2026-08-01 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,999 | 2026-08-04 | 22 |
+| [momenbasel/PureMac](../repos/momenbasel/PureMac.md) | ⭐ 7,594 | 2026-08-04 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [getsentry/sentry-cocoa](../repos/getsentry/sentry-cocoa.md) | ⭐ 1,136 | 2026-08-07 | 8 |
+| [jellyfin/Swiftfin](../repos/jellyfin/Swiftfin.md) | ⭐ 4,251 | 2026-08-14 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [abue-ammar/tinycast](../repos/abue-ammar/tinycast.md) | ⭐ 8,925 | 2026-09-01 | 10 |
+| [farzaa/clicky](../repos/farzaa/clicky.md) | ⭐ 7,910 | 2026-09-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 14,159 | 2026-09-21 | 11 |
+| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | ⭐ 1,289 | 2026-09-13 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/Llama-macOS](../repos/ggml-org/Llama-macOS.md) | ⭐ 1,706 | 2026-10-06 | 5 |
+| [HD838A/remote-mic-app](../repos/HD838A/remote-mic-app.md) | ⭐ 2,305 | 2026-10-08 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [1lck/Lithe-IDEA](../repos/1lck/Lithe-IDEA.md) | ⭐ 2,357 | 2026-10-16 | 5 |
+| [hugeBlack/GetMoreRam](../repos/hugeBlack/GetMoreRam.md) | ⭐ 434 | 2026-10-17 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nook-browser/Nook](../repos/nook-browser/Nook.md) | ⭐ 2,022 | 2026-10-29 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [apollographql/apollo-ios](../repos/apollographql/apollo-ios.md) | ⭐ 4,038 | 2026-10-29 | 1 |
+| [YangJiiii/3105](../repos/YangJiiii/3105.md) | ⭐ 970 | 2026-10-25 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [grishka/NearDrop](../repos/grishka/NearDrop.md) | ⭐ 6,285 | 2026-10-01 | An unofficial Google Nearby Share&#x2F;Quick Share app for macOS |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [apple/swift-collections](../repos/apple/swift-collections.md) | ⭐ 4,526 | 2026-10-01 | Commonly used data structures for Swift |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [apple/swift-numerics](../repos/apple/swift-numerics.md) | ⭐ 1,875 | 2026-10-02 | Advanced mathematical types and functions for Swift |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [lab421/forel](../repos/lab421/forel.md) | ⭐ 707 | 2026-10-06 | File automation for macOS. The open source Hazel alternative for macOS. |
@@ -73,10 +61,19 @@
 | [apple/swift-argument-parser](../repos/apple/swift-argument-parser.md) | ⭐ 3,793 | 2026-10-08 | Straightforward, type-safe argument parsing for Swift |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
+| [HD838A/remote-mic-app](../repos/HD838A/remote-mic-app.md) | ⭐ 2,305 | 2026-10-08 | 无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
 | [bobsupra/NuvioTVOS](../repos/bobsupra/NuvioTVOS.md) | ⭐ 286 | 2026-10-11 | Nuvio tvOS client |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [StephenLovino/BetterCast](../repos/StephenLovino/BetterCast.md) | ⭐ 182 | 2026-10-12 | Turn spare devices into real extra displays for your Mac or Windows PC — iPad, iPhone, Android, W... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [OpenBMB/MiniCPM-V-Apps](../repos/OpenBMB/MiniCPM-V-Apps.md) | ⭐ 457 | 2026-10-15 | MiniCPM-V apps — fully offline multimodal chat on iOS &#x2F; Android &#x2F; HarmonyOS |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [1lck/Lithe-IDEA](../repos/1lck/Lithe-IDEA.md) | ⭐ 2,357 | 2026-10-16 | A lightweight, cross-platform IDE for the AI era, with on-demand tools and services. |
 
 
 ---
@@ -112,7 +109,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 29 | ⭐ 13,231 | 2026-08-01 | 2026-10-20 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 30 | ⭐ 13,740 | 2026-08-01 | 2026-11-02 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 25 | ⭐ 28,610 | 2026-08-01 | 2026-10-29 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 22 | ⭐ 14,999 | 2026-08-04 | 2026-10-29 |
 | [apple/container](../repos/apple/container.md) | 17 | ⭐ 50,809 | 2026-08-01 | 2026-10-19 |
@@ -219,7 +216,7 @@
 - [cshariq/Sapphire](../repos/cshariq/Sapphire.md) - The all in one mac app that redefines the notch
 - [ninxsoft/Mist](../repos/ninxsoft/Mist.md) - A Mac utility that automatically downloads macOS Firmwares &#x2F; Installers.
 - [ProxymanApp/TCPViewer](../repos/ProxymanApp/TCPViewer.md) - The best-in-class macOS app to See every packet clearly on your Mac. Alternative to Wireshark
-- [farzaa/clicky](../repos/farzaa/clicky.md) - 
+- [farzaa/clicky](../repos/farzaa/clicky.md) - The open-source project HeyClicky grew out of. The official HeyClicky app, an AI buddy for Mac an...
 - [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
 - [iliyami/MacSai](../repos/iliyami/MacSai.md) - Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Apple-notarized alt...
 - [Whisky-App/Whisky](../repos/Whisky-App/Whisky.md) - A modern Wine wrapper for macOS built with SwiftUI
@@ -230,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-10-29T21:01:54.945Z*
+*Last updated: 2026-11-02T21:51:25.495Z*

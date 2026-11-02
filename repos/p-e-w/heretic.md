@@ -1,6 +1,6 @@
 # p-e-w&#x2F;heretic
 
-> Fully automatic censorship removal for language models
+> Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;p-e-w&#x2F;heretic) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 37,099 |
-| **Forks** | 🍴 4,219 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 38,023 |
+| **Forks** | 🍴 4,318 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #6 |
 
 | **First Seen** | Aug 29, 2026 |
-| **Last Seen** | Oct 29, 2026 |
+| **Last Seen** | Nov 2, 2026 |
 
 
 ---
@@ -43,11 +43,12 @@
 
 ## Trending Timeline
 
+**Nov 2, 2026** — Rank #15 (+404 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #6
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 2 days
 
 ---
@@ -55,10 +56,10 @@
 ## Categories
 
 ### Topics
-[`abliteration`](../../topics/abliteration.md) [`llm`](../../topics/llm.md) [`transformer`](../../topics/transformer.md) 
+[`abliteration`](../../topics/abliteration.md) [`anti-censorship`](../../topics/anti-censorship.md) [`anticensorship`](../../topics/anticensorship.md) [`censorship`](../../topics/censorship.md) [`censorship-resistance`](../../topics/censorship-resistance.md) [`llm`](../../topics/llm.md) [`transformer`](../../topics/transformer.md) 
 
 ### Curated Categories
-`Large Language Models` 
+`Large Language Models` `Systems Programming` 
 
 ---
 
@@ -91,5 +92,5 @@
 
 ---
 
-*Last updated: 2026-10-29T21:01:59.999Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-11-02T21:51:30.548Z*  
+*Data from 8 trending reports*

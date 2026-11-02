@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 13
+- **Total Repositories**: 14
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-29
+- **Last Updated**: 2026-11-02
 
 ---
 
@@ -16,16 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gravitee-io/issues](../repos/gravitee-io/issues.md) | ⭐ 69 | 2026-08-01 | 18 |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,914 | 2026-08-01 | 68 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,902 | 2026-08-01 | 67 |
+| [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,941 | 2026-08-03 | 38 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,349 | 2026-08-02 | 48 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | ⭐ 3,520 | 2026-08-02 | 39 |
+| [jenkinsci/job-dsl-plugin](../repos/jenkinsci/job-dsl-plugin.md) | ⭐ 1,924 | 2026-11-02 | 1 |
 
 
 ---
@@ -34,10 +31,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [apache/bigtop](../repos/apache/bigtop.md) | ⭐ 682 | 2026-10-03 | Bigtop is an Apache Foundation project for Infrastructure Engineers and Data Scientists looking f... |
+| [openshift-eng/aos-cd-jobs](../repos/openshift-eng/aos-cd-jobs.md) | ⭐ 50 | 2026-10-11 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [openshift-eng/aos-cd-jobs](../repos/openshift-eng/aos-cd-jobs.md) | ⭐ 50 | 2026-10-11 |  |
+| [jenkinsci/job-dsl-plugin](../repos/jenkinsci/job-dsl-plugin.md) | ⭐ 1,924 | 2026-11-02 | A Groovy DSL for Jenkins Jobs |
 
 
 ---
@@ -46,12 +43,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,902 | 2026-08-01 | 67 |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,914 | 2026-08-01 | 68 |
 | [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,349 | 2026-08-02 | 48 |
 | [apache/groovy](../repos/apache/groovy.md) | ⭐ 5,481 | 2026-09-13 | 14 |
 | [ben-manes/gradle-versions-plugin](../repos/ben-manes/gradle-versions-plugin.md) | ⭐ 4,078 | 2026-08-10 | 1 |
 | [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | ⭐ 3,520 | 2026-08-02 | 39 |
-| [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,939 | 2026-08-03 | 37 |
+| [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,941 | 2026-08-03 | 38 |
+| [jenkinsci/job-dsl-plugin](../repos/jenkinsci/job-dsl-plugin.md) | ⭐ 1,924 | 2026-11-02 | 1 |
 | [openboxes/openboxes](../repos/openboxes/openboxes.md) | ⭐ 913 | 2026-08-01 | 9 |
 | [NationalSecurityAgency/skills-service](../repos/NationalSecurityAgency/skills-service.md) | ⭐ 682 | 2026-08-27 | 2 |
 | [apache/bigtop](../repos/apache/bigtop.md) | ⭐ 682 | 2026-10-03 | 11 |
@@ -66,10 +64,10 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [gradle/gradle](../repos/gradle/gradle.md) | 67 | ⭐ 18,902 | 2026-08-01 | 2026-10-29 |
+| [gradle/gradle](../repos/gradle/gradle.md) | 68 | ⭐ 18,914 | 2026-08-01 | 2026-11-02 |
 | [rundeck/rundeck](../repos/rundeck/rundeck.md) | 48 | ⭐ 6,349 | 2026-08-02 | 2026-10-29 |
 | [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | 39 | ⭐ 3,520 | 2026-08-02 | 2026-10-29 |
-| [apache/grails-core](../repos/apache/grails-core.md) | 37 | ⭐ 2,939 | 2026-08-03 | 2026-10-26 |
+| [apache/grails-core](../repos/apache/grails-core.md) | 38 | ⭐ 2,941 | 2026-08-03 | 2026-11-02 |
 | [gravitee-io/issues](../repos/gravitee-io/issues.md) | 18 | ⭐ 69 | 2026-08-01 | 2026-10-29 |
 | [apache/groovy](../repos/apache/groovy.md) | 14 | ⭐ 5,481 | 2026-09-13 | 2026-10-27 |
 | [apache/bigtop](../repos/apache/bigtop.md) | 11 | ⭐ 682 | 2026-10-03 | 2026-10-26 |
@@ -94,7 +92,8 @@
 - [Percona-Lab/jenkins-pipelines](../repos/Percona-Lab/jenkins-pipelines.md) - 
 - [apache/bigtop](../repos/apache/bigtop.md) - Bigtop is an Apache Foundation project for Infrastructure Engineers and Data Scientists looking f...
 - [openshift-eng/aos-cd-jobs](../repos/openshift-eng/aos-cd-jobs.md) - 
+- [jenkinsci/job-dsl-plugin](../repos/jenkinsci/job-dsl-plugin.md) - A Groovy DSL for Jenkins Jobs
 
 ---
 
-*Last updated: 2026-10-29T21:01:54.874Z*
+*Last updated: 2026-11-02T21:51:25.428Z*

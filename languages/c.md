@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 228
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-09
+- **Last Updated**: 2026-11-02
 
 ---
 
@@ -16,52 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 140,224 | 2026-08-01 | 24 |
+| [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,928 | 2026-08-03 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | ⭐ 4,624 | 2026-08-04 | 16 |
+| [immortalwrt/immortalwrt](../repos/immortalwrt/immortalwrt.md) | ⭐ 11,842 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [redis/redis](../repos/redis/redis.md) | ⭐ 77,090 | 2026-08-04 | 10 |
+| [systemd/systemd](../repos/systemd/systemd.md) | ⭐ 16,984 | 2026-08-03 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [madler/zlib](../repos/madler/zlib.md) | ⭐ 7,179 | 2026-08-07 | 13 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 153,855 | 2026-08-07 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tianocore/edk2](../repos/tianocore/edk2.md) | ⭐ 6,374 | 2026-08-08 | 5 |
+| [opa334/Dopamine](../repos/opa334/Dopamine.md) | ⭐ 7,178 | 2026-08-08 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [valkey-io/valkey](../repos/valkey-io/valkey.md) | ⭐ 27,562 | 2026-08-08 | 7 |
+| [stackia/rtp2httpd](../repos/stackia/rtp2httpd.md) | ⭐ 2,308 | 2026-08-22 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [arendst/Tasmota](../repos/arendst/Tasmota.md) | ⭐ 24,944 | 2026-08-09 | 7 |
+| [HarbourMasters/Shipwright](../repos/HarbourMasters/Shipwright.md) | ⭐ 5,828 | 2026-08-24 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pgvector/pgvector](../repos/pgvector/pgvector.md) | ⭐ 23,526 | 2026-08-12 | 11 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 46,480 | 2026-09-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [capstone-engine/capstone](../repos/capstone-engine/capstone.md) | ⭐ 9,150 | 2026-08-29 | 5 |
+| [valinet/ExplorerPatcher](../repos/valinet/ExplorerPatcher.md) | ⭐ 34,214 | 2026-09-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 44,945 | 2026-09-01 | 20 |
+| [sp00nznet/ps3recomp](../repos/sp00nznet/ps3recomp.md) | ⭐ 617 | 2026-10-11 | 8 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [FoloToy/ai-passport](../repos/FoloToy/ai-passport.md) | ⭐ 710 | 2026-10-01 | FOLOTOY AI Passport develop resources for Agent |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [martanne/vis](../repos/martanne/vis.md) | ⭐ 5,220 | 2026-10-02 | A vi-like editor based on Plan 9&#39;s structural regular expressions |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [etaHEN/etaHEN](../repos/etaHEN/etaHEN.md) | ⭐ 724 | 2026-10-02 | AIO HEN payload |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ValdikSS/GoodbyeDPI](../repos/ValdikSS/GoodbyeDPI.md) | ⭐ 28,712 | 2026-10-03 | GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [n64decomp/sm64](../repos/n64decomp/sm64.md) | ⭐ 8,823 | 2026-10-06 | A Super Mario 64 decompilation, brought to you by a bunch of clever folks. |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [tarwin/tinyjsapp](../repos/tarwin/tinyjsapp.md) | ⭐ 1,278 | 2026-10-11 | Build native apps in JS. Backend, frontend. ~5Mb. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [sp00nznet/ps3recomp](../repos/sp00nznet/ps3recomp.md) | ⭐ 617 | 2026-10-11 | Static recompilation runtime libraries for PlayStation 3 titles.  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [sp00nznet/xboxrecomp](../repos/sp00nznet/xboxrecomp.md) | ⭐ 211 | 2026-10-11 | Turn any Xbox game binary into a native Windows executable. No emulation. No interpreter. Just ra... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mbm110/MSN-GUARD](../repos/mbm110/MSN-GUARD.md) | ⭐ 636 | 2026-10-12 | High-performance Rust-powered Android VPN — Full-device tunneling via SHARD (Custom Protocol), MA... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Zelda64Recomp/Zelda64Recomp](../repos/Zelda64Recomp/Zelda64Recomp.md) | ⭐ 7,477 | 2026-10-13 | Static recompilation of Majora&#39;s Mask (and soon Ocarina of Time) for PC (Windows&#x2F;Linux&#x2F;Mac) |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 151,696 | 2026-08-07 | 17 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 153,855 | 2026-08-07 | 18 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 140,224 | 2026-08-01 | 24 |
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 80,039 | 2026-08-24 | 4 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 78,208 | 2026-08-02 | 18 |
@@ -96,13 +96,13 @@
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 75,752 | 2026-08-01 | 26 |
 | [git/git](../repos/git/git.md) | ⭐ 64,051 | 2026-08-05 | 9 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 47,337 | 2026-08-07 | 26 |
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 44,945 | 2026-09-01 | 20 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 46,480 | 2026-09-01 | 21 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 41,534 | 2026-08-01 | 12 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,044 | 2026-08-02 | 9 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,813 | 2026-08-04 | 10 |
-| [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,756 | 2026-08-03 | 7 |
-| [valinet/ExplorerPatcher](../repos/valinet/ExplorerPatcher.md) | ⭐ 33,863 | 2026-09-06 | 3 |
+| [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,928 | 2026-08-03 | 8 |
+| [valinet/ExplorerPatcher](../repos/valinet/ExplorerPatcher.md) | ⭐ 34,214 | 2026-09-06 | 4 |
 | [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,509 | 2026-08-01 | 6 |
 | [lizongying/my-tv](../repos/lizongying/my-tv.md) | ⭐ 31,960 | 2026-08-17 | 2 |
 | [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,952 | 2026-08-02 | 9 |
@@ -121,10 +121,10 @@
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 26 | ⭐ 47,337 | 2026-08-07 | 2026-10-23 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 24 | ⭐ 140,224 | 2026-08-01 | 2026-10-29 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 21 | ⭐ 28,089 | 2026-08-07 | 2026-10-23 |
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | 20 | ⭐ 44,945 | 2026-09-01 | 2026-10-29 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | 21 | ⭐ 46,480 | 2026-09-01 | 2026-11-02 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 19 | ⭐ 7,021 | 2026-08-04 | 2026-10-23 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 18 | ⭐ 78,208 | 2026-08-02 | 2026-10-25 |
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 17 | ⭐ 151,696 | 2026-08-07 | 2026-10-09 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 18 | ⭐ 153,855 | 2026-08-07 | 2026-11-02 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-29T21:01:54.827Z*
+*Last updated: 2026-11-02T21:51:25.386Z*
