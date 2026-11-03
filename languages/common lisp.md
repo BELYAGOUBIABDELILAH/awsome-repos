@@ -16,10 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,628 | 2026-08-03 | 49 |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,629 | 2026-08-03 | 50 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jsk-enshu/robot-programming](../repos/jsk-enshu/robot-programming.md) | ⭐ 42 | 2026-10-28 | 2 |
+| [nodecode-ai/nodecode](../repos/nodecode-ai/nodecode.md) | ⭐ 175 | 2026-10-26 | 3 |
 
 
 ---
@@ -28,7 +28,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [nodecode-ai/nodecode](../repos/nodecode-ai/nodecode.md) | ⭐ 152 | 2026-10-26 | A living agent organism in Lisp. |
+| [nodecode-ai/nodecode](../repos/nodecode-ai/nodecode.md) | ⭐ 175 | 2026-10-26 | A living agent organism in Lisp. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jsk-enshu/robot-programming](../repos/jsk-enshu/robot-programming.md) | ⭐ 42 | 2026-10-28 | This is exercise for robot-programming. |
@@ -41,11 +41,11 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) | ⭐ 10,986 | 2026-08-04 | 1 |
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,628 | 2026-08-03 | 49 |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,629 | 2026-08-03 | 50 |
 | [lem-project/lem](../repos/lem-project/lem.md) | ⭐ 3,023 | 2026-08-01 | 3 |
 | [sbcl/sbcl](../repos/sbcl/sbcl.md) | ⭐ 2,143 | 2026-08-24 | 4 |
 | [coalton-lang/coalton](../repos/coalton-lang/coalton.md) | ⭐ 1,734 | 2026-08-04 | 1 |
-| [nodecode-ai/nodecode](../repos/nodecode-ai/nodecode.md) | ⭐ 152 | 2026-10-26 | 2 |
+| [nodecode-ai/nodecode](../repos/nodecode-ai/nodecode.md) | ⭐ 175 | 2026-10-26 | 3 |
 | [jsk-enshu/robot-programming](../repos/jsk-enshu/robot-programming.md) | ⭐ 42 | 2026-10-28 | 2 |
 
 ---
@@ -54,10 +54,10 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | 49 | ⭐ 3,628 | 2026-08-03 | 2026-11-02 |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | 50 | ⭐ 3,629 | 2026-08-03 | 2026-11-03 |
 | [sbcl/sbcl](../repos/sbcl/sbcl.md) | 4 | ⭐ 2,143 | 2026-08-24 | 2026-09-09 |
 | [lem-project/lem](../repos/lem-project/lem.md) | 3 | ⭐ 3,023 | 2026-08-01 | 2026-08-03 |
-| [nodecode-ai/nodecode](../repos/nodecode-ai/nodecode.md) | 2 | ⭐ 152 | 2026-10-26 | 2026-10-27 |
+| [nodecode-ai/nodecode](../repos/nodecode-ai/nodecode.md) | 3 | ⭐ 175 | 2026-10-26 | 2026-11-03 |
 | [jsk-enshu/robot-programming](../repos/jsk-enshu/robot-programming.md) | 2 | ⭐ 42 | 2026-10-28 | 2026-11-02 |
 | [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) | 1 | ⭐ 10,986 | 2026-08-04 | 2026-08-04 |
 | [coalton-lang/coalton](../repos/coalton-lang/coalton.md) | 1 | ⭐ 1,734 | 2026-08-04 | 2026-08-04 |
@@ -76,4 +76,4 @@
 
 ---
 
-*Last updated: 2026-11-02T21:51:25.402Z*
+*Last updated: 2026-11-03T10:45:18.197Z*

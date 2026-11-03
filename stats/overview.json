@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-02T21:51:32.624Z",
-  "total_repositories": 4313,
-  "trending_today": 299,
-  "new_this_month": 536,
+  "generated_at": "2026-11-03T10:45:25.455Z",
+  "total_repositories": 4330,
+  "trending_today": 313,
+  "new_this_month": 553,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-11-02",
+  "last_collection": "2026-11-03",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
@@ -12,13 +12,13 @@
   },
   "most_frequent": {
     "full_name": "apache/spark",
-    "trending_days": 74,
+    "trending_days": 75,
     "first_seen": "2026-08-01"
   },
   "newest_discovery": {
-    "full_name": "vercel-labs/agent-desktop",
-    "stars": 9320,
-    "first_seen": "2026-11-02"
+    "full_name": "spotify/portal-ai-plugins",
+    "stars": 2904,
+    "first_seen": "2026-11-03"
   },
   "fastest_growing": {
     "full_name": "different-ai/openwork",
@@ -26,11 +26,11 @@
     "growth_rate": 100,
     "first_seen": "2026-08-01"
   },
-  "total_stars": 57790951,
-  "avg_stars": 13399,
+  "total_stars": 57993175,
+  "avg_stars": 13393,
   "avg_trending_days": 6.7,
   "language_count": 62,
-  "topic_count": 10757,
+  "topic_count": 10792,
   "collection_success_rate": 100,
   "data_quality_score": 99
 }

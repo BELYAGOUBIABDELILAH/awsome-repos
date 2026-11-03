@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Solidity |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 1,065 |
-| **Forks** | 🍴 537 |
-| **Trending Days** | 70 |
+| **Stars** | ⭐ 1,064 |
+| **Forks** | 🍴 538 |
+| **Trending Days** | 71 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 2, 2026 |
+| **Last Seen** | Nov 3, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 70
+- **Trending Days**: 71
 - **Longest Streak**: 13 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 1,065+ stars, strong contributor base |
+| **Community** | Very Active | 1,064+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-02T21:51:28.010Z*  
-*Data from 70 trending reports*
+*Last updated: 2026-11-03T10:45:20.842Z*  
+*Data from 71 trending reports*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Common Lisp |
 | **License** | MIT |
-| **Stars** | ⭐ 152 |
-| **Forks** | 🍴 18 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 175 |
+| **Forks** | 🍴 22 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 26, 2026 |
-| **Last Seen** | Oct 27, 2026 |
+| **Last Seen** | Nov 3, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Common Lisp or similar-topics*
+*Similar: Check repositories in Common Lisp or agent-harness*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 2 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-
+[`agent-harness`](../../topics/agent-harness.md) [`agentic-ai`](../../topics/agentic-ai.md) [`ai-agent`](../../topics/ai-agent.md) [`ai-agents`](../../topics/ai-agents.md) [`ai-coding-assistant`](../../topics/ai-coding-assistant.md) [`anthropic`](../../topics/anthropic.md) [`chatgpt`](../../topics/chatgpt.md) [`claude`](../../topics/claude.md) [`claude-code`](../../topics/claude-code.md) [`codex`](../../topics/codex.md) [`coding-agent`](../../topics/coding-agent.md) [`common-lisp`](../../topics/common-lisp.md) [`deepseek`](../../topics/deepseek.md) [`lisp`](../../topics/lisp.md) [`llm`](../../topics/llm.md) [`mcp`](../../topics/mcp.md) [`nodecode`](../../topics/nodecode.md) [`openai`](../../topics/openai.md) [`sbcl`](../../topics/sbcl.md) [`tui`](../../topics/tui.md) 
 
 ### Curated Categories
-`General` 
+`Artificial Intelligence` `Large Language Models` `Frontend Development` `Systems Programming` 
 
 ---
 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 40&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-02T21:51:32.054Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-11-03T10:45:24.874Z*  
+*Data from 3 trending reports*

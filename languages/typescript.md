@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 41,604 | 2026-08-01 | 17 |
+| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 42,976 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 110,330 | 2026-08-02 | 11 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 46,688 | 2026-08-07 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/skills](../repos/vercel-labs/skills.md) | ⭐ 37,797 | 2026-08-10 | 9 |
+| [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 118,046 | 2026-08-17 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lfnovo/open-notebook](../repos/lfnovo/open-notebook.md) | ⭐ 41,389 | 2026-08-11 | 4 |
+| [Crosstalk-Solutions/project-nomad](../repos/Crosstalk-Solutions/project-nomad.md) | ⭐ 41,948 | 2026-09-14 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koala73/worldmonitor](../repos/koala73/worldmonitor.md) | ⭐ 90,022 | 2026-08-28 | 7 |
+| [Fission-AI/OpenSpec](../repos/Fission-AI/OpenSpec.md) | ⭐ 73,779 | 2026-09-19 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Crosstalk-Solutions/project-nomad](../repos/Crosstalk-Solutions/project-nomad.md) | ⭐ 41,855 | 2026-09-14 | 8 |
+| [liguobao/ds-harness-remote](../repos/liguobao/ds-harness-remote.md) | ⭐ 1,404 | 2026-10-23 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/scriptc](../repos/vercel-labs/scriptc.md) | ⭐ 6,476 | 2026-09-27 | 5 |
+| [CNCKitchen/ScanRuler](../repos/CNCKitchen/ScanRuler.md) | ⭐ 770 | 2026-11-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CNCKitchen/ScanRuler](../repos/CNCKitchen/ScanRuler.md) | ⭐ 721 | 2026-11-02 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [cheaper-inference/OmniRoute](../repos/cheaper-inference/OmniRoute.md) | ⭐ 83,958 | 2026-11-02 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [kgoedecke/doop](../repos/kgoedecke/doop.md) | ⭐ 1,551 | 2026-11-02 | 1 |
+| [spotify/portal-ai-plugins](../repos/spotify/portal-ai-plugins.md) | ⭐ 2,904 | 2026-11-03 | 1 |
 
 
 ---
@@ -98,8 +92,8 @@
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 141,850 | 2026-08-02 | 8 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 137,929 | 2026-08-02 | 16 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | 2026-07-31 | 3 |
+| [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 118,046 | 2026-08-17 | 4 |
 | [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 116,129 | 2026-08-07 | 12 |
-| [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 114,136 | 2026-08-17 | 3 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 110,330 | 2026-08-02 | 11 |
 | [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 108,379 | 2026-08-23 | 2 |
 | [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 103,697 | 2026-08-11 | 23 |
@@ -119,9 +113,9 @@
 | [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 23 | ⭐ 74,642 | 2026-08-08 | 2026-10-28 |
 | [stablyai/orca](../repos/stablyai/orca.md) | 23 | ⭐ 103,697 | 2026-08-11 | 2026-10-23 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | 20 | ⭐ 152,634 | 2026-08-07 | 2026-10-20 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 20 | ⭐ 46,688 | 2026-08-07 | 2026-11-03 |
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 20 | ⭐ 78,178 | 2026-08-10 | 2026-10-21 |
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 19 | ⭐ 41,516 | 2026-08-07 | 2026-10-25 |
-| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 17 | ⭐ 41,604 | 2026-08-01 | 2026-11-02 |
+| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 18 | ⭐ 42,976 | 2026-08-01 | 2026-11-03 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 16 | ⭐ 137,929 | 2026-08-02 | 2026-10-27 |
 | [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 14 | ⭐ 54,366 | 2026-08-01 | 2026-10-28 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 14 | ⭐ 34,200 | 2026-08-02 | 2026-10-03 |
@@ -233,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-11-02T21:51:25.499Z*
+*Last updated: 2026-11-03T10:45:18.340Z*

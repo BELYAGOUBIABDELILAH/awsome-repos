@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [debezium/debezium](../repos/debezium/debezium.md) | ⭐ 13,307 | 2026-08-01 | 6 |
+| [LaurieWired/GhidraMCP](../repos/LaurieWired/GhidraMCP.md) | ⭐ 11,731 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LiteLDev/LeviLaunchroid](../repos/LiteLDev/LeviLaunchroid.md) | ⭐ 671 | 2026-08-02 | 4 |
+| [modelcontextprotocol/java-sdk](../repos/modelcontextprotocol/java-sdk.md) | ⭐ 3,761 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/Shizuku-API](../repos/RikkaApps/Shizuku-API.md) | ⭐ 2,733 | 2026-08-02 | 8 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 27,723 | 2026-08-02 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [adityatandon15/Low-Level-Design-Course](../repos/adityatandon15/Low-Level-Design-Course.md) | ⭐ 1,422 | 2026-08-03 | 8 |
+| [adityatandon15/Low-Level-Design-Course](../repos/adityatandon15/Low-Level-Design-Course.md) | ⭐ 1,425 | 2026-08-03 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microg/GmsCore](../repos/microg/GmsCore.md) | ⭐ 15,171 | 2026-08-06 | 17 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 97,368 | 2026-08-03 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ReChronoRain/HyperCeiler](../repos/ReChronoRain/HyperCeiler.md) | ⭐ 5,637 | 2026-08-10 | 9 |
+| [cabaletta/baritone](../repos/cabaletta/baritone.md) | ⭐ 9,340 | 2026-08-03 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FCL-Team/FoldCraftLauncher](../repos/FCL-Team/FoldCraftLauncher.md) | ⭐ 5,127 | 2026-08-17 | 11 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 6,231 | 2026-08-05 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Keeperorowner/NagramXF](../repos/Keeperorowner/NagramXF.md) | ⭐ 1,090 | 2026-08-24 | 3 |
+| [microg/GmsCore](../repos/microg/GmsCore.md) | ⭐ 15,176 | 2026-08-06 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JetBrains/intellij-community](../repos/JetBrains/intellij-community.md) | ⭐ 20,702 | 2026-08-25 | 6 |
+| [apache/iceberg](../repos/apache/iceberg.md) | ⭐ 9,400 | 2026-08-12 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AndroidCSOfficial/android-code-studio](../repos/AndroidCSOfficial/android-code-studio.md) | ⭐ 1,388 | 2026-09-28 | 2 |
+| [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 51,521 | 2026-08-12 | 11 |
 
 
 ---
@@ -76,7 +76,7 @@
 | [apache/shenyu](../repos/apache/shenyu.md) | ⭐ 8,891 | 2026-10-18 | Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governa... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [MewX/light-novel-library_Wenku8_Android](../repos/MewX/light-novel-library_Wenku8_Android.md) | ⭐ 3,338 | 2026-10-19 | [CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安... |
+| [MewX/light-novel-library_Wenku8_Android](../repos/MewX/light-novel-library_Wenku8_Android.md) | ⭐ 3,351 | 2026-10-19 | [CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [apache/nifi](../repos/apache/nifi.md) | ⭐ 6,273 | 2026-10-23 | Apache NiFi |
@@ -89,7 +89,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 131,621 | 2026-08-04 | 16 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 95,821 | 2026-08-03 | 28 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 97,368 | 2026-08-03 | 29 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,760 | 2026-08-04 | 20 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,425 | 2026-08-02 | 24 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
@@ -98,7 +98,7 @@
 | [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,300 | 2026-08-08 | 11 |
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 52,224 | 2026-08-04 | 14 |
 | [google/guava](../repos/google/guava.md) | ⭐ 51,912 | 2026-08-02 | 12 |
-| [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 51,037 | 2026-08-12 | 10 |
+| [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 51,521 | 2026-08-12 | 11 |
 | [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 48,307 | 2026-08-07 | 11 |
 | [ReactiveX/RxJava](../repos/ReactiveX/RxJava.md) | ⭐ 48,208 | 2026-08-28 | 1 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 42,547 | 2026-08-05 | 19 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 29 | ⭐ 6,181 | 2026-08-05 | 2026-10-29 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 28 | ⭐ 95,821 | 2026-08-03 | 2026-10-29 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 30 | ⭐ 6,231 | 2026-08-05 | 2026-11-03 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 29 | ⭐ 97,368 | 2026-08-03 | 2026-11-03 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 24 | ⭐ 78,425 | 2026-08-02 | 2026-10-28 |
 | [kestra-io/kestra](../repos/kestra-io/kestra.md) | 23 | ⭐ 29,909 | 2026-08-04 | 2026-10-20 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 20 | ⭐ 27,723 | 2026-08-02 | 2026-11-03 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 20 | ⭐ 81,760 | 2026-08-04 | 2026-10-22 |
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 19 | ⭐ 27,448 | 2026-08-02 | 2026-10-18 |
+| [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | 20 | ⭐ 7,452 | 2026-08-14 | 2026-11-03 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 19 | ⭐ 42,547 | 2026-08-05 | 2026-10-18 |
-| [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | 19 | ⭐ 7,345 | 2026-08-14 | 2026-10-29 |
 | [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 18 | ⭐ 35,578 | 2026-08-04 | 2026-10-26 |
-| [iflytek/skillhub](../repos/iflytek/skillhub.md) | 17 | ⭐ 5,277 | 2026-08-04 | 2026-10-23 |
+| [microg/GmsCore](../repos/microg/GmsCore.md) | 18 | ⭐ 15,176 | 2026-08-06 | 2026-11-03 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-02T21:51:25.436Z*
+*Last updated: 2026-11-03T10:45:18.243Z*

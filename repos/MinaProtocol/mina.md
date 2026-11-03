@@ -13,12 +13,12 @@
 | **Language** | OCaml |
 | **License** | Apache-2.0 |
 | **Stars** | ⭐ 2,128 |
-| **Forks** | 🍴 586 |
-| **Trending Days** | 31 |
+| **Forks** | 🍴 587 |
+| **Trending Days** | 32 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Oct 22, 2026 |
+| **Last Seen** | Nov 3, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 31
+- **Trending Days**: 32
 - **Longest Streak**: 5 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-02T21:51:27.854Z*  
-*Data from 31 trending reports*
+*Last updated: 2026-11-03T10:45:20.691Z*  
+*Data from 32 trending reports*

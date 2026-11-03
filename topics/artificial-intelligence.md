@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 1019
+- **Total Repositories**: 1025
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-16
-- **Average Stars**: 18133
+- **Average Stars**: 18181
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 66,358 | Python |  |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 38,924 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [MISP/MISP](../repos/MISP/MISP.md) | ⭐ 6,638 | PHP |  |
+| [gitlabhq/gitlabhq](../repos/gitlabhq/gitlabhq.md) | ⭐ 24,550 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,324 | PHP |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,616 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,390 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,391 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 1,143 | OCaml |  |
+| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,346 | Lua |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,615 | OCaml |  |
+| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,128 | OCaml |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,877 | Erlang |  |
+| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 1,149 | OCaml |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,878 | Erlang |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,541 | Perl |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [uiverse-io/galaxy](../repos/uiverse-io/galaxy.md) | ⭐ 14,717 | HTML |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,519 | Vue |  |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,488 | HTML |  |
 
 
 ---
@@ -76,12 +76,6 @@
 | [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 66,358 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 104,830 | Python | 2 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 69,556 | JavaScript | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
 | [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 5,780 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
@@ -91,13 +85,19 @@
 | [cocoindex-io/cocoindex](../repos/cocoindex-io/cocoindex.md) | ⭐ 11,773 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 35,652 | Go | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | ⭐ 9,593 | Java | 1 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 38,924 | Go | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [electron/electron](../repos/electron/electron.md) | ⭐ 123,622 | C++ | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,757 | C# | 3 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,351 | C# | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [PHPMailer/PHPMailer](../repos/PHPMailer/PHPMailer.md) | ⭐ 22,338 | PHP | 2 |
 
 ---
 
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-11-03](../archive/2026/11/2026-11-03.md)
+- 55 repositories trending
+- Top: Fission-AI&#x2F;OpenSpec
+
 ### [2026-11-02](../archive/2026/11/2026-11-02.md)
 - 43 repositories trending
 - Top: Genymobile&#x2F;scrcpy
@@ -150,10 +154,6 @@
 - 81 repositories trending
 - Top: n8n-io&#x2F;n8n
 
-### [2026-10-27](../archive/2026/10/2026-10-27.md)
-- 81 repositories trending
-- Top: Panniantong&#x2F;Agent-Reach
-
 
 ---
 
@@ -163,15 +163,15 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 74 days | 2026-08-01 | 2026-11-02 |
-| [emqx/emqx](../repos/emqx/emqx.md) | 63 days | 2026-08-01 | 2026-11-02 |
-| [vim/vim](../repos/vim/vim.md) | 62 days | 2026-08-01 | 2026-11-02 |
-| [joernio/joern](../repos/joernio/joern.md) | 61 days | 2026-08-01 | 2026-10-27 |
+| [apache/spark](../repos/apache/spark.md) | 75 days | 2026-08-01 | 2026-11-03 |
+| [emqx/emqx](../repos/emqx/emqx.md) | 64 days | 2026-08-01 | 2026-11-03 |
+| [vim/vim](../repos/vim/vim.md) | 63 days | 2026-08-01 | 2026-11-03 |
+| [joernio/joern](../repos/joernio/joern.md) | 62 days | 2026-08-01 | 2026-11-03 |
 | [ocaml/ocaml](../repos/ocaml/ocaml.md) | 60 days | 2026-08-01 | 2026-11-02 |
-| [firezone/firezone](../repos/firezone/firezone.md) | 50 days | 2026-08-02 | 2026-10-29 |
-| [rails/rails](../repos/rails/rails.md) | 49 days | 2026-08-02 | 2026-11-02 |
+| [firezone/firezone](../repos/firezone/firezone.md) | 51 days | 2026-08-02 | 2026-11-03 |
+| [rails/rails](../repos/rails/rails.md) | 50 days | 2026-08-02 | 2026-11-03 |
 | [discourse/discourse](../repos/discourse/discourse.md) | 48 days | 2026-08-01 | 2026-10-29 |
-| [OpenKore/openkore](../repos/OpenKore/openkore.md) | 42 days | 2026-08-01 | 2026-11-02 |
+| [OpenKore/openkore](../repos/OpenKore/openkore.md) | 43 days | 2026-08-01 | 2026-11-03 |
 | [ocaml/dune](../repos/ocaml/dune.md) | 41 days | 2026-08-01 | 2026-10-29 |
 
 ---
@@ -179,14 +179,14 @@
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Python**: 148 repositories (15%)
-- **Go**: 128 repositories (13%)
-- **TypeScript**: 114 repositories (11%)
-- **Rust**: 68 repositories (7%)
-- **JavaScript**: 58 repositories (6%)
+- **Python**: 149 repositories (15%)
+- **Go**: 129 repositories (13%)
+- **TypeScript**: 113 repositories (11%)
+- **Rust**: 71 repositories (7%)
+- **C++**: 58 repositories (6%)
 
 ### Trending Frequency
-- **Daily Average**: 79.8 repositories
+- **Daily Average**: 79.5 repositories
 - **Peak Day**: 2026-08-19 (146 repositories)
 - **Growth Rate**: 12% this month
 
@@ -302,4 +302,4 @@
 
 ---
 
-*Last updated: 2026-11-02T21:51:25.019Z*
+*Last updated: 2026-11-03T10:45:17.818Z*

@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 306
+- **Total Repositories**: 309
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-11-02
+- **Last Updated**: 2026-11-03
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 66,358 | 2026-08-01 | 8 |
+| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 495,697 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 495,481 | 2026-08-01 | 10 |
+| [shiyu-coder/Kronos](../repos/shiyu-coder/Kronos.md) | ⭐ 46,210 | 2026-08-03 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shiyu-coder/Kronos](../repos/shiyu-coder/Kronos.md) | ⭐ 45,960 | 2026-08-03 | 9 |
+| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,332 | 2026-08-04 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 145,456 | 2026-08-14 | 11 |
+| [blader/humanizer](../repos/blader/humanizer.md) | ⭐ 64,188 | 2026-08-05 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 38,023 | 2026-08-29 | 8 |
+| [MakazhanAlpamys/Soup](../repos/MakazhanAlpamys/Soup.md) | ⭐ 10,059 | 2026-08-15 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [derv82/wifit3](../repos/derv82/wifit3.md) | ⭐ 3,042 | 2026-09-25 | 3 |
+| [shy3130/tick-stock-panel](../repos/shy3130/tick-stock-panel.md) | ⭐ 6,959 | 2026-08-23 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mealie-recipes/mealie](../repos/mealie-recipes/mealie.md) | ⭐ 13,781 | 2026-09-28 | 2 |
+| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 38,413 | 2026-08-29 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [beenuar/AiSOC](../repos/beenuar/AiSOC.md) | ⭐ 6,658 | 2026-10-28 | 3 |
+| [jordan-gibbs/hyperresearch](../repos/jordan-gibbs/hyperresearch.md) | ⭐ 4,355 | 2026-09-12 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FlashML-org/FreeToken](../repos/FlashML-org/FreeToken.md) | ⭐ 15,987 | 2026-11-02 | 1 |
+| [derv82/wifit3](../repos/derv82/wifit3.md) | ⭐ 3,064 | 2026-09-25 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [karpathy/nanochat](../repos/karpathy/nanochat.md) | ⭐ 59,824 | 2026-11-02 | 1 |
+| [FlashML-org/FreeToken](../repos/FlashML-org/FreeToken.md) | ⭐ 16,391 | 2026-11-02 | 2 |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 495,481 | 2026-08-01 | 10 |
+| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 495,697 | 2026-08-01 | 11 |
 | [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 368,341 | 2026-08-03 | 6 |
 | [vinta/awesome-python](../repos/vinta/awesome-python.md) | ⭐ 319,105 | 2026-09-07 | 1 |
 | [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 285,114 | 2026-08-08 | 4 |
@@ -115,6 +115,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [github/copilot-cli](../repos/github/copilot-cli.md) | 24 | ⭐ 11,332 | 2026-08-04 | 2026-11-03 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 17 | ⭐ 132,098 | 2026-08-01 | 2026-10-16 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 17 | ⭐ 243,012 | 2026-08-01 | 2026-09-07 |
 | [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 17 | ⭐ 65,960 | 2026-08-22 | 2026-10-14 |
@@ -124,7 +125,6 @@
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 14 | ⭐ 104,830 | 2026-08-01 | 2026-10-27 |
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 14 | ⭐ 4,651 | 2026-08-01 | 2026-09-24 |
 | [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | 14 | ⭐ 43,153 | 2026-08-07 | 2026-10-19 |
-| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | 13 | ⭐ 141,991 | 2026-08-05 | 2026-10-22 |
 
 ---
 
@@ -184,6 +184,7 @@
 - [alirezarezvani/claude-skills](../repos/alirezarezvani/claude-skills.md) - 380 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 380+ skills, cu...
 - [harvard-edge/cs249r_book](../repos/harvard-edge/cs249r_book.md) - Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard...
 - [spesmilo/electrum](../repos/spesmilo/electrum.md) - Electrum Bitcoin Wallet
+- [github/copilot-cli](../repos/github/copilot-cli.md) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
 - [roboflow/supervision](../repos/roboflow/supervision.md) - We write your reusable computer vision tools. 💜
 - [Comfy-Org/workflow_templates](../repos/Comfy-Org/workflow_templates.md) - ComfyUI template workflows
 - [mpfaffenberger/code_puppy](../repos/mpfaffenberger/code_puppy.md) - Agentic AI for writing code
@@ -229,8 +230,7 @@
 - [AWeirdDev/flights](../repos/AWeirdDev/flights.md) - Fast, robust Google Flights scraper (API) for Python. (Probably)
 - [cactus-compute/needle](../repos/cactus-compute/needle.md) - Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction a...
 - [NVlabs/GR00T-WholeBodyControl](../repos/NVlabs/GR00T-WholeBodyControl.md) - Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deployin...
-- [AgriciDaniel/claude-obsidian](../repos/AgriciDaniel/claude-obsidian.md) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, lin...
 
 ---
 
-*Last updated: 2026-11-02T21:51:25.474Z*
+*Last updated: 2026-11-03T10:45:18.300Z*

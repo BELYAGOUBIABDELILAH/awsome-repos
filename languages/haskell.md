@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 37
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-02
+- **Last Updated**: 2026-11-03
 
 ---
 
@@ -16,19 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,275 | 2026-08-01 | 67 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,277 | 2026-08-01 | 68 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 2,032 | 2026-08-01 | 49 |
+| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,173 | 2026-08-01 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mtolly/onyx](../repos/mtolly/onyx.md) | ⭐ 308 | 2026-08-08 | 35 |
+| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 2,036 | 2026-08-01 | 50 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hledgerorg/hledger](../repos/hledgerorg/hledger.md) | ⭐ 4,807 | 2026-09-29 | 20 |
+| [mtolly/onyx](../repos/mtolly/onyx.md) | ⭐ 309 | 2026-08-08 | 36 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [reanimate/reanimate](../repos/reanimate/reanimate.md) | ⭐ 1,232 | 2026-11-02 | 1 |
+| [reanimate/reanimate](../repos/reanimate/reanimate.md) | ⭐ 1,236 | 2026-11-02 | 2 |
 
 
 ---
@@ -40,7 +40,7 @@
 | [ghc/ghc](../repos/ghc/ghc.md) | ⭐ 3,274 | 2026-10-22 | Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC&#39;s Gitlab instance... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [reanimate/reanimate](../repos/reanimate/reanimate.md) | ⭐ 1,232 | 2026-11-02 | Haskell library for building declarative animations based on SVG graphics |
+| [reanimate/reanimate](../repos/reanimate/reanimate.md) | ⭐ 1,236 | 2026-11-02 | Haskell library for building declarative animations based on SVG graphics |
 
 
 ---
@@ -49,7 +49,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,275 | 2026-08-01 | 67 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,277 | 2026-08-01 | 68 |
 | [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,736 | 2026-08-01 | 63 |
 | [purescript/purescript](../repos/purescript/purescript.md) | ⭐ 8,917 | 2026-08-08 | 5 |
 | [elm/compiler](../repos/elm/compiler.md) | ⭐ 7,907 | 2026-08-09 | 5 |
@@ -59,13 +59,13 @@
 | [hledgerorg/hledger](../repos/hledgerorg/hledger.md) | ⭐ 4,807 | 2026-09-29 | 20 |
 | [commercialhaskell/stack](../repos/commercialhaskell/stack.md) | ⭐ 4,081 | 2026-08-05 | 20 |
 | [ghc/ghc](../repos/ghc/ghc.md) | ⭐ 3,274 | 2026-10-22 | 2 |
-| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,174 | 2026-08-01 | 31 |
+| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,173 | 2026-08-01 | 32 |
 | [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | ⭐ 2,963 | 2026-08-01 | 24 |
 | [agda/agda](../repos/agda/agda.md) | ⭐ 2,959 | 2026-08-03 | 34 |
 | [wireapp/wire-server](../repos/wireapp/wire-server.md) | ⭐ 2,783 | 2026-08-04 | 2 |
 | [diku-dk/futhark](../repos/diku-dk/futhark.md) | ⭐ 2,778 | 2026-08-02 | 1 |
 | [nammayatri/nammayatri](../repos/nammayatri/nammayatri.md) | ⭐ 2,565 | 2026-08-03 | 14 |
-| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 2,032 | 2026-08-01 | 49 |
+| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 2,036 | 2026-08-01 | 50 |
 | [haskell-servant/servant](../repos/haskell-servant/servant.md) | ⭐ 1,967 | 2026-09-02 | 1 |
 | [haskell/cabal](../repos/haskell/cabal.md) | ⭐ 1,749 | 2026-08-01 | 30 |
 | [IntersectMBO/plutus](../repos/IntersectMBO/plutus.md) | ⭐ 1,635 | 2026-08-05 | 2 |
@@ -76,12 +76,12 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 67 | ⭐ 40,275 | 2026-08-01 | 2026-11-02 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 68 | ⭐ 40,277 | 2026-08-01 | 2026-11-03 |
 | [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | 63 | ⭐ 27,736 | 2026-08-01 | 2026-10-29 |
-| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | 49 | ⭐ 2,032 | 2026-08-01 | 2026-11-02 |
-| [mtolly/onyx](../repos/mtolly/onyx.md) | 35 | ⭐ 308 | 2026-08-08 | 2026-11-02 |
+| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | 50 | ⭐ 2,036 | 2026-08-01 | 2026-11-03 |
+| [mtolly/onyx](../repos/mtolly/onyx.md) | 36 | ⭐ 309 | 2026-08-08 | 2026-11-03 |
 | [agda/agda](../repos/agda/agda.md) | 34 | ⭐ 2,959 | 2026-08-03 | 2026-10-29 |
-| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | 31 | ⭐ 3,174 | 2026-08-01 | 2026-10-29 |
+| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | 32 | ⭐ 3,173 | 2026-08-01 | 2026-11-03 |
 | [haskell/cabal](../repos/haskell/cabal.md) | 30 | ⭐ 1,749 | 2026-08-01 | 2026-10-29 |
 | [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | 24 | ⭐ 2,963 | 2026-08-01 | 2026-10-29 |
 | [commercialhaskell/stack](../repos/commercialhaskell/stack.md) | 20 | ⭐ 4,081 | 2026-08-05 | 2026-10-29 |
@@ -131,4 +131,4 @@
 
 ---
 
-*Last updated: 2026-11-02T21:51:25.434Z*
+*Last updated: 2026-11-03T10:45:18.239Z*

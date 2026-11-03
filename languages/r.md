@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 29
+- **Total Repositories**: 30
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-29
 
@@ -16,13 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,621 | 2026-08-01 | 45 |
+| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,621 | 2026-08-01 | 46 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 894 | 2026-08-01 | 44 |
+| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 690 | 2026-08-01 | 52 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 441 | 2026-08-08 | 48 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 441 | 2026-08-08 | 49 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [carob-data/carob](../repos/carob-data/carob.md) | ⭐ 24 | 2026-11-03 | 1 |
 
 
 ---
@@ -53,6 +56,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [joey711/phyloseq](../repos/joey711/phyloseq.md) | ⭐ 651 | 2026-10-28 | phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [carob-data/carob](../repos/carob-data/carob.md) | ⭐ 24 | 2026-11-03 | Carob: standardizing agricultural research data |
 
 
 ---
@@ -65,7 +71,7 @@
 | [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,707 | 2026-08-02 | 31 |
 | [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,187 | 2026-08-04 | 23 |
 | [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,079 | 2026-08-04 | 30 |
-| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,621 | 2026-08-01 | 45 |
+| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,621 | 2026-08-01 | 46 |
 | [briatte/awesome-network-analysis](../repos/briatte/awesome-network-analysis.md) | ⭐ 4,134 | 2026-10-18 | 2 |
 | [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,927 | 2026-08-04 | 32 |
 | [rstudio/rmarkdown](../repos/rstudio/rmarkdown.md) | ⭐ 3,068 | 2026-08-08 | 11 |
@@ -76,11 +82,11 @@
 | [allisonhorst/palmerpenguins](../repos/allisonhorst/palmerpenguins.md) | ⭐ 1,020 | 2026-10-06 | 3 |
 | [r-lib/usethis](../repos/r-lib/usethis.md) | ⭐ 922 | 2026-09-24 | 1 |
 | [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 894 | 2026-08-01 | 44 |
-| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 689 | 2026-08-01 | 51 |
+| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 690 | 2026-08-01 | 52 |
 | [joey711/phyloseq](../repos/joey711/phyloseq.md) | ⭐ 651 | 2026-10-28 | 2 |
 | [benjjneb/dada2](../repos/benjjneb/dada2.md) | ⭐ 561 | 2026-10-11 | 13 |
 | [posit-dev/skills](../repos/posit-dev/skills.md) | ⭐ 486 | 2026-08-03 | 8 |
-| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 441 | 2026-08-08 | 48 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 441 | 2026-08-08 | 49 |
 
 ---
 
@@ -88,10 +94,10 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [jinworks/CellChat](../repos/jinworks/CellChat.md) | 51 | ⭐ 689 | 2026-08-01 | 2026-10-29 |
-| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | 48 | ⭐ 441 | 2026-08-08 | 2026-11-02 |
+| [jinworks/CellChat](../repos/jinworks/CellChat.md) | 52 | ⭐ 690 | 2026-08-01 | 2026-11-03 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | 49 | ⭐ 441 | 2026-08-08 | 2026-11-03 |
 | [satijalab/seurat](../repos/satijalab/seurat.md) | 47 | ⭐ 2,811 | 2026-08-01 | 2026-10-29 |
-| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | 45 | ⭐ 4,621 | 2026-08-01 | 2026-11-02 |
+| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | 46 | ⭐ 4,621 | 2026-08-01 | 2026-11-03 |
 | [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | 44 | ⭐ 894 | 2026-08-01 | 2026-11-02 |
 | [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | 34 | ⭐ 7,023 | 2026-08-04 | 2026-10-29 |
 | [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | 32 | ⭐ 3,927 | 2026-08-04 | 2026-10-29 |
@@ -132,7 +138,8 @@
 - [ben-domingue/irw](../repos/ben-domingue/irw.md) - Code related to data for the Item Response Warehouse
 - [lmu-osc/Collaborative-RStudio-GitHub](../repos/lmu-osc/Collaborative-RStudio-GitHub.md) - 
 - [joey711/phyloseq](../repos/joey711/phyloseq.md) - phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and ...
+- [carob-data/carob](../repos/carob-data/carob.md) - Carob: standardizing agricultural research data
 
 ---
 
-*Last updated: 2026-11-02T21:51:25.479Z*
+*Last updated: 2026-11-03T10:45:18.306Z*

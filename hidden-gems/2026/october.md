@@ -7,7 +7,7 @@
 ## October 2026
 
 **Period**: 2026-10-01 to 2026-10-28  
-**Gems Found**: 592
+**Gems Found**: 554
 
 ---
 
@@ -51,27 +51,7 @@
 
 ---
 
-### 3. [nightly-labs&#x2F;openbot](../../repos/nightly-labs/openbot.md)
-
-**A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 3,806 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 96/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Oct 25, 2026 |
-
-**Why it's a gem**: High growth velocity (+1162 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/nightly-labs/openbot.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;nightly-labs&#x2F;openbot)
-
----
-
-### 4. [julyx10&#x2F;lap](../../repos/julyx10/lap.md)
+### 3. [julyx10&#x2F;lap](../../repos/julyx10/lap.md)
 
 **An offline-first photo manager for large local libraries**
 
@@ -91,7 +71,7 @@
 
 ---
 
-### 5. [mixelpixx&#x2F;Konnect](../../repos/mixelpixx/Konnect.md)
+### 4. [mixelpixx&#x2F;Konnect](../../repos/mixelpixx/Konnect.md)
 
 **AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing**
 
@@ -111,7 +91,7 @@
 
 ---
 
-### 6. [plugin87&#x2F;ux-ui-agent-skills](../../repos/plugin87/ux-ui-agent-skills.md)
+### 5. [plugin87&#x2F;ux-ui-agent-skills](../../repos/plugin87/ux-ui-agent-skills.md)
 
 **Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.**
 
@@ -128,6 +108,26 @@
 **Best for**: 
 
 [View Passport](../../repos/plugin87/ux-ui-agent-skills.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;plugin87&#x2F;ux-ui-agent-skills)
+
+---
+
+### 6. [nightly-labs&#x2F;openbot](../../repos/nightly-labs/openbot.md)
+
+**A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3,806 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 95/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Oct 25, 2026 |
+
+**Why it's a gem**: High growth velocity (+1162 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/nightly-labs/openbot.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;nightly-labs&#x2F;openbot)
 
 ---
 
@@ -171,27 +171,7 @@
 
 ---
 
-### 9. [PrismML-Eng&#x2F;Bonsai-demo](../../repos/PrismML-Eng/Bonsai-demo.md)
-
-**Bonsai Demo**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 3,393 |
-| 💻 **Language** | Shell |
-| 🏆 **Gem Score** | 94/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 15, 2026 |
-
-**Why it's a gem**: High growth velocity (+103 stars&#x2F;day) • Trending 6 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/PrismML-Eng/Bonsai-demo.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;PrismML-Eng&#x2F;Bonsai-demo)
-
----
-
-### 10. [Jakubantalik&#x2F;transitions.dev](../../repos/Jakubantalik/transitions.dev.md)
+### 9. [Jakubantalik&#x2F;transitions.dev](../../repos/Jakubantalik/transitions.dev.md)
 
 **UI motion agent, a library of 43+ crafted transitions, a skill that fits your workflow.**
 
@@ -211,7 +191,7 @@
 
 ---
 
-### 11. [darkzOGx&#x2F;youtube-automation-agent](../../repos/darkzOGx/youtube-automation-agent.md)
+### 10. [darkzOGx&#x2F;youtube-automation-agent](../../repos/darkzOGx/youtube-automation-agent.md)
 
 **🎬 Open-source, self-hosted AI agent that runs a YouTube channel end to end: researches topics, writes scripts, generates narration, visuals and video, optimizes SEO, and publishes after your approval, then learns from analytics. Works with Gemini, OpenAI, OpenRouter, DeepSeek and more.**
 
@@ -228,6 +208,26 @@
 **Best for**: 
 
 [View Passport](../../repos/darkzOGx/youtube-automation-agent.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;darkzOGx&#x2F;youtube-automation-agent)
+
+---
+
+### 11. [PrismML-Eng&#x2F;Bonsai-demo](../../repos/PrismML-Eng/Bonsai-demo.md)
+
+**Bonsai Demo**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3,393 |
+| 💻 **Language** | Shell |
+| 🏆 **Gem Score** | 93/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 15, 2026 |
+
+**Why it's a gem**: High growth velocity (+103 stars&#x2F;day) • Trending 6 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/PrismML-Eng/Bonsai-demo.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;PrismML-Eng&#x2F;Bonsai-demo)
 
 ---
 
@@ -371,27 +371,7 @@
 
 ---
 
-### 19. [agent-substrate&#x2F;substrate](../../repos/agent-substrate/substrate.md)
-
-**Agent Substrate: the core system**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 5,954 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 19 |
-| 📅 **First Seen** | Aug 2, 2026 |
-
-**Why it's a gem**: High growth velocity (+147 stars&#x2F;day) • Trending 19 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/agent-substrate/substrate.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;agent-substrate&#x2F;substrate)
-
----
-
-### 20. [apache&#x2F;maka](../../repos/apache/maka.md)
+### 19. [apache&#x2F;maka](../../repos/apache/maka.md)
 
 **Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.**
 
@@ -403,11 +383,31 @@
 | 📈 **Trending Days** | 9 |
 | 📅 **First Seen** | Aug 20, 2026 |
 
-**Why it's a gem**: High growth velocity (+363 stars&#x2F;day) • Trending 9 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+363 stars&#x2F;day) • Trending 9 times • Strong community engagement
 
 **Best for**: 
 
 [View Passport](../../repos/apache/maka.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;apache&#x2F;maka)
+
+---
+
+### 20. [makecindy&#x2F;cindy](../../repos/makecindy/cindy.md)
+
+**Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 8,006 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 91/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Oct 9, 2026 |
+
+**Why it's a gem**: High growth velocity (+1657 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/makecindy/cindy.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;makecindy&#x2F;cindy)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-02T21:51:32.415Z*  
+*Generated: 2026-11-03T10:45:25.255Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 180
+- **Total Repositories**: 181
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-29
 
@@ -16,16 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,980 | 2026-08-04 | 4 |
+| [github/awesome-copilot](../repos/github/awesome-copilot.md) | ⭐ 40,746 | 2026-08-14 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 112,798 | 2026-08-05 | 34 |
+| [webbrain-one/webbrain](../repos/webbrain-one/webbrain.md) | ⭐ 1,624 | 2026-08-24 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Orkas-AI/Orkas](../repos/Orkas-AI/Orkas.md) | ⭐ 7,701 | 2026-11-02 | 1 |
+| [DeanChensj/jiangshan-map](../repos/DeanChensj/jiangshan-map.md) | ⭐ 3,751 | 2026-11-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DeanChensj/jiangshan-map](../repos/DeanChensj/jiangshan-map.md) | ⭐ 3,512 | 2026-11-02 | 1 |
+| [csyangwen/dsh-memory-evolve](../repos/csyangwen/dsh-memory-evolve.md) | ⭐ 530 | 2026-11-03 | 1 |
 
 
 ---
@@ -215,4 +215,4 @@
 
 ---
 
-*Last updated: 2026-11-02T21:51:25.439Z*
+*Last updated: 2026-11-03T10:45:18.247Z*

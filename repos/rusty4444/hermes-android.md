@@ -11,14 +11,14 @@
 | | |
 |---|---|
 | **Language** | Dart |
-| **License** | Not specified |
-| **Stars** | ⭐ 438 |
-| **Forks** | 🍴 91 |
-| **Trending Days** | 5 |
+| **License** | MIT |
+| **Stars** | ⭐ 475 |
+| **Forks** | 🍴 97 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 21, 2026 |
-| **Last Seen** | Oct 23, 2026 |
+| **Last Seen** | Nov 3, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 1 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 80&#x2F;100
+- **Trending Score**: 95&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-02T21:51:30.222Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-11-03T10:45:23.010Z*  
+*Data from 6 trending reports*

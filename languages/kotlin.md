@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 65,199 | 2026-08-02 | 22 |
+| [HapeLee/legado-with-MD3](../repos/HapeLee/legado-with-MD3.md) | ⭐ 6,810 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 63,713 | 2026-08-03 | 17 |
+| [LegadoTeam/legado](../repos/LegadoTeam/legado.md) | ⭐ 1,778 | 2026-08-04 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) | ⭐ 2,162 | 2026-08-04 | 13 |
+| [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) | ⭐ 2,164 | 2026-08-04 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SukiSU-Ultra/SukiSU-Ultra](../repos/SukiSU-Ultra/SukiSU-Ultra.md) | ⭐ 6,842 | 2026-08-09 | 13 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 56,312 | 2026-08-06 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Davidona/StreamVault-IPTV](../repos/Davidona/StreamVault-IPTV.md) | ⭐ 961 | 2026-08-12 | 7 |
+| [Davidona/StreamVault-IPTV](../repos/Davidona/StreamVault-IPTV.md) | ⭐ 968 | 2026-08-12 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 18,934 | 2026-08-17 | 8 |
+| [CYQawa/YunX](../repos/CYQawa/YunX.md) | ⭐ 6,355 | 2026-10-06 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Kunzisoft/KeePassDX](../repos/Kunzisoft/KeePassDX.md) | ⭐ 7,601 | 2026-09-01 | 3 |
+| [throneproj/ThroneForAndroid](../repos/throneproj/ThroneForAndroid.md) | ⭐ 699 | 2026-10-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 21,437 | 2026-09-07 | 11 |
+| [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | ⭐ 5,406 | 2026-10-12 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CYQawa/YunX](../repos/CYQawa/YunX.md) | ⭐ 6,312 | 2026-10-06 | 8 |
+| [fahrez182/AxManager](../repos/fahrez182/AxManager.md) | ⭐ 1,544 | 2026-10-17 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | ⭐ 5,313 | 2026-10-12 | 11 |
+| [Mahmud0808/TeleDrive](../repos/Mahmud0808/TeleDrive.md) | ⭐ 429 | 2026-10-25 | 2 |
 
 
 ---
@@ -55,7 +55,7 @@
 | [PimpinPumpkin/Vela](../repos/PimpinPumpkin/Vela.md) | ⭐ 2,279 | 2026-10-06 | Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map d... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [CYQawa/YunX](../repos/CYQawa/YunX.md) | ⭐ 6,312 | 2026-10-06 | ✨一个安卓 网盘解析 + 视频平台解析 下载app✨ |
+| [CYQawa/YunX](../repos/CYQawa/YunX.md) | ⭐ 6,355 | 2026-10-06 | ✨一个安卓 网盘解析 + 视频平台解析 下载app✨ |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ahXN00/OwnTV](../repos/ahXN00/OwnTV.md) | ⭐ 673 | 2026-10-06 | Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker ... |
@@ -73,13 +73,13 @@
 | [BuSung-dev/Root-My-Galaxy](../repos/BuSung-dev/Root-My-Galaxy.md) | ⭐ 1,398 | 2026-10-11 | KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [throneproj/ThroneForAndroid](../repos/throneproj/ThroneForAndroid.md) | ⭐ 586 | 2026-10-11 | Android GUI proxy utility (Empowered by sing-box) |
+| [throneproj/ThroneForAndroid](../repos/throneproj/ThroneForAndroid.md) | ⭐ 699 | 2026-10-11 | Android GUI proxy utility (Empowered by sing-box) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [wasi-master/wmkeyboard](../repos/wasi-master/wmkeyboard.md) | ⭐ 524 | 2026-10-11 | A modern, privacy-first Android keyboard: offline intelligence, 350+ languages, themes, tools and... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | ⭐ 5,313 | 2026-10-12 | BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music |
+| [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | ⭐ 5,406 | 2026-10-12 | BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music |
 
 
 ---
@@ -90,7 +90,7 @@
 |------------|-------|------------|---------------|
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 65,199 | 2026-08-02 | 22 |
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 63,713 | 2026-08-03 | 17 |
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 55,659 | 2026-08-06 | 15 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 56,312 | 2026-08-06 | 16 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,504 | 2026-08-04 | 13 |
 | [android/architecture-samples](../repos/android/architecture-samples.md) | ⭐ 45,876 | 2026-10-14 | 2 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 43,581 | 2026-08-03 | 17 |
@@ -121,10 +121,10 @@
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 18 | ⭐ 24,746 | 2026-08-01 | 2026-10-26 |
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 17 | ⭐ 63,713 | 2026-08-03 | 2026-11-02 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | 17 | ⭐ 43,581 | 2026-08-03 | 2026-10-28 |
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 15 | ⭐ 55,659 | 2026-08-06 | 2026-10-20 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 16 | ⭐ 56,312 | 2026-08-06 | 2026-11-03 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | 14 | ⭐ 11,766 | 2026-08-02 | 2026-10-20 |
+| [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) | 14 | ⭐ 2,164 | 2026-08-04 | 2026-11-03 |
 | [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | 13 | ⭐ 8,363 | 2026-08-02 | 2026-10-21 |
-| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | 13 | ⭐ 10,935 | 2026-08-03 | 2026-10-12 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-02T21:51:25.445Z*
+*Last updated: 2026-11-03T10:45:18.257Z*

@@ -1,6 +1,6 @@
 # JustVugg&#x2F;colibri
 
-> Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+> A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;JustVugg&#x2F;colibri) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 46,480 |
-| **Forks** | 🍴 5,373 |
-| **Trending Days** | 21 |
+| **Stars** | ⭐ 46,885 |
+| **Forks** | 🍴 5,413 |
+| **Trending Days** | 22 |
 | **Peak Rank** | #1 |
 
 | **First Seen** | Sep 1, 2026 |
-| **Last Seen** | Nov 2, 2026 |
+| **Last Seen** | Nov 3, 2026 |
 
 
 ---
@@ -47,11 +47,12 @@
 **Sep 13, 2026** — Rank #1 (+960 ⭐)  
 **Sep 14, 2026** — Rank #1 (+2233 ⭐)  
 **Nov 2, 2026** — Rank #10 (+655 ⭐)  
+**Nov 3, 2026** — Rank #4 (+675 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #1
-- **Trending Days**: 21
+- **Trending Days**: 22
 - **Longest Streak**: 4 days
 
 ---
@@ -95,5 +96,5 @@
 
 ---
 
-*Last updated: 2026-11-02T21:51:30.619Z*  
-*Data from 21 trending reports*
+*Last updated: 2026-11-03T10:45:23.419Z*  
+*Data from 22 trending reports*

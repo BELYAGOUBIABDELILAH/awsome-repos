@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 144
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-27
+- **Last Updated**: 2026-11-03
 
 ---
 
@@ -16,28 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 13,740 | 2026-08-01 | 30 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 28,663 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [momenbasel/PureMac](../repos/momenbasel/PureMac.md) | ⭐ 7,594 | 2026-08-04 | 11 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,525 | 2026-08-05 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jellyfin/Swiftfin](../repos/jellyfin/Swiftfin.md) | ⭐ 4,251 | 2026-08-14 | 6 |
+| [abue-ammar/tinycast](../repos/abue-ammar/tinycast.md) | ⭐ 9,092 | 2026-09-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [farzaa/clicky](../repos/farzaa/clicky.md) | ⭐ 7,910 | 2026-09-04 | 8 |
+| [ZingerLittleBee/Heeler](../repos/ZingerLittleBee/Heeler.md) | ⭐ 741 | 2026-09-21 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | ⭐ 1,289 | 2026-09-13 | 8 |
+| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 14,554 | 2026-09-21 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HD838A/remote-mic-app](../repos/HD838A/remote-mic-app.md) | ⭐ 2,305 | 2026-10-08 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [hugeBlack/GetMoreRam](../repos/hugeBlack/GetMoreRam.md) | ⭐ 434 | 2026-10-17 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [YangJiiii/3105](../repos/YangJiiii/3105.md) | ⭐ 970 | 2026-10-25 | 2 |
+| [HD838A/remote-mic-app](../repos/HD838A/remote-mic-app.md) | ⭐ 2,334 | 2026-10-08 | 5 |
 
 
 ---
@@ -61,7 +55,7 @@
 | [apple/swift-argument-parser](../repos/apple/swift-argument-parser.md) | ⭐ 3,793 | 2026-10-08 | Straightforward, type-safe argument parsing for Swift |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [HD838A/remote-mic-app](../repos/HD838A/remote-mic-app.md) | ⭐ 2,305 | 2026-10-08 | 无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备 |
+| [HD838A/remote-mic-app](../repos/HD838A/remote-mic-app.md) | ⭐ 2,334 | 2026-10-08 | 无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [bobsupra/NuvioTVOS](../repos/bobsupra/NuvioTVOS.md) | ⭐ 286 | 2026-10-11 | Nuvio tvOS client |
@@ -82,12 +76,12 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,521 | 2026-08-05 | 16 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,525 | 2026-08-05 | 17 |
 | [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) | ⭐ 53,673 | 2026-09-04 | 5 |
 | [apple/container](../repos/apple/container.md) | ⭐ 50,809 | 2026-08-01 | 17 |
 | [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,920 | 2026-08-12 | 15 |
 | [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,277 | 2026-09-01 | 4 |
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 28,610 | 2026-08-01 | 25 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 28,663 | 2026-08-01 | 26 |
 | [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 27,997 | 2026-08-04 | 4 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,918 | 2026-08-04 | 16 |
 | [ReactiveX/RxSwift](../repos/ReactiveX/RxSwift.md) | ⭐ 24,646 | 2026-08-15 | 1 |
@@ -110,12 +104,12 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 30 | ⭐ 13,740 | 2026-08-01 | 2026-11-02 |
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 25 | ⭐ 28,610 | 2026-08-01 | 2026-10-29 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 26 | ⭐ 28,663 | 2026-08-01 | 2026-11-03 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 22 | ⭐ 14,999 | 2026-08-04 | 2026-10-29 |
 | [apple/container](../repos/apple/container.md) | 17 | ⭐ 50,809 | 2026-08-01 | 2026-10-19 |
 | [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 17 | ⭐ 9,359 | 2026-08-02 | 2026-10-27 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | 17 | ⭐ 70,525 | 2026-08-05 | 2026-11-03 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 16 | ⭐ 26,918 | 2026-08-04 | 2026-10-23 |
-| [swiftlang/swift](../repos/swiftlang/swift.md) | 16 | ⭐ 70,521 | 2026-08-05 | 2026-10-27 |
 | [apple/swift-nio](../repos/apple/swift-nio.md) | 15 | ⭐ 8,538 | 2026-08-04 | 2026-10-22 |
 | [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | 15 | ⭐ 36,920 | 2026-08-12 | 2026-10-27 |
 | [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | 14 | ⭐ 14,686 | 2026-08-17 | 2026-10-19 |
@@ -227,4 +221,4 @@
 
 ---
 
-*Last updated: 2026-11-02T21:51:25.495Z*
+*Last updated: 2026-11-03T10:45:18.333Z*

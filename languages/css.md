@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 80
+- **Total Repositories**: 81
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-02
 
@@ -16,16 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,427 | 2026-08-04 | 30 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,479 | 2026-08-01 | 56 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,623 | 2026-08-05 | 23 |
+| [zarazhangrui/codebase-to-course](../repos/zarazhangrui/codebase-to-course.md) | ⭐ 5,762 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,947 | 2026-08-06 | 27 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,432 | 2026-08-04 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 6,864 | 2026-08-10 | 26 |
+| [NsCDE/NsCDE](../repos/NsCDE/NsCDE.md) | ⭐ 2,380 | 2026-11-03 | 1 |
 
 
 ---
@@ -72,7 +72,7 @@
 |------------|-------|------------|---------------|
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,947 | 2026-08-06 | 27 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,503 | 2026-08-01 | 13 |
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,427 | 2026-08-04 | 30 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,432 | 2026-08-04 | 31 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 41,980 | 2026-08-02 | 40 |
 | [adobe-fonts/source-code-pro](../repos/adobe-fonts/source-code-pro.md) | ⭐ 20,445 | 2026-09-07 | 1 |
 | [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,612 | 2026-08-04 | 5 |
@@ -97,10 +97,10 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 55 | ⭐ 1,471 | 2026-08-01 | 2026-10-27 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 56 | ⭐ 1,479 | 2026-08-01 | 2026-11-03 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 40 | ⭐ 41,980 | 2026-08-02 | 2026-10-29 |
 | [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 37 | ⭐ 920 | 2026-08-01 | 2026-10-19 |
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 30 | ⭐ 45,427 | 2026-08-04 | 2026-11-02 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 31 | ⭐ 45,432 | 2026-08-04 | 2026-11-03 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 29 | ⭐ 1,431 | 2026-08-01 | 2026-10-22 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 28 | ⭐ 13,213 | 2026-08-02 | 2026-10-23 |
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | 27 | ⭐ 82,947 | 2026-08-06 | 2026-11-02 |
@@ -192,7 +192,8 @@
 - [themesberg/flowbite-svelte](../repos/themesberg/flowbite-svelte.md) - Official Svelte components built for Flowbite and Tailwind CSS
 - [lestercorderomurillo/macos-tahoe-liquid-kde](../repos/lestercorderomurillo/macos-tahoe-liquid-kde.md) - MacOS Tahoe Liquid Glass Theme for KDE Plasma 6.7&#x2F;6.8+
 - [OpsiMate/documentation](../repos/OpsiMate/documentation.md) - OpsiMate
+- [NsCDE/NsCDE](../repos/NsCDE/NsCDE.md) - Modern and functional CDE desktop based on FVWM
 
 ---
 
-*Last updated: 2026-11-02T21:51:25.396Z*
+*Last updated: 2026-11-03T10:45:18.190Z*

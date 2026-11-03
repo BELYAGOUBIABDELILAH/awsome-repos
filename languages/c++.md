@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 294
+- **Total Repositories**: 296
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-28
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 24,230 | 2026-08-02 | 9 |
+| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 32,530 | 2026-08-03 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [doitsujin/dxvk](../repos/doitsujin/dxvk.md) | ⭐ 18,413 | 2026-08-03 | 7 |
+| [google/googletest](../repos/google/googletest.md) | ⭐ 39,695 | 2026-08-04 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | ⭐ 22,213 | 2026-08-06 | 13 |
+| [hyprwm/Hyprland](../repos/hyprwm/Hyprland.md) | ⭐ 40,163 | 2026-08-07 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ml-explore/mlx](../repos/ml-explore/mlx.md) | ⭐ 29,029 | 2026-08-06 | 9 |
+| [audacity/audacity](../repos/audacity/audacity.md) | ⭐ 18,941 | 2026-08-09 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hyprwm/Hyprland](../repos/hyprwm/Hyprland.md) | ⭐ 39,864 | 2026-08-07 | 6 |
+| [leejet/stable-diffusion.cpp](../repos/leejet/stable-diffusion.cpp.md) | ⭐ 7,881 | 2026-08-10 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [UE4SS-RE/RE-UE4SS](../repos/UE4SS-RE/RE-UE4SS.md) | ⭐ 3,110 | 2026-08-09 | 3 |
+| [jomjol/AI-on-the-edge-device](../repos/jomjol/AI-on-the-edge-device.md) | ⭐ 8,938 | 2026-09-13 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jellyfin/jellyfin-desktop](../repos/jellyfin/jellyfin-desktop.md) | ⭐ 5,961 | 2026-08-15 | 3 |
+| [geode-sdk/geode](../repos/geode-sdk/geode.md) | ⭐ 3,218 | 2026-09-28 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [amnezia-vpn/amnezia-client](../repos/amnezia-vpn/amnezia-client.md) | ⭐ 15,665 | 2026-08-16 | 8 |
+| [DamRsn/NeuralNote](../repos/DamRsn/NeuralNote.md) | ⭐ 3,381 | 2026-10-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 43,382 | 2026-09-06 | 3 |
+| [Adaptix-Framework/AdaptixC2](../repos/Adaptix-Framework/AdaptixC2.md) | ⭐ 3,823 | 2026-11-03 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 50,692 | 2026-10-06 | 7 |
+| [jimmgreen/pulse](../repos/jimmgreen/pulse.md) | ⭐ 1,273 | 2026-11-03 | 1 |
 
 
 ---
@@ -118,11 +118,11 @@
 | [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 46 | ⭐ 439 | 2026-08-01 | 2026-10-09 |
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 33 | ⭐ 132,446 | 2026-08-01 | 2026-10-26 |
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 29 | ⭐ 201,278 | 2026-07-30 | 2026-10-28 |
-| [google/googletest](../repos/google/googletest.md) | 24 | ⭐ 39,678 | 2026-08-04 | 2026-10-29 |
+| [google/googletest](../repos/google/googletest.md) | 25 | ⭐ 39,695 | 2026-08-04 | 2026-11-03 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 20 | ⭐ 72,138 | 2026-08-01 | 2026-10-29 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 19 | ⭐ 546 | 2026-08-01 | 2026-10-29 |
+| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | 18 | ⭐ 32,530 | 2026-08-03 | 2026-11-03 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 18 | ⭐ 76,876 | 2026-08-08 | 2026-10-29 |
-| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | 17 | ⭐ 32,230 | 2026-08-03 | 2026-10-29 |
 | [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 15 | ⭐ 11,986 | 2026-08-02 | 2026-10-22 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 14 | ⭐ 29,673 | 2026-08-01 | 2026-10-07 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-02T21:51:25.393Z*
+*Last updated: 2026-11-03T10:45:18.187Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 149
+- **Total Repositories**: 148
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-02
 
@@ -16,34 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | ⭐ 10,250 | 2026-08-03 | 11 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,745 | 2026-08-01 | 45 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,968 | 2026-08-07 | 13 |
+| [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | ⭐ 10,260 | 2026-08-03 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [d3/d3](../repos/d3/d3.md) | ⭐ 113,858 | 2026-08-07 | 4 |
+| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,974 | 2026-08-07 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RROrg/rr](../repos/RROrg/rr.md) | ⭐ 8,743 | 2026-08-08 | 11 |
+| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 22,275 | 2026-08-07 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | ⭐ 3,559 | 2026-08-19 | 11 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 8,528 | 2026-08-12 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ophub/amlogic-s9xxx-openwrt](../repos/ophub/amlogic-s9xxx-openwrt.md) | ⭐ 3,074 | 2026-08-22 | 3 |
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,613 | 2026-08-20 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bivlked/amneziawg-installer](../repos/bivlked/amneziawg-installer.md) | ⭐ 1,456 | 2026-08-25 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [WhatsApp/proxy](../repos/WhatsApp/proxy.md) | ⭐ 2,405 | 2026-09-06 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [CachyOS/linux-cachyos](../repos/CachyOS/linux-cachyos.md) | ⭐ 4,771 | 2026-09-14 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [EpicGames/unreal-engine-skills-for-claude-code-plugin](../repos/EpicGames/unreal-engine-skills-for-claude-code-plugin.md) | ⭐ 1,872 | 2026-10-11 | 6 |
+| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 46,158 | 2026-08-29 | 12 |
 
 
 ---
@@ -90,19 +81,19 @@
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,858 | 2026-08-07 | 4 |
 | [papers-we-love/papers-we-love](../repos/papers-we-love/papers-we-love.md) | ⭐ 110,960 | 2026-10-27 | 1 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,706 | 2026-08-01 | 44 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,745 | 2026-08-01 | 45 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,756 | 2026-08-04 | 10 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,702 | 2026-08-06 | 15 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,855 | 2026-08-04 | 13 |
-| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 45,909 | 2026-08-29 | 11 |
+| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 46,158 | 2026-08-29 | 12 |
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
 | [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,866 | 2026-08-20 | 13 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 33,123 | 2026-08-02 | 22 |
 | [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,807 | 2026-09-02 | 5 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 26,341 | 2026-08-04 | 13 |
-| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 22,216 | 2026-08-07 | 9 |
+| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 22,275 | 2026-08-07 | 10 |
 | [lewagon/dotfiles](../repos/lewagon/dotfiles.md) | ⭐ 21,783 | 2026-08-25 | 1 |
 | [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
 | [jnMetaCode/agency-agents-zh](../repos/jnMetaCode/agency-agents-zh.md) | ⭐ 20,046 | 2026-08-12 | 6 |
@@ -115,16 +106,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 44 | ⭐ 95,706 | 2026-08-01 | 2026-10-29 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 45 | ⭐ 95,745 | 2026-08-01 | 2026-11-03 |
 | [expo/skills](../repos/expo/skills.md) | 36 | ⭐ 3,754 | 2026-08-07 | 2026-10-29 |
-| [github/copilot-cli](../repos/github/copilot-cli.md) | 23 | ⭐ 11,309 | 2026-08-04 | 2026-10-29 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 19 | ⭐ 8,002 | 2026-08-12 | 2026-10-16 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 20 | ⭐ 8,528 | 2026-08-12 | 2026-11-03 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 15 | ⭐ 3,172 | 2026-08-05 | 2026-10-25 |
 | [dockur/windows](../repos/dockur/windows.md) | 15 | ⭐ 53,702 | 2026-08-06 | 2026-10-27 |
+| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | 14 | ⭐ 10,974 | 2026-08-07 | 2026-11-03 |
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | 14 | ⭐ 1,613 | 2026-08-20 | 2026-11-03 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | 13 | ⭐ 47,855 | 2026-08-04 | 2026-10-21 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | 13 | ⭐ 26,341 | 2026-08-04 | 2026-10-29 |
-| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | 13 | ⭐ 10,968 | 2026-08-07 | 2026-11-02 |
 
 ---
 
@@ -159,7 +150,6 @@
 - [google/oss-fuzz](../repos/google/oss-fuzz.md) - OSS-Fuzz - continuous fuzzing for open source software.
 - [longhorn/longhorn](../repos/longhorn/longhorn.md) - Cloud-Native distributed storage built on and for Kubernetes
 - [super-linter/super-linter](../repos/super-linter/super-linter.md) - Combination of multiple linters to run as a GitHub Action or standalone
-- [github/copilot-cli](../repos/github/copilot-cli.md) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
 - [marcusquinn/aidevops](../repos/marcusquinn/aidevops.md) - Vibe-Coding is easy. DevOps is hard. OpenCode &amp; Git token-efficient AI agent automation for your ...
 - [orbstack/orbstack](../repos/orbstack/orbstack.md) - Fast, light, simple Docker containers &amp; Linux machines
 - [a2aproject/A2A](../repos/a2aproject/A2A.md) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque ...
@@ -230,7 +220,8 @@
 - [aditya-shri/VPN](../repos/aditya-shri/VPN.md) - Personal VPN using Shadowsocks and v2ray
 - [sabamdarif/termux-desktop](../repos/sabamdarif/termux-desktop.md) - Install a full Linux desktop environment on your Android device with Termux X11 ( VNC optional) a...
 - [zhnnky329/MathModeling-skills](../repos/zhnnky329/MathModeling-skills.md) - 面向数学建模竞赛的 Claude Code &#x2F; Codex Skills ，支持分阶段建模流程与 Python、MATLAB&#x2F;北太天元代码分支。
+- [thibmaek/awesome-raspberry-pi](../repos/thibmaek/awesome-raspberry-pi.md) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 
 ---
 
-*Last updated: 2026-11-02T21:51:25.491Z*
+*Last updated: 2026-11-03T10:45:18.327Z*

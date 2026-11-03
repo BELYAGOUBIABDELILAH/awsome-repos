@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | Shell |
+| **Language** | Python |
 | **License** | Other |
-| **Stars** | ⭐ 11,309 |
-| **Forks** | 🍴 1,969 |
-| **Trending Days** | 23 |
+| **Stars** | ⭐ 11,332 |
+| **Forks** | 🍴 1,974 |
+| **Trending Days** | 24 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Oct 29, 2026 |
+| **Last Seen** | Nov 3, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Shell or similar-topics*
+*Similar: Check repositories in Python or similar-topics*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 23
+- **Trending Days**: 24
 - **Longest Streak**: 2 days
 
 ---
@@ -81,7 +81,7 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in Shell
+- Check similar projects in Python
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-02T21:51:28.723Z*  
-*Data from 23 trending reports*
+*Last updated: 2026-11-03T10:45:21.540Z*  
+*Data from 24 trending reports*

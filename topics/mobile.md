@@ -9,7 +9,7 @@
 - **Total Repositories**: 580
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-16
-- **Average Stars**: 13726
+- **Average Stars**: 13742
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,390 | Scala |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,616 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 181,016 | Dart |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,391 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 40,752 | Dart |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,124 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,113 | Clojure |  |
+| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 23,508 | HTML |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 23,489 | HTML |  |
+| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,126 | Vue |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,127 | Vue |  |
+| [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 27 | Objective-C |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [google/promises](../repos/google/promises.md) | ⭐ 3,829 | Objective-C |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,611 | Objective-C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [vim/vim](../repos/vim/vim.md) | ⭐ 41,181 | Vim Script |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,914 | Groovy |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 38,086 | V |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [RikkaApps/Shizuku-API](../repos/RikkaApps/Shizuku-API.md) | ⭐ 2,733 | Java |  |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,917 | Groovy |  |
 
 
 ---
@@ -61,7 +61,7 @@
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,211 | JavaScript | 2026-07-30 | 13 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,803 | C++ | 2026-08-04 | 7 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | TypeScript | 2026-07-31 | 3 |
-| [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 114,136 | TypeScript | 2026-08-17 | 3 |
+| [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 118,046 | TypeScript | 2026-08-17 | 4 |
 | [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 103,697 | TypeScript | 2026-08-11 | 23 |
 
 ---
@@ -73,10 +73,10 @@
 | [Tencent-TDS/KuiklyUI](../repos/Tencent-TDS/KuiklyUI.md) | ⭐ 3,609 | Kotlin | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,604 | Scala | 3 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,616 | Scala | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,390 | Scala | 1 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,391 | Scala | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 77,951 | Dart | 5 |
@@ -88,13 +88,13 @@
 | [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 40,752 | Dart | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,113 | Clojure | 1 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,124 | Clojure | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 23,489 | HTML | 1 |
+| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 23,508 | HTML | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,127 | Vue | 1 |
+| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,126 | Vue | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [aws-amplify/aws-sdk-ios](../repos/aws-amplify/aws-sdk-ios.md) | ⭐ 1,703 | Objective-C | 4 |
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-11-03](../archive/2026/11/2026-11-03.md)
+- 42 repositories trending
+- Top: immich-app&#x2F;immich
+
 ### [2026-11-02](../archive/2026/11/2026-11-02.md)
 - 42 repositories trending
 - Top: flutter&#x2F;flutter
@@ -150,10 +154,6 @@
 - 57 repositories trending
 - Top: flutter&#x2F;flutter
 
-### [2026-10-27](../archive/2026/10/2026-10-27.md)
-- 60 repositories trending
-- Top: react&#x2F;react-native
-
 
 ---
 
@@ -163,16 +163,16 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 74 days | 2026-08-01 | 2026-11-02 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 71 days | 2026-08-01 | 2026-11-02 |
+| [apache/spark](../repos/apache/spark.md) | 75 days | 2026-08-01 | 2026-11-03 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 72 days | 2026-08-01 | 2026-11-03 |
+| [gradle/gradle](../repos/gradle/gradle.md) | 69 days | 2026-08-01 | 2026-11-03 |
 | [vlang/v](../repos/vlang/v.md) | 69 days | 2026-08-01 | 2026-11-02 |
-| [gradle/gradle](../repos/gradle/gradle.md) | 68 days | 2026-08-01 | 2026-11-02 |
-| [vim/vim](../repos/vim/vim.md) | 62 days | 2026-08-01 | 2026-11-02 |
-| [joernio/joern](../repos/joernio/joern.md) | 61 days | 2026-08-01 | 2026-10-27 |
-| [apple/swift-crypto](../repos/apple/swift-crypto.md) | 56 days | 2026-08-01 | 2026-10-29 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 51 days | 2026-08-01 | 2026-10-29 |
+| [vim/vim](../repos/vim/vim.md) | 63 days | 2026-08-01 | 2026-11-03 |
+| [joernio/joern](../repos/joernio/joern.md) | 62 days | 2026-08-01 | 2026-11-03 |
+| [apple/swift-crypto](../repos/apple/swift-crypto.md) | 57 days | 2026-08-01 | 2026-11-03 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 52 days | 2026-08-01 | 2026-11-03 |
 | [flutter/flutter](../repos/flutter/flutter.md) | 50 days | 2026-08-01 | 2026-11-02 |
-| [google/promises](../repos/google/promises.md) | 49 days | 2026-08-01 | 2026-10-29 |
+| [google/promises](../repos/google/promises.md) | 50 days | 2026-08-01 | 2026-11-03 |
 
 ---
 
@@ -186,7 +186,7 @@
 - **TypeScript**: 40 repositories (7%)
 
 ### Trending Frequency
-- **Daily Average**: 53.6 repositories
+- **Daily Average**: 53.4 repositories
 - **Peak Day**: 2026-08-19 (77 repositories)
 - **Growth Rate**: 12% this month
 
@@ -302,4 +302,4 @@
 
 ---
 
-*Last updated: 2026-11-02T21:51:25.141Z*
+*Last updated: 2026-11-03T10:45:17.940Z*

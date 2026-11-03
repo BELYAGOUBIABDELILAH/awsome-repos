@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 231
+- **Total Repositories**: 234
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-28
 
@@ -16,25 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 45,266 | 2026-08-02 | 13 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 45,344 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 9,984 | 2026-08-26 | 15 |
+| [janhq/jan](../repos/janhq/jan.md) | ⭐ 45,363 | 2026-08-26 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Nasiko-Labs/nasiko](../repos/Nasiko-Labs/nasiko.md) | ⭐ 11,535 | 2026-09-22 | 3 |
+| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 10,219 | 2026-08-26 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [leepokai/Codync](../repos/leepokai/Codync.md) | ⭐ 1,727 | 2026-10-19 | 2 |
+| [Mesh-LLM/mesh-llm](../repos/Mesh-LLM/mesh-llm.md) | ⭐ 3,874 | 2026-09-24 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jub0t/Concat](../repos/jub0t/Concat.md) | ⭐ 13,802 | 2026-10-29 | 2 |
+| [leepokai/Codync](../repos/leepokai/Codync.md) | ⭐ 1,781 | 2026-10-19 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-desktop](../repos/vercel-labs/agent-desktop.md) | ⭐ 9,320 | 2026-11-02 | 1 |
+| [vercel-labs/agent-desktop](../repos/vercel-labs/agent-desktop.md) | ⭐ 11,427 | 2026-11-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Duecki1/CalibRaw](../repos/Duecki1/CalibRaw.md) | ⭐ 243 | 2026-11-02 | 1 |
+| [lexmount/moli](../repos/lexmount/moli.md) | ⭐ 22,355 | 2026-11-03 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [herdrdev/herdr](../repos/herdrdev/herdr.md) | ⭐ 47,738 | 2026-11-03 | 1 |
 
 
 ---
@@ -95,10 +98,10 @@
 | [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 55,699 | 2026-08-19 | 6 |
 | [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 50,085 | 2026-08-12 | 4 |
 | [bevyengine/bevy](../repos/bevyengine/bevy.md) | ⭐ 48,449 | 2026-08-28 | 3 |
+| [herdrdev/herdr](../repos/herdrdev/herdr.md) | ⭐ 47,738 | 2026-11-03 | 1 |
 | [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 46,418 | 2026-08-28 | 2 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 45,552 | 2026-08-05 | 11 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 45,266 | 2026-08-02 | 13 |
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 42,354 | 2026-08-10 | 17 |
+| [janhq/jan](../repos/janhq/jan.md) | ⭐ 45,363 | 2026-08-26 | 2 |
 
 ---
 
@@ -113,9 +116,9 @@
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 17 | ⭐ 42,354 | 2026-08-10 | 2026-10-26 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 16 | ⭐ 28,165 | 2026-08-01 | 2026-10-29 |
 | [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | 16 | ⭐ 12,999 | 2026-08-17 | 2026-10-23 |
+| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 16 | ⭐ 10,219 | 2026-08-26 | 2026-11-03 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 15 | ⭐ 30,895 | 2026-08-03 | 2026-10-26 |
-| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 15 | ⭐ 9,984 | 2026-08-26 | 2026-11-02 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 13 | ⭐ 45,266 | 2026-08-02 | 2026-11-02 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 14 | ⭐ 45,344 | 2026-08-02 | 2026-11-03 |
 
 ---
 
@@ -224,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-11-02T21:51:25.486Z*
+*Last updated: 2026-11-03T10:45:18.318Z*

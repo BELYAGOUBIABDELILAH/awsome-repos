@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | PHP |
 | **License** | MIT |
-| **Stars** | ⭐ 12,122 |
-| **Forks** | 🍴 608 |
-| **Trending Days** | 20 |
+| **Stars** | ⭐ 12,158 |
+| **Forks** | 🍴 615 |
+| **Trending Days** | 21 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 11, 2026 |
-| **Last Seen** | Oct 27, 2026 |
+| **Last Seen** | Nov 3, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 20
+- **Trending Days**: 21
 - **Longest Streak**: 2 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`accounting`](../../topics/accounting.md) [`erp`](../../topics/erp.md) [`erp-software`](../../topics/erp-software.md) [`filamentphp`](../../topics/filamentphp.md) [`hrm`](../../topics/hrm.md) [`inventory-management`](../../topics/inventory-management.md) [`invoice`](../../topics/invoice.md) [`laravel`](../../topics/laravel.md) [`maintenance`](../../topics/maintenance.md) [`manufacturing`](../../topics/manufacturing.md) [`open-source-erp`](../../topics/open-source-erp.md) [`pms`](../../topics/pms.md) [`purchase-order`](../../topics/purchase-order.md) [`recruitment`](../../topics/recruitment.md) [`sale-or`](../../topics/sale-or.md) [`sales`](../../topics/sales.md) [`warehouse-management`](../../topics/warehouse-management.md) 
+[`accounting`](../../topics/accounting.md) [`erp`](../../topics/erp.md) [`erp-software`](../../topics/erp-software.md) [`filamentphp`](../../topics/filamentphp.md) [`hrm`](../../topics/hrm.md) [`inventory-management`](../../topics/inventory-management.md) [`invoice`](../../topics/invoice.md) [`laravel`](../../topics/laravel.md) [`maintenance`](../../topics/maintenance.md) [`manufacturing`](../../topics/manufacturing.md) [`open-source-erp`](../../topics/open-source-erp.md) [`pms`](../../topics/pms.md) [`point-of-sale`](../../topics/point-of-sale.md) [`pos`](../../topics/pos.md) [`purchase-order`](../../topics/purchase-order.md) [`recruitment`](../../topics/recruitment.md) [`sale-or`](../../topics/sale-or.md) [`sales`](../../topics/sales.md) [`warehouse-management`](../../topics/warehouse-management.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Frontend Development` `Systems Programming` 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-02T21:51:29.617Z*  
-*Data from 20 trending reports*
+*Last updated: 2026-11-03T10:45:22.408Z*  
+*Data from 21 trending reports*

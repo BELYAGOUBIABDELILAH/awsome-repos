@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 110
+- **Total Repositories**: 112
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-02
 
@@ -16,19 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [uiverse-io/galaxy](../repos/uiverse-io/galaxy.md) | ⭐ 14,717 | 2026-08-01 | 11 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,488 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 23,489 | 2026-08-01 | 11 |
+| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 23,508 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 210,660 | 2026-08-03 | 21 |
+| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | ⭐ 6,303 | 2026-08-05 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 141,616 | 2026-08-08 | 17 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 141,705 | 2026-08-08 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 30,104 | 2026-08-19 | 11 |
+| [tegal1337/CiLocks](../repos/tegal1337/CiLocks.md) | ⭐ 3,275 | 2026-09-19 | 8 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [MengTo/threeui](../repos/MengTo/threeui.md) | ⭐ 7,060 | 2026-10-22 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ProletRevDicta/Prolet](../repos/ProletRevDicta/Prolet.md) | ⭐ 1,865 | 2026-11-03 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Azure/Azure-Sentinel](../repos/Azure/Azure-Sentinel.md) | ⭐ 6,237 | 2026-11-03 | 1 |
 
 
 ---
@@ -64,7 +73,7 @@
 | [yvoronoy/awesome-english](../repos/yvoronoy/awesome-english.md) | ⭐ 4,363 | 2026-10-14 | A collection of awesome study resources for learners of English. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [MengTo/threeui](../repos/MengTo/threeui.md) | ⭐ 6,907 | 2026-10-22 | Open-source ThreeUI Community catalog with live interactive components and complete Community sou... |
+| [MengTo/threeui](../repos/MengTo/threeui.md) | ⭐ 7,060 | 2026-10-22 | Open-source ThreeUI Community catalog with live interactive components and complete Community sou... |
 
 
 ---
@@ -74,9 +83,9 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 210,660 | 2026-08-03 | 21 |
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 141,616 | 2026-08-08 | 17 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 141,705 | 2026-08-08 | 18 |
 | [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 76,193 | 2026-08-19 | 8 |
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,205 | 2026-08-01 | 20 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,488 | 2026-08-01 | 21 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,544 | 2026-08-01 | 8 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 43,224 | 2026-08-12 | 13 |
 | [QSCTech/zju-icicles](../repos/QSCTech/zju-icicles.md) | ⭐ 41,233 | 2026-09-03 | 4 |
@@ -89,7 +98,7 @@
 | [alchaincyf/huashu-design](../repos/alchaincyf/huashu-design.md) | ⭐ 27,955 | 2026-10-09 | 7 |
 | [Tencent/weui](../repos/Tencent/weui.md) | ⭐ 27,434 | 2026-09-25 | 1 |
 | [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 1 |
-| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 23,489 | 2026-08-01 | 11 |
+| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 23,508 | 2026-08-01 | 12 |
 | [google/fonts](../repos/google/fonts.md) | ⭐ 20,644 | 2026-08-03 | 7 |
 | [Chuyu-Team/Dism-Multi-language](../repos/Chuyu-Team/Dism-Multi-language.md) | ⭐ 20,324 | 2026-09-05 | 1 |
 | [twitter/twemoji](../repos/twitter/twemoji.md) | ⭐ 17,781 | 2026-09-06 | 1 |
@@ -100,15 +109,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 21 | ⭐ 68,488 | 2026-08-01 | 2026-11-03 |
 | [ossu/computer-science](../repos/ossu/computer-science.md) | 21 | ⭐ 210,660 | 2026-08-03 | 2026-11-02 |
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 20 | ⭐ 68,205 | 2026-08-01 | 2026-10-27 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 18 | ⭐ 11,040 | 2026-08-03 | 2026-10-28 |
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 17 | ⭐ 141,616 | 2026-08-08 | 2026-11-02 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 18 | ⭐ 141,705 | 2026-08-08 | 2026-11-03 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 16 | ⭐ 10,061 | 2026-08-01 | 2026-10-29 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 16 | ⭐ 28,016 | 2026-08-04 | 2026-10-15 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 16 | ⭐ 30,320 | 2026-08-09 | 2026-10-27 |
 | [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | 16 | ⭐ 5,826 | 2026-08-11 | 2026-10-27 |
-| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 14 | ⭐ 6,282 | 2026-08-05 | 2026-10-23 |
+| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 15 | ⭐ 6,303 | 2026-08-05 | 2026-11-03 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 13 | ⭐ 16,604 | 2026-08-04 | 2026-10-16 |
 
 ---
@@ -218,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-11-02T21:51:25.432Z*
+*Last updated: 2026-11-03T10:45:18.236Z*

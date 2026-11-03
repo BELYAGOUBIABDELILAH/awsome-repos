@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 225
+**Gems Found**: 220
 
 ---
 
@@ -19,7 +19,7 @@
 |---|---|
 | ⭐ **Stars** | 659 |
 | 💻 **Language** | Go |
-| 🏆 **Gem Score** | 88/100 |
+| 🏆 **Gem Score** | 87/100 |
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Aug 19, 2026 |
 
@@ -271,27 +271,7 @@
 
 ---
 
-### 14. [workweave&#x2F;router](../../repos/workweave/router.md)
-
-**Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,635 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 75/100 |
-| 📈 **Trending Days** | 2 |
-| 📅 **First Seen** | Aug 28, 2026 |
-
-**Why it's a gem**: High growth velocity (+640 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/workweave/router.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;workweave&#x2F;router)
-
----
-
-### 15. [Gitlawb&#x2F;zero](../../repos/Gitlawb/zero.md)
+### 14. [Gitlawb&#x2F;zero](../../repos/Gitlawb/zero.md)
 
 **The coding agent that answers to you, your model, your machine, your rules.**
 
@@ -311,7 +291,7 @@
 
 ---
 
-### 16. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
+### 15. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
 
 **Visualize your year in travel using your Google Location History (Timeline) data**
 
@@ -331,7 +311,7 @@
 
 ---
 
-### 17. [Tencent&#x2F;AI-Infra-Guard](../../repos/Tencent/AI-Infra-Guard.md)
+### 16. [Tencent&#x2F;AI-Infra-Guard](../../repos/Tencent/AI-Infra-Guard.md)
 
 **A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.**
 
@@ -348,6 +328,26 @@
 **Best for**: 
 
 [View Passport](../../repos/Tencent/AI-Infra-Guard.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Tencent&#x2F;AI-Infra-Guard)
+
+---
+
+### 17. [workweave&#x2F;router](../../repos/workweave/router.md)
+
+**Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,635 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 74/100 |
+| 📈 **Trending Days** | 2 |
+| 📅 **First Seen** | Aug 28, 2026 |
+
+**Why it's a gem**: High growth velocity (+640 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/workweave/router.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;workweave&#x2F;router)
 
 ---
 
@@ -391,23 +391,23 @@
 
 ---
 
-### 20. [krillinai&#x2F;KrillinAI](../../repos/krillinai/KrillinAI.md)
+### 20. [liustack&#x2F;modlens](../../repos/liustack/modlens.md)
 
-**AI video translation &amp; dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTube, TikTok, Bilibili, Douyin, and more.AI视频翻译配音工具，面向人类与AI Agent，100+语言全链路，CLI分阶段调用，适配抖音、小红书、哔哩哔哩、视频号、TikTok、YouTube**
+**The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 11,134 |
-| 💻 **Language** | Go |
+| ⭐ **Stars** | 2,781 |
+| 💻 **Language** | TypeScript |
 | 🏆 **Gem Score** | 72/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 3, 2026 |
+| 📈 **Trending Days** | 2 |
+| 📅 **First Seen** | Aug 15, 2026 |
 
-**Why it's a gem**: High growth velocity (+84 stars&#x2F;day) • Trending 4 times • Strong community engagement
+**Why it's a gem**: High growth velocity (+527 stars&#x2F;day) • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/krillinai/KrillinAI.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;krillinai&#x2F;KrillinAI)
+[View Passport](../../repos/liustack/modlens.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;liustack&#x2F;modlens)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-02T21:51:32.426Z*  
+*Generated: 2026-11-03T10:45:25.266Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

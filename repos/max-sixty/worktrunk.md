@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | Other |
-| **Stars** | ⭐ 9,984 |
-| **Forks** | 🍴 359 |
-| **Trending Days** | 15 |
-| **Peak Rank** | #12 |
+| **Stars** | ⭐ 10,219 |
+| **Forks** | 🍴 371 |
+| **Trending Days** | 16 |
+| **Peak Rank** | #3 |
 
 | **First Seen** | Aug 26, 2026 |
-| **Last Seen** | Nov 2, 2026 |
+| **Last Seen** | Nov 3, 2026 |
 
 
 ---
@@ -45,11 +45,12 @@
 
 **Sep 12, 2026** — Rank #15 (+137 ⭐)  
 **Nov 2, 2026** — Rank #12 (+136 ⭐)  
+**Nov 3, 2026** — Rank #3 (+77 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #12
-- **Trending Days**: 15
+- **Peak Rank**: #3
+- **Trending Days**: 16
 - **Longest Streak**: 4 days
 
 ---
@@ -71,8 +72,8 @@
 | Aspect | Rating | Details |
 |--------|--------|---------|
 | **Difficulty** | Advanced | Requires systems programming knowledge |
-| **Documentation** | Limited | May require reading source code |
-| **Community** | Small | Niche but dedicated community |
+| **Documentation** | Average | Basic documentation available |
+| **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
@@ -88,10 +89,10 @@
 #### Metrics
 - **Hidden Gem**: ✓ Yes
 - **Trending Score**: 100&#x2F;100
-- **Historical Rank**: Peak: #12
+- **Historical Rank**: Top 5 (Peak: #3)
 
 
 ---
 
-*Last updated: 2026-11-02T21:51:30.415Z*  
-*Data from 15 trending reports*
+*Last updated: 2026-11-03T10:45:23.211Z*  
+*Data from 16 trending reports*

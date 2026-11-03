@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 326
+- **Total Repositories**: 328
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-11-02
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 185,709 | 2026-08-01 | 27 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 54,728 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,614 | 2026-08-04 | 12 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 38,924 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 28,429 | 2026-08-04 | 15 |
+| [argoproj/argo-cd](../repos/argoproj/argo-cd.md) | ⭐ 24,520 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pocket-id/pocket-id](../repos/pocket-id/pocket-id.md) | ⭐ 9,909 | 2026-08-08 | 3 |
+| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 28,443 | 2026-08-04 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rorkai/App-Store-Connect-CLI](../repos/rorkai/App-Store-Connect-CLI.md) | ⭐ 8,211 | 2026-08-09 | 5 |
+| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 33,127 | 2026-08-06 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Mag1cFall/AIStudio2API](../repos/Mag1cFall/AIStudio2API.md) | ⭐ 677 | 2026-10-18 | 3 |
+| [cilium/cilium](../repos/cilium/cilium.md) | ⭐ 25,763 | 2026-08-19 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [warmbly/warmbly](../repos/warmbly/warmbly.md) | ⭐ 873 | 2026-11-02 | 1 |
+| [Christ9038/Ydisks-Xianyu-Helper](../repos/Christ9038/Ydisks-Xianyu-Helper.md) | ⭐ 2,196 | 2026-10-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mayswind/ezbookkeeping](../repos/mayswind/ezbookkeeping.md) | ⭐ 5,946 | 2026-11-02 | 1 |
+| [warmbly/warmbly](../repos/warmbly/warmbly.md) | ⭐ 894 | 2026-11-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [m5stack/StackChan](../repos/m5stack/StackChan.md) | ⭐ 1,478 | 2026-11-02 | 1 |
+| [mayswind/ezbookkeeping](../repos/mayswind/ezbookkeeping.md) | ⭐ 5,957 | 2026-11-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xpzouying/xiaohongshu-mcp](../repos/xpzouying/xiaohongshu-mcp.md) | ⭐ 16,761 | 2026-11-02 | 1 |
+| [qax-os/excelize](../repos/qax-os/excelize.md) | ⭐ 21,046 | 2026-11-03 | 1 |
 
 
 ---
@@ -102,7 +102,7 @@
 | [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 66,720 | 2026-08-11 | 6 |
 | [minio/minio](../repos/minio/minio.md) | ⭐ 61,365 | 2026-08-12 | 2 |
 | [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | 2 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 54,123 | 2026-08-01 | 23 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 54,728 | 2026-08-01 | 24 |
 | [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,401 | 2026-08-22 | 5 |
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,305 | 2026-08-04 | 3 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 50,580 | 2026-08-01 | 21 |
@@ -117,9 +117,9 @@
 |------------|---------------|-------|------------|-----------|
 | [ollama/ollama](../repos/ollama/ollama.md) | 27 | ⭐ 185,709 | 2026-08-01 | 2026-11-02 |
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 25 | ⭐ 35,652 | 2026-08-01 | 2026-10-27 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | 23 | ⭐ 54,123 | 2026-08-01 | 2026-10-28 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | 24 | ⭐ 54,728 | 2026-08-01 | 2026-11-03 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 22 | ⭐ 38,924 | 2026-08-01 | 2026-11-03 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 21 | ⭐ 50,580 | 2026-08-01 | 2026-10-23 |
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 21 | ⭐ 38,671 | 2026-08-01 | 2026-10-23 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 20 | ⭐ 45,097 | 2026-08-07 | 2026-10-29 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 19 | ⭐ 5,954 | 2026-08-02 | 2026-10-29 |
 | [golang/go](../repos/golang/go.md) | 17 | ⭐ 139,616 | 2026-07-31 | 2026-10-26 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-02T21:51:25.426Z*
+*Last updated: 2026-11-03T10:45:18.227Z*

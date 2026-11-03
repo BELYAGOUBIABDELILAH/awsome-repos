@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | MIT |
-| **Stars** | ⭐ 44,920 |
-| **Forks** | 🍴 3,708 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 64,188 |
+| **Forks** | 🍴 5,078 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #6 |
 
 | **First Seen** | Aug 5, 2026 |
-| **Last Seen** | Sep 7, 2026 |
+| **Last Seen** | Nov 3, 2026 |
 
 
 ---
@@ -52,7 +52,7 @@
 ### Highlights
 
 - **Peak Rank**: #6
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 6 days
 
 ---
@@ -60,7 +60,7 @@
 ## Categories
 
 ### Topics
-[`agent-skills`](../../topics/agent-skills.md) [`ai-writing`](../../topics/ai-writing.md) [`claude-code`](../../topics/claude-code.md) [`codex`](../../topics/codex.md) [`cursor`](../../topics/cursor.md) [`prompt-engineering`](../../topics/prompt-engineering.md) [`writing-tools`](../../topics/writing-tools.md) 
+[`agent-skills`](../../topics/agent-skills.md) [`ai-humanizer`](../../topics/ai-humanizer.md) [`ai-writing`](../../topics/ai-writing.md) [`chatgpt`](../../topics/chatgpt.md) [`claude`](../../topics/claude.md) [`claude-code`](../../topics/claude-code.md) [`codex`](../../topics/codex.md) [`cursor`](../../topics/cursor.md) [`humanize-ai-text`](../../topics/humanize-ai-text.md) [`humanizer`](../../topics/humanizer.md) [`llm`](../../topics/llm.md) [`prompt-engineering`](../../topics/prompt-engineering.md) [`writing-tools`](../../topics/writing-tools.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Large Language Models` `Systems Programming` `Developer Tools` 
@@ -73,12 +73,12 @@
 
 | Aspect | Rating | Details |
 |--------|--------|---------|
-| **Difficulty** | Beginner | Approachable with good examples |
-| **Documentation** | Average | Basic documentation available |
-| **Community** | Growing | Emerging community |
+| **Difficulty** | Intermediate | Well-documented but extensive API |
+| **Documentation** | Good | Well-maintained documentation |
+| **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Slow | Occasional updates |
-| **Learning Curve** | Medium | Moderate learning investment |
+| **Maintenance** | Very Active | Updated within last week |
+| **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
 - General purpose
@@ -96,5 +96,5 @@
 
 ---
 
-*Last updated: 2026-11-02T21:51:28.815Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-11-03T10:45:21.628Z*  
+*Data from 8 trending reports*

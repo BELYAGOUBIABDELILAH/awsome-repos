@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T21:51:32.633Z",
+  "generated_at": "2026-11-03T10:45:25.464Z",
   "total_count": 100,
   "repositories": [
     {
@@ -17,10 +17,10 @@
       "full_name": "public-apis/public-apis",
       "owner": "public-apis",
       "name": "public-apis",
-      "stars": 495481,
+      "stars": 495697,
       "language": "Python",
       "first_seen": "2026-08-01",
-      "trending_days": 10
+      "trending_days": 11
     },
     {
       "rank": 3,
@@ -337,10 +337,10 @@
       "full_name": "ripienaar/free-for-dev",
       "owner": "ripienaar",
       "name": "free-for-dev",
-      "stars": 141616,
+      "stars": 141705,
       "language": "HTML",
       "first_seen": "2026-08-08",
-      "trending_days": 17
+      "trending_days": 18
     },
     {
       "rank": 35,
@@ -477,10 +477,10 @@
       "full_name": "2dust/v2rayN",
       "owner": "2dust",
       "name": "v2rayN",
-      "stars": 119367,
+      "stars": 119845,
       "language": "C#",
       "first_seen": "2026-08-02",
-      "trending_days": 32
+      "trending_days": 33
     },
     {
       "rank": 49,
@@ -494,6 +494,16 @@
     },
     {
       "rank": 50,
+      "full_name": "immich-app/immich",
+      "owner": "immich-app",
+      "name": "immich",
+      "stars": 118046,
+      "language": "TypeScript",
+      "first_seen": "2026-08-17",
+      "trending_days": 4
+    },
+    {
+      "rank": 51,
       "full_name": "TauricResearch/TradingAgents",
       "owner": "TauricResearch",
       "name": "TradingAgents",
@@ -503,7 +513,7 @@
       "trending_days": 16
     },
     {
-      "rank": 51,
+      "rank": 52,
       "full_name": "microsoft/generative-ai-for-beginners",
       "owner": "microsoft",
       "name": "generative-ai-for-beginners",
@@ -513,7 +523,7 @@
       "trending_days": 3
     },
     {
-      "rank": 52,
+      "rank": 53,
       "full_name": "earendil-works/pi",
       "owner": "earendil-works",
       "name": "pi",
@@ -523,7 +533,7 @@
       "trending_days": 12
     },
     {
-      "rank": 53,
+      "rank": 54,
       "full_name": "browser-use/browser-use",
       "owner": "browser-use",
       "name": "browser-use",
@@ -531,16 +541,6 @@
       "language": "Python",
       "first_seen": "2026-08-20",
       "trending_days": 9
-    },
-    {
-      "rank": 54,
-      "full_name": "immich-app/immich",
-      "owner": "immich-app",
-      "name": "immich",
-      "stars": 114136,
-      "language": "TypeScript",
-      "first_seen": "2026-08-17",
-      "trending_days": 3
     },
     {
       "rank": 55,
@@ -724,6 +724,16 @@
     },
     {
       "rank": 73,
+      "full_name": "NationalSecurityAgency/ghidra",
+      "owner": "NationalSecurityAgency",
+      "name": "ghidra",
+      "stars": 97368,
+      "language": "Java",
+      "first_seen": "2026-08-03",
+      "trending_days": 29
+    },
+    {
+      "rank": 74,
       "full_name": "tailwindlabs/tailwindcss",
       "owner": "tailwindlabs",
       "name": "tailwindcss",
@@ -733,7 +743,7 @@
       "trending_days": 3
     },
     {
-      "rank": 74,
+      "rank": 75,
       "full_name": "microsoft/Web-Dev-For-Beginners",
       "owner": "microsoft",
       "name": "Web-Dev-For-Beginners",
@@ -743,7 +753,7 @@
       "trending_days": 3
     },
     {
-      "rank": 75,
+      "rank": 76,
       "full_name": "localsend/localsend",
       "owner": "localsend",
       "name": "localsend",
@@ -753,7 +763,7 @@
       "trending_days": 35
     },
     {
-      "rank": 76,
+      "rank": 77,
       "full_name": "oven-sh/bun",
       "owner": "oven-sh",
       "name": "bun",
@@ -763,24 +773,14 @@
       "trending_days": 9
     },
     {
-      "rank": 77,
-      "full_name": "NationalSecurityAgency/ghidra",
-      "owner": "NationalSecurityAgency",
-      "name": "ghidra",
-      "stars": 95821,
-      "language": "Java",
-      "first_seen": "2026-08-03",
-      "trending_days": 28
-    },
-    {
       "rank": 78,
       "full_name": "nvm-sh/nvm",
       "owner": "nvm-sh",
       "name": "nvm",
-      "stars": 95706,
+      "stars": 95745,
       "language": "Shell",
       "first_seen": "2026-08-01",
-      "trending_days": 44
+      "trending_days": 45
     },
     {
       "rank": 79,
@@ -927,10 +927,10 @@
       "full_name": "PanJiaChen/vue-element-admin",
       "owner": "PanJiaChen",
       "name": "vue-element-admin",
-      "stars": 90127,
+      "stars": 90126,
       "language": "Vue",
       "first_seen": "2026-08-01",
-      "trending_days": 22
+      "trending_days": 23
     },
     {
       "rank": 94,
