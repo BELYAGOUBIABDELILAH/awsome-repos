@@ -159,7 +159,7 @@
 |---|---|
 | ⭐ **Stars** | 5,640 |
 | 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 94/100 |
+| 🏆 **Gem Score** | 93/100 |
 | 📈 **Trending Days** | 9 |
 | 📅 **First Seen** | Aug 11, 2026 |
 
@@ -251,27 +251,7 @@
 
 ---
 
-### 13. [superdesigndev&#x2F;treg](../../repos/superdesigndev/treg.md)
-
-**OpenRouter for agent tools. Join community here: https:&#x2F;&#x2F;discord.gg&#x2F;6mQYYfFMAn**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 6,379 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 93/100 |
-| 📈 **Trending Days** | 7 |
-| 📅 **First Seen** | Sep 22, 2026 |
-
-**Why it's a gem**: High growth velocity (+365 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/superdesigndev/treg.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;superdesigndev&#x2F;treg)
-
----
-
-### 14. [androoAGI&#x2F;starnet](../../repos/androoAGI/starnet.md)
+### 13. [androoAGI&#x2F;starnet](../../repos/androoAGI/starnet.md)
 
 **A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.**
 
@@ -291,7 +271,7 @@
 
 ---
 
-### 15. [JetBrains&#x2F;thinkrail](../../repos/JetBrains/thinkrail.md)
+### 14. [JetBrains&#x2F;thinkrail](../../repos/JetBrains/thinkrail.md)
 
 **Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need**
 
@@ -311,7 +291,7 @@
 
 ---
 
-### 16. [alsk1992&#x2F;CloddsBot](../../repos/alsk1992/CloddsBot.md)
+### 15. [alsk1992&#x2F;CloddsBot](../../repos/alsk1992/CloddsBot.md)
 
 **Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.**
 
@@ -331,7 +311,7 @@
 
 ---
 
-### 17. [mg-chao&#x2F;snow-apps](../../repos/mg-chao/snow-apps.md)
+### 16. [mg-chao&#x2F;snow-apps](../../repos/mg-chao/snow-apps.md)
 
 **Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.**
 
@@ -348,6 +328,26 @@
 **Best for**: 
 
 [View Passport](../../repos/mg-chao/snow-apps.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mg-chao&#x2F;snow-apps)
+
+---
+
+### 17. [superdesigndev&#x2F;treg](../../repos/superdesigndev/treg.md)
+
+**OpenRouter for agent tools. Join community here: https:&#x2F;&#x2F;discord.gg&#x2F;6mQYYfFMAn**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 6,379 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 92/100 |
+| 📈 **Trending Days** | 7 |
+| 📅 **First Seen** | Sep 22, 2026 |
+
+**Why it's a gem**: High growth velocity (+365 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/superdesigndev/treg.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;superdesigndev&#x2F;treg)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-03T10:45:25.255Z*  
+*Generated: 2026-11-03T21:01:03.856Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

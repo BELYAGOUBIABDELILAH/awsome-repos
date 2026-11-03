@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-03T10:45:17.358Z",
-  "total_topics": 10861,
+  "last_updated": "2026-11-03T21:00:59.008Z",
+  "total_topics": 10865,
   "topics": {
     "91": {
       "name": "91",
@@ -29414,8 +29414,8 @@
       "slug": "ftp",
       "first_seen": "2026-08-01",
       "last_seen": "2026-11-03",
-      "total_repositories": 7,
-      "trending_repositories": 7,
+      "total_repositories": 8,
+      "trending_repositories": 8,
       "repositories": [
         "ys-ll/uniterm",
         "ShareX/ShareX",
@@ -29423,7 +29423,8 @@
         "aria2/aria2",
         "iterate-ch/cyberduck",
         "XiaoYouChR/Ghost-Downloader-3",
-        "gdy666/lucky"
+        "gdy666/lucky",
+        "GopeedLab/gopeed"
       ]
     },
     "mosh": {
@@ -51873,14 +51874,15 @@
       "slug": "codex-skills",
       "first_seen": "2026-08-04",
       "last_seen": "2026-11-03",
-      "total_repositories": 5,
-      "trending_repositories": 5,
+      "total_repositories": 6,
+      "trending_repositories": 6,
       "repositories": [
         "alirezarezvani/claude-skills",
         "JimLiu/baoyu-skills",
         "titanwings/colleague-skill",
         "matlab/matlab-agentic-toolkit",
-        "michael-denyer/pstack-claude"
+        "michael-denyer/pstack-claude",
+        "Yuan1z0825/nature-skills"
       ]
     },
     "coding-agent-plugins": {
@@ -92204,11 +92206,12 @@
       "name": "downloadmanager",
       "slug": "downloadmanager",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-11-02",
-      "total_repositories": 1,
-      "trending_repositories": 1,
+      "last_seen": "2026-11-03",
+      "total_repositories": 2,
+      "trending_repositories": 2,
       "repositories": [
-        "amir1376/ab-download-manager"
+        "amir1376/ab-download-manager",
+        "GopeedLab/gopeed"
       ]
     },
     "aggregator": {
@@ -105505,11 +105508,12 @@
       "name": "m3u8-downloader",
       "slug": "m3u8-downloader",
       "first_seen": "2026-09-01",
-      "last_seen": "2026-10-12",
-      "total_repositories": 1,
-      "trending_repositories": 1,
+      "last_seen": "2026-11-03",
+      "total_repositories": 2,
+      "trending_repositories": 2,
       "repositories": [
-        "nilaoda/N_m3u8DL-RE"
+        "nilaoda/N_m3u8DL-RE",
+        "GopeedLab/gopeed"
       ]
     },
     "mpd": {
@@ -134584,11 +134588,12 @@
       "name": "hls-downloader",
       "slug": "hls-downloader",
       "first_seen": "2026-10-25",
-      "last_seen": "2026-10-27",
-      "total_repositories": 1,
-      "trending_repositories": 1,
+      "last_seen": "2026-11-03",
+      "total_repositories": 2,
+      "trending_repositories": 2,
       "repositories": [
-        "subhra74/xdm"
+        "subhra74/xdm",
+        "GopeedLab/gopeed"
       ]
     },
     "hls-stream": {
@@ -137483,6 +137488,50 @@
       "trending_repositories": 1,
       "repositories": [
         "riscv-mcu/e203_hbirdv2"
+      ]
+    },
+    "nature": {
+      "name": "nature",
+      "slug": "nature",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "total_repositories": 1,
+      "trending_repositories": 1,
+      "repositories": [
+        "Yuan1z0825/nature-skills"
+      ]
+    },
+    "nature-skills": {
+      "name": "nature-skills",
+      "slug": "nature-skills",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "total_repositories": 1,
+      "trending_repositories": 1,
+      "repositories": [
+        "Yuan1z0825/nature-skills"
+      ]
+    },
+    "download-manger": {
+      "name": "download-manger",
+      "slug": "download-manger",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "total_repositories": 1,
+      "trending_repositories": 1,
+      "repositories": [
+        "GopeedLab/gopeed"
+      ]
+    },
+    "ed2k": {
+      "name": "ed2k",
+      "slug": "ed2k",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "total_repositories": 1,
+      "trending_repositories": 1,
+      "repositories": [
+        "GopeedLab/gopeed"
       ]
     }
   }

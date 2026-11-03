@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-03T10:45:17.236Z",
-  "total_repositories": 4330,
+  "last_updated": "2026-11-03T21:00:58.926Z",
+  "total_repositories": 4331,
   "repositories": {
     "tensorflow/tensorflow": {
       "full_name": "tensorflow/tensorflow",
@@ -386844,6 +386844,45 @@
           "source_slug": "verilog",
           "rank": 3,
           "stars_gained": 3
+        }
+      ]
+    },
+    "yuan1z0825/nature-skills": {
+      "full_name": "Yuan1z0825/nature-skills",
+      "owner": "Yuan1z0825",
+      "name": "nature-skills",
+      "github_id": 1219596233,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "trending_days": 1,
+      "current_consecutive_days": 1,
+      "appearance_dates": [
+        "2026-11-03"
+      ],
+      "latest_stars": 52032,
+      "previous_stars": 0,
+      "star_change_since_last_seen": 52032,
+      "latest_language": "Python",
+      "latest_topics": [
+        "codex-skills",
+        "nature",
+        "nature-skills"
+      ],
+      "latest_metadata": {
+        "description": "符合nature论文学术表达和科研绘图的Skill",
+        "url": "https://github.com/Yuan1z0825/nature-skills",
+        "license": "Apache-2.0",
+        "forks": 2712,
+        "created_at": "2026-04-24T03:11:46Z",
+        "updated_at": "2026-11-03T20:56:24Z",
+        "pushed_at": "2026-11-02T03:21:16Z"
+      },
+      "appearances_history": [
+        {
+          "source_type": "language",
+          "source_slug": "python",
+          "rank": 17,
+          "stars_gained": 167
         }
       ]
     }

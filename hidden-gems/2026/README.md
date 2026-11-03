@@ -7,7 +7,7 @@
 ## 2026
 
 **Period**: 2026-01-01 to 2026-12-31  
-**Gems Found**: 1247
+**Gems Found**: 1242
 
 ---
 
@@ -179,7 +179,7 @@
 |---|---|
 | ⭐ **Stars** | 5,640 |
 | 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 94/100 |
+| 🏆 **Gem Score** | 93/100 |
 | 📈 **Trending Days** | 9 |
 | 📅 **First Seen** | Aug 11, 2026 |
 
@@ -291,47 +291,7 @@
 
 ---
 
-### 15. [harry7557558&#x2F;spirula-studio](../../repos/harry7557558/spirula-studio.md)
-
-**Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,024 |
-| 💻 **Language** | C++ |
-| 🏆 **Gem Score** | 93/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Sep 3, 2026 |
-
-**Why it's a gem**: High growth velocity (+97 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/harry7557558/spirula-studio.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;harry7557558&#x2F;spirula-studio)
-
----
-
-### 16. [superdesigndev&#x2F;treg](../../repos/superdesigndev/treg.md)
-
-**OpenRouter for agent tools. Join community here: https:&#x2F;&#x2F;discord.gg&#x2F;6mQYYfFMAn**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 6,379 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 93/100 |
-| 📈 **Trending Days** | 7 |
-| 📅 **First Seen** | Sep 22, 2026 |
-
-**Why it's a gem**: High growth velocity (+365 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/superdesigndev/treg.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;superdesigndev&#x2F;treg)
-
----
-
-### 17. [androoAGI&#x2F;starnet](../../repos/androoAGI/starnet.md)
+### 15. [androoAGI&#x2F;starnet](../../repos/androoAGI/starnet.md)
 
 **A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.**
 
@@ -351,7 +311,7 @@
 
 ---
 
-### 18. [derv82&#x2F;wifit3](../../repos/derv82/wifit3.md)
+### 16. [derv82&#x2F;wifit3](../../repos/derv82/wifit3.md)
 
 **Wifite but USB-only &amp; cross-platform.**
 
@@ -371,7 +331,7 @@
 
 ---
 
-### 19. [JetBrains&#x2F;thinkrail](../../repos/JetBrains/thinkrail.md)
+### 17. [JetBrains&#x2F;thinkrail](../../repos/JetBrains/thinkrail.md)
 
 **Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need**
 
@@ -391,7 +351,7 @@
 
 ---
 
-### 20. [rorkai&#x2F;App-Store-Connect-CLI](../../repos/rorkai/App-Store-Connect-CLI.md)
+### 18. [rorkai&#x2F;App-Store-Connect-CLI](../../repos/rorkai/App-Store-Connect-CLI.md)
 
 **Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more**
 
@@ -411,7 +371,27 @@
 
 ---
 
-### 21. [alsk1992&#x2F;CloddsBot](../../repos/alsk1992/CloddsBot.md)
+### 19. [harry7557558&#x2F;spirula-studio](../../repos/harry7557558/spirula-studio.md)
+
+**Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,024 |
+| 💻 **Language** | C++ |
+| 🏆 **Gem Score** | 92/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Sep 3, 2026 |
+
+**Why it's a gem**: High growth velocity (+97 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/harry7557558/spirula-studio.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;harry7557558&#x2F;spirula-studio)
+
+---
+
+### 20. [alsk1992&#x2F;CloddsBot](../../repos/alsk1992/CloddsBot.md)
 
 **Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.**
 
@@ -431,7 +411,7 @@
 
 ---
 
-### 22. [mg-chao&#x2F;snow-apps](../../repos/mg-chao/snow-apps.md)
+### 21. [mg-chao&#x2F;snow-apps](../../repos/mg-chao/snow-apps.md)
 
 **Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.**
 
@@ -448,6 +428,26 @@
 **Best for**: 
 
 [View Passport](../../repos/mg-chao/snow-apps.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mg-chao&#x2F;snow-apps)
+
+---
+
+### 22. [superdesigndev&#x2F;treg](../../repos/superdesigndev/treg.md)
+
+**OpenRouter for agent tools. Join community here: https:&#x2F;&#x2F;discord.gg&#x2F;6mQYYfFMAn**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 6,379 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 92/100 |
+| 📈 **Trending Days** | 7 |
+| 📅 **First Seen** | Sep 22, 2026 |
+
+**Why it's a gem**: High growth velocity (+365 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/superdesigndev/treg.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;superdesigndev&#x2F;treg)
 
 ---
 
@@ -811,27 +811,7 @@
 
 ---
 
-### 41. [wuwangzhang1216&#x2F;ChinaTextbookStudyFree](../../repos/wuwangzhang1216/ChinaTextbookStudyFree.md)
-
-**给所有中国小学生打造的免费学习平台，从一年级到六年级所有的课本知识点全汇总。**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 863 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 7 |
-| 📅 **First Seen** | Oct 12, 2026 |
-
-**Why it's a gem**: High growth velocity (+91 stars&#x2F;day) • Trending 7 times • Very active development • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/wuwangzhang1216/ChinaTextbookStudyFree.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;wuwangzhang1216&#x2F;ChinaTextbookStudyFree)
-
----
-
-### 42. [leepokai&#x2F;Codync](../../repos/leepokai/Codync.md)
+### 41. [leepokai&#x2F;Codync](../../repos/leepokai/Codync.md)
 
 **Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.**
 
@@ -851,27 +831,7 @@
 
 ---
 
-### 43. [malisper&#x2F;pgrust](../../repos/malisper/pgrust.md)
-
-**Postgres rewritten in Rust, now faster than Postgres and Clickhouse**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 5,543 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 8, 2026 |
-
-**Why it's a gem**: High growth velocity (+85 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/malisper/pgrust.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;malisper&#x2F;pgrust)
-
----
-
-### 44. [XiaomingX&#x2F;ai-money-maker-handbook](../../repos/XiaomingX/ai-money-maker-handbook.md)
+### 42. [XiaomingX&#x2F;ai-money-maker-handbook](../../repos/XiaomingX/ai-money-maker-handbook.md)
 
 **ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.**
 
@@ -891,7 +851,7 @@
 
 ---
 
-### 45. [Armur-Ai&#x2F;Pentest-Swarm-AI](../../repos/Armur-Ai/Pentest-Swarm-AI.md)
+### 43. [Armur-Ai&#x2F;Pentest-Swarm-AI](../../repos/Armur-Ai/Pentest-Swarm-AI.md)
 
 **Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.**
 
@@ -911,7 +871,7 @@
 
 ---
 
-### 46. [OpenWhispr&#x2F;openwhispr](../../repos/OpenWhispr/openwhispr.md)
+### 44. [OpenWhispr&#x2F;openwhispr](../../repos/OpenWhispr/openwhispr.md)
 
 **Voice-to-text dictation app with local (Nvidia Parakeet&#x2F;Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.**
 
@@ -931,7 +891,7 @@
 
 ---
 
-### 47. [willfaust&#x2F;Madeira](../../repos/willfaust/Madeira.md)
+### 45. [willfaust&#x2F;Madeira](../../repos/willfaust/Madeira.md)
 
 **Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT**
 
@@ -951,7 +911,7 @@
 
 ---
 
-### 48. [weave-os&#x2F;router](../../repos/weave-os/router.md)
+### 46. [weave-os&#x2F;router](../../repos/weave-os/router.md)
 
 **Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.**
 
@@ -971,7 +931,7 @@
 
 ---
 
-### 49. [ashhart&#x2F;TensorFold](../../repos/ashhart/TensorFold.md)
+### 47. [ashhart&#x2F;TensorFold](../../repos/ashhart/TensorFold.md)
 
 **LLM Inference Engine for Metal, CUDA and Vulkan.**
 
@@ -991,7 +951,7 @@
 
 ---
 
-### 50. [harry0703&#x2F;MangoDisk](../../repos/harry0703/MangoDisk.md)
+### 48. [harry0703&#x2F;MangoDisk](../../repos/harry0703/MangoDisk.md)
 
 **Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.**
 
@@ -1011,6 +971,46 @@
 
 ---
 
+### 49. [chthollyphile&#x2F;folia-major](../../repos/chthollyphile/folia-major.md)
+
+**专注于绚丽的歌词动画效果的本地音乐&#x2F;navidrome&#x2F;第三方多平台在线音乐播放器**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 10,204 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 89/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Oct 11, 2026 |
+
+**Why it's a gem**: High growth velocity (+451 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/chthollyphile/folia-major.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;chthollyphile&#x2F;folia-major)
+
+---
+
+### 50. [wuwangzhang1216&#x2F;ChinaTextbookStudyFree](../../repos/wuwangzhang1216/ChinaTextbookStudyFree.md)
+
+**给所有中国小学生打造的免费学习平台，从一年级到六年级所有的课本知识点全汇总。**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 863 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 89/100 |
+| 📈 **Trending Days** | 7 |
+| 📅 **First Seen** | Oct 12, 2026 |
+
+**Why it's a gem**: High growth velocity (+91 stars&#x2F;day) • Trending 7 times • Very active development • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/wuwangzhang1216/ChinaTextbookStudyFree.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;wuwangzhang1216&#x2F;ChinaTextbookStudyFree)
+
+---
+
 
 ## Scoring Methodology
 
@@ -1027,5 +1027,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-03T10:45:25.282Z*  
+*Generated: 2026-11-03T21:01:03.872Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

@@ -251,27 +251,7 @@
 
 ---
 
-### 13. [kushagrasinghx&#x2F;BitChord](../../repos/kushagrasinghx/BitChord.md)
-
-**BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 5,406 |
-| 💻 **Language** | Kotlin |
-| 🏆 **Gem Score** | 88/100 |
-| 📈 **Trending Days** | 12 |
-| 📅 **First Seen** | Oct 12, 2026 |
-
-**Why it's a gem**: High growth velocity (+126 stars&#x2F;day) • Trending 12 times • Very active development
-
-**Best for**: 
-
-[View Passport](../../repos/kushagrasinghx/BitChord.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;kushagrasinghx&#x2F;BitChord)
-
----
-
-### 14. [jordan-gibbs&#x2F;hyperresearch](../../repos/jordan-gibbs/hyperresearch.md)
+### 13. [jordan-gibbs&#x2F;hyperresearch](../../repos/jordan-gibbs/hyperresearch.md)
 
 **Convert Claude Code or Codex into the most intelligent Deep Research Agent. Collect, search, and synthesize web research into a persistent, searchable wiki that builds on itself. Hosted API + MCP: hyperresearch.ai**
 
@@ -288,6 +268,26 @@
 **Best for**: 
 
 [View Passport](../../repos/jordan-gibbs/hyperresearch.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;jordan-gibbs&#x2F;hyperresearch)
+
+---
+
+### 14. [kushagrasinghx&#x2F;BitChord](../../repos/kushagrasinghx/BitChord.md)
+
+**BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 5,406 |
+| 💻 **Language** | Kotlin |
+| 🏆 **Gem Score** | 87/100 |
+| 📈 **Trending Days** | 12 |
+| 📅 **First Seen** | Oct 12, 2026 |
+
+**Why it's a gem**: High growth velocity (+126 stars&#x2F;day) • Trending 12 times • Very active development
+
+**Best for**: 
+
+[View Passport](../../repos/kushagrasinghx/BitChord.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;kushagrasinghx&#x2F;BitChord)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-03T10:45:25.260Z*  
+*Generated: 2026-11-03T21:01:03.859Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

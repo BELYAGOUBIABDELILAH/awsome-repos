@@ -19,7 +19,7 @@
 |---|---|
 | ⭐ **Stars** | 1,024 |
 | 💻 **Language** | C++ |
-| 🏆 **Gem Score** | 93/100 |
+| 🏆 **Gem Score** | 92/100 |
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Sep 3, 2026 |
 
@@ -51,27 +51,7 @@
 
 ---
 
-### 3. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
-
-**A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol **
-
-| | |
-|---|---|
-| ⭐ **Stars** | 5,808 |
-| 💻 **Language** | C++ |
-| 🏆 **Gem Score** | 86/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 1, 2026 |
-
-**Why it's a gem**: High growth velocity (+61 stars&#x2F;day) • Trending 5 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/geo-tp/ESP32-Bit-Pirate.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;geo-tp&#x2F;ESP32-Bit-Pirate)
-
----
-
-### 4. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
+### 3. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
 
 **Source control for agents. Use multiple coding agents, track their changes and query them in one place**
 
@@ -88,6 +68,26 @@
 **Best for**: 
 
 [View Passport](../../repos/pacifio/atlas.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;pacifio&#x2F;atlas)
+
+---
+
+### 4. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
+
+**A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol **
+
+| | |
+|---|---|
+| ⭐ **Stars** | 5,808 |
+| 💻 **Language** | C++ |
+| 🏆 **Gem Score** | 85/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 1, 2026 |
+
+**Why it's a gem**: High growth velocity (+61 stars&#x2F;day) • Trending 5 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/geo-tp/ESP32-Bit-Pirate.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;geo-tp&#x2F;ESP32-Bit-Pirate)
 
 ---
 
@@ -151,27 +151,7 @@
 
 ---
 
-### 8. [TNT-Likely&#x2F;PanWatch](../../repos/TNT-Likely/PanWatch.md)
-
-**盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股&#x2F;港股&#x2F;美股实时监控、持仓管理、智能分析、全渠道推送**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,761 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 84/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Sep 21, 2026 |
-
-**Why it's a gem**: High growth velocity (+202 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/TNT-Likely/PanWatch.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;TNT-Likely&#x2F;PanWatch)
-
----
-
-### 9. [KnockOutEZ&#x2F;wigolo](../../repos/KnockOutEZ/wigolo.md)
+### 8. [KnockOutEZ&#x2F;wigolo](../../repos/KnockOutEZ/wigolo.md)
 
 **The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0&#x2F;query. Public beta.**
 
@@ -191,7 +171,7 @@
 
 ---
 
-### 10. [yyjeqhc&#x2F;webcodex](../../repos/yyjeqhc/webcodex.md)
+### 9. [yyjeqhc&#x2F;webcodex](../../repos/yyjeqhc/webcodex.md)
 
 **Give cloud AI agents a real development environment on your own machines.**
 
@@ -208,6 +188,26 @@
 **Best for**: 
 
 [View Passport](../../repos/yyjeqhc/webcodex.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;yyjeqhc&#x2F;webcodex)
+
+---
+
+### 10. [TNT-Likely&#x2F;PanWatch](../../repos/TNT-Likely/PanWatch.md)
+
+**盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股&#x2F;港股&#x2F;美股实时监控、持仓管理、智能分析、全渠道推送**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,761 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 83/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Sep 21, 2026 |
+
+**Why it's a gem**: High growth velocity (+202 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/TNT-Likely/PanWatch.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;TNT-Likely&#x2F;PanWatch)
 
 ---
 
@@ -251,27 +251,7 @@
 
 ---
 
-### 13. [superradcompany&#x2F;microsandbox](../../repos/superradcompany/microsandbox.md)
-
-**🧱 Easy fast local-first microVM runtime and library**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 8,229 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 81/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 1, 2026 |
-
-**Why it's a gem**: High growth velocity (+45 stars&#x2F;day) • Trending 5 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/superradcompany/microsandbox.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;superradcompany&#x2F;microsandbox)
-
----
-
-### 14. [cactus-compute&#x2F;needle](../../repos/cactus-compute/needle.md)
+### 13. [cactus-compute&#x2F;needle](../../repos/cactus-compute/needle.md)
 
 **Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.**
 
@@ -291,47 +271,27 @@
 
 ---
 
-### 15. [tonhowtf&#x2F;omniget](../../repos/tonhowtf/omniget.md)
+### 14. [superradcompany&#x2F;microsandbox](../../repos/superradcompany/microsandbox.md)
 
-**Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF&#x2F;EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.**
+**🧱 Easy fast local-first microVM runtime and library**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 9,651 |
+| ⭐ **Stars** | 8,229 |
 | 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 81/100 |
+| 🏆 **Gem Score** | 80/100 |
 | 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 12, 2026 |
+| 📅 **First Seen** | Aug 1, 2026 |
 
-**Why it's a gem**: High growth velocity (+71 stars&#x2F;day) • Trending 5 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/tonhowtf/omniget.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;tonhowtf&#x2F;omniget)
-
----
-
-### 16. [huggingface&#x2F;funes](../../repos/huggingface/funes.md)
-
-**Durable, searchable memory of your past agent sessions.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 342 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 81/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Sep 7, 2026 |
-
-**Why it's a gem**: High growth velocity (+46 stars&#x2F;day) • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+45 stars&#x2F;day) • Trending 5 times • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/huggingface/funes.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;huggingface&#x2F;funes)
+[View Passport](../../repos/superradcompany/microsandbox.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;superradcompany&#x2F;microsandbox)
 
 ---
 
-### 17. [OpenAEC-Foundation&#x2F;open-pdf-studio](../../repos/OpenAEC-Foundation/open-pdf-studio.md)
+### 15. [OpenAEC-Foundation&#x2F;open-pdf-studio](../../repos/OpenAEC-Foundation/open-pdf-studio.md)
 
 **An open source PDF viewer&#x2F;editor with it&#39;s own blazing fast rust engine**
 
@@ -351,7 +311,27 @@
 
 ---
 
-### 18. [Osmantic&#x2F;ODS](../../repos/Osmantic/ODS.md)
+### 16. [tonhowtf&#x2F;omniget](../../repos/tonhowtf/omniget.md)
+
+**Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF&#x2F;EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 9,651 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 80/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 12, 2026 |
+
+**Why it's a gem**: High growth velocity (+71 stars&#x2F;day) • Trending 5 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/tonhowtf/omniget.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;tonhowtf&#x2F;omniget)
+
+---
+
+### 17. [Osmantic&#x2F;ODS](../../repos/Osmantic/ODS.md)
 
 **Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.**
 
@@ -371,7 +351,7 @@
 
 ---
 
-### 19. [aipoch&#x2F;open-science](../../repos/aipoch/open-science.md)
+### 18. [aipoch&#x2F;open-science](../../repos/aipoch/open-science.md)
 
 **The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python&#x2F;R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.**
 
@@ -388,6 +368,26 @@
 **Best for**: 
 
 [View Passport](../../repos/aipoch/open-science.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;aipoch&#x2F;open-science)
+
+---
+
+### 19. [huggingface&#x2F;funes](../../repos/huggingface/funes.md)
+
+**Durable, searchable memory of your past agent sessions.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 342 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 80/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Sep 7, 2026 |
+
+**Why it's a gem**: High growth velocity (+46 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/huggingface/funes.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;huggingface&#x2F;funes)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-03T10:45:25.263Z*  
+*Generated: 2026-11-03T21:01:03.861Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*
