@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 215
+**Gems Found**: 198
 
 ---
 
@@ -191,27 +191,7 @@
 
 ---
 
-### 10. [GCWing&#x2F;BitFun](../../repos/GCWing/BitFun.md)
-
-**BitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,608 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 75/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Aug 6, 2026 |
-
-**Why it's a gem**: High growth velocity (+47 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/GCWing/BitFun.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;GCWing&#x2F;BitFun)
-
----
-
-### 11. [booklore-app&#x2F;booklore](../../repos/booklore-app/booklore.md)
+### 10. [booklore-app&#x2F;booklore](../../repos/booklore-app/booklore.md)
 
 **BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo &amp; KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.**
 
@@ -231,27 +211,7 @@
 
 ---
 
-### 12. [AgriciDaniel&#x2F;claude-obsidian](../../repos/AgriciDaniel/claude-obsidian.md)
-
-**Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy&#39;s LLM Wiki pattern.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 13,929 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 75/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 11, 2026 |
-
-**Why it's a gem**: High growth velocity (+1021 stars&#x2F;day) • Trending 5 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/AgriciDaniel/claude-obsidian.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;AgriciDaniel&#x2F;claude-obsidian)
-
----
-
-### 13. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
+### 11. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
 
 **Portable Tool for an Ideal Windows Setup**
 
@@ -268,6 +228,46 @@
 **Best for**: 
 
 [View Passport](../../repos/Greedeks/GTweak.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Greedeks&#x2F;GTweak)
+
+---
+
+### 12. [GCWing&#x2F;BitFun](../../repos/GCWing/BitFun.md)
+
+**BitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,608 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 74/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 6, 2026 |
+
+**Why it's a gem**: High growth velocity (+47 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/GCWing/BitFun.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;GCWing&#x2F;BitFun)
+
+---
+
+### 13. [AgriciDaniel&#x2F;claude-obsidian](../../repos/AgriciDaniel/claude-obsidian.md)
+
+**Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy&#39;s LLM Wiki pattern.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 13,929 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 74/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 11, 2026 |
+
+**Why it's a gem**: High growth velocity (+1021 stars&#x2F;day) • Trending 5 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/AgriciDaniel/claude-obsidian.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;AgriciDaniel&#x2F;claude-obsidian)
 
 ---
 
@@ -331,27 +331,7 @@
 
 ---
 
-### 17. [longbridge&#x2F;gpui-component](../../repos/longbridge/gpui-component.md)
-
-**Rust GUI components for building fantastic cross-platform desktop application by using GPUI.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 13,249 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 73/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 1, 2026 |
-
-**Why it's a gem**: High growth velocity (+58 stars&#x2F;day) • Trending 6 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/longbridge/gpui-component.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;longbridge&#x2F;gpui-component)
-
----
-
-### 18. [Gitlawb&#x2F;zero](../../repos/Gitlawb/zero.md)
+### 17. [Gitlawb&#x2F;zero](../../repos/Gitlawb/zero.md)
 
 **The coding agent that answers to you, your model, your machine, your rules.**
 
@@ -371,7 +351,7 @@
 
 ---
 
-### 19. [tutti-os&#x2F;tutti](../../repos/tutti-os/tutti.md)
+### 18. [tutti-os&#x2F;tutti](../../repos/tutti-os/tutti.md)
 
 **Where people and agents build in tune.**
 
@@ -388,6 +368,26 @@
 **Best for**: 
 
 [View Passport](../../repos/tutti-os/tutti.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;tutti-os&#x2F;tutti)
+
+---
+
+### 19. [longbridge&#x2F;gpui-component](../../repos/longbridge/gpui-component.md)
+
+**Rust GUI components for building fantastic cross-platform desktop application by using GPUI.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 13,249 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 72/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 1, 2026 |
+
+**Why it's a gem**: High growth velocity (+58 stars&#x2F;day) • Trending 6 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/longbridge/gpui-component.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;longbridge&#x2F;gpui-component)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-03T21:01:03.862Z*  
+*Generated: 2026-11-04T21:01:03.253Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

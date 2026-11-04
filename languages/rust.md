@@ -16,28 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 45,344 | 2026-08-02 | 14 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 29,069 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [janhq/jan](../repos/janhq/jan.md) | ⭐ 45,363 | 2026-08-26 | 2 |
+| [emilk/egui](../repos/emilk/egui.md) | ⭐ 31,993 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 10,219 | 2026-08-26 | 16 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 45,523 | 2026-08-02 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Mesh-LLM/mesh-llm](../repos/Mesh-LLM/mesh-llm.md) | ⭐ 3,874 | 2026-09-24 | 3 |
+| [janhq/jan](../repos/janhq/jan.md) | ⭐ 45,444 | 2026-08-26 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [leepokai/Codync](../repos/leepokai/Codync.md) | ⭐ 1,781 | 2026-10-19 | 3 |
+| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 10,965 | 2026-08-26 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-desktop](../repos/vercel-labs/agent-desktop.md) | ⭐ 11,427 | 2026-11-02 | 2 |
+| [martin-olivier/airgorah](../repos/martin-olivier/airgorah.md) | ⭐ 5,009 | 2026-09-13 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lexmount/moli](../repos/lexmount/moli.md) | ⭐ 22,355 | 2026-11-03 | 1 |
+| [hydro-project/infinity](../repos/hydro-project/infinity.md) | ⭐ 683 | 2026-10-29 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [herdrdev/herdr](../repos/herdrdev/herdr.md) | ⭐ 47,738 | 2026-11-03 | 1 |
+| [vercel-labs/agent-desktop](../repos/vercel-labs/agent-desktop.md) | ⭐ 14,802 | 2026-11-02 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Duecki1/CalibRaw](../repos/Duecki1/CalibRaw.md) | ⭐ 287 | 2026-11-02 | 2 |
 
 
 ---
@@ -101,7 +104,7 @@
 | [herdrdev/herdr](../repos/herdrdev/herdr.md) | ⭐ 47,738 | 2026-11-03 | 1 |
 | [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 46,418 | 2026-08-28 | 2 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 45,552 | 2026-08-05 | 11 |
-| [janhq/jan](../repos/janhq/jan.md) | ⭐ 45,363 | 2026-08-26 | 2 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 45,523 | 2026-08-02 | 15 |
 
 ---
 
@@ -113,12 +116,12 @@
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 22 | ⭐ 24,202 | 2026-08-08 | 2026-10-25 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 21 | ⭐ 101,543 | 2026-08-09 | 2026-10-29 |
 | [openai/codex](../repos/openai/codex.md) | 18 | ⭐ 131,433 | 2026-08-01 | 2026-10-28 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | 17 | ⭐ 29,069 | 2026-08-01 | 2026-11-04 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 17 | ⭐ 42,354 | 2026-08-10 | 2026-10-26 |
-| [t8y2/dbx](../repos/t8y2/dbx.md) | 16 | ⭐ 28,165 | 2026-08-01 | 2026-10-29 |
+| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 17 | ⭐ 10,965 | 2026-08-26 | 2026-11-04 |
 | [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | 16 | ⭐ 12,999 | 2026-08-17 | 2026-10-23 |
-| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 16 | ⭐ 10,219 | 2026-08-26 | 2026-11-03 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 15 | ⭐ 45,523 | 2026-08-02 | 2026-11-04 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 15 | ⭐ 30,895 | 2026-08-03 | 2026-10-26 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 14 | ⭐ 45,344 | 2026-08-02 | 2026-11-03 |
 
 ---
 
@@ -227,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-11-03T21:00:59.562Z*
+*Last updated: 2026-11-04T21:00:57.531Z*

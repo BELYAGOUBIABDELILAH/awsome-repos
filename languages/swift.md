@@ -16,22 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 28,663 | 2026-08-01 | 26 |
+| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | ⭐ 7,024 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,525 | 2026-08-05 | 17 |
+| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 4,030 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [abue-ammar/tinycast](../repos/abue-ammar/tinycast.md) | ⭐ 9,092 | 2026-09-01 | 11 |
+| [abue-ammar/tinycast](../repos/abue-ammar/tinycast.md) | ⭐ 9,140 | 2026-09-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZingerLittleBee/Heeler](../repos/ZingerLittleBee/Heeler.md) | ⭐ 741 | 2026-09-21 | 4 |
+| [ChrisMack32/Locus](../repos/ChrisMack32/Locus.md) | ⭐ 613 | 2026-09-27 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 14,554 | 2026-09-21 | 12 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [HD838A/remote-mic-app](../repos/HD838A/remote-mic-app.md) | ⭐ 2,334 | 2026-10-08 | 5 |
+| [HD838A/remote-mic-app](../repos/HD838A/remote-mic-app.md) | ⭐ 2,435 | 2026-10-08 | 6 |
 
 
 ---
@@ -55,7 +52,7 @@
 | [apple/swift-argument-parser](../repos/apple/swift-argument-parser.md) | ⭐ 3,793 | 2026-10-08 | Straightforward, type-safe argument parsing for Swift |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [HD838A/remote-mic-app](../repos/HD838A/remote-mic-app.md) | ⭐ 2,334 | 2026-10-08 | 无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备 |
+| [HD838A/remote-mic-app](../repos/HD838A/remote-mic-app.md) | ⭐ 2,435 | 2026-10-08 | 无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [bobsupra/NuvioTVOS](../repos/bobsupra/NuvioTVOS.md) | ⭐ 286 | 2026-10-11 | Nuvio tvOS client |
@@ -112,7 +109,7 @@
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 16 | ⭐ 26,918 | 2026-08-04 | 2026-10-23 |
 | [apple/swift-nio](../repos/apple/swift-nio.md) | 15 | ⭐ 8,538 | 2026-08-04 | 2026-10-22 |
 | [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | 15 | ⭐ 36,920 | 2026-08-12 | 2026-10-27 |
-| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | 14 | ⭐ 14,686 | 2026-08-17 | 2026-10-19 |
+| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 14 | ⭐ 4,030 | 2026-08-01 | 2026-11-04 |
 
 ---
 
@@ -221,4 +218,4 @@
 
 ---
 
-*Last updated: 2026-11-03T21:00:59.568Z*
+*Last updated: 2026-11-04T21:00:57.539Z*

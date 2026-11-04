@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 310
+- **Total Repositories**: 315
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-03
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 495,697 | 2026-08-01 | 11 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 138,853 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shiyu-coder/Kronos](../repos/shiyu-coder/Kronos.md) | ⭐ 46,210 | 2026-08-03 | 10 |
+| [shiyu-coder/Kronos](../repos/shiyu-coder/Kronos.md) | ⭐ 46,785 | 2026-08-03 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,332 | 2026-08-04 | 24 |
+| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,351 | 2026-08-04 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [blader/humanizer](../repos/blader/humanizer.md) | ⭐ 64,188 | 2026-08-05 | 8 |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 147,211 | 2026-08-14 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MakazhanAlpamys/Soup](../repos/MakazhanAlpamys/Soup.md) | ⭐ 10,059 | 2026-08-15 | 10 |
+| [handsomestWei/patent-disclosure-skill](../repos/handsomestWei/patent-disclosure-skill.md) | ⭐ 12,896 | 2026-09-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shy3130/tick-stock-panel](../repos/shy3130/tick-stock-panel.md) | ⭐ 6,959 | 2026-08-23 | 5 |
+| [NVIDIA/auto-ontology](../repos/NVIDIA/auto-ontology.md) | ⭐ 4,656 | 2026-10-27 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 38,413 | 2026-08-29 | 9 |
+| [FlashML-org/FreeToken](../repos/FlashML-org/FreeToken.md) | ⭐ 16,598 | 2026-11-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jordan-gibbs/hyperresearch](../repos/jordan-gibbs/hyperresearch.md) | ⭐ 4,355 | 2026-09-12 | 3 |
+| [Usagi-org/ai-goofish-monitor](../repos/Usagi-org/ai-goofish-monitor.md) | ⭐ 17,127 | 2026-11-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [derv82/wifit3](../repos/derv82/wifit3.md) | ⭐ 3,064 | 2026-09-25 | 4 |
+| [AminBlg/SimpleEnglish](../repos/AminBlg/SimpleEnglish.md) | ⭐ 4,222 | 2026-11-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FlashML-org/FreeToken](../repos/FlashML-org/FreeToken.md) | ⭐ 16,391 | 2026-11-02 | 2 |
+| [The-PR-Agent/pr-agent](../repos/The-PR-Agent/pr-agent.md) | ⭐ 14,680 | 2026-11-04 | 1 |
 
 
 ---
@@ -98,11 +98,11 @@
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,775 | 2026-08-06 | 9 |
 | [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 178,249 | 2026-08-11 | 8 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 167,557 | 2026-07-31 | 9 |
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 145,456 | 2026-08-14 | 11 |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 147,211 | 2026-08-14 | 12 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 143,038 | 2026-08-04 | 8 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 141,991 | 2026-08-05 | 13 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 138,853 | 2026-08-01 | 18 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 133,846 | 2026-08-03 | 11 |
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 132,098 | 2026-08-01 | 17 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 117,829 | 2026-08-08 | 16 |
 | [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 115,765 | 2026-08-20 | 9 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 108,616 | 2026-07-31 | 6 |
@@ -115,8 +115,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [github/copilot-cli](../repos/github/copilot-cli.md) | 24 | ⭐ 11,332 | 2026-08-04 | 2026-11-03 |
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 17 | ⭐ 132,098 | 2026-08-01 | 2026-10-16 |
+| [github/copilot-cli](../repos/github/copilot-cli.md) | 25 | ⭐ 11,351 | 2026-08-04 | 2026-11-04 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 18 | ⭐ 138,853 | 2026-08-01 | 2026-11-04 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 17 | ⭐ 243,012 | 2026-08-01 | 2026-09-07 |
 | [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 17 | ⭐ 65,960 | 2026-08-22 | 2026-10-14 |
 | [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 16 | ⭐ 52,636 | 2026-08-03 | 2026-10-18 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-03T21:00:59.555Z*
+*Last updated: 2026-11-04T21:00:57.521Z*

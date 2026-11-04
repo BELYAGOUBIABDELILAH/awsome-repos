@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 148
+- **Total Repositories**: 149
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-02
 
@@ -16,25 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,745 | 2026-08-01 | 45 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,756 | 2026-08-01 | 46 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | ⭐ 10,260 | 2026-08-03 | 12 |
+| [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,919 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,974 | 2026-08-07 | 14 |
+| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,980 | 2026-08-07 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 22,275 | 2026-08-07 | 10 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 8,572 | 2026-08-12 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 8,528 | 2026-08-12 | 20 |
+| [DaoCloud/public-image-mirror](../repos/DaoCloud/public-image-mirror.md) | ⭐ 15,329 | 2026-08-14 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,613 | 2026-08-20 | 14 |
+| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | ⭐ 3,602 | 2026-08-19 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 46,158 | 2026-08-29 | 12 |
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,619 | 2026-08-20 | 15 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [bivlked/amneziawg-installer](../repos/bivlked/amneziawg-installer.md) | ⭐ 1,474 | 2026-08-25 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [itsnotkubrick/3X-UI_KIT](../repos/itsnotkubrick/3X-UI_KIT.md) | ⭐ 614 | 2026-10-15 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [liandu2024/Open-Box](../repos/liandu2024/Open-Box.md) | ⭐ 2,507 | 2026-10-22 | 4 |
 
 
 ---
@@ -61,7 +70,7 @@
 | [sailor-sh/CK-X](../repos/sailor-sh/CK-X.md) | ⭐ 1,226 | 2026-10-12 | A mock exams for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configure... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [itsnotkubrick/3X-UI_KIT](../repos/itsnotkubrick/3X-UI_KIT.md) | ⭐ 444 | 2026-10-15 |  |
+| [itsnotkubrick/3X-UI_KIT](../repos/itsnotkubrick/3X-UI_KIT.md) | ⭐ 614 | 2026-10-15 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nelvko/clashctl](../repos/nelvko/clashctl.md) | ⭐ 15,015 | 2026-10-15 | 😼 优雅地使用基于 clash&#x2F;mihomo 的代理环境 |
@@ -81,7 +90,7 @@
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,858 | 2026-08-07 | 4 |
 | [papers-we-love/papers-we-love](../repos/papers-we-love/papers-we-love.md) | ⭐ 110,960 | 2026-10-27 | 1 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,745 | 2026-08-01 | 45 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,756 | 2026-08-01 | 46 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,756 | 2026-08-04 | 10 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,702 | 2026-08-06 | 15 |
@@ -96,9 +105,9 @@
 | [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 22,275 | 2026-08-07 | 10 |
 | [lewagon/dotfiles](../repos/lewagon/dotfiles.md) | ⭐ 21,783 | 2026-08-25 | 1 |
 | [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
+| [agarrharr/awesome-cli-apps](../repos/agarrharr/awesome-cli-apps.md) | ⭐ 20,600 | 2026-11-04 | 1 |
 | [jnMetaCode/agency-agents-zh](../repos/jnMetaCode/agency-agents-zh.md) | ⭐ 20,046 | 2026-08-12 | 6 |
 | [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 19,680 | 2026-08-08 | 8 |
-| [thibmaek/awesome-raspberry-pi](../repos/thibmaek/awesome-raspberry-pi.md) | ⭐ 16,995 | 2026-09-08 | 3 |
 
 ---
 
@@ -106,14 +115,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 45 | ⭐ 95,745 | 2026-08-01 | 2026-11-03 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 46 | ⭐ 95,756 | 2026-08-01 | 2026-11-04 |
 | [expo/skills](../repos/expo/skills.md) | 36 | ⭐ 3,754 | 2026-08-07 | 2026-10-29 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 20 | ⭐ 8,528 | 2026-08-12 | 2026-11-03 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 21 | ⭐ 8,572 | 2026-08-12 | 2026-11-04 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 15 | ⭐ 3,172 | 2026-08-05 | 2026-10-25 |
 | [dockur/windows](../repos/dockur/windows.md) | 15 | ⭐ 53,702 | 2026-08-06 | 2026-10-27 |
-| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | 14 | ⭐ 10,974 | 2026-08-07 | 2026-11-03 |
-| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | 14 | ⭐ 1,613 | 2026-08-20 | 2026-11-03 |
+| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | 15 | ⭐ 10,980 | 2026-08-07 | 2026-11-04 |
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | 15 | ⭐ 1,619 | 2026-08-20 | 2026-11-04 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | 13 | ⭐ 47,855 | 2026-08-04 | 2026-10-21 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | 13 | ⭐ 26,341 | 2026-08-04 | 2026-10-29 |
 
@@ -224,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-03T21:00:59.566Z*
+*Last updated: 2026-11-04T21:00:57.535Z*

@@ -1,6 +1,6 @@
 # filamentphp&#x2F;filament
 
-> A powerful open-source UI framework for Laravel • Build and ship apps &amp; admin panels fast with Livewire
+> An open-source framework for building polished, maintainable business software with Laravel.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;filamentphp&#x2F;filament) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | PHP |
 | **License** | MIT |
-| **Stars** | ⭐ 32,371 |
-| **Forks** | 🍴 4,233 |
-| **Trending Days** | 27 |
+| **Stars** | ⭐ 32,417 |
+| **Forks** | 🍴 4,240 |
+| **Trending Days** | 28 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Oct 29, 2026 |
+| **Last Seen** | Nov 4, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 27
+- **Trending Days**: 28
 - **Longest Streak**: 4 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-03T21:01:01.111Z*  
-*Data from 27 trending reports*
+*Last updated: 2026-11-04T21:00:59.631Z*  
+*Data from 28 trending reports*

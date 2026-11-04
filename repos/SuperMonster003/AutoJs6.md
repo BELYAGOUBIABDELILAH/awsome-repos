@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | Java |
+| **Language** | Kotlin |
 | **License** | MPL-2.0 |
-| **Stars** | ⭐ 6,262 |
-| **Forks** | 🍴 1,747 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 6,581 |
+| **Forks** | 🍴 1,803 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 22, 2026 |
-| **Last Seen** | Aug 22, 2026 |
+| **Last Seen** | Nov 4, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Java or android*
+*Similar: Check repositories in Kotlin or android*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Inactive | No recent updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -81,15 +81,15 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in Java
+- Check similar projects in Kotlin
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-03T21:01:02.480Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-11-04T21:01:01.379Z*  
+*Data from 2 trending reports*

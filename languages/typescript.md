@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 300
+- **Total Repositories**: 301
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-16
 
@@ -16,28 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 42,976 | 2026-08-01 | 18 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 139,262 | 2026-08-02 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 46,688 | 2026-08-07 | 20 |
+| [QwenLM/qwen-code](../repos/QwenLM/qwen-code.md) | ⭐ 29,006 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 118,046 | 2026-08-17 | 4 |
+| [humanlayer/skills](../repos/humanlayer/skills.md) | ⭐ 5,601 | 2026-09-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Crosstalk-Solutions/project-nomad](../repos/Crosstalk-Solutions/project-nomad.md) | ⭐ 41,948 | 2026-09-14 | 9 |
+| [Crosstalk-Solutions/project-nomad](../repos/Crosstalk-Solutions/project-nomad.md) | ⭐ 42,178 | 2026-09-14 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Fission-AI/OpenSpec](../repos/Fission-AI/OpenSpec.md) | ⭐ 73,779 | 2026-09-19 | 4 |
+| [vercel-labs/scriptc](../repos/vercel-labs/scriptc.md) | ⭐ 6,496 | 2026-09-27 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [liguobao/ds-harness-remote](../repos/liguobao/ds-harness-remote.md) | ⭐ 1,404 | 2026-10-23 | 2 |
+| [elie222/rakazo](../repos/elie222/rakazo.md) | ⭐ 7,003 | 2026-10-17 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CNCKitchen/ScanRuler](../repos/CNCKitchen/ScanRuler.md) | ⭐ 770 | 2026-11-02 | 2 |
+| [Renhuai123/ziwei-doushu](../repos/Renhuai123/ziwei-doushu.md) | ⭐ 15,752 | 2026-10-23 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spotify/portal-ai-plugins](../repos/spotify/portal-ai-plugins.md) | ⭐ 2,904 | 2026-11-03 | 1 |
+| [liguobao/ds-harness-remote](../repos/liguobao/ds-harness-remote.md) | ⭐ 1,736 | 2026-10-23 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [openobserve/openobserve](../repos/openobserve/openobserve.md) | ⭐ 22,797 | 2026-10-29 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [spotify/portal-ai-plugins](../repos/spotify/portal-ai-plugins.md) | ⭐ 3,148 | 2026-11-03 | 2 |
 
 
 ---
@@ -90,7 +96,7 @@
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 158,228 | 2026-09-01 | 4 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 152,634 | 2026-08-07 | 20 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 141,850 | 2026-08-02 | 8 |
-| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 137,929 | 2026-08-02 | 16 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 139,262 | 2026-08-02 | 17 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | 2026-07-31 | 3 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 118,046 | 2026-08-17 | 4 |
 | [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 116,129 | 2026-08-07 | 12 |
@@ -116,7 +122,7 @@
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 20 | ⭐ 46,688 | 2026-08-07 | 2026-11-03 |
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 20 | ⭐ 78,178 | 2026-08-10 | 2026-10-21 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 18 | ⭐ 42,976 | 2026-08-01 | 2026-11-03 |
-| [garrytan/gstack](../repos/garrytan/gstack.md) | 16 | ⭐ 137,929 | 2026-08-02 | 2026-10-27 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | 17 | ⭐ 139,262 | 2026-08-02 | 2026-11-04 |
 | [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 14 | ⭐ 54,366 | 2026-08-01 | 2026-10-28 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 14 | ⭐ 34,200 | 2026-08-02 | 2026-10-03 |
 
@@ -227,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-03T21:00:59.571Z*
+*Last updated: 2026-11-04T21:00:57.543Z*

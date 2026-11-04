@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T21:01:03.992Z",
+  "generated_at": "2026-11-04T21:01:03.424Z",
   "total_count": 100,
   "repositories": [
     {
@@ -137,10 +137,10 @@
       "full_name": "tensorflow/tensorflow",
       "owner": "tensorflow",
       "name": "tensorflow",
-      "stars": 201278,
+      "stars": 201305,
       "language": "C++",
       "first_seen": "2026-07-30",
-      "trending_days": 29
+      "trending_days": 30
     },
     {
       "rank": 15,
@@ -287,20 +287,20 @@
       "full_name": "github/spec-kit",
       "owner": "github",
       "name": "spec-kit",
-      "stars": 145456,
+      "stars": 147211,
       "language": "Python",
       "first_seen": "2026-08-14",
-      "trending_days": 11
+      "trending_days": 12
     },
     {
       "rank": 30,
       "full_name": "vercel/next.js",
       "owner": "vercel",
       "name": "next.js",
-      "stars": 143211,
+      "stars": 143323,
       "language": "JavaScript",
       "first_seen": "2026-07-30",
-      "trending_days": 13
+      "trending_days": 14
     },
     {
       "rank": 31,
@@ -367,13 +367,23 @@
       "full_name": "garrytan/gstack",
       "owner": "garrytan",
       "name": "gstack",
-      "stars": 137929,
+      "stars": 139262,
       "language": "TypeScript",
       "first_seen": "2026-08-02",
-      "trending_days": 16
+      "trending_days": 17
     },
     {
       "rank": 38,
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "owner": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "stars": 138853,
+      "language": "Python",
+      "first_seen": "2026-08-01",
+      "trending_days": 18
+    },
+    {
+      "rank": 39,
       "full_name": "Graphify-Labs/graphify",
       "owner": "Graphify-Labs",
       "name": "graphify",
@@ -383,7 +393,7 @@
       "trending_days": 11
     },
     {
-      "rank": 39,
+      "rank": 40,
       "full_name": "ggml-org/llama.cpp",
       "owner": "ggml-org",
       "name": "llama.cpp",
@@ -391,16 +401,6 @@
       "language": "C++",
       "first_seen": "2026-08-01",
       "trending_days": 33
-    },
-    {
-      "rank": 40,
-      "full_name": "harry0703/MoneyPrinterTurbo",
-      "owner": "harry0703",
-      "name": "MoneyPrinterTurbo",
-      "stars": 132098,
-      "language": "Python",
-      "first_seen": "2026-08-01",
-      "trending_days": 17
     },
     {
       "rank": 41,
@@ -727,10 +727,10 @@
       "full_name": "NationalSecurityAgency/ghidra",
       "owner": "NationalSecurityAgency",
       "name": "ghidra",
-      "stars": 97368,
+      "stars": 97803,
       "language": "Java",
       "first_seen": "2026-08-03",
-      "trending_days": 29
+      "trending_days": 30
     },
     {
       "rank": 74,
@@ -777,10 +777,10 @@
       "full_name": "nvm-sh/nvm",
       "owner": "nvm-sh",
       "name": "nvm",
-      "stars": 95745,
+      "stars": 95756,
       "language": "Shell",
       "first_seen": "2026-08-01",
-      "trending_days": 45
+      "trending_days": 46
     },
     {
       "rank": 79,

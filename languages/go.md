@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 328
+- **Total Repositories**: 330
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-11-02
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 54,728 | 2026-08-01 | 24 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 51,364 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 38,924 | 2026-08-01 | 22 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 36,482 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [argoproj/argo-cd](../repos/argoproj/argo-cd.md) | ⭐ 24,520 | 2026-08-04 | 10 |
+| [ccfos/nightingale](../repos/ccfos/nightingale.md) | ⭐ 13,439 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 28,443 | 2026-08-04 | 16 |
+| [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | ⭐ 1,031 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 33,127 | 2026-08-06 | 15 |
+| [superplanehq/superplane](../repos/superplanehq/superplane.md) | ⭐ 8,793 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cilium/cilium](../repos/cilium/cilium.md) | ⭐ 25,763 | 2026-08-19 | 9 |
+| [argoproj/argo-cd](../repos/argoproj/argo-cd.md) | ⭐ 24,540 | 2026-08-04 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Christ9038/Ydisks-Xianyu-Helper](../repos/Christ9038/Ydisks-Xianyu-Helper.md) | ⭐ 2,196 | 2026-10-14 | 2 |
+| [coder/coder](../repos/coder/coder.md) | ⭐ 17,271 | 2026-08-06 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [warmbly/warmbly](../repos/warmbly/warmbly.md) | ⭐ 894 | 2026-11-02 | 2 |
+| [pocket-id/pocket-id](../repos/pocket-id/pocket-id.md) | ⭐ 9,998 | 2026-08-08 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mayswind/ezbookkeeping](../repos/mayswind/ezbookkeeping.md) | ⭐ 5,957 | 2026-11-02 | 2 |
+| [moby/buildkit](../repos/moby/buildkit.md) | ⭐ 10,362 | 2026-09-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [qax-os/excelize](../repos/qax-os/excelize.md) | ⭐ 21,046 | 2026-11-03 | 1 |
+| [guohuiyuan/go-music-dl](../repos/guohuiyuan/go-music-dl.md) | ⭐ 5,993 | 2026-09-20 | 6 |
 
 
 ---
@@ -104,8 +104,8 @@
 | [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | 2 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 54,728 | 2026-08-01 | 24 |
 | [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,401 | 2026-08-22 | 5 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 51,364 | 2026-08-01 | 22 |
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,305 | 2026-08-04 | 3 |
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 50,580 | 2026-08-01 | 21 |
 | [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 50,085 | 2026-08-06 | 11 |
 | [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 49,993 | 2026-08-03 | 1 |
 
@@ -116,14 +116,14 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [ollama/ollama](../repos/ollama/ollama.md) | 27 | ⭐ 185,709 | 2026-08-01 | 2026-11-02 |
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 25 | ⭐ 35,652 | 2026-08-01 | 2026-10-27 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 26 | ⭐ 36,482 | 2026-08-01 | 2026-11-04 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 24 | ⭐ 54,728 | 2026-08-01 | 2026-11-03 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 22 | ⭐ 51,364 | 2026-08-01 | 2026-11-04 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 22 | ⭐ 38,924 | 2026-08-01 | 2026-11-03 |
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 21 | ⭐ 50,580 | 2026-08-01 | 2026-10-23 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 20 | ⭐ 45,097 | 2026-08-07 | 2026-10-29 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 19 | ⭐ 5,954 | 2026-08-02 | 2026-10-29 |
+| [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | 18 | ⭐ 1,031 | 2026-08-01 | 2026-11-04 |
 | [golang/go](../repos/golang/go.md) | 17 | ⭐ 139,616 | 2026-07-31 | 2026-10-26 |
-| [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | 17 | ⭐ 880 | 2026-08-01 | 2026-10-21 |
 | [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 17 | ⭐ 48,815 | 2026-08-20 | 2026-10-28 |
 
 ---
@@ -131,7 +131,7 @@
 ## 📋 All Go Repositories
 
 - [golang/go](../repos/golang/go.md) - The Go programming language
-- [QuantumNous/new-api](../repos/QuantumNous/new-api.md) - A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs ...
+- [QuantumNous/new-api](../repos/QuantumNous/new-api.md) - Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs,...
 - [adithyan-ak/AgentHound](../repos/adithyan-ak/AgentHound.md) - Offensive security framework for AI agent infrastructure - recon, credential looting, model exfil...
 - [github/gh-stack](../repos/github/gh-stack.md) - GitHub Stacked PRs
 - [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) - The system of action for AI-native cybersecurity—where intent becomes governed execution, evidenc...
@@ -141,7 +141,7 @@
 - [Tencent/WeKnora](../repos/Tencent/WeKnora.md) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reason...
 - [nianzhibai/91](../repos/nianzhibai/91.md) - nine one
 - [ollama/ollama](../repos/ollama/ollama.md) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-- [ccfos/nightingale](../repos/ccfos/nightingale.md) - Nightingale is to monitoring and alerting what Grafana is to visualization.
+- [ccfos/nightingale](../repos/ccfos/nightingale.md) - Open-source, self-hosted alerting for metrics, logs, and databases. Includes a built-in AI agent ...
 - [cert-manager/cert-manager](../repos/cert-manager/cert-manager.md) - Automatically provision and manage TLS certificates in Kubernetes
 - [IceWhaleTech/CasaOS](../repos/IceWhaleTech/CasaOS.md) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [hashicorp/terraform-provider-aws](../repos/hashicorp/terraform-provider-aws.md) - The AWS Provider enables Terraform to manage AWS resources.
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-03T21:00:59.524Z*
+*Last updated: 2026-11-04T21:00:57.482Z*

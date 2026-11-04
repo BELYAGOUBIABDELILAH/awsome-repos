@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,126 | 2026-08-01 | 23 |
+| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,478 | 2026-08-01 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 22,303 | 2026-08-01 | 39 |
+| [wux1an/wxapkg](../repos/wux1an/wxapkg.md) | ⭐ 4,350 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 476 | 2026-08-02 | 43 |
+| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,550 | 2026-08-01 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 17,194 | 2026-08-02 | 39 |
+| [imsyy/home](../repos/imsyy/home.md) | ⭐ 4,550 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Virtual-Browser/VirtualBrowser](../repos/Virtual-Browser/VirtualBrowser.md) | ⭐ 3,247 | 2026-08-02 | 7 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 17,221 | 2026-08-02 | 40 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | ⭐ 2,083 | 2026-08-02 | 28 |
+| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | ⭐ 2,093 | 2026-08-02 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cfw-guide/ios.cfw.guide](../repos/cfw-guide/ios.cfw.guide.md) | ⭐ 777 | 2026-08-02 | 5 |
+| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 11,311 | 2026-08-04 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 11,113 | 2026-08-04 | 25 |
+| [HuLaSpark/HuLa](../repos/HuLaSpark/HuLa.md) | ⭐ 7,797 | 2026-08-08 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Daymychen/art-design-pro](../repos/Daymychen/art-design-pro.md) | ⭐ 5,973 | 2026-08-07 | 19 |
+| [pipipi-pikachu/PPTist](../repos/pipipi-pikachu/PPTist.md) | ⭐ 9,461 | 2026-08-23 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hefengxian/my-ielts](../repos/hefengxian/my-ielts.md) | ⭐ 4,028 | 2026-08-19 | 27 |
+| [geekgeekrun/geekgeekrun](../repos/geekgeekrun/geekgeekrun.md) | ⭐ 3,035 | 2026-09-10 | 14 |
 
 
 ---
@@ -52,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [docmirror/dev-sidecar](../repos/docmirror/dev-sidecar.md) | ⭐ 24,897 | 2026-10-06 | 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速 |
+| [docmirror/dev-sidecar](../repos/docmirror/dev-sidecar.md) | ⭐ 24,928 | 2026-10-06 | 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [daimiaopeng/coolapk-desktop](../repos/daimiaopeng/coolapk-desktop.md) | ⭐ 1,529 | 2026-10-06 | 酷安跨平台桌面版 |
@@ -76,7 +76,7 @@
 | [Hacker233/resume-design](../repos/Hacker233/resume-design.md) | ⭐ 4,059 | 2026-10-14 | 猫步简历 – 一款开源免费的简历制作神器，支持导出超高清PDF、图片、源码级JSON数据、Markdown格式等，AI简历生成、AI润色、AI语种翻译等。提供海量在线制作模版、主题任意切换、高度... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [dicebear/dicebear](../repos/dicebear/dicebear.md) | ⭐ 9,964 | 2026-10-16 | DiceBear is an avatar library for designers and developers. 🌍 |
+| [dicebear/dicebear](../repos/dicebear/dicebear.md) | ⭐ 10,014 | 2026-10-16 | DiceBear is an avatar library for designers and developers. 🌍 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [weidong-repo/AIResume](../repos/weidong-repo/AIResume.md) | ⭐ 208 | 2026-10-19 | AI简历平台-在线简历编辑-模板丰富-结合大模型帮您快速构建您的简历-支持导出pdf等 |
@@ -91,22 +91,22 @@
 | [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,126 | 2026-08-01 | 23 |
 | [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 54,000 | 2026-08-01 | 13 |
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,587 | 2026-08-01 | 35 |
-| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,519 | 2026-08-01 | 33 |
+| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,550 | 2026-08-01 | 34 |
 | [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 29,058 | 2026-08-01 | 36 |
-| [docmirror/dev-sidecar](../repos/docmirror/dev-sidecar.md) | ⭐ 24,897 | 2026-10-06 | 14 |
+| [docmirror/dev-sidecar](../repos/docmirror/dev-sidecar.md) | ⭐ 24,928 | 2026-10-06 | 15 |
 | [iview/iview](../repos/iview/iview.md) | ⭐ 23,775 | 2026-08-22 | 2 |
 | [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 22,303 | 2026-08-01 | 39 |
 | [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,685 | 2026-08-02 | 19 |
 | [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) | ⭐ 18,922 | 2026-08-07 | 3 |
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 17,194 | 2026-08-02 | 39 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 17,221 | 2026-08-02 | 40 |
 | [Hunlongyu/ZY-Player](../repos/Hunlongyu/ZY-Player.md) | ⭐ 14,511 | 2026-10-12 | 1 |
 | [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,448 | 2026-08-05 | 15 |
 | [tiny-craft/tiny-rdm](../repos/tiny-craft/tiny-rdm.md) | ⭐ 13,148 | 2026-08-20 | 5 |
 | [chaitin/xray](../repos/chaitin/xray.md) | ⭐ 11,764 | 2026-08-12 | 5 |
 | [zyronon/douyin](../repos/zyronon/douyin.md) | ⭐ 11,550 | 2026-08-17 | 5 |
-| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 11,113 | 2026-08-04 | 25 |
-| [dicebear/dicebear](../repos/dicebear/dicebear.md) | ⭐ 9,964 | 2026-10-16 | 3 |
-| [pipipi-pikachu/PPTist](../repos/pipipi-pikachu/PPTist.md) | ⭐ 9,457 | 2026-08-23 | 15 |
+| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 11,311 | 2026-08-04 | 26 |
+| [dicebear/dicebear](../repos/dicebear/dicebear.md) | ⭐ 10,014 | 2026-10-16 | 4 |
+| [pipipi-pikachu/PPTist](../repos/pipipi-pikachu/PPTist.md) | ⭐ 9,461 | 2026-08-23 | 16 |
 | [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,430 | 2026-08-03 | 24 |
 
 ---
@@ -117,11 +117,11 @@
 |------------|---------------|-------|------------|-----------|
 | [RikkaApps/websites](../repos/RikkaApps/websites.md) | 43 | ⭐ 476 | 2026-08-02 | 2026-11-03 |
 | [frappe/crm](../repos/frappe/crm.md) | 40 | ⭐ 3,883 | 2026-08-01 | 2026-10-29 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | 40 | ⭐ 17,221 | 2026-08-02 | 2026-11-04 |
 | [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 39 | ⭐ 22,303 | 2026-08-01 | 2026-11-03 |
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | 39 | ⭐ 17,194 | 2026-08-02 | 2026-11-03 |
 | [requarks/wiki](../repos/requarks/wiki.md) | 36 | ⭐ 29,058 | 2026-08-01 | 2026-10-20 |
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 35 | ⭐ 33,587 | 2026-08-01 | 2026-10-12 |
-| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | 33 | ⭐ 33,519 | 2026-08-01 | 2026-11-02 |
+| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | 34 | ⭐ 33,550 | 2026-08-01 | 2026-11-04 |
 | [julyx10/lap](../repos/julyx10/lap.md) | 33 | ⭐ 4,132 | 2026-08-02 | 2026-10-29 |
 | [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 32 | ⭐ 4,492 | 2026-08-01 | 2026-10-26 |
 | [unovue/reka-ui](../repos/unovue/reka-ui.md) | 31 | ⭐ 6,924 | 2026-08-02 | 2026-11-02 |
@@ -231,4 +231,4 @@
 
 ---
 
-*Last updated: 2026-11-03T21:00:59.579Z*
+*Last updated: 2026-11-04T21:00:57.554Z*

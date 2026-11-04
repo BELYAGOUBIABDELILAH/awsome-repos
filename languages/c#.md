@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 195
+- **Total Repositories**: 196
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-03
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,827 | 2026-08-01 | 21 |
+| [dotnet/eShop](../repos/dotnet/eShop.md) | ⭐ 10,996 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,936 | 2026-08-01 | 12 |
+| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,954 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 119,845 | 2026-08-02 | 33 |
+| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,826 | 2026-08-03 | 38 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 33,810 | 2026-08-02 | 38 |
+| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 39,115 | 2026-08-03 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JosefNemec/Playnite](../repos/JosefNemec/Playnite.md) | ⭐ 14,437 | 2026-08-02 | 9 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 56,020 | 2026-08-06 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 39,102 | 2026-08-03 | 13 |
+| [sourcegit-scm/sourcegit](../repos/sourcegit-scm/sourcegit.md) | ⭐ 6,360 | 2026-08-19 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 17,542 | 2026-08-03 | 20 |
+| [snownico0722/PaperTodo](../repos/snownico0722/PaperTodo.md) | ⭐ 2,672 | 2026-08-19 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LibreHardwareMonitor/LibreHardwareMonitor](../repos/LibreHardwareMonitor/LibreHardwareMonitor.md) | ⭐ 9,334 | 2026-08-09 | 6 |
+| [umlx5h/LLPlayer](../repos/umlx5h/LLPlayer.md) | ⭐ 4,552 | 2026-09-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [4sval/FModel](../repos/4sval/FModel.md) | ⭐ 3,327 | 2026-08-22 | 5 |
+| [STranslate/STranslate](../repos/STranslate/STranslate.md) | ⭐ 8,518 | 2026-09-08 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [umlx5h/LLPlayer](../repos/umlx5h/LLPlayer.md) | ⭐ 4,485 | 2026-09-04 | 6 |
+| [RayrenSX/iPhoneMirror](../repos/RayrenSX/iPhoneMirror.md) | ⭐ 1,697 | 2026-09-24 | 3 |
 
 
 ---
@@ -90,10 +90,10 @@
 |------------|-------|------------|---------------|
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 119,845 | 2026-08-02 | 33 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 58,750 | 2026-08-02 | 24 |
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 56,004 | 2026-08-06 | 20 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 56,020 | 2026-08-06 | 21 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,351 | 2026-08-01 | 17 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 40,291 | 2026-08-14 | 6 |
-| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 39,102 | 2026-08-03 | 13 |
+| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 39,115 | 2026-08-03 | 14 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,489 | 2026-08-01 | 20 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 33,810 | 2026-08-02 | 38 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,757 | 2026-08-01 | 23 |
@@ -102,7 +102,7 @@
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
 | [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,711 | 2026-08-05 | 14 |
 | [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,124 | 2026-08-10 | 7 |
-| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,936 | 2026-08-01 | 12 |
+| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,954 | 2026-08-01 | 13 |
 | [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,527 | 2026-08-02 | 9 |
 | [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 25,445 | 2026-08-27 | 9 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,316 | 2026-08-04 | 5 |
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 38 | ⭐ 33,810 | 2026-08-02 | 2026-11-03 |
-| [dotnet/skills](../repos/dotnet/skills.md) | 37 | ⭐ 5,764 | 2026-08-03 | 2026-10-29 |
+| [dotnet/skills](../repos/dotnet/skills.md) | 38 | ⭐ 5,826 | 2026-08-03 | 2026-11-04 |
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 33 | ⭐ 119,845 | 2026-08-02 | 2026-11-03 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 24 | ⭐ 58,750 | 2026-08-02 | 2026-10-28 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 24 | ⭐ 17,296 | 2026-08-02 | 2026-10-28 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 23 | ⭐ 32,757 | 2026-08-01 | 2026-10-29 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 21 | ⭐ 3,827 | 2026-08-01 | 2026-11-03 |
 | [dotnet/runtime](../repos/dotnet/runtime.md) | 21 | ⭐ 18,395 | 2026-08-04 | 2026-10-29 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | 21 | ⭐ 56,020 | 2026-08-06 | 2026-11-04 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 20 | ⭐ 38,489 | 2026-08-01 | 2026-10-23 |
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 20 | ⭐ 14,830 | 2026-08-01 | 2026-11-02 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-03T21:00:59.501Z*
+*Last updated: 2026-11-04T21:00:57.450Z*

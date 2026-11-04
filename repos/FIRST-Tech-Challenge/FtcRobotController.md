@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Java |
 | **License** | BSD-3-Clause-Clear |
-| **Stars** | ⭐ 1,340 |
-| **Forks** | 🍴 10,150 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 1,389 |
+| **Forks** | 🍴 10,830 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 13, 2026 |
-| **Last Seen** | Sep 24, 2026 |
+| **Last Seen** | Nov 4, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 2 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 1,340+ stars, strong contributor base |
+| **Community** | Very Active | 1,389+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Slow | Occasional updates |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 50&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-03T21:01:03.033Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-11-04T21:01:02.138Z*  
+*Data from 4 trending reports*

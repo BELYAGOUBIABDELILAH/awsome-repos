@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 181
+- **Total Repositories**: 183
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-29
 
@@ -16,16 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/awesome-copilot](../repos/github/awesome-copilot.md) | ⭐ 40,746 | 2026-08-14 | 11 |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,323 | 2026-07-30 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [webbrain-one/webbrain](../repos/webbrain-one/webbrain.md) | ⭐ 1,624 | 2026-08-24 | 4 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 13,832 | 2026-08-02 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DeanChensj/jiangshan-map](../repos/DeanChensj/jiangshan-map.md) | ⭐ 3,751 | 2026-11-02 | 2 |
+| [withmarbleapp/os-taxonomy](../repos/withmarbleapp/os-taxonomy.md) | ⭐ 7,587 | 2026-09-12 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [csyangwen/dsh-memory-evolve](../repos/csyangwen/dsh-memory-evolve.md) | ⭐ 530 | 2026-11-03 | 1 |
+| [michael-denyer/pstack-claude](../repos/michael-denyer/pstack-claude.md) | ⭐ 3,971 | 2026-10-16 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [jgraph/drawio-desktop](../repos/jgraph/drawio-desktop.md) | ⭐ 63,817 | 2026-11-04 | 1 |
 
 
 ---
@@ -74,7 +77,7 @@
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | 2026-07-30 | 3 |
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 158,907 | 2026-08-06 | 4 |
 | [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | 2 |
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,211 | 2026-07-30 | 13 |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,323 | 2026-07-30 | 14 |
 | [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 112,798 | 2026-08-05 | 34 |
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,607 | 2026-08-06 | 3 |
@@ -84,12 +87,12 @@
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,592 | 2026-08-04 | 3 |
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 69,556 | 2026-08-01 | 19 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,980 | 2026-08-04 | 4 |
+| [jgraph/drawio-desktop](../repos/jgraph/drawio-desktop.md) | ⭐ 63,817 | 2026-11-04 | 1 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,346 | 2026-08-11 | 4 |
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 60,381 | 2026-08-27 | 14 |
 | [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 59,798 | 2026-10-14 | 1 |
 | [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 52,040 | 2026-08-26 | 4 |
 | [DavidHDev/react-bits](../repos/DavidHDev/react-bits.md) | ⭐ 50,534 | 2026-10-28 | 1 |
-| [algorithm-visualizer/algorithm-visualizer](../repos/algorithm-visualizer/algorithm-visualizer.md) | ⭐ 49,214 | 2026-10-27 | 1 |
 
 ---
 
@@ -98,15 +101,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 34 | ⭐ 112,798 | 2026-08-05 | 2026-11-02 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 29 | ⭐ 13,832 | 2026-08-02 | 2026-11-04 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 22 | ⭐ 90,383 | 2026-08-04 | 2026-10-27 |
 | [byoungd/up](../repos/byoungd/up.md) | 19 | ⭐ 69,556 | 2026-08-01 | 2026-10-27 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
 | [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | 15 | ⭐ 48,379 | 2026-08-28 | 2026-10-26 |
+| [vercel/next.js](../repos/vercel/next.js.md) | 14 | ⭐ 143,323 | 2026-07-30 | 2026-11-04 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 14 | ⭐ 5,119 | 2026-08-07 | 2026-10-20 |
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | 14 | ⭐ 60,381 | 2026-08-27 | 2026-10-26 |
-| [vercel/next.js](../repos/vercel/next.js.md) | 13 | ⭐ 143,211 | 2026-07-30 | 2026-10-23 |
 | [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | 13 | ⭐ 36,212 | 2026-08-16 | 2026-10-29 |
-| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 12 | ⭐ 27,764 | 2026-08-03 | 2026-10-12 |
 
 ---
 
@@ -129,6 +132,7 @@
 - [tradesdontlie/tradingview-mcp](../repos/tradesdontlie/tradingview-mcp.md) - AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for pers...
 - [huangxd-/danmu_api](../repos/huangxd-/danmu_api.md) - 一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔咪人韩巴狐乐西埋帆红弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口规范，并提供日志记录，支持vercel&#x2F;net...
 - [tangyoha/telegram_media_downloader](../repos/tangyoha/telegram_media_downloader.md) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram me...
+- [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) - ConardLi&#39;s open-source Skills collection, featuring web design, knowledge retrieval, image genera...
 - [4ian/GDevelop](../repos/4ian/GDevelop.md) - 🎮 Open-source, cross-platform 2D&#x2F;3D&#x2F;multiplayer game engine designed for everyone.
 - [NodeBB/NodeBB](../repos/NodeBB/NodeBB.md) - Node.js based forum software built for the modern web
 - [jellyfin/jellyfin-web](../repos/jellyfin/jellyfin-web.md) - The Free Software Media System - Official Web Client
@@ -211,8 +215,7 @@
 - [FB208/OpenBidKit_Yibiao](../repos/FB208/OpenBidKit_Yibiao.md) - 开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用
 - [fmhy/edit](../repos/fmhy/edit.md) - Make changes to FMHY
 - [nasa-gibs/worldview](../repos/nasa-gibs/worldview.md) - Interactive interface for browsing global, full-resolution satellite imagery
-- [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) - ⭐️  Companies that don&#39;t have a broken hiring process
 
 ---
 
-*Last updated: 2026-11-03T21:00:59.532Z*
+*Last updated: 2026-11-04T21:00:57.492Z*

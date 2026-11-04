@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 229
+- **Total Repositories**: 230
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-02
 
@@ -16,28 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [git/git](../repos/git/git.md) | ⭐ 64,135 | 2026-08-05 | 10 |
+| [vedderb/bldc](../repos/vedderb/bldc.md) | ⭐ 3,559 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opa334/Dopamine](../repos/opa334/Dopamine.md) | ⭐ 7,186 | 2026-08-08 | 15 |
+| [radareorg/radare2](../repos/radareorg/radare2.md) | ⭐ 25,315 | 2026-08-05 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xmrig/xmrig](../repos/xmrig/xmrig.md) | ⭐ 10,198 | 2026-08-14 | 4 |
+| [dorianborian/sesame-robot](../repos/dorianborian/sesame-robot.md) | ⭐ 4,949 | 2026-08-15 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [coolsnowwolf/lede](../repos/coolsnowwolf/lede.md) | ⭐ 31,611 | 2026-08-16 | 3 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 47,691 | 2026-09-01 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreeRDP/FreeRDP](../repos/FreeRDP/FreeRDP.md) | ⭐ 13,945 | 2026-08-20 | 9 |
+| [YizhengWw/HachimoDock](../repos/YizhengWw/HachimoDock.md) | ⭐ 853 | 2026-11-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 46,885 | 2026-09-01 | 22 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [valinet/ExplorerPatcher](../repos/valinet/ExplorerPatcher.md) | ⭐ 34,217 | 2026-09-06 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [YizhengWw/HachimoDock](../repos/YizhengWw/HachimoDock.md) | ⭐ 769 | 2026-11-03 | 1 |
+| [FareedKhan-dev/kimi-k3-in-c](../repos/FareedKhan-dev/kimi-k3-in-c.md) | ⭐ 10,204 | 2026-11-04 | 1 |
 
 
 ---
@@ -89,8 +83,8 @@
 | [redis/redis](../repos/redis/redis.md) | ⭐ 77,090 | 2026-08-04 | 10 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 75,752 | 2026-08-01 | 26 |
 | [git/git](../repos/git/git.md) | ⭐ 64,135 | 2026-08-05 | 10 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 47,691 | 2026-09-01 | 23 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 47,337 | 2026-08-07 | 26 |
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 46,885 | 2026-09-01 | 22 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 41,534 | 2026-08-01 | 12 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,044 | 2026-08-02 | 9 |
@@ -114,7 +108,7 @@
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 26 | ⭐ 75,752 | 2026-08-01 | 2026-10-28 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 26 | ⭐ 47,337 | 2026-08-07 | 2026-10-23 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 24 | ⭐ 140,224 | 2026-08-01 | 2026-10-29 |
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | 22 | ⭐ 46,885 | 2026-09-01 | 2026-11-03 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | 23 | ⭐ 47,691 | 2026-09-01 | 2026-11-04 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 21 | ⭐ 28,089 | 2026-08-07 | 2026-10-23 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 19 | ⭐ 7,021 | 2026-08-04 | 2026-10-23 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 18 | ⭐ 78,208 | 2026-08-02 | 2026-10-25 |
@@ -227,4 +221,4 @@
 
 ---
 
-*Last updated: 2026-11-03T21:00:59.498Z*
+*Last updated: 2026-11-04T21:00:57.444Z*

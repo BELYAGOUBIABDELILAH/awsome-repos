@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | MIT |
-| **Stars** | ⭐ 137,929 |
-| **Forks** | 🍴 20,453 |
-| **Trending Days** | 16 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 139,262 |
+| **Forks** | 🍴 20,630 |
+| **Trending Days** | 17 |
+| **Peak Rank** | #10 |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Oct 27, 2026 |
+| **Last Seen** | Nov 4, 2026 |
 
 
 ---
@@ -43,11 +43,12 @@
 
 ## Trending Timeline
 
+**Nov 4, 2026** — Rank #10 (+285 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 16
+- **Peak Rank**: #10
+- **Trending Days**: 17
 - **Longest Streak**: 3 days
 
 ---
@@ -70,9 +71,9 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 137,929+ stars, strong contributor base |
+| **Community** | Very Active | 139,262+ stars, strong contributor base |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
@@ -86,10 +87,10 @@
 #### Metrics
 - **Hidden Gem**: ✗ No
 - **Trending Score**: 100&#x2F;100
-- **Historical Rank**: No ranking data
+- **Historical Rank**: Top 10 (Peak: #10)
 
 
 ---
 
-*Last updated: 2026-11-03T21:01:01.050Z*  
-*Data from 16 trending reports*
+*Last updated: 2026-11-04T21:00:59.553Z*  
+*Data from 17 trending reports*

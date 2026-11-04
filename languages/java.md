@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 221
+- **Total Repositories**: 222
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-28
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LaurieWired/GhidraMCP](../repos/LaurieWired/GhidraMCP.md) | ⭐ 11,731 | 2026-08-01 | 6 |
+| [LaurieWired/GhidraMCP](../repos/LaurieWired/GhidraMCP.md) | ⭐ 11,759 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [modelcontextprotocol/java-sdk](../repos/modelcontextprotocol/java-sdk.md) | ⭐ 3,761 | 2026-08-01 | 6 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 97,803 | 2026-08-03 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 27,723 | 2026-08-02 | 20 |
+| [StarRocks/starrocks](../repos/StarRocks/starrocks.md) | ⭐ 12,236 | 2026-08-05 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [adityatandon15/Low-Level-Design-Course](../repos/adityatandon15/Low-Level-Design-Course.md) | ⭐ 1,425 | 2026-08-03 | 9 |
+| [microg/GmsCore](../repos/microg/GmsCore.md) | ⭐ 15,194 | 2026-08-06 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 97,368 | 2026-08-03 | 29 |
+| [ReChronoRain/HyperCeiler](../repos/ReChronoRain/HyperCeiler.md) | ⭐ 5,651 | 2026-08-10 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cabaletta/baritone](../repos/cabaletta/baritone.md) | ⭐ 9,340 | 2026-08-03 | 11 |
+| [apache/iceberg](../repos/apache/iceberg.md) | ⭐ 9,406 | 2026-08-12 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 6,231 | 2026-08-05 | 30 |
+| [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 51,593 | 2026-08-12 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microg/GmsCore](../repos/microg/GmsCore.md) | ⭐ 15,176 | 2026-08-06 | 18 |
+| [logisim-evolution/logisim-evolution](../repos/logisim-evolution/logisim-evolution.md) | ⭐ 7,892 | 2026-08-22 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/iceberg](../repos/apache/iceberg.md) | ⭐ 9,400 | 2026-08-12 | 12 |
+| [jeecgboot/jimureport](../repos/jeecgboot/jimureport.md) | ⭐ 8,570 | 2026-08-28 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 51,521 | 2026-08-12 | 11 |
+| [FIRST-Tech-Challenge/FtcRobotController](../repos/FIRST-Tech-Challenge/FtcRobotController.md) | ⭐ 1,389 | 2026-09-13 | 4 |
 
 
 ---
@@ -89,7 +89,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 131,621 | 2026-08-04 | 16 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 97,368 | 2026-08-03 | 29 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 97,803 | 2026-08-03 | 30 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,760 | 2026-08-04 | 20 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,425 | 2026-08-02 | 24 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
@@ -98,7 +98,7 @@
 | [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,300 | 2026-08-08 | 11 |
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 52,224 | 2026-08-04 | 14 |
 | [google/guava](../repos/google/guava.md) | ⭐ 51,912 | 2026-08-02 | 12 |
-| [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 51,521 | 2026-08-12 | 11 |
+| [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 51,593 | 2026-08-12 | 12 |
 | [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 48,307 | 2026-08-07 | 11 |
 | [ReactiveX/RxJava](../repos/ReactiveX/RxJava.md) | ⭐ 48,208 | 2026-08-28 | 1 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 42,547 | 2026-08-05 | 19 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 30 | ⭐ 97,803 | 2026-08-03 | 2026-11-04 |
 | [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 30 | ⭐ 6,231 | 2026-08-05 | 2026-11-03 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 29 | ⭐ 97,368 | 2026-08-03 | 2026-11-03 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 24 | ⭐ 78,425 | 2026-08-02 | 2026-10-28 |
 | [kestra-io/kestra](../repos/kestra-io/kestra.md) | 23 | ⭐ 29,909 | 2026-08-04 | 2026-10-20 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 20 | ⭐ 27,723 | 2026-08-02 | 2026-11-03 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 20 | ⭐ 81,760 | 2026-08-04 | 2026-10-22 |
 | [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | 20 | ⭐ 7,452 | 2026-08-14 | 2026-11-03 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 19 | ⭐ 42,547 | 2026-08-05 | 2026-10-18 |
+| [microg/GmsCore](../repos/microg/GmsCore.md) | 19 | ⭐ 15,194 | 2026-08-06 | 2026-11-04 |
 | [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 18 | ⭐ 35,578 | 2026-08-04 | 2026-10-26 |
-| [microg/GmsCore](../repos/microg/GmsCore.md) | 18 | ⭐ 15,176 | 2026-08-06 | 2026-11-03 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-03T21:00:59.530Z*
+*Last updated: 2026-11-04T21:00:57.490Z*

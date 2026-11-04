@@ -1,6 +1,6 @@
 # michael-denyer&#x2F;pstack-claude
 
-> Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto&#39;s pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
+> Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto&#39;s pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;michael-denyer&#x2F;pstack-claude) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | JavaScript |
 | **License** | MIT |
-| **Stars** | ⭐ 3,065 |
-| **Forks** | 🍴 292 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 3,971 |
+| **Forks** | 🍴 359 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 16, 2026 |
-| **Last Seen** | Oct 19, 2026 |
+| **Last Seen** | Nov 4, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 2 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`agent-plugin`](../../topics/agent-plugin.md) [`agent-skills`](../../topics/agent-skills.md) [`agentic-ai`](../../topics/agentic-ai.md) [`anthropic`](../../topics/anthropic.md) [`chatgpt`](../../topics/chatgpt.md) [`claude`](../../topics/claude.md) [`claude-code`](../../topics/claude-code.md) [`claude-code-skills`](../../topics/claude-code-skills.md) [`claude-plugin`](../../topics/claude-plugin.md) [`claude-skills`](../../topics/claude-skills.md) [`code-review`](../../topics/code-review.md) [`codex`](../../topics/codex.md) [`codex-cli`](../../topics/codex-cli.md) [`codex-plugin`](../../topics/codex-plugin.md) [`codex-skills`](../../topics/codex-skills.md) [`coding-agent`](../../topics/coding-agent.md) [`developer-tools`](../../topics/developer-tools.md) [`gemini-cli`](../../topics/gemini-cli.md) [`opencode`](../../topics/opencode.md) [`pstack`](../../topics/pstack.md) 
+[`agent-plugin`](../../topics/agent-plugin.md) [`agent-skills`](../../topics/agent-skills.md) [`agentic-ai`](../../topics/agentic-ai.md) [`anthropic`](../../topics/anthropic.md) [`antigravity-skills`](../../topics/antigravity-skills.md) [`chatgpt`](../../topics/chatgpt.md) [`claude`](../../topics/claude.md) [`claude-code`](../../topics/claude-code.md) [`claude-code-skills`](../../topics/claude-code-skills.md) [`claude-plugin`](../../topics/claude-plugin.md) [`claude-skills`](../../topics/claude-skills.md) [`code-review`](../../topics/code-review.md) [`codex`](../../topics/codex.md) [`codex-cli`](../../topics/codex-cli.md) [`codex-plugin`](../../topics/codex-plugin.md) [`codex-skills`](../../topics/codex-skills.md) [`gemini-cli`](../../topics/gemini-cli.md) [`muse-plugin`](../../topics/muse-plugin.md) [`opencode`](../../topics/opencode.md) [`pstack`](../../topics/pstack.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Large Language Models` `Systems Programming` `Developer Tools` 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 50&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-03T21:01:03.511Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-11-04T21:01:02.750Z*  
+*Data from 4 trending reports*

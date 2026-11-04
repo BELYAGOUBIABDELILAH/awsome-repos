@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | CSS |
+| **Language** | JavaScript |
 | **License** | MIT |
-| **Stars** | ⭐ 13,213 |
-| **Forks** | 🍴 1,563 |
-| **Trending Days** | 28 |
+| **Stars** | ⭐ 13,832 |
+| **Forks** | 🍴 1,622 |
+| **Trending Days** | 29 |
 | **Peak Rank** | #11 |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Oct 23, 2026 |
+| **Last Seen** | Nov 4, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in CSS or agent*
+*Similar: Check repositories in JavaScript or agent*
 
 ---
 
@@ -49,7 +49,7 @@
 ### Highlights
 
 - **Peak Rank**: #11
-- **Trending Days**: 28
+- **Trending Days**: 29
 - **Longest Streak**: 5 days
 
 ---
@@ -83,7 +83,7 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in CSS
+- Check similar projects in JavaScript
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
@@ -93,5 +93,5 @@
 
 ---
 
-*Last updated: 2026-11-03T21:01:01.196Z*  
-*Data from 28 trending reports*
+*Last updated: 2026-11-04T21:00:59.729Z*  
+*Data from 29 trending reports*

@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | Lua |
+| **Language** | C++ |
 | **License** | MIT |
-| **Stars** | ⭐ 286 |
-| **Forks** | 🍴 38 |
-| **Trending Days** | 6 |
+| **Stars** | ⭐ 470 |
+| **Forks** | 🍴 53 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 23, 2026 |
-| **Last Seen** | Sep 27, 2026 |
+| **Last Seen** | Nov 4, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Lua or similar-topics*
+*Similar: Check repositories in C++ or similar-topics*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 6
+- **Trending Days**: 7
 - **Longest Streak**: 2 days
 
 ---
@@ -68,12 +68,12 @@
 
 | Aspect | Rating | Details |
 |--------|--------|---------|
-| **Difficulty** | Beginner | Approachable with good examples |
+| **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Slow | Occasional updates |
-| **Learning Curve** | Medium | Moderate learning investment |
+| **Maintenance** | Very Active | Updated within last week |
+| **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
 - General purpose
@@ -81,15 +81,15 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in Lua
+- Check similar projects in C++
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 95&#x2F;100
+- **Trending Score**: 100&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-03T21:01:02.529Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-11-04T21:01:01.436Z*  
+*Data from 7 trending reports*

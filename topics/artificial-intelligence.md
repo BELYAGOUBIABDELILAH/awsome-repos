@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 1025
+- **Total Repositories**: 1033
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-16
-- **Average Stars**: 18181
+- **Average Stars**: 18179
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 38,924 | Go |  |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,305 | C++ |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [gitlabhq/gitlabhq](../repos/gitlabhq/gitlabhq.md) | ⭐ 24,550 | Ruby |  |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 138,853 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,616 | Scala |  |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 29,069 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,391 | Scala |  |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 51,364 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,346 | Lua |  |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 36,482 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,128 | OCaml |  |
+| [ccfos/nightingale](../repos/ccfos/nightingale.md) | ⭐ 13,439 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 1,149 | OCaml |  |
+| [PHPMailer/PHPMailer](../repos/PHPMailer/PHPMailer.md) | ⭐ 22,342 | PHP |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,878 | Erlang |  |
+| [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,330 | PHP |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,541 | Perl |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,417 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,488 | HTML |  |
+| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,356 | Lua |  |
 
 
 ---
@@ -56,7 +56,7 @@
 | [morluto/rea](../repos/morluto/rea.md) | ⭐ 289,610 | TypeScript | 2026-10-06 | 10 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 243,012 | Python | 2026-08-01 | 17 |
 | [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 208,895 | TypeScript | 2026-08-11 | 7 |
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,278 | C++ | 2026-07-30 | 29 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,305 | C++ | 2026-07-30 | 30 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 195,293 | TypeScript | 2026-08-07 | 8 |
 | [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 189,013 | Python | 2026-09-07 | 3 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,775 | Python | 2026-08-06 | 9 |
@@ -70,34 +70,34 @@
 
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,278 | C++ | 1 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,305 | C++ | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 66,358 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 138,853 | Python | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
 | [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 5,780 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 28,165 | Rust | 2 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 29,069 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [cocoindex-io/cocoindex](../repos/cocoindex-io/cocoindex.md) | ⭐ 11,773 | Rust | 1 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 51,364 | Go | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 38,924 | Go | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 36,482 | Go | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [ccfos/nightingale](../repos/ccfos/nightingale.md) | ⭐ 13,439 | Go | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
 | [electron/electron](../repos/electron/electron.md) | ⭐ 123,622 | C++ | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,757 | C# | 3 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,351 | C# | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [PHPMailer/PHPMailer](../repos/PHPMailer/PHPMailer.md) | ⭐ 22,338 | PHP | 2 |
 
 ---
 
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-11-04](../archive/2026/11/2026-11-04.md)
+- 54 repositories trending
+- Top: tensorflow&#x2F;tensorflow
+
 ### [2026-11-03](../archive/2026/11/2026-11-03.md)
 - 55 repositories trending
 - Top: Fission-AI&#x2F;OpenSpec
@@ -150,10 +154,6 @@
 - 83 repositories trending
 - Top: github&#x2F;spec-kit
 
-### [2026-10-28](../archive/2026/10/2026-10-28.md)
-- 81 repositories trending
-- Top: n8n-io&#x2F;n8n
-
 
 ---
 
@@ -163,32 +163,32 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 75 days | 2026-08-01 | 2026-11-03 |
-| [emqx/emqx](../repos/emqx/emqx.md) | 64 days | 2026-08-01 | 2026-11-03 |
-| [vim/vim](../repos/vim/vim.md) | 63 days | 2026-08-01 | 2026-11-03 |
+| [apache/spark](../repos/apache/spark.md) | 76 days | 2026-08-01 | 2026-11-04 |
+| [emqx/emqx](../repos/emqx/emqx.md) | 65 days | 2026-08-01 | 2026-11-04 |
+| [vim/vim](../repos/vim/vim.md) | 64 days | 2026-08-01 | 2026-11-04 |
 | [joernio/joern](../repos/joernio/joern.md) | 62 days | 2026-08-01 | 2026-11-03 |
 | [ocaml/ocaml](../repos/ocaml/ocaml.md) | 60 days | 2026-08-01 | 2026-11-02 |
 | [firezone/firezone](../repos/firezone/firezone.md) | 51 days | 2026-08-02 | 2026-11-03 |
 | [rails/rails](../repos/rails/rails.md) | 50 days | 2026-08-02 | 2026-11-03 |
 | [discourse/discourse](../repos/discourse/discourse.md) | 48 days | 2026-08-01 | 2026-10-29 |
 | [OpenKore/openkore](../repos/OpenKore/openkore.md) | 43 days | 2026-08-01 | 2026-11-03 |
-| [ocaml/dune](../repos/ocaml/dune.md) | 41 days | 2026-08-01 | 2026-10-29 |
+| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | 42 days | 2026-08-01 | 2026-11-04 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Python**: 149 repositories (15%)
-- **Go**: 129 repositories (13%)
+- **Python**: 153 repositories (15%)
+- **Go**: 131 repositories (13%)
 - **TypeScript**: 113 repositories (11%)
 - **Rust**: 71 repositories (7%)
 - **C++**: 58 repositories (6%)
 
 ### Trending Frequency
-- **Daily Average**: 79.5 repositories
+- **Daily Average**: 79.2 repositories
 - **Peak Day**: 2026-08-19 (146 repositories)
-- **Growth Rate**: 12% this month
+- **Growth Rate**: 13% this month
 
 ---
 
@@ -232,11 +232,12 @@
 - [cocoindex-io/cocoindex](../repos/cocoindex-io/cocoindex.md) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [googleworkspace/cli](../repos/googleworkspace/cli.md) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admi...
 - [cube-js/cube](../repos/cube-js/cube.md) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
-- [QuantumNous/new-api](../repos/QuantumNous/new-api.md) - A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs ...
+- [QuantumNous/new-api](../repos/QuantumNous/new-api.md) - Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs,...
 - [adithyan-ak/AgentHound](../repos/adithyan-ak/AgentHound.md) - Offensive security framework for AI agent infrastructure - recon, credential looting, model exfil...
 - [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) - The system of action for AI-native cybersecurity—where intent becomes governed execution, evidenc...
 - [aquasecurity/trivy](../repos/aquasecurity/trivy.md) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositori...
 - [Tencent/WeKnora](../repos/Tencent/WeKnora.md) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reason...
+- [ccfos/nightingale](../repos/ccfos/nightingale.md) - Open-source, self-hosted alerting for metrics, logs, and databases. Includes a built-in AI agent ...
 - [kserve/kserve](../repos/kserve/kserve.md) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Fram...
 - [looplj/axonhub](../repos/looplj/axonhub.md) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cos...
 - [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) - An Application Framework for AI Engineering
@@ -298,8 +299,7 @@
 - [mhinz/vim-galore](../repos/mhinz/vim-galore.md) - :mortar_board: All things Vim!
 - [sainnhe/everforest](../repos/sainnhe/everforest.md) - 🌲 Comfortable &amp; Pleasant Color Scheme for Vim
 - [openboxes/openboxes](../repos/openboxes/openboxes.md) - OpenBoxes is a warehouse management system designed to manage inventory and track stock movements...
-- [smartcontractkit/chainlink-local](../repos/smartcontractkit/chainlink-local.md) - The Chainlink CCIP Local Simulator, visit documentation by clicking the link below:
 
 ---
 
-*Last updated: 2026-11-03T21:00:59.266Z*
+*Last updated: 2026-11-04T21:00:57.144Z*

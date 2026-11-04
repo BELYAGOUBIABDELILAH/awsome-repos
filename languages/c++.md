@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 296
+- **Total Repositories**: 297
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-10-28
+- **Last Updated**: 2026-11-04
 
 ---
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 32,530 | 2026-08-03 | 18 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,305 | 2026-07-30 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/googletest](../repos/google/googletest.md) | ⭐ 39,695 | 2026-08-04 | 25 |
+| [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 24,313 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hyprwm/Hyprland](../repos/hyprwm/Hyprland.md) | ⭐ 40,163 | 2026-08-07 | 7 |
+| [google/googletest](../repos/google/googletest.md) | ⭐ 39,706 | 2026-08-04 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [audacity/audacity](../repos/audacity/audacity.md) | ⭐ 18,941 | 2026-08-09 | 5 |
+| [cloudflare/workerd](../repos/cloudflare/workerd.md) | ⭐ 9,129 | 2026-08-06 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [leejet/stable-diffusion.cpp](../repos/leejet/stable-diffusion.cpp.md) | ⭐ 7,881 | 2026-08-10 | 9 |
+| [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | ⭐ 22,225 | 2026-08-06 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jomjol/AI-on-the-edge-device](../repos/jomjol/AI-on-the-edge-device.md) | ⭐ 8,938 | 2026-09-13 | 3 |
+| [hyprwm/Hyprland](../repos/hyprwm/Hyprland.md) | ⭐ 40,294 | 2026-08-07 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [geode-sdk/geode](../repos/geode-sdk/geode.md) | ⭐ 3,218 | 2026-09-28 | 7 |
+| [kvcache-ai/Mooncake](../repos/kvcache-ai/Mooncake.md) | ⭐ 6,977 | 2026-08-15 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DamRsn/NeuralNote](../repos/DamRsn/NeuralNote.md) | ⭐ 3,381 | 2026-10-09 | 3 |
+| [dariulone/cyberpunk-vr-port](../repos/dariulone/cyberpunk-vr-port.md) | ⭐ 470 | 2026-08-23 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Adaptix-Framework/AdaptixC2](../repos/Adaptix-Framework/AdaptixC2.md) | ⭐ 3,823 | 2026-11-03 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [jimmgreen/pulse](../repos/jimmgreen/pulse.md) | ⭐ 1,273 | 2026-11-03 | 1 |
+| [ros-navigation/navigation2](../repos/ros-navigation/navigation2.md) | ⭐ 5,003 | 2026-10-29 | 2 |
 
 
 ---
@@ -88,7 +85,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,278 | 2026-07-30 | 29 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,305 | 2026-07-30 | 30 |
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 132,446 | 2026-08-01 | 33 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,803 | 2026-08-04 | 7 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 123,622 | 2026-08-01 | 7 |
@@ -117,8 +114,8 @@
 |------------|---------------|-------|------------|-----------|
 | [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 46 | ⭐ 439 | 2026-08-01 | 2026-10-09 |
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 33 | ⭐ 132,446 | 2026-08-01 | 2026-10-26 |
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 29 | ⭐ 201,278 | 2026-07-30 | 2026-10-28 |
-| [google/googletest](../repos/google/googletest.md) | 25 | ⭐ 39,695 | 2026-08-04 | 2026-11-03 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 30 | ⭐ 201,305 | 2026-07-30 | 2026-11-04 |
+| [google/googletest](../repos/google/googletest.md) | 26 | ⭐ 39,706 | 2026-08-04 | 2026-11-04 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 20 | ⭐ 72,138 | 2026-08-01 | 2026-10-29 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 19 | ⭐ 546 | 2026-08-01 | 2026-10-29 |
 | [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | 18 | ⭐ 32,530 | 2026-08-03 | 2026-11-03 |
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-11-03T21:00:59.504Z*
+*Last updated: 2026-11-04T21:00:57.453Z*

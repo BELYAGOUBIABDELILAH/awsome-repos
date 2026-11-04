@@ -1,6 +1,6 @@
 # realidkroo&#x2F;Mochy-Music
 
-> A modern sleek music player.
+> A modern, cool, sleek music player. made with &lt;3
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;realidkroo&#x2F;Mochy-Music) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Kotlin |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 548 |
-| **Forks** | 🍴 37 |
-| **Trending Days** | 4 |
+| **Stars** | ⭐ 680 |
+| **Forks** | 🍴 40 |
+| **Trending Days** | 5 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 28, 2026 |
-| **Last Seen** | Nov 3, 2026 |
+| **Last Seen** | Nov 4, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 4
-- **Longest Streak**: 2 days
+- **Trending Days**: 5
+- **Longest Streak**: 3 days
 
 ---
 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 70&#x2F;100
+- **Trending Score**: 90&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-03T21:01:03.657Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-11-04T21:01:02.948Z*  
+*Data from 5 trending reports*

@@ -1,6 +1,6 @@
 # QuantumNous&#x2F;new-api
 
-> A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.
+> Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;QuantumNous&#x2F;new-api) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 50,580 |
-| **Forks** | 🍴 12,235 |
-| **Trending Days** | 21 |
+| **Stars** | ⭐ 51,364 |
+| **Forks** | 🍴 12,472 |
+| **Trending Days** | 22 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Oct 23, 2026 |
+| **Last Seen** | Nov 4, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 21
+- **Trending Days**: 22
 - **Longest Streak**: 4 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`ai-gateway`](../../topics/ai-gateway.md) [`claude`](../../topics/claude.md) [`deepseek`](../../topics/deepseek.md) [`gemini`](../../topics/gemini.md) [`newapi`](../../topics/newapi.md) [`openai`](../../topics/openai.md) [`rerank`](../../topics/rerank.md) 
+[`ai-gateway`](../../topics/ai-gateway.md) [`api-management`](../../topics/api-management.md) [`claude`](../../topics/claude.md) [`deepseek`](../../topics/deepseek.md) [`gemini`](../../topics/gemini.md) [`llm-gateway`](../../topics/llm-gateway.md) [`model-routing`](../../topics/model-routing.md) [`newapi`](../../topics/newapi.md) [`openai`](../../topics/openai.md) [`rerank`](../../topics/rerank.md) [`self-hosted`](../../topics/self-hosted.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Large Language Models` `Backend Development` `Systems Programming` 
@@ -72,7 +72,7 @@
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-03T21:01:00.725Z*  
-*Data from 21 trending reports*
+*Last updated: 2026-11-04T21:00:59.155Z*  
+*Data from 22 trending reports*

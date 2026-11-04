@@ -7,7 +7,7 @@
 ## September 2026
 
 **Period**: 2026-09-01 to 2026-09-28  
-**Gems Found**: 351
+**Gems Found**: 344
 
 ---
 
@@ -251,27 +251,7 @@
 
 ---
 
-### 13. [cactus-compute&#x2F;needle](../../repos/cactus-compute/needle.md)
-
-**Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 12,523 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 81/100 |
-| 📈 **Trending Days** | 10 |
-| 📅 **First Seen** | Aug 11, 2026 |
-
-**Why it's a gem**: High growth velocity (+626 stars&#x2F;day) • Trending 10 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/cactus-compute/needle.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;needle)
-
----
-
-### 14. [superradcompany&#x2F;microsandbox](../../repos/superradcompany/microsandbox.md)
+### 13. [superradcompany&#x2F;microsandbox](../../repos/superradcompany/microsandbox.md)
 
 **🧱 Easy fast local-first microVM runtime and library**
 
@@ -291,27 +271,27 @@
 
 ---
 
-### 15. [OpenAEC-Foundation&#x2F;open-pdf-studio](../../repos/OpenAEC-Foundation/open-pdf-studio.md)
+### 14. [cactus-compute&#x2F;needle](../../repos/cactus-compute/needle.md)
 
-**An open source PDF viewer&#x2F;editor with it&#39;s own blazing fast rust engine**
+**Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 852 |
-| 💻 **Language** | HTML |
+| ⭐ **Stars** | 12,523 |
+| 💻 **Language** | Python |
 | 🏆 **Gem Score** | 80/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 3, 2026 |
+| 📈 **Trending Days** | 10 |
+| 📅 **First Seen** | Aug 11, 2026 |
 
-**Why it's a gem**: Trending 4 times • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+626 stars&#x2F;day) • Trending 10 times • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/OpenAEC-Foundation/open-pdf-studio.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;OpenAEC-Foundation&#x2F;open-pdf-studio)
+[View Passport](../../repos/cactus-compute/needle.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;needle)
 
 ---
 
-### 16. [tonhowtf&#x2F;omniget](../../repos/tonhowtf/omniget.md)
+### 15. [tonhowtf&#x2F;omniget](../../repos/tonhowtf/omniget.md)
 
 **Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF&#x2F;EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.**
 
@@ -331,27 +311,7 @@
 
 ---
 
-### 17. [Osmantic&#x2F;ODS](../../repos/Osmantic/ODS.md)
-
-**Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 5,807 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 80/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 20, 2026 |
-
-**Why it's a gem**: High growth velocity (+213 stars&#x2F;day) • Trending 4 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/Osmantic/ODS.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Osmantic&#x2F;ODS)
-
----
-
-### 18. [aipoch&#x2F;open-science](../../repos/aipoch/open-science.md)
+### 16. [aipoch&#x2F;open-science](../../repos/aipoch/open-science.md)
 
 **The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python&#x2F;R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.**
 
@@ -371,7 +331,7 @@
 
 ---
 
-### 19. [huggingface&#x2F;funes](../../repos/huggingface/funes.md)
+### 17. [huggingface&#x2F;funes](../../repos/huggingface/funes.md)
 
 **Durable, searchable memory of your past agent sessions.**
 
@@ -391,7 +351,27 @@
 
 ---
 
-### 20. [adongwanai&#x2F;AgentGuide](../../repos/adongwanai/AgentGuide.md)
+### 18. [OpenAEC-Foundation&#x2F;open-pdf-studio](../../repos/OpenAEC-Foundation/open-pdf-studio.md)
+
+**An open source PDF viewer&#x2F;editor with it&#39;s own blazing fast rust engine**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 852 |
+| 💻 **Language** | HTML |
+| 🏆 **Gem Score** | 79/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 3, 2026 |
+
+**Why it's a gem**: Trending 4 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/OpenAEC-Foundation/open-pdf-studio.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;OpenAEC-Foundation&#x2F;open-pdf-studio)
+
+---
+
+### 19. [adongwanai&#x2F;AgentGuide](../../repos/adongwanai/AgentGuide.md)
 
 **https:&#x2F;&#x2F;adongwanai.github.io&#x2F;AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成**
 
@@ -411,6 +391,26 @@
 
 ---
 
+### 20. [AdventDevInc&#x2F;kudu](../../repos/AdventDevInc/kudu.md)
+
+**Free Windows, Mac and Linux cleaner, scanner, and more.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3,297 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 79/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 6, 2026 |
+
+**Why it's a gem**: High growth velocity (+188 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/AdventDevInc/kudu.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;AdventDevInc&#x2F;kudu)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-03T21:01:03.861Z*  
+*Generated: 2026-11-04T21:01:03.251Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

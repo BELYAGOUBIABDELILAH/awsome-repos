@@ -14,13 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,629 | 2026-08-03 | 50 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [nodecode-ai/nodecode](../repos/nodecode-ai/nodecode.md) | ⭐ 175 | 2026-10-26 | 3 |
 
+*No Common Lisp repositories trending today*
 
 ---
 
@@ -76,4 +71,4 @@
 
 ---
 
-*Last updated: 2026-11-03T21:00:59.509Z*
+*Last updated: 2026-11-04T21:00:57.460Z*

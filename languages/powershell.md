@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/hve-core](../repos/microsoft/hve-core.md) | ⭐ 1,600 | 2026-08-01 | 16 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,569 | 2026-08-01 | 58 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 3,483 | 2026-08-01 | 28 |
+| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 6,157 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 6,153 | 2026-08-01 | 25 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 940 | 2026-08-01 | 46 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 939 | 2026-08-01 | 45 |
+| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | ⭐ 1,569 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | ⭐ 1,564 | 2026-08-01 | 23 |
+| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | ⭐ 527 | 2026-08-04 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,710 | 2026-08-03 | 33 |
+| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 9,286 | 2026-08-06 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 9,276 | 2026-08-06 | 20 |
+| [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,120 | 2026-08-07 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,287 | 2026-09-02 | 15 |
+| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,290 | 2026-09-02 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CyberDrain/CIPP](../repos/CyberDrain/CIPP.md) | ⭐ 99 | 2026-09-22 | 5 |
+| [microsoft/sre-agent](../repos/microsoft/sre-agent.md) | ⭐ 186 | 2026-09-22 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [javaht/claude-desktop-zh-cn](../repos/javaht/claude-desktop-zh-cn.md) | ⭐ 8,177 | 2026-10-23 | 6 |
+| [javaht/claude-desktop-zh-cn](../repos/javaht/claude-desktop-zh-cn.md) | ⭐ 8,226 | 2026-10-23 | 7 |
 
 
 ---
@@ -61,7 +61,7 @@
 | [microsoft/Windows-Sandbox](../repos/microsoft/Windows-Sandbox.md) | ⭐ 577 | 2026-10-17 | Disposable, secure and lightweight Windows Desktop Environment |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [javaht/claude-desktop-zh-cn](../repos/javaht/claude-desktop-zh-cn.md) | ⭐ 8,177 | 2026-10-23 | Claude Desktop Chinese Patch (macOS &amp; Windows &amp; Linux) |
+| [javaht/claude-desktop-zh-cn](../repos/javaht/claude-desktop-zh-cn.md) | ⭐ 8,226 | 2026-10-23 | Claude Desktop Chinese Patch (macOS &amp; Windows &amp; Linux) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Azure/Azure-Functions](../repos/Azure/Azure-Functions.md) | ⭐ 1,125 | 2026-10-23 |  |
@@ -73,7 +73,7 @@
 | [pester/Pester](../repos/pester/Pester.md) | ⭐ 3,369 | 2026-10-29 | Pester is the ubiquitous test and mock framework for PowerShell. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [irzyxa/Volume2](../repos/irzyxa/Volume2.md) | ⭐ 1,384 | 2026-11-02 | Volume² - advanced Windows volume control. |
+| [irzyxa/Volume2](../repos/irzyxa/Volume2.md) | ⭐ 1,387 | 2026-11-02 | Volume² - advanced Windows volume control. |
 
 
 ---
@@ -85,17 +85,17 @@
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 36,799 | 2026-08-01 | 20 |
 | [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,062 | 2026-08-02 | 17 |
 | [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,844 | 2026-08-09 | 1 |
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,559 | 2026-08-01 | 57 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,569 | 2026-08-01 | 58 |
 | [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,073 | 2026-08-04 | 5 |
-| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,287 | 2026-09-02 | 15 |
+| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,290 | 2026-09-02 | 16 |
 | [SpecterOps/BloodHound-Legacy](../repos/SpecterOps/BloodHound-Legacy.md) | ⭐ 10,597 | 2026-08-06 | 1 |
 | [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,136 | 2026-08-03 | 11 |
-| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 9,276 | 2026-08-06 | 20 |
+| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 9,286 | 2026-08-06 | 21 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,565 | 2026-08-01 | 31 |
-| [javaht/claude-desktop-zh-cn](../repos/javaht/claude-desktop-zh-cn.md) | ⭐ 8,177 | 2026-10-23 | 6 |
+| [javaht/claude-desktop-zh-cn](../repos/javaht/claude-desktop-zh-cn.md) | ⭐ 8,226 | 2026-10-23 | 7 |
 | [mandiant/commando-vm](../repos/mandiant/commando-vm.md) | ⭐ 7,779 | 2026-08-12 | 1 |
 | [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,674 | 2026-08-07 | 7 |
-| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 6,153 | 2026-08-01 | 25 |
+| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 6,157 | 2026-08-01 | 26 |
 | [jamesstringer90/Easy-GPU-PV](../repos/jamesstringer90/Easy-GPU-PV.md) | ⭐ 5,590 | 2026-09-06 | 3 |
 | [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 3,483 | 2026-08-01 | 28 |
 | [pester/Pester](../repos/pester/Pester.md) | ⭐ 3,369 | 2026-10-29 | 1 |
@@ -109,16 +109,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [actions/runner-images](../repos/actions/runner-images.md) | 57 | ⭐ 13,559 | 2026-08-01 | 2026-11-02 |
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 45 | ⭐ 939 | 2026-08-01 | 2026-11-03 |
+| [actions/runner-images](../repos/actions/runner-images.md) | 58 | ⭐ 13,569 | 2026-08-01 | 2026-11-04 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 46 | ⭐ 940 | 2026-08-01 | 2026-11-04 |
 | [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 33 | ⭐ 1,710 | 2026-08-03 | 2026-11-03 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 31 | ⭐ 8,565 | 2026-08-01 | 2026-11-02 |
 | [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 28 | ⭐ 3,483 | 2026-08-01 | 2026-11-03 |
-| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 25 | ⭐ 6,153 | 2026-08-01 | 2026-11-03 |
-| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 23 | ⭐ 1,564 | 2026-08-01 | 2026-11-03 |
+| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 26 | ⭐ 6,157 | 2026-08-01 | 2026-11-04 |
+| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 24 | ⭐ 1,569 | 2026-08-01 | 2026-11-04 |
+| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 21 | ⭐ 527 | 2026-08-04 | 2026-11-04 |
+| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | 21 | ⭐ 9,286 | 2026-08-06 | 2026-11-04 |
 | [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | 21 | ⭐ 2,767 | 2026-08-11 | 2026-10-29 |
-| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | 20 | ⭐ 36,799 | 2026-08-01 | 2026-09-21 |
-| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 20 | ⭐ 500 | 2026-08-04 | 2026-10-25 |
 
 ---
 
@@ -189,4 +189,4 @@
 
 ---
 
-*Last updated: 2026-11-03T21:00:59.553Z*
+*Last updated: 2026-11-04T21:00:57.518Z*

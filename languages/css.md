@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 81
+- **Total Repositories**: 80
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-02
 
@@ -16,16 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,479 | 2026-08-01 | 56 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,480 | 2026-08-01 | 57 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zarazhangrui/codebase-to-course](../repos/zarazhangrui/codebase-to-course.md) | ⭐ 5,762 | 2026-08-02 | 13 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,433 | 2026-08-04 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,432 | 2026-08-04 | 31 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,625 | 2026-08-05 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NsCDE/NsCDE](../repos/NsCDE/NsCDE.md) | ⭐ 2,380 | 2026-11-03 | 1 |
+| [jensimmons/cssremedy](../repos/jensimmons/cssremedy.md) | ⭐ 2,221 | 2026-09-12 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [jerrykuku/luci-theme-argon](../repos/jerrykuku/luci-theme-argon.md) | ⭐ 5,584 | 2026-10-17 | 6 |
 
 
 ---
@@ -46,7 +49,7 @@
 | [tachyons-css/tachyons](../repos/tachyons-css/tachyons.md) | ⭐ 11,724 | 2026-10-16 | Functional css for humans |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [jerrykuku/luci-theme-argon](../repos/jerrykuku/luci-theme-argon.md) | ⭐ 5,571 | 2026-10-17 | Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface... |
+| [jerrykuku/luci-theme-argon](../repos/jerrykuku/luci-theme-argon.md) | ⭐ 5,584 | 2026-10-17 | Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [prakhar1989/docker-curriculum](../repos/prakhar1989/docker-curriculum.md) | ⭐ 6,116 | 2026-10-17 | :dolphin: A comprehensive tutorial on getting started with Docker! |
@@ -72,24 +75,24 @@
 |------------|-------|------------|---------------|
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,947 | 2026-08-06 | 27 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,503 | 2026-08-01 | 13 |
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,432 | 2026-08-04 | 31 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,433 | 2026-08-04 | 32 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 41,980 | 2026-08-02 | 40 |
 | [adobe-fonts/source-code-pro](../repos/adobe-fonts/source-code-pro.md) | ⭐ 20,445 | 2026-09-07 | 1 |
 | [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,612 | 2026-08-04 | 5 |
 | [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,847 | 2026-08-08 | 2 |
 | [CodeByZach/pace](../repos/CodeByZach/pace.md) | ⭐ 15,601 | 2026-08-12 | 1 |
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 13,213 | 2026-08-02 | 28 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,511 | 2026-08-01 | 23 |
 | [devicons/devicon](../repos/devicons/devicon.md) | ⭐ 11,851 | 2026-08-04 | 8 |
 | [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,724 | 2026-08-06 | 15 |
 | [tachyons-css/tachyons](../repos/tachyons-css/tachyons.md) | ⭐ 11,724 | 2026-10-16 | 6 |
 | [jdan/98.css](../repos/jdan/98.css.md) | ⭐ 11,557 | 2026-08-09 | 3 |
 | [StylishThemes/GitHub-Dark](../repos/StylishThemes/GitHub-Dark.md) | ⭐ 9,966 | 2026-08-19 | 3 |
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,623 | 2026-08-05 | 23 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,625 | 2026-08-05 | 24 |
 | [troxler/awesome-css-frameworks](../repos/troxler/awesome-css-frameworks.md) | ⭐ 9,495 | 2026-08-23 | 2 |
 | [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,461 | 2026-09-02 | 6 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,380 | 2026-08-01 | 18 |
 | [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,407 | 2026-08-03 | 8 |
+| [primefaces/primereact](../repos/primefaces/primereact.md) | ⭐ 8,310 | 2026-08-08 | 9 |
 
 ---
 
@@ -97,16 +100,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 56 | ⭐ 1,479 | 2026-08-01 | 2026-11-03 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 57 | ⭐ 1,480 | 2026-08-01 | 2026-11-04 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 40 | ⭐ 41,980 | 2026-08-02 | 2026-10-29 |
 | [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 37 | ⭐ 920 | 2026-08-01 | 2026-10-19 |
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 31 | ⭐ 45,432 | 2026-08-04 | 2026-11-03 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 32 | ⭐ 45,433 | 2026-08-04 | 2026-11-04 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 29 | ⭐ 1,431 | 2026-08-01 | 2026-10-22 |
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 28 | ⭐ 13,213 | 2026-08-02 | 2026-10-23 |
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | 27 | ⭐ 82,947 | 2026-08-06 | 2026-11-02 |
 | [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | 26 | ⭐ 6,864 | 2026-08-10 | 2026-11-02 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 24 | ⭐ 9,625 | 2026-08-05 | 2026-11-04 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 23 | ⭐ 12,511 | 2026-08-01 | 2026-10-09 |
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 23 | ⭐ 9,623 | 2026-08-05 | 2026-11-02 |
+| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 18 | ⭐ 9,380 | 2026-08-01 | 2026-10-25 |
 
 ---
 
@@ -125,7 +128,6 @@
 - [Nutlope/hallmark](../repos/Nutlope/hallmark.md) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 - [ZoranPandovski/awesome-testing-tools](../repos/ZoranPandovski/awesome-testing-tools.md) - A curated collection of the best software testing tools for QA, automation, accessibility, perfor...
 - [missing-semester/missing-semester](../repos/missing-semester/missing-semester.md) - The Missing Semester of Your CS Education 📚
-- [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) - ConardLi&#39;s open-source Skills collection, featuring web design, knowledge retrieval, image genera...
 - [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) - Build a Jekyll blog in minutes, without touching the command line.
 - [Jenqyang/Awesome-AI-Agents](../repos/Jenqyang/Awesome-AI-Agents.md) - A collection of autonomous agents 🤖️ powered by LLM.
 - [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about c...
@@ -196,4 +198,4 @@
 
 ---
 
-*Last updated: 2026-11-03T21:00:59.505Z*
+*Last updated: 2026-11-04T21:00:57.455Z*

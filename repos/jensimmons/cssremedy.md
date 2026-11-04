@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | CSS |
 | **License** | MPL-2.0 |
-| **Stars** | ⭐ 2,222 |
+| **Stars** | ⭐ 2,221 |
 | **Forks** | 🍴 113 |
-| **Trending Days** | 5 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 12, 2026 |
-| **Last Seen** | Oct 12, 2026 |
+| **Last Seen** | Nov 4, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 1 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 80&#x2F;100
+- **Trending Score**: 95&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-03T21:01:03.021Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-11-04T21:01:02.119Z*  
+*Data from 6 trending reports*

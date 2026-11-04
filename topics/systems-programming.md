@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 2763
+- **Total Repositories**: 2780
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-02
-- **Average Stars**: 15876
+- **Average Stars**: 15881
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 495,697 | Python |  |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,305 | C++ |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 38,924 | Go |  |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,323 | JavaScript |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [modelcontextprotocol/java-sdk](../repos/modelcontextprotocol/java-sdk.md) | ⭐ 3,761 | Java |  |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 138,853 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,936 | C# |  |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 29,069 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 50,279 | Ruby |  |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 51,364 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ubicloud/ubicloud](../repos/ubicloud/ubicloud.md) | ⭐ 12,382 | Ruby |  |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 36,482 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [opf/openproject](../repos/opf/openproject.md) | ⭐ 16,951 | Ruby |  |
+| [ccfos/nightingale](../repos/ccfos/nightingale.md) | ⭐ 13,439 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/gem_rbs_collection](../repos/ruby/gem_rbs_collection.md) | ⭐ 302 | Ruby |  |
+| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,954 | C# |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 28,663 | Swift |  |
+| [PHPMailer/PHPMailer](../repos/PHPMailer/PHPMailer.md) | ⭐ 22,342 | PHP |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,616 | Scala |  |
+| [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,330 | PHP |  |
 
 
 ---
@@ -70,34 +70,34 @@
 
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,278 | C++ | 1 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,305 | C++ | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,323 | JavaScript | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 66,358 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 495,697 | Python | 2 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 138,853 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 54,366 | TypeScript | 2 |
+| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 495,697 | Python | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 5,780 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 28,165 | Rust | 2 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 29,069 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [cocoindex-io/cocoindex](../repos/cocoindex-io/cocoindex.md) | ⭐ 11,773 | Rust | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [github/gh-stack](../repos/github/gh-stack.md) | ⭐ 1,725 | Go | 1 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 51,364 | Go | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 38,924 | Go | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,384 | Java | 3 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 36,482 | Go | 1 |
 
 ---
 
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-11-04](../archive/2026/11/2026-11-04.md)
+- 188 repositories trending
+- Top: tensorflow&#x2F;tensorflow
+
 ### [2026-11-03](../archive/2026/11/2026-11-03.md)
 - 176 repositories trending
 - Top: public-apis&#x2F;public-apis
@@ -150,10 +154,6 @@
 - 282 repositories trending
 - Top: react&#x2F;react
 
-### [2026-10-28](../archive/2026/10/2026-10-28.md)
-- 235 repositories trending
-- Top: ossu&#x2F;computer-science
-
 
 ---
 
@@ -163,32 +163,32 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 75 days | 2026-08-01 | 2026-11-03 |
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 75 days | 2026-08-01 | 2026-11-03 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 72 days | 2026-08-01 | 2026-11-03 |
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 72 days | 2026-08-01 | 2026-11-03 |
+| [apache/spark](../repos/apache/spark.md) | 76 days | 2026-08-01 | 2026-11-04 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 76 days | 2026-08-01 | 2026-11-04 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 73 days | 2026-08-01 | 2026-11-04 |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 73 days | 2026-08-01 | 2026-11-04 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 72 days | 2026-08-01 | 2026-11-04 |
 | [logseq/logseq](../repos/logseq/logseq.md) | 71 days | 2026-08-01 | 2026-11-03 |
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 71 days | 2026-08-01 | 2026-11-03 |
-| [vlang/v](../repos/vlang/v.md) | 69 days | 2026-08-01 | 2026-11-02 |
+| [vlang/v](../repos/vlang/v.md) | 70 days | 2026-08-01 | 2026-11-04 |
 | [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 68 days | 2026-08-01 | 2026-11-03 |
-| [penpot/penpot](../repos/penpot/penpot.md) | 65 days | 2026-08-01 | 2026-11-02 |
-| [emqx/emqx](../repos/emqx/emqx.md) | 64 days | 2026-08-01 | 2026-11-03 |
+| [penpot/penpot](../repos/penpot/penpot.md) | 66 days | 2026-08-01 | 2026-11-04 |
+| [emqx/emqx](../repos/emqx/emqx.md) | 65 days | 2026-08-01 | 2026-11-04 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Go**: 267 repositories (10%)
-- **TypeScript**: 203 repositories (7%)
-- **Python**: 199 repositories (7%)
+- **Go**: 269 repositories (10%)
+- **Python**: 204 repositories (7%)
+- **TypeScript**: 204 repositories (7%)
 - **C++**: 193 repositories (7%)
 - **Rust**: 183 repositories (7%)
 
 ### Trending Frequency
-- **Daily Average**: 234.3 repositories
+- **Daily Average**: 233.8 repositories
 - **Peak Day**: 2026-08-19 (383 repositories)
-- **Growth Rate**: 12% this month
+- **Growth Rate**: 13% this month
 
 ---
 
@@ -252,7 +252,7 @@
 - [googleworkspace/cli](../repos/googleworkspace/cli.md) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admi...
 - [cube-js/cube](../repos/cube-js/cube.md) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
 - [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) - 🧱 Easy fast local-first microVM runtime and library
-- [QuantumNous/new-api](../repos/QuantumNous/new-api.md) - A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs ...
+- [QuantumNous/new-api](../repos/QuantumNous/new-api.md) - Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs,...
 - [adithyan-ak/AgentHound](../repos/adithyan-ak/AgentHound.md) - Offensive security framework for AI agent infrastructure - recon, credential looting, model exfil...
 - [github/gh-stack](../repos/github/gh-stack.md) - GitHub Stacked PRs
 - [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) - The system of action for AI-native cybersecurity—where intent becomes governed execution, evidenc...
@@ -260,7 +260,7 @@
 - [aquasecurity/trivy](../repos/aquasecurity/trivy.md) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositori...
 - [Tencent/WeKnora](../repos/Tencent/WeKnora.md) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reason...
 - [nianzhibai/91](../repos/nianzhibai/91.md) - nine one
-- [ccfos/nightingale](../repos/ccfos/nightingale.md) - Nightingale is to monitoring and alerting what Grafana is to visualization.
+- [ccfos/nightingale](../repos/ccfos/nightingale.md) - Open-source, self-hosted alerting for metrics, logs, and databases. Includes a built-in AI agent ...
 - [cert-manager/cert-manager](../repos/cert-manager/cert-manager.md) - Automatically provision and manage TLS certificates in Kubernetes
 - [IceWhaleTech/CasaOS](../repos/IceWhaleTech/CasaOS.md) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [kserve/kserve](../repos/kserve/kserve.md) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Fram...
@@ -302,4 +302,4 @@
 
 ---
 
-*Last updated: 2026-11-03T21:00:59.388Z*
+*Last updated: 2026-11-04T21:00:57.306Z*

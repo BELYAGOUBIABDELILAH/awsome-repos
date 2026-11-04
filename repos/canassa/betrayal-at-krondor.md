@@ -1,0 +1,95 @@
+# canassa&#x2F;betrayal-at-krondor
+
+> Betrayal at Krondor: A byte-perfect recompilation of the 1993 classic.
+
+[View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;canassa&#x2F;betrayal-at-krondor) 
+
+---
+
+## Quick Facts
+
+| | |
+|---|---|
+| **Language** | Assembly |
+| **License** | Other |
+| **Stars** | ⭐ 35 |
+| **Forks** | 🍴 10 |
+| **Trending Days** | 1 |
+| **Peak Rank** | #N&#x2F;A |
+
+| **First Seen** | Nov 4, 2026 |
+| **Last Seen** | Nov 4, 2026 |
+
+
+---
+
+## Best For
+
+
+
+---
+
+## Works Great With
+
+*Ecosystem data coming soon*
+
+---
+
+## Alternatives
+
+*Similar: Check repositories in Assembly or game*
+
+---
+
+## Trending Timeline
+
+
+### Highlights
+
+- **Peak Rank**: #N&#x2F;A
+- **Trending Days**: 1
+- **Longest Streak**: 1 days
+
+---
+
+## Categories
+
+### Topics
+[`game`](../../topics/game.md) [`recompilation`](../../topics/recompilation.md) 
+
+### Curated Categories
+`Game Development` `Systems Programming` 
+
+---
+
+## Developer Card
+
+### Developer Card
+
+| Aspect | Rating | Details |
+|--------|--------|---------|
+| **Difficulty** | Advanced | Requires systems programming knowledge |
+| **Documentation** | Limited | May require reading source code |
+| **Community** | Active | Regular contributions and discussions |
+| **Maturity** | Stable | Established project |
+| **Maintenance** | Slow | Occasional updates |
+| **Learning Curve** | Hard | Requires domain expertise |
+
+#### Use Cases
+- General purpose
+
+#### Works Great With
+
+#### Alternatives
+- Check similar projects in Assembly
+
+#### Metrics
+- **Hidden Gem**: ✗ No
+- **Trending Score**: 20&#x2F;100
+- **Historical Rank**: No ranking data
+
+
+---
+
+*Last updated: 2026-11-04T21:01:03.023Z*  
+*Data from 1 trending reports*

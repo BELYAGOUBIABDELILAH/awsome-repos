@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 124
+- **Total Repositories**: 125
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-27
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lizhipay/acg-faka](../repos/lizhipay/acg-faka.md) | ⭐ 5,883 | 2026-08-01 | 21 |
+| [PHPMailer/PHPMailer](../repos/PHPMailer/PHPMailer.md) | ⭐ 22,342 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 16,501 | 2026-08-02 | 27 |
+| [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,330 | 2026-08-01 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SuiteCRM/SuiteCRM](../repos/SuiteCRM/SuiteCRM.md) | ⭐ 5,839 | 2026-08-02 | 18 |
+| [opensourcepos/opensourcepos](../repos/opensourcepos/opensourcepos.md) | ⭐ 4,498 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [roundcube/roundcubemail](../repos/roundcube/roundcubemail.md) | ⭐ 7,256 | 2026-08-04 | 17 |
+| [filamentphp/filament](../repos/filamentphp/filament.md) | ⭐ 32,417 | 2026-08-02 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,653 | 2026-08-04 | 22 |
+| [shopware/shopware](../repos/shopware/shopware.md) | ⭐ 3,468 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [woocommerce/woocommerce](../repos/woocommerce/woocommerce.md) | ⭐ 10,577 | 2026-08-06 | 24 |
+| [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,700 | 2026-08-04 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 24,099 | 2026-08-07 | 22 |
+| [espocrm/espocrm](../repos/espocrm/espocrm.md) | ⭐ 3,548 | 2026-08-06 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | ⭐ 10,781 | 2026-08-09 | 34 |
+| [woocommerce/woocommerce](../repos/woocommerce/woocommerce.md) | ⭐ 10,582 | 2026-08-06 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [David-Crty/databasement](../repos/David-Crty/databasement.md) | ⭐ 2,593 | 2026-08-10 | 12 |
+| [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 24,107 | 2026-08-07 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aureuserp/aureuserp](../repos/aureuserp/aureuserp.md) | ⭐ 12,158 | 2026-08-11 | 21 |
+| [kanboard/kanboard](../repos/kanboard/kanboard.md) | ⭐ 9,938 | 2026-08-20 | 11 |
 
 
 ---
@@ -91,13 +91,13 @@
 | [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 57,493 | 2026-08-01 | 3 |
 | [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 37,397 | 2026-08-02 | 37 |
 | [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,988 | 2026-08-01 | 39 |
-| [filamentphp/filament](../repos/filamentphp/filament.md) | ⭐ 32,371 | 2026-08-02 | 27 |
+| [filamentphp/filament](../repos/filamentphp/filament.md) | ⭐ 32,417 | 2026-08-02 | 28 |
 | [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,217 | 2026-08-02 | 36 |
-| [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,324 | 2026-08-01 | 28 |
-| [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,653 | 2026-08-04 | 22 |
-| [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 24,099 | 2026-08-07 | 22 |
+| [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,330 | 2026-08-01 | 29 |
+| [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,700 | 2026-08-04 | 23 |
+| [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 24,107 | 2026-08-07 | 23 |
 | [guzzle/guzzle](../repos/guzzle/guzzle.md) | ⭐ 23,445 | 2026-10-20 | 1 |
-| [PHPMailer/PHPMailer](../repos/PHPMailer/PHPMailer.md) | ⭐ 22,338 | 2026-08-01 | 14 |
+| [PHPMailer/PHPMailer](../repos/PHPMailer/PHPMailer.md) | ⭐ 22,342 | 2026-08-01 | 15 |
 | [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,984 | 2026-08-01 | 29 |
 | [koel/koel](../repos/koel/koel.md) | ⭐ 17,314 | 2026-09-28 | 3 |
 | [easychen/opc-methodology](../repos/easychen/opc-methodology.md) | ⭐ 16,886 | 2026-08-04 | 8 |
@@ -123,8 +123,8 @@
 | [grokability/snipe-it](../repos/grokability/snipe-it.md) | 31 | ⭐ 15,109 | 2026-08-01 | 2026-10-28 |
 | [WordPress/wordpress-develop](../repos/WordPress/wordpress-develop.md) | 30 | ⭐ 3,496 | 2026-08-01 | 2026-10-29 |
 | [matomo-org/matomo](../repos/matomo-org/matomo.md) | 29 | ⭐ 21,984 | 2026-08-01 | 2026-10-26 |
-| [bagisto/bagisto](../repos/bagisto/bagisto.md) | 28 | ⭐ 28,324 | 2026-08-01 | 2026-11-02 |
-| [filamentphp/filament](../repos/filamentphp/filament.md) | 27 | ⭐ 32,371 | 2026-08-02 | 2026-10-29 |
+| [bagisto/bagisto](../repos/bagisto/bagisto.md) | 29 | ⭐ 28,330 | 2026-08-01 | 2026-11-04 |
+| [filamentphp/filament](../repos/filamentphp/filament.md) | 28 | ⭐ 32,417 | 2026-08-02 | 2026-11-04 |
 
 ---
 
@@ -149,7 +149,7 @@
 - [osTicket/osTicket](../repos/osTicket/osTicket.md) - The osTicket open source ticketing system official project repository, for versions 1.8 and later
 - [opensourcepos/opensourcepos](../repos/opensourcepos/opensourcepos.md) - Open Source Point of Sale is a web based point of sale application written in PHP using CodeIgnit...
 - [cedar2025/Xboard](../repos/cedar2025/Xboard.md) - High-performance panel based on V2board secondary development supporting new protocols and new fe...
-- [filamentphp/filament](../repos/filamentphp/filament.md) - A powerful open-source UI framework for Laravel • Build and ship apps &amp; admin panels fast with Li...
+- [filamentphp/filament](../repos/filamentphp/filament.md) - An open-source framework for building polished, maintainable business software with Laravel.
 - [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) - A free, self-hostable news aggregator…
 - [nextcloud/server](../repos/nextcloud/server.md) - ☁️ Nextcloud server, a safe home for all your data
 - [pkp/pkp-lib](../repos/pkp/pkp-lib.md) - The library used by PKP&#39;s applications OJS, OMP and OPS, open source software for scholarly publi...
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-03T21:00:59.549Z*
+*Last updated: 2026-11-04T21:00:57.514Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | PowerShell |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 1,564 |
-| **Forks** | 🍴 284 |
-| **Trending Days** | 23 |
+| **Stars** | ⭐ 1,569 |
+| **Forks** | 🍴 285 |
+| **Trending Days** | 24 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 3, 2026 |
+| **Last Seen** | Nov 4, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 23
+- **Trending Days**: 24
 - **Longest Streak**: 3 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-03T21:01:00.981Z*  
-*Data from 23 trending reports*
+*Last updated: 2026-11-04T21:00:59.463Z*  
+*Data from 24 trending reports*

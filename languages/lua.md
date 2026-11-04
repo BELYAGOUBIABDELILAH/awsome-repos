@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 127
+- **Total Repositories**: 126
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-03
+- **Last Updated**: 2026-11-04
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 30,842 | 2026-08-01 | 45 |
+| [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | ⭐ 1,192 | 2026-08-01 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,346 | 2026-08-01 | 32 |
+| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,356 | 2026-08-01 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | ⭐ 301 | 2026-08-01 | 48 |
+| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | ⭐ 301 | 2026-08-01 | 49 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Stephan-S/FS25_AutoDrive](../repos/Stephan-S/FS25_AutoDrive.md) | ⭐ 682 | 2026-08-02 | 13 |
+| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | ⭐ 5,064 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Courseplay/Courseplay_FS25](../repos/Courseplay/Courseplay_FS25.md) | ⭐ 935 | 2026-08-02 | 11 |
+| [overextended/ox_inventory](../repos/overextended/ox_inventory.md) | ⭐ 562 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | ⭐ 20,016 | 2026-08-03 | 26 |
+| [ntop/ntopng](../repos/ntop/ntopng.md) | ⭐ 8,329 | 2026-08-02 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [coder/claudecode.nvim](../repos/coder/claudecode.nvim.md) | ⭐ 3,146 | 2026-08-03 | 12 |
+| [MeanderingProgrammer/render-markdown.nvim](../repos/MeanderingProgrammer/render-markdown.nvim.md) | ⭐ 5,228 | 2026-08-04 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,645 | 2026-08-04 | 38 |
+| [miscusi-peek/cheatengine-mcp-bridge](../repos/miscusi-peek/cheatengine-mcp-bridge.md) | ⭐ 1,747 | 2026-08-09 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MeanderingProgrammer/render-markdown.nvim](../repos/MeanderingProgrammer/render-markdown.nvim.md) | ⭐ 5,225 | 2026-08-04 | 17 |
+| [PortsMaster/PortMaster-New](../repos/PortsMaster/PortMaster-New.md) | ⭐ 386 | 2026-08-29 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Questie/Questie](../repos/Questie/Questie.md) | ⭐ 1,119 | 2026-09-19 | 4 |
+| [Questie/Questie](../repos/Questie/Questie.md) | ⭐ 1,120 | 2026-09-19 | 5 |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,346 | 2026-08-01 | 32 |
+| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,356 | 2026-08-01 | 33 |
 | [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,645 | 2026-08-04 | 38 |
 | [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 30,842 | 2026-08-01 | 45 |
 | [NvChad/NvChad](../repos/NvChad/NvChad.md) | ⭐ 28,507 | 2026-10-01 | 2 |
@@ -104,7 +104,7 @@
 | [mason-org/mason.nvim](../repos/mason-org/mason.nvim.md) | ⭐ 10,476 | 2026-08-04 | 7 |
 | [nvim-mini/mini.nvim](../repos/nvim-mini/mini.nvim.md) | ⭐ 9,608 | 2026-08-26 | 16 |
 | [nvim-tree/nvim-tree.lua](../repos/nvim-tree/nvim-tree.lua.md) | ⭐ 8,666 | 2026-08-05 | 8 |
-| [ntop/ntopng](../repos/ntop/ntopng.md) | ⭐ 8,300 | 2026-08-02 | 14 |
+| [ntop/ntopng](../repos/ntop/ntopng.md) | ⭐ 8,329 | 2026-08-02 | 15 |
 | [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | ⭐ 8,190 | 2026-08-08 | 24 |
 | [folke/tokyonight.nvim](../repos/folke/tokyonight.nvim.md) | ⭐ 8,179 | 2026-08-05 | 2 |
 | [nvim-lualine/lualine.nvim](../repos/nvim-lualine/lualine.nvim.md) | ⭐ 8,125 | 2026-09-05 | 3 |
@@ -115,11 +115,11 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | 48 | ⭐ 301 | 2026-08-01 | 2026-11-03 |
+| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | 49 | ⭐ 301 | 2026-08-01 | 2026-11-04 |
 | [koreader/koreader](../repos/koreader/koreader.md) | 45 | ⭐ 30,842 | 2026-08-01 | 2026-11-03 |
 | [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | 38 | ⭐ 31,645 | 2026-08-04 | 2026-11-03 |
-| [Kong/kong](../repos/Kong/kong.md) | 32 | ⭐ 44,346 | 2026-08-01 | 2026-11-03 |
-| [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | 31 | ⭐ 1,182 | 2026-08-01 | 2026-11-02 |
+| [Kong/kong](../repos/Kong/kong.md) | 33 | ⭐ 44,356 | 2026-08-01 | 2026-11-04 |
+| [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | 32 | ⭐ 1,192 | 2026-08-01 | 2026-11-04 |
 | [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | 31 | ⭐ 27,758 | 2026-08-04 | 2026-10-29 |
 | [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | 26 | ⭐ 20,016 | 2026-08-03 | 2026-11-03 |
 | [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | 24 | ⭐ 8,190 | 2026-08-08 | 2026-11-02 |
@@ -202,7 +202,6 @@
 - [FrSkyRC/ETHOS-Feedback-Community](../repos/FrSkyRC/ETHOS-Feedback-Community.md) - Feedback &amp; suggestions are welcomed here for ETHOS by FrSky
 - [3rd/image.nvim](../repos/3rd/image.nvim.md) - 🖼️ Bringing images to Neovim.
 - [BigWigsMods/BigWigs](../repos/BigWigsMods/BigWigs.md) - Modular and lightweight approach to providing you with the tools you need to beat any boss encoun...
-- [dariulone/cyberpunk-vr-port](../repos/dariulone/cyberpunk-vr-port.md) - 
 - [Quenty/NevermoreEngine](../repos/Quenty/NevermoreEngine.md) - ModuleScript loader with reusable and easy unified server-client modules for faster game developm...
 - [folke/flash.nvim](../repos/folke/flash.nvim.md) - Navigate your code with search labels, enhanced character motions and Treesitter integration
 - [pwntester/octo.nvim](../repos/pwntester/octo.nvim.md) - Edit and review GitHub issues and pull requests from the comfort of your favorite editor
@@ -230,7 +229,8 @@
 - [loki79uk/FS25_UniversalAutoload](../repos/loki79uk/FS25_UniversalAutoload.md) - Mod for FS25. Please download latest release below.
 - [nvim-tree/nvim-web-devicons](../repos/nvim-tree/nvim-web-devicons.md) - Provides Nerd Font icons (glyphs) for use by neovim plugins
 - [Questie/Questie](../repos/Questie/Questie.md) - Questie: The WoW Classic quest helper
+- [bryanthaboi/gen1recomp](../repos/bryanthaboi/gen1recomp.md) - Gen1Recomp - A native Lua &#x2F; LÖVE2D recreation of Gen 1, 2, and 3 Poke
 
 ---
 
-*Last updated: 2026-11-03T21:00:59.539Z*
+*Last updated: 2026-11-04T21:00:57.501Z*

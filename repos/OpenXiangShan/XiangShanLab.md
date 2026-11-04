@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Scala |
 | **License** | Not specified |
-| **Stars** | ⭐ 61 |
-| **Forks** | 🍴 39 |
-| **Trending Days** | 6 |
+| **Stars** | ⭐ 62 |
+| **Forks** | 🍴 43 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 8, 2026 |
-| **Last Seen** | Nov 2, 2026 |
+| **Last Seen** | Nov 4, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 6
+- **Trending Days**: 7
 - **Longest Streak**: 2 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 61+ stars, strong contributor base |
+| **Community** | Very Active | 62+ stars, strong contributor base |
 | **Maturity** | Experimental | New project, evolving rapidly |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 95&#x2F;100
+- **Trending Score**: 100&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-03T21:01:02.939Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-11-04T21:01:02.002Z*  
+*Data from 7 trending reports*

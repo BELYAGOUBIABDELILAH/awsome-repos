@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Dart |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 27,351 |
+| **Stars** | ⭐ 27,382 |
 | **Forks** | 🍴 1,785 |
-| **Trending Days** | 16 |
+| **Trending Days** | 17 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 6, 2026 |
-| **Last Seen** | Nov 3, 2026 |
+| **Last Seen** | Nov 4, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 16
+- **Trending Days**: 17
 - **Longest Streak**: 4 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`android`](../../topics/android.md) [`bittorrent`](../../topics/bittorrent.md) [`cross-platform`](../../topics/cross-platform.md) [`debian`](../../topics/debian.md) [`downloader`](../../topics/downloader.md) [`flutter`](../../topics/flutter.md) [`golang`](../../topics/golang.md) [`http`](../../topics/http.md) [`https`](../../topics/https.md) [`ios`](../../topics/ios.md) [`macos`](../../topics/macos.md) [`magnet`](../../topics/magnet.md) [`torrent`](../../topics/torrent.md) [`ubuntu`](../../topics/ubuntu.md) [`windows`](../../topics/windows.md) 
+[`android`](../../topics/android.md) [`bittorrent`](../../topics/bittorrent.md) [`cross-platform`](../../topics/cross-platform.md) [`download-manger`](../../topics/download-manger.md) [`downloader`](../../topics/downloader.md) [`downloadmanager`](../../topics/downloadmanager.md) [`ed2k`](../../topics/ed2k.md) [`flutter`](../../topics/flutter.md) [`ftp`](../../topics/ftp.md) [`golang`](../../topics/golang.md) [`hls-downloader`](../../topics/hls-downloader.md) [`http`](../../topics/http.md) [`https`](../../topics/https.md) [`ios`](../../topics/ios.md) [`m3u8-downloader`](../../topics/m3u8-downloader.md) [`macos`](../../topics/macos.md) [`magnet`](../../topics/magnet.md) [`torrent`](../../topics/torrent.md) [`ubuntu`](../../topics/ubuntu.md) [`windows`](../../topics/windows.md) 
 
 ### Curated Categories
 `Mobile Development` `Systems Programming` `Robotics` 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-03T21:01:02.875Z*  
-*Data from 16 trending reports*
+*Last updated: 2026-11-04T21:01:01.925Z*  
+*Data from 17 trending reports*

@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-03T21:01:03.985Z",
-  "total_repositories": 4331,
-  "trending_today": 314,
-  "new_this_month": 554,
+  "generated_at": "2026-11-04T21:01:03.415Z",
+  "total_repositories": 4354,
+  "trending_today": 321,
+  "new_this_month": 577,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-11-03",
+  "last_collection": "2026-11-04",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
@@ -12,13 +12,13 @@
   },
   "most_frequent": {
     "full_name": "apache/spark",
-    "trending_days": 75,
+    "trending_days": 76,
     "first_seen": "2026-08-01"
   },
   "newest_discovery": {
-    "full_name": "spotify/portal-ai-plugins",
-    "stars": 2904,
-    "first_seen": "2026-11-03"
+    "full_name": "The-PR-Agent/pr-agent",
+    "stars": 14680,
+    "first_seen": "2026-11-04"
   },
   "fastest_growing": {
     "full_name": "different-ai/openwork",
@@ -26,11 +26,11 @@
     "growth_rate": 100,
     "first_seen": "2026-08-01"
   },
-  "total_stars": 58045207,
-  "avg_stars": 13402,
-  "avg_trending_days": 6.7,
+  "total_stars": 58359220,
+  "avg_stars": 13404,
+  "avg_trending_days": 6.8,
   "language_count": 62,
-  "topic_count": 10794,
+  "topic_count": 10851,
   "collection_success_rate": 100,
   "data_quality_score": 99
 }

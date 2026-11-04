@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 16
+- **Total Repositories**: 17
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-03
+- **Last Updated**: 2026-11-04
 
 ---
 
@@ -16,19 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,124 | 2026-08-01 | 72 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,163 | 2026-08-01 | 73 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 82,165 | 2026-08-01 | 64 |
+| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 82,166 | 2026-08-01 | 65 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,465 | 2026-08-01 | 71 |
+| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 62,070 | 2026-08-01 | 66 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | ⭐ 4,084 | 2026-08-02 | 56 |
+| [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | ⭐ 4,089 | 2026-08-02 | 57 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [logseq/docs](../repos/logseq/docs.md) | ⭐ 203 | 2026-09-25 | 11 |
+| [logseq/docs](../repos/logseq/docs.md) | ⭐ 203 | 2026-09-25 | 12 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [jepsen-io/jepsen](../repos/jepsen-io/jepsen.md) | ⭐ 7,562 | 2026-11-04 | 1 |
 
 
 ---
@@ -41,6 +44,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [babashka/babashka](../repos/babashka/babashka.md) | ⭐ 4,630 | 2026-10-27 | Native, fast starting Clojure interpreter for scripting |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jepsen-io/jepsen](../repos/jepsen-io/jepsen.md) | ⭐ 7,562 | 2026-11-04 | A framework for distributed systems verification, with fault injection |
 
 
 ---
@@ -49,13 +55,14 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 82,165 | 2026-08-01 | 64 |
-| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 61,997 | 2026-08-01 | 65 |
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,124 | 2026-08-01 | 72 |
+| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 82,166 | 2026-08-01 | 65 |
+| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 62,070 | 2026-08-01 | 66 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,163 | 2026-08-01 | 73 |
 | [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,465 | 2026-08-01 | 71 |
 | [clojure/clojurescript](../repos/clojure/clojurescript.md) | ⭐ 9,393 | 2026-09-07 | 1 |
+| [jepsen-io/jepsen](../repos/jepsen-io/jepsen.md) | ⭐ 7,562 | 2026-11-04 | 1 |
 | [babashka/babashka](../repos/babashka/babashka.md) | ⭐ 4,630 | 2026-10-27 | 2 |
-| [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | ⭐ 4,084 | 2026-08-02 | 56 |
+| [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | ⭐ 4,089 | 2026-08-02 | 57 |
 | [status-im/status-legacy](../repos/status-im/status-legacy.md) | ⭐ 4,023 | 2026-08-02 | 20 |
 | [functional-koans/clojure-koans](../repos/functional-koans/clojure-koans.md) | ⭐ 3,802 | 2026-09-12 | 1 |
 | [jepsen-io/maelstrom](../repos/jepsen-io/maelstrom.md) | ⭐ 3,706 | 2026-10-01 | 1 |
@@ -63,7 +70,7 @@
 | [clj-kondo/clj-kondo](../repos/clj-kondo/clj-kondo.md) | ⭐ 1,864 | 2026-09-24 | 4 |
 | [logseq/og](../repos/logseq/og.md) | ⭐ 328 | 2026-08-02 | 26 |
 | [cognitect-labs/test-runner](../repos/cognitect-labs/test-runner.md) | ⭐ 308 | 2026-08-01 | 12 |
-| [logseq/docs](../repos/logseq/docs.md) | ⭐ 203 | 2026-09-25 | 11 |
+| [logseq/docs](../repos/logseq/docs.md) | ⭐ 203 | 2026-09-25 | 12 |
 | [miniforge-ai/miniforge](../repos/miniforge-ai/miniforge.md) | ⭐ 46 | 2026-10-01 | 2 |
 
 ---
@@ -72,15 +79,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [metabase/metabase](../repos/metabase/metabase.md) | 72 | ⭐ 50,124 | 2026-08-01 | 2026-11-03 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 73 | ⭐ 50,163 | 2026-08-01 | 2026-11-04 |
 | [logseq/logseq](../repos/logseq/logseq.md) | 71 | ⭐ 45,465 | 2026-08-01 | 2026-11-03 |
-| [penpot/penpot](../repos/penpot/penpot.md) | 65 | ⭐ 61,997 | 2026-08-01 | 2026-11-02 |
-| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | 64 | ⭐ 82,165 | 2026-08-01 | 2026-11-03 |
-| [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | 56 | ⭐ 4,084 | 2026-08-02 | 2026-11-03 |
+| [penpot/penpot](../repos/penpot/penpot.md) | 66 | ⭐ 62,070 | 2026-08-01 | 2026-11-04 |
+| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | 65 | ⭐ 82,166 | 2026-08-01 | 2026-11-04 |
+| [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | 57 | ⭐ 4,089 | 2026-08-02 | 2026-11-04 |
 | [logseq/og](../repos/logseq/og.md) | 26 | ⭐ 328 | 2026-08-02 | 2026-10-12 |
 | [status-im/status-legacy](../repos/status-im/status-legacy.md) | 20 | ⭐ 4,023 | 2026-08-02 | 2026-10-29 |
 | [cognitect-labs/test-runner](../repos/cognitect-labs/test-runner.md) | 12 | ⭐ 308 | 2026-08-01 | 2026-08-29 |
-| [logseq/docs](../repos/logseq/docs.md) | 11 | ⭐ 203 | 2026-09-25 | 2026-11-03 |
+| [logseq/docs](../repos/logseq/docs.md) | 12 | ⭐ 203 | 2026-09-25 | 2026-11-04 |
 | [clj-kondo/clj-kondo](../repos/clj-kondo/clj-kondo.md) | 4 | ⭐ 1,864 | 2026-09-24 | 2026-10-29 |
 
 ---
@@ -103,7 +110,8 @@
 - [miniforge-ai/miniforge](../repos/miniforge-ai/miniforge.md) - miniforge is an autonomous software development system designed to behave like a factory, not a c...
 - [xtdb/xtdb](../repos/xtdb/xtdb.md) - An immutable SQL database for application development, time-travel reporting and data compliance....
 - [babashka/babashka](../repos/babashka/babashka.md) - Native, fast starting Clojure interpreter for scripting
+- [jepsen-io/jepsen](../repos/jepsen-io/jepsen.md) - A framework for distributed systems verification, with fault injection
 
 ---
 
-*Last updated: 2026-11-03T21:00:59.507Z*
+*Last updated: 2026-11-04T21:00:57.457Z*

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T21:01:03.993Z",
+  "generated_at": "2026-11-04T21:01:03.425Z",
   "total_count": 100,
   "repositories": [
     {
@@ -7,75 +7,99 @@
       "full_name": "ghostty-org/ghostty",
       "owner": "ghostty-org",
       "name": "ghostty",
-      "trending_days": 75,
-      "stars": 63364,
+      "trending_days": 76,
+      "stars": 63535,
       "language": "Zig",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 2
+      "last_seen": "2026-11-04",
+      "current_streak": 3
     },
     {
       "rank": 2,
       "full_name": "apache/spark",
       "owner": "apache",
       "name": "spark",
-      "trending_days": 75,
-      "stars": 44391,
+      "trending_days": 76,
+      "stars": 44417,
       "language": "Scala",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 2
+      "last_seen": "2026-11-04",
+      "current_streak": 3
     },
     {
       "rank": 3,
       "full_name": "OpenZeppelin/openzeppelin-contracts",
       "owner": "OpenZeppelin",
       "name": "openzeppelin-contracts",
-      "trending_days": 75,
-      "stars": 27340,
+      "trending_days": 76,
+      "stars": 27339,
       "language": "Solidity",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 2
+      "last_seen": "2026-11-04",
+      "current_streak": 3
     },
     {
       "rank": 4,
       "full_name": "metabase/metabase",
       "owner": "metabase",
       "name": "metabase",
-      "trending_days": 72,
-      "stars": 50124,
+      "trending_days": 73,
+      "stars": 50163,
       "language": "Clojure",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 2
+      "last_seen": "2026-11-04",
+      "current_streak": 3
     },
     {
       "rank": 5,
       "full_name": "The-OpenROAD-Project/OpenROAD",
       "owner": "The-OpenROAD-Project",
       "name": "OpenROAD",
-      "trending_days": 72,
-      "stars": 3252,
+      "trending_days": 73,
+      "stars": 3258,
       "language": "Verilog",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 2
+      "last_seen": "2026-11-04",
+      "current_streak": 3
     },
     {
       "rank": 6,
       "full_name": "dapphub/ds-test",
       "owner": "dapphub",
       "name": "ds-test",
-      "trending_days": 72,
+      "trending_days": 73,
       "stars": 241,
       "language": "Solidity",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 2
+      "last_seen": "2026-11-04",
+      "current_streak": 3
     },
     {
       "rank": 7,
+      "full_name": "foundry-rs/forge-std",
+      "owner": "foundry-rs",
+      "name": "forge-std",
+      "trending_days": 72,
+      "stars": 1064,
+      "language": "Solidity",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
+      "current_streak": 3
+    },
+    {
+      "rank": 8,
+      "full_name": "a16z/erc4626-tests",
+      "owner": "a16z",
+      "name": "erc4626-tests",
+      "trending_days": 72,
+      "stars": 224,
+      "language": "Solidity",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
+      "current_streak": 3
+    },
+    {
+      "rank": 9,
       "full_name": "logseq/logseq",
       "owner": "logseq",
       "name": "logseq",
@@ -87,39 +111,15 @@
       "current_streak": 2
     },
     {
-      "rank": 8,
-      "full_name": "foundry-rs/forge-std",
-      "owner": "foundry-rs",
-      "name": "forge-std",
-      "trending_days": 71,
-      "stars": 1064,
-      "language": "Solidity",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 2
-    },
-    {
-      "rank": 9,
-      "full_name": "a16z/erc4626-tests",
-      "owner": "a16z",
-      "name": "erc4626-tests",
-      "trending_days": 71,
-      "stars": 224,
-      "language": "Solidity",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 2
-    },
-    {
       "rank": 10,
       "full_name": "vlang/v",
       "owner": "vlang",
       "name": "v",
-      "trending_days": 69,
-      "stars": 38086,
+      "trending_days": 70,
+      "stars": 38089,
       "language": "V",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-04",
       "current_streak": 1
     },
     {
@@ -127,12 +127,12 @@
       "full_name": "gradle/gradle",
       "owner": "gradle",
       "name": "gradle",
-      "trending_days": 69,
+      "trending_days": 70,
       "stars": 18917,
       "language": "Groovy",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 2
+      "last_seen": "2026-11-04",
+      "current_streak": 3
     },
     {
       "rank": 12,
@@ -151,23 +151,23 @@
       "full_name": "tigerbeetle/tigerbeetle",
       "owner": "tigerbeetle",
       "name": "tigerbeetle",
-      "trending_days": 66,
-      "stars": 17302,
+      "trending_days": 67,
+      "stars": 17311,
       "language": "Zig",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 2
+      "last_seen": "2026-11-04",
+      "current_streak": 3
     },
     {
       "rank": 14,
       "full_name": "penpot/penpot",
       "owner": "penpot",
       "name": "penpot",
-      "trending_days": 65,
-      "stars": 61997,
+      "trending_days": 66,
+      "stars": 62070,
       "language": "Clojure",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-04",
       "current_streak": 1
     },
     {
@@ -175,15 +175,63 @@
       "full_name": "tonsky/FiraCode",
       "owner": "tonsky",
       "name": "FiraCode",
-      "trending_days": 64,
-      "stars": 82165,
+      "trending_days": 65,
+      "stars": 82166,
       "language": "Clojure",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 2
+      "last_seen": "2026-11-04",
+      "current_streak": 3
     },
     {
       "rank": 16,
+      "full_name": "emqx/emqx",
+      "owner": "emqx",
+      "name": "emqx",
+      "trending_days": 65,
+      "stars": 16884,
+      "language": "Erlang",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
+      "current_streak": 3
+    },
+    {
+      "rank": 17,
+      "full_name": "opengrep/opengrep",
+      "owner": "opengrep",
+      "name": "opengrep",
+      "trending_days": 65,
+      "stars": 3283,
+      "language": "OCaml",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
+      "current_streak": 2
+    },
+    {
+      "rank": 18,
+      "full_name": "vim/vim",
+      "owner": "vim",
+      "name": "vim",
+      "trending_days": 64,
+      "stars": 41186,
+      "language": "Vim Script",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
+      "current_streak": 3
+    },
+    {
+      "rank": 19,
+      "full_name": "PostgREST/postgrest",
+      "owner": "PostgREST",
+      "name": "postgrest",
+      "trending_days": 64,
+      "stars": 27739,
+      "language": "Haskell",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
+      "current_streak": 1
+    },
+    {
+      "rank": 20,
       "full_name": "elixir-lang/elixir",
       "owner": "elixir-lang",
       "name": "elixir",
@@ -195,63 +243,15 @@
       "current_streak": 1
     },
     {
-      "rank": 17,
-      "full_name": "emqx/emqx",
-      "owner": "emqx",
-      "name": "emqx",
-      "trending_days": 64,
-      "stars": 16878,
-      "language": "Erlang",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 2
-    },
-    {
-      "rank": 18,
-      "full_name": "opengrep/opengrep",
-      "owner": "opengrep",
-      "name": "opengrep",
-      "trending_days": 64,
-      "stars": 3275,
-      "language": "OCaml",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 1
-    },
-    {
-      "rank": 19,
-      "full_name": "vim/vim",
-      "owner": "vim",
-      "name": "vim",
-      "trending_days": 63,
-      "stars": 41181,
-      "language": "Vim Script",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 2
-    },
-    {
-      "rank": 20,
-      "full_name": "PostgREST/postgrest",
-      "owner": "PostgREST",
-      "name": "postgrest",
-      "trending_days": 63,
-      "stars": 27736,
-      "language": "Haskell",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-10-29",
-      "current_streak": 4
-    },
-    {
       "rank": 21,
       "full_name": "lichess-org/lila",
       "owner": "lichess-org",
       "name": "lila",
-      "trending_days": 63,
-      "stars": 18938,
+      "trending_days": 64,
+      "stars": 18943,
       "language": "Scala",
       "first_seen": "2026-08-02",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-04",
       "current_streak": 1
     },
     {
@@ -259,27 +259,51 @@
       "full_name": "ROCm/rocm-libraries",
       "owner": "ROCm",
       "name": "rocm-libraries",
-      "trending_days": 63,
-      "stars": 460,
+      "trending_days": 64,
+      "stars": 461,
       "language": "Assembly",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 2
+      "last_seen": "2026-11-04",
+      "current_streak": 3
     },
     {
       "rank": 23,
       "full_name": "teslamate-org/teslamate",
       "owner": "teslamate-org",
       "name": "teslamate",
-      "trending_days": 62,
-      "stars": 9226,
+      "trending_days": 63,
+      "stars": 9233,
       "language": "Elixir",
       "first_seen": "2026-08-02",
-      "last_seen": "2026-11-03",
-      "current_streak": 2
+      "last_seen": "2026-11-04",
+      "current_streak": 3
     },
     {
       "rank": 24,
+      "full_name": "E3SM-Project/E3SM",
+      "owner": "E3SM-Project",
+      "name": "E3SM",
+      "trending_days": 63,
+      "stars": 450,
+      "language": "Fortran",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
+      "current_streak": 3
+    },
+    {
+      "rank": 25,
+      "full_name": "transmissions11/solmate",
+      "owner": "transmissions11",
+      "name": "solmate",
+      "trending_days": 62,
+      "stars": 4301,
+      "language": "Solidity",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
+      "current_streak": 3
+    },
+    {
+      "rank": 26,
       "full_name": "joernio/joern",
       "owner": "joernio",
       "name": "joern",
@@ -291,55 +315,43 @@
       "current_streak": 1
     },
     {
-      "rank": 25,
-      "full_name": "E3SM-Project/E3SM",
-      "owner": "E3SM-Project",
-      "name": "E3SM",
-      "trending_days": 62,
-      "stars": 450,
-      "language": "Fortran",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 2
-    },
-    {
-      "rank": 26,
-      "full_name": "transmissions11/solmate",
-      "owner": "transmissions11",
-      "name": "solmate",
-      "trending_days": 61,
-      "stars": 4301,
-      "language": "Solidity",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 2
-    },
-    {
       "rank": 27,
       "full_name": "lightpanda-io/browser",
       "owner": "lightpanda-io",
       "name": "browser",
-      "trending_days": 60,
-      "stars": 41083,
+      "trending_days": 61,
+      "stars": 41266,
       "language": "Zig",
       "first_seen": "2026-08-02",
-      "last_seen": "2026-11-03",
-      "current_streak": 2
+      "last_seen": "2026-11-04",
+      "current_streak": 3
     },
     {
       "rank": 28,
       "full_name": "nim-lang/Nim",
       "owner": "nim-lang",
       "name": "Nim",
-      "trending_days": 60,
-      "stars": 18296,
+      "trending_days": 61,
+      "stars": 18299,
       "language": "Nim",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-04",
       "current_streak": 1
     },
     {
       "rank": 29,
+      "full_name": "exiftool/exiftool",
+      "owner": "exiftool",
+      "name": "exiftool",
+      "trending_days": 61,
+      "stars": 5238,
+      "language": "Perl",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
+      "current_streak": 3
+    },
+    {
+      "rank": 30,
       "full_name": "delta-io/delta",
       "owner": "delta-io",
       "name": "delta",
@@ -351,7 +363,7 @@
       "current_streak": 2
     },
     {
-      "rank": 30,
+      "rank": 31,
       "full_name": "ocaml/ocaml",
       "owner": "ocaml",
       "name": "ocaml",
@@ -363,43 +375,79 @@
       "current_streak": 1
     },
     {
-      "rank": 31,
-      "full_name": "exiftool/exiftool",
-      "owner": "exiftool",
-      "name": "exiftool",
-      "trending_days": 60,
-      "stars": 5236,
-      "language": "Perl",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 2
-    },
-    {
       "rank": 32,
       "full_name": "twitter/the-algorithm",
       "owner": "twitter",
       "name": "the-algorithm",
-      "trending_days": 58,
-      "stars": 73997,
+      "trending_days": 59,
+      "stars": 74010,
       "language": "Scala",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 2
+      "last_seen": "2026-11-04",
+      "current_streak": 3
     },
     {
       "rank": 33,
       "full_name": "apache/gluten",
       "owner": "apache",
       "name": "gluten",
-      "trending_days": 58,
+      "trending_days": 59,
       "stars": 1616,
       "language": "Scala",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 1
+      "last_seen": "2026-11-04",
+      "current_streak": 2
     },
     {
       "rank": 34,
+      "full_name": "actions/runner-images",
+      "owner": "actions",
+      "name": "runner-images",
+      "trending_days": 58,
+      "stars": 13569,
+      "language": "PowerShell",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
+      "current_streak": 1
+    },
+    {
+      "rank": 35,
+      "full_name": "github/copilot.vim",
+      "owner": "github",
+      "name": "copilot.vim",
+      "trending_days": 58,
+      "stars": 11706,
+      "language": "Vim Script",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
+      "current_streak": 3
+    },
+    {
+      "rank": 36,
+      "full_name": "OpenXiangShan/XiangShan",
+      "owner": "OpenXiangShan",
+      "name": "XiangShan",
+      "trending_days": 58,
+      "stars": 7367,
+      "language": "Scala",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
+      "current_streak": 2
+    },
+    {
+      "rank": 37,
+      "full_name": "apple/swift-crypto",
+      "owner": "apple",
+      "name": "swift-crypto",
+      "trending_days": 58,
+      "stars": 1741,
+      "language": "Assembly",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
+      "current_streak": 2
+    },
+    {
+      "rank": 38,
       "full_name": "openai/symphony",
       "owner": "openai",
       "name": "symphony",
@@ -411,67 +459,55 @@
       "current_streak": 2
     },
     {
-      "rank": 35,
-      "full_name": "actions/runner-images",
-      "owner": "actions",
-      "name": "runner-images",
-      "trending_days": 57,
-      "stars": 13559,
-      "language": "PowerShell",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-11-02",
-      "current_streak": 1
-    },
-    {
-      "rank": 36,
-      "full_name": "github/copilot.vim",
-      "owner": "github",
-      "name": "copilot.vim",
-      "trending_days": 57,
-      "stars": 11705,
-      "language": "Vim Script",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 2
-    },
-    {
-      "rank": 37,
-      "full_name": "OpenXiangShan/XiangShan",
-      "owner": "OpenXiangShan",
-      "name": "XiangShan",
-      "trending_days": 57,
-      "stars": 7364,
-      "language": "Scala",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 1
-    },
-    {
-      "rank": 38,
-      "full_name": "apple/swift-crypto",
-      "owner": "apple",
-      "name": "swift-crypto",
-      "trending_days": 57,
-      "stars": 1739,
-      "language": "Assembly",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 1
-    },
-    {
       "rank": 39,
       "full_name": "erlang/otp",
       "owner": "erlang",
       "name": "otp",
-      "trending_days": 56,
-      "stars": 12353,
+      "trending_days": 57,
+      "stars": 12357,
       "language": "Erlang",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-10-29",
-      "current_streak": 3
+      "last_seen": "2026-11-04",
+      "current_streak": 1
     },
     {
       "rank": 40,
+      "full_name": "unclebob/swarm-forge",
+      "owner": "unclebob",
+      "name": "swarm-forge",
+      "trending_days": 57,
+      "stars": 4089,
+      "language": "Clojure",
+      "first_seen": "2026-08-02",
+      "last_seen": "2026-11-04",
+      "current_streak": 3
+    },
+    {
+      "rank": 41,
+      "full_name": "hkhcoder/vprofile-project",
+      "owner": "hkhcoder",
+      "name": "vprofile-project",
+      "trending_days": 57,
+      "stars": 1480,
+      "language": "CSS",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
+      "current_streak": 2
+    },
+    {
+      "rank": 42,
+      "full_name": "brendangregg/FlameGraph",
+      "owner": "brendangregg",
+      "name": "FlameGraph",
+      "trending_days": 56,
+      "stars": 19815,
+      "language": "Perl",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
+      "current_streak": 3
+    },
+    {
+      "rank": 43,
       "full_name": "kieraneglin/pinchflat",
       "owner": "kieraneglin",
       "name": "pinchflat",
@@ -483,67 +519,67 @@
       "current_streak": 2
     },
     {
-      "rank": 41,
-      "full_name": "unclebob/swarm-forge",
-      "owner": "unclebob",
-      "name": "swarm-forge",
-      "trending_days": 56,
-      "stars": 4084,
-      "language": "Clojure",
-      "first_seen": "2026-08-02",
-      "last_seen": "2026-11-03",
-      "current_streak": 2
-    },
-    {
-      "rank": 42,
-      "full_name": "hkhcoder/vprofile-project",
-      "owner": "hkhcoder",
-      "name": "vprofile-project",
-      "trending_days": 56,
-      "stars": 1479,
-      "language": "CSS",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 1
-    },
-    {
-      "rank": 43,
-      "full_name": "brendangregg/FlameGraph",
-      "owner": "brendangregg",
-      "name": "FlameGraph",
-      "trending_days": 55,
-      "stars": 19815,
-      "language": "Perl",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 2
-    },
-    {
       "rank": 44,
       "full_name": "YosysHQ/picorv32",
       "owner": "YosysHQ",
       "name": "picorv32",
-      "trending_days": 55,
-      "stars": 4395,
+      "trending_days": 56,
+      "stars": 4397,
       "language": "Verilog",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-10-29",
-      "current_streak": 3
+      "last_seen": "2026-11-04",
+      "current_streak": 1
     },
     {
       "rank": 45,
       "full_name": "cp2k/cp2k",
       "owner": "cp2k",
       "name": "cp2k",
-      "trending_days": 55,
-      "stars": 1236,
+      "trending_days": 56,
+      "stars": 1238,
       "language": "Fortran",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 1
+      "last_seen": "2026-11-04",
+      "current_streak": 2
     },
     {
       "rank": 46,
+      "full_name": "wrf-model/WRF",
+      "owner": "wrf-model",
+      "name": "WRF",
+      "trending_days": 55,
+      "stars": 1799,
+      "language": "Fortran",
+      "first_seen": "2026-08-04",
+      "last_seen": "2026-11-04",
+      "current_streak": 2
+    },
+    {
+      "rank": 47,
+      "full_name": "aws/aws-lc",
+      "owner": "aws",
+      "name": "aws-lc",
+      "trending_days": 55,
+      "stars": 861,
+      "language": "Assembly",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
+      "current_streak": 3
+    },
+    {
+      "rank": 48,
+      "full_name": "JuliaRegistries/General",
+      "owner": "JuliaRegistries",
+      "name": "General",
+      "trending_days": 55,
+      "stars": 738,
+      "language": "Julia",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
+      "current_streak": 3
+    },
+    {
+      "rank": 49,
       "full_name": "vxunderground/MalwareSourceCode",
       "owner": "vxunderground",
       "name": "MalwareSourceCode",
@@ -555,43 +591,31 @@
       "current_streak": 2
     },
     {
-      "rank": 47,
-      "full_name": "wrf-model/WRF",
-      "owner": "wrf-model",
-      "name": "WRF",
-      "trending_days": 54,
-      "stars": 1797,
-      "language": "Fortran",
-      "first_seen": "2026-08-04",
-      "last_seen": "2026-11-03",
-      "current_streak": 1
-    },
-    {
-      "rank": 48,
-      "full_name": "aws/aws-lc",
-      "owner": "aws",
-      "name": "aws-lc",
-      "trending_days": 54,
-      "stars": 859,
-      "language": "Assembly",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 2
-    },
-    {
-      "rank": 49,
-      "full_name": "JuliaRegistries/General",
-      "owner": "JuliaRegistries",
-      "name": "General",
-      "trending_days": 54,
-      "stars": 738,
-      "language": "Julia",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 2
-    },
-    {
       "rank": 50,
+      "full_name": "apache/datafusion-comet",
+      "owner": "apache",
+      "name": "datafusion-comet",
+      "trending_days": 54,
+      "stars": 1314,
+      "language": "Scala",
+      "first_seen": "2026-08-02",
+      "last_seen": "2026-11-04",
+      "current_streak": 3
+    },
+    {
+      "rank": 51,
+      "full_name": "SDWebImage/SDWebImage",
+      "owner": "SDWebImage",
+      "name": "SDWebImage",
+      "trending_days": 53,
+      "stars": 25608,
+      "language": "Objective-C",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
+      "current_streak": 2
+    },
+    {
+      "rank": 52,
       "full_name": "phoenixframework/phoenix",
       "owner": "phoenixframework",
       "name": "phoenix",
@@ -603,31 +627,43 @@
       "current_streak": 1
     },
     {
-      "rank": 51,
-      "full_name": "apache/datafusion-comet",
-      "owner": "apache",
-      "name": "datafusion-comet",
+      "rank": 53,
+      "full_name": "jinworks/CellChat",
+      "owner": "jinworks",
+      "name": "CellChat",
       "trending_days": 53,
-      "stars": 1312,
-      "language": "Scala",
-      "first_seen": "2026-08-02",
-      "last_seen": "2026-11-03",
+      "stars": 691,
+      "language": "R",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
       "current_streak": 2
     },
     {
-      "rank": 52,
-      "full_name": "SDWebImage/SDWebImage",
-      "owner": "SDWebImage",
-      "name": "SDWebImage",
-      "trending_days": 52,
-      "stars": 25611,
+      "rank": 54,
+      "full_name": "google/GoogleUtilities",
+      "owner": "google",
+      "name": "GoogleUtilities",
+      "trending_days": 53,
+      "stars": 136,
       "language": "Objective-C",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 1
+      "last_seen": "2026-11-04",
+      "current_streak": 2
     },
     {
-      "rank": 53,
+      "rank": 55,
+      "full_name": "google/GoogleDataTransport",
+      "owner": "google",
+      "name": "GoogleDataTransport",
+      "trending_days": 53,
+      "stars": 60,
+      "language": "Objective-C",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
+      "current_streak": 2
+    },
+    {
+      "rank": 56,
       "full_name": "vercel-labs/native",
       "owner": "vercel-labs",
       "name": "native",
@@ -639,7 +675,7 @@
       "current_streak": 1
     },
     {
-      "rank": 54,
+      "rank": 57,
       "full_name": "Seafoam-Labs/Shelly-ALPM",
       "owner": "Seafoam-Labs",
       "name": "Shelly-ALPM",
@@ -651,43 +687,31 @@
       "current_streak": 1
     },
     {
-      "rank": 55,
-      "full_name": "jinworks/CellChat",
-      "owner": "jinworks",
-      "name": "CellChat",
-      "trending_days": 52,
-      "stars": 690,
-      "language": "R",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 1
-    },
-    {
-      "rank": 56,
-      "full_name": "google/GoogleUtilities",
-      "owner": "google",
-      "name": "GoogleUtilities",
-      "trending_days": 52,
-      "stars": 136,
-      "language": "Objective-C",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 1
-    },
-    {
-      "rank": 57,
-      "full_name": "google/GoogleDataTransport",
-      "owner": "google",
-      "name": "GoogleDataTransport",
-      "trending_days": 52,
-      "stars": 60,
-      "language": "Objective-C",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 1
-    },
-    {
       "rank": 58,
+      "full_name": "glpi-project/glpi-agent",
+      "owner": "glpi-project",
+      "name": "glpi-agent",
+      "trending_days": 52,
+      "stars": 512,
+      "language": "Perl",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
+      "current_streak": 2
+    },
+    {
+      "rank": 59,
+      "full_name": "google/gtm-session-fetcher",
+      "owner": "google",
+      "name": "gtm-session-fetcher",
+      "trending_days": 52,
+      "stars": 292,
+      "language": "Objective-C",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
+      "current_streak": 2
+    },
+    {
+      "rank": 60,
       "full_name": "firezone/firezone",
       "owner": "firezone",
       "name": "firezone",
@@ -699,31 +723,31 @@
       "current_streak": 1
     },
     {
-      "rank": 59,
-      "full_name": "glpi-project/glpi-agent",
-      "owner": "glpi-project",
-      "name": "glpi-agent",
-      "trending_days": 51,
-      "stars": 512,
-      "language": "Perl",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 1
-    },
-    {
-      "rank": 60,
-      "full_name": "google/gtm-session-fetcher",
+      "rank": 61,
+      "full_name": "google/promises",
       "owner": "google",
-      "name": "gtm-session-fetcher",
+      "name": "promises",
       "trending_days": 51,
-      "stars": 291,
+      "stars": 3829,
       "language": "Objective-C",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 1
+      "last_seen": "2026-11-04",
+      "current_streak": 2
     },
     {
-      "rank": 61,
+      "rank": 62,
+      "full_name": "monoscope-tech/monoscope",
+      "owner": "monoscope-tech",
+      "name": "monoscope",
+      "trending_days": 51,
+      "stars": 2040,
+      "language": "Haskell",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
+      "current_streak": 3
+    },
+    {
+      "rank": 63,
       "full_name": "flutter/flutter",
       "owner": "flutter",
       "name": "flutter",
@@ -735,7 +759,7 @@
       "current_streak": 1
     },
     {
-      "rank": 62,
+      "rank": 64,
       "full_name": "rails/rails",
       "owner": "rails",
       "name": "rails",
@@ -747,19 +771,55 @@
       "current_streak": 2
     },
     {
-      "rank": 63,
-      "full_name": "google/promises",
-      "owner": "google",
-      "name": "promises",
+      "rank": 65,
+      "full_name": "iv-org/invidious",
+      "owner": "iv-org",
+      "name": "invidious",
       "trending_days": 50,
-      "stars": 3829,
-      "language": "Objective-C",
+      "stars": 25872,
+      "language": "Crystal",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 1
+      "last_seen": "2026-11-04",
+      "current_streak": 3
     },
     {
-      "rank": 64,
+      "rank": 66,
+      "full_name": "BLAKE3-team/BLAKE3",
+      "owner": "BLAKE3-team",
+      "name": "BLAKE3",
+      "trending_days": 50,
+      "stars": 6509,
+      "language": "Assembly",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
+      "current_streak": 3
+    },
+    {
+      "rank": 67,
+      "full_name": "pret/pokered",
+      "owner": "pret",
+      "name": "pokered",
+      "trending_days": 50,
+      "stars": 5019,
+      "language": "Assembly",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
+      "current_streak": 3
+    },
+    {
+      "rank": 68,
+      "full_name": "ebitengine/purego",
+      "owner": "ebitengine",
+      "name": "purego",
+      "trending_days": 50,
+      "stars": 4085,
+      "language": "Assembly",
+      "first_seen": "2026-08-04",
+      "last_seen": "2026-11-04",
+      "current_streak": 2
+    },
+    {
+      "rank": 69,
       "full_name": "open-goal/jak-project",
       "owner": "open-goal",
       "name": "jak-project",
@@ -771,7 +831,7 @@
       "current_streak": 2
     },
     {
-      "rank": 65,
+      "rank": 70,
       "full_name": "Loongphy/codex-auth",
       "owner": "Loongphy",
       "name": "codex-auth",
@@ -783,19 +843,19 @@
       "current_streak": 2
     },
     {
-      "rank": 66,
-      "full_name": "monoscope-tech/monoscope",
-      "owner": "monoscope-tech",
-      "name": "monoscope",
+      "rank": 71,
+      "full_name": "neurosnap/zmx",
+      "owner": "neurosnap",
+      "name": "zmx",
       "trending_days": 50,
-      "stars": 2036,
-      "language": "Haskell",
+      "stars": 2268,
+      "language": "Zig",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 2
+      "last_seen": "2026-11-04",
+      "current_streak": 3
     },
     {
-      "rank": 67,
+      "rank": 72,
       "full_name": "Rangi42/polishedcrystal",
       "owner": "Rangi42",
       "name": "polishedcrystal",
@@ -807,79 +867,31 @@
       "current_streak": 2
     },
     {
-      "rank": 68,
-      "full_name": "iv-org/invidious",
-      "owner": "iv-org",
-      "name": "invidious",
-      "trending_days": 49,
-      "stars": 25847,
-      "language": "Crystal",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 2
-    },
-    {
-      "rank": 69,
-      "full_name": "BLAKE3-team/BLAKE3",
-      "owner": "BLAKE3-team",
-      "name": "BLAKE3",
-      "trending_days": 49,
-      "stars": 6505,
-      "language": "Assembly",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 2
-    },
-    {
-      "rank": 70,
-      "full_name": "pret/pokered",
-      "owner": "pret",
-      "name": "pokered",
-      "trending_days": 49,
-      "stars": 5018,
-      "language": "Assembly",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 2
-    },
-    {
-      "rank": 71,
-      "full_name": "ebitengine/purego",
-      "owner": "ebitengine",
-      "name": "purego",
-      "trending_days": 49,
-      "stars": 4082,
-      "language": "Assembly",
-      "first_seen": "2026-08-04",
-      "last_seen": "2026-11-03",
-      "current_streak": 1
-    },
-    {
-      "rank": 72,
-      "full_name": "neurosnap/zmx",
-      "owner": "neurosnap",
-      "name": "zmx",
-      "trending_days": 49,
-      "stars": 2265,
-      "language": "Zig",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 2
-    },
-    {
       "rank": 73,
       "full_name": "EttusResearch/uhd",
       "owner": "EttusResearch",
       "name": "uhd",
-      "trending_days": 49,
-      "stars": 1296,
+      "trending_days": 50,
+      "stars": 1298,
       "language": "Verilog",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 1
+      "last_seen": "2026-11-04",
+      "current_streak": 2
     },
     {
       "rank": 74,
+      "full_name": "nflverse/nflverse-data",
+      "owner": "nflverse",
+      "name": "nflverse-data",
+      "trending_days": 50,
+      "stars": 441,
+      "language": "R",
+      "first_seen": "2026-08-08",
+      "last_seen": "2026-11-04",
+      "current_streak": 3
+    },
+    {
+      "rank": 75,
       "full_name": "The-OpenROAD-Project/OpenROAD-flow-scripts",
       "owner": "The-OpenROAD-Project",
       "name": "OpenROAD-flow-scripts",
@@ -891,19 +903,19 @@
       "current_streak": 2
     },
     {
-      "rank": 75,
-      "full_name": "nflverse/nflverse-data",
-      "owner": "nflverse",
-      "name": "nflverse-data",
+      "rank": 76,
+      "full_name": "forest0xia/dota2bot-OpenHyperAI",
+      "owner": "forest0xia",
+      "name": "dota2bot-OpenHyperAI",
       "trending_days": 49,
-      "stars": 441,
-      "language": "R",
-      "first_seen": "2026-08-08",
-      "last_seen": "2026-11-03",
+      "stars": 301,
+      "language": "Lua",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
       "current_streak": 2
     },
     {
-      "rank": 76,
+      "rank": 77,
       "full_name": "discourse/discourse",
       "owner": "discourse",
       "name": "discourse",
@@ -915,7 +927,7 @@
       "current_streak": 2
     },
     {
-      "rank": 77,
+      "rank": 78,
       "full_name": "opf/openproject",
       "owner": "opf",
       "name": "openproject",
@@ -927,7 +939,7 @@
       "current_streak": 2
     },
     {
-      "rank": 78,
+      "rank": 79,
       "full_name": "rundeck/rundeck",
       "owner": "rundeck",
       "name": "rundeck",
@@ -939,7 +951,7 @@
       "current_streak": 3
     },
     {
-      "rank": 79,
+      "rank": 80,
       "full_name": "OpenFAST/openfast",
       "owner": "OpenFAST",
       "name": "openfast",
@@ -951,19 +963,19 @@
       "current_streak": 2
     },
     {
-      "rank": 80,
-      "full_name": "forest0xia/dota2bot-OpenHyperAI",
-      "owner": "forest0xia",
-      "name": "dota2bot-OpenHyperAI",
-      "trending_days": 48,
-      "stars": 301,
-      "language": "Lua",
+      "rank": 81,
+      "full_name": "swirldev/swirl_courses",
+      "owner": "swirldev",
+      "name": "swirl_courses",
+      "trending_days": 47,
+      "stars": 4621,
+      "language": "R",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 1
+      "last_seen": "2026-11-04",
+      "current_streak": 3
     },
     {
-      "rank": 81,
+      "rank": 82,
       "full_name": "satijalab/seurat",
       "owner": "satijalab",
       "name": "seurat",
@@ -975,19 +987,31 @@
       "current_streak": 3
     },
     {
-      "rank": 82,
-      "full_name": "swirldev/swirl_courses",
-      "owner": "swirldev",
-      "name": "swirl_courses",
-      "trending_days": 46,
-      "stars": 4621,
-      "language": "R",
+      "rank": 83,
+      "full_name": "OpenZeppelin/openzeppelin-foundry-upgrades",
+      "owner": "OpenZeppelin",
+      "name": "openzeppelin-foundry-upgrades",
+      "trending_days": 47,
+      "stars": 258,
+      "language": "Solidity",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
+      "current_streak": 3
+    },
+    {
+      "rank": 84,
+      "full_name": "nvm-sh/nvm",
+      "owner": "nvm-sh",
+      "name": "nvm",
+      "trending_days": 46,
+      "stars": 95756,
+      "language": "Shell",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
       "current_streak": 2
     },
     {
-      "rank": 83,
+      "rank": 85,
       "full_name": "NVIDIA/cudf-spark",
       "owner": "NVIDIA",
       "name": "cudf-spark",
@@ -999,7 +1023,19 @@
       "current_streak": 2
     },
     {
-      "rank": 84,
+      "rank": 86,
+      "full_name": "microsoft/fabric-toolbox",
+      "owner": "microsoft",
+      "name": "fabric-toolbox",
+      "trending_days": 46,
+      "stars": 940,
+      "language": "PowerShell",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
+      "current_streak": 2
+    },
+    {
+      "rank": 87,
       "full_name": "apple/swift-nio-ssl",
       "owner": "apple",
       "name": "swift-nio-ssl",
@@ -1011,31 +1047,7 @@
       "current_streak": 4
     },
     {
-      "rank": 85,
-      "full_name": "OpenZeppelin/openzeppelin-foundry-upgrades",
-      "owner": "OpenZeppelin",
-      "name": "openzeppelin-foundry-upgrades",
-      "trending_days": 46,
-      "stars": 258,
-      "language": "Solidity",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 2
-    },
-    {
-      "rank": 86,
-      "full_name": "nvm-sh/nvm",
-      "owner": "nvm-sh",
-      "name": "nvm",
-      "trending_days": 45,
-      "stars": 95745,
-      "language": "Shell",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 1
-    },
-    {
-      "rank": 87,
+      "rank": 88,
       "full_name": "koreader/koreader",
       "owner": "koreader",
       "name": "koreader",
@@ -1047,7 +1059,7 @@
       "current_streak": 2
     },
     {
-      "rank": 88,
+      "rank": 89,
       "full_name": "dotnet/fsharp",
       "owner": "dotnet",
       "name": "fsharp",
@@ -1057,18 +1069,6 @@
       "first_seen": "2026-08-01",
       "last_seen": "2026-10-29",
       "current_streak": 2
-    },
-    {
-      "rank": 89,
-      "full_name": "microsoft/fabric-toolbox",
-      "owner": "microsoft",
-      "name": "fabric-toolbox",
-      "trending_days": 45,
-      "stars": 939,
-      "language": "PowerShell",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-11-03",
-      "current_streak": 1
     },
     {
       "rank": 90,
@@ -1084,6 +1084,30 @@
     },
     {
       "rank": 91,
+      "full_name": "dropbox/zxcvbn",
+      "owner": "dropbox",
+      "name": "zxcvbn",
+      "trending_days": 44,
+      "stars": 16078,
+      "language": "CoffeeScript",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
+      "current_streak": 1
+    },
+    {
+      "rank": 92,
+      "full_name": "openid/AppAuth-iOS",
+      "owner": "openid",
+      "name": "AppAuth-iOS",
+      "trending_days": 44,
+      "stars": 2038,
+      "language": "Objective-C",
+      "first_seen": "2026-08-08",
+      "last_seen": "2026-11-04",
+      "current_streak": 1
+    },
+    {
+      "rank": 93,
       "full_name": "rdpeng/ProgrammingAssignment2",
       "owner": "rdpeng",
       "name": "ProgrammingAssignment2",
@@ -1095,19 +1119,7 @@
       "current_streak": 1
     },
     {
-      "rank": 92,
-      "full_name": "dropbox/zxcvbn",
-      "owner": "dropbox",
-      "name": "zxcvbn",
-      "trending_days": 43,
-      "stars": 16074,
-      "language": "CoffeeScript",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-11-02",
-      "current_streak": 1
-    },
-    {
-      "rank": 93,
+      "rank": 94,
       "full_name": "gatling/gatling",
       "owner": "gatling",
       "name": "gatling",
@@ -1117,18 +1129,6 @@
       "first_seen": "2026-08-01",
       "last_seen": "2026-10-26",
       "current_streak": 2
-    },
-    {
-      "rank": 94,
-      "full_name": "openid/AppAuth-iOS",
-      "owner": "openid",
-      "name": "AppAuth-iOS",
-      "trending_days": 43,
-      "stars": 2035,
-      "language": "Objective-C",
-      "first_seen": "2026-08-08",
-      "last_seen": "2026-10-29",
-      "current_streak": 3
     },
     {
       "rank": 95,
@@ -1156,6 +1156,18 @@
     },
     {
       "rank": 97,
+      "full_name": "hiddify/hiddify-app",
+      "owner": "hiddify",
+      "name": "hiddify-app",
+      "trending_days": 42,
+      "stars": 33644,
+      "language": "Dart",
+      "first_seen": "2026-08-02",
+      "last_seen": "2026-11-04",
+      "current_streak": 1
+    },
+    {
+      "rank": 98,
       "full_name": "scala/scala",
       "owner": "scala",
       "name": "scala",
@@ -1167,40 +1179,28 @@
       "current_streak": 1
     },
     {
-      "rank": 98,
-      "full_name": "chen08209/FlClash",
-      "owner": "chen08209",
-      "name": "FlClash",
-      "trending_days": 41,
-      "stars": 59618,
-      "language": "Dart",
-      "first_seen": "2026-08-02",
-      "last_seen": "2026-10-29",
+      "rank": 99,
+      "full_name": "bitdump/BLHeli",
+      "owner": "bitdump",
+      "name": "BLHeli",
+      "trending_days": 42,
+      "stars": 2240,
+      "language": "Assembly",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
       "current_streak": 3
     },
     {
-      "rank": 99,
-      "full_name": "hiddify/hiddify-app",
-      "owner": "hiddify",
-      "name": "hiddify-app",
-      "trending_days": 41,
-      "stars": 33599,
-      "language": "Dart",
-      "first_seen": "2026-08-02",
-      "last_seen": "2026-11-02",
-      "current_streak": 1
-    },
-    {
       "rank": 100,
-      "full_name": "facebook/infer",
-      "owner": "facebook",
-      "name": "infer",
-      "trending_days": 41,
-      "stars": 15728,
+      "full_name": "AeneasVerif/aeneas",
+      "owner": "AeneasVerif",
+      "name": "aeneas",
+      "trending_days": 42,
+      "stars": 1155,
       "language": "OCaml",
-      "first_seen": "2026-08-02",
-      "last_seen": "2026-10-25",
-      "current_streak": 1
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
+      "current_streak": 3
     }
   ]
 }

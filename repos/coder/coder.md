@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 16,604 |
-| **Forks** | 🍴 1,578 |
-| **Trending Days** | 6 |
+| **Stars** | ⭐ 17,271 |
+| **Forks** | 🍴 1,645 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #4 |
 
 | **First Seen** | Aug 6, 2026 |
-| **Last Seen** | Sep 22, 2026 |
+| **Last Seen** | Nov 4, 2026 |
 
 
 ---
@@ -50,7 +50,7 @@
 ### Highlights
 
 - **Peak Rank**: #4
-- **Trending Days**: 6
+- **Trending Days**: 7
 - **Longest Streak**: 4 days
 
 ---
@@ -75,7 +75,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -94,5 +94,5 @@
 
 ---
 
-*Last updated: 2026-11-03T21:01:01.654Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-11-04T21:01:00.296Z*  
+*Data from 7 trending reports*

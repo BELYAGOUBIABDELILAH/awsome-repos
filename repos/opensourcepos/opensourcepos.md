@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | PHP |
 | **License** | Other |
-| **Stars** | ⭐ 4,456 |
-| **Forks** | 🍴 2,642 |
-| **Trending Days** | 13 |
+| **Stars** | ⭐ 4,498 |
+| **Forks** | 🍴 2,655 |
+| **Trending Days** | 14 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Oct 22, 2026 |
+| **Last Seen** | Nov 4, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in PHP or bootstrap3*
+*Similar: Check repositories in PHP or codeigniter4*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 13
+- **Trending Days**: 14
 - **Longest Streak**: 4 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`bootstrap3`](../../topics/bootstrap3.md) [`codeigniter3`](../../topics/codeigniter3.md) [`inventory-management`](../../topics/inventory-management.md) [`php`](../../topics/php.md) [`point-of-sale`](../../topics/point-of-sale.md) [`reporting`](../../topics/reporting.md) 
+[`codeigniter4`](../../topics/codeigniter4.md) [`inventory-management`](../../topics/inventory-management.md) [`php`](../../topics/php.md) [`point-of-sale`](../../topics/point-of-sale.md) [`reporting`](../../topics/reporting.md) 
 
 ### Curated Categories
 `Systems Programming` 
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 4,456+ stars, strong contributor base |
+| **Community** | Very Active | 4,498+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-03T21:01:01.110Z*  
-*Data from 13 trending reports*
+*Last updated: 2026-11-04T21:00:59.629Z*  
+*Data from 14 trending reports*

@@ -7,23 +7,23 @@
 ## November 2026
 
 **Period**: 2026-11-01 to 2026-11-28  
-**Gems Found**: 122
+**Gems Found**: 170
 
 ---
 
 ### 1. [realidkroo&#x2F;Mochy-Music](../../repos/realidkroo/Mochy-Music.md)
 
-**A modern sleek music player.**
+**A modern, cool, sleek music player. made with &lt;3**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 548 |
+| ⭐ **Stars** | 680 |
 | 💻 **Language** | Kotlin |
-| 🏆 **Gem Score** | 95/100 |
-| 📈 **Trending Days** | 4 |
+| 🏆 **Gem Score** | 99/100 |
+| 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Oct 28, 2026 |
 
-**Why it's a gem**: High growth velocity (+52 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+58 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -31,7 +31,27 @@
 
 ---
 
-### 2. [shy3130&#x2F;tick-stock-panel](../../repos/shy3130/tick-stock-panel.md)
+### 2. [PimpinPumpkin&#x2F;Vela](../../repos/PimpinPumpkin/Vela.md)
+
+**Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,424 |
+| 💻 **Language** | Kotlin |
+| 🏆 **Gem Score** | 98/100 |
+| 📈 **Trending Days** | 8 |
+| 📅 **First Seen** | Oct 6, 2026 |
+
+**Why it's a gem**: High growth velocity (+138 stars&#x2F;day) • Trending 8 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/PimpinPumpkin/Vela.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;PimpinPumpkin&#x2F;Vela)
+
+---
+
+### 3. [shy3130&#x2F;tick-stock-panel](../../repos/shy3130/tick-stock-panel.md)
 
 **TSP自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源**
 
@@ -51,7 +71,7 @@
 
 ---
 
-### 3. [derv82&#x2F;wifit3](../../repos/derv82/wifit3.md)
+### 4. [derv82&#x2F;wifit3](../../repos/derv82/wifit3.md)
 
 **Wifite but USB-only &amp; cross-platform.**
 
@@ -71,7 +91,47 @@
 
 ---
 
-### 4. [rorkai&#x2F;App-Store-Connect-CLI](../../repos/rorkai/App-Store-Connect-CLI.md)
+### 5. [michael-denyer&#x2F;pstack-claude](../../repos/michael-denyer/pstack-claude.md)
+
+**Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto&#39;s pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3,971 |
+| 💻 **Language** | JavaScript |
+| 🏆 **Gem Score** | 92/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Oct 16, 2026 |
+
+**Why it's a gem**: High growth velocity (+213 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/michael-denyer/pstack-claude.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;michael-denyer&#x2F;pstack-claude)
+
+---
+
+### 6. [superplanehq&#x2F;superplane](../../repos/superplanehq/superplane.md)
+
+**Open source factory for one-shot engineering**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 8,793 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 91/100 |
+| 📈 **Trending Days** | 14 |
+| 📅 **First Seen** | Aug 2, 2026 |
+
+**Why it's a gem**: High growth velocity (+123 stars&#x2F;day) • Trending 14 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/superplanehq/superplane.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;superplanehq&#x2F;superplane)
+
+---
+
+### 7. [rorkai&#x2F;App-Store-Connect-CLI](../../repos/rorkai/App-Store-Connect-CLI.md)
 
 **Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more**
 
@@ -79,7 +139,7 @@
 |---|---|
 | ⭐ **Stars** | 8,211 |
 | 💻 **Language** | Go |
-| 🏆 **Gem Score** | 92/100 |
+| 🏆 **Gem Score** | 91/100 |
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Aug 9, 2026 |
 
@@ -91,7 +151,7 @@
 
 ---
 
-### 5. [Tianyu199509&#x2F;DeskBox](../../repos/Tianyu199509/DeskBox.md)
+### 8. [Tianyu199509&#x2F;DeskBox](../../repos/Tianyu199509/DeskBox.md)
 
 **A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.**
 
@@ -111,19 +171,19 @@
 
 ---
 
-### 6. [HD838A&#x2F;remote-mic-app](../../repos/HD838A/remote-mic-app.md)
+### 9. [HD838A&#x2F;remote-mic-app](../../repos/HD838A/remote-mic-app.md)
 
 **无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2,334 |
+| ⭐ **Stars** | 2,435 |
 | 💻 **Language** | Swift |
 | 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 5 |
+| 📈 **Trending Days** | 6 |
 | 📅 **First Seen** | Oct 8, 2026 |
 
-**Why it's a gem**: High growth velocity (+52 stars&#x2F;day) • Trending 5 times • Very active development • Underrated project
+**Why it's a gem**: High growth velocity (+52 stars&#x2F;day) • Trending 6 times • Very active development • Underrated project
 
 **Best for**: 
 
@@ -131,7 +191,7 @@
 
 ---
 
-### 7. [MakazhanAlpamys&#x2F;Soup](../../repos/MakazhanAlpamys/Soup.md)
+### 10. [MakazhanAlpamys&#x2F;Soup](../../repos/MakazhanAlpamys/Soup.md)
 
 **Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.**
 
@@ -151,27 +211,27 @@
 
 ---
 
-### 8. [max-sixty&#x2F;worktrunk](../../repos/max-sixty/worktrunk.md)
+### 11. [guohuiyuan&#x2F;go-music-dl](../../repos/guohuiyuan/go-music-dl.md)
 
-**Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows**
+**一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 10,219 |
-| 💻 **Language** | Rust |
+| ⭐ **Stars** | 5,993 |
+| 💻 **Language** | Go |
 | 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 16 |
-| 📅 **First Seen** | Aug 26, 2026 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Sep 20, 2026 |
 
-**Why it's a gem**: High growth velocity (+110 stars&#x2F;day) • Trending 16 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+79 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/max-sixty/worktrunk.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;max-sixty&#x2F;worktrunk)
+[View Passport](../../repos/guohuiyuan/go-music-dl.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;guohuiyuan&#x2F;go-music-dl)
 
 ---
 
-### 9. [EpicGames&#x2F;unreal-engine-skills-for-claude-code-plugin](../../repos/EpicGames/unreal-engine-skills-for-claude-code-plugin.md)
+### 12. [EpicGames&#x2F;unreal-engine-skills-for-claude-code-plugin](../../repos/EpicGames/unreal-engine-skills-for-claude-code-plugin.md)
 
 **No description**
 
@@ -191,7 +251,7 @@
 
 ---
 
-### 10. [leepokai&#x2F;Codync](../../repos/leepokai/Codync.md)
+### 13. [leepokai&#x2F;Codync](../../repos/leepokai/Codync.md)
 
 **Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.**
 
@@ -211,7 +271,67 @@
 
 ---
 
-### 11. [XiaomingX&#x2F;ai-money-maker-handbook](../../repos/XiaomingX/ai-money-maker-handbook.md)
+### 14. [max-sixty&#x2F;worktrunk](../../repos/max-sixty/worktrunk.md)
+
+**Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 10,965 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 89/100 |
+| 📈 **Trending Days** | 17 |
+| 📅 **First Seen** | Aug 26, 2026 |
+
+**Why it's a gem**: High growth velocity (+165 stars&#x2F;day) • Trending 17 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/max-sixty/worktrunk.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;max-sixty&#x2F;worktrunk)
+
+---
+
+### 15. [InlitX&#x2F;GymMane](../../repos/InlitX/GymMane.md)
+
+** Offline gym log for Android. No account, no ads, no internet.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,324 |
+| 💻 **Language** | Dart |
+| 🏆 **Gem Score** | 89/100 |
+| 📈 **Trending Days** | 8 |
+| 📅 **First Seen** | Oct 13, 2026 |
+
+**Why it's a gem**: Trending 8 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/InlitX/GymMane.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;InlitX&#x2F;GymMane)
+
+---
+
+### 16. [elie222&#x2F;rakazo](../../repos/elie222/rakazo.md)
+
+**Open-source Grok Bot alternative. Choose your own model and sandbox.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 7,003 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 89/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Oct 17, 2026 |
+
+**Why it's a gem**: High growth velocity (+150 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/elie222/rakazo.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;elie222&#x2F;rakazo)
+
+---
+
+### 17. [XiaomingX&#x2F;ai-money-maker-handbook](../../repos/XiaomingX/ai-money-maker-handbook.md)
 
 **ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.**
 
@@ -219,7 +339,7 @@
 |---|---|
 | ⭐ **Stars** | 6,864 |
 | 💻 **Language** | CSS |
-| 🏆 **Gem Score** | 89/100 |
+| 🏆 **Gem Score** | 88/100 |
 | 📈 **Trending Days** | 26 |
 | 📅 **First Seen** | Aug 10, 2026 |
 
@@ -231,7 +351,7 @@
 
 ---
 
-### 12. [mlmvpn&#x2F;mlmvpn_android](../../repos/mlmvpn/mlmvpn_android.md)
+### 18. [mlmvpn&#x2F;mlmvpn_android](../../repos/mlmvpn/mlmvpn_android.md)
 
 **Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE&#x2F;AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی**
 
@@ -251,7 +371,27 @@
 
 ---
 
-### 13. [jordan-gibbs&#x2F;hyperresearch](../../repos/jordan-gibbs/hyperresearch.md)
+### 19. [humanlayer&#x2F;skills](../../repos/humanlayer/skills.md)
+
+**No description**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 5,601 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 87/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Sep 4, 2026 |
+
+**Why it's a gem**: High growth velocity (+533 stars&#x2F;day) • Trending 6 times • Very active development
+
+**Best for**: 
+
+[View Passport](../../repos/humanlayer/skills.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;humanlayer&#x2F;skills)
+
+---
+
+### 20. [jordan-gibbs&#x2F;hyperresearch](../../repos/jordan-gibbs/hyperresearch.md)
 
 **Convert Claude Code or Codex into the most intelligent Deep Research Agent. Collect, search, and synthesize web research into a persistent, searchable wiki that builds on itself. Hosted API + MCP: hyperresearch.ai**
 
@@ -271,146 +411,6 @@
 
 ---
 
-### 14. [kushagrasinghx&#x2F;BitChord](../../repos/kushagrasinghx/BitChord.md)
-
-**BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 5,406 |
-| 💻 **Language** | Kotlin |
-| 🏆 **Gem Score** | 87/100 |
-| 📈 **Trending Days** | 12 |
-| 📅 **First Seen** | Oct 12, 2026 |
-
-**Why it's a gem**: High growth velocity (+126 stars&#x2F;day) • Trending 12 times • Very active development
-
-**Best for**: 
-
-[View Passport](../../repos/kushagrasinghx/BitChord.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;kushagrasinghx&#x2F;BitChord)
-
----
-
-### 15. [warmbly&#x2F;warmbly](../../repos/warmbly/warmbly.md)
-
-**The largest open-source B2B cold outreach and email warmup service.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 894 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 87/100 |
-| 📈 **Trending Days** | 2 |
-| 📅 **First Seen** | Nov 2, 2026 |
-
-**Why it's a gem**: High growth velocity (+270 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/warmbly/warmbly.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;warmbly&#x2F;warmbly)
-
----
-
-### 16. [momenbasel&#x2F;PureMac](../../repos/momenbasel/PureMac.md)
-
-**Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode&#x2F;Homebrew&#x2F;system cache cleanup. MIT licensed.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 7,594 |
-| 💻 **Language** | Swift |
-| 🏆 **Gem Score** | 86/100 |
-| 📈 **Trending Days** | 11 |
-| 📅 **First Seen** | Aug 4, 2026 |
-
-**Why it's a gem**: High growth velocity (+38 stars&#x2F;day) • Trending 11 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/momenbasel/PureMac.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;momenbasel&#x2F;PureMac)
-
----
-
-### 17. [vercel-labs&#x2F;scriptc](../../repos/vercel-labs/scriptc.md)
-
-**TypeScript-to-Native Compiler**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 6,476 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 86/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Sep 27, 2026 |
-
-**Why it's a gem**: High growth velocity (+186 stars&#x2F;day) • Trending 5 times • Very active development
-
-**Best for**: 
-
-[View Passport](../../repos/vercel-labs/scriptc.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;vercel-labs&#x2F;scriptc)
-
----
-
-### 18. [CYQawa&#x2F;YunX](../../repos/CYQawa/YunX.md)
-
-**✨一个安卓 网盘解析 + 视频平台解析 下载app✨**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 6,355 |
-| 💻 **Language** | Kotlin |
-| 🏆 **Gem Score** | 86/100 |
-| 📈 **Trending Days** | 9 |
-| 📅 **First Seen** | Oct 6, 2026 |
-
-**Why it's a gem**: High growth velocity (+108 stars&#x2F;day) • Trending 9 times • Very active development
-
-**Best for**: 
-
-[View Passport](../../repos/CYQawa/YunX.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;CYQawa&#x2F;YunX)
-
----
-
-### 19. [ggml-org&#x2F;Llama-Windows](../../repos/ggml-org/Llama-Windows.md)
-
-**Windows Llama App Companion**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 344 |
-| 💻 **Language** | C# |
-| 🏆 **Gem Score** | 86/100 |
-| 📈 **Trending Days** | 8 |
-| 📅 **First Seen** | Oct 7, 2026 |
-
-**Why it's a gem**: Trending 8 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/ggml-org/Llama-Windows.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;ggml-org&#x2F;Llama-Windows)
-
----
-
-### 20. [rawfilejson&#x2F;awesome-osint-arsenal](../../repos/rawfilejson/awesome-osint-arsenal.md)
-
-**OSINT &amp; recon toolkit &#x2F;&#x2F; 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics &amp; more.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 3,559 |
-| 💻 **Language** | Shell |
-| 🏆 **Gem Score** | 85/100 |
-| 📈 **Trending Days** | 11 |
-| 📅 **First Seen** | Aug 19, 2026 |
-
-**Why it's a gem**: High growth velocity (+101 stars&#x2F;day) • Trending 11 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/rawfilejson/awesome-osint-arsenal.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;rawfilejson&#x2F;awesome-osint-arsenal)
-
----
-
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-03T21:01:03.859Z*  
+*Generated: 2026-11-04T21:01:03.242Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

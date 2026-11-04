@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 285
+- **Total Repositories**: 286
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-02
-- **Average Stars**: 14139
+- **Average Stars**: 14099
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 38,924 | Go |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,417 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,616 | Scala |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,163 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,391 | Scala |  |
+| [vim/vim](../repos/vim/vim.md) | ⭐ 41,186 | Vim Script |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,124 | Clojure |  |
+| [vim-test/vim-test](../repos/vim-test/vim-test.md) | ⭐ 3,165 | Vim Script |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,465 | Clojure |  |
+| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 6,157 | PowerShell |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 41,181 | Vim Script |  |
+| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | ⭐ 1,569 | PowerShell |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 6,153 | PowerShell |  |
+| [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,741 | Assembly |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | ⭐ 1,564 | PowerShell |  |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 38,089 | V |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,739 | Assembly |  |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,339 | Solidity |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,340 | Solidity |  |
+| [ntop/ntopng](../repos/ntop/ntopng.md) | ⭐ 8,329 | Lua |  |
 
 
 ---
@@ -85,19 +85,19 @@
 | [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,616 | Scala | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,391 | Scala | 2 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,417 | Scala | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,124 | Clojure | 2 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,163 | Clojure | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,465 | Clojure | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 41,181 | Vim Script | 2 |
+| [vim/vim](../repos/vim/vim.md) | ⭐ 41,186 | Vim Script | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [vim-test/vim-test](../repos/vim-test/vim-test.md) | ⭐ 3,164 | Vim Script | 1 |
+| [vim-test/vim-test](../repos/vim-test/vim-test.md) | ⭐ 3,165 | Vim Script | 1 |
 
 ---
 
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-11-04](../archive/2026/11/2026-11-04.md)
+- 20 repositories trending
+- Top: metabase&#x2F;metabase
+
 ### [2026-11-03](../archive/2026/11/2026-11-03.md)
 - 21 repositories trending
 - Top: git&#x2F;git
@@ -150,10 +154,6 @@
 - 36 repositories trending
 - Top: ruvnet&#x2F;RuView
 
-### [2026-10-28](../archive/2026/10/2026-10-28.md)
-- 28 repositories trending
-- Top: ruvnet&#x2F;RuView
-
 
 ---
 
@@ -163,14 +163,14 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 75 days | 2026-08-01 | 2026-11-03 |
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 75 days | 2026-08-01 | 2026-11-03 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 72 days | 2026-08-01 | 2026-11-03 |
+| [apache/spark](../repos/apache/spark.md) | 76 days | 2026-08-01 | 2026-11-04 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 76 days | 2026-08-01 | 2026-11-04 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 73 days | 2026-08-01 | 2026-11-04 |
 | [logseq/logseq](../repos/logseq/logseq.md) | 71 days | 2026-08-01 | 2026-11-03 |
-| [vlang/v](../repos/vlang/v.md) | 69 days | 2026-08-01 | 2026-11-02 |
-| [vim/vim](../repos/vim/vim.md) | 63 days | 2026-08-01 | 2026-11-03 |
+| [vlang/v](../repos/vlang/v.md) | 70 days | 2026-08-01 | 2026-11-04 |
+| [vim/vim](../repos/vim/vim.md) | 64 days | 2026-08-01 | 2026-11-04 |
 | [joernio/joern](../repos/joernio/joern.md) | 62 days | 2026-08-01 | 2026-11-03 |
-| [apple/swift-crypto](../repos/apple/swift-crypto.md) | 57 days | 2026-08-01 | 2026-11-03 |
+| [apple/swift-crypto](../repos/apple/swift-crypto.md) | 58 days | 2026-08-01 | 2026-11-04 |
 | [firezone/firezone](../repos/firezone/firezone.md) | 51 days | 2026-08-02 | 2026-11-03 |
 | [facebook/infer](../repos/facebook/infer.md) | 41 days | 2026-08-02 | 2026-10-25 |
 
@@ -186,7 +186,7 @@
 - **C++**: 15 repositories (5%)
 
 ### Trending Frequency
-- **Daily Average**: 29.6 repositories
+- **Daily Average**: 29.5 repositories
 - **Peak Day**: 2026-08-19 (42 repositories)
 - **Growth Rate**: 10% this month
 
@@ -302,4 +302,4 @@
 
 ---
 
-*Last updated: 2026-11-03T21:00:59.357Z*
+*Last updated: 2026-11-04T21:00:57.259Z*
