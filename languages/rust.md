@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 234
+- **Total Repositories**: 235
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-10-28
+- **Last Updated**: 2026-11-05
 
 ---
 
@@ -16,40 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 29,069 | 2026-08-01 | 17 |
+| [openai/codex](../repos/openai/codex.md) | ⭐ 133,337 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [emilk/egui](../repos/emilk/egui.md) | ⭐ 31,993 | 2026-08-02 | 5 |
+| [googleworkspace/cli](../repos/googleworkspace/cli.md) | ⭐ 32,128 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 45,523 | 2026-08-02 | 15 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 45,804 | 2026-08-02 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [janhq/jan](../repos/janhq/jan.md) | ⭐ 45,444 | 2026-08-26 | 3 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 103,801 | 2026-08-05 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 10,965 | 2026-08-26 | 17 |
+| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 11,450 | 2026-08-26 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [martin-olivier/airgorah](../repos/martin-olivier/airgorah.md) | ⭐ 5,009 | 2026-09-13 | 9 |
+| [longbridge/gpui-kit](../repos/longbridge/gpui-kit.md) | ⭐ 19,372 | 2026-09-04 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hydro-project/infinity](../repos/hydro-project/infinity.md) | ⭐ 683 | 2026-10-29 | 2 |
+| [vercel-labs/agent-desktop](../repos/vercel-labs/agent-desktop.md) | ⭐ 16,683 | 2026-11-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-desktop](../repos/vercel-labs/agent-desktop.md) | ⭐ 14,802 | 2026-11-02 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Duecki1/CalibRaw](../repos/Duecki1/CalibRaw.md) | ⭐ 287 | 2026-11-02 | 2 |
+| [tembo/voxl](../repos/tembo/voxl.md) | ⭐ 1,158 | 2026-11-05 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [storytold/artcraft](../repos/storytold/artcraft.md) | ⭐ 27,737 | 2026-10-06 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [eolix/photosuite](../repos/eolix/photosuite.md) | ⭐ 886 | 2026-10-07 | A desktop image editor, faithful to classic Adobe Photoshop, with native PSD&#x2F;PSB compatibility |
@@ -77,6 +71,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [vosen/ZLUDA](../repos/vosen/ZLUDA.md) | ⭐ 15,052 | 2026-10-14 | CUDA on non-NVIDIA GPUs |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [pollen-robotics/microduck](../repos/pollen-robotics/microduck.md) | ⭐ 12,745 | 2026-10-16 | A Tiny biped duck robot 🦆 |
 
 
 ---
@@ -85,12 +82,12 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex](../repos/openai/codex.md) | ⭐ 131,433 | 2026-08-01 | 18 |
+| [openai/codex](../repos/openai/codex.md) | ⭐ 133,337 | 2026-08-01 | 19 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 119,946 | 2026-07-30 | 11 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,322 | 2026-07-30 | 3 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 103,801 | 2026-08-05 | 29 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 101,543 | 2026-08-09 | 21 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 96,300 | 2026-08-11 | 9 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 95,105 | 2026-08-05 | 28 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 91,084 | 2026-07-31 | 7 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
@@ -103,8 +100,8 @@
 | [bevyengine/bevy](../repos/bevyengine/bevy.md) | ⭐ 48,449 | 2026-08-28 | 3 |
 | [herdrdev/herdr](../repos/herdrdev/herdr.md) | ⭐ 47,738 | 2026-11-03 | 1 |
 | [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 46,418 | 2026-08-28 | 2 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 45,804 | 2026-08-02 | 16 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 45,552 | 2026-08-05 | 11 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 45,523 | 2026-08-02 | 15 |
 
 ---
 
@@ -112,15 +109,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 28 | ⭐ 95,105 | 2026-08-05 | 2026-10-29 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 29 | ⭐ 103,801 | 2026-08-05 | 2026-11-05 |
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 22 | ⭐ 24,202 | 2026-08-08 | 2026-10-25 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 21 | ⭐ 101,543 | 2026-08-09 | 2026-10-29 |
-| [openai/codex](../repos/openai/codex.md) | 18 | ⭐ 131,433 | 2026-08-01 | 2026-10-28 |
+| [openai/codex](../repos/openai/codex.md) | 19 | ⭐ 133,337 | 2026-08-01 | 2026-11-05 |
+| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 18 | ⭐ 11,450 | 2026-08-26 | 2026-11-05 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 17 | ⭐ 29,069 | 2026-08-01 | 2026-11-04 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 17 | ⭐ 42,354 | 2026-08-10 | 2026-10-26 |
-| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 17 | ⭐ 10,965 | 2026-08-26 | 2026-11-04 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 16 | ⭐ 45,804 | 2026-08-02 | 2026-11-05 |
 | [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | 16 | ⭐ 12,999 | 2026-08-17 | 2026-10-23 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 15 | ⭐ 45,523 | 2026-08-02 | 2026-11-04 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 15 | ⭐ 30,895 | 2026-08-03 | 2026-10-26 |
 
 ---
@@ -230,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-11-04T21:00:57.531Z*
+*Last updated: 2026-11-05T21:00:57.433Z*

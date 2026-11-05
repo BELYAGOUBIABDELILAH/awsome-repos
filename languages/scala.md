@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 73
+- **Total Repositories**: 74
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-04
+- **Last Updated**: 2026-11-05
 
 ---
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/gluten](../repos/apache/gluten.md) | ⭐ 1,616 | 2026-08-01 | 59 |
+| [NVIDIA/cudf-spark](../repos/NVIDIA/cudf-spark.md) | ⭐ 1,011 | 2026-08-01 | 47 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 74,010 | 2026-08-01 | 59 |
+| [apache/gluten](../repos/apache/gluten.md) | ⭐ 1,617 | 2026-08-01 | 60 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,367 | 2026-08-01 | 58 |
+| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 74,010 | 2026-08-01 | 60 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [canton-network/splice](../repos/canton-network/splice.md) | ⭐ 122 | 2026-08-01 | 35 |
+| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,368 | 2026-08-01 | 59 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,417 | 2026-08-01 | 76 |
+| [canton-network/splice](../repos/canton-network/splice.md) | ⭐ 121 | 2026-08-01 | 36 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,943 | 2026-08-02 | 64 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,431 | 2026-08-01 | 77 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/datafusion-comet](../repos/apache/datafusion-comet.md) | ⭐ 1,314 | 2026-08-02 | 54 |
+| [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,947 | 2026-08-02 | 65 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zio/zio](../repos/zio/zio.md) | ⭐ 4,433 | 2026-08-02 | 26 |
+| [zio/zio](../repos/zio/zio.md) | ⭐ 4,434 | 2026-08-02 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [scalapb/ScalaPB](../repos/scalapb/ScalaPB.md) | ⭐ 1,341 | 2026-08-04 | 20 |
+| [apache/openwhisk](../repos/apache/openwhisk.md) | ⭐ 6,805 | 2026-08-05 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenXiangShan/XiangShanLab](../repos/OpenXiangShan/XiangShanLab.md) | ⭐ 62 | 2026-09-08 | 7 |
+| [OpenXiangShan/XiangShanLab](../repos/OpenXiangShan/XiangShanLab.md) | ⭐ 62 | 2026-09-08 | 8 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [SpinalHDL/SpinalHDL](../repos/SpinalHDL/SpinalHDL.md) | ⭐ 2,051 | 2026-10-06 | Scala based HDL |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [d2iq-archive/marathon](../repos/d2iq-archive/marathon.md) | ⭐ 4,025 | 2026-10-07 | Deploy and manage containers (including Docker) on top of Apache Mesos at scale. |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [scala-native/scala-native](../repos/scala-native/scala-native.md) | ⭐ 4,706 | 2026-11-02 | Your favorite language gets closer to bare metal. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [JohnSnowLabs/spark-nlp](../repos/JohnSnowLabs/spark-nlp.md) | ⭐ 4,160 | 2026-11-04 | State of the Art Natural Language Processing |
 
 
 ---
@@ -88,9 +88,9 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 74,010 | 2026-08-01 | 59 |
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,417 | 2026-08-01 | 76 |
-| [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,943 | 2026-08-02 | 64 |
+| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 74,010 | 2026-08-01 | 60 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,431 | 2026-08-01 | 77 |
+| [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,947 | 2026-08-02 | 65 |
 | [scala/scala](../repos/scala/scala.md) | ⭐ 14,535 | 2026-08-01 | 42 |
 | [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,283 | 2026-08-01 | 32 |
 | [apache/predictionio](../repos/apache/predictionio.md) | ⭐ 12,518 | 2026-09-02 | 13 |
@@ -98,10 +98,10 @@
 | [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | ⭐ 9,417 | 2026-08-01 | 37 |
 | [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 9,063 | 2026-08-01 | 60 |
 | [twitter/finagle](../repos/twitter/finagle.md) | ⭐ 8,869 | 2026-08-20 | 9 |
-| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,367 | 2026-08-01 | 58 |
+| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,368 | 2026-08-01 | 59 |
 | [snowplow/snowplow](../repos/snowplow/snowplow.md) | ⭐ 7,048 | 2026-08-11 | 10 |
 | [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,955 | 2026-08-01 | 43 |
-| [apache/openwhisk](../repos/apache/openwhisk.md) | ⭐ 6,803 | 2026-08-05 | 8 |
+| [apache/openwhisk](../repos/apache/openwhisk.md) | ⭐ 6,805 | 2026-08-05 | 9 |
 | [scala/scala3](../repos/scala/scala3.md) | ⭐ 6,330 | 2026-08-01 | 36 |
 | [guardian/frontend](../repos/guardian/frontend.md) | ⭐ 5,899 | 2026-08-03 | 31 |
 | [fpinscala/fpinscala](../repos/fpinscala/fpinscala.md) | ⭐ 5,860 | 2026-09-03 | 3 |
@@ -115,15 +115,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [apache/spark](../repos/apache/spark.md) | 76 | ⭐ 44,417 | 2026-08-01 | 2026-11-04 |
-| [lichess-org/lila](../repos/lichess-org/lila.md) | 64 | ⭐ 18,943 | 2026-08-02 | 2026-11-04 |
+| [apache/spark](../repos/apache/spark.md) | 77 | ⭐ 44,431 | 2026-08-01 | 2026-11-05 |
+| [lichess-org/lila](../repos/lichess-org/lila.md) | 65 | ⭐ 18,947 | 2026-08-02 | 2026-11-05 |
 | [joernio/joern](../repos/joernio/joern.md) | 62 | ⭐ 3,616 | 2026-08-01 | 2026-11-03 |
 | [delta-io/delta](../repos/delta-io/delta.md) | 60 | ⭐ 9,063 | 2026-08-01 | 2026-10-29 |
-| [apache/gluten](../repos/apache/gluten.md) | 59 | ⭐ 1,616 | 2026-08-01 | 2026-11-04 |
-| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | 59 | ⭐ 74,010 | 2026-08-01 | 2026-11-04 |
-| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | 58 | ⭐ 7,367 | 2026-08-01 | 2026-11-04 |
+| [apache/gluten](../repos/apache/gluten.md) | 60 | ⭐ 1,617 | 2026-08-01 | 2026-11-05 |
+| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | 60 | ⭐ 74,010 | 2026-08-01 | 2026-11-05 |
+| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | 59 | ⭐ 7,368 | 2026-08-01 | 2026-11-05 |
 | [apache/datafusion-comet](../repos/apache/datafusion-comet.md) | 54 | ⭐ 1,314 | 2026-08-02 | 2026-11-04 |
-| [NVIDIA/cudf-spark](../repos/NVIDIA/cudf-spark.md) | 46 | ⭐ 1,012 | 2026-08-01 | 2026-10-29 |
+| [NVIDIA/cudf-spark](../repos/NVIDIA/cudf-spark.md) | 47 | ⭐ 1,011 | 2026-08-01 | 2026-11-05 |
 | [gatling/gatling](../repos/gatling/gatling.md) | 43 | ⭐ 6,955 | 2026-08-01 | 2026-10-26 |
 
 ---
@@ -203,7 +203,8 @@
 - [apache/pekko](../repos/apache/pekko.md) - Build highly concurrent, distributed, and resilient message-driven applications using Java&#x2F;Scala
 - [scala-native/scala-native](../repos/scala-native/scala-native.md) - Your favorite language gets closer to bare metal.
 - [JohnSnowLabs/spark-nlp](../repos/JohnSnowLabs/spark-nlp.md) - State of the Art Natural Language Processing
+- [NetLogo/NetLogo](../repos/NetLogo/NetLogo.md) - turtles, patches, and links for kids, teachers, and scientists
 
 ---
 
-*Last updated: 2026-11-04T21:00:57.532Z*
+*Last updated: 2026-11-05T21:00:57.434Z*

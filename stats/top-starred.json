@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T21:01:03.424Z",
+  "generated_at": "2026-11-05T21:01:02.146Z",
   "total_count": 100,
   "repositories": [
     {
@@ -137,10 +137,10 @@
       "full_name": "tensorflow/tensorflow",
       "owner": "tensorflow",
       "name": "tensorflow",
-      "stars": 201305,
+      "stars": 201319,
       "language": "C++",
       "first_seen": "2026-07-30",
-      "trending_days": 30
+      "trending_days": 31
     },
     {
       "rank": 15,
@@ -287,10 +287,10 @@
       "full_name": "github/spec-kit",
       "owner": "github",
       "name": "spec-kit",
-      "stars": 147211,
+      "stars": 147818,
       "language": "Python",
       "first_seen": "2026-08-14",
-      "trending_days": 12
+      "trending_days": 13
     },
     {
       "rank": 30,
@@ -354,6 +354,26 @@
     },
     {
       "rank": 36,
+      "full_name": "garrytan/gstack",
+      "owner": "garrytan",
+      "name": "gstack",
+      "stars": 139870,
+      "language": "TypeScript",
+      "first_seen": "2026-08-02",
+      "trending_days": 18
+    },
+    {
+      "rank": 37,
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "owner": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "stars": 139731,
+      "language": "Python",
+      "first_seen": "2026-08-01",
+      "trending_days": 19
+    },
+    {
+      "rank": 38,
       "full_name": "golang/go",
       "owner": "golang",
       "name": "go",
@@ -361,26 +381,6 @@
       "language": "Go",
       "first_seen": "2026-07-31",
       "trending_days": 17
-    },
-    {
-      "rank": 37,
-      "full_name": "garrytan/gstack",
-      "owner": "garrytan",
-      "name": "gstack",
-      "stars": 139262,
-      "language": "TypeScript",
-      "first_seen": "2026-08-02",
-      "trending_days": 17
-    },
-    {
-      "rank": 38,
-      "full_name": "harry0703/MoneyPrinterTurbo",
-      "owner": "harry0703",
-      "name": "MoneyPrinterTurbo",
-      "stars": 138853,
-      "language": "Python",
-      "first_seen": "2026-08-01",
-      "trending_days": 18
     },
     {
       "rank": 39,
@@ -394,6 +394,16 @@
     },
     {
       "rank": 40,
+      "full_name": "openai/codex",
+      "owner": "openai",
+      "name": "codex",
+      "stars": 133337,
+      "language": "Rust",
+      "first_seen": "2026-08-01",
+      "trending_days": 19
+    },
+    {
+      "rank": 41,
       "full_name": "ggml-org/llama.cpp",
       "owner": "ggml-org",
       "name": "llama.cpp",
@@ -403,7 +413,7 @@
       "trending_days": 33
     },
     {
-      "rank": 41,
+      "rank": 42,
       "full_name": "krahets/hello-algo",
       "owner": "krahets",
       "name": "hello-algo",
@@ -411,16 +421,6 @@
       "language": "Java",
       "first_seen": "2026-08-04",
       "trending_days": 16
-    },
-    {
-      "rank": 42,
-      "full_name": "openai/codex",
-      "owner": "openai",
-      "name": "codex",
-      "stars": 131433,
-      "language": "Rust",
-      "first_seen": "2026-08-01",
-      "trending_days": 18
     },
     {
       "rank": 43,
@@ -497,10 +497,10 @@
       "full_name": "immich-app/immich",
       "owner": "immich-app",
       "name": "immich",
-      "stars": 118046,
+      "stars": 118331,
       "language": "TypeScript",
       "first_seen": "2026-08-17",
-      "trending_days": 4
+      "trending_days": 5
     },
     {
       "rank": 51,
@@ -664,6 +664,16 @@
     },
     {
       "rank": 67,
+      "full_name": "pbakaus/impeccable",
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "stars": 103801,
+      "language": "Rust",
+      "first_seen": "2026-08-05",
+      "trending_days": 29
+    },
+    {
+      "rank": 68,
       "full_name": "stablyai/orca",
       "owner": "stablyai",
       "name": "orca",
@@ -673,7 +683,7 @@
       "trending_days": 23
     },
     {
-      "rank": 68,
+      "rank": 69,
       "full_name": "fastapi/fastapi",
       "owner": "fastapi",
       "name": "fastapi",
@@ -683,7 +693,7 @@
       "trending_days": 2
     },
     {
-      "rank": 69,
+      "rank": 70,
       "full_name": "react/create-react-app",
       "owner": "react",
       "name": "create-react-app",
@@ -693,7 +703,7 @@
       "trending_days": 1
     },
     {
-      "rank": 70,
+      "rank": 71,
       "full_name": "ruvnet/RuView",
       "owner": "ruvnet",
       "name": "RuView",
@@ -703,7 +713,7 @@
       "trending_days": 21
     },
     {
-      "rank": 71,
+      "rank": 72,
       "full_name": "angular/angular",
       "owner": "angular",
       "name": "angular",
@@ -713,7 +723,7 @@
       "trending_days": 4
     },
     {
-      "rank": 72,
+      "rank": 73,
       "full_name": "microsoft/playwright",
       "owner": "microsoft",
       "name": "playwright",
@@ -723,7 +733,7 @@
       "trending_days": 2
     },
     {
-      "rank": 73,
+      "rank": 74,
       "full_name": "NationalSecurityAgency/ghidra",
       "owner": "NationalSecurityAgency",
       "name": "ghidra",
@@ -733,7 +743,7 @@
       "trending_days": 30
     },
     {
-      "rank": 74,
+      "rank": 75,
       "full_name": "tailwindlabs/tailwindcss",
       "owner": "tailwindlabs",
       "name": "tailwindcss",
@@ -743,7 +753,7 @@
       "trending_days": 3
     },
     {
-      "rank": 75,
+      "rank": 76,
       "full_name": "microsoft/Web-Dev-For-Beginners",
       "owner": "microsoft",
       "name": "Web-Dev-For-Beginners",
@@ -753,7 +763,7 @@
       "trending_days": 3
     },
     {
-      "rank": 76,
+      "rank": 77,
       "full_name": "localsend/localsend",
       "owner": "localsend",
       "name": "localsend",
@@ -763,7 +773,7 @@
       "trending_days": 35
     },
     {
-      "rank": 77,
+      "rank": 78,
       "full_name": "oven-sh/bun",
       "owner": "oven-sh",
       "name": "bun",
@@ -773,17 +783,17 @@
       "trending_days": 9
     },
     {
-      "rank": 78,
+      "rank": 79,
       "full_name": "nvm-sh/nvm",
       "owner": "nvm-sh",
       "name": "nvm",
-      "stars": 95756,
+      "stars": 95765,
       "language": "Shell",
       "first_seen": "2026-08-01",
-      "trending_days": 46
+      "trending_days": 47
     },
     {
-      "rank": 79,
+      "rank": 80,
       "full_name": "puppeteer/puppeteer",
       "owner": "puppeteer",
       "name": "puppeteer",
@@ -791,16 +801,6 @@
       "language": "TypeScript",
       "first_seen": "2026-08-22",
       "trending_days": 1
-    },
-    {
-      "rank": 80,
-      "full_name": "pbakaus/impeccable",
-      "owner": "pbakaus",
-      "name": "impeccable",
-      "stars": 95105,
-      "language": "Rust",
-      "first_seen": "2026-08-05",
-      "trending_days": 28
     },
     {
       "rank": 81,

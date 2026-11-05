@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 230
+- **Total Repositories**: 231
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-02
 
@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vedderb/bldc](../repos/vedderb/bldc.md) | ⭐ 3,559 | 2026-08-05 | 5 |
+| [lz4/lz4](../repos/lz4/lz4.md) | ⭐ 12,338 | 2026-08-05 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [radareorg/radare2](../repos/radareorg/radare2.md) | ⭐ 25,315 | 2026-08-05 | 8 |
+| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 29,094 | 2026-08-09 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dorianborian/sesame-robot](../repos/dorianborian/sesame-robot.md) | ⭐ 4,949 | 2026-08-15 | 13 |
+| [FreeRDP/FreeRDP](../repos/FreeRDP/FreeRDP.md) | ⭐ 13,978 | 2026-08-20 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 47,691 | 2026-09-01 | 23 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 48,141 | 2026-09-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YizhengWw/HachimoDock](../repos/YizhengWw/HachimoDock.md) | ⭐ 853 | 2026-11-03 | 2 |
+| [FareedKhan-dev/kimi-k3-in-c](../repos/FareedKhan-dev/kimi-k3-in-c.md) | ⭐ 10,724 | 2026-11-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FareedKhan-dev/kimi-k3-in-c](../repos/FareedKhan-dev/kimi-k3-in-c.md) | ⭐ 10,204 | 2026-11-04 | 1 |
+| [unkyulee/micro-journal](../repos/unkyulee/micro-journal.md) | ⭐ 1,071 | 2026-11-05 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [n64decomp/sm64](../repos/n64decomp/sm64.md) | ⭐ 8,823 | 2026-10-06 | A Super Mario 64 decompilation, brought to you by a bunch of clever folks. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [LongSoft/UEFITool](../repos/LongSoft/UEFITool.md) | ⭐ 5,729 | 2026-10-06 | UEFI firmware image viewer and editor |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [am32-firmware/AM32](../repos/am32-firmware/AM32.md) | ⭐ 983 | 2026-10-07 |  |
@@ -68,6 +62,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Zelda64Recomp/Zelda64Recomp](../repos/Zelda64Recomp/Zelda64Recomp.md) | ⭐ 7,477 | 2026-10-13 | Static recompilation of Majora&#39;s Mask (and soon Ocarina of Time) for PC (Windows&#x2F;Linux&#x2F;Mac) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [rogerbinns/apsw](../repos/rogerbinns/apsw.md) | ⭐ 938 | 2026-10-13 | Another Python SQLite wrapper |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [timescale/pg_vectorsearch](../repos/timescale/pg_vectorsearch.md) | ⭐ 368 | 2026-10-16 | High-performance vector search for PostgreSQL |
 
 
 ---
@@ -83,7 +83,7 @@
 | [redis/redis](../repos/redis/redis.md) | ⭐ 77,090 | 2026-08-04 | 10 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 75,752 | 2026-08-01 | 26 |
 | [git/git](../repos/git/git.md) | ⭐ 64,135 | 2026-08-05 | 10 |
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 47,691 | 2026-09-01 | 23 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 48,141 | 2026-09-01 | 24 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 47,337 | 2026-08-07 | 26 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 41,534 | 2026-08-01 | 12 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
@@ -95,7 +95,7 @@
 | [lizongying/my-tv](../repos/lizongying/my-tv.md) | ⭐ 31,960 | 2026-08-17 | 2 |
 | [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,952 | 2026-08-02 | 9 |
 | [coolsnowwolf/lede](../repos/coolsnowwolf/lede.md) | ⭐ 31,611 | 2026-08-16 | 3 |
-| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,877 | 2026-08-09 | 14 |
+| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 29,094 | 2026-08-09 | 15 |
 
 ---
 
@@ -108,7 +108,7 @@
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 26 | ⭐ 75,752 | 2026-08-01 | 2026-10-28 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 26 | ⭐ 47,337 | 2026-08-07 | 2026-10-23 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 24 | ⭐ 140,224 | 2026-08-01 | 2026-10-29 |
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | 23 | ⭐ 47,691 | 2026-09-01 | 2026-11-04 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | 24 | ⭐ 48,141 | 2026-09-01 | 2026-11-05 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 21 | ⭐ 28,089 | 2026-08-07 | 2026-10-23 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 19 | ⭐ 7,021 | 2026-08-04 | 2026-10-23 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 18 | ⭐ 78,208 | 2026-08-02 | 2026-10-25 |
@@ -221,4 +221,4 @@
 
 ---
 
-*Last updated: 2026-11-04T21:00:57.444Z*
+*Last updated: 2026-11-05T21:00:57.369Z*

@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PHPMailer/PHPMailer](../repos/PHPMailer/PHPMailer.md) | ⭐ 22,342 | 2026-08-01 | 15 |
+| [glpi-project/glpi](../repos/glpi-project/glpi.md) | ⭐ 6,561 | 2026-08-01 | 42 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,330 | 2026-08-01 | 29 |
+| [WordPress/mcp-adapter](../repos/WordPress/mcp-adapter.md) | ⭐ 1,905 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opensourcepos/opensourcepos](../repos/opensourcepos/opensourcepos.md) | ⭐ 4,498 | 2026-08-02 | 14 |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 22,009 | 2026-08-01 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [filamentphp/filament](../repos/filamentphp/filament.md) | ⭐ 32,417 | 2026-08-02 | 28 |
+| [lizhipay/acg-faka](../repos/lizhipay/acg-faka.md) | ⭐ 5,891 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shopware/shopware](../repos/shopware/shopware.md) | ⭐ 3,468 | 2026-08-04 | 8 |
+| [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,231 | 2026-08-02 | 37 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,700 | 2026-08-04 | 23 |
+| [filamentphp/filament](../repos/filamentphp/filament.md) | ⭐ 32,424 | 2026-08-02 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [espocrm/espocrm](../repos/espocrm/espocrm.md) | ⭐ 3,548 | 2026-08-06 | 21 |
+| [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,714 | 2026-08-04 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [woocommerce/woocommerce](../repos/woocommerce/woocommerce.md) | ⭐ 10,582 | 2026-08-06 | 25 |
+| [wallabag/wallabag](../repos/wallabag/wallabag.md) | ⭐ 13,051 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 24,107 | 2026-08-07 | 23 |
+| [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 24,111 | 2026-08-07 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kanboard/kanboard](../repos/kanboard/kanboard.md) | ⭐ 9,938 | 2026-08-20 | 11 |
+| [metadist/synaplan](../repos/metadist/synaplan.md) | ⭐ 610 | 2026-09-09 | 13 |
 
 
 ---
@@ -91,22 +91,22 @@
 | [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 57,493 | 2026-08-01 | 3 |
 | [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 37,397 | 2026-08-02 | 37 |
 | [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,988 | 2026-08-01 | 39 |
-| [filamentphp/filament](../repos/filamentphp/filament.md) | ⭐ 32,417 | 2026-08-02 | 28 |
-| [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,217 | 2026-08-02 | 36 |
+| [filamentphp/filament](../repos/filamentphp/filament.md) | ⭐ 32,424 | 2026-08-02 | 29 |
+| [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,231 | 2026-08-02 | 37 |
 | [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,330 | 2026-08-01 | 29 |
-| [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,700 | 2026-08-04 | 23 |
-| [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 24,107 | 2026-08-07 | 23 |
+| [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,714 | 2026-08-04 | 24 |
+| [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 24,111 | 2026-08-07 | 24 |
 | [guzzle/guzzle](../repos/guzzle/guzzle.md) | ⭐ 23,445 | 2026-10-20 | 1 |
 | [PHPMailer/PHPMailer](../repos/PHPMailer/PHPMailer.md) | ⭐ 22,342 | 2026-08-01 | 15 |
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,984 | 2026-08-01 | 29 |
-| [koel/koel](../repos/koel/koel.md) | ⭐ 17,314 | 2026-09-28 | 3 |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 22,009 | 2026-08-01 | 30 |
+| [koel/koel](../repos/koel/koel.md) | ⭐ 17,333 | 2026-09-28 | 4 |
 | [easychen/opc-methodology](../repos/easychen/opc-methodology.md) | ⭐ 16,886 | 2026-08-04 | 8 |
 | [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 16,501 | 2026-08-02 | 27 |
 | [getgrav/grav](../repos/getgrav/grav.md) | ⭐ 15,672 | 2026-08-12 | 7 |
 | [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 15,109 | 2026-08-01 | 31 |
 | [PHPOffice/PhpSpreadsheet](../repos/PHPOffice/PhpSpreadsheet.md) | ⭐ 14,005 | 2026-08-19 | 7 |
 | [PHP-CS-Fixer/PHP-CS-Fixer](../repos/PHP-CS-Fixer/PHP-CS-Fixer.md) | ⭐ 13,565 | 2026-08-04 | 5 |
-| [wallabag/wallabag](../repos/wallabag/wallabag.md) | ⭐ 13,031 | 2026-08-05 | 4 |
+| [wallabag/wallabag](../repos/wallabag/wallabag.md) | ⭐ 13,051 | 2026-08-05 | 5 |
 | [SpartnerNL/Laravel-Excel](../repos/SpartnerNL/Laravel-Excel.md) | ⭐ 12,699 | 2026-08-09 | 1 |
 
 ---
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [glpi-project/glpi](../repos/glpi-project/glpi.md) | 41 | ⭐ 6,534 | 2026-08-01 | 2026-10-29 |
+| [glpi-project/glpi](../repos/glpi-project/glpi.md) | 42 | ⭐ 6,561 | 2026-08-01 | 2026-11-05 |
 | [laravel/framework](../repos/laravel/framework.md) | 39 | ⭐ 34,988 | 2026-08-01 | 2026-10-29 |
+| [symfony/symfony](../repos/symfony/symfony.md) | 37 | ⭐ 31,231 | 2026-08-02 | 2026-11-05 |
 | [nextcloud/server](../repos/nextcloud/server.md) | 37 | ⭐ 37,397 | 2026-08-02 | 2026-11-02 |
-| [symfony/symfony](../repos/symfony/symfony.md) | 36 | ⭐ 31,217 | 2026-08-02 | 2026-11-02 |
 | [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | 34 | ⭐ 10,781 | 2026-08-09 | 2026-11-03 |
 | [grokability/snipe-it](../repos/grokability/snipe-it.md) | 31 | ⭐ 15,109 | 2026-08-01 | 2026-10-28 |
 | [WordPress/wordpress-develop](../repos/WordPress/wordpress-develop.md) | 30 | ⭐ 3,496 | 2026-08-01 | 2026-10-29 |
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | 29 | ⭐ 21,984 | 2026-08-01 | 2026-10-26 |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | 30 | ⭐ 22,009 | 2026-08-01 | 2026-11-05 |
 | [bagisto/bagisto](../repos/bagisto/bagisto.md) | 29 | ⭐ 28,330 | 2026-08-01 | 2026-11-04 |
-| [filamentphp/filament](../repos/filamentphp/filament.md) | 28 | ⭐ 32,417 | 2026-08-02 | 2026-11-04 |
+| [filamentphp/filament](../repos/filamentphp/filament.md) | 29 | ⭐ 32,424 | 2026-08-02 | 2026-11-05 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-04T21:00:57.514Z*
+*Last updated: 2026-11-05T21:00:57.420Z*

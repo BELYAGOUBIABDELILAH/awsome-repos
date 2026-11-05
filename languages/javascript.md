@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 183
+- **Total Repositories**: 184
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-29
 
@@ -16,31 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,323 | 2026-07-30 | 14 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 14,077 | 2026-08-02 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 13,832 | 2026-08-02 | 29 |
+| [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 48,207 | 2026-08-08 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [withmarbleapp/os-taxonomy](../repos/withmarbleapp/os-taxonomy.md) | ⭐ 7,587 | 2026-09-12 | 8 |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 32,525 | 2026-08-08 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [michael-denyer/pstack-claude](../repos/michael-denyer/pstack-claude.md) | ⭐ 3,971 | 2026-10-16 | 4 |
+| [chaolucky18/xuexitongScript](../repos/chaolucky18/xuexitongScript.md) | ⭐ 3,807 | 2026-10-09 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jgraph/drawio-desktop](../repos/jgraph/drawio-desktop.md) | ⭐ 63,817 | 2026-11-04 | 1 |
+| [michael-denyer/pstack-claude](../repos/michael-denyer/pstack-claude.md) | ⭐ 4,042 | 2026-10-16 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [csyangwen/dsh-memory-evolve](../repos/csyangwen/dsh-memory-evolve.md) | ⭐ 627 | 2026-11-03 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [HunYiSage/dsh-purge](../repos/HunYiSage/dsh-purge.md) | ⭐ 19,085 | 2026-11-05 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Joooook/12306-mcp](../repos/Joooook/12306-mcp.md) | ⭐ 2,289 | 2026-10-06 | This is a 12306 ticket search server based on the Model Context Protocol (MCP). |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [kanoqwq/UFI-TOOLS](../repos/kanoqwq/UFI-TOOLS.md) | ⭐ 2,577 | 2026-10-06 | A functional tools for z*e devices (F50 | U30 Air) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [MobSF/Mobile-Security-Framework-MobSF](../repos/MobSF/Mobile-Security-Framework-MobSF.md) | ⭐ 21,899 | 2026-10-07 | Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android&#x2F;iOS&#x2F;Win... |
@@ -52,7 +52,7 @@
 | [chuspeeism/dashi-taskboard](../repos/chuspeeism/dashi-taskboard.md) | ⭐ 3,313 | 2026-10-09 | 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [chaolucky18/xuexitongScript](../repos/chaolucky18/xuexitongScript.md) | ⭐ 2,884 | 2026-10-09 | 学习通自动刷课脚本 |
+| [chaolucky18/xuexitongScript](../repos/chaolucky18/xuexitongScript.md) | ⭐ 3,807 | 2026-10-09 | 学习通自动刷课脚本 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [songquanpeng/one-api](../repos/songquanpeng/one-api.md) | ⭐ 37,105 | 2026-10-09 | LLM API 管理 &amp; 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、... |
@@ -65,6 +65,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [JoeanAmier/TikTokDownloader](../repos/JoeanAmier/TikTokDownloader.md) | ⭐ 16,745 | 2026-10-12 | 抖音 &#x2F; TikTok 平台作品下载&#x2F;数据采集工具 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [truelockmc/streambert](../repos/truelockmc/streambert.md) | ⭐ 6,259 | 2026-10-13 | A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 59,798 | 2026-10-14 | jQuery JavaScript Library |
 
 
 ---
@@ -101,7 +107,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 34 | ⭐ 112,798 | 2026-08-05 | 2026-11-02 |
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 29 | ⭐ 13,832 | 2026-08-02 | 2026-11-04 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 30 | ⭐ 14,077 | 2026-08-02 | 2026-11-05 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 22 | ⭐ 90,383 | 2026-08-04 | 2026-10-27 |
 | [byoungd/up](../repos/byoungd/up.md) | 19 | ⭐ 69,556 | 2026-08-01 | 2026-10-27 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
@@ -109,7 +115,7 @@
 | [vercel/next.js](../repos/vercel/next.js.md) | 14 | ⭐ 143,323 | 2026-07-30 | 2026-11-04 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 14 | ⭐ 5,119 | 2026-08-07 | 2026-10-20 |
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | 14 | ⭐ 60,381 | 2026-08-27 | 2026-10-26 |
-| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | 13 | ⭐ 36,212 | 2026-08-16 | 2026-10-29 |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 13 | ⭐ 32,525 | 2026-08-08 | 2026-11-05 |
 
 ---
 
@@ -218,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-11-04T21:00:57.492Z*
+*Last updated: 2026-11-05T21:00:57.403Z*

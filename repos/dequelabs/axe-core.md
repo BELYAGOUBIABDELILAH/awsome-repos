@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | HTML |
 | **License** | MPL-2.0 |
-| **Stars** | ⭐ 7,640 |
-| **Forks** | 🍴 957 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 7,764 |
+| **Forks** | 🍴 978 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 3, 2026 |
-| **Last Seen** | Oct 13, 2026 |
+| **Last Seen** | Nov 5, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 1 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 50&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-04T21:01:02.521Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-11-05T21:01:01.408Z*  
+*Data from 4 trending reports*

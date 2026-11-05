@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 50
+- **Total Repositories**: 51
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-03
+- **Last Updated**: 2026-11-05
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pret/pokered](../repos/pret/pokered.md) | ⭐ 5,019 | 2026-08-01 | 50 |
+| [pret/pokered](../repos/pret/pokered.md) | ⭐ 5,019 | 2026-08-01 | 51 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | ⭐ 461 | 2026-08-01 | 64 |
+| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | ⭐ 460 | 2026-08-01 | 65 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aws/aws-lc](../repos/aws/aws-lc.md) | ⭐ 861 | 2026-08-01 | 55 |
+| [aws/aws-lc](../repos/aws/aws-lc.md) | ⭐ 862 | 2026-08-01 | 56 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,741 | 2026-08-01 | 58 |
+| [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,741 | 2026-08-01 | 59 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | ⭐ 2,240 | 2026-08-01 | 42 |
+| [espressif/esp-dl](../repos/espressif/esp-dl.md) | ⭐ 1,208 | 2026-08-01 | 37 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [espressif/esp-dl](../repos/espressif/esp-dl.md) | ⭐ 1,206 | 2026-08-01 | 36 |
+| [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | ⭐ 18,892 | 2026-08-01 | 55 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pret/pokecrystal](../repos/pret/pokecrystal.md) | ⭐ 2,546 | 2026-08-01 | 39 |
+| [pret/pokecrystal](../repos/pret/pokecrystal.md) | ⭐ 2,547 | 2026-08-01 | 40 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | ⭐ 6,509 | 2026-08-01 | 50 |
+| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | ⭐ 6,513 | 2026-08-01 | 51 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ebitengine/purego](../repos/ebitengine/purego.md) | ⭐ 4,085 | 2026-08-04 | 50 |
+| [ebitengine/purego](../repos/ebitengine/purego.md) | ⭐ 4,090 | 2026-08-04 | 51 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Cpasjuste/pemu](../repos/Cpasjuste/pemu.md) | ⭐ 528 | 2026-08-22 | 17 |
+| [apache/arrow-go](../repos/apache/arrow-go.md) | ⭐ 416 | 2026-08-07 | 28 |
 
 
 ---
@@ -56,6 +56,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port](../repos/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port.md) | ⭐ 305 | 2026-11-04 | Native Pikmin Windows&#x2F;Linux&#x2F;Android Port |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [memorysafety/rav1d](../repos/memorysafety/rav1d.md) | ⭐ 650 | 2026-11-05 | An AV1 decoder in Rust. |
 
 
 ---
@@ -64,25 +67,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | ⭐ 18,886 | 2026-08-01 | 54 |
+| [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | ⭐ 18,892 | 2026-08-01 | 55 |
 | [leachim6/hello-world](../repos/leachim6/hello-world.md) | ⭐ 12,015 | 2026-08-02 | 38 |
 | [kanaka/mal](../repos/kanaka/mal.md) | ⭐ 10,757 | 2026-08-11 | 21 |
 | [jmechner/Prince-of-Persia-Apple-II](../repos/jmechner/Prince-of-Persia-Apple-II.md) | ⭐ 6,906 | 2026-09-28 | 3 |
-| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | ⭐ 6,509 | 2026-08-01 | 50 |
-| [pret/pokered](../repos/pret/pokered.md) | ⭐ 5,019 | 2026-08-01 | 50 |
+| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | ⭐ 6,513 | 2026-08-01 | 51 |
+| [pret/pokered](../repos/pret/pokered.md) | ⭐ 5,019 | 2026-08-01 | 51 |
 | [below/HelloSilicon](../repos/below/HelloSilicon.md) | ⭐ 4,994 | 2026-09-02 | 2 |
 | [briansmith/ring](../repos/briansmith/ring.md) | ⭐ 4,107 | 2026-08-01 | 12 |
-| [ebitengine/purego](../repos/ebitengine/purego.md) | ⭐ 4,085 | 2026-08-04 | 50 |
+| [ebitengine/purego](../repos/ebitengine/purego.md) | ⭐ 4,090 | 2026-08-04 | 51 |
 | [virtualagc/virtualagc](../repos/virtualagc/virtualagc.md) | ⭐ 3,332 | 2026-08-01 | 8 |
 | [netwide-assembler/nasm](../repos/netwide-assembler/nasm.md) | ⭐ 3,322 | 2026-09-01 | 8 |
 | [SpinalHDL/VexRiscv](../repos/SpinalHDL/VexRiscv.md) | ⭐ 3,265 | 2026-09-19 | 1 |
 | [openhwfoundation/cva6](../repos/openhwfoundation/cva6.md) | ⭐ 3,177 | 2026-09-19 | 27 |
 | [openhwgroup/cva6](../repos/openhwgroup/cva6.md) | ⭐ 3,111 | 2026-08-01 | 34 |
 | [SheerSt/pokewilds](../repos/SheerSt/pokewilds.md) | ⭐ 2,921 | 2026-08-03 | 17 |
-| [pret/pokecrystal](../repos/pret/pokecrystal.md) | ⭐ 2,546 | 2026-08-01 | 39 |
+| [pret/pokecrystal](../repos/pret/pokecrystal.md) | ⭐ 2,547 | 2026-08-01 | 40 |
 | [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | ⭐ 2,240 | 2026-08-01 | 42 |
 | [PlummersSoftwareLLC/TinyRetroPad](../repos/PlummersSoftwareLLC/TinyRetroPad.md) | ⭐ 1,750 | 2026-08-04 | 15 |
-| [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,741 | 2026-08-01 | 58 |
+| [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,741 | 2026-08-01 | 59 |
 | [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | ⭐ 1,686 | 2026-08-01 | 50 |
 
 ---
@@ -91,14 +94,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | 64 | ⭐ 461 | 2026-08-01 | 2026-11-04 |
-| [apple/swift-crypto](../repos/apple/swift-crypto.md) | 58 | ⭐ 1,741 | 2026-08-01 | 2026-11-04 |
-| [aws/aws-lc](../repos/aws/aws-lc.md) | 55 | ⭐ 861 | 2026-08-01 | 2026-11-04 |
-| [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | 54 | ⭐ 18,886 | 2026-08-01 | 2026-11-03 |
-| [pret/pokered](../repos/pret/pokered.md) | 50 | ⭐ 5,019 | 2026-08-01 | 2026-11-04 |
+| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | 65 | ⭐ 460 | 2026-08-01 | 2026-11-05 |
+| [apple/swift-crypto](../repos/apple/swift-crypto.md) | 59 | ⭐ 1,741 | 2026-08-01 | 2026-11-05 |
+| [aws/aws-lc](../repos/aws/aws-lc.md) | 56 | ⭐ 862 | 2026-08-01 | 2026-11-05 |
+| [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | 55 | ⭐ 18,892 | 2026-08-01 | 2026-11-05 |
+| [pret/pokered](../repos/pret/pokered.md) | 51 | ⭐ 5,019 | 2026-08-01 | 2026-11-05 |
+| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | 51 | ⭐ 6,513 | 2026-08-01 | 2026-11-05 |
+| [ebitengine/purego](../repos/ebitengine/purego.md) | 51 | ⭐ 4,090 | 2026-08-04 | 2026-11-05 |
 | [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | 50 | ⭐ 1,686 | 2026-08-01 | 2026-11-03 |
-| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | 50 | ⭐ 6,509 | 2026-08-01 | 2026-11-04 |
-| [ebitengine/purego](../repos/ebitengine/purego.md) | 50 | ⭐ 4,085 | 2026-08-04 | 2026-11-04 |
 | [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | 42 | ⭐ 2,240 | 2026-08-01 | 2026-11-04 |
 | [riscv/riscv-arch-test](../repos/riscv/riscv-arch-test.md) | 41 | ⭐ 804 | 2026-08-02 | 2026-10-29 |
 
@@ -156,7 +159,8 @@
 - [FireEmblemUniverse/fireemblem8u](../repos/FireEmblemUniverse/fireemblem8u.md) - Decompilation&#x2F;disassembly of Fire Emblem: The Sacred Stones
 - [canassa/betrayal-at-krondor](../repos/canassa/betrayal-at-krondor.md) - Betrayal at Krondor: A byte-perfect recompilation of the 1993 classic.
 - [SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port](../repos/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port.md) - Native Pikmin Windows&#x2F;Linux&#x2F;Android Port
+- [memorysafety/rav1d](../repos/memorysafety/rav1d.md) - An AV1 decoder in Rust.
 
 ---
 
-*Last updated: 2026-11-04T21:00:57.437Z*
+*Last updated: 2026-11-05T21:00:57.363Z*

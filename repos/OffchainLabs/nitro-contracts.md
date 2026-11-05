@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Solidity |
 | **License** | Other |
-| **Stars** | ⭐ 151 |
-| **Forks** | 🍴 158 |
-| **Trending Days** | 16 |
+| **Stars** | ⭐ 152 |
+| **Forks** | 🍴 163 |
+| **Trending Days** | 17 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Sep 13, 2026 |
+| **Last Seen** | Nov 5, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 16
+- **Trending Days**: 17
 - **Longest Streak**: 6 days
 
 ---
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 151+ stars, strong contributor base |
+| **Community** | Very Active | 152+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-04T21:00:59.952Z*  
-*Data from 16 trending reports*
+*Last updated: 2026-11-05T21:00:59.345Z*  
+*Data from 17 trending reports*

@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 198
+**Gems Found**: 179
 
 ---
 
@@ -31,27 +31,7 @@
 
 ---
 
-### 2. [zzet&#x2F;gortex](../../repos/zzet/gortex.md)
-
-**High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https:&#x2F;&#x2F;discord.gg&#x2F;39MFHu3J5d**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,427 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 86/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 4, 2026 |
-
-**Why it's a gem**: High growth velocity (+53 stars&#x2F;day) • Trending 6 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/zzet/gortex.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;zzet&#x2F;gortex)
-
----
-
-### 3. [chaitanyagiri&#x2F;munder-difflin](../../repos/chaitanyagiri/munder-difflin.md)
+### 2. [chaitanyagiri&#x2F;munder-difflin](../../repos/chaitanyagiri/munder-difflin.md)
 
 **local multi-agent harness**
 
@@ -71,7 +51,7 @@
 
 ---
 
-### 4. [marin-community&#x2F;marin](../../repos/marin-community/marin.md)
+### 3. [marin-community&#x2F;marin](../../repos/marin-community/marin.md)
 
 **Open-source framework for the research and development of foundation models.**
 
@@ -91,7 +71,7 @@
 
 ---
 
-### 5. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
+### 4. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
 
 **OCTO Android Client — Open-source enterprise IM**
 
@@ -111,7 +91,7 @@
 
 ---
 
-### 6. [JetBrains&#x2F;go-modern-guidelines](../../repos/JetBrains/go-modern-guidelines.md)
+### 5. [JetBrains&#x2F;go-modern-guidelines](../../repos/JetBrains/go-modern-guidelines.md)
 
 **Help AI coding agents write modern Go**
 
@@ -131,27 +111,7 @@
 
 ---
 
-### 7. [h3nock&#x2F;remux](../../repos/h3nock/remux.md)
-
-**A native iOS client for remote tmux workspaces, designed to feel natural on iPhone.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 423 |
-| 💻 **Language** | Swift |
-| 🏆 **Gem Score** | 77/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Aug 6, 2026 |
-
-**Why it's a gem**: High growth velocity (+77 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/h3nock/remux.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;h3nock&#x2F;remux)
-
----
-
-### 8. [bookorbit&#x2F;bookorbit](../../repos/bookorbit/bookorbit.md)
+### 6. [bookorbit&#x2F;bookorbit](../../repos/bookorbit/bookorbit.md)
 
 **BookOrbit: Your Reading Space**
 
@@ -171,7 +131,7 @@
 
 ---
 
-### 9. [RizRiyz&#x2F;luvus](../../repos/RizRiyz/luvus.md)
+### 7. [RizRiyz&#x2F;luvus](../../repos/RizRiyz/luvus.md)
 
 **Mission control for your AI agents**
 
@@ -191,7 +151,7 @@
 
 ---
 
-### 10. [booklore-app&#x2F;booklore](../../repos/booklore-app/booklore.md)
+### 8. [booklore-app&#x2F;booklore](../../repos/booklore-app/booklore.md)
 
 **BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo &amp; KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.**
 
@@ -211,27 +171,7 @@
 
 ---
 
-### 11. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
-
-**Portable Tool for an Ideal Windows Setup**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,621 |
-| 💻 **Language** | C# |
-| 🏆 **Gem Score** | 75/100 |
-| 📈 **Trending Days** | 2 |
-| 📅 **First Seen** | Aug 24, 2026 |
-
-**Why it's a gem**: High growth velocity (+52 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/Greedeks/GTweak.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Greedeks&#x2F;GTweak)
-
----
-
-### 12. [GCWing&#x2F;BitFun](../../repos/GCWing/BitFun.md)
+### 9. [GCWing&#x2F;BitFun](../../repos/GCWing/BitFun.md)
 
 **BitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.**
 
@@ -251,7 +191,7 @@
 
 ---
 
-### 13. [AgriciDaniel&#x2F;claude-obsidian](../../repos/AgriciDaniel/claude-obsidian.md)
+### 10. [AgriciDaniel&#x2F;claude-obsidian](../../repos/AgriciDaniel/claude-obsidian.md)
 
 **Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy&#39;s LLM Wiki pattern.**
 
@@ -271,7 +211,7 @@
 
 ---
 
-### 14. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
+### 11. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
 
 **Visualize your year in travel using your Google Location History (Timeline) data**
 
@@ -291,7 +231,7 @@
 
 ---
 
-### 15. [Tencent&#x2F;AI-Infra-Guard](../../repos/Tencent/AI-Infra-Guard.md)
+### 12. [Tencent&#x2F;AI-Infra-Guard](../../repos/Tencent/AI-Infra-Guard.md)
 
 **A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.**
 
@@ -311,7 +251,27 @@
 
 ---
 
-### 16. [workweave&#x2F;router](../../repos/workweave/router.md)
+### 13. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
+
+**Portable Tool for an Ideal Windows Setup**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,621 |
+| 💻 **Language** | C# |
+| 🏆 **Gem Score** | 74/100 |
+| 📈 **Trending Days** | 2 |
+| 📅 **First Seen** | Aug 24, 2026 |
+
+**Why it's a gem**: High growth velocity (+52 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/Greedeks/GTweak.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Greedeks&#x2F;GTweak)
+
+---
+
+### 14. [workweave&#x2F;router](../../repos/workweave/router.md)
 
 **Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.**
 
@@ -331,7 +291,7 @@
 
 ---
 
-### 17. [Gitlawb&#x2F;zero](../../repos/Gitlawb/zero.md)
+### 15. [Gitlawb&#x2F;zero](../../repos/Gitlawb/zero.md)
 
 **The coding agent that answers to you, your model, your machine, your rules.**
 
@@ -351,7 +311,7 @@
 
 ---
 
-### 18. [tutti-os&#x2F;tutti](../../repos/tutti-os/tutti.md)
+### 16. [tutti-os&#x2F;tutti](../../repos/tutti-os/tutti.md)
 
 **Where people and agents build in tune.**
 
@@ -371,7 +331,7 @@
 
 ---
 
-### 19. [longbridge&#x2F;gpui-component](../../repos/longbridge/gpui-component.md)
+### 17. [longbridge&#x2F;gpui-component](../../repos/longbridge/gpui-component.md)
 
 **Rust GUI components for building fantastic cross-platform desktop application by using GPUI.**
 
@@ -391,7 +351,7 @@
 
 ---
 
-### 20. [liustack&#x2F;modlens](../../repos/liustack/modlens.md)
+### 18. [liustack&#x2F;modlens](../../repos/liustack/modlens.md)
 
 **The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。**
 
@@ -411,6 +371,46 @@
 
 ---
 
+### 19. [krillinai&#x2F;KrillinAI](../../repos/krillinai/KrillinAI.md)
+
+**AI video translation &amp; dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTube, TikTok, Bilibili, Douyin, and more.AI视频翻译配音工具，面向人类与AI Agent，100+语言全链路，CLI分阶段调用，适配抖音、小红书、哔哩哔哩、视频号、TikTok、YouTube**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 11,134 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 71/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 3, 2026 |
+
+**Why it's a gem**: High growth velocity (+84 stars&#x2F;day) • Trending 4 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/krillinai/KrillinAI.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;krillinai&#x2F;KrillinAI)
+
+---
+
+### 20. [microsoft&#x2F;intelligent-terminal](../../repos/microsoft/intelligent-terminal.md)
+
+**A fork of Windows Terminal with native agent integration, right in your command line.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,865 |
+| 💻 **Language** | C++ |
+| 🏆 **Gem Score** | 71/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 12, 2026 |
+
+**Why it's a gem**: Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/microsoft/intelligent-terminal.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;microsoft&#x2F;intelligent-terminal)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-04T21:01:03.253Z*  
+*Generated: 2026-11-05T21:01:01.994Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

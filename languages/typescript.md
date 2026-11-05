@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 301
+- **Total Repositories**: 303
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-16
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 139,262 | 2026-08-02 | 17 |
+| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 48,123 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [QwenLM/qwen-code](../repos/QwenLM/qwen-code.md) | ⭐ 29,006 | 2026-08-06 | 3 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 139,870 | 2026-08-02 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [humanlayer/skills](../repos/humanlayer/skills.md) | ⭐ 5,601 | 2026-09-04 | 6 |
+| [github/docs](../repos/github/docs.md) | ⭐ 21,304 | 2026-08-09 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Crosstalk-Solutions/project-nomad](../repos/Crosstalk-Solutions/project-nomad.md) | ⭐ 42,178 | 2026-09-14 | 10 |
+| [cordiverse/cordis](../repos/cordiverse/cordis.md) | ⭐ 9,698 | 2026-08-15 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/scriptc](../repos/vercel-labs/scriptc.md) | ⭐ 6,496 | 2026-09-27 | 6 |
+| [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 118,331 | 2026-08-17 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elie222/rakazo](../repos/elie222/rakazo.md) | ⭐ 7,003 | 2026-10-17 | 4 |
+| [awslabs/aidlc-workflows](../repos/awslabs/aidlc-workflows.md) | ⭐ 5,714 | 2026-09-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Renhuai123/ziwei-doushu](../repos/Renhuai123/ziwei-doushu.md) | ⭐ 15,752 | 2026-10-23 | 4 |
+| [Fission-AI/OpenSpec](../repos/Fission-AI/OpenSpec.md) | ⭐ 74,047 | 2026-09-19 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [liguobao/ds-harness-remote](../repos/liguobao/ds-harness-remote.md) | ⭐ 1,736 | 2026-10-23 | 3 |
+| [tester-army/e2e](../repos/tester-army/e2e.md) | ⭐ 13,318 | 2026-10-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openobserve/openobserve](../repos/openobserve/openobserve.md) | ⭐ 22,797 | 2026-10-29 | 2 |
+| [elie222/rakazo](../repos/elie222/rakazo.md) | ⭐ 7,176 | 2026-10-17 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spotify/portal-ai-plugins](../repos/spotify/portal-ai-plugins.md) | ⭐ 3,148 | 2026-11-03 | 2 |
+| [liguobao/ds-harness-remote](../repos/liguobao/ds-harness-remote.md) | ⭐ 1,934 | 2026-10-23 | 4 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [tester-army/e2e](../repos/tester-army/e2e.md) | ⭐ 8,136 | 2026-10-06 | Next generation e2e testing framework for web and mobile apps. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [morluto/rea](../repos/morluto/rea.md) | ⭐ 289,610 | 2026-10-06 | Reverse engineer anything with agents, from app behavior down to native binaries. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [vercel/eve](../repos/vercel/eve.md) | ⭐ 5,483 | 2026-10-07 | The Open Framework for Building Agents |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [openai/codex-security](../repos/openai/codex-security.md) | ⭐ 11,032 | 2026-10-08 | OpenAI&#39;s Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulne... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [VERT-sh/VERT](../repos/VERT-sh/VERT.md) | ⭐ 15,807 | 2026-10-09 | The next-generation file converter. Open source, fully local* and free forever. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [cartesiancs/map3d](../repos/cartesiancs/map3d.md) | ⭐ 2,571 | 2026-10-09 | 🗺️ Generate City 3D map with R3F. Include building and road information. |
 
 
 ---
@@ -96,9 +96,9 @@
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 158,228 | 2026-09-01 | 4 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 152,634 | 2026-08-07 | 20 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 141,850 | 2026-08-02 | 8 |
-| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 139,262 | 2026-08-02 | 17 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 139,870 | 2026-08-02 | 18 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | 2026-07-31 | 3 |
-| [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 118,046 | 2026-08-17 | 4 |
+| [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 118,331 | 2026-08-17 | 5 |
 | [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 116,129 | 2026-08-07 | 12 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 110,330 | 2026-08-02 | 11 |
 | [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 108,379 | 2026-08-23 | 2 |
@@ -121,8 +121,8 @@
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | 20 | ⭐ 152,634 | 2026-08-07 | 2026-10-20 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 20 | ⭐ 46,688 | 2026-08-07 | 2026-11-03 |
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 20 | ⭐ 78,178 | 2026-08-10 | 2026-10-21 |
-| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 18 | ⭐ 42,976 | 2026-08-01 | 2026-11-03 |
-| [garrytan/gstack](../repos/garrytan/gstack.md) | 17 | ⭐ 139,262 | 2026-08-02 | 2026-11-04 |
+| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 19 | ⭐ 48,123 | 2026-08-01 | 2026-11-05 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | 18 | ⭐ 139,870 | 2026-08-02 | 2026-11-05 |
 | [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 14 | ⭐ 54,366 | 2026-08-01 | 2026-10-28 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 14 | ⭐ 34,200 | 2026-08-02 | 2026-10-03 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-04T21:00:57.543Z*
+*Last updated: 2026-11-05T21:00:57.441Z*

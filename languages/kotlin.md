@@ -16,46 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 22,031 | 2026-08-01 | 9 |
+| [EchoMusicApp/Echo-Music](../repos/EchoMusicApp/Echo-Music.md) | ⭐ 2,306 | 2026-08-09 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 56,380 | 2026-08-06 | 17 |
+| [SuperMonster003/AutoJs6](../repos/SuperMonster003/AutoJs6.md) | ⭐ 6,592 | 2026-08-22 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Kyant0/AndroidLiquidGlass](../repos/Kyant0/AndroidLiquidGlass.md) | ⭐ 4,498 | 2026-08-08 | 7 |
+| [YuKongA/ghostlock-app](../repos/YuKongA/ghostlock-app.md) | ⭐ 2,679 | 2026-10-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SuperMonster003/AutoJs6](../repos/SuperMonster003/AutoJs6.md) | ⭐ 6,581 | 2026-08-22 | 2 |
+| [PimpinPumpkin/Vela](../repos/PimpinPumpkin/Vela.md) | ⭐ 2,463 | 2026-10-06 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PimpinPumpkin/Vela](../repos/PimpinPumpkin/Vela.md) | ⭐ 2,424 | 2026-10-06 | 8 |
+| [BuSung-dev/Root-My-Galaxy](../repos/BuSung-dev/Root-My-Galaxy.md) | ⭐ 1,584 | 2026-10-11 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [throneproj/ThroneForAndroid](../repos/throneproj/ThroneForAndroid.md) | ⭐ 712 | 2026-10-11 | 5 |
+| [wasi-master/wmkeyboard](../repos/wasi-master/wmkeyboard.md) | ⭐ 739 | 2026-10-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wasi-master/wmkeyboard](../repos/wasi-master/wmkeyboard.md) | ⭐ 720 | 2026-10-11 | 3 |
+| [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | ⭐ 5,806 | 2026-10-12 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | ⭐ 5,645 | 2026-10-12 | 13 |
+| [carlelieser/shizzi](../repos/carlelieser/shizzi.md) | ⭐ 271 | 2026-10-16 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [realidkroo/Mochy-Music](../repos/realidkroo/Mochy-Music.md) | ⭐ 680 | 2026-10-28 | 5 |
+| [realidkroo/Mochy-Music](../repos/realidkroo/Mochy-Music.md) | ⭐ 785 | 2026-10-28 | 6 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [PimpinPumpkin/Vela](../repos/PimpinPumpkin/Vela.md) | ⭐ 2,424 | 2026-10-06 | Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map d... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [CYQawa/YunX](../repos/CYQawa/YunX.md) | ⭐ 6,355 | 2026-10-06 | ✨一个安卓 网盘解析 + 视频平台解析 下载app✨ |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ahXN00/OwnTV](../repos/ahXN00/OwnTV.md) | ⭐ 673 | 2026-10-06 | Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [rmyndharis/VSCodroid](../repos/rmyndharis/VSCodroid.md) | ⭐ 188 | 2026-10-07 | VS Code ported to Android — a full IDE on-the-go for developers |
@@ -67,16 +58,25 @@
 | [HaoZai000/NexioSchedule](../repos/HaoZai000/NexioSchedule.md) | ⭐ 151 | 2026-10-09 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [BuSung-dev/Root-My-Galaxy](../repos/BuSung-dev/Root-My-Galaxy.md) | ⭐ 1,398 | 2026-10-11 | KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499 |
+| [BuSung-dev/Root-My-Galaxy](../repos/BuSung-dev/Root-My-Galaxy.md) | ⭐ 1,584 | 2026-10-11 | KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [throneproj/ThroneForAndroid](../repos/throneproj/ThroneForAndroid.md) | ⭐ 712 | 2026-10-11 | Android GUI proxy utility (Empowered by sing-box) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [wasi-master/wmkeyboard](../repos/wasi-master/wmkeyboard.md) | ⭐ 720 | 2026-10-11 | A modern, privacy-first Android keyboard: offline intelligence, 600+ languages, themes, tools and... |
+| [wasi-master/wmkeyboard](../repos/wasi-master/wmkeyboard.md) | ⭐ 739 | 2026-10-11 | A modern, privacy-first Android keyboard: offline intelligence, 600+ languages, themes, tools and... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | ⭐ 5,645 | 2026-10-12 | BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music |
+| [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | ⭐ 5,806 | 2026-10-12 | BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [MuwMx/YumaPlayer](../repos/MuwMx/YumaPlayer.md) | ⭐ 937 | 2026-10-13 | 🎵 Hybrid music client for Android: Spotify discovery &amp; UI + YouTube Music library + Hi-Res Lossl... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [komikku-app/anikku](../repos/komikku-app/anikku.md) | ⭐ 1,088 | 2026-10-13 | Free and open source anime watcher for Android |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Ackites/Nrfr](../repos/Ackites/Nrfr.md) | ⭐ 9,251 | 2026-10-13 | 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制 |
 
 
 ---
@@ -121,7 +121,7 @@
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 17 | ⭐ 56,380 | 2026-08-06 | 2026-11-04 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | 14 | ⭐ 11,766 | 2026-08-02 | 2026-10-20 |
 | [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) | 14 | ⭐ 2,164 | 2026-08-04 | 2026-11-03 |
-| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | 13 | ⭐ 8,363 | 2026-08-02 | 2026-10-21 |
+| [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | 14 | ⭐ 5,806 | 2026-10-12 | 2026-11-05 |
 
 ---
 
@@ -230,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-11-04T21:00:57.497Z*
+*Last updated: 2026-11-05T21:00:57.407Z*

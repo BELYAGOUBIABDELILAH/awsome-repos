@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 1,427 |
-| **Forks** | 🍴 129 |
-| **Trending Days** | 6 |
+| **Stars** | ⭐ 2,003 |
+| **Forks** | 🍴 195 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Aug 21, 2026 |
+| **Last Seen** | Nov 5, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 6
+- **Trending Days**: 7
 - **Longest Streak**: 3 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`ai-tools`](../../topics/ai-tools.md) [`antigravity`](../../topics/antigravity.md) [`claude-code`](../../topics/claude-code.md) [`code-analysis`](../../topics/code-analysis.md) [`code-assistant`](../../topics/code-assistant.md) [`context-window`](../../topics/context-window.md) [`context-window-optimization`](../../topics/context-window-optimization.md) [`context-window-optimizer`](../../topics/context-window-optimizer.md) [`copilot`](../../topics/copilot.md) [`cursor`](../../topics/cursor.md) [`developer-tools`](../../topics/developer-tools.md) [`graphrag`](../../topics/graphrag.md) [`kiro`](../../topics/kiro.md) [`knowledge-graph`](../../topics/knowledge-graph.md) [`local-first`](../../topics/local-first.md) [`mcp-server`](../../topics/mcp-server.md) [`prompts`](../../topics/prompts.md) [`skills`](../../topics/skills.md) [`tokens`](../../topics/tokens.md) [`windsurf`](../../topics/windsurf.md) 
+[`ai-tools`](../../topics/ai-tools.md) [`claude-code`](../../topics/claude-code.md) [`code-analysis`](../../topics/code-analysis.md) [`code-assistant`](../../topics/code-assistant.md) [`codex`](../../topics/codex.md) [`context-window`](../../topics/context-window.md) [`context-window-optimization`](../../topics/context-window-optimization.md) [`context-window-optimizer`](../../topics/context-window-optimizer.md) [`copilot`](../../topics/copilot.md) [`developer-tools`](../../topics/developer-tools.md) [`graphrag`](../../topics/graphrag.md) [`knowledge-graph`](../../topics/knowledge-graph.md) [`local-first`](../../topics/local-first.md) [`mcp-server`](../../topics/mcp-server.md) [`pi`](../../topics/pi.md) [`tokens`](../../topics/tokens.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Large Language Models` `Backend Development` `Systems Programming` `Developer Tools` 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-04T21:00:59.987Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-11-05T21:00:59.372Z*  
+*Data from 7 trending reports*

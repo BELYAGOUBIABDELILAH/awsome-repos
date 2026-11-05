@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 144
+- **Total Repositories**: 145
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-03
 
@@ -16,19 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | ⭐ 7,024 | 2026-08-01 | 12 |
+| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 4,037 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 4,030 | 2026-08-01 | 14 |
+| [ZingerLittleBee/Heeler](../repos/ZingerLittleBee/Heeler.md) | ⭐ 768 | 2026-09-21 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [abue-ammar/tinycast](../repos/abue-ammar/tinycast.md) | ⭐ 9,140 | 2026-09-01 | 12 |
+| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 14,808 | 2026-09-21 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ChrisMack32/Locus](../repos/ChrisMack32/Locus.md) | ⭐ 613 | 2026-09-27 | 2 |
+| [ChrisMack32/Locus](../repos/ChrisMack32/Locus.md) | ⭐ 620 | 2026-09-27 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HD838A/remote-mic-app](../repos/HD838A/remote-mic-app.md) | ⭐ 2,435 | 2026-10-08 | 6 |
+| [apple/swift-collections](../repos/apple/swift-collections.md) | ⭐ 4,538 | 2026-10-01 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [HD838A/remote-mic-app](../repos/HD838A/remote-mic-app.md) | ⭐ 2,529 | 2026-10-08 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [lynnswap/NeoSimulator](../repos/lynnswap/NeoSimulator.md) | ⭐ 180 | 2026-11-05 | 1 |
 
 
 ---
@@ -37,22 +43,13 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [lab421/forel](../repos/lab421/forel.md) | ⭐ 707 | 2026-10-06 | File automation for macOS. The open source Hazel alternative for macOS. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ggml-org/Llama-macOS](../repos/ggml-org/Llama-macOS.md) | ⭐ 1,706 | 2026-10-06 | A cosy home for your LLMs. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [BLeeEZ/amperfy](../repos/BLeeEZ/amperfy.md) | ⭐ 1,785 | 2026-10-06 | Amperfy is an iOS&#x2F;iPadOS&#x2F;macOS app to play songs from an Ampache or Subsonic server |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [scholay/rimes](../repos/scholay/rimes.md) | ⭐ 981 | 2026-10-08 | RIMES — modern macOS IME (rime-scholay): librime + buffer workbench |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [apple/swift-argument-parser](../repos/apple/swift-argument-parser.md) | ⭐ 3,793 | 2026-10-08 | Straightforward, type-safe argument parsing for Swift |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [HD838A/remote-mic-app](../repos/HD838A/remote-mic-app.md) | ⭐ 2,435 | 2026-10-08 | 无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备 |
+| [HD838A/remote-mic-app](../repos/HD838A/remote-mic-app.md) | ⭐ 2,529 | 2026-10-08 | 无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [bobsupra/NuvioTVOS](../repos/bobsupra/NuvioTVOS.md) | ⭐ 286 | 2026-10-11 | Nuvio tvOS client |
@@ -65,6 +62,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [1lck/Lithe-IDEA](../repos/1lck/Lithe-IDEA.md) | ⭐ 2,357 | 2026-10-16 | A lightweight, cross-platform IDE for the AI era, with on-demand tools and services. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [hugeBlack/GetMoreRam](../repos/hugeBlack/GetMoreRam.md) | ⭐ 434 | 2026-10-17 | A simple AltSign wrapper app that allows you to enable &quot;Increased Memory Limit&quot; to your sideloade... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [iFurySt/open-computer-use](../repos/iFurySt/open-computer-use.md) | ⭐ 2,606 | 2026-10-18 | 👾 Open Computer Use – Open-Source Alternative to Codex Computer Use |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [lycorp-jp/sim-use](../repos/lycorp-jp/sim-use.md) | ⭐ 1,469 | 2026-10-20 | Give your AI agent eyes and hands on iOS Simulator and Android emulator&#x2F;devices. |
 
 
 ---
@@ -91,8 +97,8 @@
 | [Whisky-App/Whisky](../repos/Whisky-App/Whisky.md) | ⭐ 15,107 | 2026-09-06 | 2 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,999 | 2026-08-04 | 22 |
 | [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,987 | 2026-08-24 | 12 |
+| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 14,808 | 2026-09-21 | 13 |
 | [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,686 | 2026-08-17 | 14 |
-| [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 14,633 | 2026-08-08 | 9 |
 
 ---
 
@@ -107,9 +113,9 @@
 | [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 17 | ⭐ 9,359 | 2026-08-02 | 2026-10-27 |
 | [swiftlang/swift](../repos/swiftlang/swift.md) | 17 | ⭐ 70,525 | 2026-08-05 | 2026-11-03 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 16 | ⭐ 26,918 | 2026-08-04 | 2026-10-23 |
+| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 15 | ⭐ 4,037 | 2026-08-01 | 2026-11-05 |
 | [apple/swift-nio](../repos/apple/swift-nio.md) | 15 | ⭐ 8,538 | 2026-08-04 | 2026-10-22 |
 | [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | 15 | ⭐ 36,920 | 2026-08-12 | 2026-10-27 |
-| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 14 | ⭐ 4,030 | 2026-08-01 | 2026-11-04 |
 
 ---
 
@@ -218,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-11-04T21:00:57.539Z*
+*Last updated: 2026-11-05T21:00:57.439Z*

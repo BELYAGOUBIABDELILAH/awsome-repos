@@ -16,34 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,756 | 2026-08-01 | 46 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,765 | 2026-08-01 | 47 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,919 | 2026-08-04 | 9 |
+| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,992 | 2026-08-07 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,980 | 2026-08-07 | 15 |
+| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | ⭐ 3,720 | 2026-08-19 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 8,572 | 2026-08-12 | 21 |
+| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 46,321 | 2026-08-29 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DaoCloud/public-image-mirror](../repos/DaoCloud/public-image-mirror.md) | ⭐ 15,329 | 2026-08-14 | 3 |
+| [aquasecurity/trivy-action](../repos/aquasecurity/trivy-action.md) | ⭐ 1,463 | 2026-10-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | ⭐ 3,602 | 2026-08-19 | 12 |
+| [conda-forge/miniforge](../repos/conda-forge/miniforge.md) | ⭐ 10,341 | 2026-10-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,619 | 2026-08-20 | 15 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [bivlked/amneziawg-installer](../repos/bivlked/amneziawg-installer.md) | ⭐ 1,474 | 2026-08-25 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [itsnotkubrick/3X-UI_KIT](../repos/itsnotkubrick/3X-UI_KIT.md) | ⭐ 614 | 2026-10-15 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [liandu2024/Open-Box](../repos/liandu2024/Open-Box.md) | ⭐ 2,507 | 2026-10-22 | 4 |
+| [itsnotkubrick/3X-UI_KIT](../repos/itsnotkubrick/3X-UI_KIT.md) | ⭐ 622 | 2026-10-15 | 3 |
 
 
 ---
@@ -52,16 +43,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [caido/caido](../repos/caido/caido.md) | ⭐ 2,658 | 2026-10-06 | 🚀 Caido releases, wiki and roadmap |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [aquasecurity/trivy-action](../repos/aquasecurity/trivy-action.md) | ⭐ 1,435 | 2026-10-06 | Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [ClickHouse/ClickBench](../repos/ClickHouse/ClickBench.md) | ⭐ 1,126 | 2026-10-08 | ClickBench: a Benchmark For Analytical Databases |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [conda-forge/miniforge](../repos/conda-forge/miniforge.md) | ⭐ 10,253 | 2026-10-09 | A conda-forge distribution. |
+| [conda-forge/miniforge](../repos/conda-forge/miniforge.md) | ⭐ 10,341 | 2026-10-09 | A conda-forge distribution. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [EpicGames/unreal-engine-skills-for-claude-code-plugin](../repos/EpicGames/unreal-engine-skills-for-claude-code-plugin.md) | ⭐ 1,872 | 2026-10-11 |  |
@@ -70,7 +55,7 @@
 | [sailor-sh/CK-X](../repos/sailor-sh/CK-X.md) | ⭐ 1,226 | 2026-10-12 | A mock exams for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configure... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [itsnotkubrick/3X-UI_KIT](../repos/itsnotkubrick/3X-UI_KIT.md) | ⭐ 614 | 2026-10-15 |  |
+| [itsnotkubrick/3X-UI_KIT](../repos/itsnotkubrick/3X-UI_KIT.md) | ⭐ 622 | 2026-10-15 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nelvko/clashctl](../repos/nelvko/clashctl.md) | ⭐ 15,015 | 2026-10-15 | 😼 优雅地使用基于 clash&#x2F;mihomo 的代理环境 |
@@ -80,6 +65,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [IceWhaleTech/ZimaOS](../repos/IceWhaleTech/ZimaOS.md) | ⭐ 3,047 | 2026-10-16 | A Simplified, Focused and Open NAS OS_ |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [gentoo/gentoo](../repos/gentoo/gentoo.md) | ⭐ 2,469 | 2026-10-16 | [MIRROR] Official Gentoo ebuild repository |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [home-assistant/addons](../repos/home-assistant/addons.md) | ⭐ 2,239 | 2026-10-17 | :heavy_plus_sign: Docker add-ons for Home Assistant |
 
 
 ---
@@ -90,12 +81,12 @@
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,858 | 2026-08-07 | 4 |
 | [papers-we-love/papers-we-love](../repos/papers-we-love/papers-we-love.md) | ⭐ 110,960 | 2026-10-27 | 1 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,756 | 2026-08-01 | 46 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,765 | 2026-08-01 | 47 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,756 | 2026-08-04 | 10 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,702 | 2026-08-06 | 15 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,855 | 2026-08-04 | 13 |
-| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 46,158 | 2026-08-29 | 12 |
+| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 46,321 | 2026-08-29 | 13 |
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
 | [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,866 | 2026-08-20 | 13 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 33,123 | 2026-08-02 | 22 |
@@ -115,13 +106,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 46 | ⭐ 95,756 | 2026-08-01 | 2026-11-04 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 47 | ⭐ 95,765 | 2026-08-01 | 2026-11-05 |
 | [expo/skills](../repos/expo/skills.md) | 36 | ⭐ 3,754 | 2026-08-07 | 2026-10-29 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
 | [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 21 | ⭐ 8,572 | 2026-08-12 | 2026-11-04 |
+| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | 16 | ⭐ 10,992 | 2026-08-07 | 2026-11-05 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 15 | ⭐ 3,172 | 2026-08-05 | 2026-10-25 |
 | [dockur/windows](../repos/dockur/windows.md) | 15 | ⭐ 53,702 | 2026-08-06 | 2026-10-27 |
-| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | 15 | ⭐ 10,980 | 2026-08-07 | 2026-11-04 |
 | [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | 15 | ⭐ 1,619 | 2026-08-20 | 2026-11-04 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | 13 | ⭐ 47,855 | 2026-08-04 | 2026-10-21 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | 13 | ⭐ 26,341 | 2026-08-04 | 2026-10-29 |
@@ -233,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-11-04T21:00:57.535Z*
+*Last updated: 2026-11-05T21:00:57.436Z*

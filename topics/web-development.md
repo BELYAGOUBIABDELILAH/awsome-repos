@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 508
+- **Total Repositories**: 509
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-06
-- **Average Stars**: 21702
+- **Average Stars**: 21681
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,323 | JavaScript |  |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 22,009 | PHP |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 29,069 | Rust |  |
+| [zammad/zammad](../repos/zammad/zammad.md) | ⭐ 6,081 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,417 | Scala |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,796 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,756 | Shell |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,431 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,478 | Vue |  |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,765 | Shell |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,550 | Vue |  |
+| [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,954 | HTML |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,608 | Objective-C |  |
+| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,922 | Vue |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 41,186 | Vim Script |  |
+| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,573 | Vue |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 38,089 | V |  |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,607 | Objective-C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,878 | CoffeeScript |  |
+| [vim/vim](../repos/vim/vim.md) | ⭐ 41,188 | Vim Script |  |
 
 
 ---
@@ -79,13 +79,16 @@
 | [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 29,069 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [electron/electron](../repos/electron/electron.md) | ⭐ 123,622 | C++ | 1 |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 22,009 | PHP | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 50,279 | Ruby | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [zammad/zammad](../repos/zammad/zammad.md) | ⭐ 6,053 | Ruby | 2 |
+| [zammad/zammad](../repos/zammad/zammad.md) | ⭐ 6,081 | Ruby | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,796 | Ruby | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [opf/openproject](../repos/opf/openproject.md) | ⭐ 16,951 | Ruby | 2 |
@@ -94,24 +97,12 @@
 | [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,616 | Scala | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,283 | Scala | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,417 | Scala | 3 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,431 | Scala | 4 |
 
 ---
 
 ## 🆕 New This Month
 
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [tester-army/e2e](../repos/tester-army/e2e.md) | ⭐ 8,136 | TypeScript | 2026-10-06 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [morluto/rea](../repos/morluto/rea.md) | ⭐ 289,610 | TypeScript | 2026-10-06 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [lishuangqiang/AI-Meeting](../repos/lishuangqiang/AI-Meeting.md) | ⭐ 1,056 | Java | 2026-10-06 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [MobSF/Mobile-Security-Framework-MobSF](../repos/MobSF/Mobile-Security-Framework-MobSF.md) | ⭐ 21,899 | JavaScript | 2026-10-07 |
@@ -133,10 +124,23 @@
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [ledgersmb/LedgerSMB](../repos/ledgersmb/LedgerSMB.md) | ⭐ 570 | Perl | 2026-10-08 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [cartesiancs/map3d](../repos/cartesiancs/map3d.md) | ⭐ 2,571 | TypeScript | 2026-10-09 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [makecindy/cindy](../repos/makecindy/cindy.md) | ⭐ 8,006 | TypeScript | 2026-10-09 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [mojolicious/mojo](../repos/mojolicious/mojo.md) | ⭐ 2,758 | Perl | 2026-10-09 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-11-05](../archive/2026/11/2026-11-05.md)
+- 37 repositories trending
+- Top: immich-app&#x2F;immich
 
 ### [2026-11-04](../archive/2026/11/2026-11-04.md)
 - 29 repositories trending
@@ -150,10 +154,6 @@
 - 22 repositories trending
 - Top: flutter&#x2F;flutter
 
-### [2026-10-29](../archive/2026/10/2026-10-29.md)
-- 60 repositories trending
-- Top: react&#x2F;react
-
 
 ---
 
@@ -163,16 +163,16 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 76 days | 2026-08-01 | 2026-11-04 |
-| [vlang/v](../repos/vlang/v.md) | 70 days | 2026-08-01 | 2026-11-04 |
-| [vim/vim](../repos/vim/vim.md) | 64 days | 2026-08-01 | 2026-11-04 |
+| [apache/spark](../repos/apache/spark.md) | 77 days | 2026-08-01 | 2026-11-05 |
+| [vlang/v](../repos/vlang/v.md) | 71 days | 2026-08-01 | 2026-11-05 |
+| [vim/vim](../repos/vim/vim.md) | 65 days | 2026-08-01 | 2026-11-05 |
 | [joernio/joern](../repos/joernio/joern.md) | 62 days | 2026-08-01 | 2026-11-03 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 53 days | 2026-08-01 | 2026-11-04 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 54 days | 2026-08-01 | 2026-11-05 |
 | [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | 53 days | 2026-08-03 | 2026-11-02 |
 | [flutter/flutter](../repos/flutter/flutter.md) | 50 days | 2026-08-01 | 2026-11-02 |
 | [opf/openproject](../repos/opf/openproject.md) | 48 days | 2026-08-01 | 2026-11-03 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 46 days | 2026-08-01 | 2026-11-04 |
-| [facebook/infer](../repos/facebook/infer.md) | 41 days | 2026-08-02 | 2026-10-25 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 47 days | 2026-08-01 | 2026-11-05 |
+| [frappe/crm](../repos/frappe/crm.md) | 41 days | 2026-08-01 | 2026-11-05 |
 
 ---
 
@@ -186,7 +186,7 @@
 - **Go**: 38 repositories (7%)
 
 ### Trending Frequency
-- **Daily Average**: 44.1 repositories
+- **Daily Average**: 44 repositories
 - **Peak Day**: 2026-08-04 (67 repositories)
 - **Growth Rate**: 13% this month
 
@@ -302,4 +302,4 @@
 
 ---
 
-*Last updated: 2026-11-04T21:00:57.205Z*
+*Last updated: 2026-11-05T21:00:57.188Z*

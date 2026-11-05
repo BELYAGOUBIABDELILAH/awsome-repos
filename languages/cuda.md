@@ -21,10 +21,8 @@
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [deepseek-ai/DeepGEMM](../repos/deepseek-ai/DeepGEMM.md) | ⭐ 8,657 | 2026-10-06 | DeepGEMM: clean and efficient BLAS kernel library on GPU |
 
+*No new Cuda repositories in the last 30 days*
 
 ---
 
@@ -50,4 +48,4 @@
 
 ---
 
-*Last updated: 2026-11-04T21:00:57.463Z*
+*Last updated: 2026-11-05T21:00:57.383Z*

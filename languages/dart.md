@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 78,194 | 2026-08-01 | 30 |
+| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 78,250 | 2026-08-01 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [KaringX/karing](../repos/KaringX/karing.md) | ⭐ 15,939 | 2026-08-02 | 39 |
+| [xiaoyaocz/dart_simple_live](../repos/xiaoyaocz/dart_simple_live.md) | ⭐ 16,225 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | ⭐ 20,302 | 2026-08-02 | 40 |
+| [flutter/packages](../repos/flutter/packages.md) | ⭐ 5,333 | 2026-08-01 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 33,644 | 2026-08-02 | 42 |
+| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 61,422 | 2026-08-02 | 42 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [omnimind-ai/OmniBot](../repos/omnimind-ai/OmniBot.md) | ⭐ 2,085 | 2026-08-02 | 8 |
+| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 33,664 | 2026-08-02 | 43 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kodjodevf/mangayomi](../repos/kodjodevf/mangayomi.md) | ⭐ 4,354 | 2026-08-02 | 19 |
+| [kodjodevf/mangayomi](../repos/kodjodevf/mangayomi.md) | ⭐ 4,382 | 2026-08-02 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akashdh11/skystream](../repos/akashdh11/skystream.md) | ⭐ 676 | 2026-08-16 | 6 |
+| [krille-chan/fluffychat](../repos/krille-chan/fluffychat.md) | ⭐ 3,277 | 2026-08-05 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [GopeedLab/gopeed](../repos/GopeedLab/gopeed.md) | ⭐ 27,382 | 2026-09-06 | 17 |
+| [TNT-Likely/BeeCount](../repos/TNT-Likely/BeeCount.md) | ⭐ 2,743 | 2026-08-06 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ComicSparks/jasmine](../repos/ComicSparks/jasmine.md) | ⭐ 5,521 | 2026-10-08 | 3 |
+| [wanghongenpin/proxypin](../repos/wanghongenpin/proxypin.md) | ⭐ 14,353 | 2026-08-06 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [InlitX/GymMane](../repos/InlitX/GymMane.md) | ⭐ 1,324 | 2026-10-13 | 8 |
+| [rusty4444/hermes-android](../repos/rusty4444/hermes-android.md) | ⭐ 487 | 2026-08-21 | 7 |
 
 
 ---
@@ -52,16 +52,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Teskann/QuaX](../repos/Teskann/QuaX.md) | ⭐ 515 | 2026-10-06 | Privacy respecting X client for Android |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [autonomous-ai/openharness](../repos/autonomous-ai/openharness.md) | ⭐ 1,203 | 2026-10-06 | The ultimate harness for coding agents and beyond. All your agents. All your machines. One comman... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [ComicSparks/jasmine](../repos/ComicSparks/jasmine.md) | ⭐ 5,521 | 2026-10-08 | A comic browser，support Android &#x2F; iOS &#x2F; MacOS &#x2F; Windows &#x2F; Linux.  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [InlitX/GymMane](../repos/InlitX/GymMane.md) | ⭐ 1,324 | 2026-10-13 |  Offline gym log for Android. No account, no ads, no internet. |
+| [InlitX/GymMane](../repos/InlitX/GymMane.md) | ⭐ 1,407 | 2026-10-13 |  Offline gym log for Android. No account, no ads, no internet. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [JeoJay127/RapidEFI-Tool](../repos/JeoJay127/RapidEFI-Tool.md) | ⭐ 2,573 | 2026-10-13 | An excellent one-click EFI configuration tool based on OpenCore |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Aglglg/No-Reload-Mod-Manager](../repos/Aglglg/No-Reload-Mod-Manager.md) | ⭐ 115 | 2026-10-21 | A tool to manage your XXMI Anime Games Mods |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [GhostenEditor/Ghosten-Player](../repos/GhostenEditor/Ghosten-Player.md) | ⭐ 3,365 | 2026-10-21 | 一个视频播放器，支持网盘直连、元数据刮削、IPTV、文件管理等 &#x2F;   A video player that supports direct connection to network dis... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [MuFengDR/AstrBot-Bubble-Android-App](../repos/MuFengDR/AstrBot-Bubble-Android-App.md) | ⭐ 108 | 2026-10-26 | AstrBot 安卓APP |
 
 
 ---
@@ -90,18 +90,18 @@
 |------------|-------|------------|---------------|
 | [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 181,016 | 2026-08-01 | 50 |
 | [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 96,456 | 2026-08-02 | 35 |
-| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 78,194 | 2026-08-01 | 30 |
-| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 59,618 | 2026-08-02 | 41 |
+| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 78,250 | 2026-08-01 | 31 |
+| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 61,422 | 2026-08-02 | 42 |
 | [KRTirtho/spotube](../repos/KRTirtho/spotube.md) | ⭐ 49,303 | 2026-08-04 | 20 |
 | [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 40,752 | 2026-08-01 | 40 |
-| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 33,644 | 2026-08-02 | 42 |
+| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 33,664 | 2026-08-02 | 43 |
 | [GopeedLab/gopeed](../repos/GopeedLab/gopeed.md) | ⭐ 27,382 | 2026-09-06 | 17 |
 | [mitesh77/Best-Flutter-UI-Templates](../repos/mitesh77/Best-Flutter-UI-Templates.md) | ⭐ 22,819 | 2026-08-01 | 2 |
 | [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | ⭐ 20,302 | 2026-08-02 | 40 |
 | [flutter/samples](../repos/flutter/samples.md) | ⭐ 19,271 | 2026-08-06 | 6 |
-| [xiaoyaocz/dart_simple_live](../repos/xiaoyaocz/dart_simple_live.md) | ⭐ 16,215 | 2026-08-01 | 25 |
+| [xiaoyaocz/dart_simple_live](../repos/xiaoyaocz/dart_simple_live.md) | ⭐ 16,225 | 2026-08-01 | 26 |
 | [KaringX/karing](../repos/KaringX/karing.md) | ⭐ 15,939 | 2026-08-02 | 39 |
-| [wanghongenpin/proxypin](../repos/wanghongenpin/proxypin.md) | ⭐ 14,327 | 2026-08-06 | 19 |
+| [wanghongenpin/proxypin](../repos/wanghongenpin/proxypin.md) | ⭐ 14,353 | 2026-08-06 | 20 |
 | [guozhigq/pilipala](../repos/guozhigq/pilipala.md) | ⭐ 13,848 | 2026-08-20 | 2 |
 | [Notsfsssf/pixez-flutter](../repos/Notsfsssf/pixez-flutter.md) | ⭐ 13,179 | 2026-08-09 | 20 |
 | [cfug/dio](../repos/cfug/dio.md) | ⭐ 12,840 | 2026-09-05 | 1 |
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [flutter/flutter](../repos/flutter/flutter.md) | 50 | ⭐ 181,016 | 2026-08-01 | 2026-11-02 |
-| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | 42 | ⭐ 33,644 | 2026-08-02 | 2026-11-04 |
-| [chen08209/FlClash](../repos/chen08209/FlClash.md) | 41 | ⭐ 59,618 | 2026-08-02 | 2026-10-29 |
+| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | 43 | ⭐ 33,664 | 2026-08-02 | 2026-11-05 |
+| [chen08209/FlClash](../repos/chen08209/FlClash.md) | 42 | ⭐ 61,422 | 2026-08-02 | 2026-11-05 |
 | [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | 40 | ⭐ 40,752 | 2026-08-01 | 2026-11-02 |
 | [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | 40 | ⭐ 20,302 | 2026-08-02 | 2026-11-04 |
 | [KaringX/karing](../repos/KaringX/karing.md) | 39 | ⭐ 15,939 | 2026-08-02 | 2026-11-04 |
 | [localsend/localsend](../repos/localsend/localsend.md) | 35 | ⭐ 96,456 | 2026-08-02 | 2026-10-29 |
-| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | 30 | ⭐ 78,194 | 2026-08-01 | 2026-11-04 |
+| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | 31 | ⭐ 78,250 | 2026-08-01 | 2026-11-05 |
+| [xiaoyaocz/dart_simple_live](../repos/xiaoyaocz/dart_simple_live.md) | 26 | ⭐ 16,225 | 2026-08-01 | 2026-11-05 |
 | [dart-lang/sdk](../repos/dart-lang/sdk.md) | 25 | ⭐ 11,324 | 2026-08-01 | 2026-10-29 |
-| [xiaoyaocz/dart_simple_live](../repos/xiaoyaocz/dart_simple_live.md) | 25 | ⭐ 16,215 | 2026-08-01 | 2026-11-03 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-04T21:00:57.467Z*
+*Last updated: 2026-11-05T21:00:57.385Z*

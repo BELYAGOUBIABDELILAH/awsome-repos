@@ -16,13 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,233 | 2026-08-02 | 63 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Spectral-Finance/lux](../repos/Spectral-Finance/lux.md) | ⭐ 134 | 2026-09-12 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ash-project/ash_postgres](../repos/ash-project/ash_postgres.md) | ⭐ 191 | 2026-10-25 | 5 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,235 | 2026-08-02 | 64 |
 
 
 ---
@@ -51,7 +45,7 @@
 | [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,701 | 2026-08-01 | 64 |
 | [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,212 | 2026-08-03 | 53 |
 | [h4cc/awesome-elixir](../repos/h4cc/awesome-elixir.md) | ⭐ 13,166 | 2026-09-08 | 1 |
-| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,233 | 2026-08-02 | 63 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,235 | 2026-08-02 | 64 |
 | [firezone/firezone](../repos/firezone/firezone.md) | ⭐ 9,163 | 2026-08-02 | 51 |
 | [phoenixframework/phoenix_live_view](../repos/phoenixframework/phoenix_live_view.md) | ⭐ 6,834 | 2026-08-01 | 25 |
 | [elixir-ecto/ecto](../repos/elixir-ecto/ecto.md) | ⭐ 6,501 | 2026-08-06 | 7 |
@@ -74,7 +68,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | 64 | ⭐ 26,701 | 2026-08-01 | 2026-11-02 |
-| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 63 | ⭐ 9,233 | 2026-08-02 | 2026-11-04 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 64 | ⭐ 9,235 | 2026-08-02 | 2026-11-05 |
 | [openai/symphony](../repos/openai/symphony.md) | 57 | ⭐ 27,756 | 2026-08-01 | 2026-10-20 |
 | [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | 56 | ⭐ 5,440 | 2026-08-01 | 2026-11-03 |
 | [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | 53 | ⭐ 23,212 | 2026-08-03 | 2026-11-02 |
@@ -139,4 +133,4 @@
 
 ---
 
-*Last updated: 2026-11-04T21:00:57.469Z*
+*Last updated: 2026-11-05T21:00:57.387Z*

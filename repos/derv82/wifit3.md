@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | GPL-2.0 |
-| **Stars** | ⭐ 3,064 |
-| **Forks** | 🍴 306 |
-| **Trending Days** | 4 |
+| **Stars** | ⭐ 3,345 |
+| **Forks** | 🍴 352 |
+| **Trending Days** | 5 |
 | **Peak Rank** | #9 |
 
 | **First Seen** | Sep 25, 2026 |
-| **Last Seen** | Nov 3, 2026 |
+| **Last Seen** | Nov 5, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #9
-- **Trending Days**: 4
+- **Trending Days**: 5
 - **Longest Streak**: 2 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 70&#x2F;100
+- **Trending Score**: 80&#x2F;100
 - **Historical Rank**: Top 10 (Peak: #9)
 
 
 ---
 
-*Last updated: 2026-11-04T21:01:02.361Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-11-05T21:01:01.252Z*  
+*Data from 5 trending reports*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 315
+- **Total Repositories**: 316
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-03
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 138,853 | 2026-08-01 | 18 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 139,731 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shiyu-coder/Kronos](../repos/shiyu-coder/Kronos.md) | ⭐ 46,785 | 2026-08-03 | 11 |
+| [microsoft/VibeVoice](../repos/microsoft/VibeVoice.md) | ⭐ 55,776 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,351 | 2026-08-04 | 25 |
+| [harvard-edge/cs249r_book](../repos/harvard-edge/cs249r_book.md) | ⭐ 29,976 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 147,211 | 2026-08-14 | 12 |
+| [aws/agent-toolkit-for-aws](../repos/aws/agent-toolkit-for-aws.md) | ⭐ 3,410 | 2026-08-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [handsomestWei/patent-disclosure-skill](../repos/handsomestWei/patent-disclosure-skill.md) | ⭐ 12,896 | 2026-09-01 | 3 |
+| [google/skills](../repos/google/skills.md) | ⭐ 22,300 | 2026-08-07 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/auto-ontology](../repos/NVIDIA/auto-ontology.md) | ⭐ 4,656 | 2026-10-27 | 2 |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 147,818 | 2026-08-14 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FlashML-org/FreeToken](../repos/FlashML-org/FreeToken.md) | ⭐ 16,598 | 2026-11-02 | 3 |
+| [google-research/timesfm](../repos/google-research/timesfm.md) | ⭐ 35,238 | 2026-08-16 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Usagi-org/ai-goofish-monitor](../repos/Usagi-org/ai-goofish-monitor.md) | ⭐ 17,127 | 2026-11-03 | 2 |
+| [google-gemini/gemini-skills](../repos/google-gemini/gemini-skills.md) | ⭐ 4,403 | 2026-09-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AminBlg/SimpleEnglish](../repos/AminBlg/SimpleEnglish.md) | ⭐ 4,222 | 2026-11-03 | 2 |
+| [NVIDIA/Model-Optimizer](../repos/NVIDIA/Model-Optimizer.md) | ⭐ 5,537 | 2026-09-24 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [The-PR-Agent/pr-agent](../repos/The-PR-Agent/pr-agent.md) | ⭐ 14,680 | 2026-11-04 | 1 |
+| [derv82/wifit3](../repos/derv82/wifit3.md) | ⭐ 3,345 | 2026-09-25 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [raullenchai/Rapid-MLX](../repos/raullenchai/Rapid-MLX.md) | ⭐ 3,915 | 2026-10-06 | Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server fo... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [dortania/OpenCore-Legacy-Patcher](../repos/dortania/OpenCore-Legacy-Patcher.md) | ⭐ 18,473 | 2026-10-06 | Experience macOS just like before |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [allenai/olmocr](../repos/allenai/olmocr.md) | ⭐ 19,723 | 2026-10-07 | Toolkit for linearizing PDFs for LLM datasets&#x2F;training |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [hiroi-sora/Umi-OCR](../repos/hiroi-sora/Umi-OCR.md) | ⭐ 47,729 | 2026-10-09 | OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏&#x2F;批量导入图片，PDF文档识别，排除水印&#x2F;页眉页脚，扫描&#x2F;生成二维码。内置多国语言库。 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [XiaoYouChR/Ghost-Downloader-3](../repos/XiaoYouChR/Ghost-Downloader-3.md) | ⭐ 9,847 | 2026-10-11 | The only downloader you need. 下载器的集大成者。 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [baidu/Unlimited-OCR](../repos/baidu/Unlimited-OCR.md) | ⭐ 29,734 | 2026-10-13 | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. |
 
 
 ---
@@ -98,10 +98,10 @@
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,775 | 2026-08-06 | 9 |
 | [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 178,249 | 2026-08-11 | 8 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 167,557 | 2026-07-31 | 9 |
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 147,211 | 2026-08-14 | 12 |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 147,818 | 2026-08-14 | 13 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 143,038 | 2026-08-04 | 8 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 141,991 | 2026-08-05 | 13 |
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 138,853 | 2026-08-01 | 18 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 139,731 | 2026-08-01 | 19 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 133,846 | 2026-08-03 | 11 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 117,829 | 2026-08-08 | 16 |
 | [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 115,765 | 2026-08-20 | 9 |
@@ -116,7 +116,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [github/copilot-cli](../repos/github/copilot-cli.md) | 25 | ⭐ 11,351 | 2026-08-04 | 2026-11-04 |
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 18 | ⭐ 138,853 | 2026-08-01 | 2026-11-04 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 19 | ⭐ 139,731 | 2026-08-01 | 2026-11-05 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 17 | ⭐ 243,012 | 2026-08-01 | 2026-09-07 |
 | [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 17 | ⭐ 65,960 | 2026-08-22 | 2026-10-14 |
 | [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 16 | ⭐ 52,636 | 2026-08-03 | 2026-10-18 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-04T21:00:57.521Z*
+*Last updated: 2026-11-05T21:00:57.426Z*

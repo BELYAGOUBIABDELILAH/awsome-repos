@@ -7,7 +7,7 @@
 ## September 2026
 
 **Period**: 2026-09-01 to 2026-09-28  
-**Gems Found**: 344
+**Gems Found**: 340
 
 ---
 
@@ -39,7 +39,7 @@
 |---|---|
 | ⭐ **Stars** | 4,130 |
 | 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 90/100 |
+| 🏆 **Gem Score** | 89/100 |
 | 📈 **Trending Days** | 6 |
 | 📅 **First Seen** | Aug 5, 2026 |
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-04T21:01:03.251Z*  
+*Generated: 2026-11-05T21:01:01.992Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

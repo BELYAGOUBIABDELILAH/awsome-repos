@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 222
+- **Total Repositories**: 224
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-28
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LaurieWired/GhidraMCP](../repos/LaurieWired/GhidraMCP.md) | ⭐ 11,759 | 2026-08-01 | 7 |
+| [apache/tika](../repos/apache/tika.md) | ⭐ 4,129 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 97,803 | 2026-08-03 | 30 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 27,840 | 2026-08-02 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [StarRocks/starrocks](../repos/StarRocks/starrocks.md) | ⭐ 12,236 | 2026-08-05 | 14 |
+| [trinodb/trino](../repos/trinodb/trino.md) | ⭐ 13,470 | 2026-08-04 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microg/GmsCore](../repos/microg/GmsCore.md) | ⭐ 15,194 | 2026-08-06 | 19 |
+| [apache/flink](../repos/apache/flink.md) | ⭐ 26,452 | 2026-08-04 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ReChronoRain/HyperCeiler](../repos/ReChronoRain/HyperCeiler.md) | ⭐ 5,651 | 2026-08-10 | 10 |
+| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 43,092 | 2026-08-05 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/iceberg](../repos/apache/iceberg.md) | ⭐ 9,406 | 2026-08-12 | 13 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 6,265 | 2026-08-05 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 51,593 | 2026-08-12 | 12 |
+| [alibaba/spring-ai-alibaba](../repos/alibaba/spring-ai-alibaba.md) | ⭐ 11,111 | 2026-08-11 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [logisim-evolution/logisim-evolution](../repos/logisim-evolution/logisim-evolution.md) | ⭐ 7,892 | 2026-08-22 | 7 |
+| [langgraph4j/langgraph4j](../repos/langgraph4j/langgraph4j.md) | ⭐ 2,086 | 2026-08-20 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jeecgboot/jimureport](../repos/jeecgboot/jimureport.md) | ⭐ 8,570 | 2026-08-28 | 5 |
+| [Stonewuu/ai-fusion-video](../repos/Stonewuu/ai-fusion-video.md) | ⭐ 1,711 | 2026-09-22 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FIRST-Tech-Challenge/FtcRobotController](../repos/FIRST-Tech-Challenge/FtcRobotController.md) | ⭐ 1,389 | 2026-09-13 | 4 |
+| [zed-0xff/ZombieBuddy](../repos/zed-0xff/ZombieBuddy.md) | ⭐ 315 | 2026-09-29 | 7 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [lishuangqiang/AI-Meeting](../repos/lishuangqiang/AI-Meeting.md) | ⭐ 1,056 | 2026-10-06 | 基于 Spring Boot 3 + Java 17 + Spring AI + MySQL + MongoDB + Redis + SSE&#x2F;WebSocket，实现 AI 对话、智能体会话、A... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [spring-projects/spring-kafka](../repos/spring-projects/spring-kafka.md) | ⭐ 2,513 | 2026-10-06 | Provides Familiar Spring Abstractions for Apache Kafka |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [JetBrains/JetBrainsRuntime](../repos/JetBrains/JetBrainsRuntime.md) | ⭐ 1,999 | 2026-10-07 | Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, mac... |
@@ -79,7 +73,13 @@
 | [MewX/light-novel-library_Wenku8_Android](../repos/MewX/light-novel-library_Wenku8_Android.md) | ⭐ 3,351 | 2026-10-19 | [CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [apache/nifi](../repos/apache/nifi.md) | ⭐ 6,273 | 2026-10-23 | Apache NiFi |
+| [apache/nifi](../repos/apache/nifi.md) | ⭐ 6,295 | 2026-10-23 | Apache NiFi |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [apache/pulsar](../repos/apache/pulsar.md) | ⭐ 15,354 | 2026-10-25 | Apache Pulsar - distributed pub-sub messaging system |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [vespa-engine/vespa](../repos/vespa-engine/vespa.md) | ⭐ 7,148 | 2026-10-27 | The AI search platform |
 
 
 ---
@@ -101,7 +101,7 @@
 | [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 51,593 | 2026-08-12 | 12 |
 | [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 48,307 | 2026-08-07 | 11 |
 | [ReactiveX/RxJava](../repos/ReactiveX/RxJava.md) | ⭐ 48,208 | 2026-08-28 | 1 |
-| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 42,547 | 2026-08-05 | 19 |
+| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 43,092 | 2026-08-05 | 20 |
 | [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 40,328 | 2026-08-02 | 11 |
 | [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 39,988 | 2026-08-06 | 13 |
 | [halo-dev/halo](../repos/halo-dev/halo.md) | ⭐ 39,576 | 2026-08-22 | 3 |
@@ -115,14 +115,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 31 | ⭐ 6,265 | 2026-08-05 | 2026-11-05 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 30 | ⭐ 97,803 | 2026-08-03 | 2026-11-04 |
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 30 | ⭐ 6,231 | 2026-08-05 | 2026-11-03 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 24 | ⭐ 78,425 | 2026-08-02 | 2026-10-28 |
 | [kestra-io/kestra](../repos/kestra-io/kestra.md) | 23 | ⭐ 29,909 | 2026-08-04 | 2026-10-20 |
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 20 | ⭐ 27,723 | 2026-08-02 | 2026-11-03 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 21 | ⭐ 27,840 | 2026-08-02 | 2026-11-05 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 20 | ⭐ 81,760 | 2026-08-04 | 2026-10-22 |
+| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 20 | ⭐ 43,092 | 2026-08-05 | 2026-11-05 |
 | [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | 20 | ⭐ 7,452 | 2026-08-14 | 2026-11-03 |
-| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 19 | ⭐ 42,547 | 2026-08-05 | 2026-10-18 |
 | [microg/GmsCore](../repos/microg/GmsCore.md) | 19 | ⭐ 15,194 | 2026-08-06 | 2026-11-04 |
 | [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 18 | ⭐ 35,578 | 2026-08-04 | 2026-10-26 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-04T21:00:57.490Z*
+*Last updated: 2026-11-05T21:00:57.402Z*

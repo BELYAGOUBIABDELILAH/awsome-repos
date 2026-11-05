@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 330
+- **Total Repositories**: 334
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-11-02
 
@@ -16,58 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 51,364 | 2026-08-01 | 22 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 39,032 | 2026-08-01 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 36,482 | 2026-08-01 | 26 |
+| [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 78,808 | 2026-08-03 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ccfos/nightingale](../repos/ccfos/nightingale.md) | ⭐ 13,439 | 2026-08-01 | 2 |
+| [argoproj/argo-cd](../repos/argoproj/argo-cd.md) | ⭐ 24,550 | 2026-08-04 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | ⭐ 1,031 | 2026-08-01 | 18 |
+| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 28,532 | 2026-08-04 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [superplanehq/superplane](../repos/superplanehq/superplane.md) | ⭐ 8,793 | 2026-08-02 | 14 |
+| [zzet/gortex](../repos/zzet/gortex.md) | ⭐ 2,003 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [argoproj/argo-cd](../repos/argoproj/argo-cd.md) | ⭐ 24,540 | 2026-08-04 | 11 |
+| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 33,428 | 2026-08-06 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [coder/coder](../repos/coder/coder.md) | ⭐ 17,271 | 2026-08-06 | 7 |
+| [trufflesecurity/trufflehog](../repos/trufflesecurity/trufflehog.md) | ⭐ 28,889 | 2026-08-12 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pocket-id/pocket-id](../repos/pocket-id/pocket-id.md) | ⭐ 9,998 | 2026-08-08 | 4 |
+| [juicedata/juicefs](../repos/juicedata/juicefs.md) | ⭐ 14,683 | 2026-08-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [moby/buildkit](../repos/moby/buildkit.md) | ⭐ 10,362 | 2026-09-08 | 2 |
+| [guohuiyuan/go-music-dl](../repos/guohuiyuan/go-music-dl.md) | ⭐ 6,033 | 2026-09-20 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [guohuiyuan/go-music-dl](../repos/guohuiyuan/go-music-dl.md) | ⭐ 5,993 | 2026-09-20 | 6 |
+| [hashicorp/terraform-provider-azurerm](../repos/hashicorp/terraform-provider-azurerm.md) | ⭐ 4,982 | 2026-11-05 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [slavakurilyak/awesome-ai-agents](../repos/slavakurilyak/awesome-ai-agents.md) | ⭐ 2,723 | 2026-10-06 | Awesome list of 300+ agentic AI resources |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [llm-d/llm-d-router](../repos/llm-d/llm-d-router.md) | ⭐ 418 | 2026-10-06 | llm-d Router: The intelligent entry point for inference requests |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [owasp-amass/amass](../repos/owasp-amass/amass.md) | ⭐ 15,303 | 2026-10-06 | In-depth attack surface mapping and asset discovery |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [dundee/gdu](../repos/dundee/gdu.md) | ⭐ 6,077 | 2026-10-06 | Fast disk usage analyzer with console interface written in Go |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [prometheus/client_golang](../repos/prometheus/client_golang.md) | ⭐ 6,038 | 2026-10-06 | Prometheus instrumentation library for Go applications |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [helm/helm](../repos/helm/helm.md) | ⭐ 30,358 | 2026-10-06 | The Kubernetes Package Manager |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [kai-scheduler/KAI-Scheduler](../repos/kai-scheduler/KAI-Scheduler.md) | ⭐ 1,559 | 2026-10-08 | KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale |
@@ -80,6 +62,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Agent-Field/CodeAF](../repos/Agent-Field/CodeAF.md) | ⭐ 370 | 2026-10-09 | Open-Source Software factory for Open Models |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Autumn-27/ScopeSentry](../repos/Autumn-27/ScopeSentry.md) | ⭐ 1,811 | 2026-10-11 | ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information disco... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Bennettxai/FounderOS](../repos/Bennettxai/FounderOS.md) | ⭐ 1,115 | 2026-10-12 | An open-source, single-operator business command center: run a one-person operated company as AI-... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [HEXUXIU/M365-Copilot2API](../repos/HEXUXIU/M365-Copilot2API.md) | ⭐ 555 | 2026-10-12 | Microsoft 365 Copilot → OpenAI &#x2F; Anthropic 兼容 API 网关。 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [rasonyang/ai-native-callcenter](../repos/rasonyang/ai-native-callcenter.md) | ⭐ 243 | 2026-10-13 | Self-hosted, API-first AI call center. Realtime voice bots answer every call, human agents take o... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [redis/go-redis](../repos/redis/go-redis.md) | ⭐ 22,263 | 2026-10-13 | Redis Go client |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [razorpay/slashdocs](../repos/razorpay/slashdocs.md) | ⭐ 286 | 2026-10-14 | Give your agents the power to publish reviewable HTML documents. Self-hosted server + CLI + remot... |
 
 
 ---
@@ -96,7 +96,7 @@
 | [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 90,245 | 2026-08-03 | 4 |
 | [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,404 | 2026-08-05 | 4 |
 | [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 81,063 | 2026-08-12 | 8 |
-| [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 77,476 | 2026-08-03 | 8 |
+| [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 78,808 | 2026-08-03 | 9 |
 | [moby/moby](../repos/moby/moby.md) | ⭐ 72,214 | 2026-08-04 | 6 |
 | [nektos/act](../repos/nektos/act.md) | ⭐ 71,966 | 2026-08-07 | 2 |
 | [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 66,720 | 2026-08-11 | 6 |
@@ -118,13 +118,13 @@
 | [ollama/ollama](../repos/ollama/ollama.md) | 27 | ⭐ 185,709 | 2026-08-01 | 2026-11-02 |
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 26 | ⭐ 36,482 | 2026-08-01 | 2026-11-04 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 24 | ⭐ 54,728 | 2026-08-01 | 2026-11-03 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 23 | ⭐ 39,032 | 2026-08-01 | 2026-11-05 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 22 | ⭐ 51,364 | 2026-08-01 | 2026-11-04 |
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 22 | ⭐ 38,924 | 2026-08-01 | 2026-11-03 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 20 | ⭐ 45,097 | 2026-08-07 | 2026-10-29 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 19 | ⭐ 5,954 | 2026-08-02 | 2026-10-29 |
 | [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | 18 | ⭐ 1,031 | 2026-08-01 | 2026-11-04 |
 | [golang/go](../repos/golang/go.md) | 17 | ⭐ 139,616 | 2026-07-31 | 2026-10-26 |
-| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 17 | ⭐ 48,815 | 2026-08-20 | 2026-10-28 |
+| [gastownhall/beads](../repos/gastownhall/beads.md) | 17 | ⭐ 28,532 | 2026-08-04 | 2026-11-05 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-04T21:00:57.482Z*
+*Last updated: 2026-11-05T21:00:57.395Z*

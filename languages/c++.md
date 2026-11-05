@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 297
+- **Total Repositories**: 299
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-11-04
+- **Last Updated**: 2026-11-05
 
 ---
 
@@ -16,43 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,305 | 2026-07-30 | 30 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,319 | 2026-07-30 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 24,313 | 2026-08-02 | 10 |
+| [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 24,353 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/googletest](../repos/google/googletest.md) | ⭐ 39,706 | 2026-08-04 | 26 |
+| [google/googletest](../repos/google/googletest.md) | ⭐ 39,709 | 2026-08-04 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/workerd](../repos/cloudflare/workerd.md) | ⭐ 9,129 | 2026-08-06 | 6 |
+| [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | ⭐ 22,247 | 2026-08-06 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | ⭐ 22,225 | 2026-08-06 | 14 |
+| [k2-fsa/sherpa-onnx](../repos/k2-fsa/sherpa-onnx.md) | ⭐ 15,763 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hyprwm/Hyprland](../repos/hyprwm/Hyprland.md) | ⭐ 40,294 | 2026-08-07 | 8 |
+| [amnezia-vpn/amnezia-client](../repos/amnezia-vpn/amnezia-client.md) | ⭐ 15,770 | 2026-08-16 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kvcache-ai/Mooncake](../repos/kvcache-ai/Mooncake.md) | ⭐ 6,977 | 2026-08-15 | 8 |
+| [xoxor4d/gta4-rtx](../repos/xoxor4d/gta4-rtx.md) | ⭐ 845 | 2026-09-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dariulone/cyberpunk-vr-port](../repos/dariulone/cyberpunk-vr-port.md) | ⭐ 470 | 2026-08-23 | 7 |
+| [luanti-org/luanti](../repos/luanti-org/luanti.md) | ⭐ 13,818 | 2026-11-05 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ros-navigation/navigation2](../repos/ros-navigation/navigation2.md) | ⭐ 5,003 | 2026-10-29 | 2 |
+| [dolphin-emu/dolphin](../repos/dolphin-emu/dolphin.md) | ⭐ 15,773 | 2026-11-05 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 50,692 | 2026-10-06 | Tool for automatic PS5 executables porting to Linux and Windows |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [M-Abozaid/esp32-c3-adblock](../repos/M-Abozaid/esp32-c3-adblock.md) | ⭐ 2,354 | 2026-10-06 | Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Confetti3/SF4-Ember-Netplay](../repos/Confetti3/SF4-Ember-Netplay.md) | ⭐ 91 | 2026-10-07 | Private rollback rooms and a controller-first overlay for Ultra Street Fighter IV. An unofficial ... |
@@ -77,6 +71,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ninja-build/ninja](../repos/ninja-build/ninja.md) | ⭐ 13,293 | 2026-10-08 | a small build system with a focus on speed |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [open-source-parsers/jsoncpp](../repos/open-source-parsers/jsoncpp.md) | ⭐ 8,901 | 2026-10-08 | A C++ library for interacting with JSON. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [DamRsn/NeuralNote](../repos/DamRsn/NeuralNote.md) | ⭐ 3,381 | 2026-10-09 | Audio Plugin for Audio to MIDI transcription using deep learning. |
 
 
 ---
@@ -85,7 +85,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,305 | 2026-07-30 | 30 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,319 | 2026-07-30 | 31 |
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 132,446 | 2026-08-01 | 33 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,803 | 2026-08-04 | 7 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 123,622 | 2026-08-01 | 7 |
@@ -114,14 +114,14 @@
 |------------|---------------|-------|------------|-----------|
 | [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 46 | ⭐ 439 | 2026-08-01 | 2026-10-09 |
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 33 | ⭐ 132,446 | 2026-08-01 | 2026-10-26 |
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 30 | ⭐ 201,305 | 2026-07-30 | 2026-11-04 |
-| [google/googletest](../repos/google/googletest.md) | 26 | ⭐ 39,706 | 2026-08-04 | 2026-11-04 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 31 | ⭐ 201,319 | 2026-07-30 | 2026-11-05 |
+| [google/googletest](../repos/google/googletest.md) | 27 | ⭐ 39,709 | 2026-08-04 | 2026-11-05 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 20 | ⭐ 72,138 | 2026-08-01 | 2026-10-29 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 19 | ⭐ 546 | 2026-08-01 | 2026-10-29 |
 | [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | 18 | ⭐ 32,530 | 2026-08-03 | 2026-11-03 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 18 | ⭐ 76,876 | 2026-08-08 | 2026-10-29 |
 | [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 15 | ⭐ 11,986 | 2026-08-02 | 2026-10-22 |
-| [gabime/spdlog](../repos/gabime/spdlog.md) | 14 | ⭐ 29,673 | 2026-08-01 | 2026-10-07 |
+| [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | 15 | ⭐ 22,247 | 2026-08-06 | 2026-11-05 |
 
 ---
 
@@ -230,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-11-04T21:00:57.453Z*
+*Last updated: 2026-11-05T21:00:57.374Z*

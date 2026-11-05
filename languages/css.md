@@ -16,19 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,480 | 2026-08-01 | 57 |
+| [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,487 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,433 | 2026-08-04 | 32 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,480 | 2026-08-01 | 58 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,625 | 2026-08-05 | 24 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [jensimmons/cssremedy](../repos/jensimmons/cssremedy.md) | ⭐ 2,221 | 2026-09-12 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [jerrykuku/luci-theme-argon](../repos/jerrykuku/luci-theme-argon.md) | ⭐ 5,584 | 2026-10-17 | 6 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,627 | 2026-08-05 | 25 |
 
 
 ---
@@ -74,7 +68,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,947 | 2026-08-06 | 27 |
-| [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,503 | 2026-08-01 | 13 |
+| [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,487 | 2026-08-01 | 14 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,433 | 2026-08-04 | 32 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 41,980 | 2026-08-02 | 40 |
 | [adobe-fonts/source-code-pro](../repos/adobe-fonts/source-code-pro.md) | ⭐ 20,445 | 2026-09-07 | 1 |
@@ -87,7 +81,7 @@
 | [tachyons-css/tachyons](../repos/tachyons-css/tachyons.md) | ⭐ 11,724 | 2026-10-16 | 6 |
 | [jdan/98.css](../repos/jdan/98.css.md) | ⭐ 11,557 | 2026-08-09 | 3 |
 | [StylishThemes/GitHub-Dark](../repos/StylishThemes/GitHub-Dark.md) | ⭐ 9,966 | 2026-08-19 | 3 |
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,625 | 2026-08-05 | 24 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,627 | 2026-08-05 | 25 |
 | [troxler/awesome-css-frameworks](../repos/troxler/awesome-css-frameworks.md) | ⭐ 9,495 | 2026-08-23 | 2 |
 | [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,461 | 2026-09-02 | 6 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,380 | 2026-08-01 | 18 |
@@ -100,14 +94,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 57 | ⭐ 1,480 | 2026-08-01 | 2026-11-04 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 58 | ⭐ 1,480 | 2026-08-01 | 2026-11-05 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 40 | ⭐ 41,980 | 2026-08-02 | 2026-10-29 |
 | [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 37 | ⭐ 920 | 2026-08-01 | 2026-10-19 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 32 | ⭐ 45,433 | 2026-08-04 | 2026-11-04 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 29 | ⭐ 1,431 | 2026-08-01 | 2026-10-22 |
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | 27 | ⭐ 82,947 | 2026-08-06 | 2026-11-02 |
 | [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | 26 | ⭐ 6,864 | 2026-08-10 | 2026-11-02 |
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 24 | ⭐ 9,625 | 2026-08-05 | 2026-11-04 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 25 | ⭐ 9,627 | 2026-08-05 | 2026-11-05 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 23 | ⭐ 12,511 | 2026-08-01 | 2026-10-09 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 18 | ⭐ 9,380 | 2026-08-01 | 2026-10-25 |
 
@@ -198,4 +192,4 @@
 
 ---
 
-*Last updated: 2026-11-04T21:00:57.455Z*
+*Last updated: 2026-11-05T21:00:57.376Z*

@@ -16,19 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/fonts](../repos/google/fonts.md) | ⭐ 20,719 | 2026-08-03 | 8 |
+| [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,954 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sjj1024/PakePlus](../repos/Sjj1024/PakePlus.md) | ⭐ 15,675 | 2026-08-07 | 8 |
+| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,648 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 30,478 | 2026-08-09 | 17 |
+| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 17,143 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [datawhalechina/Agent-Learning-Hub](../repos/datawhalechina/Agent-Learning-Hub.md) | ⭐ 9,244 | 2026-09-03 | 9 |
+| [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 76,613 | 2026-08-19 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alshedivat/al-folio](../repos/alshedivat/al-folio.md) | ⭐ 16,299 | 2026-11-04 | 1 |
+| [isjiamu/gzh-design-skill](../repos/isjiamu/gzh-design-skill.md) | ⭐ 4,267 | 2026-09-01 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [tegal1337/CiLocks](../repos/tegal1337/CiLocks.md) | ⭐ 3,306 | 2026-09-19 | 9 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [dequelabs/axe-core](../repos/dequelabs/axe-core.md) | ⭐ 7,764 | 2026-10-03 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [EricTechPro/super-board](../repos/EricTechPro/super-board.md) | ⭐ 610 | 2026-10-09 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Hisn00w/ASu-skills](../repos/Hisn00w/ASu-skills.md) | ⭐ 6,242 | 2026-10-12 | 3 |
 
 
 ---
@@ -46,7 +58,7 @@
 | [alchaincyf/huashu-design](../repos/alchaincyf/huashu-design.md) | ⭐ 27,955 | 2026-10-09 | Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 &#x2F; App 原型 &#x2F; 可编辑 PPTX &#x2F; 动画 &#x2F; 信息图 · 六个候选挑三个方向 · 84 种带样... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [EricTechPro/super-board](../repos/EricTechPro/super-board.md) | ⭐ 380 | 2026-10-09 | Autonomous GitHub Project build → QA → review loop for Claude Code. One-line install. |
+| [EricTechPro/super-board](../repos/EricTechPro/super-board.md) | ⭐ 610 | 2026-10-09 | Autonomous GitHub Project build → QA → review loop for Claude Code. One-line install. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [SamidyFR/Game-Decompilations](../repos/SamidyFR/Game-Decompilations.md) | ⭐ 568 | 2026-10-11 | List of Game Decompilations i could gather from around the internet. |
@@ -58,7 +70,7 @@
 | [vpnfast/vpnfast.github.io](../repos/vpnfast/vpnfast.github.io.md) | ⭐ 1,611 | 2026-10-11 | 2026年科学上网最稳翻墙软件，几款中国好用的VPN推荐 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Hisn00w/ASu-skills](../repos/Hisn00w/ASu-skills.md) | ⭐ 5,942 | 2026-10-12 | 🚀面向求职与开发场景的实用 AI Skills 集合，支持简历优化、岗位投递、面试准备与开发提效。 |
+| [Hisn00w/ASu-skills](../repos/Hisn00w/ASu-skills.md) | ⭐ 6,242 | 2026-10-12 | 🚀面向求职与开发场景的实用 AI Skills 集合，支持简历优化、岗位投递、面试准备与开发提效。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [yvoronoy/awesome-english](../repos/yvoronoy/awesome-english.md) | ⭐ 4,363 | 2026-10-14 | A collection of awesome study resources for learners of English. |
@@ -75,9 +87,9 @@
 |------------|-------|------------|---------------|
 | [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 210,660 | 2026-08-03 | 21 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 141,705 | 2026-08-08 | 18 |
-| [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 76,193 | 2026-08-19 | 8 |
+| [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 76,613 | 2026-08-19 | 9 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,488 | 2026-08-01 | 21 |
-| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,544 | 2026-08-01 | 8 |
+| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,648 | 2026-08-01 | 9 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 43,224 | 2026-08-12 | 13 |
 | [QSCTech/zju-icicles](../repos/QSCTech/zju-icicles.md) | ⭐ 41,233 | 2026-09-03 | 4 |
 | [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,722 | 2026-08-07 | 7 |
@@ -218,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-11-04T21:00:57.486Z*
+*Last updated: 2026-11-05T21:00:57.399Z*
