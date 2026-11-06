@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 224
+- **Total Repositories**: 226
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-28
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/tika](../repos/apache/tika.md) | ⭐ 4,129 | 2026-08-01 | 2 |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,969 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 27,840 | 2026-08-02 | 21 |
+| [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | ⭐ 29,689 | 2026-08-02 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [trinodb/trino](../repos/trinodb/trino.md) | ⭐ 13,470 | 2026-08-04 | 13 |
+| [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | ⭐ 30,232 | 2026-08-02 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/flink](../repos/apache/flink.md) | ⭐ 26,452 | 2026-08-04 | 13 |
+| [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 40,473 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 43,092 | 2026-08-05 | 20 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 27,888 | 2026-08-02 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 6,265 | 2026-08-05 | 31 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,509 | 2026-08-02 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alibaba/spring-ai-alibaba](../repos/alibaba/spring-ai-alibaba.md) | ⭐ 11,111 | 2026-08-11 | 14 |
+| [bazelbuild/bazel](../repos/bazelbuild/bazel.md) | ⭐ 26,055 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [langgraph4j/langgraph4j](../repos/langgraph4j/langgraph4j.md) | ⭐ 2,086 | 2026-08-20 | 3 |
+| [trinodb/trino](../repos/trinodb/trino.md) | ⭐ 13,476 | 2026-08-04 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Stonewuu/ai-fusion-video](../repos/Stonewuu/ai-fusion-video.md) | ⭐ 1,711 | 2026-09-22 | 2 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 30,163 | 2026-08-04 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zed-0xff/ZombieBuddy](../repos/zed-0xff/ZombieBuddy.md) | ⭐ 315 | 2026-09-29 | 7 |
+| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 52,327 | 2026-08-04 | 15 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [JetBrains/JetBrainsRuntime](../repos/JetBrains/JetBrainsRuntime.md) | ⭐ 1,999 | 2026-10-07 | Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, mac... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Sketchware-Pro/Sketchware-Pro](../repos/Sketchware-Pro/Sketchware-Pro.md) | ⭐ 1,799 | 2026-10-08 | Sketchware Pro&#39;s sources in Java. Now anyone can contribute to Sketchware Pro. |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [vespa-engine/vespa](../repos/vespa-engine/vespa.md) | ⭐ 7,148 | 2026-10-27 | The AI search platform |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [cyberkaida/reverse-engineering-assistant](../repos/cyberkaida/reverse-engineering-assistant.md) | ⭐ 935 | 2026-11-04 | MCP server for reverse engineering tasks in Ghidra 👩‍💻 |
 
 
 ---
@@ -90,21 +90,21 @@
 |------------|-------|------------|---------------|
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 131,621 | 2026-08-04 | 16 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 97,803 | 2026-08-03 | 30 |
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,760 | 2026-08-04 | 20 |
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,425 | 2026-08-02 | 24 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,786 | 2026-08-04 | 21 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,509 | 2026-08-02 | 25 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,612 | 2026-08-04 | 10 |
 | [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,508 | 2026-08-08 | 3 |
 | [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,300 | 2026-08-08 | 11 |
-| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 52,224 | 2026-08-04 | 14 |
+| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 52,327 | 2026-08-04 | 15 |
 | [google/guava](../repos/google/guava.md) | ⭐ 51,912 | 2026-08-02 | 12 |
 | [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 51,593 | 2026-08-12 | 12 |
 | [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 48,307 | 2026-08-07 | 11 |
 | [ReactiveX/RxJava](../repos/ReactiveX/RxJava.md) | ⭐ 48,208 | 2026-08-28 | 1 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 43,092 | 2026-08-05 | 20 |
-| [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 40,328 | 2026-08-02 | 11 |
+| [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 40,473 | 2026-08-02 | 12 |
+| [halo-dev/halo](../repos/halo-dev/halo.md) | ⭐ 40,123 | 2026-08-22 | 4 |
 | [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 39,988 | 2026-08-06 | 13 |
-| [halo-dev/halo](../repos/halo-dev/halo.md) | ⭐ 39,576 | 2026-08-22 | 3 |
 | [PhilJay/MPAndroidChart](../repos/PhilJay/MPAndroidChart.md) | ⭐ 38,169 | 2026-09-21 | 1 |
 | [alibaba/arthas](../repos/alibaba/arthas.md) | ⭐ 37,526 | 2026-08-28 | 2 |
 | [doocs/leetcode](../repos/doocs/leetcode.md) | ⭐ 36,511 | 2026-08-08 | 5 |
@@ -117,10 +117,10 @@
 |------------|---------------|-------|------------|-----------|
 | [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 31 | ⭐ 6,265 | 2026-08-05 | 2026-11-05 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 30 | ⭐ 97,803 | 2026-08-03 | 2026-11-04 |
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 24 | ⭐ 78,425 | 2026-08-02 | 2026-10-28 |
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 23 | ⭐ 29,909 | 2026-08-04 | 2026-10-20 |
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 21 | ⭐ 27,840 | 2026-08-02 | 2026-11-05 |
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 20 | ⭐ 81,760 | 2026-08-04 | 2026-10-22 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 25 | ⭐ 78,509 | 2026-08-02 | 2026-11-06 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 24 | ⭐ 30,163 | 2026-08-04 | 2026-11-06 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 22 | ⭐ 27,888 | 2026-08-02 | 2026-11-06 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 21 | ⭐ 81,786 | 2026-08-04 | 2026-11-06 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 20 | ⭐ 43,092 | 2026-08-05 | 2026-11-05 |
 | [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | 20 | ⭐ 7,452 | 2026-08-14 | 2026-11-03 |
 | [microg/GmsCore](../repos/microg/GmsCore.md) | 19 | ⭐ 15,194 | 2026-08-06 | 2026-11-04 |
@@ -175,7 +175,7 @@
 - [apache/druid](../repos/apache/druid.md) - Apache Druid: a high performance real-time analytics database.
 - [iflytek/skillhub](../repos/iflytek/skillhub.md) - Self-hosted, open-source agent skill registry for enterprises. Publish &amp; version skill packages, ...
 - [trinodb/trino](../repos/trinodb/trino.md) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as Pr...
-- [kestra-io/kestra](../repos/kestra-io/kestra.md) - Event Driven Orchestration &amp; Scheduling Platform for Mission Critical Applications
+- [kestra-io/kestra](../repos/kestra-io/kestra.md) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infr...
 - [krahets/hello-algo](../repos/krahets/hello-algo.md) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Ru...
 - [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) - All Algorithms implemented in Java
 - [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) - Browse media content with your own rules on Android TV
@@ -186,7 +186,7 @@
 - [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) - Spring Boot helps you to create Spring-powered, production-grade applications and services with a...
 - [Apicurio/apicurio-registry](../repos/Apicurio/apicurio-registry.md) - An API&#x2F;Schema registry - stores APIs and Schemas.
 - [apache/flink](../repos/apache/flink.md) - Apache Flink
-- [camunda/camunda](../repos/camunda/camunda.md) - Process Orchestration Framework
+- [camunda/camunda](../repos/camunda/camunda.md) - Agentic Orchestration Platform
 - [apache/paimon](../repos/apache/paimon.md) - Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink...
 - [openjdk/jdk](../repos/openjdk/jdk.md) - JDK main-line development https:&#x2F;&#x2F;openjdk.org&#x2F;projects&#x2F;jdk
 - [supertokens/supertokens-core](../repos/supertokens/supertokens-core.md) - Open source alternative to Auth0 &#x2F; Firebase Auth &#x2F; AWS Cognito 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-05T21:00:57.402Z*
+*Last updated: 2026-11-06T21:01:02.122Z*

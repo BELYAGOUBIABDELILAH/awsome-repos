@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 299
+- **Total Repositories**: 301
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-05
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,319 | 2026-07-30 | 31 |
+| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,617 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 24,353 | 2026-08-02 | 11 |
+| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,787 | 2026-08-03 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/googletest](../repos/google/googletest.md) | ⭐ 39,709 | 2026-08-04 | 27 |
+| [wled/WLED](../repos/wled/WLED.md) | ⭐ 18,990 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | ⭐ 22,247 | 2026-08-06 | 15 |
+| [ceph/ceph](../repos/ceph/ceph.md) | ⭐ 17,206 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k2-fsa/sherpa-onnx](../repos/k2-fsa/sherpa-onnx.md) | ⭐ 15,763 | 2026-08-07 | 3 |
+| [orailnoor/cross-platform-llm-client](../repos/orailnoor/cross-platform-llm-client.md) | ⭐ 1,572 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [amnezia-vpn/amnezia-client](../repos/amnezia-vpn/amnezia-client.md) | ⭐ 15,770 | 2026-08-16 | 9 |
+| [dmlc/xgboost](../repos/dmlc/xgboost.md) | ⭐ 28,949 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xoxor4d/gta4-rtx](../repos/xoxor4d/gta4-rtx.md) | ⭐ 845 | 2026-09-02 | 3 |
+| [envoyproxy/envoy](../repos/envoyproxy/envoy.md) | ⭐ 29,189 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [luanti-org/luanti](../repos/luanti-org/luanti.md) | ⭐ 13,818 | 2026-11-05 | 1 |
+| [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | ⭐ 22,255 | 2026-08-06 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dolphin-emu/dolphin](../repos/dolphin-emu/dolphin.md) | ⭐ 15,773 | 2026-11-05 | 1 |
+| [google/flatbuffers](../repos/google/flatbuffers.md) | ⭐ 26,617 | 2026-08-11 | 8 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [fmtlib/fmt](../repos/fmtlib/fmt.md) | ⭐ 25,910 | 2026-08-12 | 11 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Confetti3/SF4-Ember-Netplay](../repos/Confetti3/SF4-Ember-Netplay.md) | ⭐ 91 | 2026-10-07 | Private rollback rooms and a controller-first overlay for Ultra Street Fighter IV. An unofficial ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [MAZHARMIK/Interview_DS_Algo](../repos/MAZHARMIK/Interview_DS_Algo.md) | ⭐ 5,231 | 2026-10-07 | Super Repository for Coding Interview Preperation |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [google/re2](../repos/google/re2.md) | ⭐ 9,817 | 2026-10-07 | RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [facebook/rebalancer](../repos/facebook/rebalancer.md) | ⭐ 353 | 2026-10-08 | Rebalancer is a domain-specific language and tool for specifying and solving assignment problems ... |
@@ -77,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [DamRsn/NeuralNote](../repos/DamRsn/NeuralNote.md) | ⭐ 3,381 | 2026-10-09 | Audio Plugin for Audio to MIDI transcription using deep learning. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [diasurgical/DevilutionX](../repos/diasurgical/DevilutionX.md) | ⭐ 9,834 | 2026-10-12 | Diablo build for modern operating systems |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [scummvm/scummvm](../repos/scummvm/scummvm.md) | ⭐ 2,855 | 2026-10-13 | ScummVM main repository |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [pichenettes/eurorack](../repos/pichenettes/eurorack.md) | ⭐ 3,289 | 2026-10-14 | Eurorack modules |
 
 
 ---
@@ -91,14 +94,14 @@
 | [electron/electron](../repos/electron/electron.md) | ⭐ 123,622 | 2026-08-01 | 7 |
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 119,259 | 2026-08-01 | 12 |
 | [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 105,211 | 2026-08-06 | 8 |
-| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,523 | 2026-08-02 | 11 |
+| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,617 | 2026-08-02 | 12 |
 | [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 77,216 | 2026-08-12 | 7 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,876 | 2026-08-08 | 18 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,138 | 2026-08-01 | 20 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,676 | 2026-08-05 | 11 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
+| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,787 | 2026-08-03 | 13 |
 | [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 50,692 | 2026-10-06 | 7 |
-| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,543 | 2026-08-03 | 12 |
 | [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,454 | 2026-09-01 | 3 |
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,405 | 2026-08-02 | 10 |
 | [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 43,382 | 2026-09-06 | 3 |
@@ -120,8 +123,8 @@
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 19 | ⭐ 546 | 2026-08-01 | 2026-10-29 |
 | [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | 18 | ⭐ 32,530 | 2026-08-03 | 2026-11-03 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 18 | ⭐ 76,876 | 2026-08-08 | 2026-10-29 |
+| [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | 16 | ⭐ 22,255 | 2026-08-06 | 2026-11-06 |
 | [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 15 | ⭐ 11,986 | 2026-08-02 | 2026-10-22 |
-| [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | 15 | ⭐ 22,247 | 2026-08-06 | 2026-11-05 |
 
 ---
 
@@ -230,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-05T21:00:57.374Z*
+*Last updated: 2026-11-06T21:01:02.088Z*

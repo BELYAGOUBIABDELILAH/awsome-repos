@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex](../repos/openai/codex.md) | ⭐ 133,337 | 2026-08-01 | 19 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 121,358 | 2026-07-30 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [googleworkspace/cli](../repos/googleworkspace/cli.md) | ⭐ 32,128 | 2026-08-01 | 6 |
+| [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,871 | 2026-07-30 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 45,804 | 2026-08-02 | 16 |
+| [rust-lang/rust-clippy](../repos/rust-lang/rust-clippy.md) | ⭐ 13,625 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 103,801 | 2026-08-05 | 29 |
+| [nushell/nushell](../repos/nushell/nushell.md) | ⭐ 40,916 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 11,450 | 2026-08-26 | 18 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 46,295 | 2026-08-02 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [longbridge/gpui-kit](../repos/longbridge/gpui-kit.md) | ⭐ 19,372 | 2026-09-04 | 12 |
+| [rust-lang/cargo](../repos/rust-lang/cargo.md) | ⭐ 15,680 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-desktop](../repos/vercel-labs/agent-desktop.md) | ⭐ 16,683 | 2026-11-02 | 4 |
+| [rerun-io/rerun](../repos/rerun-io/rerun.md) | ⭐ 11,715 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tembo/voxl](../repos/tembo/voxl.md) | ⭐ 1,158 | 2026-11-05 | 1 |
+| [rivet-dev/rivet](../repos/rivet-dev/rivet.md) | ⭐ 6,755 | 2026-08-08 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 96,635 | 2026-08-11 | 10 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 50,612 | 2026-08-12 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [eolix/photosuite](../repos/eolix/photosuite.md) | ⭐ 886 | 2026-10-07 | A desktop image editor, faithful to classic Adobe Photoshop, with native PSD&#x2F;PSB compatibility |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [harry0703/MangoDisk](../repos/harry0703/MangoDisk.md) | ⭐ 4,599 | 2026-10-07 | Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [xerj-org/xerj](../repos/xerj-org/xerj.md) | ⭐ 12,755 | 2026-10-07 | Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs,... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [tracel-ai/burn](../repos/tracel-ai/burn.md) | ⭐ 16,056 | 2026-10-08 | Burn is a next generation tensor library and Deep Learning Framework that doesn&#39;t compromise on f... |
@@ -74,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [pollen-robotics/microduck](../repos/pollen-robotics/microduck.md) | ⭐ 12,745 | 2026-10-16 | A Tiny biped duck robot 🦆 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [GCWing/OpenBitFun](../repos/GCWing/OpenBitFun.md) | ⭐ 2,852 | 2026-10-17 | OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop appl... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [foundry-rs/foundry](../repos/foundry-rs/foundry.md) | ⭐ 10,767 | 2026-10-17 | Foundry is a blazing fast, portable and modular toolkit for Ethereum application development writ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [smg-project/smg](../repos/smg-project/smg.md) | ⭐ 636 | 2026-10-19 | Engine-agnostic LLM gateway in Rust. Full OpenAI &amp; Anthropic API compatibility across vLLM, TRT-L... |
 
 
 ---
@@ -83,11 +89,11 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [openai/codex](../repos/openai/codex.md) | ⭐ 133,337 | 2026-08-01 | 19 |
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 119,946 | 2026-07-30 | 11 |
-| [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,322 | 2026-07-30 | 3 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 121,358 | 2026-07-30 | 12 |
+| [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,871 | 2026-07-30 | 4 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 103,801 | 2026-08-05 | 29 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 101,543 | 2026-08-09 | 21 |
-| [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 96,300 | 2026-08-11 | 9 |
+| [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 96,635 | 2026-08-11 | 10 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 91,084 | 2026-07-31 | 7 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
@@ -96,11 +102,11 @@
 | [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 64,099 | 2026-08-03 | 2 |
 | [rust-unofficial/awesome-rust](../repos/rust-unofficial/awesome-rust.md) | ⭐ 59,459 | 2026-09-03 | 3 |
 | [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 55,699 | 2026-08-19 | 6 |
-| [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 50,085 | 2026-08-12 | 4 |
+| [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 50,612 | 2026-08-12 | 5 |
 | [bevyengine/bevy](../repos/bevyengine/bevy.md) | ⭐ 48,449 | 2026-08-28 | 3 |
 | [herdrdev/herdr](../repos/herdrdev/herdr.md) | ⭐ 47,738 | 2026-11-03 | 1 |
 | [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 46,418 | 2026-08-28 | 2 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 45,804 | 2026-08-02 | 16 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 46,295 | 2026-08-02 | 17 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 45,552 | 2026-08-05 | 11 |
 
 ---
@@ -113,10 +119,10 @@
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 22 | ⭐ 24,202 | 2026-08-08 | 2026-10-25 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 21 | ⭐ 101,543 | 2026-08-09 | 2026-10-29 |
 | [openai/codex](../repos/openai/codex.md) | 19 | ⭐ 133,337 | 2026-08-01 | 2026-11-05 |
-| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 18 | ⭐ 11,450 | 2026-08-26 | 2026-11-05 |
+| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 19 | ⭐ 11,785 | 2026-08-26 | 2026-11-06 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 17 | ⭐ 29,069 | 2026-08-01 | 2026-11-04 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 17 | ⭐ 46,295 | 2026-08-02 | 2026-11-06 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 17 | ⭐ 42,354 | 2026-08-10 | 2026-10-26 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 16 | ⭐ 45,804 | 2026-08-02 | 2026-11-05 |
 | [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | 16 | ⭐ 12,999 | 2026-08-17 | 2026-10-23 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 15 | ⭐ 30,895 | 2026-08-03 | 2026-10-26 |
 
@@ -194,7 +200,7 @@
 - [cloud-hypervisor/cloud-hypervisor](../repos/cloud-hypervisor/cloud-hypervisor.md) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hot...
 - [LanRhyme/MicYou](../repos/LanRhyme/MicYou.md) - MicYou is a powerful tool that turns your Android device into a high-quality microphone for your PC.
 - [malisper/pgrust](../repos/malisper/pgrust.md) - Postgres rewritten in Rust, now faster than Postgres and Clickhouse
-- [rivet-dev/rivet](../repos/rivet-dev/rivet.md) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, a...
+- [rivet-dev/rivet](../repos/rivet-dev/rivet.md) - The orchestrator for agentic workloads. A fast, high-density and scalable orchestrator for every ...
 - [iii-hq/iii](../repos/iii-hq/iii.md) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [ClementTsang/bottom](../repos/ClementTsang/bottom.md) - Yet another cross-platform graphical process&#x2F;system monitor.
 - [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) - 🐱 BongoCat — A cross-platform interactive desktop pet that brings fun to your desktop!
@@ -227,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-05T21:00:57.433Z*
+*Last updated: 2026-11-06T21:01:02.165Z*

@@ -1,6 +1,6 @@
 # pipeshub-ai&#x2F;pipeshub-ai
 
-> PipesHub is an open-source fully extensible AI context layer that unifies your business data for explainable enterprise search and agentic workflow automation.
+> The open-source context layer for AI agents. PipesHub turns your company&#39;s knowledge (Slack, Drive, Jira, GitHub, Microsoft 365 and 50+ connectors) into a permission-aware workspace that agents can search, grep, navigate and cite. MCP, SDKs and built-in agents. Self-hosted.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;pipeshub-ai&#x2F;pipeshub-ai) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 3,423 |
-| **Forks** | 🍴 513 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 4,024 |
+| **Forks** | 🍴 648 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 19, 2026 |
-| **Last Seen** | Aug 19, 2026 |
+| **Last Seen** | Nov 6, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Python or agent*
+*Similar: Check repositories in Python or agentic-rag*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`agent`](../../topics/agent.md) [`agents`](../../topics/agents.md) [`ai`](../../topics/ai.md) [`drive`](../../topics/drive.md) [`glean`](../../topics/glean.md) [`gmail`](../../topics/gmail.md) [`knowledge-graph`](../../topics/knowledge-graph.md) [`langchain`](../../topics/langchain.md) [`langgraph`](../../topics/langgraph.md) [`llamaparse`](../../topics/llamaparse.md) [`notion`](../../topics/notion.md) [`ollama`](../../topics/ollama.md) [`perplexity`](../../topics/perplexity.md) [`python`](../../topics/python.md) [`rag`](../../topics/rag.md) [`slack`](../../topics/slack.md) 
+[`agentic-rag`](../../topics/agentic-rag.md) [`ai`](../../topics/ai.md) [`ai-agents`](../../topics/ai-agents.md) [`claude-code`](../../topics/claude-code.md) [`context-engineering`](../../topics/context-engineering.md) [`context-layer`](../../topics/context-layer.md) [`deep-research`](../../topics/deep-research.md) [`enterprise-search`](../../topics/enterprise-search.md) [`glean`](../../topics/glean.md) [`graphrag`](../../topics/graphrag.md) [`hybrid-search`](../../topics/hybrid-search.md) [`knowledge-graph`](../../topics/knowledge-graph.md) [`llm`](../../topics/llm.md) [`mcp`](../../topics/mcp.md) [`mcp-server`](../../topics/mcp-server.md) [`ollama`](../../topics/ollama.md) [`python`](../../topics/python.md) [`rag`](../../topics/rag.md) [`self-hosted`](../../topics/self-hosted.md) [`workplace-ai`](../../topics/workplace-ai.md) 
 
 ### Curated Categories
-`Artificial Intelligence` `Large Language Models` `Systems Programming` 
+`Artificial Intelligence` `Large Language Models` `Backend Development` `Systems Programming` 
 
 ---
 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-05T21:01:00.323Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-11-06T21:01:05.864Z*  
+*Data from 2 trending reports*

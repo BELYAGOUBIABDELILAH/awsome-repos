@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 64
+- **Total Repositories**: 67
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-21
 
@@ -16,43 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,573 | 2026-08-01 | 59 |
+| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 6,160 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 6,159 | 2026-08-01 | 27 |
+| [microsoft/AL](../repos/microsoft/AL.md) | ⭐ 888 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 940 | 2026-08-01 | 47 |
+| [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,576 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | ⭐ 1,572 | 2026-08-01 | 25 |
+| [SharePoint/sp-dev-docs](../repos/SharePoint/sp-dev-docs.md) | ⭐ 1,388 | 2026-08-15 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | ⭐ 527 | 2026-08-04 | 22 |
+| [Azure/Azure-Functions](../repos/Azure/Azure-Functions.md) | ⭐ 1,126 | 2026-10-23 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 9,292 | 2026-08-06 | 22 |
+| [dhicoc/dsh-reverse-skill](../repos/dhicoc/dsh-reverse-skill.md) | ⭐ 332 | 2026-11-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,290 | 2026-09-02 | 17 |
+| [auto-yui-patch/fiddler-everywhere-patch-automated](../repos/auto-yui-patch/fiddler-everywhere-patch-automated.md) | ⭐ 815 | 2026-11-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [javaht/claude-desktop-zh-cn](../repos/javaht/claude-desktop-zh-cn.md) | ⭐ 8,245 | 2026-10-23 | 8 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Atlas-OS/Atlas](../repos/Atlas-OS/Atlas.md) | ⭐ 22,036 | 2026-11-05 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [microsoft/AL-Go](../repos/microsoft/AL-Go.md) | ⭐ 513 | 2026-11-05 | 1 |
+| [Azure/Azure-Landing-Zones](../repos/Azure/Azure-Landing-Zones.md) | ⭐ 104 | 2026-11-06 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [microsoft/ARI](../repos/microsoft/ARI.md) | ⭐ 1,705 | 2026-10-07 | Azure Resource Inventory - It&#39;s a Powerful tool to create EXCEL inventory from Azure Resources wi... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Kiterlin/anti-defensive-writing](../repos/Kiterlin/anti-defensive-writing.md) | ⭐ 1,076 | 2026-10-13 | Codex skill for removing defensive writing and strengthening prose. |
@@ -64,7 +55,7 @@
 | [javaht/claude-desktop-zh-cn](../repos/javaht/claude-desktop-zh-cn.md) | ⭐ 8,245 | 2026-10-23 | Claude Desktop Chinese Patch (macOS &amp; Windows &amp; Linux) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Azure/Azure-Functions](../repos/Azure/Azure-Functions.md) | ⭐ 1,125 | 2026-10-23 |  |
+| [Azure/Azure-Functions](../repos/Azure/Azure-Functions.md) | ⭐ 1,126 | 2026-10-23 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Azure/azure-sdk](../repos/Azure/azure-sdk.md) | ⭐ 599 | 2026-10-25 | This is the Azure SDK parent repository and mostly contains documentation around guidelines and p... |
@@ -80,6 +71,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/AL-Go](../repos/microsoft/AL-Go.md) | ⭐ 513 | 2026-11-05 | The plug-and-play DevOps solution for Business Central app development on GitHub |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [dhicoc/dsh-reverse-skill](../repos/dhicoc/dsh-reverse-skill.md) | ⭐ 332 | 2026-11-06 | Complete reverse-skill (88 SKILL.md) as a DeepSeek Harness (dsh) Cordis plugin — reverse engineer... |
 
 
 ---
@@ -102,7 +96,7 @@
 | [javaht/claude-desktop-zh-cn](../repos/javaht/claude-desktop-zh-cn.md) | ⭐ 8,245 | 2026-10-23 | 8 |
 | [mandiant/commando-vm](../repos/mandiant/commando-vm.md) | ⭐ 7,779 | 2026-08-12 | 1 |
 | [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,674 | 2026-08-07 | 7 |
-| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 6,159 | 2026-08-01 | 27 |
+| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 6,160 | 2026-08-01 | 28 |
 | [jamesstringer90/Easy-GPU-PV](../repos/jamesstringer90/Easy-GPU-PV.md) | ⭐ 5,590 | 2026-09-06 | 3 |
 | [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 3,483 | 2026-08-01 | 28 |
 | [pester/Pester](../repos/pester/Pester.md) | ⭐ 3,369 | 2026-10-29 | 1 |
@@ -120,7 +114,7 @@
 | [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 33 | ⭐ 1,710 | 2026-08-03 | 2026-11-03 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 31 | ⭐ 8,565 | 2026-08-01 | 2026-11-02 |
 | [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 28 | ⭐ 3,483 | 2026-08-01 | 2026-11-03 |
-| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 27 | ⭐ 6,159 | 2026-08-01 | 2026-11-05 |
+| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 28 | ⭐ 6,160 | 2026-08-01 | 2026-11-06 |
 | [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 25 | ⭐ 1,572 | 2026-08-01 | 2026-11-05 |
 | [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 22 | ⭐ 527 | 2026-08-04 | 2026-11-05 |
 | [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | 22 | ⭐ 9,292 | 2026-08-06 | 2026-11-05 |
@@ -194,7 +188,10 @@
 - [irzyxa/Volume2](../repos/irzyxa/Volume2.md) - Volume² - advanced Windows volume control.
 - [Atlas-OS/Atlas](../repos/Atlas-OS/Atlas.md) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and...
 - [microsoft/AL-Go](../repos/microsoft/AL-Go.md) - The plug-and-play DevOps solution for Business Central app development on GitHub
+- [dhicoc/dsh-reverse-skill](../repos/dhicoc/dsh-reverse-skill.md) - Complete reverse-skill (88 SKILL.md) as a DeepSeek Harness (dsh) Cordis plugin — reverse engineer...
+- [auto-yui-patch/fiddler-everywhere-patch-automated](../repos/auto-yui-patch/fiddler-everywhere-patch-automated.md) - Want Fiddler Everywhere Enterprise for Free? Then Patch it! Patch any version Automatically!
+- [Azure/Azure-Landing-Zones](../repos/Azure/Azure-Landing-Zones.md) - Azure Landing Zones documentation
 
 ---
 
-*Last updated: 2026-11-05T21:00:57.424Z*
+*Last updated: 2026-11-06T21:01:02.152Z*

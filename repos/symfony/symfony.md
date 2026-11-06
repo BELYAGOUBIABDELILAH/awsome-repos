@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | PHP |
 | **License** | MIT |
-| **Stars** | ⭐ 31,231 |
-| **Forks** | 🍴 9,937 |
-| **Trending Days** | 37 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 31,375 |
+| **Forks** | 🍴 9,944 |
+| **Trending Days** | 38 |
+| **Peak Rank** | #8 |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Nov 5, 2026 |
+| **Last Seen** | Nov 6, 2026 |
 
 
 ---
@@ -43,11 +43,12 @@
 
 ## Trending Timeline
 
+**Nov 6, 2026** — Rank #8 (+89 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 37
+- **Peak Rank**: #8
+- **Trending Days**: 38
 - **Longest Streak**: 7 days
 
 ---
@@ -70,7 +71,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Average | Basic documentation available |
-| **Community** | Very Active | 31,231+ stars, strong contributor base |
+| **Community** | Very Active | 31,375+ stars, strong contributor base |
 | **Maturity** | Stable | Mature with proven track record |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -86,10 +87,10 @@
 #### Metrics
 - **Hidden Gem**: ✗ No
 - **Trending Score**: 100&#x2F;100
-- **Historical Rank**: No ranking data
+- **Historical Rank**: Top 10 (Peak: #8)
 
 
 ---
 
-*Last updated: 2026-11-05T21:00:59.070Z*  
-*Data from 37 trending reports*
+*Last updated: 2026-11-06T21:01:04.310Z*  
+*Data from 38 trending reports*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 231
+- **Total Repositories**: 233
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-02
 
@@ -16,31 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lz4/lz4](../repos/lz4/lz4.md) | ⭐ 12,338 | 2026-08-05 | 6 |
+| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,312 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 29,094 | 2026-08-09 | 15 |
+| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,184 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreeRDP/FreeRDP](../repos/FreeRDP/FreeRDP.md) | ⭐ 13,978 | 2026-08-20 | 10 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,523 | 2026-08-01 | 40 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 48,141 | 2026-09-01 | 24 |
+| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,849 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FareedKhan-dev/kimi-k3-in-c](../repos/FareedKhan-dev/kimi-k3-in-c.md) | ⭐ 10,724 | 2026-11-04 | 2 |
+| [systemd/systemd](../repos/systemd/systemd.md) | ⭐ 17,003 | 2026-08-03 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [unkyulee/micro-journal](../repos/unkyulee/micro-journal.md) | ⭐ 1,071 | 2026-11-05 | 1 |
+| [openzfs/zfs](../repos/openzfs/zfs.md) | ⭐ 12,550 | 2026-08-04 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [redis/redis](../repos/redis/redis.md) | ⭐ 77,254 | 2026-08-04 | 11 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [lz4/lz4](../repos/lz4/lz4.md) | ⭐ 12,626 | 2026-08-05 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [betaflight/betaflight](../repos/betaflight/betaflight.md) | ⭐ 11,750 | 2026-08-05 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 17,025 | 2026-08-06 | 29 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [am32-firmware/AM32](../repos/am32-firmware/AM32.md) | ⭐ 983 | 2026-10-07 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [WeebLabs/DSPi](../repos/WeebLabs/DSPi.md) | ⭐ 1,329 | 2026-10-08 | A fully featured audio DSP firmware for the Raspberry Pi Pico (RP2040) and Pico 2 (RP2350).  Offi... |
@@ -68,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [timescale/pg_vectorsearch](../repos/timescale/pg_vectorsearch.md) | ⭐ 368 | 2026-10-16 | High-performance vector search for PostgreSQL |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [logicog/RTLPlayground](../repos/logicog/RTLPlayground.md) | ⭐ 602 | 2026-10-16 | A Playground for Firmware development for RTL8372&#x2F;RTL8373 based 2.5GBit Switches |
 
 
 ---
@@ -80,14 +92,14 @@
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 140,224 | 2026-08-01 | 24 |
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 80,039 | 2026-08-24 | 4 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 78,208 | 2026-08-02 | 18 |
-| [redis/redis](../repos/redis/redis.md) | ⭐ 77,090 | 2026-08-04 | 10 |
+| [redis/redis](../repos/redis/redis.md) | ⭐ 77,254 | 2026-08-04 | 11 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 75,752 | 2026-08-01 | 26 |
 | [git/git](../repos/git/git.md) | ⭐ 64,135 | 2026-08-05 | 10 |
 | [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 48,141 | 2026-09-01 | 24 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 47,337 | 2026-08-07 | 26 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 41,534 | 2026-08-01 | 12 |
+| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,849 | 2026-08-02 | 10 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
-| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,044 | 2026-08-02 | 9 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,813 | 2026-08-04 | 10 |
 | [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,928 | 2026-08-03 | 8 |
 | [valinet/ExplorerPatcher](../repos/valinet/ExplorerPatcher.md) | ⭐ 34,217 | 2026-09-06 | 5 |
@@ -103,8 +115,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 39 | ⭐ 17,267 | 2026-08-01 | 2026-10-25 |
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 28 | ⭐ 16,924 | 2026-08-06 | 2026-10-27 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 40 | ⭐ 17,523 | 2026-08-01 | 2026-11-06 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 29 | ⭐ 17,025 | 2026-08-06 | 2026-11-06 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 26 | ⭐ 75,752 | 2026-08-01 | 2026-10-28 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 26 | ⭐ 47,337 | 2026-08-07 | 2026-10-23 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 24 | ⭐ 140,224 | 2026-08-01 | 2026-10-29 |
@@ -221,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-05T21:00:57.369Z*
+*Last updated: 2026-11-06T21:01:02.081Z*

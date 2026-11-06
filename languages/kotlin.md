@@ -16,40 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EchoMusicApp/Echo-Music](../repos/EchoMusicApp/Echo-Music.md) | ⭐ 2,306 | 2026-08-09 | 4 |
+| [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 22,050 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SuperMonster003/AutoJs6](../repos/SuperMonster003/AutoJs6.md) | ⭐ 6,592 | 2026-08-22 | 3 |
+| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,539 | 2026-08-04 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YuKongA/ghostlock-app](../repos/YuKongA/ghostlock-app.md) | ⭐ 2,679 | 2026-10-01 | 7 |
+| [LegadoTeam/legado](../repos/LegadoTeam/legado.md) | ⭐ 1,828 | 2026-08-04 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PimpinPumpkin/Vela](../repos/PimpinPumpkin/Vela.md) | ⭐ 2,463 | 2026-10-06 | 9 |
+| [element-hq/element-x-android](../repos/element-hq/element-x-android.md) | ⭐ 2,483 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BuSung-dev/Root-My-Galaxy](../repos/BuSung-dev/Root-My-Galaxy.md) | ⭐ 1,584 | 2026-10-11 | 3 |
+| [keiyoushi/extensions-source](../repos/keiyoushi/extensions-source.md) | ⭐ 4,865 | 2026-08-16 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wasi-master/wmkeyboard](../repos/wasi-master/wmkeyboard.md) | ⭐ 739 | 2026-10-11 | 4 |
+| [aquamarine5/ChaoxingSignFaker](../repos/aquamarine5/ChaoxingSignFaker.md) | ⭐ 1,018 | 2026-09-24 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | ⭐ 5,806 | 2026-10-12 | 14 |
+| [YuKongA/ghostlock-app](../repos/YuKongA/ghostlock-app.md) | ⭐ 2,728 | 2026-10-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [carlelieser/shizzi](../repos/carlelieser/shizzi.md) | ⭐ 271 | 2026-10-16 | 3 |
+| [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | ⭐ 5,955 | 2026-10-12 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [realidkroo/Mochy-Music](../repos/realidkroo/Mochy-Music.md) | ⭐ 785 | 2026-10-28 | 6 |
+| [carlelieser/shizzi](../repos/carlelieser/shizzi.md) | ⭐ 279 | 2026-10-16 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Clarklevis1995/dsh-mobile](../repos/Clarklevis1995/dsh-mobile.md) | ⭐ 740 | 2026-10-17 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [rmyndharis/VSCodroid](../repos/rmyndharis/VSCodroid.md) | ⭐ 188 | 2026-10-07 | VS Code ported to Android — a full IDE on-the-go for developers |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Lelonio/Square](../repos/Lelonio/Square.md) | ⭐ 429 | 2026-10-08 | Unofficial YouTube Music &#x2F; Spotify Premium client for Android, built in Liquid Glass. Audio effec... |
@@ -67,7 +67,7 @@
 | [wasi-master/wmkeyboard](../repos/wasi-master/wmkeyboard.md) | ⭐ 739 | 2026-10-11 | A modern, privacy-first Android keyboard: offline intelligence, 600+ languages, themes, tools and... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | ⭐ 5,806 | 2026-10-12 | BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music |
+| [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | ⭐ 5,955 | 2026-10-12 | BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [MuwMx/YumaPlayer](../repos/MuwMx/YumaPlayer.md) | ⭐ 937 | 2026-10-13 | 🎵 Hybrid music client for Android: Spotify discovery &amp; UI + YouTube Music library + Hi-Res Lossl... |
@@ -77,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Ackites/Nrfr](../repos/Ackites/Nrfr.md) | ⭐ 9,251 | 2026-10-13 | 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [orailnoor/DroidDesk](../repos/orailnoor/DroidDesk.md) | ⭐ 4,281 | 2026-10-14 | DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR, and P... |
 
 
 ---
@@ -88,7 +91,7 @@
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 65,199 | 2026-08-02 | 22 |
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 63,713 | 2026-08-03 | 17 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 56,380 | 2026-08-06 | 17 |
-| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,504 | 2026-08-04 | 13 |
+| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,539 | 2026-08-04 | 14 |
 | [android/architecture-samples](../repos/android/architecture-samples.md) | ⭐ 45,876 | 2026-10-14 | 2 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 43,581 | 2026-08-03 | 17 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 32,269 | 2026-08-08 | 20 |
@@ -98,7 +101,7 @@
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 24,746 | 2026-08-01 | 18 |
 | [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,479 | 2026-08-05 | 6 |
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 23,173 | 2026-08-02 | 6 |
-| [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 22,031 | 2026-08-01 | 9 |
+| [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 22,050 | 2026-08-01 | 10 |
 | [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 21,437 | 2026-09-07 | 11 |
 | [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,354 | 2026-08-12 | 4 |
 | [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 18,934 | 2026-08-17 | 8 |
@@ -119,9 +122,9 @@
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 17 | ⭐ 63,713 | 2026-08-03 | 2026-11-02 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | 17 | ⭐ 43,581 | 2026-08-03 | 2026-10-28 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 17 | ⭐ 56,380 | 2026-08-06 | 2026-11-04 |
+| [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | 15 | ⭐ 5,955 | 2026-10-12 | 2026-11-06 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | 14 | ⭐ 11,766 | 2026-08-02 | 2026-10-20 |
-| [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) | 14 | ⭐ 2,164 | 2026-08-04 | 2026-11-03 |
-| [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | 14 | ⭐ 5,806 | 2026-10-12 | 2026-11-05 |
+| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | 14 | ⭐ 53,539 | 2026-08-04 | 2026-11-06 |
 
 ---
 
@@ -230,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-05T21:00:57.407Z*
+*Last updated: 2026-11-06T21:01:02.129Z*

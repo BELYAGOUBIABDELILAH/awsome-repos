@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 111
+- **Total Repositories**: 113
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-02
+- **Last Updated**: 2026-11-06
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 78,250 | 2026-08-01 | 31 |
+| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 78,322 | 2026-08-01 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xiaoyaocz/dart_simple_live](../repos/xiaoyaocz/dart_simple_live.md) | ⭐ 16,225 | 2026-08-01 | 26 |
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 181,077 | 2026-08-01 | 51 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [flutter/packages](../repos/flutter/packages.md) | ⭐ 5,333 | 2026-08-01 | 25 |
+| [dart-lang/sdk](../repos/dart-lang/sdk.md) | ⭐ 11,338 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 61,422 | 2026-08-02 | 42 |
+| [flutter/packages](../repos/flutter/packages.md) | ⭐ 5,335 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 33,664 | 2026-08-02 | 43 |
+| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 61,655 | 2026-08-02 | 43 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kodjodevf/mangayomi](../repos/kodjodevf/mangayomi.md) | ⭐ 4,382 | 2026-08-02 | 20 |
+| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 33,717 | 2026-08-02 | 44 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [krille-chan/fluffychat](../repos/krille-chan/fluffychat.md) | ⭐ 3,277 | 2026-08-05 | 18 |
+| [pounat/absorb](../repos/pounat/absorb.md) | ⭐ 818 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TNT-Likely/BeeCount](../repos/TNT-Likely/BeeCount.md) | ⭐ 2,743 | 2026-08-06 | 24 |
+| [kodjodevf/mangayomi](../repos/kodjodevf/mangayomi.md) | ⭐ 4,392 | 2026-08-02 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wanghongenpin/proxypin](../repos/wanghongenpin/proxypin.md) | ⭐ 14,353 | 2026-08-06 | 20 |
+| [venera-app/venera](../repos/venera-app/venera.md) | ⭐ 11,369 | 2026-08-02 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rusty4444/hermes-android](../repos/rusty4444/hermes-android.md) | ⭐ 487 | 2026-08-21 | 7 |
+| [firebase/flutterfire](../repos/firebase/flutterfire.md) | ⭐ 9,266 | 2026-08-03 | 14 |
 
 
 ---
@@ -55,7 +55,7 @@
 | [ComicSparks/jasmine](../repos/ComicSparks/jasmine.md) | ⭐ 5,521 | 2026-10-08 | A comic browser，support Android &#x2F; iOS &#x2F; MacOS &#x2F; Windows &#x2F; Linux.  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [InlitX/GymMane](../repos/InlitX/GymMane.md) | ⭐ 1,407 | 2026-10-13 |  Offline gym log for Android. No account, no ads, no internet. |
+| [InlitX/GymMane](../repos/InlitX/GymMane.md) | ⭐ 1,532 | 2026-10-13 |  Offline gym log for Android. No account, no ads, no internet. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [JeoJay127/RapidEFI-Tool](../repos/JeoJay127/RapidEFI-Tool.md) | ⭐ 2,573 | 2026-10-13 | An excellent one-click EFI configuration tool based on OpenCore |
@@ -88,25 +88,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 181,016 | 2026-08-01 | 50 |
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 181,077 | 2026-08-01 | 51 |
 | [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 96,456 | 2026-08-02 | 35 |
-| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 78,250 | 2026-08-01 | 31 |
-| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 61,422 | 2026-08-02 | 42 |
+| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 78,322 | 2026-08-01 | 32 |
+| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 61,655 | 2026-08-02 | 43 |
 | [KRTirtho/spotube](../repos/KRTirtho/spotube.md) | ⭐ 49,303 | 2026-08-04 | 20 |
 | [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 40,752 | 2026-08-01 | 40 |
-| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 33,664 | 2026-08-02 | 43 |
-| [GopeedLab/gopeed](../repos/GopeedLab/gopeed.md) | ⭐ 27,382 | 2026-09-06 | 17 |
+| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 33,717 | 2026-08-02 | 44 |
+| [GopeedLab/gopeed](../repos/GopeedLab/gopeed.md) | ⭐ 27,460 | 2026-09-06 | 18 |
 | [mitesh77/Best-Flutter-UI-Templates](../repos/mitesh77/Best-Flutter-UI-Templates.md) | ⭐ 22,819 | 2026-08-01 | 2 |
 | [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | ⭐ 20,302 | 2026-08-02 | 40 |
 | [flutter/samples](../repos/flutter/samples.md) | ⭐ 19,271 | 2026-08-06 | 6 |
 | [xiaoyaocz/dart_simple_live](../repos/xiaoyaocz/dart_simple_live.md) | ⭐ 16,225 | 2026-08-01 | 26 |
 | [KaringX/karing](../repos/KaringX/karing.md) | ⭐ 15,939 | 2026-08-02 | 39 |
-| [wanghongenpin/proxypin](../repos/wanghongenpin/proxypin.md) | ⭐ 14,353 | 2026-08-06 | 20 |
+| [wanghongenpin/proxypin](../repos/wanghongenpin/proxypin.md) | ⭐ 14,368 | 2026-08-06 | 21 |
 | [guozhigq/pilipala](../repos/guozhigq/pilipala.md) | ⭐ 13,848 | 2026-08-20 | 2 |
 | [Notsfsssf/pixez-flutter](../repos/Notsfsssf/pixez-flutter.md) | ⭐ 13,179 | 2026-08-09 | 20 |
 | [cfug/dio](../repos/cfug/dio.md) | ⭐ 12,840 | 2026-09-05 | 1 |
-| [dart-lang/sdk](../repos/dart-lang/sdk.md) | ⭐ 11,324 | 2026-08-01 | 25 |
-| [venera-app/venera](../repos/venera-app/venera.md) | ⭐ 11,286 | 2026-08-02 | 24 |
+| [venera-app/venera](../repos/venera-app/venera.md) | ⭐ 11,369 | 2026-08-02 | 25 |
+| [dart-lang/sdk](../repos/dart-lang/sdk.md) | ⭐ 11,338 | 2026-08-01 | 26 |
 | [flame-engine/flame](../repos/flame-engine/flame.md) | ⭐ 10,779 | 2026-08-02 | 4 |
 
 ---
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [flutter/flutter](../repos/flutter/flutter.md) | 50 | ⭐ 181,016 | 2026-08-01 | 2026-11-02 |
-| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | 43 | ⭐ 33,664 | 2026-08-02 | 2026-11-05 |
-| [chen08209/FlClash](../repos/chen08209/FlClash.md) | 42 | ⭐ 61,422 | 2026-08-02 | 2026-11-05 |
+| [flutter/flutter](../repos/flutter/flutter.md) | 51 | ⭐ 181,077 | 2026-08-01 | 2026-11-06 |
+| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | 44 | ⭐ 33,717 | 2026-08-02 | 2026-11-06 |
+| [chen08209/FlClash](../repos/chen08209/FlClash.md) | 43 | ⭐ 61,655 | 2026-08-02 | 2026-11-06 |
 | [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | 40 | ⭐ 40,752 | 2026-08-01 | 2026-11-02 |
 | [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | 40 | ⭐ 20,302 | 2026-08-02 | 2026-11-04 |
 | [KaringX/karing](../repos/KaringX/karing.md) | 39 | ⭐ 15,939 | 2026-08-02 | 2026-11-04 |
 | [localsend/localsend](../repos/localsend/localsend.md) | 35 | ⭐ 96,456 | 2026-08-02 | 2026-10-29 |
-| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | 31 | ⭐ 78,250 | 2026-08-01 | 2026-11-05 |
+| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | 32 | ⭐ 78,322 | 2026-08-01 | 2026-11-06 |
+| [dart-lang/sdk](../repos/dart-lang/sdk.md) | 26 | ⭐ 11,338 | 2026-08-01 | 2026-11-06 |
 | [xiaoyaocz/dart_simple_live](../repos/xiaoyaocz/dart_simple_live.md) | 26 | ⭐ 16,225 | 2026-08-01 | 2026-11-05 |
-| [dart-lang/sdk](../repos/dart-lang/sdk.md) | 25 | ⭐ 11,324 | 2026-08-01 | 2026-10-29 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-05T21:00:57.385Z*
+*Last updated: 2026-11-06T21:01:02.101Z*

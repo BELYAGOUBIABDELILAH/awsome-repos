@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Swift |
 | **License** | MIT |
-| **Stars** | ⭐ 2,606 |
-| **Forks** | 🍴 244 |
-| **Trending Days** | 4 |
+| **Stars** | ⭐ 2,874 |
+| **Forks** | 🍴 262 |
+| **Trending Days** | 5 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 18, 2026 |
-| **Last Seen** | Oct 21, 2026 |
+| **Last Seen** | Nov 6, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 4
+- **Trending Days**: 5
 - **Longest Streak**: 4 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`accessibility`](../../topics/accessibility.md) [`ai-agent`](../../topics/ai-agent.md) [`ai-agents`](../../topics/ai-agents.md) [`claude-code`](../../topics/claude-code.md) [`codex`](../../topics/codex.md) [`codex-computer-use`](../../topics/codex-computer-use.md) [`computer-use`](../../topics/computer-use.md) [`computer-use-agent`](../../topics/computer-use-agent.md) [`cross-platform`](../../topics/cross-platform.md) [`cua`](../../topics/cua.md) [`desktop-automation`](../../topics/desktop-automation.md) [`gemini-cli`](../../topics/gemini-cli.md) [`gui-automation`](../../topics/gui-automation.md) [`macos`](../../topics/macos.md) [`mcp`](../../topics/mcp.md) [`model-context-protocol`](../../topics/model-context-protocol.md) [`open-computer-use`](../../topics/open-computer-use.md) [`open-computer-use-mcp`](../../topics/open-computer-use-mcp.md) [`openai-codex`](../../topics/openai-codex.md) [`opencode`](../../topics/opencode.md) 
+[`accessibility`](../../topics/accessibility.md) [`ai-agent`](../../topics/ai-agent.md) [`ai-agents`](../../topics/ai-agents.md) [`claude-code`](../../topics/claude-code.md) [`codex`](../../topics/codex.md) [`codex-computer-use`](../../topics/codex-computer-use.md) [`computer-use`](../../topics/computer-use.md) [`computer-use-agent`](../../topics/computer-use-agent.md) [`cross-platform`](../../topics/cross-platform.md) [`cua`](../../topics/cua.md) [`desktop-automation`](../../topics/desktop-automation.md) [`gemini-cli`](../../topics/gemini-cli.md) [`gui-automation`](../../topics/gui-automation.md) [`locked-use`](../../topics/locked-use.md) [`macos`](../../topics/macos.md) [`mcp`](../../topics/mcp.md) [`open-computer-use`](../../topics/open-computer-use.md) [`open-computer-use-mcp`](../../topics/open-computer-use-mcp.md) [`openai-codex`](../../topics/openai-codex.md) [`opencode`](../../topics/opencode.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Large Language Models` `Frontend Development` `DevOps &amp; CI&#x2F;CD` `Systems Programming` `Developer Tools` `Automation` `Robotics` 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-05T21:01:01.621Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-11-06T21:01:07.877Z*  
+*Data from 5 trending reports*

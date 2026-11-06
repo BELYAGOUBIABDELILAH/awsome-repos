@@ -1,6 +1,6 @@
 # windmill-labs&#x2F;windmill
 
-> Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
+> Code-first platform for workflows, apps and AI agents, on the fastest self-hostable orchestrator (benchmarked against Airflow, Prefect and Temporal). Business teams build with AI, engineers control what ships. Open-source alternative to Lovable, Retool and n8n.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;windmill-labs&#x2F;windmill) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | Other |
-| **Stars** | ⭐ 17,662 |
-| **Forks** | 🍴 1,080 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 18,443 |
+| **Forks** | 🍴 1,140 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 22, 2026 |
-| **Last Seen** | Aug 24, 2026 |
+| **Last Seen** | Nov 6, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Rust or low-code*
+*Similar: Check repositories in Rust or ai-agents*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 3 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`low-code`](../../topics/low-code.md) [`open-source`](../../topics/open-source.md) [`platform`](../../topics/platform.md) [`postgresql`](../../topics/postgresql.md) [`python`](../../topics/python.md) [`self-hostable`](../../topics/self-hostable.md) [`typescript`](../../topics/typescript.md) 
+[`ai-agents`](../../topics/ai-agents.md) [`airflow-alternative`](../../topics/airflow-alternative.md) [`internal-tools`](../../topics/internal-tools.md) [`open-source`](../../topics/open-source.md) [`orchestration`](../../topics/orchestration.md) [`postgresql`](../../topics/postgresql.md) [`python`](../../topics/python.md) [`rust`](../../topics/rust.md) [`self-hostable`](../../topics/self-hostable.md) [`self-hosted`](../../topics/self-hosted.md) [`typescript`](../../topics/typescript.md) [`vibe-coding`](../../topics/vibe-coding.md) [`workflow-engine`](../../topics/workflow-engine.md) 
 
 ### Curated Categories
-`Databases` `Systems Programming` 
+`Artificial Intelligence` `Data Engineering` `Containers &amp; Orchestration` `Databases` `Systems Programming` `Developer Tools` `Automation` 
 
 ---
 
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 60&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-05T21:01:00.474Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-11-06T21:01:06.039Z*  
+*Data from 4 trending reports*

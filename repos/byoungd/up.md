@@ -1,6 +1,6 @@
 # byoungd&#x2F;up
 
-> 韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。
+> 韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：AI、学习 、创业、财富、爱情与人生
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;byoungd&#x2F;up) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | JavaScript |
 | **License** | Other |
-| **Stars** | ⭐ 69,556 |
-| **Forks** | 🍴 6,910 |
-| **Trending Days** | 19 |
+| **Stars** | ⭐ 70,198 |
+| **Forks** | 🍴 6,979 |
+| **Trending Days** | 20 |
 | **Peak Rank** | #6 |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Oct 27, 2026 |
+| **Last Seen** | Nov 6, 2026 |
 
 
 ---
@@ -48,7 +48,7 @@
 ### Highlights
 
 - **Peak Rank**: #6
-- **Trending Days**: 19
+- **Trending Days**: 20
 - **Longest Streak**: 3 days
 
 ---
@@ -73,7 +73,7 @@
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Production Ready | Battle-tested and stable |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -92,5 +92,5 @@
 
 ---
 
-*Last updated: 2026-11-05T21:00:58.635Z*  
-*Data from 19 trending reports*
+*Last updated: 2026-11-06T21:01:03.821Z*  
+*Data from 20 trending reports*

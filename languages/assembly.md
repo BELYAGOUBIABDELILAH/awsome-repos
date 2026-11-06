@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 51
+- **Total Repositories**: 52
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-05
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pret/pokered](../repos/pret/pokered.md) | ⭐ 5,019 | 2026-08-01 | 51 |
+| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | ⭐ 460 | 2026-08-01 | 66 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | ⭐ 460 | 2026-08-01 | 65 |
+| [aws/aws-lc](../repos/aws/aws-lc.md) | ⭐ 861 | 2026-08-01 | 57 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aws/aws-lc](../repos/aws/aws-lc.md) | ⭐ 862 | 2026-08-01 | 56 |
+| [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,741 | 2026-08-01 | 60 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,741 | 2026-08-01 | 59 |
+| [hiteshchoudhary/open-source-contribution](../repos/hiteshchoudhary/open-source-contribution.md) | ⭐ 548 | 2026-08-01 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [espressif/esp-dl](../repos/espressif/esp-dl.md) | ⭐ 1,208 | 2026-08-01 | 37 |
+| [espressif/esp-dl](../repos/espressif/esp-dl.md) | ⭐ 1,210 | 2026-08-01 | 38 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | ⭐ 18,892 | 2026-08-01 | 55 |
+| [riscv-software-src/riscv-tests](../repos/riscv-software-src/riscv-tests.md) | ⭐ 1,258 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pret/pokecrystal](../repos/pret/pokecrystal.md) | ⭐ 2,547 | 2026-08-01 | 40 |
+| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | ⭐ 6,514 | 2026-08-01 | 52 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | ⭐ 6,513 | 2026-08-01 | 51 |
+| [riscv/riscv-arch-test](../repos/riscv/riscv-arch-test.md) | ⭐ 807 | 2026-08-02 | 42 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ebitengine/purego](../repos/ebitengine/purego.md) | ⭐ 4,090 | 2026-08-04 | 51 |
+| [leachim6/hello-world](../repos/leachim6/hello-world.md) | ⭐ 12,035 | 2026-08-02 | 39 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/arrow-go](../repos/apache/arrow-go.md) | ⭐ 416 | 2026-08-07 | 28 |
+| [ebitengine/purego](../repos/ebitengine/purego.md) | ⭐ 4,091 | 2026-08-04 | 52 |
 
 
 ---
@@ -59,6 +59,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [memorysafety/rav1d](../repos/memorysafety/rav1d.md) | ⭐ 650 | 2026-11-05 | An AV1 decoder in Rust. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [MathisLav/GeometryDashCE](../repos/MathisLav/GeometryDashCE.md) | ⭐ 24 | 2026-11-06 | Inspired from Geometry Dash. In this game, you will have to avoid the obstacles by jumping with t... |
 
 
 ---
@@ -68,24 +71,24 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | ⭐ 18,892 | 2026-08-01 | 55 |
-| [leachim6/hello-world](../repos/leachim6/hello-world.md) | ⭐ 12,015 | 2026-08-02 | 38 |
+| [leachim6/hello-world](../repos/leachim6/hello-world.md) | ⭐ 12,035 | 2026-08-02 | 39 |
 | [kanaka/mal](../repos/kanaka/mal.md) | ⭐ 10,757 | 2026-08-11 | 21 |
 | [jmechner/Prince-of-Persia-Apple-II](../repos/jmechner/Prince-of-Persia-Apple-II.md) | ⭐ 6,906 | 2026-09-28 | 3 |
-| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | ⭐ 6,513 | 2026-08-01 | 51 |
+| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | ⭐ 6,514 | 2026-08-01 | 52 |
 | [pret/pokered](../repos/pret/pokered.md) | ⭐ 5,019 | 2026-08-01 | 51 |
 | [below/HelloSilicon](../repos/below/HelloSilicon.md) | ⭐ 4,994 | 2026-09-02 | 2 |
 | [briansmith/ring](../repos/briansmith/ring.md) | ⭐ 4,107 | 2026-08-01 | 12 |
-| [ebitengine/purego](../repos/ebitengine/purego.md) | ⭐ 4,090 | 2026-08-04 | 51 |
+| [ebitengine/purego](../repos/ebitengine/purego.md) | ⭐ 4,091 | 2026-08-04 | 52 |
 | [virtualagc/virtualagc](../repos/virtualagc/virtualagc.md) | ⭐ 3,332 | 2026-08-01 | 8 |
 | [netwide-assembler/nasm](../repos/netwide-assembler/nasm.md) | ⭐ 3,322 | 2026-09-01 | 8 |
 | [SpinalHDL/VexRiscv](../repos/SpinalHDL/VexRiscv.md) | ⭐ 3,265 | 2026-09-19 | 1 |
-| [openhwfoundation/cva6](../repos/openhwfoundation/cva6.md) | ⭐ 3,177 | 2026-09-19 | 27 |
+| [openhwfoundation/cva6](../repos/openhwfoundation/cva6.md) | ⭐ 3,185 | 2026-09-19 | 28 |
 | [openhwgroup/cva6](../repos/openhwgroup/cva6.md) | ⭐ 3,111 | 2026-08-01 | 34 |
 | [SheerSt/pokewilds](../repos/SheerSt/pokewilds.md) | ⭐ 2,921 | 2026-08-03 | 17 |
 | [pret/pokecrystal](../repos/pret/pokecrystal.md) | ⭐ 2,547 | 2026-08-01 | 40 |
 | [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | ⭐ 2,240 | 2026-08-01 | 42 |
 | [PlummersSoftwareLLC/TinyRetroPad](../repos/PlummersSoftwareLLC/TinyRetroPad.md) | ⭐ 1,750 | 2026-08-04 | 15 |
-| [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,741 | 2026-08-01 | 59 |
+| [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,741 | 2026-08-01 | 60 |
 | [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | ⭐ 1,686 | 2026-08-01 | 50 |
 
 ---
@@ -94,16 +97,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | 65 | ⭐ 460 | 2026-08-01 | 2026-11-05 |
-| [apple/swift-crypto](../repos/apple/swift-crypto.md) | 59 | ⭐ 1,741 | 2026-08-01 | 2026-11-05 |
-| [aws/aws-lc](../repos/aws/aws-lc.md) | 56 | ⭐ 862 | 2026-08-01 | 2026-11-05 |
+| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | 66 | ⭐ 460 | 2026-08-01 | 2026-11-06 |
+| [apple/swift-crypto](../repos/apple/swift-crypto.md) | 60 | ⭐ 1,741 | 2026-08-01 | 2026-11-06 |
+| [aws/aws-lc](../repos/aws/aws-lc.md) | 57 | ⭐ 861 | 2026-08-01 | 2026-11-06 |
 | [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | 55 | ⭐ 18,892 | 2026-08-01 | 2026-11-05 |
+| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | 52 | ⭐ 6,514 | 2026-08-01 | 2026-11-06 |
+| [ebitengine/purego](../repos/ebitengine/purego.md) | 52 | ⭐ 4,091 | 2026-08-04 | 2026-11-06 |
 | [pret/pokered](../repos/pret/pokered.md) | 51 | ⭐ 5,019 | 2026-08-01 | 2026-11-05 |
-| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | 51 | ⭐ 6,513 | 2026-08-01 | 2026-11-05 |
-| [ebitengine/purego](../repos/ebitengine/purego.md) | 51 | ⭐ 4,090 | 2026-08-04 | 2026-11-05 |
 | [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | 50 | ⭐ 1,686 | 2026-08-01 | 2026-11-03 |
 | [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | 42 | ⭐ 2,240 | 2026-08-01 | 2026-11-04 |
-| [riscv/riscv-arch-test](../repos/riscv/riscv-arch-test.md) | 41 | ⭐ 804 | 2026-08-02 | 2026-10-29 |
+| [riscv/riscv-arch-test](../repos/riscv/riscv-arch-test.md) | 42 | ⭐ 807 | 2026-08-02 | 2026-11-06 |
 
 ---
 
@@ -160,7 +163,8 @@
 - [canassa/betrayal-at-krondor](../repos/canassa/betrayal-at-krondor.md) - Betrayal at Krondor: A byte-perfect recompilation of the 1993 classic.
 - [SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port](../repos/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port.md) - Native Pikmin Windows&#x2F;Linux&#x2F;Android Port
 - [memorysafety/rav1d](../repos/memorysafety/rav1d.md) - An AV1 decoder in Rust.
+- [MathisLav/GeometryDashCE](../repos/MathisLav/GeometryDashCE.md) - Inspired from Geometry Dash. In this game, you will have to avoid the obstacles by jumping with t...
 
 ---
 
-*Last updated: 2026-11-05T21:00:57.363Z*
+*Last updated: 2026-11-06T21:01:02.074Z*

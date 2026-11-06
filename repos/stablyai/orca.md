@@ -1,6 +1,6 @@
 # stablyai&#x2F;orca
 
-> Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+> Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;stablyai&#x2F;orca) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | MIT |
-| **Stars** | ⭐ 103,697 |
-| **Forks** | 🍴 6,547 |
-| **Trending Days** | 23 |
+| **Stars** | ⭐ 117,734 |
+| **Forks** | 🍴 7,463 |
+| **Trending Days** | 24 |
 | **Peak Rank** | #3 |
 
 | **First Seen** | Aug 11, 2026 |
-| **Last Seen** | Oct 23, 2026 |
+| **Last Seen** | Nov 6, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in TypeScript or ade*
+*Similar: Check repositories in TypeScript or agent-ide*
 
 ---
 
@@ -53,7 +53,7 @@
 ### Highlights
 
 - **Peak Rank**: #3
-- **Trending Days**: 23
+- **Trending Days**: 24
 - **Longest Streak**: 10 days
 
 ---
@@ -61,7 +61,7 @@
 ## Categories
 
 ### Topics
-[`ade`](../../topics/ade.md) [`agent-ide`](../../topics/agent-ide.md) [`ai-agents`](../../topics/ai-agents.md) [`automation`](../../topics/automation.md) [`bot`](../../topics/bot.md) [`claude-code`](../../topics/claude-code.md) [`codex`](../../topics/codex.md) [`ghostty`](../../topics/ghostty.md) [`grok-bot`](../../topics/grok-bot.md) [`hermes-agent`](../../topics/hermes-agent.md) [`mobile-app`](../../topics/mobile-app.md) [`muse`](../../topics/muse.md) [`openclaw`](../../topics/openclaw.md) [`opencode`](../../topics/opencode.md) [`orchestration`](../../topics/orchestration.md) [`pi`](../../topics/pi.md) [`runtime`](../../topics/runtime.md) [`terminal`](../../topics/terminal.md) [`worktrees`](../../topics/worktrees.md) [`yc-backed`](../../topics/yc-backed.md) 
+[`agent-ide`](../../topics/agent-ide.md) [`ai-agents`](../../topics/ai-agents.md) [`automation`](../../topics/automation.md) [`bot`](../../topics/bot.md) [`claude-code`](../../topics/claude-code.md) [`codex`](../../topics/codex.md) [`ghostty`](../../topics/ghostty.md) [`grok-bot`](../../topics/grok-bot.md) [`hermes-agent`](../../topics/hermes-agent.md) [`mobile-app`](../../topics/mobile-app.md) [`muse`](../../topics/muse.md) [`openclaw`](../../topics/openclaw.md) [`opencode`](../../topics/opencode.md) [`orchestration`](../../topics/orchestration.md) [`pi`](../../topics/pi.md) [`runtime`](../../topics/runtime.md) [`swarm`](../../topics/swarm.md) [`terminal`](../../topics/terminal.md) [`worktrees`](../../topics/worktrees.md) [`yc-backed`](../../topics/yc-backed.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Large Language Models` `Mobile Development` `DevOps &amp; CI&#x2F;CD` `Containers &amp; Orchestration` `Systems Programming` `Developer Tools` `Automation` 
@@ -76,9 +76,9 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 103,697+ stars, strong contributor base |
+| **Community** | Very Active | 117,734+ stars, strong contributor base |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
@@ -97,5 +97,5 @@
 
 ---
 
-*Last updated: 2026-11-05T21:01:00.007Z*  
-*Data from 23 trending reports*
+*Last updated: 2026-11-06T21:01:05.471Z*  
+*Data from 24 trending reports*

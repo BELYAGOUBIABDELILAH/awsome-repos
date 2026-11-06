@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 184
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-10-29
+- **Last Updated**: 2026-11-06
 
 ---
 
@@ -16,34 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 14,077 | 2026-08-02 | 30 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 70,198 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 48,207 | 2026-08-08 | 7 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 14,509 | 2026-08-02 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 32,525 | 2026-08-08 | 13 |
+| [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,576 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chaolucky18/xuexitongScript](../repos/chaolucky18/xuexitongScript.md) | ⭐ 3,807 | 2026-10-09 | 5 |
+| [react/react](../repos/react/react.md) | ⭐ 252,198 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [michael-denyer/pstack-claude](../repos/michael-denyer/pstack-claude.md) | ⭐ 4,042 | 2026-10-16 | 5 |
+| [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 48,245 | 2026-08-08 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [csyangwen/dsh-memory-evolve](../repos/csyangwen/dsh-memory-evolve.md) | ⭐ 627 | 2026-11-03 | 2 |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 32,820 | 2026-08-08 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HunYiSage/dsh-purge](../repos/HunYiSage/dsh-purge.md) | ⭐ 19,085 | 2026-11-05 | 1 |
+| [mnfst/awesome-free-llm-apis](../repos/mnfst/awesome-free-llm-apis.md) | ⭐ 12,431 | 2026-08-10 | 13 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [simple-icons/simple-icons](../repos/simple-icons/simple-icons.md) | ⭐ 26,171 | 2026-08-20 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [openai/plugins](../repos/openai/plugins.md) | ⭐ 7,787 | 2026-08-27 | 11 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 63,713 | 2026-08-28 | 16 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [MobSF/Mobile-Security-Framework-MobSF](../repos/MobSF/Mobile-Security-Framework-MobSF.md) | ⭐ 21,899 | 2026-10-07 | Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android&#x2F;iOS&#x2F;Win... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [XCQ0607/lxserver](../repos/XCQ0607/lxserver.md) | ⭐ 928 | 2026-10-08 | LX Music 数据同步服务端，同时支持了部分lx-music-desktop的网页端实现。 |
@@ -71,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 59,798 | 2026-10-14 | jQuery JavaScript Library |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [laoma528/awesome-zhuiju-free](../repos/laoma528/awesome-zhuiju-free.md) | ⭐ 12,592 | 2026-10-15 | 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox &#x2F; 影视仓空壳软件&#x2F;配置地址、IPTV直播源、会员拼团、影视相关开源项... |
 
 
 ---
@@ -79,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [react/react](../repos/react/react.md) | ⭐ 251,735 | 2026-08-04 | 5 |
+| [react/react](../repos/react/react.md) | ⭐ 252,198 | 2026-08-04 | 6 |
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | 2026-07-30 | 3 |
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 158,907 | 2026-08-06 | 4 |
 | [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | 2 |
@@ -90,15 +99,15 @@
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 90,383 | 2026-08-04 | 22 |
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 77,000 | 2026-08-09 | 2 |
-| [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,592 | 2026-08-04 | 3 |
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 69,556 | 2026-08-01 | 19 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 70,198 | 2026-08-01 | 20 |
+| [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,576 | 2026-08-04 | 4 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,980 | 2026-08-04 | 4 |
 | [jgraph/drawio-desktop](../repos/jgraph/drawio-desktop.md) | ⭐ 63,817 | 2026-11-04 | 1 |
+| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 63,713 | 2026-08-28 | 16 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,346 | 2026-08-11 | 4 |
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 60,381 | 2026-08-27 | 14 |
 | [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 59,798 | 2026-10-14 | 1 |
 | [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 52,040 | 2026-08-26 | 4 |
-| [DavidHDev/react-bits](../repos/DavidHDev/react-bits.md) | ⭐ 50,534 | 2026-10-28 | 1 |
 
 ---
 
@@ -107,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 34 | ⭐ 112,798 | 2026-08-05 | 2026-11-02 |
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 30 | ⭐ 14,077 | 2026-08-02 | 2026-11-05 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 31 | ⭐ 14,509 | 2026-08-02 | 2026-11-06 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 22 | ⭐ 90,383 | 2026-08-04 | 2026-10-27 |
-| [byoungd/up](../repos/byoungd/up.md) | 19 | ⭐ 69,556 | 2026-08-01 | 2026-10-27 |
+| [byoungd/up](../repos/byoungd/up.md) | 20 | ⭐ 70,198 | 2026-08-01 | 2026-11-06 |
+| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | 16 | ⭐ 63,713 | 2026-08-28 | 2026-11-06 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
-| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | 15 | ⭐ 48,379 | 2026-08-28 | 2026-10-26 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 14 | ⭐ 143,323 | 2026-07-30 | 2026-11-04 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 14 | ⭐ 5,119 | 2026-08-07 | 2026-10-20 |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 14 | ⭐ 32,820 | 2026-08-08 | 2026-11-06 |
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | 14 | ⭐ 60,381 | 2026-08-27 | 2026-10-26 |
-| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 13 | ⭐ 32,525 | 2026-08-08 | 2026-11-05 |
 
 ---
 
@@ -130,7 +139,7 @@
 - [node-red/node-red](../repos/node-red/node-red.md) - Low-code programming for event-driven applications
 - [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) - Prompt as Code | GPT Image 2 &#x2F; 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与...
 - [nyxxbit/discord-quest-completer](../repos/nyxxbit/discord-quest-completer.md) - Auto-complete every Discord Quest in seconds. Paste one script, get all rewards. Resilient module...
-- [byoungd/up](../repos/byoungd/up.md) - 韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。
+- [byoungd/up](../repos/byoungd/up.md) - 韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：AI、学习 、创业、财富、爱情与人生
 - [pdone/lx-music-source](../repos/pdone/lx-music-source.md) - 洛雪音乐源
 - [SillyTavern/SillyTavern](../repos/SillyTavern/SillyTavern.md) - LLM Frontend for Power Users.
 - [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) - Use Codex from Claude Code to review code or delegate tasks.
@@ -224,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-05T21:00:57.403Z*
+*Last updated: 2026-11-06T21:01:02.124Z*

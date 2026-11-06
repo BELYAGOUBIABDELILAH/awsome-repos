@@ -1,6 +1,6 @@
 # infiniflow&#x2F;ragflow
 
-> RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+> RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;infiniflow&#x2F;ragflow) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 92,755 |
-| **Forks** | 🍴 11,092 |
-| **Trending Days** | 13 |
+| **Stars** | ⭐ 93,690 |
+| **Forks** | 🍴 11,251 |
+| **Trending Days** | 14 |
 | **Peak Rank** | #9 |
 
 | **First Seen** | Aug 6, 2026 |
-| **Last Seen** | Oct 23, 2026 |
+| **Last Seen** | Nov 6, 2026 |
 
 
 ---
@@ -49,7 +49,7 @@
 ### Highlights
 
 - **Peak Rank**: #9
-- **Trending Days**: 13
+- **Trending Days**: 14
 - **Longest Streak**: 2 days
 
 ---
@@ -57,10 +57,10 @@
 ## Categories
 
 ### Topics
-[`agent-harness`](../../topics/agent-harness.md) [`agentic-ai`](../../topics/agentic-ai.md) [`agentic-nagive`](../../topics/agentic-nagive.md) [`agentic-retrieval`](../../topics/agentic-retrieval.md) [`agentic-search`](../../topics/agentic-search.md) [`ai`](../../topics/ai.md) [`ai-agents`](../../topics/ai-agents.md) [`context-engine`](../../topics/context-engine.md) [`context-engineering`](../../topics/context-engineering.md) [`context-management`](../../topics/context-management.md) [`harness-engineering`](../../topics/harness-engineering.md) [`knowledge-compilation`](../../topics/knowledge-compilation.md) [`rag`](../../topics/rag.md) [`retrieval-augmented-generation`](../../topics/retrieval-augmented-generation.md) [`search-harness`](../../topics/search-harness.md) 
+[`agent-harness`](../../topics/agent-harness.md) [`agent-native-database`](../../topics/agent-native-database.md) [`agentic-ai`](../../topics/agentic-ai.md) [`agentic-retrieval`](../../topics/agentic-retrieval.md) [`agentic-search`](../../topics/agentic-search.md) [`ai`](../../topics/ai.md) [`ai-agents`](../../topics/ai-agents.md) [`context-engine`](../../topics/context-engine.md) [`context-engineering`](../../topics/context-engineering.md) [`context-management`](../../topics/context-management.md) [`harness-engineering`](../../topics/harness-engineering.md) [`knowledge-compilation`](../../topics/knowledge-compilation.md) [`rag`](../../topics/rag.md) [`retrieval-augmented-generation`](../../topics/retrieval-augmented-generation.md) [`retrieval-harness`](../../topics/retrieval-harness.md) [`search-harness`](../../topics/search-harness.md) 
 
 ### Curated Categories
-`Artificial Intelligence` `Systems Programming` 
+`Artificial Intelligence` `Databases` `Systems Programming` 
 
 ---
 
@@ -74,7 +74,7 @@
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
@@ -93,5 +93,5 @@
 
 ---
 
-*Last updated: 2026-11-05T21:00:59.630Z*  
-*Data from 13 trending reports*
+*Last updated: 2026-11-06T21:01:05.021Z*  
+*Data from 14 trending reports*

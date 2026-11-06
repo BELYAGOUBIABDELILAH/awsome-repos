@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 316
+- **Total Repositories**: 322
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-03
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 139,731 | 2026-08-01 | 19 |
+| [microsoft/VibeVoice](../repos/microsoft/VibeVoice.md) | ⭐ 56,434 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/VibeVoice](../repos/microsoft/VibeVoice.md) | ⭐ 55,776 | 2026-08-01 | 4 |
+| [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 98,325 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [harvard-edge/cs249r_book](../repos/harvard-edge/cs249r_book.md) | ⭐ 29,976 | 2026-08-04 | 5 |
+| [pandas-dev/pandas](../repos/pandas-dev/pandas.md) | ⭐ 50,466 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aws/agent-toolkit-for-aws](../repos/aws/agent-toolkit-for-aws.md) | ⭐ 3,410 | 2026-08-06 | 4 |
+| [google/skills](../repos/google/skills.md) | ⭐ 22,786 | 2026-08-07 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/skills](../repos/google/skills.md) | ⭐ 22,300 | 2026-08-07 | 11 |
+| [pipeshub-ai/pipeshub-ai](../repos/pipeshub-ai/pipeshub-ai.md) | ⭐ 4,024 | 2026-08-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 147,818 | 2026-08-14 | 13 |
+| [numpy/numpy](../repos/numpy/numpy.md) | ⭐ 33,336 | 2026-09-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-research/timesfm](../repos/google-research/timesfm.md) | ⭐ 35,238 | 2026-08-16 | 5 |
+| [dgtlmoon/changedetection.io](../repos/dgtlmoon/changedetection.io.md) | ⭐ 35,592 | 2026-09-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-gemini/gemini-skills](../repos/google-gemini/gemini-skills.md) | ⭐ 4,403 | 2026-09-12 | 2 |
+| [NVIDIA/TensorRT-LLM](../repos/NVIDIA/TensorRT-LLM.md) | ⭐ 15,030 | 2026-09-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/Model-Optimizer](../repos/NVIDIA/Model-Optimizer.md) | ⭐ 5,537 | 2026-09-24 | 4 |
+| [NVIDIA/auto-ontology](../repos/NVIDIA/auto-ontology.md) | ⭐ 8,849 | 2026-10-27 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [derv82/wifit3](../repos/derv82/wifit3.md) | ⭐ 3,345 | 2026-09-25 | 5 |
+| [apache/airflow](../repos/apache/airflow.md) | ⭐ 47,399 | 2026-11-06 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [allenai/olmocr](../repos/allenai/olmocr.md) | ⭐ 19,723 | 2026-10-07 | Toolkit for linearizing PDFs for LLM datasets&#x2F;training |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [MDX-Tom/gpt-instruct](../repos/MDX-Tom/gpt-instruct.md) | ⭐ 9,315 | 2026-10-07 | A Codex jailbreak prompt and test pack for gpt. 针对 gpt 系列的 Codex 破甲提示词与测试包。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [abrignoni/ALEAPP](../repos/abrignoni/ALEAPP.md) | ⭐ 974 | 2026-10-08 | Android Logs Events And Protobuf Parser |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [baidu/Unlimited-OCR](../repos/baidu/Unlimited-OCR.md) | ⭐ 29,734 | 2026-10-13 | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [rommapp/romm](../repos/rommapp/romm.md) | ⭐ 13,612 | 2026-10-13 | A beautiful, powerful, self-hosted ROM manager and player. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [1Panel-dev/MaxKB](../repos/1Panel-dev/MaxKB.md) | ⭐ 22,969 | 2026-10-13 | 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。 |
 
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-05T21:00:57.426Z*
+*Last updated: 2026-11-06T21:01:02.154Z*

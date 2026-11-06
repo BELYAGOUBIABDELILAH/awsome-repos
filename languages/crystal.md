@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 4
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-05
+- **Last Updated**: 2026-11-06
 
 ---
 
@@ -16,7 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 25,890 | 2026-08-01 | 51 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 25,891 | 2026-08-01 | 52 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,481 | 2026-08-06 | 12 |
 
 
 ---
@@ -34,9 +37,9 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 25,890 | 2026-08-01 | 51 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 25,891 | 2026-08-01 | 52 |
 | [amberframework/amber](../repos/amberframework/amber.md) | ⭐ 2,607 | 2026-10-19 | 1 |
-| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,456 | 2026-08-06 | 11 |
+| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,481 | 2026-08-06 | 12 |
 | [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | ⭐ 1,030 | 2026-10-02 | 8 |
 
 ---
@@ -45,8 +48,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | 51 | ⭐ 25,890 | 2026-08-01 | 2026-11-05 |
-| [owasp-noir/noir](../repos/owasp-noir/noir.md) | 11 | ⭐ 1,456 | 2026-08-06 | 2026-10-14 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | 52 | ⭐ 25,891 | 2026-08-01 | 2026-11-06 |
+| [owasp-noir/noir](../repos/owasp-noir/noir.md) | 12 | ⭐ 1,481 | 2026-08-06 | 2026-11-06 |
 | [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | 8 | ⭐ 1,030 | 2026-10-02 | 2026-10-13 |
 | [amberframework/amber](../repos/amberframework/amber.md) | 1 | ⭐ 2,607 | 2026-10-19 | 2026-10-19 |
 
@@ -61,4 +64,4 @@
 
 ---
 
-*Last updated: 2026-11-05T21:00:57.381Z*
+*Last updated: 2026-11-06T21:01:02.097Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | JavaScript |
 | **License** | CC0-1.0 |
-| **Stars** | ⭐ 10,609 |
-| **Forks** | 🍴 1,187 |
-| **Trending Days** | 12 |
+| **Stars** | ⭐ 12,431 |
+| **Forks** | 🍴 1,455 |
+| **Trending Days** | 13 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 10, 2026 |
-| **Last Seen** | Oct 18, 2026 |
+| **Last Seen** | Nov 6, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in JavaScript or ai-agents*
+*Similar: Check repositories in JavaScript or ai*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 12
+- **Trending Days**: 13
 - **Longest Streak**: 3 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`ai-agents`](../../topics/ai-agents.md) [`anthropic`](../../topics/anthropic.md) [`awesome`](../../topics/awesome.md) [`awesome-list`](../../topics/awesome-list.md) [`gemini`](../../topics/gemini.md) [`llm`](../../topics/llm.md) [`llm-router`](../../topics/llm-router.md) [`llm-routing`](../../topics/llm-routing.md) [`ollama`](../../topics/ollama.md) [`openai`](../../topics/openai.md) [`openclaw`](../../topics/openclaw.md) [`openclaw-plugin`](../../topics/openclaw-plugin.md) [`router`](../../topics/router.md) 
+[`ai`](../../topics/ai.md) [`aion`](../../topics/aion.md) [`api`](../../topics/api.md) [`awesome`](../../topics/awesome.md) [`awesome-list`](../../topics/awesome-list.md) [`cohere`](../../topics/cohere.md) [`free`](../../topics/free.md) [`gemini`](../../topics/gemini.md) [`llm`](../../topics/llm.md) [`llm-api`](../../topics/llm-api.md) [`mistral`](../../topics/mistral.md) [`openrouter`](../../topics/openrouter.md) 
 
 ### Curated Categories
-`Artificial Intelligence` `Large Language Models` `Systems Programming` `Education &amp; Learning` 
+`Artificial Intelligence` `Large Language Models` `Backend Development` `Systems Programming` `Education &amp; Learning` 
 
 ---
 
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-05T21:00:59.941Z*  
-*Data from 12 trending reports*
+*Last updated: 2026-11-06T21:01:05.404Z*  
+*Data from 13 trending reports*

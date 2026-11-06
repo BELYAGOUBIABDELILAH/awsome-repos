@@ -1,6 +1,6 @@
 # marcusquinn&#x2F;aidevops
 
-> Vibe-Coding is easy. DevOps is hard. OpenCode &amp; Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI &amp; API stack for speed, security, and 24&#x2F;7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.
+> Vibe-Coding is easy. DevOps is hard. OpenCode &amp; Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI &amp; API stack for speed, security, and 24&#x2F;7 results. Open-source first. SOTA everything. The best AI harness for GitHub &amp; teamwork.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;marcusquinn&#x2F;aidevops) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Shell |
 | **License** | MIT |
-| **Stars** | ⭐ 363 |
-| **Forks** | 🍴 59 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 439 |
+| **Forks** | 🍴 76 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Aug 4, 2026 |
+| **Last Seen** | Nov 6, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-05T21:00:59.442Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-11-06T21:01:04.777Z*  
+*Data from 2 trending reports*

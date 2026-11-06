@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 6
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-29
+- **Last Updated**: 2026-11-06
 
 ---
 
@@ -16,16 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [leafOfTree/WindowTabs](../repos/leafOfTree/WindowTabs.md) | ⭐ 1,029 | 2026-10-25 | 2 |
+| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,348 | 2026-08-01 | 46 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [fsprojects/Paket](../repos/fsprojects/Paket.md) | ⭐ 2,094 | 2026-08-09 | 17 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [fable-compiler/Fable](../repos/fable-compiler/Fable.md) | ⭐ 3,161 | 2026-10-07 | 12 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [fable-compiler/Fable](../repos/fable-compiler/Fable.md) | ⭐ 3,158 | 2026-10-07 | F# to JavaScript, TypeScript, Python, Rust, Erlang and Dart Compiler |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [leafOfTree/WindowTabs](../repos/leafOfTree/WindowTabs.md) | ⭐ 1,029 | 2026-10-25 | A utility that brings browser-style tabbed window management to the desktop. |
@@ -40,9 +43,9 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,346 | 2026-08-01 | 45 |
-| [fable-compiler/Fable](../repos/fable-compiler/Fable.md) | ⭐ 3,158 | 2026-10-07 | 11 |
-| [fsprojects/Paket](../repos/fsprojects/Paket.md) | ⭐ 2,090 | 2026-08-09 | 16 |
+| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,348 | 2026-08-01 | 46 |
+| [fable-compiler/Fable](../repos/fable-compiler/Fable.md) | ⭐ 3,161 | 2026-10-07 | 12 |
+| [fsprojects/Paket](../repos/fsprojects/Paket.md) | ⭐ 2,094 | 2026-08-09 | 17 |
 | [fsprojects/FAKE](../repos/fsprojects/FAKE.md) | ⭐ 1,325 | 2026-10-26 | 1 |
 | [leafOfTree/WindowTabs](../repos/leafOfTree/WindowTabs.md) | ⭐ 1,029 | 2026-10-25 | 2 |
 | [dotnet/performance](../repos/dotnet/performance.md) | ⭐ 771 | 2026-08-07 | 1 |
@@ -53,9 +56,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [dotnet/fsharp](../repos/dotnet/fsharp.md) | 45 | ⭐ 4,346 | 2026-08-01 | 2026-10-29 |
-| [fsprojects/Paket](../repos/fsprojects/Paket.md) | 16 | ⭐ 2,090 | 2026-08-09 | 2026-10-29 |
-| [fable-compiler/Fable](../repos/fable-compiler/Fable.md) | 11 | ⭐ 3,158 | 2026-10-07 | 2026-10-29 |
+| [dotnet/fsharp](../repos/dotnet/fsharp.md) | 46 | ⭐ 4,348 | 2026-08-01 | 2026-11-06 |
+| [fsprojects/Paket](../repos/fsprojects/Paket.md) | 17 | ⭐ 2,094 | 2026-08-09 | 2026-11-06 |
+| [fable-compiler/Fable](../repos/fable-compiler/Fable.md) | 12 | ⭐ 3,161 | 2026-10-07 | 2026-11-06 |
 | [leafOfTree/WindowTabs](../repos/leafOfTree/WindowTabs.md) | 2 | ⭐ 1,029 | 2026-10-25 | 2026-11-05 |
 | [dotnet/performance](../repos/dotnet/performance.md) | 1 | ⭐ 771 | 2026-08-07 | 2026-08-07 |
 | [fsprojects/FAKE](../repos/fsprojects/FAKE.md) | 1 | ⭐ 1,325 | 2026-10-26 | 2026-10-26 |
@@ -73,4 +76,4 @@
 
 ---
 
-*Last updated: 2026-11-05T21:00:57.392Z*
+*Last updated: 2026-11-06T21:01:02.109Z*

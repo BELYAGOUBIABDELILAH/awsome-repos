@@ -1,6 +1,6 @@
 # rivet-dev&#x2F;rivet
 
-> Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
+> The orchestrator for agentic workloads. A fast, high-density and scalable orchestrator for every workload an agent needs.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;rivet-dev&#x2F;rivet) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 6,177 |
-| **Forks** | 🍴 256 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 6,755 |
+| **Forks** | 🍴 310 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 8, 2026 |
-| **Last Seen** | Sep 25, 2026 |
+| **Last Seen** | Nov 6, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 2 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 50&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-05T21:00:59.800Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-11-06T21:01:05.232Z*  
+*Data from 4 trending reports*

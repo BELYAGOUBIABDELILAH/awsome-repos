@@ -1,6 +1,6 @@
 # kestra-io&#x2F;kestra
 
-> Event Driven Orchestration &amp; Scheduling Platform for Mission Critical Applications
+> Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-versioned, scalable to millions of executions.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;kestra-io&#x2F;kestra) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Java |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 29,909 |
-| **Forks** | 🍴 3,450 |
-| **Trending Days** | 23 |
+| **Stars** | ⭐ 30,163 |
+| **Forks** | 🍴 3,511 |
+| **Trending Days** | 24 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Oct 20, 2026 |
+| **Last Seen** | Nov 6, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 23
+- **Trending Days**: 24
 - **Longest Streak**: 4 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-05T21:00:59.375Z*  
-*Data from 23 trending reports*
+*Last updated: 2026-11-06T21:01:04.699Z*  
+*Data from 24 trending reports*

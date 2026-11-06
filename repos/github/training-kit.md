@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | HTML |
 | **License** | CC-BY-4.0 |
-| **Stars** | ⭐ 5,119 |
-| **Forks** | 🍴 4,503 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 5,142 |
+| **Forks** | 🍴 4,499 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 15, 2026 |
-| **Last Seen** | Oct 19, 2026 |
+| **Last Seen** | Nov 6, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 1 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 5,119+ stars, strong contributor base |
+| **Community** | Very Active | 5,142+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Slow | Occasional updates |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 50&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-05T21:01:00.238Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-11-06T21:01:05.760Z*  
+*Data from 4 trending reports*

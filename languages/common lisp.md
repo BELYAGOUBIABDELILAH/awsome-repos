@@ -16,7 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nodecode-ai/nodecode](../repos/nodecode-ai/nodecode.md) | ⭐ 182 | 2026-10-26 | 4 |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,635 | 2026-08-03 | 51 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [nodecode-ai/nodecode](../repos/nodecode-ai/nodecode.md) | ⭐ 199 | 2026-10-26 | 5 |
 
 
 ---
@@ -25,7 +28,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [nodecode-ai/nodecode](../repos/nodecode-ai/nodecode.md) | ⭐ 182 | 2026-10-26 | A living agent organism in Lisp. |
+| [nodecode-ai/nodecode](../repos/nodecode-ai/nodecode.md) | ⭐ 199 | 2026-10-26 | A living agent organism in Lisp. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jsk-enshu/robot-programming](../repos/jsk-enshu/robot-programming.md) | ⭐ 42 | 2026-10-28 | This is exercise for robot-programming. |
@@ -38,11 +41,11 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) | ⭐ 10,986 | 2026-08-04 | 1 |
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,629 | 2026-08-03 | 50 |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,635 | 2026-08-03 | 51 |
 | [lem-project/lem](../repos/lem-project/lem.md) | ⭐ 3,023 | 2026-08-01 | 3 |
 | [sbcl/sbcl](../repos/sbcl/sbcl.md) | ⭐ 2,143 | 2026-08-24 | 4 |
 | [coalton-lang/coalton](../repos/coalton-lang/coalton.md) | ⭐ 1,734 | 2026-08-04 | 1 |
-| [nodecode-ai/nodecode](../repos/nodecode-ai/nodecode.md) | ⭐ 182 | 2026-10-26 | 4 |
+| [nodecode-ai/nodecode](../repos/nodecode-ai/nodecode.md) | ⭐ 199 | 2026-10-26 | 5 |
 | [jsk-enshu/robot-programming](../repos/jsk-enshu/robot-programming.md) | ⭐ 42 | 2026-10-28 | 2 |
 
 ---
@@ -51,9 +54,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | 50 | ⭐ 3,629 | 2026-08-03 | 2026-11-03 |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | 51 | ⭐ 3,635 | 2026-08-03 | 2026-11-06 |
+| [nodecode-ai/nodecode](../repos/nodecode-ai/nodecode.md) | 5 | ⭐ 199 | 2026-10-26 | 2026-11-06 |
 | [sbcl/sbcl](../repos/sbcl/sbcl.md) | 4 | ⭐ 2,143 | 2026-08-24 | 2026-09-09 |
-| [nodecode-ai/nodecode](../repos/nodecode-ai/nodecode.md) | 4 | ⭐ 182 | 2026-10-26 | 2026-11-05 |
 | [lem-project/lem](../repos/lem-project/lem.md) | 3 | ⭐ 3,023 | 2026-08-01 | 2026-08-03 |
 | [jsk-enshu/robot-programming](../repos/jsk-enshu/robot-programming.md) | 2 | ⭐ 42 | 2026-10-28 | 2026-11-02 |
 | [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) | 1 | ⭐ 10,986 | 2026-08-04 | 2026-08-04 |
@@ -73,4 +76,4 @@
 
 ---
 
-*Last updated: 2026-11-05T21:00:57.380Z*
+*Last updated: 2026-11-06T21:01:02.095Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | MIT |
-| **Stars** | ⭐ 50,085 |
-| **Forks** | 🍴 2,516 |
-| **Trending Days** | 4 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 50,612 |
+| **Forks** | 🍴 2,603 |
+| **Trending Days** | 5 |
+| **Peak Rank** | #18 |
 
 | **First Seen** | Aug 12, 2026 |
-| **Last Seen** | Oct 14, 2026 |
+| **Last Seen** | Nov 6, 2026 |
 
 
 ---
@@ -43,11 +43,12 @@
 
 ## Trending Timeline
 
+**Nov 6, 2026** — Rank #18 (+213 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 4
+- **Peak Rank**: #18
+- **Trending Days**: 5
 - **Longest Streak**: 1 days
 
 ---
@@ -72,7 +73,7 @@
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -85,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 65&#x2F;100
-- **Historical Rank**: No ranking data
+- **Trending Score**: 80&#x2F;100
+- **Historical Rank**: Peak: #18
 
 
 ---
 
-*Last updated: 2026-11-05T21:01:00.076Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-11-06T21:01:05.556Z*  
+*Data from 5 trending reports*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Ruby |
 | **License** | MIT |
-| **Stars** | ⭐ 58,875 |
-| **Forks** | 🍴 23,821 |
-| **Trending Days** | 51 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 58,980 |
+| **Forks** | 🍴 23,827 |
+| **Trending Days** | 52 |
+| **Peak Rank** | #3 |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Nov 5, 2026 |
+| **Last Seen** | Nov 6, 2026 |
 
 
 ---
@@ -43,11 +43,12 @@
 
 ## Trending Timeline
 
+**Nov 6, 2026** — Rank #3 (+152 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 51
+- **Peak Rank**: #3
+- **Trending Days**: 52
 - **Longest Streak**: 9 days
 
 ---
@@ -70,7 +71,7 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Good | Well-maintained documentation |
-| **Community** | Very Active | 58,875+ stars, strong contributor base |
+| **Community** | Very Active | 58,980+ stars, strong contributor base |
 | **Maturity** | Production Ready | Battle-tested and stable |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -86,10 +87,10 @@
 #### Metrics
 - **Hidden Gem**: ✗ No
 - **Trending Score**: 100&#x2F;100
-- **Historical Rank**: No ranking data
+- **Historical Rank**: Top 5 (Peak: #3)
 
 
 ---
 
-*Last updated: 2026-11-05T21:00:59.083Z*  
-*Data from 51 trending reports*
+*Last updated: 2026-11-06T21:01:04.325Z*  
+*Data from 52 trending reports*

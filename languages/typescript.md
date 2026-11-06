@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 303
+- **Total Repositories**: 308
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-16
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 48,123 | 2026-08-01 | 19 |
+| [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 194,951 | 2026-07-30 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 139,870 | 2026-08-02 | 18 |
+| [angular/angular](../repos/angular/angular.md) | ⭐ 101,283 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/docs](../repos/github/docs.md) | ⭐ 21,304 | 2026-08-09 | 5 |
+| [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 98,136 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cordiverse/cordis](../repos/cordiverse/cordis.md) | ⭐ 9,698 | 2026-08-15 | 6 |
+| [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 212,590 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 118,331 | 2026-08-17 | 5 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 117,734 | 2026-08-11 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [awslabs/aidlc-workflows](../repos/awslabs/aidlc-workflows.md) | ⭐ 5,714 | 2026-09-03 | 4 |
+| [solidjs/solid](../repos/solidjs/solid.md) | ⭐ 36,299 | 2026-09-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Fission-AI/OpenSpec](../repos/Fission-AI/OpenSpec.md) | ⭐ 74,047 | 2026-09-19 | 5 |
+| [ParadevAI/Paradev](../repos/ParadevAI/Paradev.md) | ⭐ 16,027 | 2026-10-28 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tester-army/e2e](../repos/tester-army/e2e.md) | ⭐ 13,318 | 2026-10-06 | 4 |
+| [tldraw/tldraw](../repos/tldraw/tldraw.md) | ⭐ 51,342 | 2026-11-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elie222/rakazo](../repos/elie222/rakazo.md) | ⭐ 7,176 | 2026-10-17 | 5 |
+| [elder-plinius/T3MP3ST](../repos/elder-plinius/T3MP3ST.md) | ⭐ 6,938 | 2026-11-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [liguobao/ds-harness-remote](../repos/liguobao/ds-harness-remote.md) | ⭐ 1,934 | 2026-10-23 | 4 |
+| [meta/astryx](../repos/meta/astryx.md) | ⭐ 14,048 | 2026-11-06 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [vercel/eve](../repos/vercel/eve.md) | ⭐ 5,483 | 2026-10-07 | The Open Framework for Building Agents |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [elder-plinius/G0DM0D3](../repos/elder-plinius/G0DM0D3.md) | ⭐ 11,550 | 2026-10-07 | LIBERATED AI CHAT |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Vincentwei1021/video-shotcraft](../repos/Vincentwei1021/video-shotcraft.md) | ⭐ 13,220 | 2026-10-08 | AI video skill for Claude Code &amp; Codex — cinematic product videos with Remotion: 152 shot recipe ... |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [cartesiancs/map3d](../repos/cartesiancs/map3d.md) | ⭐ 2,571 | 2026-10-09 | 🗺️ Generate City 3D map with R3F. Include building and road information. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [makecindy/cindy](../repos/makecindy/cindy.md) | ⭐ 8,006 | 2026-10-09 | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [CopilotKit/OpenIntelligentUI](../repos/CopilotKit/OpenIntelligentUI.md) | ⭐ 3,040 | 2026-10-11 | Open-Source Generative UI Framework |
 
 
 ---
@@ -89,23 +89,23 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [morluto/rea](../repos/morluto/rea.md) | ⭐ 289,610 | 2026-10-06 | 10 |
-| [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 210,192 | 2026-08-04 | 1 |
+| [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 212,590 | 2026-08-04 | 2 |
 | [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 208,895 | 2026-08-11 | 7 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 195,293 | 2026-08-07 | 8 |
-| [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 193,792 | 2026-07-30 | 7 |
+| [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 194,951 | 2026-07-30 | 8 |
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 158,228 | 2026-09-01 | 4 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 152,634 | 2026-08-07 | 20 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 141,850 | 2026-08-02 | 8 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 139,870 | 2026-08-02 | 18 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | 2026-07-31 | 3 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 118,331 | 2026-08-17 | 5 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 117,734 | 2026-08-11 | 24 |
 | [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 116,129 | 2026-08-07 | 12 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 110,330 | 2026-08-02 | 11 |
 | [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 108,379 | 2026-08-23 | 2 |
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 103,697 | 2026-08-11 | 23 |
-| [angular/angular](../repos/angular/angular.md) | ⭐ 100,995 | 2026-08-04 | 4 |
+| [angular/angular](../repos/angular/angular.md) | ⭐ 101,283 | 2026-08-04 | 5 |
 | [microsoft/playwright](../repos/microsoft/playwright.md) | ⭐ 98,817 | 2026-10-15 | 2 |
-| [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 97,337 | 2026-08-04 | 3 |
+| [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 98,136 | 2026-08-04 | 4 |
 | [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | 2026-08-22 | 1 |
 | [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) | ⭐ 91,672 | 2026-08-14 | 4 |
 
@@ -116,8 +116,8 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [cursor/plugins](../repos/cursor/plugins.md) | 24 | ⭐ 14,334 | 2026-08-01 | 2026-10-27 |
+| [stablyai/orca](../repos/stablyai/orca.md) | 24 | ⭐ 117,734 | 2026-08-11 | 2026-11-06 |
 | [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 23 | ⭐ 74,642 | 2026-08-08 | 2026-10-28 |
-| [stablyai/orca](../repos/stablyai/orca.md) | 23 | ⭐ 103,697 | 2026-08-11 | 2026-10-23 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | 20 | ⭐ 152,634 | 2026-08-07 | 2026-10-20 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 20 | ⭐ 46,688 | 2026-08-07 | 2026-11-03 |
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 20 | ⭐ 78,178 | 2026-08-10 | 2026-10-21 |
@@ -208,7 +208,7 @@
 - [apify/crawlee](../repos/apify/crawlee.md) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In ...
 - [brightdata/cli](../repos/brightdata/cli.md) - Official Bright Data CLI - scrape, search, and extract structured web data directly from your ter...
 - [ruvnet/ruflo](../repos/ruvnet/ruflo.md) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous work...
-- [stablyai/orca](../repos/stablyai/orca.md) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding...
+- [stablyai/orca](../repos/stablyai/orca.md) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. ...
 - [anthropics/cwc-workshops](../repos/anthropics/cwc-workshops.md) - 
 - [lfnovo/open-notebook](../repos/lfnovo/open-notebook.md) - An Open Source implementation of Notebook LM with more flexibility and features
 - [garrytan/gbrain](../repos/garrytan/gbrain.md) - Garry&#39;s Opinionated OpenClaw&#x2F;Hermes Agent Brain
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-05T21:00:57.441Z*
+*Last updated: 2026-11-06T21:01:02.178Z*

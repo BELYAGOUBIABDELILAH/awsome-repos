@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 48
+- **Total Repositories**: 49
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-09
 
@@ -16,7 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,235 | 2026-08-02 | 64 |
+| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,703 | 2026-08-01 | 65 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [phoenixframework/phoenix_live_view](../repos/phoenixframework/phoenix_live_view.md) | ⭐ 6,835 | 2026-08-01 | 26 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,235 | 2026-08-02 | 65 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [firezone/firezone](../repos/firezone/firezone.md) | ⭐ 9,170 | 2026-08-02 | 52 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,212 | 2026-08-03 | 54 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [googleapis/elixir-google-api](../repos/googleapis/elixir-google-api.md) | ⭐ 1,081 | 2026-08-06 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [elixir-ecto/ecto](../repos/elixir-ecto/ecto.md) | ⭐ 6,500 | 2026-08-06 | 8 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [OpenFn/lightning](../repos/OpenFn/lightning.md) | ⭐ 321 | 2026-08-23 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ash-project/ash](../repos/ash-project/ash.md) | ⭐ 2,553 | 2026-09-01 | 22 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [jsmestad/minga](../repos/jsmestad/minga.md) | ⭐ 31 | 2026-11-06 | 1 |
 
 
 ---
@@ -32,6 +59,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ash-project/ash_postgres](../repos/ash-project/ash_postgres.md) | ⭐ 191 | 2026-10-25 | The PostgreSQL data layer for Ash Framework |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jsmestad/minga](../repos/jsmestad/minga.md) | ⭐ 31 | 2026-11-06 | A modal text editor built for the age of AI agents — Neovim-style editing, Emacs-style runtime fl... |
 
 
 ---
@@ -42,17 +72,17 @@
 |------------|-------|------------|---------------|
 | [anoma/anoma](../repos/anoma/anoma.md) | ⭐ 33,620 | 2026-09-04 | 4 |
 | [openai/symphony](../repos/openai/symphony.md) | ⭐ 27,756 | 2026-08-01 | 57 |
-| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,701 | 2026-08-01 | 64 |
-| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,212 | 2026-08-03 | 53 |
+| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,703 | 2026-08-01 | 65 |
+| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,212 | 2026-08-03 | 54 |
 | [h4cc/awesome-elixir](../repos/h4cc/awesome-elixir.md) | ⭐ 13,166 | 2026-09-08 | 1 |
-| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,235 | 2026-08-02 | 64 |
-| [firezone/firezone](../repos/firezone/firezone.md) | ⭐ 9,163 | 2026-08-02 | 51 |
-| [phoenixframework/phoenix_live_view](../repos/phoenixframework/phoenix_live_view.md) | ⭐ 6,834 | 2026-08-01 | 25 |
-| [elixir-ecto/ecto](../repos/elixir-ecto/ecto.md) | ⭐ 6,501 | 2026-08-06 | 7 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,235 | 2026-08-02 | 65 |
+| [firezone/firezone](../repos/firezone/firezone.md) | ⭐ 9,170 | 2026-08-02 | 52 |
+| [phoenixframework/phoenix_live_view](../repos/phoenixframework/phoenix_live_view.md) | ⭐ 6,835 | 2026-08-01 | 26 |
+| [elixir-ecto/ecto](../repos/elixir-ecto/ecto.md) | ⭐ 6,500 | 2026-08-06 | 8 |
 | [papercups-io/papercups](../repos/papercups-io/papercups.md) | ⭐ 6,113 | 2026-09-21 | 2 |
 | [livebook-dev/livebook](../repos/livebook-dev/livebook.md) | ⭐ 5,887 | 2026-08-05 | 8 |
 | [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | ⭐ 5,440 | 2026-08-01 | 56 |
-| [ash-project/ash](../repos/ash-project/ash.md) | ⭐ 2,546 | 2026-09-01 | 21 |
+| [ash-project/ash](../repos/ash-project/ash.md) | ⭐ 2,553 | 2026-09-01 | 22 |
 | [expert-lsp/expert](../repos/expert-lsp/expert.md) | ⭐ 2,048 | 2026-08-01 | 6 |
 | [mtrudel/bandit](../repos/mtrudel/bandit.md) | ⭐ 1,922 | 2026-08-22 | 4 |
 | [semaphoreio/semaphore](../repos/semaphoreio/semaphore.md) | ⭐ 1,570 | 2026-08-09 | 1 |
@@ -67,15 +97,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | 64 | ⭐ 26,701 | 2026-08-01 | 2026-11-02 |
-| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 64 | ⭐ 9,235 | 2026-08-02 | 2026-11-05 |
+| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | 65 | ⭐ 26,703 | 2026-08-01 | 2026-11-06 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 65 | ⭐ 9,235 | 2026-08-02 | 2026-11-06 |
 | [openai/symphony](../repos/openai/symphony.md) | 57 | ⭐ 27,756 | 2026-08-01 | 2026-10-20 |
 | [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | 56 | ⭐ 5,440 | 2026-08-01 | 2026-11-03 |
-| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | 53 | ⭐ 23,212 | 2026-08-03 | 2026-11-02 |
-| [firezone/firezone](../repos/firezone/firezone.md) | 51 | ⭐ 9,163 | 2026-08-02 | 2026-11-03 |
-| [phoenixframework/phoenix_live_view](../repos/phoenixframework/phoenix_live_view.md) | 25 | ⭐ 6,834 | 2026-08-01 | 2026-10-29 |
+| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | 54 | ⭐ 23,212 | 2026-08-03 | 2026-11-06 |
+| [firezone/firezone](../repos/firezone/firezone.md) | 52 | ⭐ 9,170 | 2026-08-02 | 2026-11-06 |
+| [phoenixframework/phoenix_live_view](../repos/phoenixframework/phoenix_live_view.md) | 26 | ⭐ 6,835 | 2026-08-01 | 2026-11-06 |
 | [open-telemetry/opentelemetry-erlang-contrib](../repos/open-telemetry/opentelemetry-erlang-contrib.md) | 25 | ⭐ 219 | 2026-08-01 | 2026-09-09 |
-| [ash-project/ash](../repos/ash-project/ash.md) | 21 | ⭐ 2,546 | 2026-09-01 | 2026-10-28 |
+| [ash-project/ash](../repos/ash-project/ash.md) | 22 | ⭐ 2,553 | 2026-09-01 | 2026-11-06 |
 | [operately/operately](../repos/operately/operately.md) | 13 | ⭐ 615 | 2026-08-02 | 2026-11-03 |
 
 ---
@@ -130,7 +160,8 @@
 - [nerves-hub/nerves_hub_web](../repos/nerves-hub/nerves_hub_web.md) - Manage your Nerves device fleet, including firmware updates, health reports, and interactive devi...
 - [elixirs/faker](../repos/elixirs/faker.md) - Faker is a pure Elixir library for generating fake data.
 - [ash-project/ash_postgres](../repos/ash-project/ash_postgres.md) - The PostgreSQL data layer for Ash Framework
+- [jsmestad/minga](../repos/jsmestad/minga.md) - A modal text editor built for the age of AI agents — Neovim-style editing, Emacs-style runtime fl...
 
 ---
 
-*Last updated: 2026-11-05T21:00:57.387Z*
+*Last updated: 2026-11-06T21:01:02.103Z*

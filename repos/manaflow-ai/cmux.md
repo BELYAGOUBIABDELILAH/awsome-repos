@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Swift |
 | **License** | Other |
-| **Stars** | ⭐ 28,663 |
-| **Forks** | 🍴 2,619 |
-| **Trending Days** | 26 |
+| **Stars** | ⭐ 28,732 |
+| **Forks** | 🍴 2,630 |
+| **Trending Days** | 27 |
 | **Peak Rank** | #9 |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 3, 2026 |
+| **Last Seen** | Nov 6, 2026 |
 
 
 ---
@@ -48,7 +48,7 @@
 ### Highlights
 
 - **Peak Rank**: #9
-- **Trending Days**: 26
+- **Trending Days**: 27
 - **Longest Streak**: 4 days
 
 ---
@@ -92,5 +92,5 @@
 
 ---
 
-*Last updated: 2026-11-05T21:00:58.779Z*  
-*Data from 26 trending reports*
+*Last updated: 2026-11-06T21:01:03.968Z*  
+*Data from 27 trending reports*

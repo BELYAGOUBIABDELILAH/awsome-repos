@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 196
+- **Total Repositories**: 198
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-03
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/eShop](../repos/dotnet/eShop.md) | ⭐ 11,001 | 2026-08-01 | 7 |
+| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,765 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,497 | 2026-08-01 | 21 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,499 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 33,078 | 2026-08-02 | 39 |
+| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 11,025 | 2026-08-04 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AssetRipper/AssetRipper](../repos/AssetRipper/AssetRipper.md) | ⭐ 8,841 | 2026-08-02 | 7 |
+| [dotnet/efcore](../repos/dotnet/efcore.md) | ⭐ 14,814 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,837 | 2026-08-03 | 39 |
+| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,413 | 2026-08-04 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 10,990 | 2026-08-04 | 14 |
+| [DataDog/dd-trace-dotnet](../repos/DataDog/dd-trace-dotnet.md) | ⭐ 572 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/aspire](../repos/microsoft/aspire.md) | ⭐ 6,398 | 2026-08-05 | 19 |
+| [microsoft/aspire](../repos/microsoft/aspire.md) | ⭐ 6,402 | 2026-08-05 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 56,028 | 2026-08-06 | 22 |
+| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,740 | 2026-08-05 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [UnigramDev/Unigram](../repos/UnigramDev/Unigram.md) | ⭐ 5,504 | 2026-08-09 | 3 |
+| [Azure/azure-powershell](../repos/Azure/azure-powershell.md) | ⭐ 4,807 | 2026-08-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 25,660 | 2026-08-27 | 10 |
+| [dotnet/sdk](../repos/dotnet/sdk.md) | ⭐ 3,247 | 2026-08-11 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mcp-servers-for-revit/mcp-servers-for-revit](../repos/mcp-servers-for-revit/mcp-servers-for-revit.md) | ⭐ 366 | 2026-10-07 | 🔥💧🤖 Sparx fork of the mcp-servers-for-revit&#x2F;revit-mcp project |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ggml-org/Llama-Windows](../repos/ggml-org/Llama-Windows.md) | ⭐ 344 | 2026-10-07 | Windows Llama App Companion |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [shaked6540/YoutubePlaylistDownloader](../repos/shaked6540/YoutubePlaylistDownloader.md) | ⭐ 3,146 | 2026-10-08 | A tool to download whole playlists, channels or single videos from youtube and also optionally co... |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [SplitScreen-Me/splitscreenme-nucleus](../repos/SplitScreen-Me/splitscreenme-nucleus.md) | ⭐ 2,098 | 2026-10-13 | Nucleus Co-op is an application that starts multiple instances of a game for split-screen multipl... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [xM4ddy/OFGB](../repos/xM4ddy/OFGB.md) | ⭐ 7,474 | 2026-10-15 | GUI Tool To Remove Ads From Various Places Around Windows 11 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [empira/PDFsharp](../repos/empira/PDFsharp.md) | ⭐ 1,005 | 2026-10-15 | PDFsharp and MigraDoc Foundation for .NET 6 and .NET Framework |
 
 
 ---
@@ -94,19 +94,19 @@
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,351 | 2026-08-01 | 17 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 40,291 | 2026-08-14 | 6 |
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 39,115 | 2026-08-03 | 14 |
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,497 | 2026-08-01 | 21 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,499 | 2026-08-01 | 22 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 33,078 | 2026-08-02 | 39 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,757 | 2026-08-01 | 23 |
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 32,177 | 2026-08-22 | 6 |
 | [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,082 | 2026-08-28 | 4 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
-| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,711 | 2026-08-05 | 14 |
+| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,740 | 2026-08-05 | 15 |
 | [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,124 | 2026-08-10 | 7 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,954 | 2026-08-01 | 13 |
 | [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,527 | 2026-08-02 | 9 |
 | [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 25,660 | 2026-08-27 | 10 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,316 | 2026-08-04 | 5 |
-| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,759 | 2026-08-01 | 11 |
+| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,765 | 2026-08-01 | 12 |
 | [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,395 | 2026-08-01 | 13 |
 
 ---
@@ -121,10 +121,10 @@
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 24 | ⭐ 58,750 | 2026-08-02 | 2026-10-28 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 24 | ⭐ 17,296 | 2026-08-02 | 2026-10-28 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 23 | ⭐ 32,757 | 2026-08-01 | 2026-10-29 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 22 | ⭐ 38,499 | 2026-08-01 | 2026-11-06 |
+| [dotnet/runtime](../repos/dotnet/runtime.md) | 22 | ⭐ 18,413 | 2026-08-04 | 2026-11-06 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | 22 | ⭐ 56,028 | 2026-08-06 | 2026-11-05 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 21 | ⭐ 3,827 | 2026-08-01 | 2026-11-03 |
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 21 | ⭐ 38,497 | 2026-08-01 | 2026-11-05 |
-| [dotnet/runtime](../repos/dotnet/runtime.md) | 21 | ⭐ 18,395 | 2026-08-04 | 2026-10-29 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-05T21:00:57.372Z*
+*Last updated: 2026-11-06T21:01:02.085Z*

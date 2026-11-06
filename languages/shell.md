@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 149
+- **Total Repositories**: 150
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-02
 
@@ -16,25 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,765 | 2026-08-01 | 47 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,765 | 2026-08-01 | 48 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,992 | 2026-08-07 | 16 |
+| [bats-core/bats-core](../repos/bats-core/bats-core.md) | ⭐ 6,344 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | ⭐ 3,720 | 2026-08-19 | 13 |
+| [super-linter/super-linter](../repos/super-linter/super-linter.md) | ⭐ 10,650 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 46,321 | 2026-08-29 | 13 |
+| [marcusquinn/aidevops](../repos/marcusquinn/aidevops.md) | ⭐ 439 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aquasecurity/trivy-action](../repos/aquasecurity/trivy-action.md) | ⭐ 1,463 | 2026-10-06 | 3 |
+| [n8n-io/skills](../repos/n8n-io/skills.md) | ⭐ 578 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [conda-forge/miniforge](../repos/conda-forge/miniforge.md) | ⭐ 10,341 | 2026-10-09 | 2 |
+| [nyldn/claude-octopus](../repos/nyldn/claude-octopus.md) | ⭐ 4,397 | 2026-08-06 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [itsnotkubrick/3X-UI_KIT](../repos/itsnotkubrick/3X-UI_KIT.md) | ⭐ 622 | 2026-10-15 | 3 |
+| [quickemu-project/quickemu](../repos/quickemu-project/quickemu.md) | ⭐ 16,647 | 2026-08-11 | 9 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 8,646 | 2026-08-12 | 22 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | ⭐ 3,759 | 2026-08-19 | 14 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,623 | 2026-08-20 | 16 |
 
 
 ---
@@ -81,12 +90,12 @@
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,858 | 2026-08-07 | 4 |
 | [papers-we-love/papers-we-love](../repos/papers-we-love/papers-we-love.md) | ⭐ 110,960 | 2026-10-27 | 1 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,765 | 2026-08-01 | 47 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,765 | 2026-08-01 | 48 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,756 | 2026-08-04 | 10 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,702 | 2026-08-06 | 15 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,855 | 2026-08-04 | 13 |
-| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 46,321 | 2026-08-29 | 13 |
+| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 46,416 | 2026-08-29 | 14 |
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
 | [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,866 | 2026-08-20 | 13 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 33,123 | 2026-08-02 | 22 |
@@ -106,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 47 | ⭐ 95,765 | 2026-08-01 | 2026-11-05 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 48 | ⭐ 95,765 | 2026-08-01 | 2026-11-06 |
 | [expo/skills](../repos/expo/skills.md) | 36 | ⭐ 3,754 | 2026-08-07 | 2026-10-29 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 21 | ⭐ 8,572 | 2026-08-12 | 2026-11-04 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 22 | ⭐ 8,646 | 2026-08-12 | 2026-11-06 |
 | [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | 16 | ⭐ 10,992 | 2026-08-07 | 2026-11-05 |
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | 16 | ⭐ 1,623 | 2026-08-20 | 2026-11-06 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 15 | ⭐ 3,172 | 2026-08-05 | 2026-10-25 |
 | [dockur/windows](../repos/dockur/windows.md) | 15 | ⭐ 53,702 | 2026-08-06 | 2026-10-27 |
-| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | 15 | ⭐ 1,619 | 2026-08-20 | 2026-11-04 |
-| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | 13 | ⭐ 47,855 | 2026-08-04 | 2026-10-21 |
-| [a2aproject/A2A](../repos/a2aproject/A2A.md) | 13 | ⭐ 26,341 | 2026-08-04 | 2026-10-29 |
+| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | 14 | ⭐ 3,759 | 2026-08-19 | 2026-11-06 |
+| [omacom/omarchy](../repos/omacom/omarchy.md) | 14 | ⭐ 46,416 | 2026-08-29 | 2026-11-06 |
 
 ---
 
@@ -224,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-05T21:00:57.436Z*
+*Last updated: 2026-11-06T21:01:02.170Z*
