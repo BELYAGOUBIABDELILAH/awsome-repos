@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 116
+- **Total Repositories**: 117
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-06
+- **Last Updated**: 2026-11-07
 
 ---
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 10,123 | 2026-08-01 | 17 |
+| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 10,131 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 210,854 | 2026-08-03 | 22 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,770 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kubernetes/website](../repos/kubernetes/website.md) | ⭐ 5,421 | 2026-08-03 | 5 |
+| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,659 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | ⭐ 6,305 | 2026-08-05 | 16 |
+| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 17,165 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/training-kit](../repos/github/training-kit.md) | ⭐ 5,142 | 2026-08-15 | 4 |
+| [iptv-org/epg](../repos/iptv-org/epg.md) | ⭐ 3,486 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [QSCTech/zju-icicles](../repos/QSCTech/zju-icicles.md) | ⭐ 41,365 | 2026-09-03 | 5 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 210,940 | 2026-08-03 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dequelabs/axe-core](../repos/dequelabs/axe-core.md) | ⭐ 7,770 | 2026-10-03 | 5 |
+| [OpenAEC-Foundation/open-pdf-studio](../repos/OpenAEC-Foundation/open-pdf-studio.md) | ⭐ 1,015 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Azure/Azure-Sentinel](../repos/Azure/Azure-Sentinel.md) | ⭐ 6,245 | 2026-11-03 | 2 |
+| [Sjj1024/PakePlus](../repos/Sjj1024/PakePlus.md) | ⭐ 15,725 | 2026-08-07 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alshedivat/al-folio](../repos/alshedivat/al-folio.md) | ⭐ 16,310 | 2026-11-04 | 2 |
+| [xbtlin/ai-berkshire](../repos/xbtlin/ai-berkshire.md) | ⭐ 17,049 | 2026-09-14 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [plannotator/effective-html](../repos/plannotator/effective-html.md) | ⭐ 4,033 | 2026-11-06 | 1 |
+| [plannotator/effective-html](../repos/plannotator/effective-html.md) | ⭐ 4,045 | 2026-11-06 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [alchaincyf/darwin-skill](../repos/alchaincyf/darwin-skill.md) | ⭐ 6,681 | 2026-10-08 | 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimizati... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [alchaincyf/huashu-design](../repos/alchaincyf/huashu-design.md) | ⭐ 27,955 | 2026-10-09 | Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 &#x2F; App 原型 &#x2F; 可编辑 PPTX &#x2F; 动画 &#x2F; 信息图 · 六个候选挑三个方向 · 84 种带样... |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [faroukbmiled/RyukGram](../repos/faroukbmiled/RyukGram.md) | ⭐ 740 | 2026-10-25 | RyukGram, The Instagram tweak for iOS power users. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ProletRevDicta/Prolet](../repos/ProletRevDicta/Prolet.md) | ⭐ 1,865 | 2026-11-03 | Historical documents (in Chinese) about the GPCR (Thanks Comrade RC MR HR etc.) |
 
 
 ---
@@ -88,15 +88,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 210,854 | 2026-08-03 | 22 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 210,940 | 2026-08-03 | 23 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 141,705 | 2026-08-08 | 18 |
 | [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 76,613 | 2026-08-19 | 9 |
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,488 | 2026-08-01 | 21 |
-| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,648 | 2026-08-01 | 9 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,770 | 2026-08-01 | 22 |
+| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,659 | 2026-08-01 | 10 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 43,224 | 2026-08-12 | 13 |
 | [QSCTech/zju-icicles](../repos/QSCTech/zju-icicles.md) | ⭐ 41,365 | 2026-09-03 | 5 |
 | [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,722 | 2026-08-07 | 7 |
 | [fengdu78/Coursera-ML-AndrewNg-Notes](../repos/fengdu78/Coursera-ML-AndrewNg-Notes.md) | ⭐ 37,699 | 2026-09-06 | 1 |
+| [geekan/HowToLiveLonger](../repos/geekan/HowToLiveLonger.md) | ⭐ 36,035 | 2026-11-07 | 1 |
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,980 | 2026-08-12 | 2 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 30,478 | 2026-08-09 | 17 |
 | [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 30,104 | 2026-08-19 | 11 |
@@ -107,7 +108,6 @@
 | [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 23,508 | 2026-08-01 | 12 |
 | [google/fonts](../repos/google/fonts.md) | ⭐ 20,719 | 2026-08-03 | 8 |
 | [Chuyu-Team/Dism-Multi-language](../repos/Chuyu-Team/Dism-Multi-language.md) | ⭐ 20,324 | 2026-09-05 | 1 |
-| [twitter/twemoji](../repos/twitter/twemoji.md) | ⭐ 17,781 | 2026-09-06 | 1 |
 
 ---
 
@@ -115,11 +115,11 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | 22 | ⭐ 210,854 | 2026-08-03 | 2026-11-06 |
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 21 | ⭐ 68,488 | 2026-08-01 | 2026-11-03 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | 23 | ⭐ 210,940 | 2026-08-03 | 2026-11-07 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 22 | ⭐ 68,770 | 2026-08-01 | 2026-11-07 |
+| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 18 | ⭐ 10,131 | 2026-08-01 | 2026-11-07 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 18 | ⭐ 11,040 | 2026-08-03 | 2026-10-28 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 18 | ⭐ 141,705 | 2026-08-08 | 2026-11-03 |
-| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 17 | ⭐ 10,123 | 2026-08-01 | 2026-11-06 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 17 | ⭐ 30,478 | 2026-08-09 | 2026-11-04 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 16 | ⭐ 28,016 | 2026-08-04 | 2026-10-15 |
 | [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 16 | ⭐ 6,305 | 2026-08-05 | 2026-11-06 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-06T21:01:02.118Z*
+*Last updated: 2026-11-07T21:00:59.860Z*

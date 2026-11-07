@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,969 | 2026-08-01 | 16 |
+| [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 40,495 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | ⭐ 29,689 | 2026-08-02 | 15 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 27,915 | 2026-08-02 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | ⭐ 30,232 | 2026-08-02 | 15 |
+| [opendataloader-project/opendataloader-pdf](../repos/opendataloader-project/opendataloader-pdf.md) | ⭐ 30,207 | 2026-08-03 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 40,473 | 2026-08-02 | 12 |
+| [shmykelsa/AAAD](../repos/shmykelsa/AAAD.md) | ⭐ 3,230 | 2026-08-03 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 27,888 | 2026-08-02 | 22 |
+| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 36,061 | 2026-08-04 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,509 | 2026-08-02 | 25 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,787 | 2026-08-04 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bazelbuild/bazel](../repos/bazelbuild/bazel.md) | ⭐ 26,055 | 2026-08-02 | 8 |
+| [xuxueli/xxl-job](../repos/xuxueli/xxl-job.md) | ⭐ 30,654 | 2026-08-05 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [trinodb/trino](../repos/trinodb/trino.md) | ⭐ 13,476 | 2026-08-04 | 14 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 6,286 | 2026-08-05 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 30,163 | 2026-08-04 | 24 |
+| [apache/tomcat](../repos/apache/tomcat.md) | ⭐ 8,276 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 52,327 | 2026-08-04 | 15 |
+| [ReChronoRain/HyperCeiler](../repos/ReChronoRain/HyperCeiler.md) | ⭐ 5,695 | 2026-08-10 | 11 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Sketchware-Pro/Sketchware-Pro](../repos/Sketchware-Pro/Sketchware-Pro.md) | ⭐ 1,799 | 2026-10-08 | Sketchware Pro&#39;s sources in Java. Now anyone can contribute to Sketchware Pro. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [HbmMods/Hbm-s-Nuclear-Tech-GIT](../repos/HbmMods/Hbm-s-Nuclear-Tech-GIT.md) | ⭐ 974 | 2026-10-08 | A flaming wreck of a minecraft mod about nuclear technology that is somehow still in development. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Leclowndu93150/Thaumaturge](../repos/Leclowndu93150/Thaumaturge.md) | ⭐ 126 | 2026-10-09 |  |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [cyberkaida/reverse-engineering-assistant](../repos/cyberkaida/reverse-engineering-assistant.md) | ⭐ 935 | 2026-11-04 | MCP server for reverse engineering tasks in Ghidra 👩‍💻 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [dotnetdreamer/open-android-dex](../repos/dotnetdreamer/open-android-dex.md) | ⭐ 270 | 2026-11-04 | Turn any android phone into Desktop class experience including full linux environment without root |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [openrewrite/rewrite](../repos/openrewrite/rewrite.md) | ⭐ 3,941 | 2026-11-05 | Automated mass refactoring of source code. |
 
 
 ---
@@ -90,7 +90,7 @@
 |------------|-------|------------|---------------|
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 131,621 | 2026-08-04 | 16 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 97,803 | 2026-08-03 | 30 |
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,786 | 2026-08-04 | 21 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,787 | 2026-08-04 | 22 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,509 | 2026-08-02 | 25 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,612 | 2026-08-04 | 10 |
@@ -102,8 +102,8 @@
 | [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 48,307 | 2026-08-07 | 11 |
 | [ReactiveX/RxJava](../repos/ReactiveX/RxJava.md) | ⭐ 48,208 | 2026-08-28 | 1 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 43,092 | 2026-08-05 | 20 |
-| [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 40,473 | 2026-08-02 | 12 |
-| [halo-dev/halo](../repos/halo-dev/halo.md) | ⭐ 40,123 | 2026-08-22 | 4 |
+| [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 40,495 | 2026-08-02 | 13 |
+| [halo-dev/halo](../repos/halo-dev/halo.md) | ⭐ 40,150 | 2026-08-22 | 5 |
 | [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 39,988 | 2026-08-06 | 13 |
 | [PhilJay/MPAndroidChart](../repos/PhilJay/MPAndroidChart.md) | ⭐ 38,169 | 2026-09-21 | 1 |
 | [alibaba/arthas](../repos/alibaba/arthas.md) | ⭐ 37,526 | 2026-08-28 | 2 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 31 | ⭐ 6,265 | 2026-08-05 | 2026-11-05 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 32 | ⭐ 6,286 | 2026-08-05 | 2026-11-07 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 30 | ⭐ 97,803 | 2026-08-03 | 2026-11-04 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 25 | ⭐ 78,509 | 2026-08-02 | 2026-11-06 |
 | [kestra-io/kestra](../repos/kestra-io/kestra.md) | 24 | ⭐ 30,163 | 2026-08-04 | 2026-11-06 |
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 22 | ⭐ 27,888 | 2026-08-02 | 2026-11-06 |
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 21 | ⭐ 81,786 | 2026-08-04 | 2026-11-06 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 23 | ⭐ 27,915 | 2026-08-02 | 2026-11-07 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 22 | ⭐ 81,787 | 2026-08-04 | 2026-11-07 |
+| [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | 21 | ⭐ 7,545 | 2026-08-14 | 2026-11-07 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 20 | ⭐ 43,092 | 2026-08-05 | 2026-11-05 |
-| [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | 20 | ⭐ 7,452 | 2026-08-14 | 2026-11-03 |
+| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 19 | ⭐ 36,061 | 2026-08-04 | 2026-11-07 |
 | [microg/GmsCore](../repos/microg/GmsCore.md) | 19 | ⭐ 15,194 | 2026-08-06 | 2026-11-04 |
-| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 18 | ⭐ 35,578 | 2026-08-04 | 2026-10-26 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-06T21:01:02.122Z*
+*Last updated: 2026-11-07T21:00:59.864Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | MIT |
-| **Stars** | ⭐ 289,610 |
-| **Forks** | 🍴 72,898 |
-| **Trending Days** | 10 |
+| **Stars** | ⭐ 440,692 |
+| **Forks** | 🍴 109,051 |
+| **Trending Days** | 11 |
 | **Peak Rank** | #1 |
 
 | **First Seen** | Oct 6, 2026 |
-| **Last Seen** | Oct 16, 2026 |
+| **Last Seen** | Nov 7, 2026 |
 
 
 ---
@@ -55,7 +55,7 @@
 ### Highlights
 
 - **Peak Rank**: #1
-- **Trending Days**: 10
+- **Trending Days**: 11
 - **Longest Streak**: 6 days
 
 ---
@@ -63,10 +63,10 @@
 ## Categories
 
 ### Topics
-[`agent-skills`](../../topics/agent-skills.md) [`ai-agents`](../../topics/ai-agents.md) [`binary-analysis`](../../topics/binary-analysis.md) [`claude-code`](../../topics/claude-code.md) [`cli`](../../topics/cli.md) [`codex`](../../topics/codex.md) [`cordis`](../../topics/cordis.md) [`decompiler`](../../topics/decompiler.md) [`developer-tools`](../../topics/developer-tools.md) [`dsh`](../../topics/dsh.md) [`dsh-plugin`](../../topics/dsh-plugin.md) [`ghidra`](../../topics/ghidra.md) [`hopper`](../../topics/hopper.md) [`llm`](../../topics/llm.md) [`mcp`](../../topics/mcp.md) [`model-context-protocol`](../../topics/model-context-protocol.md) [`rea`](../../topics/rea.md) [`reverse-engineering`](../../topics/reverse-engineering.md) [`static-analysis`](../../topics/static-analysis.md) [`touhou`](../../topics/touhou.md) 
+[`agent-skills`](../../topics/agent-skills.md) [`ai`](../../topics/ai.md) [`android`](../../topics/android.md) [`claude-code`](../../topics/claude-code.md) [`cli`](../../topics/cli.md) [`cpp`](../../topics/cpp.md) [`dsh-plugin`](../../topics/dsh-plugin.md) [`html`](../../topics/html.md) [`java`](../../topics/java.md) [`javascript`](../../topics/javascript.md) [`linux`](../../topics/linux.md) [`mcp`](../../topics/mcp.md) [`nodejs`](../../topics/nodejs.md) [`python`](../../topics/python.md) [`rea`](../../topics/rea.md) [`react`](../../topics/react.md) [`rust`](../../topics/rust.md) [`security`](../../topics/security.md) [`touhou`](../../topics/touhou.md) [`typescript`](../../topics/typescript.md) 
 
 ### Curated Categories
-`Artificial Intelligence` `Large Language Models` `Systems Programming` `Developer Tools` 
+`Artificial Intelligence` `Large Language Models` `Web Development` `Frontend Development` `Mobile Development` `Cybersecurity` `Systems Programming` `Developer Tools` 
 
 ---
 
@@ -78,9 +78,9 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 289,610+ stars, strong contributor base |
+| **Community** | Very Active | 440,692+ stars, strong contributor base |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
@@ -99,5 +99,5 @@
 
 ---
 
-*Last updated: 2026-11-06T21:01:07.151Z*  
-*Data from 10 trending reports*
+*Last updated: 2026-11-07T21:01:06.442Z*  
+*Data from 11 trending reports*

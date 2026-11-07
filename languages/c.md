@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 233
+- **Total Repositories**: 235
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-02
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,312 | 2026-08-01 | 14 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 140,695 | 2026-08-01 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,184 | 2026-08-01 | 9 |
+| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,982 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,523 | 2026-08-01 | 40 |
+| [lz4/lz4](../repos/lz4/lz4.md) | ⭐ 12,700 | 2026-08-05 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,849 | 2026-08-02 | 10 |
+| [madler/zlib](../repos/madler/zlib.md) | ⭐ 7,200 | 2026-08-07 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [systemd/systemd](../repos/systemd/systemd.md) | ⭐ 17,003 | 2026-08-03 | 11 |
+| [HarbourMasters/Shipwright](../repos/HarbourMasters/Shipwright.md) | ⭐ 5,897 | 2026-08-24 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openzfs/zfs](../repos/openzfs/zfs.md) | ⭐ 12,550 | 2026-08-04 | 3 |
+| [OpenVPN/openvpn](../repos/OpenVPN/openvpn.md) | ⭐ 14,781 | 2026-09-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [redis/redis](../repos/redis/redis.md) | ⭐ 77,254 | 2026-08-04 | 11 |
+| [signalwire/freeswitch](../repos/signalwire/freeswitch.md) | ⭐ 5,286 | 2026-09-10 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lz4/lz4](../repos/lz4/lz4.md) | ⭐ 12,626 | 2026-08-05 | 7 |
+| [FareedKhan-dev/kimi-k3-in-c](../repos/FareedKhan-dev/kimi-k3-in-c.md) | ⭐ 11,204 | 2026-11-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [betaflight/betaflight](../repos/betaflight/betaflight.md) | ⭐ 11,750 | 2026-08-05 | 3 |
+| [openssh/openssh-portable](../repos/openssh/openssh-portable.md) | ⭐ 4,098 | 2026-11-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 17,025 | 2026-08-06 | 29 |
+| [meta/zstd](../repos/meta/zstd.md) | ⭐ 28,197 | 2026-11-07 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [WeebLabs/DSPi](../repos/WeebLabs/DSPi.md) | ⭐ 1,329 | 2026-10-08 | A fully featured audio DSP firmware for the Raspberry Pi Pico (RP2040) and Pico 2 (RP2350).  Offi... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [pnggroup/libpng](../repos/pnggroup/libpng.md) | ⭐ 1,662 | 2026-10-09 | LIBPNG: Portable Network Graphics support, official libpng repository |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [logicog/RTLPlayground](../repos/logicog/RTLPlayground.md) | ⭐ 602 | 2026-10-16 | A Playground for Firmware development for RTL8372&#x2F;RTL8373 based 2.5GBit Switches |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [V4bel/dirtyfrag](../repos/V4bel/dirtyfrag.md) | ⭐ 5,093 | 2026-10-19 |  |
 
 
 ---
@@ -89,7 +89,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 153,855 | 2026-08-07 | 18 |
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 140,224 | 2026-08-01 | 24 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 140,695 | 2026-08-01 | 25 |
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 80,039 | 2026-08-24 | 4 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 78,208 | 2026-08-02 | 18 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 77,254 | 2026-08-04 | 11 |
@@ -98,7 +98,7 @@
 | [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 48,141 | 2026-09-01 | 24 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 47,337 | 2026-08-07 | 26 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 41,534 | 2026-08-01 | 12 |
-| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,849 | 2026-08-02 | 10 |
+| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,982 | 2026-08-02 | 11 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,813 | 2026-08-04 | 10 |
 | [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,928 | 2026-08-03 | 8 |
@@ -119,7 +119,7 @@
 | [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 29 | ⭐ 17,025 | 2026-08-06 | 2026-11-06 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 26 | ⭐ 75,752 | 2026-08-01 | 2026-10-28 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 26 | ⭐ 47,337 | 2026-08-07 | 2026-10-23 |
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 24 | ⭐ 140,224 | 2026-08-01 | 2026-10-29 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 25 | ⭐ 140,695 | 2026-08-01 | 2026-11-07 |
 | [JustVugg/colibri](../repos/JustVugg/colibri.md) | 24 | ⭐ 48,141 | 2026-09-01 | 2026-11-05 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 21 | ⭐ 28,089 | 2026-08-07 | 2026-10-23 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 19 | ⭐ 7,021 | 2026-08-04 | 2026-10-23 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-06T21:01:02.081Z*
+*Last updated: 2026-11-07T21:00:59.823Z*

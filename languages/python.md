@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 322
+- **Total Repositories**: 323
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-03
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/VibeVoice](../repos/microsoft/VibeVoice.md) | ⭐ 56,434 | 2026-08-01 | 5 |
+| [microsoft/VibeVoice](../repos/microsoft/VibeVoice.md) | ⭐ 56,672 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 98,325 | 2026-08-02 | 5 |
+| [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 100,258 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pandas-dev/pandas](../repos/pandas-dev/pandas.md) | ⭐ 50,466 | 2026-08-04 | 2 |
+| [jamiepine/voicebox](../repos/jamiepine/voicebox.md) | ⭐ 59,966 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/skills](../repos/google/skills.md) | ⭐ 22,786 | 2026-08-07 | 12 |
+| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 377,251 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pipeshub-ai/pipeshub-ai](../repos/pipeshub-ai/pipeshub-ai.md) | ⭐ 4,024 | 2026-08-19 | 2 |
+| [aws/agent-toolkit-for-aws](../repos/aws/agent-toolkit-for-aws.md) | ⭐ 3,426 | 2026-08-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [numpy/numpy](../repos/numpy/numpy.md) | ⭐ 33,336 | 2026-09-07 | 2 |
+| [google/skills](../repos/google/skills.md) | ⭐ 23,303 | 2026-08-07 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dgtlmoon/changedetection.io](../repos/dgtlmoon/changedetection.io.md) | ⭐ 35,592 | 2026-09-14 | 2 |
+| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 188,672 | 2026-08-11 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/TensorRT-LLM](../repos/NVIDIA/TensorRT-LLM.md) | ⭐ 15,030 | 2026-09-19 | 2 |
+| [elder-plinius/OBLITERATUS](../repos/elder-plinius/OBLITERATUS.md) | ⭐ 9,281 | 2026-08-23 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/auto-ontology](../repos/NVIDIA/auto-ontology.md) | ⭐ 8,849 | 2026-10-27 | 4 |
+| [bobeff/open-source-games](../repos/bobeff/open-source-games.md) | ⭐ 17,817 | 2026-10-19 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/airflow](../repos/apache/airflow.md) | ⭐ 47,399 | 2026-11-06 | 1 |
+| [NVIDIA/auto-ontology](../repos/NVIDIA/auto-ontology.md) | ⭐ 9,728 | 2026-10-27 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [abrignoni/ALEAPP](../repos/abrignoni/ALEAPP.md) | ⭐ 974 | 2026-10-08 | Android Logs Events And Protobuf Parser |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [IAmTomShaw/f1-race-replay](../repos/IAmTomShaw/f1-race-replay.md) | ⭐ 6,673 | 2026-10-08 | An interactive Formula 1 race visualisation and data analysis tool built with Python! 🏎️ |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Robbyant/lingbot-map](../repos/Robbyant/lingbot-map.md) | ⭐ 17,653 | 2026-10-09 | [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3... |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [1Panel-dev/MaxKB](../repos/1Panel-dev/MaxKB.md) | ⭐ 22,969 | 2026-10-13 | 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [isair/jarvis](../repos/isair/jarvis.md) | ⭐ 2,062 | 2026-10-14 | Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Crosstalk-Solutions/unifi-toolkit](../repos/Crosstalk-Solutions/unifi-toolkit.md) | ⭐ 691 | 2026-10-15 | A suite of tools for UniFi network management |
 
 
 ---
@@ -89,14 +89,14 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 495,697 | 2026-08-01 | 11 |
-| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 368,341 | 2026-08-03 | 6 |
+| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 377,251 | 2026-08-03 | 7 |
 | [vinta/awesome-python](../repos/vinta/awesome-python.md) | ⭐ 319,105 | 2026-09-07 | 1 |
 | [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 285,114 | 2026-08-08 | 4 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 243,012 | 2026-08-01 | 17 |
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 198,857 | 2026-08-02 | 8 |
 | [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 189,013 | 2026-09-07 | 3 |
+| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 188,672 | 2026-08-11 | 9 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,775 | 2026-08-06 | 9 |
-| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 178,249 | 2026-08-11 | 8 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 167,557 | 2026-07-31 | 9 |
 | [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 147,818 | 2026-08-14 | 13 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 143,038 | 2026-08-04 | 8 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-06T21:01:02.154Z*
+*Last updated: 2026-11-07T21:00:59.895Z*

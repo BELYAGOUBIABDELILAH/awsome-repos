@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 308
+- **Total Repositories**: 311
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-10-16
+- **Last Updated**: 2026-11-07
 
 ---
 
@@ -16,58 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 194,951 | 2026-07-30 | 8 |
+| [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 195,138 | 2026-07-30 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [angular/angular](../repos/angular/angular.md) | ⭐ 101,283 | 2026-08-04 | 5 |
+| [actions/checkout](../repos/actions/checkout.md) | ⭐ 9,007 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 98,136 | 2026-08-04 | 4 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 140,636 | 2026-08-02 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 212,590 | 2026-08-04 | 2 |
+| [angular/angular](../repos/angular/angular.md) | ⭐ 101,466 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 117,734 | 2026-08-11 | 24 |
+| [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 98,401 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [solidjs/solid](../repos/solidjs/solid.md) | ⭐ 36,299 | 2026-09-09 | 2 |
+| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 154,905 | 2026-08-07 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ParadevAI/Paradev](../repos/ParadevAI/Paradev.md) | ⭐ 16,027 | 2026-10-28 | 2 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 118,510 | 2026-08-11 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tldraw/tldraw](../repos/tldraw/tldraw.md) | ⭐ 51,342 | 2026-11-06 | 1 |
+| [awslabs/aidlc-workflows](../repos/awslabs/aidlc-workflows.md) | ⭐ 5,925 | 2026-09-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elder-plinius/T3MP3ST](../repos/elder-plinius/T3MP3ST.md) | ⭐ 6,938 | 2026-11-06 | 1 |
+| [Fission-AI/OpenSpec](../repos/Fission-AI/OpenSpec.md) | ⭐ 74,227 | 2026-09-19 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [meta/astryx](../repos/meta/astryx.md) | ⭐ 14,048 | 2026-11-06 | 1 |
+| [morluto/rea](../repos/morluto/rea.md) | ⭐ 440,692 | 2026-10-06 | 11 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Vincentwei1021/video-shotcraft](../repos/Vincentwei1021/video-shotcraft.md) | ⭐ 13,220 | 2026-10-08 | AI video skill for Claude Code &amp; Codex — cinematic product videos with Remotion: 152 shot recipe ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Gimanh/taskview-community](../repos/Gimanh/taskview-community.md) | ⭐ 1,273 | 2026-10-08 | TaskView is a self-hosted project and task management platform focused on clarity, ownership, and... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [thebuggeddev/anatomy](../repos/thebuggeddev/anatomy.md) | ⭐ 3,435 | 2026-10-08 | An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [DmNote-App/DmNote](../repos/DmNote-App/DmNote.md) | ⭐ 5,160 | 2026-10-08 | Make it yours. A customizable key viewer for DJMAX RESPECT V and any game. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [videojs/video.js](../repos/videojs/video.js.md) | ⭐ 39,912 | 2026-10-08 | Video.js v10 - open source media player framework for HTML and React. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [openai/codex-security](../repos/openai/codex-security.md) | ⭐ 11,032 | 2026-10-08 | OpenAI&#39;s Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulne... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [VERT-sh/VERT](../repos/VERT-sh/VERT.md) | ⭐ 15,807 | 2026-10-09 | The next-generation file converter. Open source, fully local* and free forever. |
@@ -80,6 +62,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [CopilotKit/OpenIntelligentUI](../repos/CopilotKit/OpenIntelligentUI.md) | ⭐ 3,040 | 2026-10-11 | Open-Source Generative UI Framework |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [chthollyphile/folia-major](../repos/chthollyphile/folia-major.md) | ⭐ 10,204 | 2026-10-11 | 专注于绚丽的歌词动画效果的本地音乐&#x2F;navidrome&#x2F;第三方多平台在线音乐播放器 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [getnao/nao](../repos/getnao/nao.md) | ⭐ 1,913 | 2026-10-11 | 👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao ch... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ranxianglei/billion-context](../repos/ranxianglei/billion-context.md) | ⭐ 4,562 | 2026-10-12 | A context-compression plugin for month-long single sessions (billions of tokens) ,small context w... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [wuwangzhang1216/ChinaTextbookStudyFree](../repos/wuwangzhang1216/ChinaTextbookStudyFree.md) | ⭐ 863 | 2026-10-12 | 给所有中国小学生打造的免费学习平台，从一年级到六年级所有的课本知识点全汇总。 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [apify/apify-mcp-server](../repos/apify/apify-mcp-server.md) | ⭐ 11,224 | 2026-10-13 | The Apify MCP server enables your AI agents to extract data from social media, search engines, ma... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Twigpine/openclaude](../repos/Twigpine/openclaude.md) | ⭐ 33,827 | 2026-10-13 | runs anywhere. uses anything |
 
 
 ---
@@ -88,24 +88,24 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [morluto/rea](../repos/morluto/rea.md) | ⭐ 289,610 | 2026-10-06 | 10 |
+| [morluto/rea](../repos/morluto/rea.md) | ⭐ 440,692 | 2026-10-06 | 11 |
 | [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 212,590 | 2026-08-04 | 2 |
 | [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 208,895 | 2026-08-11 | 7 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 195,293 | 2026-08-07 | 8 |
-| [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 194,951 | 2026-07-30 | 8 |
+| [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 195,138 | 2026-07-30 | 9 |
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 158,228 | 2026-09-01 | 4 |
-| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 152,634 | 2026-08-07 | 20 |
+| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 154,905 | 2026-08-07 | 21 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 141,850 | 2026-08-02 | 8 |
-| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 139,870 | 2026-08-02 | 18 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 140,636 | 2026-08-02 | 19 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | 2026-07-31 | 3 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 118,510 | 2026-08-11 | 25 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 118,331 | 2026-08-17 | 5 |
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 117,734 | 2026-08-11 | 24 |
 | [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 116,129 | 2026-08-07 | 12 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 110,330 | 2026-08-02 | 11 |
 | [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 108,379 | 2026-08-23 | 2 |
-| [angular/angular](../repos/angular/angular.md) | ⭐ 101,283 | 2026-08-04 | 5 |
+| [angular/angular](../repos/angular/angular.md) | ⭐ 101,466 | 2026-08-04 | 6 |
 | [microsoft/playwright](../repos/microsoft/playwright.md) | ⭐ 98,817 | 2026-10-15 | 2 |
-| [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 98,136 | 2026-08-04 | 4 |
+| [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 98,401 | 2026-08-04 | 5 |
 | [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | 2026-08-22 | 1 |
 | [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) | ⭐ 91,672 | 2026-08-14 | 4 |
 
@@ -115,14 +115,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [stablyai/orca](../repos/stablyai/orca.md) | 25 | ⭐ 118,510 | 2026-08-11 | 2026-11-07 |
 | [cursor/plugins](../repos/cursor/plugins.md) | 24 | ⭐ 14,334 | 2026-08-01 | 2026-10-27 |
-| [stablyai/orca](../repos/stablyai/orca.md) | 24 | ⭐ 117,734 | 2026-08-11 | 2026-11-06 |
 | [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 23 | ⭐ 74,642 | 2026-08-08 | 2026-10-28 |
-| [anthropics/claude-code](../repos/anthropics/claude-code.md) | 20 | ⭐ 152,634 | 2026-08-07 | 2026-10-20 |
+| [anthropics/claude-code](../repos/anthropics/claude-code.md) | 21 | ⭐ 154,905 | 2026-08-07 | 2026-11-07 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 20 | ⭐ 46,688 | 2026-08-07 | 2026-11-03 |
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 20 | ⭐ 78,178 | 2026-08-10 | 2026-10-21 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 19 | ⭐ 48,123 | 2026-08-01 | 2026-11-05 |
-| [garrytan/gstack](../repos/garrytan/gstack.md) | 18 | ⭐ 139,870 | 2026-08-02 | 2026-11-05 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | 19 | ⭐ 140,636 | 2026-08-02 | 2026-11-07 |
 | [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 14 | ⭐ 54,366 | 2026-08-01 | 2026-10-28 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 14 | ⭐ 34,200 | 2026-08-02 | 2026-10-03 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-06T21:01:02.178Z*
+*Last updated: 2026-11-07T21:00:59.916Z*

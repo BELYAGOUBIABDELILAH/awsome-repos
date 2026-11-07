@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | Not specified |
-| **Stars** | ⭐ 178,249 |
-| **Forks** | 🍴 21,106 |
-| **Trending Days** | 8 |
+| **Stars** | ⭐ 188,672 |
+| **Forks** | 🍴 22,242 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #5 |
 
 | **First Seen** | Aug 11, 2026 |
-| **Last Seen** | Sep 25, 2026 |
+| **Last Seen** | Nov 7, 2026 |
 
 
 ---
@@ -47,11 +47,12 @@
 **Sep 4, 2026** — Rank #5 (+512 ⭐)  
 **Sep 5, 2026** — Rank #6 (+472 ⭐)  
 **Sep 25, 2026** — Rank #7 (+231 ⭐)  
+**Nov 7, 2026** — Rank #5 (+386 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #5
-- **Trending Days**: 8
+- **Trending Days**: 9
 - **Longest Streak**: 3 days
 
 ---
@@ -74,9 +75,9 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 178,249+ stars, strong contributor base |
+| **Community** | Very Active | 188,672+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
@@ -95,5 +96,5 @@
 
 ---
 
-*Last updated: 2026-11-06T21:01:05.469Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-11-07T21:01:03.923Z*  
+*Data from 9 trending reports*

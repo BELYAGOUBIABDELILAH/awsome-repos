@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 355
+- **Total Repositories**: 356
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-02
-- **Average Stars**: 14552
+- **Average Stars**: 14561
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 39,070 | Go |  |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 39,102 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,312 | C |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,799 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,184 | C |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,431 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,798 | Ruby |  |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,509 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,834 | Ruby |  |
+| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,659 | HTML |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,423 | Scala |  |
+| [vim/vim](../repos/vim/vim.md) | ⭐ 41,193 | Vim Script |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/apisix](../repos/apache/apisix.md) | ⭐ 17,301 | Lua |  |
+| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,590 | PowerShell |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,501 | Clojure |  |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 38,088 | V |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,523 | C |  |
+| [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 100,258 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ocaml/opam](../repos/ocaml/opam.md) | ⭐ 1,387 | OCaml |  |
+| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,982 | C |  |
 
 
 ---
@@ -54,11 +54,11 @@
 | Repository | Stars | Language | First Seen | Trending Days |
 |------------|-------|----------|------------|---------------|
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 153,855 | C | 2026-08-07 | 18 |
-| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,845 | Go | 2026-08-04 | 13 |
-| [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 98,325 | Python | 2026-08-02 | 5 |
+| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,896 | Go | 2026-08-04 | 14 |
+| [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 100,258 | Python | 2026-08-02 | 6 |
 | [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 81,063 | Go | 2026-08-12 | 8 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 78,208 | C | 2026-08-02 | 18 |
-| [moby/moby](../repos/moby/moby.md) | ⭐ 72,320 | Go | 2026-08-04 | 7 |
+| [moby/moby](../repos/moby/moby.md) | ⭐ 72,358 | Go | 2026-08-04 | 8 |
 | [nektos/act](../repos/nektos/act.md) | ⭐ 71,966 | Go | 2026-08-07 | 2 |
 | [ansible/ansible](../repos/ansible/ansible.md) | ⭐ 71,155 | Python | 2026-10-29 | 1 |
 | [git/git](../repos/git/git.md) | ⭐ 64,135 | C | 2026-08-05 | 10 |
@@ -73,7 +73,7 @@
 | [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 29,069 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 39,070 | Go | 2 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 39,102 | Go | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,312 | C | 1 |
@@ -85,7 +85,7 @@
 | [MISP/MISP](../repos/MISP/MISP.md) | ⭐ 6,638 | PHP | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,798 | Ruby | 2 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,799 | Ruby | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [ubicloud/ubicloud](../repos/ubicloud/ubicloud.md) | ⭐ 12,382 | Ruby | 1 |
@@ -97,15 +97,12 @@
 | [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,616 | Scala | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,423 | Scala | 5 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,431 | Scala | 6 |
 
 ---
 
 ## 🆕 New This Month
 
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [kyverno/kyverno](../repos/kyverno/kyverno.md) | ⭐ 8,230 | Go | 2026-10-08 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [dockersamples/example-voting-app](../repos/dockersamples/example-voting-app.md) | ⭐ 5,844 | C# | 2026-10-11 |
@@ -133,10 +130,17 @@
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [emrearmagan/atlas.nvim](../repos/emrearmagan/atlas.nvim.md) | ⭐ 340 | Lua | 2026-10-14 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [vlang/vsl](../repos/vlang/vsl.md) | ⭐ 404 | V | 2026-10-15 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-11-07](../archive/2026/11/2026-11-07.md)
+- 24 repositories trending
+- Top: kubernetes&#x2F;kubernetes
 
 ### [2026-11-06](../archive/2026/11/2026-11-06.md)
 - 58 repositories trending
@@ -167,14 +171,14 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 78 days | 2026-08-01 | 2026-11-06 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 73 days | 2026-08-01 | 2026-11-06 |
-| [vlang/v](../repos/vlang/v.md) | 72 days | 2026-08-01 | 2026-11-06 |
-| [vim/vim](../repos/vim/vim.md) | 66 days | 2026-08-01 | 2026-11-06 |
-| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 65 days | 2026-08-02 | 2026-11-06 |
+| [apache/spark](../repos/apache/spark.md) | 79 days | 2026-08-01 | 2026-11-07 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 74 days | 2026-08-01 | 2026-11-07 |
+| [vlang/v](../repos/vlang/v.md) | 73 days | 2026-08-01 | 2026-11-07 |
+| [vim/vim](../repos/vim/vim.md) | 67 days | 2026-08-01 | 2026-11-07 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 66 days | 2026-08-02 | 2026-11-07 |
 | [joernio/joern](../repos/joernio/joern.md) | 62 days | 2026-08-01 | 2026-11-03 |
 | [rundeck/rundeck](../repos/rundeck/rundeck.md) | 49 days | 2026-08-02 | 2026-11-06 |
-| [ruby/ruby](../repos/ruby/ruby.md) | 41 days | 2026-08-01 | 2026-11-06 |
+| [ruby/ruby](../repos/ruby/ruby.md) | 42 days | 2026-08-01 | 2026-11-07 |
 | [facebook/infer](../repos/facebook/infer.md) | 41 days | 2026-08-02 | 2026-10-25 |
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 40 days | 2026-08-01 | 2026-11-06 |
 
@@ -186,11 +190,11 @@
 - **Go**: 106 repositories (30%)
 - **C**: 43 repositories (12%)
 - **Shell**: 24 repositories (7%)
-- **TypeScript**: 20 repositories (6%)
+- **TypeScript**: 21 repositories (6%)
 - **Rust**: 15 repositories (4%)
 
 ### Trending Frequency
-- **Daily Average**: 31.8 repositories
+- **Daily Average**: 31.7 repositories
 - **Peak Day**: 2026-11-06 (58 repositories)
 - **Growth Rate**: 13% this month
 
@@ -306,4 +310,4 @@
 
 ---
 
-*Last updated: 2026-11-06T21:01:01.849Z*
+*Last updated: 2026-11-07T21:00:59.604Z*

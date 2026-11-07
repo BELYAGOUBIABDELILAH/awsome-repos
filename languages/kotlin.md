@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 22,050 | 2026-08-01 | 10 |
+| [bmax121/APatch](../repos/bmax121/APatch.md) | ⭐ 8,136 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,539 | 2026-08-04 | 14 |
+| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | ⭐ 8,709 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LegadoTeam/legado](../repos/LegadoTeam/legado.md) | ⭐ 1,828 | 2026-08-04 | 13 |
+| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 44,223 | 2026-08-03 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [element-hq/element-x-android](../repos/element-hq/element-x-android.md) | ⭐ 2,483 | 2026-08-04 | 7 |
+| [AAswordman/Operit](../repos/AAswordman/Operit.md) | ⭐ 9,427 | 2026-08-03 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [keiyoushi/extensions-source](../repos/keiyoushi/extensions-source.md) | ⭐ 4,865 | 2026-08-16 | 7 |
+| [bitwarden/android](../repos/bitwarden/android.md) | ⭐ 9,602 | 2026-08-05 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aquamarine5/ChaoxingSignFaker](../repos/aquamarine5/ChaoxingSignFaker.md) | ⭐ 1,018 | 2026-09-24 | 4 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 33,060 | 2026-08-08 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YuKongA/ghostlock-app](../repos/YuKongA/ghostlock-app.md) | ⭐ 2,728 | 2026-10-01 | 8 |
+| [SukiSU-Ultra/SukiSU-Ultra](../repos/SukiSU-Ultra/SukiSU-Ultra.md) | ⭐ 6,972 | 2026-08-09 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | ⭐ 5,955 | 2026-10-12 | 15 |
+| [YuKongA/ghostlock-app](../repos/YuKongA/ghostlock-app.md) | ⭐ 2,783 | 2026-10-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [carlelieser/shizzi](../repos/carlelieser/shizzi.md) | ⭐ 279 | 2026-10-16 | 4 |
+| [Ackites/Nrfr](../repos/Ackites/Nrfr.md) | ⭐ 9,497 | 2026-10-13 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Clarklevis1995/dsh-mobile](../repos/Clarklevis1995/dsh-mobile.md) | ⭐ 740 | 2026-10-17 | 3 |
+| [realidkroo/Mochy-Music](../repos/realidkroo/Mochy-Music.md) | ⭐ 1,070 | 2026-10-28 | 8 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Lelonio/Square](../repos/Lelonio/Square.md) | ⭐ 429 | 2026-10-08 | Unofficial YouTube Music &#x2F; Spotify Premium client for Android, built in Liquid Glass. Audio effec... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [HaoZai000/NexioSchedule](../repos/HaoZai000/NexioSchedule.md) | ⭐ 151 | 2026-10-09 |  |
@@ -76,10 +73,13 @@
 | [komikku-app/anikku](../repos/komikku-app/anikku.md) | ⭐ 1,088 | 2026-10-13 | Free and open source anime watcher for Android |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Ackites/Nrfr](../repos/Ackites/Nrfr.md) | ⭐ 9,251 | 2026-10-13 | 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制 |
+| [Ackites/Nrfr](../repos/Ackites/Nrfr.md) | ⭐ 9,497 | 2026-10-13 | 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [orailnoor/DroidDesk](../repos/orailnoor/DroidDesk.md) | ⭐ 4,281 | 2026-10-14 | DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR, and P... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [android/architecture-samples](../repos/android/architecture-samples.md) | ⭐ 45,876 | 2026-10-14 | A collection of samples to discuss and showcase different architectural tools and patterns for An... |
 
 
 ---
@@ -93,8 +93,8 @@
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 56,380 | 2026-08-06 | 17 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,539 | 2026-08-04 | 14 |
 | [android/architecture-samples](../repos/android/architecture-samples.md) | ⭐ 45,876 | 2026-10-14 | 2 |
-| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 43,581 | 2026-08-03 | 17 |
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 32,269 | 2026-08-08 | 20 |
+| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 44,223 | 2026-08-03 | 18 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 33,060 | 2026-08-08 | 21 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,537 | 2026-08-05 | 8 |
 | [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 28,342 | 2026-08-11 | 5 |
 | [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 25,103 | 2026-08-12 | 10 |
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 22 | ⭐ 65,199 | 2026-08-02 | 2026-11-02 |
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 20 | ⭐ 32,269 | 2026-08-08 | 2026-10-27 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 21 | ⭐ 33,060 | 2026-08-08 | 2026-11-07 |
 | [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 19 | ⭐ 3,038 | 2026-08-02 | 2026-10-26 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 18 | ⭐ 24,746 | 2026-08-01 | 2026-10-26 |
+| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | 18 | ⭐ 44,223 | 2026-08-03 | 2026-11-07 |
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 17 | ⭐ 63,713 | 2026-08-03 | 2026-11-02 |
-| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | 17 | ⭐ 43,581 | 2026-08-03 | 2026-10-28 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 17 | ⭐ 56,380 | 2026-08-06 | 2026-11-04 |
 | [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | 15 | ⭐ 5,955 | 2026-10-12 | 2026-11-06 |
+| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | 14 | ⭐ 8,709 | 2026-08-02 | 2026-11-07 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | 14 | ⭐ 11,766 | 2026-08-02 | 2026-10-20 |
-| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | 14 | ⭐ 53,539 | 2026-08-04 | 2026-11-06 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-06T21:01:02.129Z*
+*Last updated: 2026-11-07T21:00:59.872Z*

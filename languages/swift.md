@@ -16,46 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 28,732 | 2026-08-01 | 27 |
+| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | ⭐ 9,415 | 2026-08-02 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [osaurus-ai/osaurus](../repos/osaurus-ai/osaurus.md) | ⭐ 8,135 | 2026-08-04 | 7 |
+| [sozercan/kaset](../repos/sozercan/kaset.md) | ⭐ 2,520 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/swift-nio](../repos/apple/swift-nio.md) | ⭐ 8,547 | 2026-08-04 | 16 |
+| [apple/coreai-models](../repos/apple/coreai-models.md) | ⭐ 2,294 | 2026-08-12 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,542 | 2026-08-05 | 18 |
+| [abue-ammar/tinycast](../repos/abue-ammar/tinycast.md) | ⭐ 9,256 | 2026-09-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/coreai-models](../repos/apple/coreai-models.md) | ⭐ 2,287 | 2026-08-12 | 12 |
+| [ZingerLittleBee/Heeler](../repos/ZingerLittleBee/Heeler.md) | ⭐ 804 | 2026-09-21 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/swift-collections](../repos/apple/swift-collections.md) | ⭐ 4,547 | 2026-10-01 | 5 |
+| [apple/swift-collections](../repos/apple/swift-collections.md) | ⭐ 4,549 | 2026-10-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HD838A/remote-mic-app](../repos/HD838A/remote-mic-app.md) | ⭐ 2,592 | 2026-10-08 | 8 |
+| [HD838A/remote-mic-app](../repos/HD838A/remote-mic-app.md) | ⭐ 2,641 | 2026-10-08 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iFurySt/open-computer-use](../repos/iFurySt/open-computer-use.md) | ⭐ 2,874 | 2026-10-18 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [apollographql/apollo-ios](../repos/apollographql/apollo-ios.md) | ⭐ 4,041 | 2026-10-29 | 2 |
+| [YangJiiii/3105](../repos/YangJiiii/3105.md) | ⭐ 981 | 2026-10-25 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [scholay/rimes](../repos/scholay/rimes.md) | ⭐ 981 | 2026-10-08 | RIMES — modern macOS IME (rime-scholay): librime + buffer workbench |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [apple/swift-argument-parser](../repos/apple/swift-argument-parser.md) | ⭐ 3,793 | 2026-10-08 | Straightforward, type-safe argument parsing for Swift |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [HD838A/remote-mic-app](../repos/HD838A/remote-mic-app.md) | ⭐ 2,592 | 2026-10-08 | 无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [bobsupra/NuvioTVOS](../repos/bobsupra/NuvioTVOS.md) | ⭐ 286 | 2026-10-11 | Nuvio tvOS client |
@@ -77,6 +65,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [lycorp-jp/sim-use](../repos/lycorp-jp/sim-use.md) | ⭐ 1,469 | 2026-10-20 | Give your AI agent eyes and hands on iOS Simulator and Android emulator&#x2F;devices. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [scosman/Biscotti](../repos/scosman/Biscotti.md) | ⭐ 385 | 2026-10-21 | Free private meeting transcription app for macOS |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [JohnCoates/Aerial](../repos/JohnCoates/Aerial.md) | ⭐ 21,122 | 2026-10-23 | Apple TV Aerial Screensaver for Mac |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [YangJiiii/3105](../repos/YangJiiii/3105.md) | ⭐ 981 | 2026-10-25 | Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab. |
 
 
 ---
@@ -115,9 +112,9 @@
 | [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 30 | ⭐ 13,740 | 2026-08-01 | 2026-11-02 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 27 | ⭐ 28,732 | 2026-08-01 | 2026-11-06 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 22 | ⭐ 14,999 | 2026-08-04 | 2026-10-29 |
+| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 18 | ⭐ 9,415 | 2026-08-02 | 2026-11-07 |
 | [swiftlang/swift](../repos/swiftlang/swift.md) | 18 | ⭐ 70,542 | 2026-08-05 | 2026-11-06 |
 | [apple/container](../repos/apple/container.md) | 17 | ⭐ 50,809 | 2026-08-01 | 2026-10-19 |
-| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 17 | ⭐ 9,359 | 2026-08-02 | 2026-10-27 |
 | [apple/swift-nio](../repos/apple/swift-nio.md) | 16 | ⭐ 8,547 | 2026-08-04 | 2026-11-06 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 16 | ⭐ 26,918 | 2026-08-04 | 2026-10-23 |
 | [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 15 | ⭐ 4,037 | 2026-08-01 | 2026-11-05 |
@@ -214,7 +211,7 @@
 - [awaseem/foqos](../repos/awaseem/foqos.md) - Foqos allows you to lock apps behind the tap of a NFC tag or scan of a QR code. Free and open sou...
 - [kitknox/rootshell](../repos/kitknox/rootshell.md) - rootshell - The terminal, reimagined for Apple platforms
 - [Nanako0129/TokenBar](../repos/Nanako0129/TokenBar.md) - AI token usage &amp; quota monitor for the macOS menu bar — native Swift, Liquid Glass, 3D contributi...
-- [abue-ammar/tinycast](../repos/abue-ammar/tinycast.md) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
+- [abue-ammar/tinycast](../repos/abue-ammar/tinycast.md) - A native macOS launcher for everyday productivity. Lightweight and open source.
 - [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) - 🖥 Control your display&#39;s brightness &amp; volume on your Mac as if it was a native Apple Display. Us...
 - [cshariq/Sapphire](../repos/cshariq/Sapphire.md) - The all in one mac app that redefines the notch
 - [ninxsoft/Mist](../repos/ninxsoft/Mist.md) - A Mac utility that automatically downloads macOS Firmwares &#x2F; Installers.
@@ -230,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-11-06T21:01:02.174Z*
+*Last updated: 2026-11-07T21:00:59.913Z*

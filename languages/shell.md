@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 150
+- **Total Repositories**: 152
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-02
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,765 | 2026-08-01 | 48 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,766 | 2026-08-01 | 49 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bats-core/bats-core](../repos/bats-core/bats-core.md) | ⭐ 6,344 | 2026-08-03 | 6 |
+| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 2,190 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [super-linter/super-linter](../repos/super-linter/super-linter.md) | ⭐ 10,650 | 2026-08-04 | 4 |
+| [nyldn/claude-octopus](../repos/nyldn/claude-octopus.md) | ⭐ 4,407 | 2026-08-06 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [marcusquinn/aidevops](../repos/marcusquinn/aidevops.md) | ⭐ 439 | 2026-08-04 | 2 |
+| [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 19,730 | 2026-08-08 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [n8n-io/skills](../repos/n8n-io/skills.md) | ⭐ 578 | 2026-08-06 | 3 |
+| [assafdori/bypass-mdm](../repos/assafdori/bypass-mdm.md) | ⭐ 2,601 | 2026-08-08 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nyldn/claude-octopus](../repos/nyldn/claude-octopus.md) | ⭐ 4,397 | 2026-08-06 | 7 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 8,663 | 2026-08-12 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [quickemu-project/quickemu](../repos/quickemu-project/quickemu.md) | ⭐ 16,647 | 2026-08-11 | 9 |
+| [wondelai/skills](../repos/wondelai/skills.md) | ⭐ 2,625 | 2026-08-14 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 8,646 | 2026-08-12 | 22 |
+| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | ⭐ 3,781 | 2026-08-19 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | ⭐ 3,759 | 2026-08-19 | 14 |
+| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 46,498 | 2026-08-29 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,623 | 2026-08-20 | 16 |
+| [wlzh/dji-4g-vohive-mac](../repos/wlzh/dji-4g-vohive-mac.md) | ⭐ 1,194 | 2026-09-21 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ClickHouse/ClickBench](../repos/ClickHouse/ClickBench.md) | ⭐ 1,126 | 2026-10-08 | ClickBench: a Benchmark For Analytical Databases |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [conda-forge/miniforge](../repos/conda-forge/miniforge.md) | ⭐ 10,341 | 2026-10-09 | A conda-forge distribution. |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [home-assistant/addons](../repos/home-assistant/addons.md) | ⭐ 2,239 | 2026-10-17 | :heavy_plus_sign: Docker add-ons for Home Assistant |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [sorin-ionescu/prezto](../repos/sorin-ionescu/prezto.md) | ⭐ 14,576 | 2026-10-20 | The configuration framework for Zsh |
 
 
 ---
@@ -90,24 +90,24 @@
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,858 | 2026-08-07 | 4 |
 | [papers-we-love/papers-we-love](../repos/papers-we-love/papers-we-love.md) | ⭐ 110,960 | 2026-10-27 | 1 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,765 | 2026-08-01 | 48 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,766 | 2026-08-01 | 49 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,756 | 2026-08-04 | 10 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,702 | 2026-08-06 | 15 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,855 | 2026-08-04 | 13 |
-| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 46,416 | 2026-08-29 | 14 |
+| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 46,498 | 2026-08-29 | 15 |
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
 | [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,866 | 2026-08-20 | 13 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 33,123 | 2026-08-02 | 22 |
 | [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,807 | 2026-09-02 | 5 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
+| [lxgw/LxgwWenKai](../repos/lxgw/LxgwWenKai.md) | ⭐ 26,857 | 2026-11-07 | 1 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 26,341 | 2026-08-04 | 13 |
 | [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 22,275 | 2026-08-07 | 10 |
 | [lewagon/dotfiles](../repos/lewagon/dotfiles.md) | ⭐ 21,783 | 2026-08-25 | 1 |
 | [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
 | [agarrharr/awesome-cli-apps](../repos/agarrharr/awesome-cli-apps.md) | ⭐ 20,600 | 2026-11-04 | 1 |
 | [jnMetaCode/agency-agents-zh](../repos/jnMetaCode/agency-agents-zh.md) | ⭐ 20,046 | 2026-08-12 | 6 |
-| [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 19,680 | 2026-08-08 | 8 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 48 | ⭐ 95,765 | 2026-08-01 | 2026-11-06 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 49 | ⭐ 95,766 | 2026-08-01 | 2026-11-07 |
 | [expo/skills](../repos/expo/skills.md) | 36 | ⭐ 3,754 | 2026-08-07 | 2026-10-29 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 23 | ⭐ 8,663 | 2026-08-12 | 2026-11-07 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 22 | ⭐ 8,646 | 2026-08-12 | 2026-11-06 |
 | [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | 16 | ⭐ 10,992 | 2026-08-07 | 2026-11-05 |
 | [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | 16 | ⭐ 1,623 | 2026-08-20 | 2026-11-06 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 15 | ⭐ 3,172 | 2026-08-05 | 2026-10-25 |
 | [dockur/windows](../repos/dockur/windows.md) | 15 | ⭐ 53,702 | 2026-08-06 | 2026-10-27 |
-| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | 14 | ⭐ 3,759 | 2026-08-19 | 2026-11-06 |
-| [omacom/omarchy](../repos/omacom/omarchy.md) | 14 | ⭐ 46,416 | 2026-08-29 | 2026-11-06 |
+| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | 15 | ⭐ 3,781 | 2026-08-19 | 2026-11-07 |
+| [omacom/omarchy](../repos/omacom/omarchy.md) | 15 | ⭐ 46,498 | 2026-08-29 | 2026-11-07 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-06T21:01:02.170Z*
+*Last updated: 2026-11-07T21:00:59.909Z*

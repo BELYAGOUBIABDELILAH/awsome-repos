@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 235
+- **Total Repositories**: 236
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-05
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 121,358 | 2026-07-30 | 12 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 121,599 | 2026-07-30 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,871 | 2026-07-30 | 4 |
+| [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,907 | 2026-07-30 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rust-lang/rust-clippy](../repos/rust-lang/rust-clippy.md) | ⭐ 13,625 | 2026-08-02 | 5 |
+| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 91,737 | 2026-07-31 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nushell/nushell](../repos/nushell/nushell.md) | ⭐ 40,916 | 2026-08-02 | 3 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 46,729 | 2026-08-02 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 46,295 | 2026-08-02 | 17 |
+| [rivet-dev/rivet](../repos/rivet-dev/rivet.md) | ⭐ 6,779 | 2026-08-08 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rust-lang/cargo](../repos/rust-lang/cargo.md) | ⭐ 15,680 | 2026-08-03 | 3 |
+| [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 50,939 | 2026-08-12 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rerun-io/rerun](../repos/rerun-io/rerun.md) | ⭐ 11,715 | 2026-08-04 | 2 |
+| [windmill-labs/windmill](../repos/windmill-labs/windmill.md) | ⭐ 18,458 | 2026-08-22 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rivet-dev/rivet](../repos/rivet-dev/rivet.md) | ⭐ 6,755 | 2026-08-08 | 4 |
+| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 11,934 | 2026-08-26 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 96,635 | 2026-08-11 | 10 |
+| [longbridge/gpui-kit](../repos/longbridge/gpui-kit.md) | ⭐ 19,815 | 2026-09-04 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 50,612 | 2026-08-12 | 5 |
+| [serde-rs/serde](../repos/serde-rs/serde.md) | ⭐ 11,056 | 2026-11-07 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [tracel-ai/burn](../repos/tracel-ai/burn.md) | ⭐ 16,056 | 2026-10-08 | Burn is a next generation tensor library and Deep Learning Framework that doesn&#39;t compromise on f... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [yuxino/Mimi](../repos/yuxino/Mimi.md) | ⭐ 627 | 2026-10-08 | 把电脑或麦克风声音转成实时翻译字幕。Live translated subtitles from computer or microphone audio. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [BrandonKowalski/slot](../repos/BrandonKowalski/slot.md) | ⭐ 131 | 2026-10-11 | A bespoke, Game Boy-centric CFW for the RG SP. |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [smg-project/smg](../repos/smg-project/smg.md) | ⭐ 636 | 2026-10-19 | Engine-agnostic LLM gateway in Rust. Full OpenAI &amp; Anthropic API compatibility across vLLM, TRT-L... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [leepokai/Codync](../repos/leepokai/Codync.md) | ⭐ 1,781 | 2026-10-19 | Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Cod... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [fish-shell/fish-shell](../repos/fish-shell/fish-shell.md) | ⭐ 34,332 | 2026-10-19 | The user-friendly command line shell. |
 
 
 ---
@@ -89,12 +89,12 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [openai/codex](../repos/openai/codex.md) | ⭐ 133,337 | 2026-08-01 | 19 |
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 121,358 | 2026-07-30 | 12 |
-| [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,871 | 2026-07-30 | 4 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 121,599 | 2026-07-30 | 13 |
+| [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,907 | 2026-07-30 | 5 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 103,801 | 2026-08-05 | 29 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 101,543 | 2026-08-09 | 21 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 96,635 | 2026-08-11 | 10 |
-| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 91,084 | 2026-07-31 | 7 |
+| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 91,737 | 2026-07-31 | 8 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
 | [warpdotdev/warp](../repos/warpdotdev/warp.md) | ⭐ 65,345 | 2026-08-20 | 5 |
@@ -102,11 +102,11 @@
 | [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 64,099 | 2026-08-03 | 2 |
 | [rust-unofficial/awesome-rust](../repos/rust-unofficial/awesome-rust.md) | ⭐ 59,459 | 2026-09-03 | 3 |
 | [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 55,699 | 2026-08-19 | 6 |
-| [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 50,612 | 2026-08-12 | 5 |
+| [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 50,939 | 2026-08-12 | 6 |
 | [bevyengine/bevy](../repos/bevyengine/bevy.md) | ⭐ 48,449 | 2026-08-28 | 3 |
 | [herdrdev/herdr](../repos/herdrdev/herdr.md) | ⭐ 47,738 | 2026-11-03 | 1 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 46,729 | 2026-08-02 | 18 |
 | [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 46,418 | 2026-08-28 | 2 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 46,295 | 2026-08-02 | 17 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 45,552 | 2026-08-05 | 11 |
 
 ---
@@ -118,10 +118,10 @@
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 29 | ⭐ 103,801 | 2026-08-05 | 2026-11-05 |
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 22 | ⭐ 24,202 | 2026-08-08 | 2026-10-25 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 21 | ⭐ 101,543 | 2026-08-09 | 2026-10-29 |
+| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 20 | ⭐ 11,934 | 2026-08-26 | 2026-11-07 |
 | [openai/codex](../repos/openai/codex.md) | 19 | ⭐ 133,337 | 2026-08-01 | 2026-11-05 |
-| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 19 | ⭐ 11,785 | 2026-08-26 | 2026-11-06 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 18 | ⭐ 46,729 | 2026-08-02 | 2026-11-07 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 17 | ⭐ 29,069 | 2026-08-01 | 2026-11-04 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 17 | ⭐ 46,295 | 2026-08-02 | 2026-11-06 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 17 | ⭐ 42,354 | 2026-08-10 | 2026-10-26 |
 | [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | 16 | ⭐ 12,999 | 2026-08-17 | 2026-10-23 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 15 | ⭐ 30,895 | 2026-08-03 | 2026-10-26 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-06T21:01:02.165Z*
+*Last updated: 2026-11-07T21:00:59.904Z*

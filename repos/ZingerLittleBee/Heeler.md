@@ -1,6 +1,6 @@
 # ZingerLittleBee&#x2F;Heeler
 
-> Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH, with a real libghostty terminal, QR pairing, and push notifications when an agent needs you
+> Native iPhone and iPad console for herdr: watch and drive coding agents on your machines over SSH, in Herdr TUI or the Herdr desktop app (herdr-core), with a real libghostty terminal, native Chat, QR pairing, and push notifications when an agent needs you
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;ZingerLittleBee&#x2F;Heeler) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Swift |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 768 |
-| **Forks** | 🍴 78 |
-| **Trending Days** | 5 |
+| **Stars** | ⭐ 804 |
+| **Forks** | 🍴 86 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 21, 2026 |
-| **Last Seen** | Nov 5, 2026 |
+| **Last Seen** | Nov 7, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 1 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`ai-agents`](../../topics/ai-agents.md) [`apns`](../../topics/apns.md) [`coding-agents`](../../topics/coding-agents.md) [`herdr`](../../topics/herdr.md) [`herdr-plugin`](../../topics/herdr-plugin.md) [`ios`](../../topics/ios.md) [`libghostty`](../../topics/libghostty.md) [`push-notifications`](../../topics/push-notifications.md) [`ssh`](../../topics/ssh.md) [`swift`](../../topics/swift.md) [`swiftui`](../../topics/swiftui.md) [`terminal`](../../topics/terminal.md) 
+[`ai-agents`](../../topics/ai-agents.md) [`apns`](../../topics/apns.md) [`coding-agents`](../../topics/coding-agents.md) [`herdr`](../../topics/herdr.md) [`herdr-core`](../../topics/herdr-core.md) [`herdr-desktop`](../../topics/herdr-desktop.md) [`herdr-plugin`](../../topics/herdr-plugin.md) [`ios`](../../topics/ios.md) [`libghostty`](../../topics/libghostty.md) [`push-notifications`](../../topics/push-notifications.md) [`ssh`](../../topics/ssh.md) [`swift`](../../topics/swift.md) [`terminal`](../../topics/terminal.md) 
 
 ### Curated Categories
-`Artificial Intelligence` `Frontend Development` `Mobile Development` `Systems Programming` 
+`Artificial Intelligence` `Mobile Development` `Systems Programming` 
 
 ---
 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 80&#x2F;100
+- **Trending Score**: 95&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-06T21:01:06.905Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-11-07T21:01:06.076Z*  
+*Data from 6 trending reports*

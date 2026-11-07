@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 184
+- **Total Repositories**: 186
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-11-06
+- **Last Updated**: 2026-11-07
 
 ---
 
@@ -16,43 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 70,198 | 2026-08-01 | 20 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 70,243 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 14,509 | 2026-08-02 | 31 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 14,607 | 2026-08-02 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,576 | 2026-08-04 | 4 |
+| [react/react](../repos/react/react.md) | ⭐ 252,361 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [react/react](../repos/react/react.md) | ⭐ 252,198 | 2026-08-04 | 6 |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 32,983 | 2026-08-08 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 48,245 | 2026-08-08 | 8 |
+| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 65,493 | 2026-08-28 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 32,820 | 2026-08-08 | 14 |
+| [Yu9191/wloc](../repos/Yu9191/wloc.md) | ⭐ 10,666 | 2026-09-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mnfst/awesome-free-llm-apis](../repos/mnfst/awesome-free-llm-apis.md) | ⭐ 12,431 | 2026-08-10 | 13 |
+| [babygoton/WorkDaddy](../repos/babygoton/WorkDaddy.md) | ⭐ 2,795 | 2026-11-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [simple-icons/simple-icons](../repos/simple-icons/simple-icons.md) | ⭐ 26,171 | 2026-08-20 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [openai/plugins](../repos/openai/plugins.md) | ⭐ 7,787 | 2026-08-27 | 11 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 63,713 | 2026-08-28 | 16 |
+| [cobusgreyling/grok-bot-templates](../repos/cobusgreyling/grok-bot-templates.md) | ⭐ 105 | 2026-11-07 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [XCQ0607/lxserver](../repos/XCQ0607/lxserver.md) | ⭐ 928 | 2026-10-08 | LX Music 数据同步服务端，同时支持了部分lx-music-desktop的网页端实现。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [chuspeeism/dashi-taskboard](../repos/chuspeeism/dashi-taskboard.md) | ⭐ 3,313 | 2026-10-09 | 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness |
@@ -80,6 +71,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [laoma528/awesome-zhuiju-free](../repos/laoma528/awesome-zhuiju-free.md) | ⭐ 12,592 | 2026-10-15 | 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox &#x2F; 影视仓空壳软件&#x2F;配置地址、IPTV直播源、会员拼团、影视相关开源项... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [michael-denyer/pstack-claude](../repos/michael-denyer/pstack-claude.md) | ⭐ 4,042 | 2026-10-16 | Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of... |
 
 
 ---
@@ -88,7 +82,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [react/react](../repos/react/react.md) | ⭐ 252,198 | 2026-08-04 | 6 |
+| [react/react](../repos/react/react.md) | ⭐ 252,361 | 2026-08-04 | 7 |
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | 2026-07-30 | 3 |
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 158,907 | 2026-08-06 | 4 |
 | [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | 2 |
@@ -99,11 +93,11 @@
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 90,383 | 2026-08-04 | 22 |
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 77,000 | 2026-08-09 | 2 |
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 70,198 | 2026-08-01 | 20 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 70,243 | 2026-08-01 | 21 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,576 | 2026-08-04 | 4 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,980 | 2026-08-04 | 4 |
+| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 65,493 | 2026-08-28 | 17 |
 | [jgraph/drawio-desktop](../repos/jgraph/drawio-desktop.md) | ⭐ 63,817 | 2026-11-04 | 1 |
-| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 63,713 | 2026-08-28 | 16 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,346 | 2026-08-11 | 4 |
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 60,381 | 2026-08-27 | 14 |
 | [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 59,798 | 2026-10-14 | 1 |
@@ -116,14 +110,14 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 34 | ⭐ 112,798 | 2026-08-05 | 2026-11-02 |
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 31 | ⭐ 14,509 | 2026-08-02 | 2026-11-06 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 32 | ⭐ 14,607 | 2026-08-02 | 2026-11-07 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 22 | ⭐ 90,383 | 2026-08-04 | 2026-10-27 |
-| [byoungd/up](../repos/byoungd/up.md) | 20 | ⭐ 70,198 | 2026-08-01 | 2026-11-06 |
-| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | 16 | ⭐ 63,713 | 2026-08-28 | 2026-11-06 |
+| [byoungd/up](../repos/byoungd/up.md) | 21 | ⭐ 70,243 | 2026-08-01 | 2026-11-07 |
+| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | 17 | ⭐ 65,493 | 2026-08-28 | 2026-11-07 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 15 | ⭐ 32,983 | 2026-08-08 | 2026-11-07 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 14 | ⭐ 143,323 | 2026-07-30 | 2026-11-04 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 14 | ⭐ 5,119 | 2026-08-07 | 2026-10-20 |
-| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 14 | ⭐ 32,820 | 2026-08-08 | 2026-11-06 |
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | 14 | ⭐ 60,381 | 2026-08-27 | 2026-10-26 |
 
 ---
@@ -233,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-11-06T21:01:02.124Z*
+*Last updated: 2026-11-07T21:00:59.866Z*

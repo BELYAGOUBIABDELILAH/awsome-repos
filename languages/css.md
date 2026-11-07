@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 80
+- **Total Repositories**: 81
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-02
 
@@ -16,16 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZoranPandovski/awesome-testing-tools](../repos/ZoranPandovski/awesome-testing-tools.md) | ⭐ 379 | 2026-08-02 | 5 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 50,175 | 2026-08-02 | 41 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [primefaces/primereact](../repos/primefaces/primereact.md) | ⭐ 8,311 | 2026-08-08 | 10 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,629 | 2026-08-05 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 7,004 | 2026-08-10 | 27 |
+| [jerrykuku/luci-theme-argon](../repos/jerrykuku/luci-theme-argon.md) | ⭐ 5,594 | 2026-10-17 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mingw-w64/mingw-w64.github.io](../repos/mingw-w64/mingw-w64.github.io.md) | ⭐ 1,053 | 2026-08-22 | 8 |
+| [zhuozhiyongde/Advanced-Mathematics-B-2022-PKU](../repos/zhuozhiyongde/Advanced-Mathematics-B-2022-PKU.md) | ⭐ 297 | 2026-11-07 | 1 |
 
 
 ---
@@ -46,7 +46,7 @@
 | [tachyons-css/tachyons](../repos/tachyons-css/tachyons.md) | ⭐ 11,724 | 2026-10-16 | Functional css for humans |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [jerrykuku/luci-theme-argon](../repos/jerrykuku/luci-theme-argon.md) | ⭐ 5,584 | 2026-10-17 | Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface... |
+| [jerrykuku/luci-theme-argon](../repos/jerrykuku/luci-theme-argon.md) | ⭐ 5,594 | 2026-10-17 | Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [prakhar1989/docker-curriculum](../repos/prakhar1989/docker-curriculum.md) | ⭐ 6,116 | 2026-10-17 | :dolphin: A comprehensive tutorial on getting started with Docker! |
@@ -72,8 +72,8 @@
 |------------|-------|------------|---------------|
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,947 | 2026-08-06 | 27 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,487 | 2026-08-01 | 14 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 50,175 | 2026-08-02 | 41 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,433 | 2026-08-04 | 32 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 41,980 | 2026-08-02 | 40 |
 | [adobe-fonts/source-code-pro](../repos/adobe-fonts/source-code-pro.md) | ⭐ 20,445 | 2026-09-07 | 1 |
 | [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,612 | 2026-08-04 | 5 |
 | [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,847 | 2026-08-08 | 2 |
@@ -84,7 +84,7 @@
 | [tachyons-css/tachyons](../repos/tachyons-css/tachyons.md) | ⭐ 11,724 | 2026-10-16 | 6 |
 | [jdan/98.css](../repos/jdan/98.css.md) | ⭐ 11,557 | 2026-08-09 | 3 |
 | [StylishThemes/GitHub-Dark](../repos/StylishThemes/GitHub-Dark.md) | ⭐ 9,966 | 2026-08-19 | 3 |
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,627 | 2026-08-05 | 25 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,629 | 2026-08-05 | 26 |
 | [troxler/awesome-css-frameworks](../repos/troxler/awesome-css-frameworks.md) | ⭐ 9,495 | 2026-08-23 | 2 |
 | [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,461 | 2026-09-02 | 6 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,380 | 2026-08-01 | 18 |
@@ -98,13 +98,13 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 58 | ⭐ 1,480 | 2026-08-01 | 2026-11-05 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 40 | ⭐ 41,980 | 2026-08-02 | 2026-10-29 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 41 | ⭐ 50,175 | 2026-08-02 | 2026-11-07 |
 | [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 37 | ⭐ 920 | 2026-08-01 | 2026-10-19 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 32 | ⭐ 45,433 | 2026-08-04 | 2026-11-04 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 29 | ⭐ 1,431 | 2026-08-01 | 2026-10-22 |
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | 27 | ⭐ 82,947 | 2026-08-06 | 2026-11-02 |
 | [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | 27 | ⭐ 7,004 | 2026-08-10 | 2026-11-06 |
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 25 | ⭐ 9,627 | 2026-08-05 | 2026-11-05 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 26 | ⭐ 9,629 | 2026-08-05 | 2026-11-07 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 23 | ⭐ 12,511 | 2026-08-01 | 2026-10-09 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 18 | ⭐ 9,380 | 2026-08-01 | 2026-10-25 |
 
@@ -192,7 +192,8 @@
 - [lestercorderomurillo/macos-tahoe-liquid-kde](../repos/lestercorderomurillo/macos-tahoe-liquid-kde.md) - MacOS Tahoe Liquid Glass Theme for KDE Plasma 6.7&#x2F;6.8+
 - [OpsiMate/documentation](../repos/OpsiMate/documentation.md) - OpsiMate
 - [NsCDE/NsCDE](../repos/NsCDE/NsCDE.md) - Modern and functional CDE desktop based on FVWM
+- [zhuozhiyongde/Advanced-Mathematics-B-2022-PKU](../repos/zhuozhiyongde/Advanced-Mathematics-B-2022-PKU.md) - 北京大学 2022 年高等数学 B 课程资料、笔记、经验
 
 ---
 
-*Last updated: 2026-11-06T21:01:02.090Z*
+*Last updated: 2026-11-07T21:00:59.831Z*

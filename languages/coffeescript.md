@@ -16,10 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,161 | 2026-08-06 | 14 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,080 | 2026-08-01 | 45 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | ⭐ 16,592 | 2026-08-09 | 13 |
+| [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,887 | 2026-08-01 | 18 |
 
 
 ---
@@ -38,9 +38,9 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,615 | 2026-08-01 | 30 |
-| [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,879 | 2026-08-01 | 17 |
+| [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,887 | 2026-08-01 | 18 |
 | [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | ⭐ 16,592 | 2026-08-09 | 13 |
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,078 | 2026-08-01 | 44 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,080 | 2026-08-01 | 45 |
 | [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,161 | 2026-08-06 | 14 |
 | [taigaio/taiga-front](../repos/taigaio/taiga-front.md) | ⭐ 385 | 2026-10-13 | 2 |
 
@@ -50,9 +50,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | 44 | ⭐ 16,078 | 2026-08-01 | 2026-11-04 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | 45 | ⭐ 16,080 | 2026-08-01 | 2026-11-07 |
 | [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | 30 | ⭐ 22,615 | 2026-08-01 | 2026-11-05 |
-| [mojs/mojs](../repos/mojs/mojs.md) | 17 | ⭐ 18,879 | 2026-08-01 | 2026-11-05 |
+| [mojs/mojs](../repos/mojs/mojs.md) | 18 | ⭐ 18,887 | 2026-08-01 | 2026-11-07 |
 | [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | 14 | ⭐ 1,161 | 2026-08-06 | 2026-11-06 |
 | [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | 13 | ⭐ 16,592 | 2026-08-09 | 2026-11-06 |
 | [taigaio/taiga-front](../repos/taigaio/taiga-front.md) | 2 | ⭐ 385 | 2026-10-13 | 2026-10-19 |
@@ -70,4 +70,4 @@
 
 ---
 
-*Last updated: 2026-11-06T21:01:02.094Z*
+*Last updated: 2026-11-07T21:00:59.834Z*

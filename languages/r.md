@@ -16,34 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,812 | 2026-08-01 | 48 |
+| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,621 | 2026-08-01 | 49 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 895 | 2026-08-01 | 45 |
+| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 691 | 2026-08-01 | 55 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,706 | 2026-08-02 | 32 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,079 | 2026-08-04 | 31 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,926 | 2026-08-04 | 33 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | ⭐ 7,025 | 2026-08-04 | 35 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [r-spatial/sf](../repos/r-spatial/sf.md) | ⭐ 1,455 | 2026-08-04 | 20 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [rstudio/renv](../repos/rstudio/renv.md) | ⭐ 1,166 | 2026-08-06 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [rstudio/rmarkdown](../repos/rstudio/rmarkdown.md) | ⭐ 3,069 | 2026-08-08 | 12 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [cf-convention/cf-conventions](../repos/cf-convention/cf-conventions.md) | ⭐ 101 | 2026-08-17 | 3 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 442 | 2026-08-08 | 52 |
 
 
 ---
@@ -92,7 +71,7 @@
 | [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,706 | 2026-08-02 | 32 |
 | [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,187 | 2026-08-04 | 23 |
 | [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,079 | 2026-08-04 | 31 |
-| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,621 | 2026-08-01 | 48 |
+| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,621 | 2026-08-01 | 49 |
 | [briatte/awesome-network-analysis](../repos/briatte/awesome-network-analysis.md) | ⭐ 4,134 | 2026-10-18 | 2 |
 | [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,926 | 2026-08-04 | 33 |
 | [rstudio/rmarkdown](../repos/rstudio/rmarkdown.md) | ⭐ 3,069 | 2026-08-08 | 12 |
@@ -115,9 +94,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [jinworks/CellChat](../repos/jinworks/CellChat.md) | 54 | ⭐ 691 | 2026-08-01 | 2026-11-05 |
-| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | 51 | ⭐ 441 | 2026-08-08 | 2026-11-05 |
-| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | 48 | ⭐ 4,621 | 2026-08-01 | 2026-11-05 |
+| [jinworks/CellChat](../repos/jinworks/CellChat.md) | 55 | ⭐ 691 | 2026-08-01 | 2026-11-07 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | 52 | ⭐ 442 | 2026-08-08 | 2026-11-07 |
+| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | 49 | ⭐ 4,621 | 2026-08-01 | 2026-11-07 |
 | [satijalab/seurat](../repos/satijalab/seurat.md) | 48 | ⭐ 2,812 | 2026-08-01 | 2026-11-06 |
 | [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | 45 | ⭐ 895 | 2026-08-01 | 2026-11-06 |
 | [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | 35 | ⭐ 7,025 | 2026-08-04 | 2026-11-06 |
@@ -170,4 +149,4 @@
 
 ---
 
-*Last updated: 2026-11-06T21:01:02.158Z*
+*Last updated: 2026-11-07T21:00:59.899Z*

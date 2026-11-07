@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Ruby |
 | **License** | MIT |
-| **Stars** | ⭐ 58,980 |
-| **Forks** | 🍴 23,827 |
-| **Trending Days** | 52 |
+| **Stars** | ⭐ 59,082 |
+| **Forks** | 🍴 23,835 |
+| **Trending Days** | 53 |
 | **Peak Rank** | #3 |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Nov 6, 2026 |
+| **Last Seen** | Nov 7, 2026 |
 
 
 ---
@@ -48,7 +48,7 @@
 ### Highlights
 
 - **Peak Rank**: #3
-- **Trending Days**: 52
+- **Trending Days**: 53
 - **Longest Streak**: 9 days
 
 ---
@@ -71,7 +71,7 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Good | Well-maintained documentation |
-| **Community** | Very Active | 58,980+ stars, strong contributor base |
+| **Community** | Very Active | 59,082+ stars, strong contributor base |
 | **Maturity** | Production Ready | Battle-tested and stable |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -92,5 +92,5 @@
 
 ---
 
-*Last updated: 2026-11-06T21:01:04.325Z*  
-*Data from 52 trending reports*
+*Last updated: 2026-11-07T21:01:02.331Z*  
+*Data from 53 trending reports*

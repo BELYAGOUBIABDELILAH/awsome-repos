@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 301
+- **Total Repositories**: 303
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-11-05
+- **Last Updated**: 2026-11-07
 
 ---
 
@@ -16,58 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,617 | 2026-08-02 | 12 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,384 | 2026-07-30 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,787 | 2026-08-03 | 13 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 133,663 | 2026-08-01 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wled/WLED](../repos/wled/WLED.md) | ⭐ 18,990 | 2026-08-03 | 3 |
+| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 32,839 | 2026-08-03 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ceph/ceph](../repos/ceph/ceph.md) | ⭐ 17,206 | 2026-08-03 | 7 |
+| [orailnoor/cross-platform-llm-client](../repos/orailnoor/cross-platform-llm-client.md) | ⭐ 1,648 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [orailnoor/cross-platform-llm-client](../repos/orailnoor/cross-platform-llm-client.md) | ⭐ 1,572 | 2026-08-04 | 5 |
+| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,920 | 2026-08-05 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dmlc/xgboost](../repos/dmlc/xgboost.md) | ⭐ 28,949 | 2026-08-04 | 3 |
+| [openvinotoolkit/openvino](../repos/openvinotoolkit/openvino.md) | ⭐ 11,128 | 2026-08-07 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [envoyproxy/envoy](../repos/envoyproxy/envoy.md) | ⭐ 29,189 | 2026-08-05 | 4 |
+| [alibaba/MNN](../repos/alibaba/MNN.md) | ⭐ 16,423 | 2026-08-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | ⭐ 22,255 | 2026-08-06 | 16 |
+| [notepad-plus-plus/notepad-plus-plus](../repos/notepad-plus-plus/notepad-plus-plus.md) | ⭐ 29,804 | 2026-08-08 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/flatbuffers](../repos/google/flatbuffers.md) | ⭐ 26,617 | 2026-08-11 | 8 |
+| [dariulone/cyberpunk-vr-port](../repos/dariulone/cyberpunk-vr-port.md) | ⭐ 501 | 2026-08-23 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fmtlib/fmt](../repos/fmtlib/fmt.md) | ⭐ 25,910 | 2026-08-12 | 11 |
+| [Neroued/ninfer](../repos/Neroued/ninfer.md) | ⭐ 3,284 | 2026-08-29 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [facebook/rebalancer](../repos/facebook/rebalancer.md) | ⭐ 353 | 2026-10-08 | Rebalancer is a domain-specific language and tool for specifying and solving assignment problems ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ytsaurus/ytsaurus](../repos/ytsaurus/ytsaurus.md) | ⭐ 2,283 | 2026-10-08 | YTsaurus is a scalable and fault-tolerant open-source big data platform. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [TigerVNC/tigervnc](../repos/TigerVNC/tigervnc.md) | ⭐ 7,544 | 2026-10-08 | High performance, multi-platform VNC client and server |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [SethRobinson/Patchy](../repos/SethRobinson/Patchy.md) | ⭐ 579 | 2026-10-08 | Open-source image editor focused on PSD compatibility and workflows familiar to Adobe Photoshop u... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ninja-build/ninja](../repos/ninja-build/ninja.md) | ⭐ 13,293 | 2026-10-08 | a small build system with a focus on speed |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [open-source-parsers/jsoncpp](../repos/open-source-parsers/jsoncpp.md) | ⭐ 8,901 | 2026-10-08 | A C++ library for interacting with JSON. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [DamRsn/NeuralNote](../repos/DamRsn/NeuralNote.md) | ⭐ 3,381 | 2026-10-09 | Audio Plugin for Audio to MIDI transcription using deep learning. |
@@ -80,6 +62,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [pichenettes/eurorack](../repos/pichenettes/eurorack.md) | ⭐ 3,289 | 2026-10-14 | Eurorack modules |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ChiR24/Unreal_mcp](../repos/ChiR24/Unreal_mcp.md) | ⭐ 948 | 2026-10-15 | A comprehensive Model Context Protocol (MCP) server that enables AI assistants to control Unreal ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Flare-Animate/Flare](../repos/Flare-Animate/Flare.md) | ⭐ 110 | 2026-10-15 | Flare - A Familiar, Open Source Animation Suite. Forked from OpenToonz. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [zeldaret/botw](../repos/zeldaret/botw.md) | ⭐ 2,272 | 2026-10-16 | Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [LittleBitUA/DownpourRecomp](../repos/LittleBitUA/DownpourRecomp.md) | ⭐ 295 | 2026-10-16 | Silent Hill: Downpour — native Windows PC port via static recompilation of the Xbox 360 binary. v... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mzzvxm/LARecomp](../repos/mzzvxm/LARecomp.md) | ⭐ 172 | 2026-10-18 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [0x23/MicroManipulatorStepper](../repos/0x23/MicroManipulatorStepper.md) | ⭐ 2,183 | 2026-10-20 | A sub-micrometer 3D motion control plattform. |
 
 
 ---
@@ -88,8 +88,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,319 | 2026-07-30 | 31 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 132,446 | 2026-08-01 | 33 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,384 | 2026-07-30 | 32 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 133,663 | 2026-08-01 | 34 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,803 | 2026-08-04 | 7 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 123,622 | 2026-08-01 | 7 |
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 119,259 | 2026-08-01 | 12 |
@@ -98,10 +98,10 @@
 | [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 77,216 | 2026-08-12 | 7 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,876 | 2026-08-08 | 18 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,138 | 2026-08-01 | 20 |
-| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,676 | 2026-08-05 | 11 |
+| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,920 | 2026-08-05 | 12 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
+| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 52,014 | 2026-10-06 | 8 |
 | [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,787 | 2026-08-03 | 13 |
-| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 50,692 | 2026-10-06 | 7 |
 | [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,454 | 2026-09-01 | 3 |
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,405 | 2026-08-02 | 10 |
 | [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 43,382 | 2026-09-06 | 3 |
@@ -116,12 +116,12 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 46 | ⭐ 439 | 2026-08-01 | 2026-10-09 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 33 | ⭐ 132,446 | 2026-08-01 | 2026-10-26 |
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 31 | ⭐ 201,319 | 2026-07-30 | 2026-11-05 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 34 | ⭐ 133,663 | 2026-08-01 | 2026-11-07 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 32 | ⭐ 201,384 | 2026-07-30 | 2026-11-07 |
 | [google/googletest](../repos/google/googletest.md) | 27 | ⭐ 39,709 | 2026-08-04 | 2026-11-05 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 20 | ⭐ 72,138 | 2026-08-01 | 2026-10-29 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 19 | ⭐ 546 | 2026-08-01 | 2026-10-29 |
-| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | 18 | ⭐ 32,530 | 2026-08-03 | 2026-11-03 |
+| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | 19 | ⭐ 32,839 | 2026-08-03 | 2026-11-07 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 18 | ⭐ 76,876 | 2026-08-08 | 2026-10-29 |
 | [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | 16 | ⭐ 22,255 | 2026-08-06 | 2026-11-06 |
 | [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 15 | ⭐ 11,986 | 2026-08-02 | 2026-10-22 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-06T21:01:02.088Z*
+*Last updated: 2026-11-07T21:00:59.828Z*
