@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 323
+- **Total Repositories**: 328
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-03
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/VibeVoice](../repos/microsoft/VibeVoice.md) | ⭐ 56,672 | 2026-08-01 | 6 |
+| [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 103,128 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 100,258 | 2026-08-02 | 6 |
+| [jamiepine/voicebox](../repos/jamiepine/voicebox.md) | ⭐ 60,135 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jamiepine/voicebox](../repos/jamiepine/voicebox.md) | ⭐ 59,966 | 2026-08-02 | 7 |
+| [neuml/txtai](../repos/neuml/txtai.md) | ⭐ 13,160 | 2026-08-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 377,251 | 2026-08-03 | 7 |
+| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 189,502 | 2026-08-11 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aws/agent-toolkit-for-aws](../repos/aws/agent-toolkit-for-aws.md) | ⭐ 3,426 | 2026-08-06 | 5 |
+| [anthropics/claude-quickstarts](../repos/anthropics/claude-quickstarts.md) | ⭐ 19,355 | 2026-08-22 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/skills](../repos/google/skills.md) | ⭐ 23,303 | 2026-08-07 | 13 |
+| [XiaoYouChR/Ghost-Downloader-3](../repos/XiaoYouChR/Ghost-Downloader-3.md) | ⭐ 10,852 | 2026-10-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 188,672 | 2026-08-11 | 9 |
+| [googlecolab/google-colab-cli](../repos/googlecolab/google-colab-cli.md) | ⭐ 2,073 | 2026-11-08 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elder-plinius/OBLITERATUS](../repos/elder-plinius/OBLITERATUS.md) | ⭐ 9,281 | 2026-08-23 | 3 |
+| [bradautomates/claude-video](../repos/bradautomates/claude-video.md) | ⭐ 20,229 | 2026-11-08 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bobeff/open-source-games](../repos/bobeff/open-source-games.md) | ⭐ 17,817 | 2026-10-19 | 3 |
+| [BigBodyCobain/Shadowbroker](../repos/BigBodyCobain/Shadowbroker.md) | ⭐ 11,496 | 2026-11-08 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/auto-ontology](../repos/NVIDIA/auto-ontology.md) | ⭐ 9,728 | 2026-10-27 | 5 |
+| [SWE-agent/mini-swe-agent](../repos/SWE-agent/mini-swe-agent.md) | ⭐ 9,406 | 2026-11-08 | 1 |
 
 
 ---
@@ -52,19 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Robbyant/lingbot-map](../repos/Robbyant/lingbot-map.md) | ⭐ 17,653 | 2026-10-09 | [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Tencent-Hunyuan/Hy-MT2](../repos/Tencent-Hunyuan/Hy-MT2.md) | ⭐ 1,185 | 2026-10-09 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [headroomlabs-ai/headroom](../repos/headroomlabs-ai/headroom.md) | ⭐ 77,547 | 2026-10-09 | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens fo... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [hiroi-sora/Umi-OCR](../repos/hiroi-sora/Umi-OCR.md) | ⭐ 47,729 | 2026-10-09 | OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏&#x2F;批量导入图片，PDF文档识别，排除水印&#x2F;页眉页脚，扫描&#x2F;生成二维码。内置多国语言库。 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [XiaoYouChR/Ghost-Downloader-3](../repos/XiaoYouChR/Ghost-Downloader-3.md) | ⭐ 9,847 | 2026-10-11 | The only downloader you need. 下载器的集大成者。 |
+| [XiaoYouChR/Ghost-Downloader-3](../repos/XiaoYouChR/Ghost-Downloader-3.md) | ⭐ 10,852 | 2026-10-11 | The only downloader you need. 下载器的集大成者。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [baidu/Unlimited-OCR](../repos/baidu/Unlimited-OCR.md) | ⭐ 29,734 | 2026-10-13 | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Crosstalk-Solutions/unifi-toolkit](../repos/Crosstalk-Solutions/unifi-toolkit.md) | ⭐ 691 | 2026-10-15 | A suite of tools for UniFi network management |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [elder-plinius/V3R1T4S](../repos/elder-plinius/V3R1T4S.md) | ⭐ 361 | 2026-10-16 | liberating known unknowns |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [odoo/odoo](../repos/odoo/odoo.md) | ⭐ 55,090 | 2026-10-16 | Odoo. Open Source Apps To Grow Your Business. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [google/artemis](../repos/google/artemis.md) | ⭐ 13,244 | 2026-10-16 | ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ScrapeCreators/social-media-research-skills](../repos/ScrapeCreators/social-media-research-skills.md) | ⭐ 4,026 | 2026-10-17 | AI agent skills for social media research. Outlier posts, comment mining, competitor teardowns, a... |
 
 
 ---
@@ -94,8 +94,8 @@
 | [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 285,114 | 2026-08-08 | 4 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 243,012 | 2026-08-01 | 17 |
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 198,857 | 2026-08-02 | 8 |
+| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 189,502 | 2026-08-11 | 10 |
 | [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 189,013 | 2026-09-07 | 3 |
-| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 188,672 | 2026-08-11 | 9 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,775 | 2026-08-06 | 9 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 167,557 | 2026-07-31 | 9 |
 | [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 147,818 | 2026-08-14 | 13 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-07T21:00:59.895Z*
+*Last updated: 2026-11-08T21:00:56.185Z*

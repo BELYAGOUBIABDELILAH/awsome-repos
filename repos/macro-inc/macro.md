@@ -74,7 +74,7 @@
 | **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
-| **Maturity** | Experimental | New project, evolving rapidly |
+| **Maturity** | Stable | Established project |
 | **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Hard | Requires domain expertise |
 
@@ -94,5 +94,5 @@
 
 ---
 
-*Last updated: 2026-11-07T21:01:03.953Z*  
+*Last updated: 2026-11-08T21:01:00.487Z*  
 *Data from 9 trending reports*

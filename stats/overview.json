@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-07T21:01:07.653Z",
-  "total_repositories": 4444,
-  "trending_today": 336,
-  "new_this_month": 565,
+  "generated_at": "2026-11-08T21:01:03.771Z",
+  "total_repositories": 4462,
+  "trending_today": 283,
+  "new_this_month": 558,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-11-07",
+  "last_collection": "2026-11-08",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
@@ -12,13 +12,13 @@
   },
   "most_frequent": {
     "full_name": "apache/spark",
-    "trending_days": 79,
+    "trending_days": 80,
     "first_seen": "2026-08-01"
   },
   "newest_discovery": {
-    "full_name": "spotDL/spotify-downloader",
-    "stars": 26729,
-    "first_seen": "2026-11-07"
+    "full_name": "googlecolab/google-colab-cli",
+    "stars": 2073,
+    "first_seen": "2026-11-08"
   },
   "fastest_growing": {
     "full_name": "different-ai/openwork",
@@ -26,11 +26,11 @@
     "growth_rate": 100,
     "first_seen": "2026-08-01"
   },
-  "total_stars": 59421487,
-  "avg_stars": 13371,
+  "total_stars": 59625887,
+  "avg_stars": 13363,
   "avg_trending_days": 6.9,
   "language_count": 62,
-  "topic_count": 11021,
+  "topic_count": 11060,
   "collection_success_rate": 100,
   "data_quality_score": 99
 }

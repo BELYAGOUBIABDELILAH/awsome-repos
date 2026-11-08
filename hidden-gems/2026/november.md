@@ -7,7 +7,7 @@
 ## November 2026
 
 **Period**: 2026-11-01 to 2026-11-28  
-**Gems Found**: 257
+**Gems Found**: 283
 
 ---
 
@@ -39,7 +39,7 @@
 |---|---|
 | ⭐ **Stars** | 2,003 |
 | 💻 **Language** | Go |
-| 🏆 **Gem Score** | 98/100 |
+| 🏆 **Gem Score** | 97/100 |
 | 📈 **Trending Days** | 7 |
 | 📅 **First Seen** | Aug 4, 2026 |
 
@@ -91,27 +91,7 @@
 
 ---
 
-### 5. [michael-denyer&#x2F;pstack-claude](../../repos/michael-denyer/pstack-claude.md)
-
-**Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto&#39;s pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 4,042 |
-| 💻 **Language** | JavaScript |
-| 🏆 **Gem Score** | 96/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Oct 16, 2026 |
-
-**Why it's a gem**: High growth velocity (+186 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/michael-denyer/pstack-claude.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;michael-denyer&#x2F;pstack-claude)
-
----
-
-### 6. [InlitX&#x2F;GymMane](../../repos/InlitX/GymMane.md)
+### 5. [InlitX&#x2F;GymMane](../../repos/InlitX/GymMane.md)
 
 ** Offline gym log for Android. No account, no ads, no internet.**
 
@@ -131,23 +111,43 @@
 
 ---
 
-### 7. [elie222&#x2F;rakazo](../../repos/elie222/rakazo.md)
+### 6. [michael-denyer&#x2F;pstack-claude](../../repos/michael-denyer/pstack-claude.md)
 
-**Open-source Grok Bot alternative. Choose your own model and sandbox.**
+**Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto&#39;s pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 7,176 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 93/100 |
+| ⭐ **Stars** | 4,042 |
+| 💻 **Language** | JavaScript |
+| 🏆 **Gem Score** | 95/100 |
 | 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Oct 17, 2026 |
+| 📅 **First Seen** | Oct 16, 2026 |
 
-**Why it's a gem**: High growth velocity (+153 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+186 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/elie222/rakazo.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;elie222&#x2F;rakazo)
+[View Passport](../../repos/michael-denyer/pstack-claude.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;michael-denyer&#x2F;pstack-claude)
+
+---
+
+### 7. [Gaurav-Gosain&#x2F;tuios](../../repos/Gaurav-Gosain/tuios.md)
+
+**A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X&#x2F;Twitter account.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 6,450 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 94/100 |
+| 📈 **Trending Days** | 7 |
+| 📅 **First Seen** | Aug 19, 2026 |
+
+**Why it's a gem**: High growth velocity (+120 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/Gaurav-Gosain/tuios.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Gaurav-Gosain&#x2F;tuios)
 
 ---
 
@@ -171,7 +171,27 @@
 
 ---
 
-### 9. [superplanehq&#x2F;superplane](../../repos/superplanehq/superplane.md)
+### 9. [elie222&#x2F;rakazo](../../repos/elie222/rakazo.md)
+
+**Open-source Grok Bot alternative. Choose your own model and sandbox.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 7,548 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 92/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Oct 17, 2026 |
+
+**Why it's a gem**: High growth velocity (+147 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/elie222/rakazo.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;elie222&#x2F;rakazo)
+
+---
+
+### 10. [superplanehq&#x2F;superplane](../../repos/superplanehq/superplane.md)
 
 **Open source factory for one-shot engineering**
 
@@ -191,19 +211,19 @@
 
 ---
 
-### 10. [agent-substrate&#x2F;substrate](../../repos/agent-substrate/substrate.md)
+### 11. [agent-substrate&#x2F;substrate](../../repos/agent-substrate/substrate.md)
 
 **Agent Substrate: the core system**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6,194 |
+| ⭐ **Stars** | 6,222 |
 | 💻 **Language** | Go |
 | 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 20 |
+| 📈 **Trending Days** | 21 |
 | 📅 **First Seen** | Aug 2, 2026 |
 
-**Why it's a gem**: High growth velocity (+142 stars&#x2F;day) • Trending 20 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+136 stars&#x2F;day) • Trending 21 times • Very active development • Strong community engagement
 
 **Best for**: 
 
@@ -211,43 +231,23 @@
 
 ---
 
-### 11. [AAswordman&#x2F;Operit](../../repos/AAswordman/Operit.md)
+### 12. [AAswordman&#x2F;Operit](../../repos/AAswordman/Operit.md)
 
 **The most powerful AI agent and AI chat software on Android&#x2F;Operit是一款Android上能力最为强大、发展最久的AI Agent**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 9,427 |
+| ⭐ **Stars** | 9,462 |
 | 💻 **Language** | Kotlin |
 | 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 9 |
+| 📈 **Trending Days** | 10 |
 | 📅 **First Seen** | Aug 3, 2026 |
 
-**Why it's a gem**: High growth velocity (+51 stars&#x2F;day) • Trending 9 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+50 stars&#x2F;day) • Trending 10 times • Very active development • Strong community engagement
 
 **Best for**: 
 
 [View Passport](../../repos/AAswordman/Operit.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;AAswordman&#x2F;Operit)
-
----
-
-### 12. [orailnoor&#x2F;cross-platform-llm-client](../../repos/orailnoor/cross-platform-llm-client.md)
-
-**A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,648 |
-| 💻 **Language** | C++ |
-| 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 4, 2026 |
-
-**Why it's a gem**: High growth velocity (+50 stars&#x2F;day) • Trending 6 times • Very active development • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/orailnoor/cross-platform-llm-client.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;orailnoor&#x2F;cross-platform-llm-client)
 
 ---
 
@@ -271,39 +271,59 @@
 
 ---
 
-### 14. [Tianyu199509&#x2F;DeskBox](../../repos/Tianyu199509/DeskBox.md)
+### 14. [metadist&#x2F;synaplan](../../repos/metadist/synaplan.md)
 
-**A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.**
+**Own the flow: one open-source AI platform for your knowledge, models and channels – web, WhatsApp, email, Outlook, Nextcloud &amp; ownCloud. Local and cloud models side by side, with the cost on every answer.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 8,596 |
-| 💻 **Language** | C# |
+| ⭐ **Stars** | 732 |
+| 💻 **Language** | PHP |
 | 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 9 |
-| 📅 **First Seen** | Sep 27, 2026 |
+| 📈 **Trending Days** | 16 |
+| 📅 **First Seen** | Sep 9, 2026 |
 
-**Why it's a gem**: High growth velocity (+115 stars&#x2F;day) • Trending 9 times • Very active development • Strong community engagement
+**Why it's a gem**: Trending 16 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/Tianyu199509/DeskBox.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Tianyu199509&#x2F;DeskBox)
+[View Passport](../../repos/metadist/synaplan.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;metadist&#x2F;synaplan)
 
 ---
 
-### 15. [ch6vip&#x2F;fqapp](../../repos/ch6vip/fqapp.md)
+### 15. [CyrilPeng&#x2F;Venera-Next](../../repos/CyrilPeng/Venera-Next.md)
+
+**VeneraNext 是一个跨平台漫画阅读器，支持本地漫画、WebDAV 漫画源、第三方网络漫画源，支持 Android、iOS、Windows、Linux、macOS 平台。**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,186 |
+| 💻 **Language** | Dart |
+| 🏆 **Gem Score** | 91/100 |
+| 📈 **Trending Days** | 10 |
+| 📅 **First Seen** | Sep 25, 2026 |
+
+**Why it's a gem**: High growth velocity (+36 stars&#x2F;day) • Trending 10 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/CyrilPeng/Venera-Next.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;CyrilPeng&#x2F;Venera-Next)
+
+---
+
+### 16. [ch6vip&#x2F;fqapp](../../repos/ch6vip/fqapp.md)
 
 **内容聚合 Android 客户端：小说&#x2F;短剧&#x2F;漫剧&#x2F;听书&#x2F;漫画，Flutter UI + 进程内 Rust 核心，无自建服务器、无需 root**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1,247 |
+| ⭐ **Stars** | 1,281 |
 | 💻 **Language** | Dart |
 | 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 6 |
+| 📈 **Trending Days** | 7 |
 | 📅 **First Seen** | Nov 2, 2026 |
 
-**Why it's a gem**: High growth velocity (+35 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+35 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -311,103 +331,83 @@
 
 ---
 
-### 16. [aws&#x2F;agent-toolkit-for-aws](../../repos/aws/agent-toolkit-for-aws.md)
+### 17. [dsx-ai-factory&#x2F;nvke](../../repos/dsx-ai-factory/nvke.md)
 
-**Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS**
+**NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3,426 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 6, 2026 |
+| ⭐ **Stars** | 802 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 91/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Nov 5, 2026 |
 
-**Why it's a gem**: High growth velocity (+72 stars&#x2F;day) • Trending 5 times • Very active development • Underrated project
+**Why it's a gem**: High growth velocity (+314 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/aws/agent-toolkit-for-aws.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;aws&#x2F;agent-toolkit-for-aws)
+[View Passport](../../repos/dsx-ai-factory/nvke.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;dsx-ai-factory&#x2F;nvke)
 
 ---
 
-### 17. [YuKongA&#x2F;ghostlock-app](../../repos/YuKongA/ghostlock-app.md)
+### 18. [orailnoor&#x2F;cross-platform-llm-client](../../repos/orailnoor/cross-platform-llm-client.md)
+
+**A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,770 |
+| 💻 **Language** | C++ |
+| 🏆 **Gem Score** | 90/100 |
+| 📈 **Trending Days** | 7 |
+| 📅 **First Seen** | Aug 4, 2026 |
+
+**Why it's a gem**: High growth velocity (+59 stars&#x2F;day) • Trending 7 times • Very active development • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/orailnoor/cross-platform-llm-client.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;orailnoor&#x2F;cross-platform-llm-client)
+
+---
+
+### 19. [Tianyu199509&#x2F;DeskBox](../../repos/Tianyu199509/DeskBox.md)
+
+**A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 8,675 |
+| 💻 **Language** | C# |
+| 🏆 **Gem Score** | 90/100 |
+| 📈 **Trending Days** | 10 |
+| 📅 **First Seen** | Sep 27, 2026 |
+
+**Why it's a gem**: High growth velocity (+112 stars&#x2F;day) • Trending 10 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/Tianyu199509/DeskBox.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Tianyu199509&#x2F;DeskBox)
+
+---
+
+### 20. [YuKongA&#x2F;ghostlock-app](../../repos/YuKongA/ghostlock-app.md)
 
 **GhostLock One-Tap Execution App (CVE-2026-43499)**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2,783 |
+| ⭐ **Stars** | 2,815 |
 | 💻 **Language** | Kotlin |
 | 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 9 |
+| 📈 **Trending Days** | 10 |
 | 📅 **First Seen** | Oct 1, 2026 |
 
-**Why it's a gem**: High growth velocity (+58 stars&#x2F;day) • Trending 9 times • Very active development • Underrated project
+**Why it's a gem**: High growth velocity (+56 stars&#x2F;day) • Trending 10 times • Very active development • Underrated project
 
 **Best for**: 
 
 [View Passport](../../repos/YuKongA/ghostlock-app.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;YuKongA&#x2F;ghostlock-app)
-
----
-
-### 18. [HD838A&#x2F;remote-mic-app](../../repos/HD838A/remote-mic-app.md)
-
-**无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,641 |
-| 💻 **Language** | Swift |
-| 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 9 |
-| 📅 **First Seen** | Oct 8, 2026 |
-
-**Why it's a gem**: High growth velocity (+58 stars&#x2F;day) • Trending 9 times • Very active development • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/HD838A/remote-mic-app.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;HD838A&#x2F;remote-mic-app)
-
----
-
-### 19. [ranxianglei&#x2F;billion-context](../../repos/ranxianglei/billion-context.md)
-
-**A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 4,562 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Oct 12, 2026 |
-
-**Why it's a gem**: High growth velocity (+179 stars&#x2F;day) • Trending 6 times • Very active development • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/ranxianglei/billion-context.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;ranxianglei&#x2F;billion-context)
-
----
-
-### 20. [liguobao&#x2F;ds-harness-remote](../../repos/liguobao/ds-harness-remote.md)
-
-**基于 DeepSeek Harness 插件机制构建的远程访问方案，通过低延迟、端到端加密的 P2P 网络，支持使用 PC、移动端 和 Web 随时访问本地设备上的DSH 、CodeX、Cursor、Claude Code等工作区。 (Built on DeepSeek Harness plugins, this low-latency, end-to-end encrypted P2P solution lets PC, mobile, and web clients access local DSH, Codex, Cursor, and Claude Code workspaces.)**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,934 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Oct 23, 2026 |
-
-**Why it's a gem**: High growth velocity (+230 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/liguobao/ds-harness-remote.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;liguobao&#x2F;ds-harness-remote)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-07T21:01:07.486Z*  
+*Generated: 2026-11-08T21:01:03.558Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

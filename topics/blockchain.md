@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 432
+- **Total Repositories**: 435
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-11-07
-- **Average Stars**: 21484
+- **Average Stars**: 21501
 
 ---
 
@@ -17,25 +17,16 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,799 | Ruby |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,438 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,431 | Scala |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,234 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,224 | Clojure |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,770 | HTML |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,928 | Vue |  |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,824 | HTML |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [vim/vim](../repos/vim/vim.md) | ⭐ 41,193 | Vim Script |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,887 | CoffeeScript |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | ⭐ 1,064 | Solidity |  |
@@ -44,7 +35,16 @@
 | [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,354 | Solidity |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | ⭐ 3,264 | Verilog |  |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | ⭐ 3,270 | Verilog |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [jamiepine/voicebox](../repos/jamiepine/voicebox.md) | ⭐ 60,135 | Python |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 28,853 | C |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [AAswordman/Operit](../repos/AAswordman/Operit.md) | ⭐ 9,462 | Kotlin |  |
 
 
 ---
@@ -88,7 +88,7 @@
 | [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,616 | Scala | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,431 | Scala | 6 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,438 | Scala | 7 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 181,077 | Dart | 1 |
@@ -97,24 +97,12 @@
 | [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,360 | Lua | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,224 | Clojure | 6 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,234 | Clojure | 7 |
 
 ---
 
 ## 🆕 New This Month
 
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [headroomlabs-ai/headroom](../repos/headroomlabs-ai/headroom.md) | ⭐ 77,547 | Python | 2026-10-09 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [Agent-Field/CodeAF](../repos/Agent-Field/CodeAF.md) | ⭐ 370 | Go | 2026-10-09 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [swombat/souls-house](../repos/swombat/souls-house.md) | ⭐ 44 | Ruby | 2026-10-09 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [EricTechPro/super-board](../repos/EricTechPro/super-board.md) | ⭐ 610 | HTML | 2026-10-09 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [chthollyphile/folia-major](../repos/chthollyphile/folia-major.md) | ⭐ 10,204 | TypeScript | 2026-10-11 |
@@ -133,10 +121,26 @@
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [microsoft/playwright](../repos/microsoft/playwright.md) | ⭐ 98,817 | TypeScript | 2026-10-15 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [dimthink/PriceAI](../repos/dimthink/PriceAI.md) | ⭐ 4,122 | TypeScript | 2026-10-15 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [xiaomlove/nexusphp](../repos/xiaomlove/nexusphp.md) | ⭐ 1,193 | PHP | 2026-10-15 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [foundry-rs/foundry](../repos/foundry-rs/foundry.md) | ⭐ 10,767 | Rust | 2026-10-17 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [mozilla-ai/otari](../repos/mozilla-ai/otari.md) | ⭐ 653 | Python | 2026-10-18 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-11-08](../archive/2026/11/2026-11-08.md)
+- 19 repositories trending
+- Top: shanraisshan&#x2F;claude-code-best-practice
 
 ### [2026-11-07](../archive/2026/11/2026-11-07.md)
 - 35 repositories trending
@@ -171,12 +175,12 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 79 days | 2026-08-01 | 2026-11-07 |
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 79 days | 2026-08-01 | 2026-11-07 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 76 days | 2026-08-01 | 2026-11-07 |
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 76 days | 2026-08-01 | 2026-11-07 |
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 75 days | 2026-08-01 | 2026-11-07 |
-| [vim/vim](../repos/vim/vim.md) | 67 days | 2026-08-01 | 2026-11-07 |
+| [apache/spark](../repos/apache/spark.md) | 80 days | 2026-08-01 | 2026-11-08 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 80 days | 2026-08-01 | 2026-11-08 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 77 days | 2026-08-01 | 2026-11-08 |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 77 days | 2026-08-01 | 2026-11-08 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 76 days | 2026-08-01 | 2026-11-08 |
+| [vim/vim](../repos/vim/vim.md) | 68 days | 2026-08-01 | 2026-11-08 |
 | [joernio/joern](../repos/joernio/joern.md) | 62 days | 2026-08-01 | 2026-11-03 |
 | [flutter/flutter](../repos/flutter/flutter.md) | 51 days | 2026-08-01 | 2026-11-06 |
 | [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | 51 days | 2026-08-01 | 2026-11-07 |
@@ -187,16 +191,16 @@
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Python**: 63 repositories (15%)
-- **TypeScript**: 56 repositories (13%)
+- **Python**: 64 repositories (15%)
+- **TypeScript**: 58 repositories (13%)
 - **C**: 44 repositories (10%)
 - **Go**: 35 repositories (8%)
 - **Rust**: 34 repositories (8%)
 
 ### Trending Frequency
-- **Daily Average**: 38.7 repositories
+- **Daily Average**: 38.4 repositories
 - **Peak Day**: 2026-11-06 (59 repositories)
-- **Growth Rate**: 12% this month
+- **Growth Rate**: 11% this month
 
 ---
 
@@ -310,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-11-07T21:00:59.629Z*
+*Last updated: 2026-11-08T21:00:55.765Z*

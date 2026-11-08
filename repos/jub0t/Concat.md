@@ -1,6 +1,6 @@
 # jub0t&#x2F;Concat
 
-> The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API &amp; MCP.
+> Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API &amp; MCP.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;jub0t&#x2F;Concat) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 13,802 |
-| **Forks** | 🍴 1,703 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 15,685 |
+| **Forks** | 🍴 1,958 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 29, 2026 |
-| **Last Seen** | Nov 2, 2026 |
+| **Last Seen** | Nov 8, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 1 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 35&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-07T21:01:07.071Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-11-08T21:01:03.067Z*  
+*Data from 3 trending reports*

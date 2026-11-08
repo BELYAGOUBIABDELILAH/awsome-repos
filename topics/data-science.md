@@ -9,7 +9,7 @@
 - **Total Repositories**: 135
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-02
-- **Average Stars**: 15104
+- **Average Stars**: 15108
 
 ---
 
@@ -17,34 +17,22 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,799 | Ruby |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,438 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,431 | Scala |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,224 | Clojure |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,234 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [vim/vim](../repos/vim/vim.md) | ⭐ 41,193 | Vim Script |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,982 | C |  |
+| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 28,853 | C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | ⭐ 2,108 | Vue |  |
+| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | ⭐ 2,114 | Vue |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [lz4/lz4](../repos/lz4/lz4.md) | ⭐ 12,700 | C |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [jeecgboot/jimureport](../repos/jeecgboot/jimureport.md) | ⭐ 8,627 | Java |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [meta/infer](../repos/meta/infer.md) | ⭐ 15,746 | OCaml |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [openssh/openssh-portable](../repos/openssh/openssh-portable.md) | ⭐ 4,098 | C |  |
+| [Revolutionary-Games/Thrive](../repos/Revolutionary-Games/Thrive.md) | ⭐ 3,850 | C# |  |
 
 
 ---
@@ -60,7 +48,7 @@
 | [git/git](../repos/git/git.md) | ⭐ 64,135 | C | 2026-08-05 | 10 |
 | [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | ⭐ 52,636 | Python | 2026-08-03 | 16 |
 | [pandas-dev/pandas](../repos/pandas-dev/pandas.md) | ⭐ 50,466 | Python | 2026-08-04 | 2 |
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,224 | Clojure | 2026-08-01 | 76 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,234 | Clojure | 2026-08-01 | 77 |
 | [TanStack/query](../repos/TanStack/query.md) | ⭐ 50,183 | TypeScript | 2026-08-22 | 1 |
 | [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | ⭐ 48,189 | Python | 2026-08-02 | 7 |
 
@@ -82,22 +70,22 @@
 | [apache/texera](../repos/apache/texera.md) | ⭐ 332 | Scala | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,431 | Scala | 6 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,438 | Scala | 7 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,224 | Clojure | 6 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,234 | Clojure | 7 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,523 | C | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 41,193 | Vim Script | 6 |
+| [vim/vim](../repos/vim/vim.md) | ⭐ 41,193 | Vim Script | 7 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 992 | MATLAB | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,982 | C | 2 |
+| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 28,853 | C | 1 |
 
 ---
 
@@ -138,6 +126,10 @@
 
 ## 📅 Recent History
 
+### [2026-11-08](../archive/2026/11/2026-11-08.md)
+- 6 repositories trending
+- Top: metabase&#x2F;metabase
+
 ### [2026-11-07](../archive/2026/11/2026-11-07.md)
 - 10 repositories trending
 - Top: metabase&#x2F;metabase
@@ -171,16 +163,16 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 79 days | 2026-08-01 | 2026-11-07 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 76 days | 2026-08-01 | 2026-11-07 |
-| [vim/vim](../repos/vim/vim.md) | 67 days | 2026-08-01 | 2026-11-07 |
+| [apache/spark](../repos/apache/spark.md) | 80 days | 2026-08-01 | 2026-11-08 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 77 days | 2026-08-01 | 2026-11-08 |
+| [vim/vim](../repos/vim/vim.md) | 68 days | 2026-08-01 | 2026-11-08 |
 | [joernio/joern](../repos/joernio/joern.md) | 62 days | 2026-08-01 | 2026-11-03 |
 | [ruby/ruby](../repos/ruby/ruby.md) | 42 days | 2026-08-01 | 2026-11-07 |
 | [facebook/infer](../repos/facebook/infer.md) | 41 days | 2026-08-02 | 2026-10-25 |
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 40 days | 2026-08-01 | 2026-11-06 |
 | [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | 35 days | 2026-08-04 | 2026-11-06 |
 | [rstudio/shiny](../repos/rstudio/shiny.md) | 32 days | 2026-08-02 | 2026-11-06 |
-| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | 31 days | 2026-08-02 | 2026-11-07 |
+| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | 32 days | 2026-08-02 | 2026-11-08 |
 
 ---
 
@@ -194,7 +186,7 @@
 - **Java**: 7 repositories (5%)
 
 ### Trending Frequency
-- **Daily Average**: 14.6 repositories
+- **Daily Average**: 14.5 repositories
 - **Peak Day**: 2026-11-06 (36 repositories)
 - **Growth Rate**: 12% this month
 
@@ -310,4 +302,4 @@
 
 ---
 
-*Last updated: 2026-11-07T21:00:59.575Z*
+*Last updated: 2026-11-08T21:00:55.654Z*

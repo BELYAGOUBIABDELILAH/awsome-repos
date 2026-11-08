@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 55,232 | 2026-08-01 | 26 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 6,222 | 2026-08-02 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 39,102 | 2026-08-01 | 25 |
+| [XTLS/Xray-core](../repos/XTLS/Xray-core.md) | ⭐ 42,730 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 6,194 | 2026-08-02 | 20 |
+| [kgretzky/evilginx2](../repos/kgretzky/evilginx2.md) | ⭐ 15,869 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lharries/whatsapp-mcp](../repos/lharries/whatsapp-mcp.md) | ⭐ 6,834 | 2026-08-03 | 6 |
+| [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 50,430 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [moby/moby](../repos/moby/moby.md) | ⭐ 72,358 | 2026-08-04 | 8 |
+| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 33,709 | 2026-08-06 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,896 | 2026-08-04 | 14 |
+| [navidrome/navidrome](../repos/navidrome/navidrome.md) | ⭐ 24,589 | 2026-08-08 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,599 | 2026-08-05 | 6 |
+| [henrygd/beszel](../repos/henrygd/beszel.md) | ⭐ 26,996 | 2026-08-10 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 67,404 | 2026-08-11 | 8 |
+| [kdlbs/kandev](../repos/kdlbs/kandev.md) | ⭐ 1,092 | 2026-08-10 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,859 | 2026-08-15 | 14 |
+| [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 67,560 | 2026-08-11 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kagent-dev/kagent](../repos/kagent-dev/kagent.md) | ⭐ 4,180 | 2026-08-20 | 4 |
+| [Gaurav-Gosain/tuios](../repos/Gaurav-Gosain/tuios.md) | ⭐ 6,450 | 2026-08-19 | 7 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Agent-Field/CodeAF](../repos/Agent-Field/CodeAF.md) | ⭐ 370 | 2026-10-09 | Open-Source Software factory for Open Models |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Autumn-27/ScopeSentry](../repos/Autumn-27/ScopeSentry.md) | ⭐ 1,811 | 2026-10-11 | ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information disco... |
@@ -79,7 +76,10 @@
 | [go-chi/chi](../repos/go-chi/chi.md) | ⭐ 22,951 | 2026-10-14 | lightweight, idiomatic and composable router for building Go HTTP services |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Christ9038/Ydisks-Xianyu-Helper](../repos/Christ9038/Ydisks-Xianyu-Helper.md) | ⭐ 2,196 | 2026-10-14 | 闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建 |
+| [Christ9038/Ydisks-Xianyu-Helper](../repos/Christ9038/Ydisks-Xianyu-Helper.md) | ⭐ 2,332 | 2026-10-14 | 闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jasonxu114514/opencode2api](../repos/jasonxu114514/opencode2api.md) | ⭐ 1,045 | 2026-10-16 | A Go-based OpenCode Zen &#x2F; Zen Go API proxy with OpenAI &amp; Anthropic API compatibility, key&#x2F;proxy p... |
 
 
 ---
@@ -99,15 +99,15 @@
 | [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 78,808 | 2026-08-03 | 9 |
 | [moby/moby](../repos/moby/moby.md) | ⭐ 72,358 | 2026-08-04 | 8 |
 | [nektos/act](../repos/nektos/act.md) | ⭐ 71,966 | 2026-08-07 | 2 |
-| [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 67,404 | 2026-08-11 | 8 |
+| [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 67,560 | 2026-08-11 | 9 |
 | [minio/minio](../repos/minio/minio.md) | ⭐ 61,365 | 2026-08-12 | 2 |
 | [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | 2 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 55,232 | 2026-08-01 | 26 |
 | [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,668 | 2026-08-22 | 7 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 51,364 | 2026-08-01 | 22 |
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,305 | 2026-08-04 | 3 |
+| [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 50,430 | 2026-08-03 | 2 |
 | [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 50,085 | 2026-08-06 | 11 |
-| [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 49,993 | 2026-08-03 | 1 |
 
 ---
 
@@ -120,7 +120,7 @@
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 26 | ⭐ 36,482 | 2026-08-01 | 2026-11-04 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 25 | ⭐ 39,102 | 2026-08-01 | 2026-11-07 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 22 | ⭐ 51,364 | 2026-08-01 | 2026-11-04 |
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 20 | ⭐ 6,194 | 2026-08-02 | 2026-11-07 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 21 | ⭐ 6,222 | 2026-08-02 | 2026-11-08 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 20 | ⭐ 45,097 | 2026-08-07 | 2026-10-29 |
 | [golang/go](../repos/golang/go.md) | 18 | ⭐ 139,715 | 2026-07-31 | 2026-11-06 |
 | [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | 18 | ⭐ 1,031 | 2026-08-01 | 2026-11-04 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-07T21:00:59.855Z*
+*Last updated: 2026-11-08T21:00:56.109Z*

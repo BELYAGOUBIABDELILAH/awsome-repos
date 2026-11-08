@@ -1,6 +1,6 @@
 # Anil-matcha&#x2F;Open-Generative-AI
 
-> Unrestricted Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+> Uncensored Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;Anil-matcha&#x2F;Open-Generative-AI) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | JavaScript |
 | **License** | MIT |
-| **Stars** | ⭐ 32,983 |
-| **Forks** | 🍴 6,257 |
-| **Trending Days** | 15 |
+| **Stars** | ⭐ 33,371 |
+| **Forks** | 🍴 6,315 |
+| **Trending Days** | 16 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 8, 2026 |
-| **Last Seen** | Nov 7, 2026 |
+| **Last Seen** | Nov 8, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 15
-- **Longest Streak**: 3 days
+- **Trending Days**: 16
+- **Longest Streak**: 4 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-07T21:01:03.583Z*  
-*Data from 15 trending reports*
+*Last updated: 2026-11-08T21:01:00.164Z*  
+*Data from 16 trending reports*

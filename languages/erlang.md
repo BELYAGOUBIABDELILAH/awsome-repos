@@ -16,7 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,887 | 2026-08-01 | 68 |
+| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,357 | 2026-08-01 | 60 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [erlang/rebar3](../repos/erlang/rebar3.md) | ⭐ 1,825 | 2026-08-03 | 6 |
 
 
 ---
@@ -35,11 +38,11 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,887 | 2026-08-01 | 68 |
-| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,357 | 2026-08-01 | 59 |
+| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,357 | 2026-08-01 | 60 |
 | [ninenines/cowboy](../repos/ninenines/cowboy.md) | ⭐ 7,527 | 2026-08-03 | 21 |
 | [apache/couchdb](../repos/apache/couchdb.md) | ⭐ 7,003 | 2026-08-03 | 33 |
 | [processone/ejabberd](../repos/processone/ejabberd.md) | ⭐ 6,751 | 2026-08-08 | 37 |
-| [erlang/rebar3](../repos/erlang/rebar3.md) | ⭐ 1,818 | 2026-08-03 | 5 |
+| [erlang/rebar3](../repos/erlang/rebar3.md) | ⭐ 1,825 | 2026-08-03 | 6 |
 | [ninenines/ranch](../repos/ninenines/ranch.md) | ⭐ 1,244 | 2026-08-02 | 8 |
 | [ninenines/gun](../repos/ninenines/gun.md) | ⭐ 947 | 2026-08-06 | 2 |
 | [proper-testing/proper](../repos/proper-testing/proper.md) | ⭐ 918 | 2026-08-06 | 7 |
@@ -58,7 +61,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [emqx/emqx](../repos/emqx/emqx.md) | 68 | ⭐ 16,887 | 2026-08-01 | 2026-11-07 |
-| [erlang/otp](../repos/erlang/otp.md) | 59 | ⭐ 12,357 | 2026-08-01 | 2026-11-06 |
+| [erlang/otp](../repos/erlang/otp.md) | 60 | ⭐ 12,357 | 2026-08-01 | 2026-11-08 |
 | [processone/ejabberd](../repos/processone/ejabberd.md) | 37 | ⭐ 6,751 | 2026-08-08 | 2026-11-06 |
 | [apache/couchdb](../repos/apache/couchdb.md) | 33 | ⭐ 7,003 | 2026-08-03 | 2026-11-06 |
 | [blt/port_compiler](../repos/blt/port_compiler.md) | 27 | ⭐ 69 | 2026-08-01 | 2026-11-06 |
@@ -91,4 +94,4 @@
 
 ---
 
-*Last updated: 2026-11-07T21:00:59.849Z*
+*Last updated: 2026-11-08T21:00:56.094Z*

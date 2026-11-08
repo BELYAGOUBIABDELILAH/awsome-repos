@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 30,941 | 2026-08-01 | 46 |
+| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | ⭐ 5,095 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | ⭐ 1,198 | 2026-08-01 | 33 |
+| [id577/FS25_AdvancedDamageSystem](../repos/id577/FS25_AdvancedDamageSystem.md) | ⭐ 319 | 2026-08-02 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | ⭐ 5,087 | 2026-08-01 | 23 |
+| [Stephan-S/FS25_AutoDrive](../repos/Stephan-S/FS25_AutoDrive.md) | ⭐ 685 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [id577/FS25_AdvancedDamageSystem](../repos/id577/FS25_AdvancedDamageSystem.md) | ⭐ 318 | 2026-08-02 | 19 |
+| [EllesmereGaming/EllesmereUI](../repos/EllesmereGaming/EllesmereUI.md) | ⭐ 272 | 2026-08-03 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EllesmereGaming/EllesmereUI](../repos/EllesmereGaming/EllesmereUI.md) | ⭐ 272 | 2026-08-03 | 17 |
+| [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | ⭐ 20,090 | 2026-08-03 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | ⭐ 20,078 | 2026-08-03 | 28 |
+| [finlater/weread.koplugin](../repos/finlater/weread.koplugin.md) | ⭐ 1,049 | 2026-08-07 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CorsixTH/CorsixTH](../repos/CorsixTH/CorsixTH.md) | ⭐ 4,654 | 2026-08-10 | 6 |
+| [PathOfBuildingCommunity/PathOfBuilding](../repos/PathOfBuildingCommunity/PathOfBuilding.md) | ⭐ 5,476 | 2026-08-09 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tukui-org/ElvUI](../repos/tukui-org/ElvUI.md) | ⭐ 714 | 2026-08-12 | 10 |
+| [CorsixTH/CorsixTH](../repos/CorsixTH/CorsixTH.md) | ⭐ 4,658 | 2026-08-10 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bol-van/zapret-win-bundle](../repos/bol-van/zapret-win-bundle.md) | ⭐ 1,931 | 2026-08-19 | 6 |
+| [bol-van/zapret-win-bundle](../repos/bol-van/zapret-win-bundle.md) | ⭐ 1,938 | 2026-08-19 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvim-tree/nvim-web-devicons](../repos/nvim-tree/nvim-web-devicons.md) | ⭐ 2,733 | 2026-09-19 | 5 |
+| [Questie/Questie](../repos/Questie/Questie.md) | ⭐ 1,135 | 2026-09-19 | 9 |
 
 
 ---
@@ -95,7 +95,7 @@
 | [nagadomi/waifu2x](../repos/nagadomi/waifu2x.md) | ⭐ 28,218 | 2026-08-01 | 2 |
 | [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | ⭐ 27,758 | 2026-08-04 | 31 |
 | [folke/lazy.nvim](../repos/folke/lazy.nvim.md) | ⭐ 21,688 | 2026-08-06 | 11 |
-| [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | ⭐ 20,078 | 2026-08-03 | 28 |
+| [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | ⭐ 20,090 | 2026-08-03 | 29 |
 | [nvim-telescope/telescope.nvim](../repos/nvim-telescope/telescope.nvim.md) | ⭐ 19,838 | 2026-08-11 | 16 |
 | [LunarVim/LunarVim](../repos/LunarVim/LunarVim.md) | ⭐ 19,254 | 2026-10-23 | 1 |
 | [yetone/avante.nvim](../repos/yetone/avante.nvim.md) | ⭐ 18,120 | 2026-08-03 | 5 |
@@ -121,10 +121,10 @@
 | [Kong/kong](../repos/Kong/kong.md) | 34 | ⭐ 44,360 | 2026-08-01 | 2026-11-05 |
 | [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | 33 | ⭐ 1,198 | 2026-08-01 | 2026-11-07 |
 | [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | 31 | ⭐ 27,758 | 2026-08-04 | 2026-10-29 |
-| [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | 28 | ⭐ 20,078 | 2026-08-03 | 2026-11-07 |
+| [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | 29 | ⭐ 20,090 | 2026-08-03 | 2026-11-08 |
 | [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | 25 | ⭐ 8,201 | 2026-08-08 | 2026-11-06 |
+| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | 24 | ⭐ 5,095 | 2026-08-01 | 2026-11-08 |
 | [apache/apisix](../repos/apache/apisix.md) | 23 | ⭐ 17,301 | 2026-08-01 | 2026-11-06 |
-| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | 23 | ⭐ 5,087 | 2026-08-01 | 2026-11-07 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-07T21:00:59.875Z*
+*Last updated: 2026-11-08T21:00:56.149Z*

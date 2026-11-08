@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | TypeScript |
+| **Language** | Python |
 | **License** | MIT |
-| **Stars** | ⭐ 18,836 |
-| **Forks** | 🍴 3,209 |
-| **Trending Days** | 3 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 19,355 |
+| **Forks** | 🍴 3,277 |
+| **Trending Days** | 4 |
+| **Peak Rank** | #4 |
 
 | **First Seen** | Aug 22, 2026 |
-| **Last Seen** | Oct 19, 2026 |
+| **Last Seen** | Nov 8, 2026 |
 
 
 ---
@@ -37,17 +37,18 @@
 
 ## Alternatives
 
-*Similar: Check repositories in TypeScript or similar-topics*
+*Similar: Check repositories in Python or similar-topics*
 
 ---
 
 ## Trending Timeline
 
+**Nov 8, 2026** — Rank #4 (+28 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Peak Rank**: #4
+- **Trending Days**: 4
 - **Longest Streak**: 2 days
 
 ---
@@ -72,7 +73,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -81,15 +82,15 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in TypeScript
+- Check similar projects in Python
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 55&#x2F;100
-- **Historical Rank**: No ranking data
+- **Trending Score**: 65&#x2F;100
+- **Historical Rank**: Top 5 (Peak: #4)
 
 
 ---
 
-*Last updated: 2026-11-07T21:01:04.737Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-11-08T21:01:01.153Z*  
+*Data from 4 trending reports*

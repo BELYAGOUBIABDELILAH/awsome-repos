@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 165
+**Gems Found**: 154
 
 ---
 
@@ -39,7 +39,7 @@
 |---|---|
 | ⭐ **Stars** | 3,374 |
 | 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 80/100 |
+| 🏆 **Gem Score** | 79/100 |
 | 📈 **Trending Days** | 4 |
 | 📅 **First Seen** | Aug 16, 2026 |
 
@@ -139,7 +139,7 @@
 |---|---|
 | ⭐ **Stars** | 477 |
 | 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 76/100 |
+| 🏆 **Gem Score** | 75/100 |
 | 📈 **Trending Days** | 2 |
 | 📅 **First Seen** | Aug 26, 2026 |
 
@@ -159,7 +159,7 @@
 |---|---|
 | ⭐ **Stars** | 971 |
 | 💻 **Language** | Java |
-| 🏆 **Gem Score** | 75/100 |
+| 🏆 **Gem Score** | 74/100 |
 | 📈 **Trending Days** | 4 |
 | 📅 **First Seen** | Aug 8, 2026 |
 
@@ -191,27 +191,7 @@
 
 ---
 
-### 10. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
-
-**Visualize your year in travel using your Google Location History (Timeline) data**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,684 |
-| 💻 **Language** | Kotlin |
-| 🏆 **Gem Score** | 74/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 20, 2026 |
-
-**Why it's a gem**: High growth velocity (+1084 stars&#x2F;day) • Trending 4 times • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/mahlernim/google-timeline-visualizer.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mahlernim&#x2F;google-timeline-visualizer)
-
----
-
-### 11. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
+### 10. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
 
 **Portable Tool for an Ideal Windows Setup**
 
@@ -231,7 +211,7 @@
 
 ---
 
-### 12. [workweave&#x2F;router](../../repos/workweave/router.md)
+### 11. [workweave&#x2F;router](../../repos/workweave/router.md)
 
 **Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.**
 
@@ -251,7 +231,7 @@
 
 ---
 
-### 13. [Gitlawb&#x2F;zero](../../repos/Gitlawb/zero.md)
+### 12. [Gitlawb&#x2F;zero](../../repos/Gitlawb/zero.md)
 
 **The coding agent that answers to you, your model, your machine, your rules.**
 
@@ -268,6 +248,26 @@
 **Best for**: 
 
 [View Passport](../../repos/Gitlawb/zero.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Gitlawb&#x2F;zero)
+
+---
+
+### 13. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
+
+**Visualize your year in travel using your Google Location History (Timeline) data**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,684 |
+| 💻 **Language** | Kotlin |
+| 🏆 **Gem Score** | 73/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 20, 2026 |
+
+**Why it's a gem**: High growth velocity (+1084 stars&#x2F;day) • Trending 4 times • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/mahlernim/google-timeline-visualizer.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mahlernim&#x2F;google-timeline-visualizer)
 
 ---
 
@@ -291,27 +291,7 @@
 
 ---
 
-### 15. [tutti-os&#x2F;tutti](../../repos/tutti-os/tutti.md)
-
-**Where people and agents build in tune.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 3,575 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 73/100 |
-| 📈 **Trending Days** | 2 |
-| 📅 **First Seen** | Aug 27, 2026 |
-
-**Why it's a gem**: High growth velocity (+62 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/tutti-os/tutti.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;tutti-os&#x2F;tutti)
-
----
-
-### 16. [longbridge&#x2F;gpui-component](../../repos/longbridge/gpui-component.md)
+### 15. [longbridge&#x2F;gpui-component](../../repos/longbridge/gpui-component.md)
 
 **Rust GUI components for building fantastic cross-platform desktop application by using GPUI.**
 
@@ -331,6 +311,26 @@
 
 ---
 
+### 16. [tutti-os&#x2F;tutti](../../repos/tutti-os/tutti.md)
+
+**Where people and agents build in tune.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3,575 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 72/100 |
+| 📈 **Trending Days** | 2 |
+| 📅 **First Seen** | Aug 27, 2026 |
+
+**Why it's a gem**: High growth velocity (+62 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/tutti-os/tutti.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;tutti-os&#x2F;tutti)
+
+---
+
 ### 17. [liustack&#x2F;modlens](../../repos/liustack/modlens.md)
 
 **The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。**
@@ -339,7 +339,7 @@
 |---|---|
 | ⭐ **Stars** | 2,781 |
 | 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 72/100 |
+| 🏆 **Gem Score** | 71/100 |
 | 📈 **Trending Days** | 2 |
 | 📅 **First Seen** | Aug 15, 2026 |
 
@@ -359,7 +359,7 @@
 |---|---|
 | ⭐ **Stars** | 11,134 |
 | 💻 **Language** | Go |
-| 🏆 **Gem Score** | 71/100 |
+| 🏆 **Gem Score** | 70/100 |
 | 📈 **Trending Days** | 4 |
 | 📅 **First Seen** | Aug 3, 2026 |
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-07T21:01:07.493Z*  
+*Generated: 2026-11-08T21:01:03.569Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

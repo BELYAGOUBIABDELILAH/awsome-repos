@@ -16,43 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 140,695 | 2026-08-01 | 25 |
+| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 28,853 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,982 | 2026-08-02 | 11 |
+| [HarbourMasters/Shipwright](../repos/HarbourMasters/Shipwright.md) | ⭐ 5,924 | 2026-08-24 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lz4/lz4](../repos/lz4/lz4.md) | ⭐ 12,700 | 2026-08-05 | 8 |
+| [EchoStretch/kstuff-lite](../repos/EchoStretch/kstuff-lite.md) | ⭐ 917 | 2026-09-22 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [madler/zlib](../repos/madler/zlib.md) | ⭐ 7,200 | 2026-08-07 | 14 |
+| [FareedKhan-dev/kimi-k3-in-c](../repos/FareedKhan-dev/kimi-k3-in-c.md) | ⭐ 11,318 | 2026-11-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HarbourMasters/Shipwright](../repos/HarbourMasters/Shipwright.md) | ⭐ 5,897 | 2026-08-24 | 8 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [OpenVPN/openvpn](../repos/OpenVPN/openvpn.md) | ⭐ 14,781 | 2026-09-01 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [signalwire/freeswitch](../repos/signalwire/freeswitch.md) | ⭐ 5,286 | 2026-09-10 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [FareedKhan-dev/kimi-k3-in-c](../repos/FareedKhan-dev/kimi-k3-in-c.md) | ⭐ 11,204 | 2026-11-04 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [openssh/openssh-portable](../repos/openssh/openssh-portable.md) | ⭐ 4,098 | 2026-11-06 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [meta/zstd](../repos/meta/zstd.md) | ⭐ 28,197 | 2026-11-07 | 1 |
+| [zeldaret/oot](../repos/zeldaret/oot.md) | ⭐ 5,686 | 2026-11-07 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [pnggroup/libpng](../repos/pnggroup/libpng.md) | ⭐ 1,662 | 2026-10-09 | LIBPNG: Portable Network Graphics support, official libpng repository |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [tarwin/tinyjsapp](../repos/tarwin/tinyjsapp.md) | ⭐ 1,278 | 2026-10-11 | Build native apps in JS. Backend, frontend. ~5Mb. |
@@ -80,6 +62,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [V4bel/dirtyfrag](../repos/V4bel/dirtyfrag.md) | ⭐ 5,093 | 2026-10-19 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [c-ares/c-ares](../repos/c-ares/c-ares.md) | ⭐ 2,196 | 2026-10-21 | A C library for asynchronous DNS requests |
 
 
 ---
@@ -233,4 +218,4 @@
 
 ---
 
-*Last updated: 2026-11-07T21:00:59.823Z*
+*Last updated: 2026-11-08T21:00:56.056Z*

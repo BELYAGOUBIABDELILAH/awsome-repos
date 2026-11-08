@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,301 | 2026-08-01 | 64 |
 
+*No Nim repositories trending today*
 
 ---
 
@@ -79,4 +77,4 @@
 
 ---
 
-*Last updated: 2026-11-07T21:00:59.883Z*
+*Last updated: 2026-11-08T21:00:56.162Z*

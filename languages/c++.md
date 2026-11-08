@@ -16,43 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,384 | 2026-07-30 | 32 |
+| [orailnoor/cross-platform-llm-client](../repos/orailnoor/cross-platform-llm-client.md) | ⭐ 1,770 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 133,663 | 2026-08-01 | 34 |
+| [dyang886/Game-Cheats-Manager](../repos/dyang886/Game-Cheats-Manager.md) | ⭐ 16,047 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 32,839 | 2026-08-03 | 19 |
+| [telegramdesktop/tdesktop](../repos/telegramdesktop/tdesktop.md) | ⭐ 33,502 | 2026-08-05 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [orailnoor/cross-platform-llm-client](../repos/orailnoor/cross-platform-llm-client.md) | ⭐ 1,648 | 2026-08-04 | 6 |
+| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 41,510 | 2026-08-09 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,920 | 2026-08-05 | 12 |
+| [transmission/transmission](../repos/transmission/transmission.md) | ⭐ 15,396 | 2026-08-10 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openvinotoolkit/openvino](../repos/openvinotoolkit/openvino.md) | ⭐ 11,128 | 2026-08-07 | 8 |
+| [azahar-emu/azahar](../repos/azahar-emu/azahar.md) | ⭐ 8,599 | 2026-08-11 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alibaba/MNN](../repos/alibaba/MNN.md) | ⭐ 16,423 | 2026-08-08 | 3 |
+| [google-deepmind/mujoco](../repos/google-deepmind/mujoco.md) | ⭐ 16,337 | 2026-08-11 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [notepad-plus-plus/notepad-plus-plus](../repos/notepad-plus-plus/notepad-plus-plus.md) | ⭐ 29,804 | 2026-08-08 | 5 |
+| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 52,284 | 2026-10-06 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dariulone/cyberpunk-vr-port](../repos/dariulone/cyberpunk-vr-port.md) | ⭐ 501 | 2026-08-23 | 8 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Neroued/ninfer](../repos/Neroued/ninfer.md) | ⭐ 3,284 | 2026-08-29 | 3 |
+| [dashdogy/MFG-Unlocker](../repos/dashdogy/MFG-Unlocker.md) | ⭐ 2,346 | 2026-11-07 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [DamRsn/NeuralNote](../repos/DamRsn/NeuralNote.md) | ⭐ 3,381 | 2026-10-09 | Audio Plugin for Audio to MIDI transcription using deep learning. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [diasurgical/DevilutionX](../repos/diasurgical/DevilutionX.md) | ⭐ 9,834 | 2026-10-12 | Diablo build for modern operating systems |
@@ -80,6 +74,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [0x23/MicroManipulatorStepper](../repos/0x23/MicroManipulatorStepper.md) | ⭐ 2,183 | 2026-10-20 | A sub-micrometer 3D motion control plattform. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [iliasHDZ/Bismuth](../repos/iliasHDZ/Bismuth.md) | ⭐ 94 | 2026-10-20 | Optimization mod for Geometry Dash |
 
 
 ---
@@ -100,13 +97,13 @@
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,138 | 2026-08-01 | 20 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,920 | 2026-08-05 | 12 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
-| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 52,014 | 2026-10-06 | 8 |
+| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 52,284 | 2026-10-06 | 9 |
 | [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,787 | 2026-08-03 | 13 |
 | [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,454 | 2026-09-01 | 3 |
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,405 | 2026-08-02 | 10 |
 | [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 43,382 | 2026-09-06 | 3 |
 | [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 42,460 | 2026-08-19 | 14 |
-| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 41,272 | 2026-08-09 | 13 |
+| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 41,510 | 2026-08-09 | 14 |
 | [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 41,019 | 2026-08-02 | 8 |
 
 ---
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-11-07T21:00:59.828Z*
+*Last updated: 2026-11-08T21:00:56.065Z*

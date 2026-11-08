@@ -14,13 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,080 | 2026-08-01 | 45 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,887 | 2026-08-01 | 18 |
 
+*No CoffeeScript repositories trending today*
 
 ---
 
@@ -70,4 +65,4 @@
 
 ---
 
-*Last updated: 2026-11-07T21:00:59.834Z*
+*Last updated: 2026-11-08T21:00:56.073Z*

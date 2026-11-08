@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 311
+- **Total Repositories**: 316
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-07
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 195,138 | 2026-07-30 | 9 |
+| [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 98,649 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/checkout](../repos/actions/checkout.md) | ⭐ 9,007 | 2026-08-02 | 7 |
+| [Open-Dev-Society/OpenStock](../repos/Open-Dev-Society/OpenStock.md) | ⭐ 21,354 | 2026-09-19 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 140,636 | 2026-08-02 | 19 |
+| [vercel-labs/json-render](../repos/vercel-labs/json-render.md) | ⭐ 19,448 | 2026-09-19 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [angular/angular](../repos/angular/angular.md) | ⭐ 101,466 | 2026-08-04 | 6 |
+| [ranxianglei/billion-context](../repos/ranxianglei/billion-context.md) | ⭐ 5,059 | 2026-10-12 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 98,401 | 2026-08-04 | 5 |
+| [elie222/rakazo](../repos/elie222/rakazo.md) | ⭐ 7,548 | 2026-10-17 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 154,905 | 2026-08-07 | 21 |
+| [mantrakp04/ardia](../repos/mantrakp04/ardia.md) | ⭐ 1,464 | 2026-10-25 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 118,510 | 2026-08-11 | 25 |
+| [ParadevAI/Paradev](../repos/ParadevAI/Paradev.md) | ⭐ 16,103 | 2026-10-28 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [awslabs/aidlc-workflows](../repos/awslabs/aidlc-workflows.md) | ⭐ 5,925 | 2026-09-03 | 5 |
+| [meta/astryx](../repos/meta/astryx.md) | ⭐ 16,341 | 2026-11-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Fission-AI/OpenSpec](../repos/Fission-AI/OpenSpec.md) | ⭐ 74,227 | 2026-09-19 | 6 |
+| [Albert-Weasker/niubigeo](../repos/Albert-Weasker/niubigeo.md) | ⭐ 10,135 | 2026-11-08 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [morluto/rea](../repos/morluto/rea.md) | ⭐ 440,692 | 2026-10-06 | 11 |
+| [kortix-ai/CompanyOS](../repos/kortix-ai/CompanyOS.md) | ⭐ 20,578 | 2026-11-08 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [VERT-sh/VERT](../repos/VERT-sh/VERT.md) | ⭐ 15,807 | 2026-10-09 | The next-generation file converter. Open source, fully local* and free forever. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [cartesiancs/map3d](../repos/cartesiancs/map3d.md) | ⭐ 2,571 | 2026-10-09 | 🗺️ Generate City 3D map with R3F. Include building and road information. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [makecindy/cindy](../repos/makecindy/cindy.md) | ⭐ 8,006 | 2026-10-09 | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [CopilotKit/OpenIntelligentUI](../repos/CopilotKit/OpenIntelligentUI.md) | ⭐ 3,040 | 2026-10-11 | Open-Source Generative UI Framework |
@@ -70,7 +61,7 @@
 | [getnao/nao](../repos/getnao/nao.md) | ⭐ 1,913 | 2026-10-11 | 👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao ch... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ranxianglei/billion-context](../repos/ranxianglei/billion-context.md) | ⭐ 4,562 | 2026-10-12 | A context-compression plugin for month-long single sessions (billions of tokens) ,small context w... |
+| [ranxianglei/billion-context](../repos/ranxianglei/billion-context.md) | ⭐ 5,059 | 2026-10-12 | A context-compression plugin for month-long single sessions (billions of tokens) ,small context w... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [wuwangzhang1216/ChinaTextbookStudyFree](../repos/wuwangzhang1216/ChinaTextbookStudyFree.md) | ⭐ 863 | 2026-10-12 | 给所有中国小学生打造的免费学习平台，从一年级到六年级所有的课本知识点全汇总。 |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Twigpine/openclaude](../repos/Twigpine/openclaude.md) | ⭐ 33,827 | 2026-10-13 | runs anywhere. uses anything |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [nestjs/nest](../repos/nestjs/nest.md) | ⭐ 76,848 | 2026-10-14 | A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-sid... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [SegFault42/HeliosGen](../repos/SegFault42/HeliosGen.md) | ⭐ 3,142 | 2026-10-15 | 🏆 Self Hosted Gen AI desktop app. Free alternative to Higgsfield, OpenArt, Freepik.... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ErTasselli/OpenTerminal](../repos/ErTasselli/OpenTerminal.md) | ⭐ 1,743 | 2026-10-15 | A Terminal-style trading dashboard built entirely on free public market data. No API keys, no sub... |
 
 
 ---
@@ -105,7 +105,7 @@
 | [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 108,379 | 2026-08-23 | 2 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 101,466 | 2026-08-04 | 6 |
 | [microsoft/playwright](../repos/microsoft/playwright.md) | ⭐ 98,817 | 2026-10-15 | 2 |
-| [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 98,401 | 2026-08-04 | 5 |
+| [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 98,649 | 2026-08-04 | 6 |
 | [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | 2026-08-22 | 1 |
 | [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) | ⭐ 91,672 | 2026-08-14 | 4 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-07T21:00:59.916Z*
+*Last updated: 2026-11-08T21:00:56.223Z*

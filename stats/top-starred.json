@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T21:01:07.661Z",
+  "generated_at": "2026-11-08T21:01:03.780Z",
   "total_count": 100,
   "repositories": [
     {
@@ -174,6 +174,16 @@
     },
     {
       "rank": 18,
+      "full_name": "anthropics/skills",
+      "owner": "anthropics",
+      "name": "skills",
+      "stars": 189502,
+      "language": "Python",
+      "first_seen": "2026-08-11",
+      "trending_days": 10
+    },
+    {
+      "rank": 19,
       "full_name": "microsoft/markitdown",
       "owner": "microsoft",
       "name": "markitdown",
@@ -181,16 +191,6 @@
       "language": "Python",
       "first_seen": "2026-09-07",
       "trending_days": 3
-    },
-    {
-      "rank": 19,
-      "full_name": "anthropics/skills",
-      "owner": "anthropics",
-      "name": "skills",
-      "stars": 188672,
-      "language": "Python",
-      "first_seen": "2026-08-11",
-      "trending_days": 9
     },
     {
       "rank": 20,
@@ -704,32 +704,32 @@
     },
     {
       "rank": 71,
-      "full_name": "ruvnet/RuView",
-      "owner": "ruvnet",
-      "name": "RuView",
-      "stars": 101543,
-      "language": "Rust",
-      "first_seen": "2026-08-09",
-      "trending_days": 21
+      "full_name": "sherlock-project/sherlock",
+      "owner": "sherlock-project",
+      "name": "sherlock",
+      "stars": 103128,
+      "language": "Python",
+      "first_seen": "2026-08-02",
+      "trending_days": 7
     },
     {
       "rank": 72,
+      "full_name": "ruvnet/RuView",
+      "owner": "ruvnet",
+      "name": "RuView",
+      "stars": 103048,
+      "language": "Rust",
+      "first_seen": "2026-08-09",
+      "trending_days": 22
+    },
+    {
+      "rank": 73,
       "full_name": "angular/angular",
       "owner": "angular",
       "name": "angular",
       "stars": 101466,
       "language": "TypeScript",
       "first_seen": "2026-08-04",
-      "trending_days": 6
-    },
-    {
-      "rank": 73,
-      "full_name": "sherlock-project/sherlock",
-      "owner": "sherlock-project",
-      "name": "sherlock",
-      "stars": 100258,
-      "language": "Python",
-      "first_seen": "2026-08-02",
       "trending_days": 6
     },
     {
@@ -747,13 +747,23 @@
       "full_name": "tailwindlabs/tailwindcss",
       "owner": "tailwindlabs",
       "name": "tailwindcss",
-      "stars": 98401,
+      "stars": 98649,
       "language": "TypeScript",
       "first_seen": "2026-08-04",
-      "trending_days": 5
+      "trending_days": 6
     },
     {
       "rank": 76,
+      "full_name": "localsend/localsend",
+      "owner": "localsend",
+      "name": "localsend",
+      "stars": 97927,
+      "language": "Dart",
+      "first_seen": "2026-08-02",
+      "trending_days": 37
+    },
+    {
+      "rank": 77,
       "full_name": "NationalSecurityAgency/ghidra",
       "owner": "NationalSecurityAgency",
       "name": "ghidra",
@@ -761,16 +771,6 @@
       "language": "Java",
       "first_seen": "2026-08-03",
       "trending_days": 30
-    },
-    {
-      "rank": 77,
-      "full_name": "localsend/localsend",
-      "owner": "localsend",
-      "name": "localsend",
-      "stars": 97741,
-      "language": "Dart",
-      "first_seen": "2026-08-02",
-      "trending_days": 36
     },
     {
       "rank": 78,

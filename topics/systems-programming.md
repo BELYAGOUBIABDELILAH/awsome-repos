@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 2846
+- **Total Repositories**: 2857
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-02
-- **Average Stars**: 15809
+- **Average Stars**: 15792
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,384 | C++ |  |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,503 | C# |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 195,138 | TypeScript |  |
+| [akaunting/akaunting](../repos/akaunting/akaunting.md) | ⭐ 10,289 | PHP |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 121,599 | Rust |  |
+| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 48,059 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,907 | Rust |  |
+| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 50,426 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 91,737 | Rust |  |
+| [opf/openproject](../repos/opf/openproject.md) | ⭐ 17,130 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 70,243 | JavaScript |  |
+| [spree/spree](../repos/spree/spree.md) | ⭐ 15,818 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 39,102 | Go |  |
+| [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | ⭐ 39,336 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 140,695 | C |  |
+| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 9,072 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,501 | C# |  |
+| [apache/gluten](../repos/apache/gluten.md) | ⭐ 1,618 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 48,056 | Ruby |  |
+| [scala/scala3](../repos/scala/scala3.md) | ⭐ 6,336 | Scala |  |
 
 
 ---
@@ -105,38 +105,42 @@
 
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [headroomlabs-ai/headroom](../repos/headroomlabs-ai/headroom.md) | ⭐ 77,547 | Python | 2026-10-09 |
+| [XiaoYouChR/Ghost-Downloader-3](../repos/XiaoYouChR/Ghost-Downloader-3.md) | ⭐ 10,852 | Python | 2026-10-11 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [hiroi-sora/Umi-OCR](../repos/hiroi-sora/Umi-OCR.md) | ⭐ 47,729 | Python | 2026-10-09 |
+| [MagicMirrorOrg/MagicMirror](../repos/MagicMirrorOrg/MagicMirror.md) | ⭐ 24,088 | JavaScript | 2026-10-11 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [chuspeeism/dashi-taskboard](../repos/chuspeeism/dashi-taskboard.md) | ⭐ 3,313 | JavaScript | 2026-10-09 |
+| [CopilotKit/OpenIntelligentUI](../repos/CopilotKit/OpenIntelligentUI.md) | ⭐ 3,040 | TypeScript | 2026-10-11 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [songquanpeng/one-api](../repos/songquanpeng/one-api.md) | ⭐ 37,105 | JavaScript | 2026-10-09 |
+| [chthollyphile/folia-major](../repos/chthollyphile/folia-major.md) | ⭐ 10,204 | TypeScript | 2026-10-11 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [VERT-sh/VERT](../repos/VERT-sh/VERT.md) | ⭐ 15,807 | TypeScript | 2026-10-09 |
+| [getnao/nao](../repos/getnao/nao.md) | ⭐ 1,913 | TypeScript | 2026-10-11 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [cartesiancs/map3d](../repos/cartesiancs/map3d.md) | ⭐ 2,571 | TypeScript | 2026-10-09 |
+| [BrandonKowalski/slot](../repos/BrandonKowalski/slot.md) | ⭐ 131 | Rust | 2026-10-11 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [makecindy/cindy](../repos/makecindy/cindy.md) | ⭐ 8,006 | TypeScript | 2026-10-09 |
+| [Autumn-27/ScopeSentry](../repos/Autumn-27/ScopeSentry.md) | ⭐ 1,811 | Go | 2026-10-11 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [Agent-Field/CodeAF](../repos/Agent-Field/CodeAF.md) | ⭐ 370 | Go | 2026-10-09 |
+| [dockersamples/example-voting-app](../repos/dockersamples/example-voting-app.md) | ⭐ 5,844 | C# | 2026-10-11 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [DamRsn/NeuralNote](../repos/DamRsn/NeuralNote.md) | ⭐ 3,381 | C++ | 2026-10-09 |
+| [femiwiki/docker-mediawiki](../repos/femiwiki/docker-mediawiki.md) | ⭐ 33 | PHP | 2026-10-11 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [studyzy/imewlconverter](../repos/studyzy/imewlconverter.md) | ⭐ 10,488 | C# | 2026-10-09 |
+| [OpenVK/openvk](../repos/OpenVK/openvk.md) | ⭐ 553 | PHP | 2026-10-11 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-11-08](../archive/2026/11/2026-11-08.md)
+- 155 repositories trending
+- Top: sherlock-project&#x2F;sherlock
 
 ### [2026-11-07](../archive/2026/11/2026-11-07.md)
 - 199 repositories trending
@@ -171,13 +175,13 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 79 days | 2026-08-01 | 2026-11-07 |
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 79 days | 2026-08-01 | 2026-11-07 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 76 days | 2026-08-01 | 2026-11-07 |
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 76 days | 2026-08-01 | 2026-11-07 |
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 75 days | 2026-08-01 | 2026-11-07 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 74 days | 2026-08-01 | 2026-11-07 |
-| [vlang/v](../repos/vlang/v.md) | 73 days | 2026-08-01 | 2026-11-07 |
+| [apache/spark](../repos/apache/spark.md) | 80 days | 2026-08-01 | 2026-11-08 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 80 days | 2026-08-01 | 2026-11-08 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 77 days | 2026-08-01 | 2026-11-08 |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 77 days | 2026-08-01 | 2026-11-08 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 76 days | 2026-08-01 | 2026-11-08 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 75 days | 2026-08-01 | 2026-11-08 |
+| [vlang/v](../repos/vlang/v.md) | 74 days | 2026-08-01 | 2026-11-08 |
 | [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 71 days | 2026-08-01 | 2026-11-07 |
 | [penpot/penpot](../repos/penpot/penpot.md) | 69 days | 2026-08-01 | 2026-11-07 |
 | [emqx/emqx](../repos/emqx/emqx.md) | 68 days | 2026-08-01 | 2026-11-07 |
@@ -188,15 +192,15 @@
 
 ### Language Breakdown
 - **Go**: 275 repositories (10%)
-- **TypeScript**: 213 repositories (7%)
-- **Python**: 212 repositories (7%)
+- **TypeScript**: 217 repositories (8%)
+- **Python**: 214 repositories (7%)
 - **C++**: 198 repositories (7%)
-- **Rust**: 185 repositories (7%)
+- **Rust**: 185 repositories (6%)
 
 ### Trending Frequency
-- **Daily Average**: 234.1 repositories
+- **Daily Average**: 233.2 repositories
 - **Peak Day**: 2026-08-19 (383 repositories)
-- **Growth Rate**: 13% this month
+- **Growth Rate**: 12% this month
 
 ---
 
@@ -310,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-11-07T21:00:59.686Z*
+*Last updated: 2026-11-08T21:00:55.876Z*

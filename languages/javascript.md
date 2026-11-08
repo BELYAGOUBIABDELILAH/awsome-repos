@@ -16,43 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 70,243 | 2026-08-01 | 21 |
+| [4ian/GDevelop](../repos/4ian/GDevelop.md) | ⭐ 28,610 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 14,607 | 2026-08-02 | 32 |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 33,371 | 2026-08-08 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [react/react](../repos/react/react.md) | ⭐ 252,361 | 2026-08-04 | 7 |
+| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | ⭐ 38,851 | 2026-08-16 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 32,983 | 2026-08-08 | 15 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 65,493 | 2026-08-28 | 17 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Yu9191/wloc](../repos/Yu9191/wloc.md) | ⭐ 10,666 | 2026-09-07 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [babygoton/WorkDaddy](../repos/babygoton/WorkDaddy.md) | ⭐ 2,795 | 2026-11-07 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [cobusgreyling/grok-bot-templates](../repos/cobusgreyling/grok-bot-templates.md) | ⭐ 105 | 2026-11-07 | 1 |
+| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 66,715 | 2026-08-28 | 18 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [chuspeeism/dashi-taskboard](../repos/chuspeeism/dashi-taskboard.md) | ⭐ 3,313 | 2026-10-09 | 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [chaolucky18/xuexitongScript](../repos/chaolucky18/xuexitongScript.md) | ⭐ 3,807 | 2026-10-09 | 学习通自动刷课脚本 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [songquanpeng/one-api](../repos/songquanpeng/one-api.md) | ⭐ 37,105 | 2026-10-09 | LLM API 管理 &amp; 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [MagicMirrorOrg/MagicMirror](../repos/MagicMirrorOrg/MagicMirror.md) | ⭐ 24,088 | 2026-10-11 | MagicMirror² is an open source modular smart mirror platform. With a growing list of installable ... |
@@ -74,6 +53,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [michael-denyer/pstack-claude](../repos/michael-denyer/pstack-claude.md) | ⭐ 4,042 | 2026-10-16 | Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [superdesigndev/superdesign-skill](../repos/superdesigndev/superdesign-skill.md) | ⭐ 812 | 2026-10-16 | The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [guoyue2010/lxmusic-](../repos/guoyue2010/lxmusic-.md) | ⭐ 6,466 | 2026-10-18 | lxmusic(洛雪音乐)全网最新最全音源 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [YuJunZhiXue/dsh-purge](../repos/YuJunZhiXue/dsh-purge.md) | ⭐ 13,038 | 2026-10-19 | DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts... |
 
 
 ---
@@ -95,8 +83,8 @@
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 77,000 | 2026-08-09 | 2 |
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 70,243 | 2026-08-01 | 21 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,576 | 2026-08-04 | 4 |
+| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 66,715 | 2026-08-28 | 18 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,980 | 2026-08-04 | 4 |
-| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 65,493 | 2026-08-28 | 17 |
 | [jgraph/drawio-desktop](../repos/jgraph/drawio-desktop.md) | ⭐ 63,817 | 2026-11-04 | 1 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,346 | 2026-08-11 | 4 |
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 60,381 | 2026-08-27 | 14 |
@@ -113,12 +101,12 @@
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 32 | ⭐ 14,607 | 2026-08-02 | 2026-11-07 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 22 | ⭐ 90,383 | 2026-08-04 | 2026-10-27 |
 | [byoungd/up](../repos/byoungd/up.md) | 21 | ⭐ 70,243 | 2026-08-01 | 2026-11-07 |
-| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | 17 | ⭐ 65,493 | 2026-08-28 | 2026-11-07 |
+| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | 18 | ⭐ 66,715 | 2026-08-28 | 2026-11-08 |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 16 | ⭐ 33,371 | 2026-08-08 | 2026-11-08 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
-| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 15 | ⭐ 32,983 | 2026-08-08 | 2026-11-07 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 14 | ⭐ 143,323 | 2026-07-30 | 2026-11-04 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 14 | ⭐ 5,119 | 2026-08-07 | 2026-10-20 |
-| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | 14 | ⭐ 60,381 | 2026-08-27 | 2026-10-26 |
+| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | 14 | ⭐ 38,851 | 2026-08-16 | 2026-11-08 |
 
 ---
 
@@ -174,7 +162,7 @@
 - [usebruno/bruno](../repos/usebruno/bruno.md) - Opensource IDE For Exploring and Testing API&#39;s (lightweight alternative to Postman&#x2F;Insomnia)
 - [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) - A browser based code editor
 - [wwebjs/whatsapp-web.js](../repos/wwebjs/whatsapp-web.js.md) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
-- [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) - Unrestricted Open-source alternative to AI video platforms — Free AI image &amp; video generation stu...
+- [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) - Uncensored Open-source alternative to AI video platforms — Free AI image &amp; video generation studi...
 - [OpenSenseNova/SenseNova-Skills](../repos/OpenSenseNova/SenseNova-Skills.md) - Modular SenseNova skills for building AI-powered office assistants and productivity workflows
 - [jo-inc/camofox-browser](../repos/jo-inc/camofox-browser.md) - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Dro...
 - [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) - The iconic SVG, font, and CSS toolkit
@@ -227,4 +215,4 @@
 
 ---
 
-*Last updated: 2026-11-07T21:00:59.866Z*
+*Last updated: 2026-11-08T21:00:56.130Z*

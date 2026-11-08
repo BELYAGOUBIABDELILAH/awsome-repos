@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,501 | 2026-08-01 | 23 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,503 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 14,897 | 2026-08-01 | 21 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 33,406 | 2026-08-02 | 41 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 33,276 | 2026-08-02 | 40 |
+| [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) | ⭐ 6,928 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lostindark/DriverStoreExplorer](../repos/lostindark/DriverStoreExplorer.md) | ⭐ 12,107 | 2026-08-02 | 7 |
+| [AssetRipper/AssetRipper](../repos/AssetRipper/AssetRipper.md) | ⭐ 8,876 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,851 | 2026-08-03 | 40 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 17,801 | 2026-08-02 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 40,764 | 2026-08-14 | 7 |
+| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,436 | 2026-08-10 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Unity-Technologies/ml-agents](../repos/Unity-Technologies/ml-agents.md) | ⭐ 19,846 | 2026-08-19 | 4 |
+| [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 40,836 | 2026-08-14 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tianyu199509/DeskBox](../repos/Tianyu199509/DeskBox.md) | ⭐ 8,596 | 2026-09-27 | 9 |
+| [Revolutionary-Games/Thrive](../repos/Revolutionary-Games/Thrive.md) | ⭐ 3,850 | 2026-08-19 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MoFeng2223/BrimDeck](../repos/MoFeng2223/BrimDeck.md) | ⭐ 504 | 2026-11-06 | 2 |
+| [snownico0722/PaperTodo](../repos/snownico0722/PaperTodo.md) | ⭐ 2,728 | 2026-08-19 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [builtbybel/Bloatynosy](../repos/builtbybel/Bloatynosy.md) | ⭐ 5,827 | 2026-11-07 | 1 |
+| [Orbmu2k/nvidiaProfileInspector](../repos/Orbmu2k/nvidiaProfileInspector.md) | ⭐ 7,558 | 2026-08-23 | 6 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [pearlxcore/PS4PKGTool](../repos/pearlxcore/PS4PKGTool.md) | ⭐ 539 | 2026-10-09 | Manage and perform various operations on PS4 PKG.  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [studyzy/imewlconverter](../repos/studyzy/imewlconverter.md) | ⭐ 10,488 | 2026-10-09 | ”深蓝词库转换“ 一款开源免费的输入法词库转换程序 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ss14Starlight/space-station-14](../repos/ss14Starlight/space-station-14.md) | ⭐ 132 | 2026-10-11 | An open source project aimed at creating unique mechanics and a pleasant game atmosphere in the g... |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Interkarma/daggerfall-unity](../repos/Interkarma/daggerfall-unity.md) | ⭐ 3,535 | 2026-10-18 | Open source recreation of Daggerfall in the Unity engine |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ANYNC/TaskbarLyrics](../repos/ANYNC/TaskbarLyrics.md) | ⭐ 406 | 2026-10-18 |  Windows 任务栏歌词工具 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [zqq-699/BlockHelm-Launcher](../repos/zqq-699/BlockHelm-Launcher.md) | ⭐ 264 | 2026-10-25 | 简洁现代的 Minecraft Java 版启动器，支持实例、资源与账户管理。 |
 
 
 ---
@@ -92,16 +92,16 @@
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 58,750 | 2026-08-02 | 24 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 56,028 | 2026-08-06 | 22 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,351 | 2026-08-01 | 17 |
-| [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 40,764 | 2026-08-14 | 7 |
+| [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 40,836 | 2026-08-14 | 8 |
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 39,115 | 2026-08-03 | 14 |
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,501 | 2026-08-01 | 23 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 33,276 | 2026-08-02 | 40 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,503 | 2026-08-01 | 24 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 33,406 | 2026-08-02 | 41 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,757 | 2026-08-01 | 23 |
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 32,177 | 2026-08-22 | 6 |
 | [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,082 | 2026-08-28 | 4 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
 | [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,740 | 2026-08-05 | 15 |
-| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,124 | 2026-08-10 | 7 |
+| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,436 | 2026-08-10 | 8 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,954 | 2026-08-01 | 13 |
 | [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,527 | 2026-08-02 | 9 |
 | [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 25,660 | 2026-08-27 | 10 |
@@ -115,13 +115,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 40 | ⭐ 33,276 | 2026-08-02 | 2026-11-07 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 41 | ⭐ 33,406 | 2026-08-02 | 2026-11-08 |
 | [dotnet/skills](../repos/dotnet/skills.md) | 40 | ⭐ 5,851 | 2026-08-03 | 2026-11-07 |
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 33 | ⭐ 119,845 | 2026-08-02 | 2026-11-03 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 25 | ⭐ 17,801 | 2026-08-02 | 2026-11-08 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 24 | ⭐ 38,503 | 2026-08-01 | 2026-11-08 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 24 | ⭐ 58,750 | 2026-08-02 | 2026-10-28 |
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 24 | ⭐ 17,296 | 2026-08-02 | 2026-10-28 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 23 | ⭐ 32,757 | 2026-08-01 | 2026-10-29 |
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 23 | ⭐ 38,501 | 2026-08-01 | 2026-11-07 |
 | [dotnet/runtime](../repos/dotnet/runtime.md) | 22 | ⭐ 18,413 | 2026-08-04 | 2026-11-06 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | 22 | ⭐ 56,028 | 2026-08-06 | 2026-11-05 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 21 | ⭐ 3,827 | 2026-08-01 | 2026-11-03 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-07T21:00:59.826Z*
+*Last updated: 2026-11-08T21:00:56.061Z*

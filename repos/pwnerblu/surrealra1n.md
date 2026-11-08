@@ -1,6 +1,6 @@
 # pwnerblu&#x2F;surrealra1n
 
-> Tether downgrade tool (iOS 7.0-17.6.1) for some checkm8&#x2F;usbliter8 64bit devices. Some restores may utilize seprmvr64 by Mineek.
+> Tethered downgrade tool for macOS&#x2F;Linux (A7-A13, iOS 7.0-17.6.1). Some restores may utilize seprmvr64 by Mineek.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;pwnerblu&#x2F;surrealra1n) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Shell |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 248 |
-| **Forks** | 🍴 37 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 349 |
+| **Forks** | 🍴 58 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 16, 2026 |
-| **Last Seen** | Aug 19, 2026 |
+| **Last Seen** | Nov 8, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 1 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 35&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-07T21:01:04.395Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-11-08T21:01:00.866Z*  
+*Data from 3 trending reports*

@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 121,599 | 2026-07-30 | 13 |
+| [wealthfolio/wealthfolio](../repos/wealthfolio/wealthfolio.md) | ⭐ 9,382 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,907 | 2026-07-30 | 5 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 47,501 | 2026-08-02 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 91,737 | 2026-07-31 | 8 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 103,048 | 2026-08-09 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 46,729 | 2026-08-02 | 18 |
+| [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 51,108 | 2026-08-12 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rivet-dev/rivet](../repos/rivet-dev/rivet.md) | ⭐ 6,779 | 2026-08-08 | 5 |
+| [storytold/artcraft](../repos/storytold/artcraft.md) | ⭐ 39,862 | 2026-10-06 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 50,939 | 2026-08-12 | 6 |
+| [GCWing/OpenBitFun](../repos/GCWing/OpenBitFun.md) | ⭐ 3,974 | 2026-10-17 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [windmill-labs/windmill](../repos/windmill-labs/windmill.md) | ⭐ 18,458 | 2026-08-22 | 5 |
+| [jub0t/Concat](../repos/jub0t/Concat.md) | ⭐ 15,685 | 2026-10-29 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 11,934 | 2026-08-26 | 20 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [longbridge/gpui-kit](../repos/longbridge/gpui-kit.md) | ⭐ 19,815 | 2026-09-04 | 13 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [serde-rs/serde](../repos/serde-rs/serde.md) | ⭐ 11,056 | 2026-11-07 | 1 |
+| [herdrdev/herdr](../repos/herdrdev/herdr.md) | ⭐ 49,394 | 2026-11-03 | 2 |
 
 
 ---
@@ -67,7 +61,7 @@
 | [pollen-robotics/microduck](../repos/pollen-robotics/microduck.md) | ⭐ 12,745 | 2026-10-16 | A Tiny biped duck robot 🦆 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [GCWing/OpenBitFun](../repos/GCWing/OpenBitFun.md) | ⭐ 2,852 | 2026-10-17 | OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop appl... |
+| [GCWing/OpenBitFun](../repos/GCWing/OpenBitFun.md) | ⭐ 3,974 | 2026-10-17 | OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop appl... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [foundry-rs/foundry](../repos/foundry-rs/foundry.md) | ⭐ 10,767 | 2026-10-17 | Foundry is a blazing fast, portable and modular toolkit for Ethereum application development writ... |
@@ -92,7 +86,7 @@
 | [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 121,599 | 2026-07-30 | 13 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,907 | 2026-07-30 | 5 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 103,801 | 2026-08-05 | 29 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 101,543 | 2026-08-09 | 21 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 103,048 | 2026-08-09 | 22 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 96,635 | 2026-08-11 | 10 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 91,737 | 2026-07-31 | 8 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
@@ -102,10 +96,10 @@
 | [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 64,099 | 2026-08-03 | 2 |
 | [rust-unofficial/awesome-rust](../repos/rust-unofficial/awesome-rust.md) | ⭐ 59,459 | 2026-09-03 | 3 |
 | [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 55,699 | 2026-08-19 | 6 |
-| [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 50,939 | 2026-08-12 | 6 |
+| [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 51,108 | 2026-08-12 | 7 |
+| [herdrdev/herdr](../repos/herdrdev/herdr.md) | ⭐ 49,394 | 2026-11-03 | 2 |
 | [bevyengine/bevy](../repos/bevyengine/bevy.md) | ⭐ 48,449 | 2026-08-28 | 3 |
-| [herdrdev/herdr](../repos/herdrdev/herdr.md) | ⭐ 47,738 | 2026-11-03 | 1 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 46,729 | 2026-08-02 | 18 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 47,501 | 2026-08-02 | 19 |
 | [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 46,418 | 2026-08-28 | 2 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 45,552 | 2026-08-05 | 11 |
 
@@ -117,10 +111,10 @@
 |------------|---------------|-------|------------|-----------|
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 29 | ⭐ 103,801 | 2026-08-05 | 2026-11-05 |
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 22 | ⭐ 24,202 | 2026-08-08 | 2026-10-25 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 21 | ⭐ 101,543 | 2026-08-09 | 2026-10-29 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 22 | ⭐ 103,048 | 2026-08-09 | 2026-11-08 |
 | [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 20 | ⭐ 11,934 | 2026-08-26 | 2026-11-07 |
 | [openai/codex](../repos/openai/codex.md) | 19 | ⭐ 133,337 | 2026-08-01 | 2026-11-05 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 18 | ⭐ 46,729 | 2026-08-02 | 2026-11-07 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 19 | ⭐ 47,501 | 2026-08-02 | 2026-11-08 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 17 | ⭐ 29,069 | 2026-08-01 | 2026-11-04 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 17 | ⭐ 42,354 | 2026-08-10 | 2026-10-26 |
 | [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | 16 | ⭐ 12,999 | 2026-08-17 | 2026-10-23 |
@@ -233,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-11-07T21:00:59.904Z*
+*Last updated: 2026-11-08T21:00:56.201Z*

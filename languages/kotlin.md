@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 175
+- **Total Repositories**: 176
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-02
+- **Last Updated**: 2026-11-08
 
 ---
 
@@ -16,43 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bmax121/APatch](../repos/bmax121/APatch.md) | ⭐ 8,136 | 2026-08-02 | 7 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 65,554 | 2026-08-02 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | ⭐ 8,709 | 2026-08-02 | 14 |
+| [AAswordman/Operit](../repos/AAswordman/Operit.md) | ⭐ 9,462 | 2026-08-03 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 44,223 | 2026-08-03 | 18 |
+| [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) | ⭐ 2,210 | 2026-08-04 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AAswordman/Operit](../repos/AAswordman/Operit.md) | ⭐ 9,427 | 2026-08-03 | 9 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 33,166 | 2026-08-08 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitwarden/android](../repos/bitwarden/android.md) | ⭐ 9,602 | 2026-08-05 | 9 |
+| [SukiSU-Ultra/SukiSU-Ultra](../repos/SukiSU-Ultra/SukiSU-Ultra.md) | ⭐ 6,993 | 2026-08-09 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 33,060 | 2026-08-08 | 21 |
+| [ProtonVPN/android-app](../repos/ProtonVPN/android-app.md) | ⭐ 4,272 | 2026-08-28 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SukiSU-Ultra/SukiSU-Ultra](../repos/SukiSU-Ultra/SukiSU-Ultra.md) | ⭐ 6,972 | 2026-08-09 | 14 |
+| [YuKongA/ghostlock-app](../repos/YuKongA/ghostlock-app.md) | ⭐ 2,815 | 2026-10-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YuKongA/ghostlock-app](../repos/YuKongA/ghostlock-app.md) | ⭐ 2,783 | 2026-10-01 | 9 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Ackites/Nrfr](../repos/Ackites/Nrfr.md) | ⭐ 9,497 | 2026-10-13 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [realidkroo/Mochy-Music](../repos/realidkroo/Mochy-Music.md) | ⭐ 1,070 | 2026-10-28 | 8 |
+| [roro2239/Stellar](../repos/roro2239/Stellar.md) | ⭐ 1,821 | 2026-11-08 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [HaoZai000/NexioSchedule](../repos/HaoZai000/NexioSchedule.md) | ⭐ 151 | 2026-10-09 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [BuSung-dev/Root-My-Galaxy](../repos/BuSung-dev/Root-My-Galaxy.md) | ⭐ 1,584 | 2026-10-11 | KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499 |
@@ -80,6 +71,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [android/architecture-samples](../repos/android/architecture-samples.md) | ⭐ 45,876 | 2026-10-14 | A collection of samples to discuss and showcase different architectural tools and patterns for An... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Spotui/Spotui](../repos/Spotui/Spotui.md) | ⭐ 652 | 2026-10-14 | Spotify clone with deep integration  |
 
 
 ---
@@ -88,13 +82,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 65,199 | 2026-08-02 | 22 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 65,554 | 2026-08-02 | 23 |
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 63,713 | 2026-08-03 | 17 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 56,380 | 2026-08-06 | 17 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,539 | 2026-08-04 | 14 |
 | [android/architecture-samples](../repos/android/architecture-samples.md) | ⭐ 45,876 | 2026-10-14 | 2 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 44,223 | 2026-08-03 | 18 |
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 33,060 | 2026-08-08 | 21 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 33,166 | 2026-08-08 | 22 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,537 | 2026-08-05 | 8 |
 | [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 28,342 | 2026-08-11 | 5 |
 | [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 25,103 | 2026-08-12 | 10 |
@@ -115,16 +109,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 22 | ⭐ 65,199 | 2026-08-02 | 2026-11-02 |
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 21 | ⭐ 33,060 | 2026-08-08 | 2026-11-07 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 23 | ⭐ 65,554 | 2026-08-02 | 2026-11-08 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 22 | ⭐ 33,166 | 2026-08-08 | 2026-11-08 |
 | [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 19 | ⭐ 3,038 | 2026-08-02 | 2026-10-26 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 18 | ⭐ 24,746 | 2026-08-01 | 2026-10-26 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | 18 | ⭐ 44,223 | 2026-08-03 | 2026-11-07 |
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 17 | ⭐ 63,713 | 2026-08-03 | 2026-11-02 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 17 | ⭐ 56,380 | 2026-08-06 | 2026-11-04 |
+| [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) | 15 | ⭐ 2,210 | 2026-08-04 | 2026-11-08 |
+| [SukiSU-Ultra/SukiSU-Ultra](../repos/SukiSU-Ultra/SukiSU-Ultra.md) | 15 | ⭐ 6,993 | 2026-08-09 | 2026-11-08 |
 | [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | 15 | ⭐ 5,955 | 2026-10-12 | 2026-11-06 |
-| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | 14 | ⭐ 8,709 | 2026-08-02 | 2026-11-07 |
-| [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | 14 | ⭐ 11,766 | 2026-08-02 | 2026-10-20 |
 
 ---
 
@@ -233,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-11-07T21:00:59.872Z*
+*Last updated: 2026-11-08T21:00:56.143Z*

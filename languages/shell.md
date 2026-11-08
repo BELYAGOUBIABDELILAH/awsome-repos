@@ -16,43 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,766 | 2026-08-01 | 49 |
+| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 2,197 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 2,190 | 2026-08-01 | 12 |
+| [InfinityLoop1308/PipePipe](../repos/InfinityLoop1308/PipePipe.md) | ⭐ 7,211 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nyldn/claude-octopus](../repos/nyldn/claude-octopus.md) | ⭐ 4,407 | 2026-08-06 | 8 |
+| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 22,309 | 2026-08-07 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 19,730 | 2026-08-08 | 9 |
+| [pwnerblu/surrealra1n](../repos/pwnerblu/surrealra1n.md) | ⭐ 349 | 2026-08-16 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [assafdori/bypass-mdm](../repos/assafdori/bypass-mdm.md) | ⭐ 2,601 | 2026-08-08 | 11 |
+| [bivlked/amneziawg-installer](../repos/bivlked/amneziawg-installer.md) | ⭐ 1,507 | 2026-08-25 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 8,663 | 2026-08-12 | 23 |
+| [juewuy/ShellCrash](../repos/juewuy/ShellCrash.md) | ⭐ 13,664 | 2026-08-27 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wondelai/skills](../repos/wondelai/skills.md) | ⭐ 2,625 | 2026-08-14 | 5 |
+| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 46,583 | 2026-08-29 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | ⭐ 3,781 | 2026-08-19 | 15 |
+| [pystardust/ani-cli](../repos/pystardust/ani-cli.md) | ⭐ 14,107 | 2026-09-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 46,498 | 2026-08-29 | 15 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [wlzh/dji-4g-vohive-mac](../repos/wlzh/dji-4g-vohive-mac.md) | ⭐ 1,194 | 2026-09-21 | 2 |
+| [liandu2024/Open-Box](../repos/liandu2024/Open-Box.md) | ⭐ 2,631 | 2026-10-22 | 6 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [conda-forge/miniforge](../repos/conda-forge/miniforge.md) | ⭐ 10,341 | 2026-10-09 | A conda-forge distribution. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [EpicGames/unreal-engine-skills-for-claude-code-plugin](../repos/EpicGames/unreal-engine-skills-for-claude-code-plugin.md) | ⭐ 1,872 | 2026-10-11 |  |
@@ -80,6 +74,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [sorin-ionescu/prezto](../repos/sorin-ionescu/prezto.md) | ⭐ 14,576 | 2026-10-20 | The configuration framework for Zsh |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [auscaster/frantic-board](../repos/auscaster/frantic-board.md) | ⭐ 642 | 2026-10-21 | HELP WANTED: AI AGENTS. Real bounties, real money, every payout sealed to a public ledger. The no... |
 
 
 ---
@@ -95,7 +92,7 @@
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,702 | 2026-08-06 | 15 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,855 | 2026-08-04 | 13 |
-| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 46,498 | 2026-08-29 | 15 |
+| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 46,583 | 2026-08-29 | 16 |
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
 | [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,866 | 2026-08-20 | 13 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 33,123 | 2026-08-02 | 22 |
@@ -103,7 +100,7 @@
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
 | [lxgw/LxgwWenKai](../repos/lxgw/LxgwWenKai.md) | ⭐ 26,857 | 2026-11-07 | 1 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 26,341 | 2026-08-04 | 13 |
-| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 22,275 | 2026-08-07 | 10 |
+| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 22,309 | 2026-08-07 | 11 |
 | [lewagon/dotfiles](../repos/lewagon/dotfiles.md) | ⭐ 21,783 | 2026-08-25 | 1 |
 | [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
 | [agarrharr/awesome-cli-apps](../repos/agarrharr/awesome-cli-apps.md) | ⭐ 20,600 | 2026-11-04 | 1 |
@@ -121,10 +118,10 @@
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
 | [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | 16 | ⭐ 10,992 | 2026-08-07 | 2026-11-05 |
 | [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | 16 | ⭐ 1,623 | 2026-08-20 | 2026-11-06 |
+| [omacom/omarchy](../repos/omacom/omarchy.md) | 16 | ⭐ 46,583 | 2026-08-29 | 2026-11-08 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 15 | ⭐ 3,172 | 2026-08-05 | 2026-10-25 |
 | [dockur/windows](../repos/dockur/windows.md) | 15 | ⭐ 53,702 | 2026-08-06 | 2026-10-27 |
 | [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | 15 | ⭐ 3,781 | 2026-08-19 | 2026-11-07 |
-| [omacom/omarchy](../repos/omacom/omarchy.md) | 15 | ⭐ 46,498 | 2026-08-29 | 2026-11-07 |
 
 ---
 
@@ -201,7 +198,7 @@
 - [ROCm/ROCm](../repos/ROCm/ROCm.md) - AMD ROCm™ Software - GitHub Home
 - [PrismML-Eng/Bonsai-demo](../repos/PrismML-Eng/Bonsai-demo.md) - Bonsai Demo
 - [Security-Onion-Solutions/securityonion](../repos/Security-Onion-Solutions/securityonion.md) - Security Onion is a free and open platform for threat hunting, enterprise security monitoring, an...
-- [pwnerblu/surrealra1n](../repos/pwnerblu/surrealra1n.md) - Tether downgrade tool (iOS 7.0-17.6.1) for some checkm8&#x2F;usbliter8 64bit devices. Some restores ma...
+- [pwnerblu/surrealra1n](../repos/pwnerblu/surrealra1n.md) - Tethered downgrade tool for macOS&#x2F;Linux (A7-A13, iOS 7.0-17.6.1). Some restores may utilize seprm...
 - [Sergeydigl3/zapret-discord-youtube-linux](../repos/Sergeydigl3/zapret-discord-youtube-linux.md) - Port zapret-discord-youtube from Flowseal and bol-van for easy to use on linux
 - [SHORiN-KiWATA/Shorin-ArchLinux-Guide](../repos/SHORiN-KiWATA/Shorin-ArchLinux-Guide.md) - 【2026最适合新手的Arch Linux教程】具体内容包括：系统安装教程、win+linux双系统、N卡驱动、桌面环境、中文输入法、Linux玩游戏、常用虚拟机程序、显卡直通、干净删除linux等。
 - [vinceliuice/grub2-themes](../repos/vinceliuice/grub2-themes.md) - Modern Design theme for Grub2
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-11-07T21:00:59.909Z*
+*Last updated: 2026-11-08T21:00:56.210Z*

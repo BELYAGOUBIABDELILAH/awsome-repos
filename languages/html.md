@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 117
+- **Total Repositories**: 118
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-07
 
@@ -16,46 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 10,131 | 2026-08-01 | 18 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,824 | 2026-08-01 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,770 | 2026-08-01 | 22 |
+| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 17,192 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,659 | 2026-08-01 | 10 |
+| [techchipnet/CamPhish](../repos/techchipnet/CamPhish.md) | ⭐ 5,260 | 2026-08-06 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 17,165 | 2026-08-02 | 10 |
+| [EricTechPro/super-board](../repos/EricTechPro/super-board.md) | ⭐ 635 | 2026-10-09 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iptv-org/epg](../repos/iptv-org/epg.md) | ⭐ 3,486 | 2026-08-02 | 9 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 210,940 | 2026-08-03 | 23 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [OpenAEC-Foundation/open-pdf-studio](../repos/OpenAEC-Foundation/open-pdf-studio.md) | ⭐ 1,015 | 2026-08-03 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Sjj1024/PakePlus](../repos/Sjj1024/PakePlus.md) | ⭐ 15,725 | 2026-08-07 | 9 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [xbtlin/ai-berkshire](../repos/xbtlin/ai-berkshire.md) | ⭐ 17,049 | 2026-09-14 | 8 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [plannotator/effective-html](../repos/plannotator/effective-html.md) | ⭐ 4,045 | 2026-11-06 | 2 |
+| [sdli1995/dlssg_for_sm86](../repos/sdli1995/dlssg_for_sm86.md) | ⭐ 5,099 | 2026-11-08 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [alchaincyf/huashu-design](../repos/alchaincyf/huashu-design.md) | ⭐ 27,955 | 2026-10-09 | Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 &#x2F; App 原型 &#x2F; 可编辑 PPTX &#x2F; 动画 &#x2F; 信息图 · 六个候选挑三个方向 · 84 种带样... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [EricTechPro/super-board](../repos/EricTechPro/super-board.md) | ⭐ 610 | 2026-10-09 | Autonomous GitHub Project build → QA → review loop for Claude Code. One-line install. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [SamidyFR/Game-Decompilations](../repos/SamidyFR/Game-Decompilations.md) | ⭐ 568 | 2026-10-11 | List of Game Decompilations i could gather from around the internet. |
@@ -80,6 +59,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ProletRevDicta/Prolet](../repos/ProletRevDicta/Prolet.md) | ⭐ 1,865 | 2026-11-03 | Historical documents (in Chinese) about the GPCR (Thanks Comrade RC MR HR etc.) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Azure/Azure-Sentinel](../repos/Azure/Azure-Sentinel.md) | ⭐ 6,245 | 2026-11-03 | Cloud-native SIEM for intelligent security analytics for your entire enterprise. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [alshedivat/al-folio](../repos/alshedivat/al-folio.md) | ⭐ 16,310 | 2026-11-04 | A beautiful, simple, clean, and responsive Jekyll theme for academics |
 
 
 ---
@@ -91,7 +76,7 @@
 | [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 210,940 | 2026-08-03 | 23 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 141,705 | 2026-08-08 | 18 |
 | [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 76,613 | 2026-08-19 | 9 |
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,770 | 2026-08-01 | 22 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,824 | 2026-08-01 | 23 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,659 | 2026-08-01 | 10 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 43,224 | 2026-08-12 | 13 |
 | [QSCTech/zju-icicles](../repos/QSCTech/zju-icicles.md) | ⭐ 41,365 | 2026-09-03 | 5 |
@@ -115,8 +100,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 23 | ⭐ 68,824 | 2026-08-01 | 2026-11-08 |
 | [ossu/computer-science](../repos/ossu/computer-science.md) | 23 | ⭐ 210,940 | 2026-08-03 | 2026-11-07 |
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 22 | ⭐ 68,770 | 2026-08-01 | 2026-11-07 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 18 | ⭐ 10,131 | 2026-08-01 | 2026-11-07 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 18 | ⭐ 11,040 | 2026-08-03 | 2026-10-28 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 18 | ⭐ 141,705 | 2026-08-08 | 2026-11-03 |
@@ -233,4 +218,4 @@
 
 ---
 
-*Last updated: 2026-11-07T21:00:59.860Z*
+*Last updated: 2026-11-08T21:00:56.118Z*
