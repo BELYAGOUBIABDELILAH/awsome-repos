@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 593
+- **Total Repositories**: 595
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-07
-- **Average Stars**: 14025
+- **Average Stars**: 14000
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,438 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,444 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 78,474 | Dart |  |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 41,855 | Dart |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 41,683 | Dart |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,250 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,234 | Clojure |  |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,924 | Groovy |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 27 | Objective-C |  |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 38,093 | V |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 41,193 | Vim Script |  |
+| [superplanehq/superplane](../repos/superplanehq/superplane.md) | ⭐ 9,433 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,920 | Groovy |  |
+| [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 40,546 | Java |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 38,089 | V |  |
+| [InfinityLoop1308/PipePipe](../repos/InfinityLoop1308/PipePipe.md) | ⭐ 7,214 | Shell |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 40,522 | Java |  |
+| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | ⭐ 20,555 | Dart |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [RikkaApps/Shizuku-API](../repos/RikkaApps/Shizuku-API.md) | ⭐ 2,762 | Java |  |
+| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 98,087 | Dart |  |
 
 
 ---
@@ -94,7 +94,7 @@
 | [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,616 | Scala | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,438 | Scala | 7 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,444 | Scala | 8 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 78,474 | Dart | 5 |
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-11-09](../archive/2026/11/2026-11-09.md)
+- 28 repositories trending
+- Top: ruvnet&#x2F;RuView
+
 ### [2026-11-08](../archive/2026/11/2026-11-08.md)
 - 37 repositories trending
 - Top: ruvnet&#x2F;RuView
@@ -162,10 +166,6 @@
 - 42 repositories trending
 - Top: immich-app&#x2F;immich
 
-### [2026-11-02](../archive/2026/11/2026-11-02.md)
-- 42 repositories trending
-- Top: flutter&#x2F;flutter
-
 
 ---
 
@@ -175,10 +175,10 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 80 days | 2026-08-01 | 2026-11-08 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 77 days | 2026-08-01 | 2026-11-08 |
-| [gradle/gradle](../repos/gradle/gradle.md) | 74 days | 2026-08-01 | 2026-11-08 |
-| [vlang/v](../repos/vlang/v.md) | 74 days | 2026-08-01 | 2026-11-08 |
+| [apache/spark](../repos/apache/spark.md) | 81 days | 2026-08-01 | 2026-11-09 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 78 days | 2026-08-01 | 2026-11-09 |
+| [gradle/gradle](../repos/gradle/gradle.md) | 75 days | 2026-08-01 | 2026-11-09 |
+| [vlang/v](../repos/vlang/v.md) | 75 days | 2026-08-01 | 2026-11-09 |
 | [vim/vim](../repos/vim/vim.md) | 68 days | 2026-08-01 | 2026-11-08 |
 | [joernio/joern](../repos/joernio/joern.md) | 62 days | 2026-08-01 | 2026-11-03 |
 | [apple/swift-crypto](../repos/apple/swift-crypto.md) | 61 days | 2026-08-01 | 2026-11-07 |
@@ -198,7 +198,7 @@
 - **TypeScript**: 44 repositories (7%)
 
 ### Trending Frequency
-- **Daily Average**: 53.1 repositories
+- **Daily Average**: 52.8 repositories
 - **Peak Day**: 2026-08-19 (77 repositories)
 - **Growth Rate**: 11% this month
 
@@ -314,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-11-08T21:00:55.740Z*
+*Last updated: 2026-11-09T21:01:02.400Z*

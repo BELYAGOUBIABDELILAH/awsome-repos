@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 78,474 | 2026-08-01 | 34 |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 41,855 | 2026-08-01 | 43 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 41,683 | 2026-08-01 | 42 |
+| [KaringX/karing](../repos/KaringX/karing.md) | ⭐ 16,044 | 2026-08-02 | 41 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [KaringX/karing](../repos/KaringX/karing.md) | ⭐ 16,022 | 2026-08-02 | 40 |
+| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | ⭐ 20,555 | 2026-08-02 | 41 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 62,114 | 2026-08-02 | 44 |
+| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 98,087 | 2026-08-02 | 38 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 97,927 | 2026-08-02 | 37 |
+| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 33,864 | 2026-08-02 | 47 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 33,803 | 2026-08-02 | 46 |
+| [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | ⭐ 4,470 | 2026-08-02 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kodjodevf/mangayomi](../repos/kodjodevf/mangayomi.md) | ⭐ 4,428 | 2026-08-02 | 23 |
+| [jiangtian616/JHenTai](../repos/jiangtian616/JHenTai.md) | ⭐ 5,808 | 2026-08-03 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [raoxwup/haka_comic](../repos/raoxwup/haka_comic.md) | ⭐ 1,713 | 2026-08-02 | 12 |
+| [GopeedLab/gopeed](../repos/GopeedLab/gopeed.md) | ⭐ 27,552 | 2026-09-06 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Notsfsssf/pixez-flutter](../repos/Notsfsssf/pixez-flutter.md) | ⭐ 13,302 | 2026-08-09 | 22 |
+| [Kyosee/VeneraX](../repos/Kyosee/VeneraX.md) | ⭐ 827 | 2026-10-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CyrilPeng/Venera-Next](../repos/CyrilPeng/Venera-Next.md) | ⭐ 2,186 | 2026-09-25 | 10 |
+| [InlitX/GymMane](../repos/InlitX/GymMane.md) | ⭐ 1,642 | 2026-10-13 | 12 |
 
 
 ---
@@ -52,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [InlitX/GymMane](../repos/InlitX/GymMane.md) | ⭐ 1,567 | 2026-10-13 |  Offline gym log for Android. No account, no ads, no internet. |
+| [InlitX/GymMane](../repos/InlitX/GymMane.md) | ⭐ 1,642 | 2026-10-13 |  Offline gym log for Android. No account, no ads, no internet. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [JeoJay127/RapidEFI-Tool](../repos/JeoJay127/RapidEFI-Tool.md) | ⭐ 2,573 | 2026-10-13 | An excellent one-click EFI configuration tool based on OpenCore |
@@ -89,18 +89,18 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 181,077 | 2026-08-01 | 51 |
-| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 97,927 | 2026-08-02 | 37 |
+| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 98,087 | 2026-08-02 | 38 |
 | [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 78,474 | 2026-08-01 | 34 |
 | [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 62,114 | 2026-08-02 | 44 |
 | [KRTirtho/spotube](../repos/KRTirtho/spotube.md) | ⭐ 49,303 | 2026-08-04 | 20 |
-| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 41,683 | 2026-08-01 | 42 |
-| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 33,803 | 2026-08-02 | 46 |
-| [GopeedLab/gopeed](../repos/GopeedLab/gopeed.md) | ⭐ 27,490 | 2026-09-06 | 19 |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 41,855 | 2026-08-01 | 43 |
+| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 33,864 | 2026-08-02 | 47 |
+| [GopeedLab/gopeed](../repos/GopeedLab/gopeed.md) | ⭐ 27,552 | 2026-09-06 | 20 |
 | [mitesh77/Best-Flutter-UI-Templates](../repos/mitesh77/Best-Flutter-UI-Templates.md) | ⭐ 22,819 | 2026-08-01 | 2 |
-| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | ⭐ 20,302 | 2026-08-02 | 40 |
+| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | ⭐ 20,555 | 2026-08-02 | 41 |
 | [flutter/samples](../repos/flutter/samples.md) | ⭐ 19,271 | 2026-08-06 | 6 |
 | [xiaoyaocz/dart_simple_live](../repos/xiaoyaocz/dart_simple_live.md) | ⭐ 16,225 | 2026-08-01 | 26 |
-| [KaringX/karing](../repos/KaringX/karing.md) | ⭐ 16,022 | 2026-08-02 | 40 |
+| [KaringX/karing](../repos/KaringX/karing.md) | ⭐ 16,044 | 2026-08-02 | 41 |
 | [wanghongenpin/proxypin](../repos/wanghongenpin/proxypin.md) | ⭐ 14,375 | 2026-08-06 | 22 |
 | [guozhigq/pilipala](../repos/guozhigq/pilipala.md) | ⭐ 13,848 | 2026-08-20 | 2 |
 | [Notsfsssf/pixez-flutter](../repos/Notsfsssf/pixez-flutter.md) | ⭐ 13,302 | 2026-08-09 | 22 |
@@ -116,12 +116,12 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [flutter/flutter](../repos/flutter/flutter.md) | 51 | ⭐ 181,077 | 2026-08-01 | 2026-11-06 |
-| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | 46 | ⭐ 33,803 | 2026-08-02 | 2026-11-08 |
+| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | 47 | ⭐ 33,864 | 2026-08-02 | 2026-11-09 |
 | [chen08209/FlClash](../repos/chen08209/FlClash.md) | 44 | ⭐ 62,114 | 2026-08-02 | 2026-11-08 |
-| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | 42 | ⭐ 41,683 | 2026-08-01 | 2026-11-08 |
-| [KaringX/karing](../repos/KaringX/karing.md) | 40 | ⭐ 16,022 | 2026-08-02 | 2026-11-08 |
-| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | 40 | ⭐ 20,302 | 2026-08-02 | 2026-11-04 |
-| [localsend/localsend](../repos/localsend/localsend.md) | 37 | ⭐ 97,927 | 2026-08-02 | 2026-11-08 |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | 43 | ⭐ 41,855 | 2026-08-01 | 2026-11-09 |
+| [KaringX/karing](../repos/KaringX/karing.md) | 41 | ⭐ 16,044 | 2026-08-02 | 2026-11-09 |
+| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | 41 | ⭐ 20,555 | 2026-08-02 | 2026-11-09 |
+| [localsend/localsend](../repos/localsend/localsend.md) | 38 | ⭐ 98,087 | 2026-08-02 | 2026-11-09 |
 | [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | 34 | ⭐ 78,474 | 2026-08-01 | 2026-11-08 |
 | [dart-lang/sdk](../repos/dart-lang/sdk.md) | 26 | ⭐ 11,338 | 2026-08-01 | 2026-11-06 |
 | [xiaoyaocz/dart_simple_live](../repos/xiaoyaocz/dart_simple_live.md) | 26 | ⭐ 16,225 | 2026-08-01 | 2026-11-05 |
@@ -225,7 +225,7 @@
 - [CyrilPeng/Venera-Next](../repos/CyrilPeng/Venera-Next.md) - VeneraNext 是一个跨平台漫画阅读器，支持本地漫画、WebDAV 漫画源、第三方网络漫画源，支持 Android、iOS、Windows、Linux、macOS 平台。
 - [RyanYuuki/AnymeX](../repos/RyanYuuki/AnymeX.md) - An Open Source app for Tracking Multi Service (AL, MAL, SIMKL)
 - [hui-z/image_gallery_saver](../repos/hui-z/image_gallery_saver.md) - flutter中用于保存图片到相册的Plugin
-- [Kyosee/VeneraX](../repos/Kyosee/VeneraX.md) - A personal-use fork of the original Venera, maintained and enhanced to suit my own needs. | Fork自...
+- [Kyosee/VeneraX](../repos/Kyosee/VeneraX.md) - 基于 Venera 增强的跨平台漫画阅读器，支持 AI 翻译、鸿蒙系统及更多扩展功能。 | An enhanced, cross-platform comic reader based on V...
 - [Teskann/QuaX](../repos/Teskann/QuaX.md) - Privacy respecting X client for Android
 - [autonomous-ai/openharness](../repos/autonomous-ai/openharness.md) - The ultimate harness for coding agents and beyond. All your agents. All your machines. One comman...
 - [ComicSparks/jasmine](../repos/ComicSparks/jasmine.md) - A comic browser，support Android &#x2F; iOS &#x2F; MacOS &#x2F; Windows &#x2F; Linux. 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-08T21:00:56.083Z*
+*Last updated: 2026-11-09T21:01:02.673Z*

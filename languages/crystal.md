@@ -14,8 +14,10 @@
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,486 | 2026-08-06 | 13 |
 
-*No Crystal repositories trending today*
 
 ---
 
@@ -34,7 +36,7 @@
 |------------|-------|------------|---------------|
 | [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 25,894 | 2026-08-01 | 53 |
 | [amberframework/amber](../repos/amberframework/amber.md) | ⭐ 2,607 | 2026-10-19 | 1 |
-| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,481 | 2026-08-06 | 12 |
+| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,486 | 2026-08-06 | 13 |
 | [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | ⭐ 1,030 | 2026-10-02 | 8 |
 
 ---
@@ -44,7 +46,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [iv-org/invidious](../repos/iv-org/invidious.md) | 53 | ⭐ 25,894 | 2026-08-01 | 2026-11-07 |
-| [owasp-noir/noir](../repos/owasp-noir/noir.md) | 12 | ⭐ 1,481 | 2026-08-06 | 2026-11-06 |
+| [owasp-noir/noir](../repos/owasp-noir/noir.md) | 13 | ⭐ 1,486 | 2026-08-06 | 2026-11-09 |
 | [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | 8 | ⭐ 1,030 | 2026-10-02 | 2026-10-13 |
 | [amberframework/amber](../repos/amberframework/amber.md) | 1 | ⭐ 2,607 | 2026-10-19 | 2026-10-19 |
 
@@ -59,4 +61,4 @@
 
 ---
 
-*Last updated: 2026-11-08T21:00:56.077Z*
+*Last updated: 2026-11-09T21:01:02.667Z*

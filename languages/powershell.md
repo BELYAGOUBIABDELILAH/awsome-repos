@@ -16,22 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,575 | 2026-08-01 | 60 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,578 | 2026-08-01 | 61 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,716 | 2026-08-03 | 34 |
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,716 | 2026-08-03 | 35 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | ⭐ 535 | 2026-08-04 | 24 |
+| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | ⭐ 535 | 2026-08-04 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,297 | 2026-09-02 | 18 |
+| [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,799 | 2026-08-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [javaht/claude-desktop-zh-cn](../repos/javaht/claude-desktop-zh-cn.md) | ⭐ 8,335 | 2026-10-23 | 10 |
+| [github/copilot-plugins](../repos/github/copilot-plugins.md) | ⭐ 382 | 2026-08-26 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Atlas-OS/Atlas](../repos/Atlas-OS/Atlas.md) | ⭐ 22,055 | 2026-11-05 | 3 |
+| [irzyxa/Volume2](../repos/irzyxa/Volume2.md) | ⭐ 1,402 | 2026-11-02 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Atlas-OS/Atlas](../repos/Atlas-OS/Atlas.md) | ⭐ 22,061 | 2026-11-05 | 4 |
 
 
 ---
@@ -58,10 +61,10 @@
 | [pester/Pester](../repos/pester/Pester.md) | ⭐ 3,369 | 2026-10-29 | Pester is the ubiquitous test and mock framework for PowerShell. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [irzyxa/Volume2](../repos/irzyxa/Volume2.md) | ⭐ 1,387 | 2026-11-02 | Volume² - advanced Windows volume control. |
+| [irzyxa/Volume2](../repos/irzyxa/Volume2.md) | ⭐ 1,402 | 2026-11-02 | Volume² - advanced Windows volume control. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Atlas-OS/Atlas](../repos/Atlas-OS/Atlas.md) | ⭐ 22,055 | 2026-11-05 | 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and... |
+| [Atlas-OS/Atlas](../repos/Atlas-OS/Atlas.md) | ⭐ 22,061 | 2026-11-05 | 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/AL-Go](../repos/microsoft/AL-Go.md) | ⭐ 513 | 2026-11-05 | The plug-and-play DevOps solution for Business Central app development on GitHub |
@@ -78,9 +81,9 @@
 |------------|-------|------------|---------------|
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 36,799 | 2026-08-01 | 20 |
 | [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,062 | 2026-08-02 | 17 |
-| [Atlas-OS/Atlas](../repos/Atlas-OS/Atlas.md) | ⭐ 22,055 | 2026-11-05 | 3 |
-| [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,844 | 2026-08-09 | 1 |
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,575 | 2026-08-01 | 60 |
+| [Atlas-OS/Atlas](../repos/Atlas-OS/Atlas.md) | ⭐ 22,061 | 2026-11-05 | 4 |
+| [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,799 | 2026-08-09 | 2 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,578 | 2026-08-01 | 61 |
 | [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,073 | 2026-08-04 | 5 |
 | [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,297 | 2026-09-02 | 18 |
 | [SpecterOps/BloodHound-Legacy](../repos/SpecterOps/BloodHound-Legacy.md) | ⭐ 10,597 | 2026-08-06 | 1 |
@@ -103,14 +106,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [actions/runner-images](../repos/actions/runner-images.md) | 60 | ⭐ 13,575 | 2026-08-01 | 2026-11-08 |
+| [actions/runner-images](../repos/actions/runner-images.md) | 61 | ⭐ 13,578 | 2026-08-01 | 2026-11-09 |
 | [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 47 | ⭐ 940 | 2026-08-01 | 2026-11-05 |
-| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 34 | ⭐ 1,716 | 2026-08-03 | 2026-11-08 |
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 35 | ⭐ 1,716 | 2026-08-03 | 2026-11-09 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 32 | ⭐ 8,590 | 2026-08-01 | 2026-11-07 |
 | [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 28 | ⭐ 3,483 | 2026-08-01 | 2026-11-03 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 28 | ⭐ 6,160 | 2026-08-01 | 2026-11-06 |
 | [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 26 | ⭐ 1,574 | 2026-08-01 | 2026-11-07 |
-| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 24 | ⭐ 535 | 2026-08-04 | 2026-11-08 |
+| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 25 | ⭐ 535 | 2026-08-04 | 2026-11-09 |
 | [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | 22 | ⭐ 9,292 | 2026-08-06 | 2026-11-05 |
 | [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | 21 | ⭐ 2,767 | 2026-08-11 | 2026-10-29 |
 
@@ -188,4 +191,4 @@
 
 ---
 
-*Last updated: 2026-11-08T21:00:56.180Z*
+*Last updated: 2026-11-09T21:01:02.737Z*

@@ -16,16 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 2,059 | 2026-08-01 | 53 |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,746 | 2026-08-01 | 67 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [halogenandtoast/ArkhamHorror](../repos/halogenandtoast/ArkhamHorror.md) | ⭐ 476 | 2026-08-03 | 3 |
+| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 2,066 | 2026-08-01 | 54 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mtolly/onyx](../repos/mtolly/onyx.md) | ⭐ 311 | 2026-08-08 | 37 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [reanimate/reanimate](../repos/reanimate/reanimate.md) | ⭐ 1,320 | 2026-11-02 | 4 |
+| [reanimate/reanimate](../repos/reanimate/reanimate.md) | ⭐ 1,371 | 2026-11-02 | 5 |
 
 
 ---
@@ -37,7 +34,7 @@
 | [ghc/ghc](../repos/ghc/ghc.md) | ⭐ 3,274 | 2026-10-22 | Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC&#39;s Gitlab instance... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [reanimate/reanimate](../repos/reanimate/reanimate.md) | ⭐ 1,320 | 2026-11-02 | Haskell library for building declarative animations based on SVG graphics |
+| [reanimate/reanimate](../repos/reanimate/reanimate.md) | ⭐ 1,371 | 2026-11-02 | Haskell library for building declarative animations based on SVG graphics |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [clash-lang/clash-compiler](../repos/clash-lang/clash-compiler.md) | ⭐ 1,626 | 2026-11-06 | Haskell to VHDL&#x2F;Verilog&#x2F;SystemVerilog compiler |
@@ -50,7 +47,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,298 | 2026-08-01 | 71 |
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,742 | 2026-08-01 | 66 |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,746 | 2026-08-01 | 67 |
 | [purescript/purescript](../repos/purescript/purescript.md) | ⭐ 8,914 | 2026-08-08 | 6 |
 | [elm/compiler](../repos/elm/compiler.md) | ⭐ 7,931 | 2026-08-09 | 6 |
 | [unisonweb/unison](../repos/unisonweb/unison.md) | ⭐ 6,773 | 2026-08-06 | 13 |
@@ -65,7 +62,7 @@
 | [wireapp/wire-server](../repos/wireapp/wire-server.md) | ⭐ 2,783 | 2026-08-04 | 2 |
 | [diku-dk/futhark](../repos/diku-dk/futhark.md) | ⭐ 2,778 | 2026-08-02 | 1 |
 | [nammayatri/nammayatri](../repos/nammayatri/nammayatri.md) | ⭐ 2,565 | 2026-08-03 | 14 |
-| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 2,059 | 2026-08-01 | 53 |
+| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 2,066 | 2026-08-01 | 54 |
 | [haskell-servant/servant](../repos/haskell-servant/servant.md) | ⭐ 1,967 | 2026-09-02 | 1 |
 | [haskell/cabal](../repos/haskell/cabal.md) | ⭐ 1,748 | 2026-08-01 | 31 |
 | [IntersectMBO/plutus](../repos/IntersectMBO/plutus.md) | ⭐ 1,635 | 2026-08-05 | 2 |
@@ -77,8 +74,8 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 71 | ⭐ 40,298 | 2026-08-01 | 2026-11-07 |
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | 66 | ⭐ 27,742 | 2026-08-01 | 2026-11-06 |
-| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | 53 | ⭐ 2,059 | 2026-08-01 | 2026-11-08 |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | 67 | ⭐ 27,746 | 2026-08-01 | 2026-11-09 |
+| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | 54 | ⭐ 2,066 | 2026-08-01 | 2026-11-09 |
 | [mtolly/onyx](../repos/mtolly/onyx.md) | 37 | ⭐ 311 | 2026-08-08 | 2026-11-08 |
 | [agda/agda](../repos/agda/agda.md) | 35 | ⭐ 2,966 | 2026-08-03 | 2026-11-06 |
 | [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | 33 | ⭐ 3,173 | 2026-08-01 | 2026-11-06 |
@@ -132,4 +129,4 @@
 
 ---
 
-*Last updated: 2026-11-08T21:00:56.121Z*
+*Last updated: 2026-11-09T21:01:02.696Z*

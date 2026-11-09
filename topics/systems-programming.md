@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 2857
+- **Total Repositories**: 2862
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-02
-- **Average Stars**: 15792
+- **Average Stars**: 15779
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,503 | C# |  |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 39,167 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [akaunting/akaunting](../repos/akaunting/akaunting.md) | ⭐ 10,289 | PHP |  |
+| [modelcontextprotocol/csharp-sdk](../repos/modelcontextprotocol/csharp-sdk.md) | ⭐ 4,625 | C# |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 48,059 | Ruby |  |
+| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 48,066 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 50,426 | Ruby |  |
+| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 50,453 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [opf/openproject](../repos/opf/openproject.md) | ⭐ 17,130 | Ruby |  |
+| [opf/openproject](../repos/opf/openproject.md) | ⭐ 17,191 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [spree/spree](../repos/spree/spree.md) | ⭐ 15,818 | Ruby |  |
+| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 9,073 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | ⭐ 39,336 | Ruby |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 9,072 | Scala |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [apache/gluten](../repos/apache/gluten.md) | ⭐ 1,618 | Scala |  |
+| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,375 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [scala/scala3](../repos/scala/scala3.md) | ⭐ 6,336 | Scala |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [apache/texera](../repos/apache/texera.md) | ⭐ 333 | Scala |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,444 | Scala |  |
 
 
 ---
@@ -88,9 +88,6 @@
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 91,737 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 66,358 | Python | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 139,731 | Python | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
@@ -98,6 +95,9 @@
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 70,243 | JavaScript | 2 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 29,069 | Rust | 1 |
 
 ---
 
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-11-09](../archive/2026/11/2026-11-09.md)
+- 138 repositories trending
+- Top: sherlock-project&#x2F;sherlock
+
 ### [2026-11-08](../archive/2026/11/2026-11-08.md)
 - 155 repositories trending
 - Top: sherlock-project&#x2F;sherlock
@@ -162,10 +166,6 @@
 - 176 repositories trending
 - Top: public-apis&#x2F;public-apis
 
-### [2026-11-02](../archive/2026/11/2026-11-02.md)
-- 164 repositories trending
-- Top: public-apis&#x2F;public-apis
-
 
 ---
 
@@ -175,16 +175,16 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 80 days | 2026-08-01 | 2026-11-08 |
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 80 days | 2026-08-01 | 2026-11-08 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 77 days | 2026-08-01 | 2026-11-08 |
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 77 days | 2026-08-01 | 2026-11-08 |
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 76 days | 2026-08-01 | 2026-11-08 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 75 days | 2026-08-01 | 2026-11-08 |
-| [vlang/v](../repos/vlang/v.md) | 74 days | 2026-08-01 | 2026-11-08 |
+| [apache/spark](../repos/apache/spark.md) | 81 days | 2026-08-01 | 2026-11-09 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 81 days | 2026-08-01 | 2026-11-09 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 78 days | 2026-08-01 | 2026-11-09 |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 78 days | 2026-08-01 | 2026-11-09 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 77 days | 2026-08-01 | 2026-11-09 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 76 days | 2026-08-01 | 2026-11-09 |
+| [vlang/v](../repos/vlang/v.md) | 75 days | 2026-08-01 | 2026-11-09 |
 | [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 71 days | 2026-08-01 | 2026-11-07 |
-| [penpot/penpot](../repos/penpot/penpot.md) | 69 days | 2026-08-01 | 2026-11-07 |
-| [emqx/emqx](../repos/emqx/emqx.md) | 68 days | 2026-08-01 | 2026-11-07 |
+| [penpot/penpot](../repos/penpot/penpot.md) | 70 days | 2026-08-01 | 2026-11-09 |
+| [emqx/emqx](../repos/emqx/emqx.md) | 69 days | 2026-08-01 | 2026-11-09 |
 
 ---
 
@@ -194,13 +194,13 @@
 - **Go**: 275 repositories (10%)
 - **TypeScript**: 217 repositories (8%)
 - **Python**: 214 repositories (7%)
-- **C++**: 198 repositories (7%)
-- **Rust**: 185 repositories (6%)
+- **C++**: 200 repositories (7%)
+- **Rust**: 186 repositories (6%)
 
 ### Trending Frequency
-- **Daily Average**: 233.2 repositories
+- **Daily Average**: 232 repositories
 - **Peak Day**: 2026-08-19 (383 repositories)
-- **Growth Rate**: 12% this month
+- **Growth Rate**: 13% this month
 
 ---
 
@@ -314,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-11-08T21:00:55.876Z*
+*Last updated: 2026-11-09T21:01:02.480Z*

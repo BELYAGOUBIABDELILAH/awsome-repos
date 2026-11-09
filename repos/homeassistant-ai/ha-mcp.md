@@ -1,6 +1,6 @@
 # homeassistant-ai&#x2F;ha-mcp
 
-> The Unofficial and Awesome Home Assistant MCP Server
+> Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;homeassistant-ai&#x2F;ha-mcp) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | MIT |
-| **Stars** | ⭐ 5,279 |
-| **Forks** | 🍴 254 |
-| **Trending Days** | 1 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 5,853 |
+| **Forks** | 🍴 287 |
+| **Trending Days** | 2 |
+| **Peak Rank** | #10 |
 
 | **First Seen** | Oct 26, 2026 |
-| **Last Seen** | Oct 26, 2026 |
+| **Last Seen** | Nov 9, 2026 |
 
 
 ---
@@ -43,11 +43,12 @@
 
 ## Trending Timeline
 
+**Nov 9, 2026** — Rank #10 (+31 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Peak Rank**: #10
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -72,7 +73,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
-- **Historical Rank**: No ranking data
+- **Trending Score**: 35&#x2F;100
+- **Historical Rank**: Top 10 (Peak: #10)
 
 
 ---
 
-*Last updated: 2026-11-08T21:01:02.995Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-11-09T21:01:09.573Z*  
+*Data from 2 trending reports*

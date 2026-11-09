@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 22,387 | 2026-08-01 | 40 |
+| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,942 | 2026-08-01 | 44 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aniyomiorg/aniyomi-website](../repos/aniyomiorg/aniyomi-website.md) | ⭐ 240 | 2026-08-01 | 11 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 22,394 | 2026-08-01 | 41 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 477 | 2026-08-02 | 46 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 477 | 2026-08-02 | 47 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 17,370 | 2026-08-02 | 44 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 17,433 | 2026-08-02 | 45 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | ⭐ 2,114 | 2026-08-02 | 32 |
+| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | ⭐ 2,120 | 2026-08-02 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [unovue/reka-ui](../repos/unovue/reka-ui.md) | ⭐ 6,938 | 2026-08-02 | 35 |
+| [unovue/reka-ui](../repos/unovue/reka-ui.md) | ⭐ 6,942 | 2026-08-02 | 36 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 11,635 | 2026-08-04 | 30 |
+| [hslr-s/sun-panel](../repos/hslr-s/sun-panel.md) | ⭐ 5,365 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [freqtrade/frequi](../repos/freqtrade/frequi.md) | ⭐ 1,114 | 2026-08-07 | 4 |
+| [HuLaSpark/HuLa](../repos/HuLaSpark/HuLa.md) | ⭐ 7,819 | 2026-08-08 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HuLaSpark/HuLa](../repos/HuLaSpark/HuLa.md) | ⭐ 7,812 | 2026-08-08 | 13 |
+| [Rule-34/App](../repos/Rule-34/App.md) | ⭐ 388 | 2026-08-16 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Rule-34/App](../repos/Rule-34/App.md) | ⭐ 388 | 2026-08-16 | 12 |
+| [Jelosus2/BD2-L2D-Viewer](../repos/Jelosus2/BD2-L2D-Viewer.md) | ⭐ 575 | 2026-08-29 | 8 |
 
 
 ---
@@ -79,7 +79,7 @@
 | [Stapxs/Stapxs-QQ-Lite-2.0](../repos/Stapxs/Stapxs-QQ-Lite-2.0.md) | ⭐ 1,348 | 2026-10-27 | 一个兼容 OneBot 协议的第三方 QQ 客户端。 Web、全平台实现！ |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [YuehaiTeam/cocogoat](../repos/YuehaiTeam/cocogoat.md) | ⭐ 1,161 | 2026-11-08 | A toolbox for Genshin Impact 100% running in browser. 纯网页端的原神工具箱，保证每一行代码都是熬夜加班打造。 |
+| [YuehaiTeam/cocogoat](../repos/YuehaiTeam/cocogoat.md) | ⭐ 1,162 | 2026-11-08 | A toolbox for Genshin Impact 100% running in browser. 纯网页端的原神工具箱，保证每一行代码都是熬夜加班打造。 |
 
 
 ---
@@ -95,10 +95,10 @@
 | [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 29,058 | 2026-08-01 | 36 |
 | [docmirror/dev-sidecar](../repos/docmirror/dev-sidecar.md) | ⭐ 24,976 | 2026-10-06 | 18 |
 | [iview/iview](../repos/iview/iview.md) | ⭐ 23,775 | 2026-08-22 | 2 |
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 22,387 | 2026-08-01 | 40 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 22,394 | 2026-08-01 | 41 |
 | [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,702 | 2026-08-02 | 20 |
 | [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) | ⭐ 18,922 | 2026-08-07 | 3 |
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 17,370 | 2026-08-02 | 44 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 17,433 | 2026-08-02 | 45 |
 | [Hunlongyu/ZY-Player](../repos/Hunlongyu/ZY-Player.md) | ⭐ 14,511 | 2026-10-12 | 1 |
 | [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,450 | 2026-08-05 | 16 |
 | [tiny-craft/tiny-rdm](../repos/tiny-craft/tiny-rdm.md) | ⭐ 13,148 | 2026-08-20 | 5 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 46 | ⭐ 477 | 2026-08-02 | 2026-11-08 |
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | 44 | ⭐ 17,370 | 2026-08-02 | 2026-11-08 |
-| [frappe/crm](../repos/frappe/crm.md) | 43 | ⭐ 3,928 | 2026-08-01 | 2026-11-07 |
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 40 | ⭐ 22,387 | 2026-08-01 | 2026-11-08 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 47 | ⭐ 477 | 2026-08-02 | 2026-11-09 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | 45 | ⭐ 17,433 | 2026-08-02 | 2026-11-09 |
+| [frappe/crm](../repos/frappe/crm.md) | 44 | ⭐ 3,942 | 2026-08-01 | 2026-11-09 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 41 | ⭐ 22,394 | 2026-08-01 | 2026-11-09 |
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | 37 | ⭐ 33,596 | 2026-08-01 | 2026-11-07 |
 | [requarks/wiki](../repos/requarks/wiki.md) | 36 | ⭐ 29,058 | 2026-08-01 | 2026-10-20 |
+| [unovue/reka-ui](../repos/unovue/reka-ui.md) | 36 | ⭐ 6,942 | 2026-08-02 | 2026-11-09 |
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 35 | ⭐ 33,587 | 2026-08-01 | 2026-10-12 |
-| [unovue/reka-ui](../repos/unovue/reka-ui.md) | 35 | ⭐ 6,938 | 2026-08-02 | 2026-11-08 |
+| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | 33 | ⭐ 2,120 | 2026-08-02 | 2026-11-09 |
 | [julyx10/lap](../repos/julyx10/lap.md) | 33 | ⭐ 4,132 | 2026-08-02 | 2026-10-29 |
-| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 32 | ⭐ 4,492 | 2026-08-01 | 2026-10-26 |
 
 ---
 
@@ -232,4 +232,4 @@
 
 ---
 
-*Last updated: 2026-11-08T21:00:56.240Z*
+*Last updated: 2026-11-09T21:01:02.780Z*

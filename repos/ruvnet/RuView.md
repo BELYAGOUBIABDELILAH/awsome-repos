@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | MIT |
-| **Stars** | ⭐ 103,048 |
-| **Forks** | 🍴 13,376 |
-| **Trending Days** | 22 |
+| **Stars** | ⭐ 103,373 |
+| **Forks** | 🍴 13,397 |
+| **Trending Days** | 23 |
 | **Peak Rank** | #8 |
 
 | **First Seen** | Aug 9, 2026 |
-| **Last Seen** | Nov 8, 2026 |
+| **Last Seen** | Nov 9, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Rust or awesome*
+*Similar: Check repositories in Rust or claude*
 
 ---
 
@@ -46,11 +46,12 @@
 **Aug 10, 2026** — Rank #8 (+186 ⭐)  
 **Sep 14, 2026** — Rank #12 (+370 ⭐)  
 **Oct 28, 2026** — Rank #13 (+596 ⭐)  
+**Nov 9, 2026** — Rank #8 (+245 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #8
-- **Trending Days**: 22
+- **Trending Days**: 23
 - **Longest Streak**: 4 days
 
 ---
@@ -58,7 +59,7 @@
 ## Categories
 
 ### Topics
-[`awesome`](../../topics/awesome.md) [`claude`](../../topics/claude.md) [`densepose`](../../topics/densepose.md) [`esp32`](../../topics/esp32.md) [`firmware`](../../topics/firmware.md) [`home-assistant`](../../topics/home-assistant.md) [`home-automation`](../../topics/home-automation.md) [`iot`](../../topics/iot.md) [`monitoring`](../../topics/monitoring.md) [`networking`](../../topics/networking.md) [`npm`](../../topics/npm.md) [`pose-estimation`](../../topics/pose-estimation.md) [`react`](../../topics/react.md) [`rf`](../../topics/rf.md) [`self-learning`](../../topics/self-learning.md) [`skills`](../../topics/skills.md) [`spatial-intelligence`](../../topics/spatial-intelligence.md) [`typescript`](../../topics/typescript.md) [`wifi`](../../topics/wifi.md) [`wifi-security`](../../topics/wifi-security.md) 
+[`claude`](../../topics/claude.md) [`claude-code`](../../topics/claude-code.md) [`esp32`](../../topics/esp32.md) [`firmware`](../../topics/firmware.md) [`home-assistant`](../../topics/home-assistant.md) [`home-automation`](../../topics/home-automation.md) [`iot`](../../topics/iot.md) [`mcp`](../../topics/mcp.md) [`monitoring`](../../topics/monitoring.md) [`networking`](../../topics/networking.md) [`pose-estimation`](../../topics/pose-estimation.md) [`react`](../../topics/react.md) [`rf`](../../topics/rf.md) [`self-learning`](../../topics/self-learning.md) [`spatial-intelligence`](../../topics/spatial-intelligence.md) [`typescript`](../../topics/typescript.md) [`webassembly`](../../topics/webassembly.md) [`wifi`](../../topics/wifi.md) [`wifi-security`](../../topics/wifi-security.md) 
 
 ### Curated Categories
 `Large Language Models` `Web Development` `DevOps &amp; CI&#x2F;CD` `Cybersecurity` `Systems Programming` `Automation` `Internet of Things` `Education &amp; Learning` 
@@ -73,7 +74,7 @@
 |--------|--------|---------|
 | **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 103,048+ stars, strong contributor base |
+| **Community** | Very Active | 103,373+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
@@ -94,5 +95,5 @@
 
 ---
 
-*Last updated: 2026-11-08T21:01:00.280Z*  
-*Data from 22 trending reports*
+*Last updated: 2026-11-09T21:01:06.788Z*  
+*Data from 23 trending reports*

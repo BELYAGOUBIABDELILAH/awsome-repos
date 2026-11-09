@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 236
+- **Total Repositories**: 240
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-05
 
@@ -16,28 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wealthfolio/wealthfolio](../repos/wealthfolio/wealthfolio.md) | ⭐ 9,382 | 2026-08-02 | 4 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 48,384 | 2026-08-02 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 47,501 | 2026-08-02 | 19 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 103,373 | 2026-08-09 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 103,048 | 2026-08-09 | 22 |
+| [longbridge/gpui-kit](../repos/longbridge/gpui-kit.md) | ⭐ 20,099 | 2026-09-04 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 51,108 | 2026-08-12 | 7 |
+| [storytold/artcraft](../repos/storytold/artcraft.md) | ⭐ 40,223 | 2026-10-06 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [storytold/artcraft](../repos/storytold/artcraft.md) | ⭐ 39,862 | 2026-10-06 | 9 |
+| [jub0t/Concat](../repos/jub0t/Concat.md) | ⭐ 16,148 | 2026-10-29 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [GCWing/OpenBitFun](../repos/GCWing/OpenBitFun.md) | ⭐ 3,974 | 2026-10-17 | 3 |
+| [Universal-Debloater-Alliance/universal-android-debloater-next-generation](../repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation.md) | ⭐ 9,869 | 2026-11-09 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jub0t/Concat](../repos/jub0t/Concat.md) | ⭐ 15,685 | 2026-10-29 | 3 |
+| [infosave2007/aivpn](../repos/infosave2007/aivpn.md) | ⭐ 879 | 2026-11-09 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [herdrdev/herdr](../repos/herdrdev/herdr.md) | ⭐ 49,394 | 2026-11-03 | 2 |
+| [ooolabdev/ooosplat](../repos/ooolabdev/ooosplat.md) | ⭐ 2,403 | 2026-11-09 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ViceVerse-cz/Serein](../repos/ViceVerse-cz/Serein.md) | ⭐ 1,173 | 2026-11-09 | 1 |
 
 
 ---
@@ -86,7 +89,7 @@
 | [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 121,599 | 2026-07-30 | 13 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,907 | 2026-07-30 | 5 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 103,801 | 2026-08-05 | 29 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 103,048 | 2026-08-09 | 22 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 103,373 | 2026-08-09 | 23 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 96,635 | 2026-08-11 | 10 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 91,737 | 2026-07-31 | 8 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
@@ -99,7 +102,7 @@
 | [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 51,108 | 2026-08-12 | 7 |
 | [herdrdev/herdr](../repos/herdrdev/herdr.md) | ⭐ 49,394 | 2026-11-03 | 2 |
 | [bevyengine/bevy](../repos/bevyengine/bevy.md) | ⭐ 48,449 | 2026-08-28 | 3 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 47,501 | 2026-08-02 | 19 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 48,384 | 2026-08-02 | 20 |
 | [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 46,418 | 2026-08-28 | 2 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 45,552 | 2026-08-05 | 11 |
 
@@ -110,11 +113,11 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 29 | ⭐ 103,801 | 2026-08-05 | 2026-11-05 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 23 | ⭐ 103,373 | 2026-08-09 | 2026-11-09 |
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 22 | ⭐ 24,202 | 2026-08-08 | 2026-10-25 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 22 | ⭐ 103,048 | 2026-08-09 | 2026-11-08 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 20 | ⭐ 48,384 | 2026-08-02 | 2026-11-09 |
 | [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 20 | ⭐ 11,934 | 2026-08-26 | 2026-11-07 |
 | [openai/codex](../repos/openai/codex.md) | 19 | ⭐ 133,337 | 2026-08-01 | 2026-11-05 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 19 | ⭐ 47,501 | 2026-08-02 | 2026-11-08 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 17 | ⭐ 29,069 | 2026-08-01 | 2026-11-04 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 17 | ⭐ 42,354 | 2026-08-10 | 2026-10-26 |
 | [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | 16 | ⭐ 12,999 | 2026-08-17 | 2026-10-23 |
@@ -227,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-11-08T21:00:56.201Z*
+*Last updated: 2026-11-09T21:01:02.751Z*

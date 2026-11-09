@@ -16,19 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 28,853 | 2026-08-02 | 12 |
+| [FoloToy/ai-passport](../repos/FoloToy/ai-passport.md) | ⭐ 859 | 2026-10-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HarbourMasters/Shipwright](../repos/HarbourMasters/Shipwright.md) | ⭐ 5,924 | 2026-08-24 | 9 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [EchoStretch/kstuff-lite](../repos/EchoStretch/kstuff-lite.md) | ⭐ 917 | 2026-09-22 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [FareedKhan-dev/kimi-k3-in-c](../repos/FareedKhan-dev/kimi-k3-in-c.md) | ⭐ 11,318 | 2026-11-04 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [zeldaret/oot](../repos/zeldaret/oot.md) | ⭐ 5,686 | 2026-11-07 | 2 |
+| [sp00nznet/xboxrecomp](../repos/sp00nznet/xboxrecomp.md) | ⭐ 380 | 2026-10-11 | 4 |
 
 
 ---
@@ -43,7 +34,7 @@
 | [sp00nznet/ps3recomp](../repos/sp00nznet/ps3recomp.md) | ⭐ 617 | 2026-10-11 | Static recompilation runtime libraries for PlayStation 3 titles.  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [sp00nznet/xboxrecomp](../repos/sp00nznet/xboxrecomp.md) | ⭐ 211 | 2026-10-11 | Turn any Xbox game binary into a native Windows executable. No emulation. No interpreter. Just ra... |
+| [sp00nznet/xboxrecomp](../repos/sp00nznet/xboxrecomp.md) | ⭐ 380 | 2026-10-11 | Turn any Xbox game binary into a native Windows executable. No emulation. No interpreter. Just ra... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mbm110/MSN-GUARD](../repos/mbm110/MSN-GUARD.md) | ⭐ 636 | 2026-10-12 | High-performance Rust-powered Android VPN — Full-device tunneling via SHARD (Custom Protocol), MA... |
@@ -218,4 +209,4 @@
 
 ---
 
-*Last updated: 2026-11-08T21:00:56.056Z*
+*Last updated: 2026-11-09T21:01:02.647Z*

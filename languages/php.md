@@ -16,31 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akaunting/akaunting](../repos/akaunting/akaunting.md) | ⭐ 10,289 | 2026-08-01 | 16 |
+| [kimai/kimai](../repos/kimai/kimai.md) | ⭐ 5,148 | 2026-08-03 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WordPress/wordpress-develop](../repos/WordPress/wordpress-develop.md) | ⭐ 3,508 | 2026-08-01 | 32 |
+| [metadist/synaplan](../repos/metadist/synaplan.md) | ⭐ 780 | 2026-09-09 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,520 | 2026-08-02 | 40 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [filamentphp/filament](../repos/filamentphp/filament.md) | ⭐ 32,453 | 2026-08-02 | 31 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 37,448 | 2026-08-02 | 39 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [RSS-Bridge/rss-bridge](../repos/RSS-Bridge/rss-bridge.md) | ⭐ 9,341 | 2026-08-03 | 10 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [espocrm/espocrm](../repos/espocrm/espocrm.md) | ⭐ 3,561 | 2026-08-06 | 23 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [PrivateBin/PrivateBin](../repos/PrivateBin/PrivateBin.md) | ⭐ 8,737 | 2026-08-16 | 11 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [metadist/synaplan](../repos/metadist/synaplan.md) | ⭐ 732 | 2026-09-09 | 16 |
+| [modelcontextprotocol/php-sdk](../repos/modelcontextprotocol/php-sdk.md) | ⭐ 1,666 | 2026-10-14 | 3 |
 
 
 ---
@@ -61,7 +43,7 @@
 | [googleapis/google-cloud-php](../repos/googleapis/google-cloud-php.md) | ⭐ 1,180 | 2026-10-13 | Google Cloud Client Library for PHP |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [modelcontextprotocol/php-sdk](../repos/modelcontextprotocol/php-sdk.md) | ⭐ 1,633 | 2026-10-14 | The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration ... |
+| [modelcontextprotocol/php-sdk](../repos/modelcontextprotocol/php-sdk.md) | ⭐ 1,666 | 2026-10-14 | The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [modxcms-jp/evolution-jp](../repos/modxcms-jp/evolution-jp.md) | ⭐ 33 | 2026-10-14 |  |
@@ -230,4 +212,4 @@
 
 ---
 
-*Last updated: 2026-11-08T21:00:56.171Z*
+*Last updated: 2026-11-09T21:01:02.730Z*

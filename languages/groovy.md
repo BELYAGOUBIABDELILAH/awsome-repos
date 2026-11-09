@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 14
+- **Total Repositories**: 15
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-08
+- **Last Updated**: 2026-11-09
 
 ---
 
@@ -16,7 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,920 | 2026-08-01 | 74 |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,924 | 2026-08-01 | 75 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [AllTheMods/ATM-11](../repos/AllTheMods/ATM-11.md) | ⭐ 65 | 2026-11-09 | 1 |
 
 
 ---
@@ -29,6 +32,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jenkinsci/job-dsl-plugin](../repos/jenkinsci/job-dsl-plugin.md) | ⭐ 1,922 | 2026-11-02 | A Groovy DSL for Jenkins Jobs |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [AllTheMods/ATM-11](../repos/AllTheMods/ATM-11.md) | ⭐ 65 | 2026-11-09 | ATM-11 |
 
 
 ---
@@ -37,7 +43,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,920 | 2026-08-01 | 74 |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,924 | 2026-08-01 | 75 |
 | [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,364 | 2026-08-02 | 49 |
 | [apache/groovy](../repos/apache/groovy.md) | ⭐ 5,482 | 2026-09-13 | 16 |
 | [ben-manes/gradle-versions-plugin](../repos/ben-manes/gradle-versions-plugin.md) | ⭐ 4,078 | 2026-08-10 | 1 |
@@ -49,6 +55,7 @@
 | [apache/bigtop](../repos/apache/bigtop.md) | ⭐ 682 | 2026-10-03 | 11 |
 | [okta/okta-jwt-verifier-java](../repos/okta/okta-jwt-verifier-java.md) | ⭐ 96 | 2026-08-06 | 1 |
 | [gravitee-io/issues](../repos/gravitee-io/issues.md) | ⭐ 69 | 2026-08-01 | 19 |
+| [AllTheMods/ATM-11](../repos/AllTheMods/ATM-11.md) | ⭐ 65 | 2026-11-09 | 1 |
 | [openshift-eng/aos-cd-jobs](../repos/openshift-eng/aos-cd-jobs.md) | ⭐ 50 | 2026-10-11 | 3 |
 | [Percona-Lab/jenkins-pipelines](../repos/Percona-Lab/jenkins-pipelines.md) | ⭐ 27 | 2026-09-25 | 2 |
 
@@ -58,7 +65,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [gradle/gradle](../repos/gradle/gradle.md) | 74 | ⭐ 18,920 | 2026-08-01 | 2026-11-08 |
+| [gradle/gradle](../repos/gradle/gradle.md) | 75 | ⭐ 18,924 | 2026-08-01 | 2026-11-09 |
 | [rundeck/rundeck](../repos/rundeck/rundeck.md) | 49 | ⭐ 6,364 | 2026-08-02 | 2026-11-06 |
 | [apache/grails-core](../repos/apache/grails-core.md) | 41 | ⭐ 2,941 | 2026-08-03 | 2026-11-06 |
 | [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | 40 | ⭐ 3,524 | 2026-08-02 | 2026-11-06 |
@@ -87,7 +94,8 @@
 - [apache/bigtop](../repos/apache/bigtop.md) - Bigtop is an Apache Foundation project for Infrastructure Engineers and Data Scientists looking f...
 - [openshift-eng/aos-cd-jobs](../repos/openshift-eng/aos-cd-jobs.md) - 
 - [jenkinsci/job-dsl-plugin](../repos/jenkinsci/job-dsl-plugin.md) - A Groovy DSL for Jenkins Jobs
+- [AllTheMods/ATM-11](../repos/AllTheMods/ATM-11.md) - ATM-11
 
 ---
 
-*Last updated: 2026-11-08T21:00:56.112Z*
+*Last updated: 2026-11-09T21:01:02.690Z*

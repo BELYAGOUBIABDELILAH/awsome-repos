@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 41
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-06
+- **Last Updated**: 2026-11-09
 
 ---
 
@@ -16,16 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,246 | 2026-08-01 | 63 |
+| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,821 | 2026-08-01 | 59 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yaml/yaml-test-suite](../repos/yaml/yaml-test-suite.md) | ⭐ 274 | 2026-08-02 | 31 |
+| [znuny/Znuny](../repos/znuny/Znuny.md) | ⭐ 612 | 2026-08-01 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Perl/perl5](../repos/Perl/perl5.md) | ⭐ 2,356 | 2026-08-03 | 35 |
+| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,542 | 2026-08-01 | 44 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LMS-Community/slimserver](../repos/LMS-Community/slimserver.md) | ⭐ 1,816 | 2026-08-09 | 16 |
+| [yaml/yaml-test-suite](../repos/yaml/yaml-test-suite.md) | ⭐ 274 | 2026-08-02 | 32 |
 
 
 ---
@@ -46,7 +46,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,818 | 2026-08-01 | 58 |
+| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,821 | 2026-08-01 | 59 |
 | [so-fancy/diff-so-fancy](../repos/so-fancy/diff-so-fancy.md) | ⭐ 18,090 | 2026-09-07 | 1 |
 | [major/MySQLTuner-perl](../repos/major/MySQLTuner-perl.md) | ⭐ 9,477 | 2026-09-04 | 5 |
 | [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,246 | 2026-08-01 | 63 |
@@ -58,7 +58,7 @@
 | [Perl/perl5](../repos/Perl/perl5.md) | ⭐ 2,356 | 2026-08-03 | 35 |
 | [LMS-Community/slimserver](../repos/LMS-Community/slimserver.md) | ⭐ 1,816 | 2026-08-09 | 16 |
 | [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | ⭐ 1,712 | 2026-08-01 | 39 |
-| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,541 | 2026-08-01 | 43 |
+| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,542 | 2026-08-01 | 44 |
 | [mrash/fwknop](../repos/mrash/fwknop.md) | ⭐ 1,441 | 2026-08-22 | 3 |
 | [brucemiller/LaTeXML](../repos/brucemiller/LaTeXML.md) | ⭐ 1,323 | 2026-11-06 | 1 |
 | [asbru-cm/asbru-cm](../repos/asbru-cm/asbru-cm.md) | ⭐ 1,294 | 2026-08-03 | 3 |
@@ -74,15 +74,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [exiftool/exiftool](../repos/exiftool/exiftool.md) | 63 | ⭐ 5,246 | 2026-08-01 | 2026-11-08 |
-| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | 58 | ⭐ 19,818 | 2026-08-01 | 2026-11-06 |
+| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | 59 | ⭐ 19,821 | 2026-08-01 | 2026-11-09 |
 | [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | 54 | ⭐ 515 | 2026-08-01 | 2026-11-07 |
-| [OpenKore/openkore](../repos/OpenKore/openkore.md) | 43 | ⭐ 1,541 | 2026-08-01 | 2026-11-03 |
+| [OpenKore/openkore](../repos/OpenKore/openkore.md) | 44 | ⭐ 1,542 | 2026-08-01 | 2026-11-09 |
 | [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | 39 | ⭐ 1,712 | 2026-08-01 | 2026-11-06 |
 | [Perl/perl5](../repos/Perl/perl5.md) | 35 | ⭐ 2,356 | 2026-08-03 | 2026-11-08 |
 | [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 32 | ⭐ 2,680 | 2026-08-01 | 2026-09-14 |
-| [yaml/yaml-test-suite](../repos/yaml/yaml-test-suite.md) | 31 | ⭐ 274 | 2026-08-02 | 2026-11-08 |
+| [yaml/yaml-test-suite](../repos/yaml/yaml-test-suite.md) | 32 | ⭐ 274 | 2026-08-02 | 2026-11-09 |
 | [holzschu/a-shell](../repos/holzschu/a-shell.md) | 30 | ⭐ 4,005 | 2026-08-02 | 2026-11-06 |
-| [znuny/Znuny](../repos/znuny/Znuny.md) | 26 | ⭐ 611 | 2026-08-01 | 2026-11-07 |
+| [znuny/Znuny](../repos/znuny/Znuny.md) | 27 | ⭐ 612 | 2026-08-01 | 2026-11-09 |
 
 ---
 
@@ -132,4 +132,4 @@
 
 ---
 
-*Last updated: 2026-11-08T21:00:56.177Z*
+*Last updated: 2026-11-09T21:01:02.734Z*

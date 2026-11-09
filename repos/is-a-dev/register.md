@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | JavaScript |
 | **License** | MIT |
-| **Stars** | ⭐ 11,646 |
-| **Forks** | 🍴 33,583 |
-| **Trending Days** | 8 |
+| **Stars** | ⭐ 11,778 |
+| **Forks** | 🍴 34,739 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Oct 26, 2026 |
+| **Last Seen** | Nov 9, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 8
+- **Trending Days**: 9
 - **Longest Streak**: 2 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`cloudflare`](../../topics/cloudflare.md) [`dev`](../../topics/dev.md) [`developer`](../../topics/developer.md) [`dns`](../../topics/dns.md) [`domain`](../../topics/domain.md) [`foss`](../../topics/foss.md) [`free`](../../topics/free.md) [`free-domain`](../../topics/free-domain.md) [`free-for-dev`](../../topics/free-for-dev.md) [`free-for-developers`](../../topics/free-for-developers.md) [`github-pages`](../../topics/github-pages.md) [`oss`](../../topics/oss.md) [`subdomain`](../../topics/subdomain.md) [`website`](../../topics/website.md) 
+[`cloudflare`](../../topics/cloudflare.md) [`dev`](../../topics/dev.md) [`developer`](../../topics/developer.md) [`dns`](../../topics/dns.md) [`domain`](../../topics/domain.md) [`foss`](../../topics/foss.md) [`free`](../../topics/free.md) [`free-domain`](../../topics/free-domain.md) [`free-for-dev`](../../topics/free-for-dev.md) [`free-for-developers`](../../topics/free-for-developers.md) [`github-pages`](../../topics/github-pages.md) [`oss`](../../topics/oss.md) [`subdomain`](../../topics/subdomain.md) [`vercel`](../../topics/vercel.md) [`website`](../../topics/website.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Web Development` `Cloud &amp; Infrastructure` `Systems Programming` 
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Average | Basic documentation available |
-| **Community** | Very Active | 11,646+ stars, strong contributor base |
+| **Community** | Very Active | 11,778+ stars, strong contributor base |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-08T21:00:59.255Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-11-09T21:01:05.790Z*  
+*Data from 9 trending reports*

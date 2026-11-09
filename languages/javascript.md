@@ -16,16 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [4ian/GDevelop](../repos/4ian/GDevelop.md) | ⭐ 28,610 | 2026-08-03 | 4 |
+| [tradesdontlie/tradingview-mcp](../repos/tradesdontlie/tradingview-mcp.md) | ⭐ 7,134 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 33,371 | 2026-08-08 | 16 |
+| [is-a-dev/register](../repos/is-a-dev/register.md) | ⭐ 11,778 | 2026-08-03 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | ⭐ 38,851 | 2026-08-16 | 14 |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 33,636 | 2026-08-08 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 66,715 | 2026-08-28 | 18 |
+| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | ⭐ 39,049 | 2026-08-16 | 15 |
 
 
 ---
@@ -102,11 +102,11 @@
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 22 | ⭐ 90,383 | 2026-08-04 | 2026-10-27 |
 | [byoungd/up](../repos/byoungd/up.md) | 21 | ⭐ 70,243 | 2026-08-01 | 2026-11-07 |
 | [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | 18 | ⭐ 66,715 | 2026-08-28 | 2026-11-08 |
-| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 16 | ⭐ 33,371 | 2026-08-08 | 2026-11-08 |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 17 | ⭐ 33,636 | 2026-08-08 | 2026-11-09 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
+| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | 15 | ⭐ 39,049 | 2026-08-16 | 2026-11-09 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 14 | ⭐ 143,323 | 2026-07-30 | 2026-11-04 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 14 | ⭐ 5,119 | 2026-08-07 | 2026-10-20 |
-| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | 14 | ⭐ 38,851 | 2026-08-16 | 2026-11-08 |
 
 ---
 
@@ -215,4 +215,4 @@
 
 ---
 
-*Last updated: 2026-11-08T21:00:56.130Z*
+*Last updated: 2026-11-09T21:01:02.702Z*

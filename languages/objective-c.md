@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 108
+- **Total Repositories**: 109
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-12
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,902 | 2026-08-01 | 34 |
+| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,201 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 27 | 2026-08-01 | 20 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,569 | 2026-08-02 | 39 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,553 | 2026-08-02 | 38 |
+| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 772 | 2026-08-02 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 772 | 2026-08-02 | 30 |
+| [iodefog/VipVideo](../repos/iodefog/VipVideo.md) | ⭐ 6,159 | 2026-08-02 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iodefog/VipVideo](../repos/iodefog/VipVideo.md) | ⭐ 6,150 | 2026-08-02 | 24 |
+| [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | ⭐ 541 | 2026-08-02 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | ⭐ 541 | 2026-08-02 | 17 |
+| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,282 | 2026-08-02 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,282 | 2026-08-02 | 23 |
+| [newmarcel/KeepingYouAwake](../repos/newmarcel/KeepingYouAwake.md) | ⭐ 7,042 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,708 | 2026-08-03 | 26 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,720 | 2026-08-03 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [danveloper/flash-moe](../repos/danveloper/flash-moe.md) | ⭐ 4,501 | 2026-08-03 | 15 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,400 | 2026-08-04 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bugsnag/bugsnag-cocoa](../repos/bugsnag/bugsnag-cocoa.md) | ⭐ 262 | 2026-08-06 | 23 |
+| [alexzielenski/Mousecape](../repos/alexzielenski/Mousecape.md) | ⭐ 2,095 | 2026-08-09 | 7 |
 
 
 ---
@@ -61,7 +61,10 @@
 | [Tunnelblick/Tunnelblick](../repos/Tunnelblick/Tunnelblick.md) | ⭐ 3,294 | 2026-10-25 | The official Tunnelblick website is at https:&#x2F;&#x2F;tunnelblick.net; the official Tunnelblick GitHub r... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [skopevoj/spoti.pw](../repos/skopevoj/spoti.pw.md) | ⭐ 926 | 2026-11-08 | Liquid Glass UI for the Spotify iOS app, no jailbreak |
+| [skopevoj/spoti.pw](../repos/skopevoj/spoti.pw.md) | ⭐ 930 | 2026-11-08 | Liquid Glass UI for the Spotify iOS app, no jailbreak |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [nakst/gf](../repos/nakst/gf.md) | ⭐ 3,541 | 2026-11-09 | A GDB frontend for Lïnux. |
 
 
 ---
@@ -73,17 +76,17 @@
 | [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | 1 |
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,371 | 2026-08-02 | 7 |
 | [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,609 | 2026-08-01 | 56 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,553 | 2026-08-02 | 38 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,569 | 2026-08-02 | 39 |
 | [SnapKit/Masonry](../repos/SnapKit/Masonry.md) | ⭐ 18,130 | 2026-09-02 | 1 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,600 | 2026-08-04 | 36 |
-| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,328 | 2026-08-04 | 19 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,400 | 2026-08-04 | 20 |
 | [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,893 | 2026-08-04 | 13 |
-| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,174 | 2026-08-01 | 13 |
+| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,201 | 2026-08-01 | 14 |
 | [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,642 | 2026-08-04 | 5 |
 | [marcuswestin/WebViewJavascriptBridge](../repos/marcuswestin/WebViewJavascriptBridge.md) | ⭐ 14,308 | 2026-09-13 | 1 |
 | [ccgus/fmdb](../repos/ccgus/fmdb.md) | ⭐ 13,828 | 2026-08-28 | 2 |
 | [CoderMJLee/MJRefresh](../repos/CoderMJLee/MJRefresh.md) | ⭐ 13,810 | 2026-09-01 | 1 |
-| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,708 | 2026-08-03 | 26 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,720 | 2026-08-03 | 27 |
 | [eczarny/spectacle](../repos/eczarny/spectacle.md) | ⭐ 13,632 | 2026-09-19 | 1 |
 | [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,319 | 2026-08-04 | 28 |
 | [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,067 | 2026-08-02 | 2 |
@@ -104,7 +107,7 @@
 | [google/promises](../repos/google/promises.md) | 54 | ⭐ 3,828 | 2026-08-01 | 2026-11-07 |
 | [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | 46 | ⭐ 2,038 | 2026-08-08 | 2026-11-06 |
 | [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | 40 | ⭐ 4,505 | 2026-08-05 | 2026-11-07 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 38 | ⭐ 22,553 | 2026-08-02 | 2026-11-08 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 39 | ⭐ 22,569 | 2026-08-02 | 2026-11-09 |
 | [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 37 | ⭐ 678 | 2026-08-04 | 2026-11-06 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | 36 | ⭐ 16,600 | 2026-08-04 | 2026-11-06 |
 
@@ -215,4 +218,4 @@
 
 ---
 
-*Last updated: 2026-11-08T21:00:56.167Z*
+*Last updated: 2026-11-09T21:01:02.727Z*

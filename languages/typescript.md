@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 316
+- **Total Repositories**: 317
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-07
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 98,649 | 2026-08-04 | 6 |
+| [CodebuffAI/freebuff](../repos/CodebuffAI/freebuff.md) | ⭐ 14,065 | 2026-08-07 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Open-Dev-Society/OpenStock](../repos/Open-Dev-Society/OpenStock.md) | ⭐ 21,354 | 2026-09-19 | 6 |
+| [garrytan/gbrain](../repos/garrytan/gbrain.md) | ⭐ 32,082 | 2026-08-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/json-render](../repos/vercel-labs/json-render.md) | ⭐ 19,448 | 2026-09-19 | 5 |
+| [backnotprop/plannotator](../repos/backnotprop/plannotator.md) | ⭐ 9,946 | 2026-08-26 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ranxianglei/billion-context](../repos/ranxianglei/billion-context.md) | ⭐ 5,059 | 2026-10-12 | 7 |
+| [vercel-labs/json-render](../repos/vercel-labs/json-render.md) | ⭐ 19,506 | 2026-09-19 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elie222/rakazo](../repos/elie222/rakazo.md) | ⭐ 7,548 | 2026-10-17 | 6 |
+| [ranxianglei/billion-context](../repos/ranxianglei/billion-context.md) | ⭐ 5,710 | 2026-10-12 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mantrakp04/ardia](../repos/mantrakp04/ardia.md) | ⭐ 1,464 | 2026-10-25 | 2 |
+| [elie222/rakazo](../repos/elie222/rakazo.md) | ⭐ 7,688 | 2026-10-17 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ParadevAI/Paradev](../repos/ParadevAI/Paradev.md) | ⭐ 16,103 | 2026-10-28 | 3 |
+| [mantrakp04/ardia](../repos/mantrakp04/ardia.md) | ⭐ 1,576 | 2026-10-25 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [meta/astryx](../repos/meta/astryx.md) | ⭐ 16,341 | 2026-11-06 | 3 |
+| [basketikun/infinite-canvas](../repos/basketikun/infinite-canvas.md) | ⭐ 10,115 | 2026-10-25 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Albert-Weasker/niubigeo](../repos/Albert-Weasker/niubigeo.md) | ⭐ 10,135 | 2026-11-08 | 1 |
+| [meta/astryx](../repos/meta/astryx.md) | ⭐ 19,638 | 2026-11-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kortix-ai/CompanyOS](../repos/kortix-ai/CompanyOS.md) | ⭐ 20,578 | 2026-11-08 | 1 |
+| [kortix-ai/CompanyOS](../repos/kortix-ai/CompanyOS.md) | ⭐ 20,597 | 2026-11-08 | 2 |
 
 
 ---
@@ -61,7 +61,7 @@
 | [getnao/nao](../repos/getnao/nao.md) | ⭐ 1,913 | 2026-10-11 | 👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao ch... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ranxianglei/billion-context](../repos/ranxianglei/billion-context.md) | ⭐ 5,059 | 2026-10-12 | A context-compression plugin for month-long single sessions (billions of tokens) ,small context w... |
+| [ranxianglei/billion-context](../repos/ranxianglei/billion-context.md) | ⭐ 5,710 | 2026-10-12 | A context-compression plugin for month-long single sessions (billions of tokens) ,small context w... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [wuwangzhang1216/ChinaTextbookStudyFree](../repos/wuwangzhang1216/ChinaTextbookStudyFree.md) | ⭐ 863 | 2026-10-12 | 给所有中国小学生打造的免费学习平台，从一年级到六年级所有的课本知识点全汇总。 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-08T21:00:56.223Z*
+*Last updated: 2026-11-09T21:01:02.766Z*

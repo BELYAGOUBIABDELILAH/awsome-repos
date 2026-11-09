@@ -14,8 +14,10 @@
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [leafOfTree/WindowTabs](../repos/leafOfTree/WindowTabs.md) | ⭐ 1,034 | 2026-10-25 | 3 |
 
-*No F# repositories trending today*
 
 ---
 
@@ -23,7 +25,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [leafOfTree/WindowTabs](../repos/leafOfTree/WindowTabs.md) | ⭐ 1,029 | 2026-10-25 | A utility that brings browser-style tabbed window management to the desktop. |
+| [leafOfTree/WindowTabs](../repos/leafOfTree/WindowTabs.md) | ⭐ 1,034 | 2026-10-25 | A utility that brings browser-style tabbed window management to the desktop. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [fsprojects/FAKE](../repos/fsprojects/FAKE.md) | ⭐ 1,325 | 2026-10-26 | FAKE - F# Make |
@@ -39,7 +41,7 @@
 | [fable-compiler/Fable](../repos/fable-compiler/Fable.md) | ⭐ 3,161 | 2026-10-07 | 12 |
 | [fsprojects/Paket](../repos/fsprojects/Paket.md) | ⭐ 2,094 | 2026-08-09 | 17 |
 | [fsprojects/FAKE](../repos/fsprojects/FAKE.md) | ⭐ 1,325 | 2026-10-26 | 1 |
-| [leafOfTree/WindowTabs](../repos/leafOfTree/WindowTabs.md) | ⭐ 1,029 | 2026-10-25 | 2 |
+| [leafOfTree/WindowTabs](../repos/leafOfTree/WindowTabs.md) | ⭐ 1,034 | 2026-10-25 | 3 |
 | [dotnet/performance](../repos/dotnet/performance.md) | ⭐ 771 | 2026-08-07 | 1 |
 
 ---
@@ -51,7 +53,7 @@
 | [dotnet/fsharp](../repos/dotnet/fsharp.md) | 46 | ⭐ 4,348 | 2026-08-01 | 2026-11-06 |
 | [fsprojects/Paket](../repos/fsprojects/Paket.md) | 17 | ⭐ 2,094 | 2026-08-09 | 2026-11-06 |
 | [fable-compiler/Fable](../repos/fable-compiler/Fable.md) | 12 | ⭐ 3,161 | 2026-10-07 | 2026-11-06 |
-| [leafOfTree/WindowTabs](../repos/leafOfTree/WindowTabs.md) | 2 | ⭐ 1,029 | 2026-10-25 | 2026-11-05 |
+| [leafOfTree/WindowTabs](../repos/leafOfTree/WindowTabs.md) | 3 | ⭐ 1,034 | 2026-10-25 | 2026-11-09 |
 | [dotnet/performance](../repos/dotnet/performance.md) | 1 | ⭐ 771 | 2026-08-07 | 2026-08-07 |
 | [fsprojects/FAKE](../repos/fsprojects/FAKE.md) | 1 | ⭐ 1,325 | 2026-10-26 | 2026-10-26 |
 
@@ -68,4 +70,4 @@
 
 ---
 
-*Last updated: 2026-11-08T21:00:56.098Z*
+*Last updated: 2026-11-09T21:01:02.683Z*

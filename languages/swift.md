@@ -16,28 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 13,916 | 2026-08-01 | 31 |
+| [TheBoredTeam/boring.notch](../repos/TheBoredTeam/boring.notch.md) | ⭐ 11,324 | 2026-08-06 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/container](../repos/apple/container.md) | ⭐ 51,109 | 2026-08-01 | 18 |
+| [whoeevee/EeveeSpotifyReborn](../repos/whoeevee/EeveeSpotifyReborn.md) | ⭐ 2,448 | 2026-08-07 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [seemoo-lab/openhaystack](../repos/seemoo-lab/openhaystack.md) | ⭐ 13,970 | 2026-08-17 | 4 |
+| [ZingerLittleBee/Heeler](../repos/ZingerLittleBee/Heeler.md) | ⭐ 847 | 2026-09-21 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ninxsoft/Mist](../repos/ninxsoft/Mist.md) | ⭐ 5,340 | 2026-09-02 | 2 |
+| [hugeBlack/GetMoreRam](../repos/hugeBlack/GetMoreRam.md) | ⭐ 456 | 2026-10-17 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | ⭐ 1,348 | 2026-09-13 | 9 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ZingerLittleBee/Heeler](../repos/ZingerLittleBee/Heeler.md) | ⭐ 826 | 2026-09-21 | 7 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [HD838A/remote-mic-app](../repos/HD838A/remote-mic-app.md) | ⭐ 2,683 | 2026-10-08 | 10 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [omacom/try-omarchy](../repos/omacom/try-omarchy.md) | ⭐ 2,925 | 2026-11-08 | 1 |
+| [YangJiiii/3105](../repos/YangJiiii/3105.md) | ⭐ 980 | 2026-10-25 | 4 |
 
 
 ---
@@ -58,7 +49,7 @@
 | [1lck/Lithe-IDEA](../repos/1lck/Lithe-IDEA.md) | ⭐ 2,357 | 2026-10-16 | A lightweight, cross-platform IDE for the AI era, with on-demand tools and services. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [hugeBlack/GetMoreRam](../repos/hugeBlack/GetMoreRam.md) | ⭐ 434 | 2026-10-17 | A simple AltSign wrapper app that allows you to enable &quot;Increased Memory Limit&quot; to your sideloade... |
+| [hugeBlack/GetMoreRam](../repos/hugeBlack/GetMoreRam.md) | ⭐ 456 | 2026-10-17 | A simple AltSign wrapper app that allows you to enable &quot;Increased Memory Limit&quot; to your sideloade... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [iFurySt/open-computer-use](../repos/iFurySt/open-computer-use.md) | ⭐ 2,874 | 2026-10-18 | 👾 Open Computer Use – Open-Source Alternative to Codex Computer Use |
@@ -73,7 +64,7 @@
 | [JohnCoates/Aerial](../repos/JohnCoates/Aerial.md) | ⭐ 21,122 | 2026-10-23 | Apple TV Aerial Screensaver for Mac |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [YangJiiii/3105](../repos/YangJiiii/3105.md) | ⭐ 981 | 2026-10-25 | Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab. |
+| [YangJiiii/3105](../repos/YangJiiii/3105.md) | ⭐ 980 | 2026-10-25 | Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab. |
 
 
 ---
@@ -227,4 +218,4 @@
 
 ---
 
-*Last updated: 2026-11-08T21:00:56.216Z*
+*Last updated: 2026-11-09T21:01:02.762Z*

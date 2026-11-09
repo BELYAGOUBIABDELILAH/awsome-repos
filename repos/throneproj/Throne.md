@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C++ |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 7,249 |
-| **Forks** | 🍴 412 |
-| **Trending Days** | 4 |
+| **Stars** | ⭐ 7,800 |
+| **Forks** | 🍴 466 |
+| **Trending Days** | 5 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 8, 2026 |
-| **Last Seen** | Sep 24, 2026 |
+| **Last Seen** | Nov 9, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 4
+- **Trending Days**: 5
 - **Longest Streak**: 2 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`amneziawg`](../../topics/amneziawg.md) [`amneziawg2`](../../topics/amneziawg2.md) [`amneziawg3`](../../topics/amneziawg3.md) [`anytls`](../../topics/anytls.md) [`clash`](../../topics/clash.md) [`linux`](../../topics/linux.md) [`macos`](../../topics/macos.md) [`mieru`](../../topics/mieru.md) [`nekobox`](../../topics/nekobox.md) [`nekoray`](../../topics/nekoray.md) [`proxy`](../../topics/proxy.md) [`reality`](../../topics/reality.md) [`sing-box`](../../topics/sing-box.md) [`v2ray`](../../topics/v2ray.md) [`vless`](../../topics/vless.md) [`vpn`](../../topics/vpn.md) [`windows`](../../topics/windows.md) [`xhttp`](../../topics/xhttp.md) 
+[`amneziawg`](../../topics/amneziawg.md) [`clash`](../../topics/clash.md) [`linux`](../../topics/linux.md) [`macos`](../../topics/macos.md) [`nekobox`](../../topics/nekobox.md) [`nekoray`](../../topics/nekoray.md) [`proxy`](../../topics/proxy.md) [`sing-box`](../../topics/sing-box.md) [`v2ray`](../../topics/v2ray.md) [`vpn`](../../topics/vpn.md) [`windows`](../../topics/windows.md) 
 
 ### Curated Categories
 `Systems Programming` 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 65&#x2F;100
+- **Trending Score**: 80&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-08T21:01:00.197Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-11-09T21:01:06.705Z*  
+*Data from 5 trending reports*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 118
+- **Total Repositories**: 119
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-07
 
@@ -16,19 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,824 | 2026-08-01 | 23 |
+| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 17,200 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 17,192 | 2026-08-02 | 11 |
+| [nova-video-player/aos-AVP](../repos/nova-video-player/aos-AVP.md) | ⭐ 4,796 | 2026-08-16 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [techchipnet/CamPhish](../repos/techchipnet/CamPhish.md) | ⭐ 5,260 | 2026-08-06 | 10 |
+| [baojie/shiji-kb](../repos/baojie/shiji-kb.md) | ⭐ 3,721 | 2026-09-19 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EricTechPro/super-board](../repos/EricTechPro/super-board.md) | ⭐ 635 | 2026-10-09 | 8 |
+| [github/opensource.guide](../repos/github/opensource.guide.md) | ⭐ 15,792 | 2026-09-19 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sdli1995/dlssg_for_sm86](../repos/sdli1995/dlssg_for_sm86.md) | ⭐ 5,099 | 2026-11-08 | 1 |
+| [Weiss-UltimateSavior/Tyranor-Next](../repos/Weiss-UltimateSavior/Tyranor-Next.md) | ⭐ 826 | 2026-11-09 | 1 |
 
 
 ---
@@ -218,4 +218,4 @@
 
 ---
 
-*Last updated: 2026-11-08T21:00:56.118Z*
+*Last updated: 2026-11-09T21:01:02.694Z*

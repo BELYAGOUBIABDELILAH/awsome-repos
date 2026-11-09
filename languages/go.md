@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 6,222 | 2026-08-02 | 21 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 39,167 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [XTLS/Xray-core](../repos/XTLS/Xray-core.md) | ⭐ 42,730 | 2026-08-02 | 9 |
+| [superplanehq/superplane](../repos/superplanehq/superplane.md) | ⭐ 9,433 | 2026-08-02 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kgretzky/evilginx2](../repos/kgretzky/evilginx2.md) | ⭐ 15,869 | 2026-08-02 | 3 |
+| [kgretzky/evilginx2](../repos/kgretzky/evilginx2.md) | ⭐ 15,882 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 50,430 | 2026-08-03 | 2 |
+| [chaitin/SafeLine](../repos/chaitin/SafeLine.md) | ⭐ 23,232 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 33,709 | 2026-08-06 | 17 |
+| [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | ⭐ 39,802 | 2026-08-03 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [navidrome/navidrome](../repos/navidrome/navidrome.md) | ⭐ 24,589 | 2026-08-08 | 8 |
+| [henrygd/beszel](../repos/henrygd/beszel.md) | ⭐ 27,055 | 2026-08-10 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [henrygd/beszel](../repos/henrygd/beszel.md) | ⭐ 26,996 | 2026-08-10 | 5 |
+| [trufflesecurity/trufflehog](../repos/trufflesecurity/trufflehog.md) | ⭐ 29,086 | 2026-08-12 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kdlbs/kandev](../repos/kdlbs/kandev.md) | ⭐ 1,092 | 2026-08-10 | 4 |
+| [BishopFox/sliver](../repos/BishopFox/sliver.md) | ⭐ 12,291 | 2026-08-29 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 67,560 | 2026-08-11 | 9 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Gaurav-Gosain/tuios](../repos/Gaurav-Gosain/tuios.md) | ⭐ 6,450 | 2026-08-19 | 7 |
+| [dsx-ai-factory/nvke](../repos/dsx-ai-factory/nvke.md) | ⭐ 1,026 | 2026-11-05 | 4 |
 
 
 ---
@@ -117,8 +114,8 @@
 |------------|---------------|-------|------------|-----------|
 | [ollama/ollama](../repos/ollama/ollama.md) | 27 | ⭐ 185,709 | 2026-08-01 | 2026-11-02 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 26 | ⭐ 55,232 | 2026-08-01 | 2026-11-07 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 26 | ⭐ 39,167 | 2026-08-01 | 2026-11-09 |
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 26 | ⭐ 36,482 | 2026-08-01 | 2026-11-04 |
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 25 | ⭐ 39,102 | 2026-08-01 | 2026-11-07 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 22 | ⭐ 51,364 | 2026-08-01 | 2026-11-04 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 21 | ⭐ 6,222 | 2026-08-02 | 2026-11-08 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 20 | ⭐ 45,097 | 2026-08-07 | 2026-10-29 |
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-11-08T21:00:56.109Z*
+*Last updated: 2026-11-09T21:01:02.688Z*

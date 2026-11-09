@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 303
+- **Total Repositories**: 306
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-07
 
@@ -16,31 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [orailnoor/cross-platform-llm-client](../repos/orailnoor/cross-platform-llm-client.md) | ⭐ 1,770 | 2026-08-04 | 7 |
+| [orailnoor/cross-platform-llm-client](../repos/orailnoor/cross-platform-llm-client.md) | ⭐ 1,936 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dyang886/Game-Cheats-Manager](../repos/dyang886/Game-Cheats-Manager.md) | ⭐ 16,047 | 2026-08-05 | 5 |
+| [throneproj/Throne](../repos/throneproj/Throne.md) | ⭐ 7,800 | 2026-08-08 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [telegramdesktop/tdesktop](../repos/telegramdesktop/tdesktop.md) | ⭐ 33,502 | 2026-08-05 | 8 |
+| [BruceDevices/firmware](../repos/BruceDevices/firmware.md) | ⭐ 7,188 | 2026-08-08 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 41,510 | 2026-08-09 | 14 |
+| [cemu-project/Cemu](../repos/cemu-project/Cemu.md) | ⭐ 10,124 | 2026-08-10 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [transmission/transmission](../repos/transmission/transmission.md) | ⭐ 15,396 | 2026-08-10 | 3 |
+| [google-deepmind/mujoco](../repos/google-deepmind/mujoco.md) | ⭐ 16,861 | 2026-08-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [azahar-emu/azahar](../repos/azahar-emu/azahar.md) | ⭐ 8,599 | 2026-08-11 | 6 |
+| [Vita3K/Vita3K](../repos/Vita3K/Vita3K.md) | ⭐ 5,956 | 2026-08-23 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-deepmind/mujoco](../repos/google-deepmind/mujoco.md) | ⭐ 16,337 | 2026-08-11 | 3 |
+| [dariulone/cyberpunk-vr-port](../repos/dariulone/cyberpunk-vr-port.md) | ⭐ 535 | 2026-08-23 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 52,284 | 2026-10-06 | 9 |
+| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 52,586 | 2026-10-06 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dashdogy/MFG-Unlocker](../repos/dashdogy/MFG-Unlocker.md) | ⭐ 2,346 | 2026-11-07 | 2 |
+| [dashdogy/MFG-Unlocker](../repos/dashdogy/MFG-Unlocker.md) | ⭐ 2,415 | 2026-11-07 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [JakeATX/llamAmpere](../repos/JakeATX/llamAmpere.md) | ⭐ 302 | 2026-11-09 | 1 |
 
 
 ---
@@ -96,8 +99,8 @@
 | [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,876 | 2026-08-08 | 18 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,138 | 2026-08-01 | 20 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,920 | 2026-08-05 | 12 |
+| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 52,586 | 2026-10-06 | 10 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
-| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 52,284 | 2026-10-06 | 9 |
 | [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,787 | 2026-08-03 | 13 |
 | [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,454 | 2026-09-01 | 3 |
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,405 | 2026-08-02 | 10 |
@@ -230,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-08T21:00:56.065Z*
+*Last updated: 2026-11-09T21:01:02.656Z*
