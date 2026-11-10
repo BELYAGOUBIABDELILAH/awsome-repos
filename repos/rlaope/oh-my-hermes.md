@@ -1,6 +1,6 @@
 # rlaope&#x2F;oh-my-hermes
 
-> ⚚ The coding harness with Hermes Agent wired into IDE.
+> ⚚ The ultrawork agent with AI coworkers wired into you
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;rlaope&#x2F;oh-my-hermes) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | MIT |
-| **Stars** | ⭐ 4,771 |
-| **Forks** | 🍴 372 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 5,364 |
+| **Forks** | 🍴 427 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #8 |
 
 | **First Seen** | Sep 14, 2026 |
-| **Last Seen** | Oct 29, 2026 |
+| **Last Seen** | Nov 10, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #8
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 1 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 35&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: Top 10 (Peak: #8)
 
 
 ---
 
-*Last updated: 2026-11-09T21:01:08.645Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-11-10T21:01:02.320Z*  
+*Data from 3 trending reports*

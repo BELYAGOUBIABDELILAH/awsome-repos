@@ -16,10 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,640 | 2026-08-03 | 54 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [nodecode-ai/nodecode](../repos/nodecode-ai/nodecode.md) | ⭐ 256 | 2026-10-26 | 8 |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,641 | 2026-08-03 | 55 |
 
 
 ---
@@ -41,7 +38,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) | ⭐ 10,986 | 2026-08-04 | 1 |
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,640 | 2026-08-03 | 54 |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,641 | 2026-08-03 | 55 |
 | [lem-project/lem](../repos/lem-project/lem.md) | ⭐ 3,023 | 2026-08-01 | 3 |
 | [sbcl/sbcl](../repos/sbcl/sbcl.md) | ⭐ 2,143 | 2026-08-24 | 4 |
 | [coalton-lang/coalton](../repos/coalton-lang/coalton.md) | ⭐ 1,734 | 2026-08-04 | 1 |
@@ -54,7 +51,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | 54 | ⭐ 3,640 | 2026-08-03 | 2026-11-09 |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | 55 | ⭐ 3,641 | 2026-08-03 | 2026-11-10 |
 | [nodecode-ai/nodecode](../repos/nodecode-ai/nodecode.md) | 8 | ⭐ 256 | 2026-10-26 | 2026-11-09 |
 | [sbcl/sbcl](../repos/sbcl/sbcl.md) | 4 | ⭐ 2,143 | 2026-08-24 | 2026-09-09 |
 | [lem-project/lem](../repos/lem-project/lem.md) | 3 | ⭐ 3,023 | 2026-08-01 | 2026-08-03 |
@@ -76,4 +73,4 @@
 
 ---
 
-*Last updated: 2026-11-09T21:01:02.665Z*
+*Last updated: 2026-11-10T21:00:56.512Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | PowerShell |
 | **License** | MIT |
-| **Stars** | ⭐ 8,335 |
-| **Forks** | 🍴 404 |
-| **Trending Days** | 10 |
+| **Stars** | ⭐ 8,428 |
+| **Forks** | 🍴 408 |
+| **Trending Days** | 11 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 23, 2026 |
-| **Last Seen** | Nov 8, 2026 |
+| **Last Seen** | Nov 10, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in PowerShell or similar-topics*
+*Similar: Check repositories in PowerShell or claude*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 10
+- **Trending Days**: 11
 - **Longest Streak**: 4 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-
+[`claude`](../../topics/claude.md) [`claude-code`](../../topics/claude-code.md) [`claude-desktop`](../../topics/claude-desktop.md) [`claude-desktop-zh-cn`](../../topics/claude-desktop-zh-cn.md) 
 
 ### Curated Categories
-`General` 
+`Large Language Models` `Systems Programming` 
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-09T21:01:09.533Z*  
-*Data from 10 trending reports*
+*Last updated: 2026-11-10T21:01:03.223Z*  
+*Data from 11 trending reports*

@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 106,801 | 2026-08-02 | 8 |
+| [figma/mcp-server-guide](../repos/figma/mcp-server-guide.md) | ⭐ 2,170 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | ⭐ 46,607 | 2026-08-07 | 15 |
+| [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 108,794 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZhuLinsen/daily_stock_analysis](../repos/ZhuLinsen/daily_stock_analysis.md) | ⭐ 68,752 | 2026-08-09 | 7 |
+| [ZhuLinsen/daily_stock_analysis](../repos/ZhuLinsen/daily_stock_analysis.md) | ⭐ 69,535 | 2026-08-09 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [neuml/txtai](../repos/neuml/txtai.md) | ⭐ 13,235 | 2026-08-10 | 3 |
+| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 192,179 | 2026-08-11 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 190,785 | 2026-08-11 | 11 |
+| [ashishpatel26/500-AI-Agents-Projects](../repos/ashishpatel26/500-AI-Agents-Projects.md) | ⭐ 39,634 | 2026-08-15 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HKUDS/DeepTutor](../repos/HKUDS/DeepTutor.md) | ⭐ 57,574 | 2026-08-11 | 8 |
+| [anthropics/claude-quickstarts](../repos/anthropics/claude-quickstarts.md) | ⭐ 20,427 | 2026-08-22 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-quickstarts](../repos/anthropics/claude-quickstarts.md) | ⭐ 19,952 | 2026-08-22 | 5 |
+| [elder-plinius/OBLITERATUS](../repos/elder-plinius/OBLITERATUS.md) | ⭐ 9,446 | 2026-08-23 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenBMB/VoxCPM](../repos/OpenBMB/VoxCPM.md) | ⭐ 42,100 | 2026-09-14 | 4 |
+| [Imbad0202/academic-research-skills](../repos/Imbad0202/academic-research-skills.md) | ⭐ 56,350 | 2026-09-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [homeassistant-ai/ha-mcp](../repos/homeassistant-ai/ha-mcp.md) | ⭐ 5,853 | 2026-10-26 | 2 |
+| [rlaope/oh-my-hermes](../repos/rlaope/oh-my-hermes.md) | ⭐ 5,364 | 2026-09-14 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BigBodyCobain/Shadowbroker](../repos/BigBodyCobain/Shadowbroker.md) | ⭐ 11,523 | 2026-11-08 | 2 |
+| [OpenBMB/VoxCPM](../repos/OpenBMB/VoxCPM.md) | ⭐ 42,206 | 2026-09-14 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [XiaoYouChR/Ghost-Downloader-3](../repos/XiaoYouChR/Ghost-Downloader-3.md) | ⭐ 10,852 | 2026-10-11 | The only downloader you need. 下载器的集大成者。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [baidu/Unlimited-OCR](../repos/baidu/Unlimited-OCR.md) | ⭐ 29,734 | 2026-10-13 | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ScrapeCreators/social-media-research-skills](../repos/ScrapeCreators/social-media-research-skills.md) | ⭐ 4,026 | 2026-10-17 | AI agent skills for social media research. Outlier posts, comment mining, competitor teardowns, a... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Kruk2/jasna](../repos/Kruk2/jasna.md) | ⭐ 3,232 | 2026-10-18 | Video restoration tool |
 
 
 ---
@@ -94,7 +94,7 @@
 | [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 285,114 | 2026-08-08 | 4 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 243,012 | 2026-08-01 | 17 |
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 198,857 | 2026-08-02 | 8 |
-| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 190,785 | 2026-08-11 | 11 |
+| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 192,179 | 2026-08-11 | 12 |
 | [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 189,013 | 2026-09-07 | 3 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,775 | 2026-08-06 | 9 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 167,557 | 2026-07-31 | 9 |
@@ -105,8 +105,8 @@
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 133,846 | 2026-08-03 | 11 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 117,829 | 2026-08-08 | 16 |
 | [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 115,765 | 2026-08-20 | 9 |
+| [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 108,794 | 2026-08-02 | 9 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 108,616 | 2026-07-31 | 6 |
-| [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 106,801 | 2026-08-02 | 8 |
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 104,830 | 2026-08-01 | 14 |
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-09T21:01:02.740Z*
+*Last updated: 2026-11-10T21:00:56.583Z*

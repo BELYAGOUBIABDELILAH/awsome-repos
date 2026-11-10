@@ -151,27 +151,7 @@
 
 ---
 
-### 8. [TNT-Likely&#x2F;PanWatch](../../repos/TNT-Likely/PanWatch.md)
-
-**盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股&#x2F;港股&#x2F;美股实时监控、持仓管理、智能分析、全渠道推送**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,761 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 83/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Sep 21, 2026 |
-
-**Why it's a gem**: High growth velocity (+202 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/TNT-Likely/PanWatch.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;TNT-Likely&#x2F;PanWatch)
-
----
-
-### 9. [KnockOutEZ&#x2F;wigolo](../../repos/KnockOutEZ/wigolo.md)
+### 8. [KnockOutEZ&#x2F;wigolo](../../repos/KnockOutEZ/wigolo.md)
 
 **The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0&#x2F;query. Public beta.**
 
@@ -191,7 +171,7 @@
 
 ---
 
-### 10. [yyjeqhc&#x2F;webcodex](../../repos/yyjeqhc/webcodex.md)
+### 9. [yyjeqhc&#x2F;webcodex](../../repos/yyjeqhc/webcodex.md)
 
 **Give cloud AI agents a real development environment on your own machines.**
 
@@ -208,6 +188,26 @@
 **Best for**: 
 
 [View Passport](../../repos/yyjeqhc/webcodex.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;yyjeqhc&#x2F;webcodex)
+
+---
+
+### 10. [TNT-Likely&#x2F;PanWatch](../../repos/TNT-Likely/PanWatch.md)
+
+**盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股&#x2F;港股&#x2F;美股实时监控、持仓管理、智能分析、全渠道推送**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,761 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 82/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Sep 21, 2026 |
+
+**Why it's a gem**: High growth velocity (+202 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/TNT-Likely/PanWatch.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;TNT-Likely&#x2F;PanWatch)
 
 ---
 
@@ -259,7 +259,7 @@
 |---|---|
 | ⭐ **Stars** | 8,229 |
 | 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 80/100 |
+| 🏆 **Gem Score** | 79/100 |
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Aug 1, 2026 |
 
@@ -279,7 +279,7 @@
 |---|---|
 | ⭐ **Stars** | 12,523 |
 | 💻 **Language** | Python |
-| 🏆 **Gem Score** | 80/100 |
+| 🏆 **Gem Score** | 79/100 |
 | 📈 **Trending Days** | 10 |
 | 📅 **First Seen** | Aug 11, 2026 |
 
@@ -299,7 +299,7 @@
 |---|---|
 | ⭐ **Stars** | 9,651 |
 | 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 80/100 |
+| 🏆 **Gem Score** | 79/100 |
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Aug 12, 2026 |
 
@@ -311,27 +311,7 @@
 
 ---
 
-### 16. [Osmantic&#x2F;ODS](../../repos/Osmantic/ODS.md)
-
-**Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 5,807 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 79/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 20, 2026 |
-
-**Why it's a gem**: High growth velocity (+213 stars&#x2F;day) • Trending 4 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/Osmantic/ODS.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Osmantic&#x2F;ODS)
-
----
-
-### 17. [aipoch&#x2F;open-science](../../repos/aipoch/open-science.md)
+### 16. [aipoch&#x2F;open-science](../../repos/aipoch/open-science.md)
 
 **The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python&#x2F;R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.**
 
@@ -351,7 +331,7 @@
 
 ---
 
-### 18. [huggingface&#x2F;funes](../../repos/huggingface/funes.md)
+### 17. [huggingface&#x2F;funes](../../repos/huggingface/funes.md)
 
 **Durable, searchable memory of your past agent sessions.**
 
@@ -371,7 +351,7 @@
 
 ---
 
-### 19. [adongwanai&#x2F;AgentGuide](../../repos/adongwanai/AgentGuide.md)
+### 18. [adongwanai&#x2F;AgentGuide](../../repos/adongwanai/AgentGuide.md)
 
 **https:&#x2F;&#x2F;adongwanai.github.io&#x2F;AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成**
 
@@ -391,7 +371,7 @@
 
 ---
 
-### 20. [AdventDevInc&#x2F;kudu](../../repos/AdventDevInc/kudu.md)
+### 19. [AdventDevInc&#x2F;kudu](../../repos/AdventDevInc/kudu.md)
 
 **Free Windows, Mac and Linux cleaner, scanner, and more.**
 
@@ -411,6 +391,26 @@
 
 ---
 
+### 20. [cobusgreyling&#x2F;loop-engineering](../../repos/cobusgreyling/loop-engineering.md)
+
+**Practical patterns, starters &amp; CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 10,982 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 78/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 10, 2026 |
+
+**Why it's a gem**: High growth velocity (+64 stars&#x2F;day) • Trending 5 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/cobusgreyling/loop-engineering.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;cobusgreyling&#x2F;loop-engineering)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-09T21:01:10.151Z*  
+*Generated: 2026-11-10T21:01:03.869Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

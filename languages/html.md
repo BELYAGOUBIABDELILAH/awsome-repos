@@ -16,19 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 17,200 | 2026-08-02 | 12 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,943 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nova-video-player/aos-AVP](../repos/nova-video-player/aos-AVP.md) | ⭐ 4,796 | 2026-08-16 | 3 |
+| [github/opensource.guide](../repos/github/opensource.guide.md) | ⭐ 15,793 | 2026-09-19 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [baojie/shiji-kb](../repos/baojie/shiji-kb.md) | ⭐ 3,721 | 2026-09-19 | 8 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [github/opensource.guide](../repos/github/opensource.guide.md) | ⭐ 15,792 | 2026-09-19 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Weiss-UltimateSavior/Tyranor-Next](../repos/Weiss-UltimateSavior/Tyranor-Next.md) | ⭐ 826 | 2026-11-09 | 1 |
+| [yvoronoy/awesome-english](../repos/yvoronoy/awesome-english.md) | ⭐ 4,526 | 2026-10-14 | 3 |
 
 
 ---
@@ -37,19 +31,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [SamidyFR/Game-Decompilations](../repos/SamidyFR/Game-Decompilations.md) | ⭐ 568 | 2026-10-11 | List of Game Decompilations i could gather from around the internet. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [spyboy-productions/r4ven](../repos/spyboy-productions/r4ven.md) | ⭐ 1,625 | 2026-10-11 | Track the GPS location of the user&#39;s smartphone or PC and capture a picture of the target, along ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [vpnfast/vpnfast.github.io](../repos/vpnfast/vpnfast.github.io.md) | ⭐ 1,611 | 2026-10-11 | 2026年科学上网最稳翻墙软件，几款中国好用的VPN推荐 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [Hisn00w/ASu-skills](../repos/Hisn00w/ASu-skills.md) | ⭐ 6,242 | 2026-10-12 | 🚀面向求职与开发场景的实用 AI Skills 集合，支持简历优化、岗位投递、面试准备与开发提效。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [yvoronoy/awesome-english](../repos/yvoronoy/awesome-english.md) | ⭐ 4,363 | 2026-10-14 | A collection of awesome study resources for learners of English. |
+| [yvoronoy/awesome-english](../repos/yvoronoy/awesome-english.md) | ⭐ 4,526 | 2026-10-14 | A collection of awesome study resources for learners of English. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [MengTo/threeui](../repos/MengTo/threeui.md) | ⭐ 7,060 | 2026-10-22 | Open-source ThreeUI Community catalog with live interactive components and complete Community sou... |
@@ -65,6 +50,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [alshedivat/al-folio](../repos/alshedivat/al-folio.md) | ⭐ 16,310 | 2026-11-04 | A beautiful, simple, clean, and responsive Jekyll theme for academics |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [plannotator/effective-html](../repos/plannotator/effective-html.md) | ⭐ 4,045 | 2026-11-06 | Agent skills for useful HTML artifacts, wireframes, interactive prototypes, plans, and diagrams. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [naveedharri/baalda](../repos/naveedharri/baalda.md) | ⭐ 287 | 2026-11-06 | The team second brain. Plain Markdown files on your disk, edited together in real time, and read ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [givanz/Vvveb](../repos/givanz/Vvveb.md) | ⭐ 1,278 | 2026-11-06 | Powerful and easy to use cms to build websites, blogs or ecommerce stores. |
 
 
 ---
@@ -76,7 +70,7 @@
 | [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 210,940 | 2026-08-03 | 23 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 141,705 | 2026-08-08 | 18 |
 | [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 76,613 | 2026-08-19 | 9 |
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,824 | 2026-08-01 | 23 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,943 | 2026-08-01 | 24 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,659 | 2026-08-01 | 10 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 43,224 | 2026-08-12 | 13 |
 | [QSCTech/zju-icicles](../repos/QSCTech/zju-icicles.md) | ⭐ 41,365 | 2026-09-03 | 5 |
@@ -100,7 +94,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 23 | ⭐ 68,824 | 2026-08-01 | 2026-11-08 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 24 | ⭐ 68,943 | 2026-08-01 | 2026-11-10 |
 | [ossu/computer-science](../repos/ossu/computer-science.md) | 23 | ⭐ 210,940 | 2026-08-03 | 2026-11-07 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 18 | ⭐ 10,131 | 2026-08-01 | 2026-11-07 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 18 | ⭐ 11,040 | 2026-08-03 | 2026-10-28 |
@@ -218,4 +212,4 @@
 
 ---
 
-*Last updated: 2026-11-09T21:01:02.694Z*
+*Last updated: 2026-11-10T21:00:56.540Z*

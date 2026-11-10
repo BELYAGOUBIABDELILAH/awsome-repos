@@ -1,0 +1,95 @@
+# farcasterxyz&#x2F;contracts
+
+> Implementation of the Farcaster contracts
+
+[View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;farcasterxyz&#x2F;contracts) 
+
+---
+
+## Quick Facts
+
+| | |
+|---|---|
+| **Language** | Solidity |
+| **License** | MIT |
+| **Stars** | ⭐ 428 |
+| **Forks** | 🍴 183 |
+| **Trending Days** | 1 |
+| **Peak Rank** | #N&#x2F;A |
+
+| **First Seen** | Nov 10, 2026 |
+| **Last Seen** | Nov 10, 2026 |
+
+
+---
+
+## Best For
+
+
+
+---
+
+## Works Great With
+
+*Ecosystem data coming soon*
+
+---
+
+## Alternatives
+
+*Similar: Check repositories in Solidity or farcaster*
+
+---
+
+## Trending Timeline
+
+
+### Highlights
+
+- **Peak Rank**: #N&#x2F;A
+- **Trending Days**: 1
+- **Longest Streak**: 1 days
+
+---
+
+## Categories
+
+### Topics
+[`farcaster`](../../topics/farcaster.md) 
+
+### Curated Categories
+`Systems Programming` 
+
+---
+
+## Developer Card
+
+### Developer Card
+
+| Aspect | Rating | Details |
+|--------|--------|---------|
+| **Difficulty** | Beginner | Approachable with good examples |
+| **Documentation** | Limited | May require reading source code |
+| **Community** | Very Active | 428+ stars, strong contributor base |
+| **Maturity** | Stable | Established project |
+| **Maintenance** | Very Active | Updated within last week |
+| **Learning Curve** | Medium | Moderate learning investment |
+
+#### Use Cases
+- General purpose
+
+#### Works Great With
+
+#### Alternatives
+- Check similar projects in Solidity
+
+#### Metrics
+- **Hidden Gem**: ✓ Yes
+- **Trending Score**: 20&#x2F;100
+- **Historical Rank**: No ranking data
+
+
+---
+
+*Last updated: 2026-11-10T21:01:03.577Z*  
+*Data from 1 trending reports*

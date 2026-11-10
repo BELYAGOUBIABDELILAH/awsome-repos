@@ -16,19 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 739 | 2026-08-01 | 60 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 739 | 2026-08-01 | 61 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [StructuralEquationModels/StructuralEquationModels.jl](../repos/StructuralEquationModels/StructuralEquationModels.jl.md) | ⭐ 55 | 2026-11-09 | 1 |
+| [StructuralEquationModels/StructuralEquationModels.jl](../repos/StructuralEquationModels/StructuralEquationModels.jl.md) | ⭐ 55 | 2026-11-09 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [JuliaGPU/KernelAbstractions.jl](../repos/JuliaGPU/KernelAbstractions.jl.md) | ⭐ 529 | 2026-10-11 | Heterogeneous programming in Julia |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [aviatesk/JETLS.jl](../repos/aviatesk/JETLS.jl.md) | ⭐ 317 | 2026-10-25 | A new language server for Julia, enabling modern, compiler-powered tooling. |
@@ -53,7 +50,7 @@
 | [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,448 | 2026-08-02 | 39 |
 | [JuliaGPU/CUDA.jl](../repos/JuliaGPU/CUDA.jl.md) | ⭐ 1,419 | 2026-08-12 | 1 |
 | [JuliaStats/Distributions.jl](../repos/JuliaStats/Distributions.jl.md) | ⭐ 1,196 | 2026-08-12 | 1 |
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 739 | 2026-08-01 | 60 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 739 | 2026-08-01 | 61 |
 | [trixi-framework/Trixi.jl](../repos/trixi-framework/Trixi.jl.md) | ⭐ 736 | 2026-08-07 | 3 |
 | [LuxDL/Lux.jl](../repos/LuxDL/Lux.jl.md) | ⭐ 721 | 2026-08-12 | 1 |
 | [EnzymeAD/Enzyme.jl](../repos/EnzymeAD/Enzyme.jl.md) | ⭐ 586 | 2026-09-09 | 2 |
@@ -73,7 +70,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 60 | ⭐ 739 | 2026-08-01 | 2026-11-09 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 61 | ⭐ 739 | 2026-08-01 | 2026-11-10 |
 | [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | 39 | ⭐ 1,448 | 2026-08-02 | 2026-11-06 |
 | [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | 15 | ⭐ 46 | 2026-08-02 | 2026-08-25 |
 | [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | 14 | ⭐ 126 | 2026-08-01 | 2026-09-12 |
@@ -115,4 +112,4 @@
 
 ---
 
-*Last updated: 2026-11-09T21:01:02.704Z*
+*Last updated: 2026-11-10T21:00:56.550Z*

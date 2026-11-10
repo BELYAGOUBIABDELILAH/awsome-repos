@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 337
+- **Total Repositories**: 339
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-11-02
 
@@ -16,40 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 39,167 | 2026-08-01 | 26 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 37,106 | 2026-08-01 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [superplanehq/superplane](../repos/superplanehq/superplane.md) | ⭐ 9,433 | 2026-08-02 | 15 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 6,384 | 2026-08-02 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kgretzky/evilginx2](../repos/kgretzky/evilginx2.md) | ⭐ 15,882 | 2026-08-02 | 4 |
+| [github/github-mcp-server](../repos/github/github-mcp-server.md) | ⭐ 34,366 | 2026-08-05 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chaitin/SafeLine](../repos/chaitin/SafeLine.md) | ⭐ 23,232 | 2026-08-03 | 7 |
+| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 93,967 | 2026-08-06 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | ⭐ 39,802 | 2026-08-03 | 11 |
+| [rorkai/App-Store-Connect-CLI](../repos/rorkai/App-Store-Connect-CLI.md) | ⭐ 8,318 | 2026-08-09 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [henrygd/beszel](../repos/henrygd/beszel.md) | ⭐ 27,055 | 2026-08-10 | 6 |
+| [github/gh-aw](../repos/github/gh-aw.md) | ⭐ 5,612 | 2026-08-10 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [trufflesecurity/trufflehog](../repos/trufflesecurity/trufflehog.md) | ⭐ 29,086 | 2026-08-12 | 9 |
+| [gitleaks/gitleaks](../repos/gitleaks/gitleaks.md) | ⭐ 30,876 | 2026-08-11 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BishopFox/sliver](../repos/BishopFox/sliver.md) | ⭐ 12,291 | 2026-08-29 | 4 |
+| [trufflesecurity/trufflehog](../repos/trufflesecurity/trufflehog.md) | ⭐ 29,165 | 2026-08-12 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dsx-ai-factory/nvke](../repos/dsx-ai-factory/nvke.md) | ⭐ 1,026 | 2026-11-05 | 4 |
+| [flipped-aurora/gin-vue-admin](../repos/flipped-aurora/gin-vue-admin.md) | ⭐ 25,129 | 2026-09-22 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [dsx-ai-factory/nvke](../repos/dsx-ai-factory/nvke.md) | ⭐ 1,110 | 2026-11-05 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Autumn-27/ScopeSentry](../repos/Autumn-27/ScopeSentry.md) | ⭐ 1,811 | 2026-10-11 | ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information disco... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Bennettxai/FounderOS](../repos/Bennettxai/FounderOS.md) | ⭐ 1,115 | 2026-10-12 | An open-source, single-operator business command center: run a one-person operated company as AI-... |
@@ -77,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jasonxu114514/opencode2api](../repos/jasonxu114514/opencode2api.md) | ⭐ 1,045 | 2026-10-16 | A Go-based OpenCode Zen &#x2F; Zen Go API proxy with OpenAI &amp; Anthropic API compatibility, key&#x2F;proxy p... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [GoogleCloudPlatform/scion](../repos/GoogleCloudPlatform/scion.md) | ⭐ 1,949 | 2026-10-16 |  |
 
 
 ---
@@ -89,7 +92,7 @@
 | [golang/go](../repos/golang/go.md) | ⭐ 139,715 | 2026-07-31 | 18 |
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,896 | 2026-08-04 | 14 |
 | [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,859 | 2026-08-15 | 14 |
-| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 93,690 | 2026-08-06 | 14 |
+| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 93,967 | 2026-08-06 | 15 |
 | [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 90,245 | 2026-08-03 | 4 |
 | [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,599 | 2026-08-05 | 6 |
 | [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 81,063 | 2026-08-12 | 8 |
@@ -112,12 +115,12 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 27 | ⭐ 37,106 | 2026-08-01 | 2026-11-10 |
 | [ollama/ollama](../repos/ollama/ollama.md) | 27 | ⭐ 185,709 | 2026-08-01 | 2026-11-02 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 26 | ⭐ 55,232 | 2026-08-01 | 2026-11-07 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 26 | ⭐ 39,167 | 2026-08-01 | 2026-11-09 |
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 26 | ⭐ 36,482 | 2026-08-01 | 2026-11-04 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 22 | ⭐ 51,364 | 2026-08-01 | 2026-11-04 |
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 21 | ⭐ 6,222 | 2026-08-02 | 2026-11-08 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 22 | ⭐ 6,384 | 2026-08-02 | 2026-11-10 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 20 | ⭐ 45,097 | 2026-08-07 | 2026-10-29 |
 | [golang/go](../repos/golang/go.md) | 18 | ⭐ 139,715 | 2026-07-31 | 2026-11-06 |
 | [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | 18 | ⭐ 1,031 | 2026-08-01 | 2026-11-04 |
@@ -230,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-09T21:01:02.688Z*
+*Last updated: 2026-11-10T21:00:56.535Z*

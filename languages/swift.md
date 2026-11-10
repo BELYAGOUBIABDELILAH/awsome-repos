@@ -16,28 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TheBoredTeam/boring.notch](../repos/TheBoredTeam/boring.notch.md) | ⭐ 11,324 | 2026-08-06 | 11 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 14,054 | 2026-08-01 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [whoeevee/EeveeSpotifyReborn](../repos/whoeevee/EeveeSpotifyReborn.md) | ⭐ 2,448 | 2026-08-07 | 11 |
+| [apple/container](../repos/apple/container.md) | ⭐ 51,136 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZingerLittleBee/Heeler](../repos/ZingerLittleBee/Heeler.md) | ⭐ 847 | 2026-09-21 | 8 |
+| [momenbasel/PureMac](../repos/momenbasel/PureMac.md) | ⭐ 7,732 | 2026-08-04 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hugeBlack/GetMoreRam](../repos/hugeBlack/GetMoreRam.md) | ⭐ 456 | 2026-10-17 | 3 |
+| [github/CopilotForXcode](../repos/github/CopilotForXcode.md) | ⭐ 6,381 | 2026-08-11 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YangJiiii/3105](../repos/YangJiiii/3105.md) | ⭐ 980 | 2026-10-25 | 4 |
+| [abue-ammar/tinycast](../repos/abue-ammar/tinycast.md) | ⭐ 9,363 | 2026-09-01 | 14 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | ⭐ 1,371 | 2026-09-13 | 10 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [HD838A/remote-mic-app](../repos/HD838A/remote-mic-app.md) | ⭐ 2,783 | 2026-10-08 | 11 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [bobsupra/NuvioTVOS](../repos/bobsupra/NuvioTVOS.md) | ⭐ 286 | 2026-10-11 | Nuvio tvOS client |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [StephenLovino/BetterCast](../repos/StephenLovino/BetterCast.md) | ⭐ 182 | 2026-10-12 | Turn spare devices into real extra displays for your Mac or Windows PC — iPad, iPhone, Android, W... |
@@ -65,6 +68,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [YangJiiii/3105](../repos/YangJiiii/3105.md) | ⭐ 980 | 2026-10-25 | Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [samhenrigold/LightTouchMac](../repos/samhenrigold/LightTouchMac.md) | ⭐ 293 | 2026-10-26 | Run classic iPhone, iPod touch and iPad apps on your Mac (iOS 1–7) |
 
 
 ---
@@ -75,7 +81,7 @@
 |------------|-------|------------|---------------|
 | [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,542 | 2026-08-05 | 18 |
 | [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) | ⭐ 53,673 | 2026-09-04 | 5 |
-| [apple/container](../repos/apple/container.md) | ⭐ 51,109 | 2026-08-01 | 18 |
+| [apple/container](../repos/apple/container.md) | ⭐ 51,136 | 2026-08-01 | 19 |
 | [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,920 | 2026-08-12 | 15 |
 | [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,277 | 2026-09-01 | 4 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 28,732 | 2026-08-01 | 27 |
@@ -100,10 +106,10 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 31 | ⭐ 13,916 | 2026-08-01 | 2026-11-08 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 32 | ⭐ 14,054 | 2026-08-01 | 2026-11-10 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 27 | ⭐ 28,732 | 2026-08-01 | 2026-11-06 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 22 | ⭐ 14,999 | 2026-08-04 | 2026-10-29 |
-| [apple/container](../repos/apple/container.md) | 18 | ⭐ 51,109 | 2026-08-01 | 2026-11-08 |
+| [apple/container](../repos/apple/container.md) | 19 | ⭐ 51,136 | 2026-08-01 | 2026-11-10 |
 | [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 18 | ⭐ 9,415 | 2026-08-02 | 2026-11-07 |
 | [swiftlang/swift](../repos/swiftlang/swift.md) | 18 | ⭐ 70,542 | 2026-08-05 | 2026-11-06 |
 | [apple/swift-nio](../repos/apple/swift-nio.md) | 16 | ⭐ 8,547 | 2026-08-04 | 2026-11-06 |
@@ -218,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-11-09T21:01:02.762Z*
+*Last updated: 2026-11-10T21:00:56.606Z*

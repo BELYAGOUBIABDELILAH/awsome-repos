@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 199
+- **Total Repositories**: 200
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-03
+- **Last Updated**: 2026-11-10
 
 ---
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [modelcontextprotocol/csharp-sdk](../repos/modelcontextprotocol/csharp-sdk.md) | ⭐ 4,625 | 2026-08-01 | 10 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,509 | 2026-08-01 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 14,939 | 2026-08-01 | 22 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 14,945 | 2026-08-01 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 33,494 | 2026-08-02 | 42 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 120,344 | 2026-08-02 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) | ⭐ 6,976 | 2026-08-02 | 15 |
+| [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) | ⭐ 7,007 | 2026-08-02 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AssetRipper/AssetRipper](../repos/AssetRipper/AssetRipper.md) | ⭐ 8,893 | 2026-08-02 | 9 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 17,894 | 2026-08-02 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 17,854 | 2026-08-02 | 26 |
+| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 39,173 | 2026-08-03 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 17,626 | 2026-08-03 | 21 |
+| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 11,444 | 2026-08-04 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 11,388 | 2026-08-04 | 16 |
+| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | ⭐ 9,443 | 2026-08-04 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [UnigramDev/Unigram](../repos/UnigramDev/Unigram.md) | ⭐ 5,519 | 2026-08-09 | 4 |
+| [UnigramDev/Unigram](../repos/UnigramDev/Unigram.md) | ⭐ 5,523 | 2026-08-09 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tichau/FileConverter](../repos/Tichau/FileConverter.md) | ⭐ 15,646 | 2026-08-11 | 9 |
+| [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 40,927 | 2026-08-14 | 10 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ss14Starlight/space-station-14](../repos/ss14Starlight/space-station-14.md) | ⭐ 132 | 2026-10-11 | An open source project aimed at creating unique mechanics and a pleasant game atmosphere in the g... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [dockersamples/example-voting-app](../repos/dockersamples/example-voting-app.md) | ⭐ 5,844 | 2026-10-11 | Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nopSolutions/nopCommerce](../repos/nopSolutions/nopCommerce.md) | ⭐ 10,171 | 2026-10-13 | ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart. |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [zqq-699/BlockHelm-Launcher](../repos/zqq-699/BlockHelm-Launcher.md) | ⭐ 264 | 2026-10-25 | 简洁现代的 Minecraft Java 版启动器，支持实例、资源与账户管理。 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ArduPilot/MissionPlanner](../repos/ArduPilot/MissionPlanner.md) | ⭐ 2,407 | 2026-10-25 | Mission Planner Ground Control Station for ArduPilot (c# .net) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [patchzyy/Wiicompiled](../repos/patchzyy/Wiicompiled.md) | ⭐ 1,363 | 2026-10-26 | Wiicompiled |
 
 
 ---
@@ -88,13 +88,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 119,845 | 2026-08-02 | 33 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 120,344 | 2026-08-02 | 34 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 58,750 | 2026-08-02 | 24 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 56,028 | 2026-08-06 | 22 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,351 | 2026-08-01 | 17 |
-| [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 40,886 | 2026-08-14 | 9 |
-| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 39,115 | 2026-08-03 | 14 |
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,503 | 2026-08-01 | 24 |
+| [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 40,927 | 2026-08-14 | 10 |
+| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 39,173 | 2026-08-03 | 15 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,509 | 2026-08-01 | 25 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 33,494 | 2026-08-02 | 42 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,757 | 2026-08-01 | 23 |
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 32,177 | 2026-08-22 | 6 |
@@ -117,12 +117,12 @@
 |------------|---------------|-------|------------|-----------|
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 42 | ⭐ 33,494 | 2026-08-02 | 2026-11-09 |
 | [dotnet/skills](../repos/dotnet/skills.md) | 40 | ⭐ 5,851 | 2026-08-03 | 2026-11-07 |
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 33 | ⭐ 119,845 | 2026-08-02 | 2026-11-03 |
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 26 | ⭐ 17,854 | 2026-08-02 | 2026-11-09 |
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 24 | ⭐ 38,503 | 2026-08-01 | 2026-11-08 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 34 | ⭐ 120,344 | 2026-08-02 | 2026-11-10 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 27 | ⭐ 17,894 | 2026-08-02 | 2026-11-10 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 25 | ⭐ 38,509 | 2026-08-01 | 2026-11-10 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 24 | ⭐ 58,750 | 2026-08-02 | 2026-10-28 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 23 | ⭐ 32,757 | 2026-08-01 | 2026-10-29 |
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 22 | ⭐ 14,939 | 2026-08-01 | 2026-11-09 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 23 | ⭐ 14,945 | 2026-08-01 | 2026-11-10 |
 | [dotnet/runtime](../repos/dotnet/runtime.md) | 22 | ⭐ 18,413 | 2026-08-04 | 2026-11-06 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | 22 | ⭐ 56,028 | 2026-08-06 | 2026-11-05 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-09T21:01:02.652Z*
+*Last updated: 2026-11-10T21:00:56.500Z*

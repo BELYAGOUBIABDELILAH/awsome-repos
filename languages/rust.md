@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 240
+- **Total Repositories**: 242
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-05
 
@@ -16,40 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 48,384 | 2026-08-02 | 20 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 49,120 | 2026-08-02 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 103,373 | 2026-08-09 | 23 |
+| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 67,032 | 2026-08-05 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [longbridge/gpui-kit](../repos/longbridge/gpui-kit.md) | ⭐ 20,099 | 2026-09-04 | 14 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 103,860 | 2026-08-09 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [storytold/artcraft](../repos/storytold/artcraft.md) | ⭐ 40,223 | 2026-10-06 | 10 |
+| [ooolabdev/ooosplat](../repos/ooolabdev/ooosplat.md) | ⭐ 2,437 | 2026-11-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jub0t/Concat](../repos/jub0t/Concat.md) | ⭐ 16,148 | 2026-10-29 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Universal-Debloater-Alliance/universal-android-debloater-next-generation](../repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation.md) | ⭐ 9,869 | 2026-11-09 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [infosave2007/aivpn](../repos/infosave2007/aivpn.md) | ⭐ 879 | 2026-11-09 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ooolabdev/ooosplat](../repos/ooolabdev/ooosplat.md) | ⭐ 2,403 | 2026-11-09 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ViceVerse-cz/Serein](../repos/ViceVerse-cz/Serein.md) | ⭐ 1,173 | 2026-11-09 | 1 |
+| [alvr-org/ALVR](../repos/alvr-org/ALVR.md) | ⭐ 8,078 | 2026-11-10 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [BrandonKowalski/slot](../repos/BrandonKowalski/slot.md) | ⭐ 131 | 2026-10-11 | A bespoke, Game Boy-centric CFW for the RG SP. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/litebox](../repos/microsoft/litebox.md) | ⭐ 3,122 | 2026-10-12 | A security-focused library OS supporting kernel- and user-mode execution |
@@ -77,6 +62,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [fish-shell/fish-shell](../repos/fish-shell/fish-shell.md) | ⭐ 34,332 | 2026-10-19 | The user-friendly command line shell. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ModernRelay/omnigraph](../repos/ModernRelay/omnigraph.md) | ⭐ 1,599 | 2026-10-20 | Object-storage native graph database with branching and typed ontology |
 
 
 ---
@@ -88,12 +76,13 @@
 | [openai/codex](../repos/openai/codex.md) | ⭐ 133,337 | 2026-08-01 | 19 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 121,599 | 2026-07-30 | 13 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,907 | 2026-07-30 | 5 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 103,860 | 2026-08-09 | 24 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 103,801 | 2026-08-05 | 29 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 103,373 | 2026-08-09 | 23 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 96,635 | 2026-08-11 | 10 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 91,737 | 2026-07-31 | 8 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
+| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 67,032 | 2026-08-05 | 13 |
 | [warpdotdev/warp](../repos/warpdotdev/warp.md) | ⭐ 65,345 | 2026-08-20 | 5 |
 | [alacritty/alacritty](../repos/alacritty/alacritty.md) | ⭐ 65,327 | 2026-08-11 | 1 |
 | [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 64,099 | 2026-08-03 | 2 |
@@ -101,10 +90,9 @@
 | [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 55,699 | 2026-08-19 | 6 |
 | [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 51,108 | 2026-08-12 | 7 |
 | [herdrdev/herdr](../repos/herdrdev/herdr.md) | ⭐ 49,394 | 2026-11-03 | 2 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 49,120 | 2026-08-02 | 21 |
 | [bevyengine/bevy](../repos/bevyengine/bevy.md) | ⭐ 48,449 | 2026-08-28 | 3 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 48,384 | 2026-08-02 | 20 |
 | [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 46,418 | 2026-08-28 | 2 |
-| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 45,552 | 2026-08-05 | 11 |
 
 ---
 
@@ -113,9 +101,9 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 29 | ⭐ 103,801 | 2026-08-05 | 2026-11-05 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 23 | ⭐ 103,373 | 2026-08-09 | 2026-11-09 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 24 | ⭐ 103,860 | 2026-08-09 | 2026-11-10 |
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 22 | ⭐ 24,202 | 2026-08-08 | 2026-10-25 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 20 | ⭐ 48,384 | 2026-08-02 | 2026-11-09 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 21 | ⭐ 49,120 | 2026-08-02 | 2026-11-10 |
 | [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 20 | ⭐ 11,934 | 2026-08-26 | 2026-11-07 |
 | [openai/codex](../repos/openai/codex.md) | 19 | ⭐ 133,337 | 2026-08-01 | 2026-11-05 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 17 | ⭐ 29,069 | 2026-08-01 | 2026-11-04 |
@@ -184,6 +172,7 @@
 - [hyperium/hyper](../repos/hyperium/hyper.md) - An HTTP library for Rust
 - [WeaveMindAI/weft](../repos/WeaveMindAI/weft.md) - A programming language for AI orchestrations (POC)
 - [leookun/cursor-byok](../repos/leookun/cursor-byok.md) - cursor-byok is a local implementation of Cursor&#39;s backend
+- [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) - Truly independent web browser
 - [warp-tech/warpgate](../repos/warp-tech/warpgate.md) - Fully transparent SSH, HTTPS, Kubernetes, database and RDP&#x2F;VNC bastion&#x2F;PAM that doesn&#39;t need addi...
 - [getzola/zola](../repos/getzola/zola.md) - A fast static site generator in a single binary with everything built-in. https:&#x2F;&#x2F;www.getzola.org
 - [GCWing/BitFun](../repos/GCWing/BitFun.md) - BitFun combines a high-performance agent runtime written in Rust with a polished desktop applicat...
@@ -226,8 +215,7 @@
 - [BoundaryML/baml](../repos/BoundaryML/baml.md) - The programming language for agents
 - [astral-sh/ruff](../repos/astral-sh/ruff.md) - An extremely fast Python linter and code formatter, written in Rust.
 - [tonhowtf/omniget](../repos/tonhowtf/omniget.md) - Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. ...
-- [pacifio/atlas](../repos/pacifio/atlas.md) - Source control for agents. Use multiple coding agents, track their changes and query them in one ...
 
 ---
 
-*Last updated: 2026-11-09T21:01:02.751Z*
+*Last updated: 2026-11-10T21:00:56.595Z*

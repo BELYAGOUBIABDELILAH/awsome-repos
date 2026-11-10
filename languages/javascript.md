@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 186
+- **Total Repositories**: 187
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-07
 
@@ -16,25 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tradesdontlie/tradingview-mcp](../repos/tradesdontlie/tradingview-mcp.md) | ⭐ 7,134 | 2026-08-02 | 10 |
+| [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | ⭐ 8,374 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [is-a-dev/register](../repos/is-a-dev/register.md) | ⭐ 11,778 | 2026-08-03 | 9 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 115,059 | 2026-08-05 | 35 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 33,636 | 2026-08-08 | 17 |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 33,890 | 2026-08-08 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | ⭐ 39,049 | 2026-08-16 | 15 |
+| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 64,117 | 2026-08-27 | 15 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 69,110 | 2026-08-28 | 19 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [DeanChensj/jiangshan-map](../repos/DeanChensj/jiangshan-map.md) | ⭐ 5,239 | 2026-11-02 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [chinese-poetry/chinese-poetry](../repos/chinese-poetry/chinese-poetry.md) | ⭐ 54,238 | 2026-11-10 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [MagicMirrorOrg/MagicMirror](../repos/MagicMirrorOrg/MagicMirror.md) | ⭐ 24,088 | 2026-10-11 | MagicMirror² is an open source modular smart mirror platform. With a growing list of installable ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [poloclub/transformer-explainer](../repos/poloclub/transformer-explainer.md) | ⭐ 8,958 | 2026-10-12 | Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization |
@@ -62,6 +68,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [YuJunZhiXue/dsh-purge](../repos/YuJunZhiXue/dsh-purge.md) | ⭐ 13,038 | 2026-10-19 | DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [datawhalechina/easy-vibe](../repos/datawhalechina/easy-vibe.md) | ⭐ 20,059 | 2026-10-19 | 💻  Vibe Coding 101｜Your First Course For AI Product Builders. |
 
 
 ---
@@ -75,7 +84,7 @@
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 158,907 | 2026-08-06 | 4 |
 | [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | 2 |
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,323 | 2026-07-30 | 14 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 112,798 | 2026-08-05 | 34 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 115,059 | 2026-08-05 | 35 |
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,607 | 2026-08-06 | 3 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
@@ -83,13 +92,13 @@
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 77,000 | 2026-08-09 | 2 |
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 70,243 | 2026-08-01 | 21 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,576 | 2026-08-04 | 4 |
-| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 66,715 | 2026-08-28 | 18 |
+| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 69,110 | 2026-08-28 | 19 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,980 | 2026-08-04 | 4 |
+| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 64,117 | 2026-08-27 | 15 |
 | [jgraph/drawio-desktop](../repos/jgraph/drawio-desktop.md) | ⭐ 63,817 | 2026-11-04 | 1 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,346 | 2026-08-11 | 4 |
-| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 60,381 | 2026-08-27 | 14 |
 | [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 59,798 | 2026-10-14 | 1 |
-| [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 52,040 | 2026-08-26 | 4 |
+| [chinese-poetry/chinese-poetry](../repos/chinese-poetry/chinese-poetry.md) | ⭐ 54,238 | 2026-11-10 | 1 |
 
 ---
 
@@ -97,16 +106,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 34 | ⭐ 112,798 | 2026-08-05 | 2026-11-02 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 35 | ⭐ 115,059 | 2026-08-05 | 2026-11-10 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 32 | ⭐ 14,607 | 2026-08-02 | 2026-11-07 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 22 | ⭐ 90,383 | 2026-08-04 | 2026-10-27 |
 | [byoungd/up](../repos/byoungd/up.md) | 21 | ⭐ 70,243 | 2026-08-01 | 2026-11-07 |
-| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | 18 | ⭐ 66,715 | 2026-08-28 | 2026-11-08 |
-| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 17 | ⭐ 33,636 | 2026-08-08 | 2026-11-09 |
+| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | 19 | ⭐ 69,110 | 2026-08-28 | 2026-11-10 |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 18 | ⭐ 33,890 | 2026-08-08 | 2026-11-10 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
 | [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | 15 | ⭐ 39,049 | 2026-08-16 | 2026-11-09 |
+| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | 15 | ⭐ 64,117 | 2026-08-27 | 2026-11-10 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 14 | ⭐ 143,323 | 2026-07-30 | 2026-11-04 |
-| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 14 | ⭐ 5,119 | 2026-08-07 | 2026-10-20 |
 
 ---
 
@@ -215,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-11-09T21:01:02.702Z*
+*Last updated: 2026-11-10T21:00:56.548Z*

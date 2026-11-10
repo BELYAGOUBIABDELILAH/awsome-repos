@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 81
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-09
+- **Last Updated**: 2026-11-10
 
 ---
 
@@ -16,25 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,427 | 2026-08-01 | 19 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,485 | 2026-08-01 | 59 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,633 | 2026-08-05 | 28 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 52,513 | 2026-08-02 | 42 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,976 | 2026-08-06 | 28 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,978 | 2026-08-06 | 29 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [adobe/adobe.github.com](../repos/adobe/adobe.github.com.md) | ⭐ 1,668 | 2026-10-11 | Adobe central hub for open source |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Astromations/Hazy](../repos/Astromations/Hazy.md) | ⭐ 457 | 2026-10-11 | A translucent spicetify theme |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [wanteddev/wanted-sans](../repos/wanteddev/wanted-sans.md) | ⭐ 368 | 2026-10-15 | 곧으면서도 유연한 산세리프 글꼴 | A Sans-serif font; Geometric with a heart, Humanist with a soul |
@@ -59,6 +53,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [OpsiMate/documentation](../repos/OpsiMate/documentation.md) | ⭐ 20 | 2026-10-29 | OpsiMate |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [NsCDE/NsCDE](../repos/NsCDE/NsCDE.md) | ⭐ 2,380 | 2026-11-03 | Modern and functional CDE desktop based on FVWM |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [zhuozhiyongde/Advanced-Mathematics-B-2022-PKU](../repos/zhuozhiyongde/Advanced-Mathematics-B-2022-PKU.md) | ⭐ 297 | 2026-11-07 | 北京大学 2022 年高等数学 B 课程资料、笔记、经验 |
 
 
 ---
@@ -67,9 +67,9 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,976 | 2026-08-06 | 28 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,978 | 2026-08-06 | 29 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,487 | 2026-08-01 | 14 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 50,175 | 2026-08-02 | 41 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 52,513 | 2026-08-02 | 42 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,433 | 2026-08-04 | 32 |
 | [adobe-fonts/source-code-pro](../repos/adobe-fonts/source-code-pro.md) | ⭐ 20,445 | 2026-09-07 | 1 |
 | [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,612 | 2026-08-04 | 5 |
@@ -94,13 +94,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 58 | ⭐ 1,480 | 2026-08-01 | 2026-11-05 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 41 | ⭐ 50,175 | 2026-08-02 | 2026-11-07 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 59 | ⭐ 1,485 | 2026-08-01 | 2026-11-10 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 42 | ⭐ 52,513 | 2026-08-02 | 2026-11-10 |
 | [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 38 | ⭐ 921 | 2026-08-01 | 2026-11-08 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 32 | ⭐ 45,433 | 2026-08-04 | 2026-11-04 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 29 | ⭐ 1,431 | 2026-08-01 | 2026-10-22 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | 29 | ⭐ 82,978 | 2026-08-06 | 2026-11-10 |
 | [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 28 | ⭐ 9,633 | 2026-08-05 | 2026-11-09 |
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | 28 | ⭐ 82,976 | 2026-08-06 | 2026-11-09 |
 | [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | 27 | ⭐ 7,004 | 2026-08-10 | 2026-11-06 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 23 | ⭐ 12,511 | 2026-08-01 | 2026-10-09 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 19 | ⭐ 9,427 | 2026-08-01 | 2026-11-09 |
@@ -193,4 +193,4 @@
 
 ---
 
-*Last updated: 2026-11-09T21:01:02.659Z*
+*Last updated: 2026-11-10T21:00:56.506Z*

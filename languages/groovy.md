@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 15
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-09
+- **Last Updated**: 2026-11-10
 
 ---
 
@@ -16,19 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,924 | 2026-08-01 | 75 |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,928 | 2026-08-01 | 76 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AllTheMods/ATM-11](../repos/AllTheMods/ATM-11.md) | ⭐ 65 | 2026-11-09 | 1 |
+| [openboxes/openboxes](../repos/openboxes/openboxes.md) | ⭐ 923 | 2026-08-01 | 12 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [apache/groovy](../repos/apache/groovy.md) | ⭐ 5,484 | 2026-09-13 | 17 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [openshift-eng/aos-cd-jobs](../repos/openshift-eng/aos-cd-jobs.md) | ⭐ 50 | 2026-10-11 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jenkinsci/job-dsl-plugin](../repos/jenkinsci/job-dsl-plugin.md) | ⭐ 1,922 | 2026-11-02 | A Groovy DSL for Jenkins Jobs |
@@ -43,14 +43,14 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,924 | 2026-08-01 | 75 |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,928 | 2026-08-01 | 76 |
 | [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,364 | 2026-08-02 | 49 |
-| [apache/groovy](../repos/apache/groovy.md) | ⭐ 5,482 | 2026-09-13 | 16 |
+| [apache/groovy](../repos/apache/groovy.md) | ⭐ 5,484 | 2026-09-13 | 17 |
 | [ben-manes/gradle-versions-plugin](../repos/ben-manes/gradle-versions-plugin.md) | ⭐ 4,078 | 2026-08-10 | 1 |
 | [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | ⭐ 3,524 | 2026-08-02 | 40 |
 | [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,941 | 2026-08-03 | 41 |
 | [jenkinsci/job-dsl-plugin](../repos/jenkinsci/job-dsl-plugin.md) | ⭐ 1,922 | 2026-11-02 | 3 |
-| [openboxes/openboxes](../repos/openboxes/openboxes.md) | ⭐ 922 | 2026-08-01 | 11 |
+| [openboxes/openboxes](../repos/openboxes/openboxes.md) | ⭐ 923 | 2026-08-01 | 12 |
 | [NationalSecurityAgency/skills-service](../repos/NationalSecurityAgency/skills-service.md) | ⭐ 682 | 2026-08-27 | 2 |
 | [apache/bigtop](../repos/apache/bigtop.md) | ⭐ 682 | 2026-10-03 | 11 |
 | [okta/okta-jwt-verifier-java](../repos/okta/okta-jwt-verifier-java.md) | ⭐ 96 | 2026-08-06 | 1 |
@@ -65,13 +65,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [gradle/gradle](../repos/gradle/gradle.md) | 75 | ⭐ 18,924 | 2026-08-01 | 2026-11-09 |
+| [gradle/gradle](../repos/gradle/gradle.md) | 76 | ⭐ 18,928 | 2026-08-01 | 2026-11-10 |
 | [rundeck/rundeck](../repos/rundeck/rundeck.md) | 49 | ⭐ 6,364 | 2026-08-02 | 2026-11-06 |
 | [apache/grails-core](../repos/apache/grails-core.md) | 41 | ⭐ 2,941 | 2026-08-03 | 2026-11-06 |
 | [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | 40 | ⭐ 3,524 | 2026-08-02 | 2026-11-06 |
 | [gravitee-io/issues](../repos/gravitee-io/issues.md) | 19 | ⭐ 69 | 2026-08-01 | 2026-11-06 |
-| [apache/groovy](../repos/apache/groovy.md) | 16 | ⭐ 5,482 | 2026-09-13 | 2026-11-07 |
-| [openboxes/openboxes](../repos/openboxes/openboxes.md) | 11 | ⭐ 922 | 2026-08-01 | 2026-11-06 |
+| [apache/groovy](../repos/apache/groovy.md) | 17 | ⭐ 5,484 | 2026-09-13 | 2026-11-10 |
+| [openboxes/openboxes](../repos/openboxes/openboxes.md) | 12 | ⭐ 923 | 2026-08-01 | 2026-11-10 |
 | [apache/bigtop](../repos/apache/bigtop.md) | 11 | ⭐ 682 | 2026-10-03 | 2026-10-26 |
 | [openshift-eng/aos-cd-jobs](../repos/openshift-eng/aos-cd-jobs.md) | 3 | ⭐ 50 | 2026-10-11 | 2026-10-17 |
 | [jenkinsci/job-dsl-plugin](../repos/jenkinsci/job-dsl-plugin.md) | 3 | ⭐ 1,922 | 2026-11-02 | 2026-11-06 |
@@ -98,4 +98,4 @@
 
 ---
 
-*Last updated: 2026-11-09T21:01:02.690Z*
+*Last updated: 2026-11-10T21:00:56.537Z*

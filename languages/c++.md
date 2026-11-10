@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 306
+- **Total Repositories**: 305
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-07
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [orailnoor/cross-platform-llm-client](../repos/orailnoor/cross-platform-llm-client.md) | ⭐ 1,936 | 2026-08-04 | 8 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 133,947 | 2026-08-01 | 35 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [throneproj/Throne](../repos/throneproj/Throne.md) | ⭐ 7,800 | 2026-08-08 | 5 |
+| [orailnoor/cross-platform-llm-client](../repos/orailnoor/cross-platform-llm-client.md) | ⭐ 2,110 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BruceDevices/firmware](../repos/BruceDevices/firmware.md) | ⭐ 7,188 | 2026-08-08 | 7 |
+| [throneproj/Throne](../repos/throneproj/Throne.md) | ⭐ 7,820 | 2026-08-08 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cemu-project/Cemu](../repos/cemu-project/Cemu.md) | ⭐ 10,124 | 2026-08-10 | 3 |
+| [notepad-plus-plus/notepad-plus-plus](../repos/notepad-plus-plus/notepad-plus-plus.md) | ⭐ 29,840 | 2026-08-08 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-deepmind/mujoco](../repos/google-deepmind/mujoco.md) | ⭐ 16,861 | 2026-08-11 | 4 |
+| [mozilla-ai/llamafile](../repos/mozilla-ai/llamafile.md) | ⭐ 26,608 | 2026-08-09 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Vita3K/Vita3K](../repos/Vita3K/Vita3K.md) | ⭐ 5,956 | 2026-08-23 | 7 |
+| [YimMenu/YimMenuV2](../repos/YimMenu/YimMenuV2.md) | ⭐ 1,824 | 2026-08-09 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dariulone/cyberpunk-vr-port](../repos/dariulone/cyberpunk-vr-port.md) | ⭐ 535 | 2026-08-23 | 9 |
+| [google-deepmind/mujoco](../repos/google-deepmind/mujoco.md) | ⭐ 17,296 | 2026-08-11 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 52,586 | 2026-10-06 | 10 |
+| [deepseek-ai/3FS](../repos/deepseek-ai/3FS.md) | ⭐ 10,447 | 2026-08-15 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dashdogy/MFG-Unlocker](../repos/dashdogy/MFG-Unlocker.md) | ⭐ 2,415 | 2026-11-07 | 3 |
+| [dariulone/cyberpunk-vr-port](../repos/dariulone/cyberpunk-vr-port.md) | ⭐ 547 | 2026-08-23 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JakeATX/llamAmpere](../repos/JakeATX/llamAmpere.md) | ⭐ 302 | 2026-11-09 | 1 |
+| [moonlight-stream/moonlight-qt](../repos/moonlight-stream/moonlight-qt.md) | ⭐ 19,464 | 2026-08-24 | 5 |
 
 
 ---
@@ -89,7 +89,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,384 | 2026-07-30 | 32 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 133,663 | 2026-08-01 | 34 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 133,947 | 2026-08-01 | 35 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,803 | 2026-08-04 | 7 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 123,622 | 2026-08-01 | 7 |
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 119,259 | 2026-08-01 | 12 |
@@ -98,8 +98,7 @@
 | [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 77,216 | 2026-08-12 | 7 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,876 | 2026-08-08 | 18 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,138 | 2026-08-01 | 20 |
-| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,920 | 2026-08-05 | 12 |
-| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 52,586 | 2026-10-06 | 10 |
+| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 52,949 | 2026-10-06 | 11 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
 | [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,787 | 2026-08-03 | 13 |
 | [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,454 | 2026-09-01 | 3 |
@@ -108,6 +107,7 @@
 | [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 42,460 | 2026-08-19 | 14 |
 | [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 41,510 | 2026-08-09 | 14 |
 | [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 41,019 | 2026-08-02 | 8 |
+| [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 40,788 | 2026-08-06 | 4 |
 
 ---
 
@@ -116,7 +116,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 46 | ⭐ 439 | 2026-08-01 | 2026-10-09 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 34 | ⭐ 133,663 | 2026-08-01 | 2026-11-07 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 35 | ⭐ 133,947 | 2026-08-01 | 2026-11-10 |
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 32 | ⭐ 201,384 | 2026-07-30 | 2026-11-07 |
 | [google/googletest](../repos/google/googletest.md) | 27 | ⭐ 39,709 | 2026-08-04 | 2026-11-05 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 20 | ⭐ 72,138 | 2026-08-01 | 2026-10-29 |
@@ -190,7 +190,6 @@
 - [SwagSoftware/KisakCOD](../repos/SwagSoftware/KisakCOD.md) - COD4 Open Source Reimplementation
 - [mltframework/shotcut](../repos/mltframework/shotcut.md) - cross-platform (Qt), open-source (GPLv3) video editor
 - [FEX-Emu/FEX](../repos/FEX-Emu/FEX.md) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
-- [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) - Truly independent web browser
 - [ai-dynamo/nixl](../repos/ai-dynamo/nixl.md) - NVIDIA Inference Xfer Library (NIXL)
 - [MariaDB/server](../repos/MariaDB/server.md) - MariaDB server is a community developed fork of MySQL server. Started by core members of the orig...
 - [iree-org/iree](../repos/iree-org/iree.md) - A retargetable MLIR-based machine learning compiler and runtime toolkit.
@@ -230,7 +229,8 @@
 - [RPCS3/rpcs3](../repos/RPCS3/rpcs3.md) - PlayStation 3 emulator and debugger
 - [Tencent/ncnn](../repos/Tencent/ncnn.md) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 - [mozilla-ai/llamafile](../repos/mozilla-ai/llamafile.md) - Distribute and run LLMs with a single file.
+- [YimMenu/YimMenuV2](../repos/YimMenu/YimMenuV2.md) - Experimental menu for GTA 5: Enhanced
 
 ---
 
-*Last updated: 2026-11-09T21:01:02.656Z*
+*Last updated: 2026-11-10T21:00:56.503Z*

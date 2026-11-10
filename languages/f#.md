@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [leafOfTree/WindowTabs](../repos/leafOfTree/WindowTabs.md) | ⭐ 1,034 | 2026-10-25 | 3 |
 
+*No F# repositories trending today*
 
 ---
 
@@ -70,4 +68,4 @@
 
 ---
 
-*Last updated: 2026-11-09T21:01:02.683Z*
+*Last updated: 2026-11-10T21:00:56.530Z*

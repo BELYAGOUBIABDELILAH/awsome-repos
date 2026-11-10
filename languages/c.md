@@ -16,10 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FoloToy/ai-passport](../repos/FoloToy/ai-passport.md) | ⭐ 859 | 2026-10-01 | 3 |
+| [nrfconnect/sdk-nrf](../repos/nrfconnect/sdk-nrf.md) | ⭐ 1,450 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sp00nznet/xboxrecomp](../repos/sp00nznet/xboxrecomp.md) | ⭐ 380 | 2026-10-11 | 4 |
+| [madler/zlib](../repos/madler/zlib.md) | ⭐ 7,213 | 2026-08-07 | 15 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [redcanaryco/atomic-red-team](../repos/redcanaryco/atomic-red-team.md) | ⭐ 12,818 | 2026-09-02 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [sp00nznet/xboxrecomp](../repos/sp00nznet/xboxrecomp.md) | ⭐ 398 | 2026-10-11 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Zelda64Recomp/Zelda64Recomp](../repos/Zelda64Recomp/Zelda64Recomp.md) | ⭐ 7,644 | 2026-10-13 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [zeldaret/oot](../repos/zeldaret/oot.md) | ⭐ 5,711 | 2026-11-07 | 3 |
 
 
 ---
@@ -28,19 +40,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [tarwin/tinyjsapp](../repos/tarwin/tinyjsapp.md) | ⭐ 1,278 | 2026-10-11 | Build native apps in JS. Backend, frontend. ~5Mb. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [sp00nznet/ps3recomp](../repos/sp00nznet/ps3recomp.md) | ⭐ 617 | 2026-10-11 | Static recompilation runtime libraries for PlayStation 3 titles.  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [sp00nznet/xboxrecomp](../repos/sp00nznet/xboxrecomp.md) | ⭐ 380 | 2026-10-11 | Turn any Xbox game binary into a native Windows executable. No emulation. No interpreter. Just ra... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [mbm110/MSN-GUARD](../repos/mbm110/MSN-GUARD.md) | ⭐ 636 | 2026-10-12 | High-performance Rust-powered Android VPN — Full-device tunneling via SHARD (Custom Protocol), MA... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Zelda64Recomp/Zelda64Recomp](../repos/Zelda64Recomp/Zelda64Recomp.md) | ⭐ 7,477 | 2026-10-13 | Static recompilation of Majora&#39;s Mask (and soon Ocarina of Time) for PC (Windows&#x2F;Linux&#x2F;Mac) |
+| [Zelda64Recomp/Zelda64Recomp](../repos/Zelda64Recomp/Zelda64Recomp.md) | ⭐ 7,644 | 2026-10-13 | Static recompilation of Majora&#39;s Mask (and soon Ocarina of Time) for PC (Windows&#x2F;Linux&#x2F;Mac) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [rogerbinns/apsw](../repos/rogerbinns/apsw.md) | ⭐ 938 | 2026-10-13 | Another Python SQLite wrapper |
@@ -56,6 +59,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [c-ares/c-ares](../repos/c-ares/c-ares.md) | ⭐ 2,196 | 2026-10-21 | A C library for asynchronous DNS requests |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [fifthBro/mh2p-cluster](../repos/fifthBro/mh2p-cluster.md) | ⭐ 118 | 2026-10-26 | Bridge Android Auto and CarPlay navigation from Porsche PCM5 &#x2F; MH2P to instrument cluster displays. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [DualCoder/vgpu_unlock](../repos/DualCoder/vgpu_unlock.md) | ⭐ 5,368 | 2026-10-27 | Unlock vGPU functionality for consumer grade GPUs. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [HansKristian-Work/vkd3d-proton](../repos/HansKristian-Work/vkd3d-proton.md) | ⭐ 3,030 | 2026-10-29 | Fork of VKD3D. Development branches for Proton&#39;s Direct3D 12 implementation. |
 
 
 ---
@@ -209,4 +221,4 @@
 
 ---
 
-*Last updated: 2026-11-09T21:01:02.647Z*
+*Last updated: 2026-11-10T21:00:56.495Z*

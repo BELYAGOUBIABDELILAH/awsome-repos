@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) | ⭐ 2,217 | 2026-08-04 | 16 |
+| [vivizzz007/vivi-music](../repos/vivizzz007/vivi-music.md) | ⭐ 4,089 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 33,265 | 2026-08-08 | 23 |
+| [HapeLee/legado-with-MD3](../repos/HapeLee/legado-with-MD3.md) | ⭐ 6,939 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EchoMusicApp/Echo-Music](../repos/EchoMusicApp/Echo-Music.md) | ⭐ 2,416 | 2026-08-09 | 5 |
+| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 11,223 | 2026-08-03 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CYQawa/YunX](../repos/CYQawa/YunX.md) | ⭐ 6,919 | 2026-10-06 | 10 |
+| [EchoMusicApp/Echo-Music](../repos/EchoMusicApp/Echo-Music.md) | ⭐ 2,453 | 2026-08-09 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tidain/YunX-Desktop](../repos/tidain/YunX-Desktop.md) | ⭐ 3,768 | 2026-11-09 | 1 |
+| [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 19,176 | 2026-08-17 | 9 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ximeiorg/Xime](../repos/ximeiorg/Xime.md) | ⭐ 1,371 | 2026-09-09 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [CYQawa/YunX](../repos/CYQawa/YunX.md) | ⭐ 7,078 | 2026-10-06 | 11 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [tidain/YunX-Desktop](../repos/tidain/YunX-Desktop.md) | ⭐ 4,117 | 2026-11-09 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [BuSung-dev/Root-My-Galaxy](../repos/BuSung-dev/Root-My-Galaxy.md) | ⭐ 1,584 | 2026-10-11 | KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [throneproj/ThroneForAndroid](../repos/throneproj/ThroneForAndroid.md) | ⭐ 712 | 2026-10-11 | Android GUI proxy utility (Empowered by sing-box) |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [wasi-master/wmkeyboard](../repos/wasi-master/wmkeyboard.md) | ⭐ 739 | 2026-10-11 | A modern, privacy-first Android keyboard: offline intelligence, 600+ languages, themes, tools and... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | ⭐ 5,955 | 2026-10-12 | BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music |
@@ -65,6 +65,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Spotui/Spotui](../repos/Spotui/Spotui.md) | ⭐ 652 | 2026-10-14 | Spotify clone with deep integration  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [realidkroo/musicfy](../repos/realidkroo/musicfy.md) | ⭐ 144 | 2026-10-15 | Musicfy repos. what is this? its a music player, offline or online, that you can use for free, wi... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [1013503897/jadx-headless-mcp](../repos/1013503897/jadx-headless-mcp.md) | ⭐ 86 | 2026-10-15 | Headless MCP server for Android APK static analysis, built directly on jadx-core. No JADX GUI req... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mossyhub/openautolink](../repos/mossyhub/openautolink.md) | ⭐ 176 | 2026-10-16 | Android Auto and CarPlay for GM EV AAOS head units with cluster&#x2F;HUD support and EV range in Maps |
 
 
 ---
@@ -89,7 +98,7 @@
 | [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 22,050 | 2026-08-01 | 10 |
 | [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 21,437 | 2026-09-07 | 11 |
 | [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,354 | 2026-08-12 | 4 |
-| [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 18,934 | 2026-08-17 | 8 |
+| [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 19,176 | 2026-08-17 | 9 |
 | [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 16,248 | 2026-08-02 | 12 |
 | [ktorio/ktor](../repos/ktorio/ktor.md) | ⭐ 14,525 | 2026-09-12 | 1 |
 | [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) | ⭐ 12,644 | 2026-08-06 | 7 |
@@ -218,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-11-09T21:01:02.709Z*
+*Last updated: 2026-11-10T21:00:56.554Z*

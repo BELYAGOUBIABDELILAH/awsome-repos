@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 317
+- **Total Repositories**: 318
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-07
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CodebuffAI/freebuff](../repos/CodebuffAI/freebuff.md) | ⭐ 14,065 | 2026-08-07 | 6 |
+| [garrytan/gbrain](../repos/garrytan/gbrain.md) | ⭐ 32,471 | 2026-08-11 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [garrytan/gbrain](../repos/garrytan/gbrain.md) | ⭐ 32,082 | 2026-08-11 | 4 |
+| [every-app/open-seo](../repos/every-app/open-seo.md) | ⭐ 27,178 | 2026-08-14 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [backnotprop/plannotator](../repos/backnotprop/plannotator.md) | ⭐ 9,946 | 2026-08-26 | 6 |
+| [upscayl/upscayl](../repos/upscayl/upscayl.md) | ⭐ 52,178 | 2026-08-14 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/json-render](../repos/vercel-labs/json-render.md) | ⭐ 19,506 | 2026-09-19 | 6 |
+| [google-labs-code/stitch-skills](../repos/google-labs-code/stitch-skills.md) | ⭐ 8,724 | 2026-08-22 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ranxianglei/billion-context](../repos/ranxianglei/billion-context.md) | ⭐ 5,710 | 2026-10-12 | 8 |
+| [backnotprop/plannotator](../repos/backnotprop/plannotator.md) | ⭐ 10,000 | 2026-08-26 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elie222/rakazo](../repos/elie222/rakazo.md) | ⭐ 7,688 | 2026-10-17 | 7 |
+| [ranxianglei/billion-context](../repos/ranxianglei/billion-context.md) | ⭐ 6,225 | 2026-10-12 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mantrakp04/ardia](../repos/mantrakp04/ardia.md) | ⭐ 1,576 | 2026-10-25 | 3 |
+| [mantrakp04/ardia](../repos/mantrakp04/ardia.md) | ⭐ 1,637 | 2026-10-25 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [basketikun/infinite-canvas](../repos/basketikun/infinite-canvas.md) | ⭐ 10,115 | 2026-10-25 | 2 |
+| [meta/astryx](../repos/meta/astryx.md) | ⭐ 22,495 | 2026-11-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [meta/astryx](../repos/meta/astryx.md) | ⭐ 19,638 | 2026-11-06 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [kortix-ai/CompanyOS](../repos/kortix-ai/CompanyOS.md) | ⭐ 20,597 | 2026-11-08 | 2 |
+| [WhiteTowerAI/ohmygame](../repos/WhiteTowerAI/ohmygame.md) | ⭐ 2,025 | 2026-11-10 | 1 |
 
 
 ---
@@ -52,16 +49,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [CopilotKit/OpenIntelligentUI](../repos/CopilotKit/OpenIntelligentUI.md) | ⭐ 3,040 | 2026-10-11 | Open-Source Generative UI Framework |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [chthollyphile/folia-major](../repos/chthollyphile/folia-major.md) | ⭐ 10,204 | 2026-10-11 | 专注于绚丽的歌词动画效果的本地音乐&#x2F;navidrome&#x2F;第三方多平台在线音乐播放器 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [getnao/nao](../repos/getnao/nao.md) | ⭐ 1,913 | 2026-10-11 | 👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao ch... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ranxianglei/billion-context](../repos/ranxianglei/billion-context.md) | ⭐ 5,710 | 2026-10-12 | A context-compression plugin for month-long single sessions (billions of tokens) ,small context w... |
+| [ranxianglei/billion-context](../repos/ranxianglei/billion-context.md) | ⭐ 6,225 | 2026-10-12 | A context-compression plugin for month-long single sessions (billions of tokens) ,small context w... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [wuwangzhang1216/ChinaTextbookStudyFree](../repos/wuwangzhang1216/ChinaTextbookStudyFree.md) | ⭐ 863 | 2026-10-12 | 给所有中国小学生打造的免费学习平台，从一年级到六年级所有的课本知识点全汇总。 |
@@ -80,6 +68,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ErTasselli/OpenTerminal](../repos/ErTasselli/OpenTerminal.md) | ⭐ 1,743 | 2026-10-15 | A Terminal-style trading dashboard built entirely on free public market data. No API keys, no sub... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [microsoft/playwright](../repos/microsoft/playwright.md) | ⭐ 98,817 | 2026-10-15 | Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [dimthink/PriceAI](../repos/dimthink/PriceAI.md) | ⭐ 4,122 | 2026-10-15 | AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [LibreSpark/LibreTV](../repos/LibreSpark/LibreTV.md) | ⭐ 18,808 | 2026-10-16 | 一分钟搭建影视站，支持Docker等部署方式 |
 
 
 ---
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-11-09T21:01:02.766Z*
+*Last updated: 2026-11-10T21:00:56.610Z*

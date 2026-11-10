@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Ruby |
 | **License** | MIT |
-| **Stars** | ⭐ 51,745 |
-| **Forks** | 🍴 10,302 |
-| **Trending Days** | 26 |
+| **Stars** | ⭐ 51,762 |
+| **Forks** | 🍴 10,298 |
+| **Trending Days** | 27 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Nov 6, 2026 |
+| **Last Seen** | Nov 10, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 26
+- **Trending Days**: 27
 - **Longest Streak**: 2 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-09T21:01:05.883Z*  
-*Data from 26 trending reports*
+*Last updated: 2026-11-10T21:00:59.677Z*  
+*Data from 27 trending reports*

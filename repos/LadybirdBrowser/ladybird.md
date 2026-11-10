@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | C++ |
+| **Language** | Rust |
 | **License** | BSD-2-Clause |
-| **Stars** | ⭐ 66,920 |
-| **Forks** | 🍴 3,198 |
-| **Trending Days** | 12 |
+| **Stars** | ⭐ 67,032 |
+| **Forks** | 🍴 3,203 |
+| **Trending Days** | 13 |
 | **Peak Rank** | #7 |
 
 | **First Seen** | Aug 5, 2026 |
-| **Last Seen** | Nov 7, 2026 |
+| **Last Seen** | Nov 10, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in C++ or browser*
+*Similar: Check repositories in Rust or browser*
 
 ---
 
@@ -49,7 +49,7 @@
 ### Highlights
 
 - **Peak Rank**: #7
-- **Trending Days**: 12
+- **Trending Days**: 13
 - **Longest Streak**: 6 days
 
 ---
@@ -83,7 +83,7 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in C++
+- Check similar projects in Rust
 
 #### Metrics
 - **Hidden Gem**: ✗ No
@@ -93,5 +93,5 @@
 
 ---
 
-*Last updated: 2026-11-09T21:01:06.277Z*  
-*Data from 12 trending reports*
+*Last updated: 2026-11-10T21:01:00.071Z*  
+*Data from 13 trending reports*

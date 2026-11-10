@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-09T21:01:10.367Z",
-  "total_repositories": 4479,
-  "trending_today": 264,
-  "new_this_month": 575,
+  "generated_at": "2026-11-10T21:01:04.072Z",
+  "total_repositories": 4489,
+  "trending_today": 289,
+  "new_this_month": 548,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-11-09",
+  "last_collection": "2026-11-10",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
@@ -12,13 +12,13 @@
   },
   "most_frequent": {
     "full_name": "apache/spark",
-    "trending_days": 81,
+    "trending_days": 82,
     "first_seen": "2026-08-01"
   },
   "newest_discovery": {
-    "full_name": "opensandbox-group/OpenSandbox",
-    "stars": 16868,
-    "first_seen": "2026-11-09"
+    "full_name": "chinese-poetry/chinese-poetry",
+    "stars": 54238,
+    "first_seen": "2026-11-10"
   },
   "fastest_growing": {
     "full_name": "different-ai/openwork",
@@ -26,11 +26,11 @@
     "growth_rate": 100,
     "first_seen": "2026-08-01"
   },
-  "total_stars": 59745546,
+  "total_stars": 59878210,
   "avg_stars": 13339,
-  "avg_trending_days": 6.9,
+  "avg_trending_days": 7,
   "language_count": 62,
-  "topic_count": 11089,
+  "topic_count": 11119,
   "collection_success_rate": 100,
   "data_quality_score": 99
 }

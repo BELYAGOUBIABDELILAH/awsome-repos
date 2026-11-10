@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 227
+- **Total Repositories**: 228
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-28
 
@@ -16,28 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | ⭐ 30,251 | 2026-08-02 | 17 |
+| [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | ⭐ 30,254 | 2026-08-02 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 40,546 | 2026-08-02 | 15 |
+| [AntennaPod/AntennaPod](../repos/AntennaPod/AntennaPod.md) | ⭐ 8,289 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MojoLauncher/MojoLauncher](../repos/MojoLauncher/MojoLauncher.md) | ⭐ 1,082 | 2026-08-02 | 11 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 99,333 | 2026-08-03 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opendataloader-project/opendataloader-pdf](../repos/opendataloader-project/opendataloader-pdf.md) | ⭐ 30,261 | 2026-08-03 | 16 |
+| [iflytek/skillhub](../repos/iflytek/skillhub.md) | ⭐ 5,389 | 2026-08-04 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 99,065 | 2026-08-03 | 31 |
+| [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,823 | 2026-08-04 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 36,142 | 2026-08-04 | 21 |
+| [zalexdev/strykerapp](../repos/zalexdev/strykerapp.md) | ⭐ 2,030 | 2026-08-08 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microg/GmsCore](../repos/microg/GmsCore.md) | ⭐ 15,255 | 2026-08-06 | 20 |
+| [AndreyPavlenko/Fermata](../repos/AndreyPavlenko/Fermata.md) | ⭐ 1,498 | 2026-08-23 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MeteorDevelopment/meteor-client](../repos/MeteorDevelopment/meteor-client.md) | ⭐ 4,006 | 2026-08-24 | 6 |
+| [Keeperorowner/NagramXF](../repos/Keeperorowner/NagramXF.md) | ⭐ 1,135 | 2026-08-24 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [RikkaApps/Sui](../repos/RikkaApps/Sui.md) | ⭐ 4,362 | 2026-09-13 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [AbdurazaaqMohammed/MP-Manager](../repos/AbdurazaaqMohammed/MP-Manager.md) | ⭐ 539 | 2026-09-27 | 8 |
 
 
 ---
@@ -83,11 +89,11 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 131,621 | 2026-08-04 | 16 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 99,065 | 2026-08-03 | 31 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 99,333 | 2026-08-03 | 32 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,787 | 2026-08-04 | 22 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,509 | 2026-08-02 | 25 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
-| [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,612 | 2026-08-04 | 10 |
+| [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,823 | 2026-08-04 | 11 |
 | [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,508 | 2026-08-08 | 3 |
 | [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,300 | 2026-08-08 | 11 |
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 52,327 | 2026-08-04 | 15 |
@@ -109,8 +115,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 32 | ⭐ 99,333 | 2026-08-03 | 2026-11-10 |
 | [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 32 | ⭐ 6,286 | 2026-08-05 | 2026-11-07 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 31 | ⭐ 99,065 | 2026-08-03 | 2026-11-09 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 25 | ⭐ 78,509 | 2026-08-02 | 2026-11-06 |
 | [kestra-io/kestra](../repos/kestra-io/kestra.md) | 24 | ⭐ 30,163 | 2026-08-04 | 2026-11-06 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 23 | ⭐ 27,915 | 2026-08-02 | 2026-11-07 |
@@ -227,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-09T21:01:02.699Z*
+*Last updated: 2026-11-10T21:00:56.545Z*

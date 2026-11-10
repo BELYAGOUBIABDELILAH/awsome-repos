@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 153
+- **Total Repositories**: 154
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-02
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [InfinityLoop1308/PipePipe](../repos/InfinityLoop1308/PipePipe.md) | ⭐ 7,214 | 2026-08-02 | 11 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,788 | 2026-08-01 | 50 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | ⭐ 10,288 | 2026-08-03 | 13 |
+| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 11,015 | 2026-08-07 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 8,730 | 2026-08-12 | 24 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 8,761 | 2026-08-12 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 46,666 | 2026-08-29 | 17 |
+| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | ⭐ 3,852 | 2026-08-19 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [omacom/omarchy-pkgs](../repos/omacom/omarchy-pkgs.md) | ⭐ 149 | 2026-09-02 | 7 |
+| [Mr-MIBonk/M.I.B._More-Incredible-Bash](../repos/Mr-MIBonk/M.I.B._More-Incredible-Bash.md) | ⭐ 1,233 | 2026-09-20 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [liandu2024/Open-Box](../repos/liandu2024/Open-Box.md) | ⭐ 2,654 | 2026-10-22 | 7 |
+| [conda-forge/miniforge](../repos/conda-forge/miniforge.md) | ⭐ 10,353 | 2026-10-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [orwa-mahmoud/nightshift](../repos/orwa-mahmoud/nightshift.md) | ⭐ 178 | 2026-11-09 | 1 |
+| [htr-tech/nexphisher](../repos/htr-tech/nexphisher.md) | ⭐ 3,926 | 2026-11-10 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [EpicGames/unreal-engine-skills-for-claude-code-plugin](../repos/EpicGames/unreal-engine-skills-for-claude-code-plugin.md) | ⭐ 1,872 | 2026-10-11 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [sailor-sh/CK-X](../repos/sailor-sh/CK-X.md) | ⭐ 1,226 | 2026-10-12 | A mock exams for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configure... |
@@ -71,6 +68,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [auscaster/frantic-board](../repos/auscaster/frantic-board.md) | ⭐ 642 | 2026-10-21 | HELP WANTED: AI AGENTS. Real bounties, real money, every payout sealed to a public ledger. The no... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [liandu2024/Open-Box](../repos/liandu2024/Open-Box.md) | ⭐ 2,654 | 2026-10-22 | Open-Box 一体化透明代理：OpenWrt &#x2F; Debian &#x2F; Ubuntu &#x2F; Docker；自有程序闭源，第三方组件遵守原许可。 |
 
 
 ---
@@ -81,7 +81,7 @@
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,858 | 2026-08-07 | 4 |
 | [papers-we-love/papers-we-love](../repos/papers-we-love/papers-we-love.md) | ⭐ 110,960 | 2026-10-27 | 1 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,766 | 2026-08-01 | 49 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,788 | 2026-08-01 | 50 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,756 | 2026-08-04 | 10 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,702 | 2026-08-06 | 15 |
@@ -106,16 +106,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 49 | ⭐ 95,766 | 2026-08-01 | 2026-11-07 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 50 | ⭐ 95,788 | 2026-08-01 | 2026-11-10 |
 | [expo/skills](../repos/expo/skills.md) | 36 | ⭐ 3,754 | 2026-08-07 | 2026-10-29 |
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 24 | ⭐ 8,730 | 2026-08-12 | 2026-11-09 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 25 | ⭐ 8,761 | 2026-08-12 | 2026-11-10 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
+| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | 17 | ⭐ 11,015 | 2026-08-07 | 2026-11-10 |
 | [omacom/omarchy](../repos/omacom/omarchy.md) | 17 | ⭐ 46,666 | 2026-08-29 | 2026-11-09 |
-| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | 16 | ⭐ 10,992 | 2026-08-07 | 2026-11-05 |
+| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | 16 | ⭐ 3,852 | 2026-08-19 | 2026-11-10 |
 | [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | 16 | ⭐ 1,623 | 2026-08-20 | 2026-11-06 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 15 | ⭐ 3,172 | 2026-08-05 | 2026-10-25 |
 | [dockur/windows](../repos/dockur/windows.md) | 15 | ⭐ 53,702 | 2026-08-06 | 2026-10-27 |
-| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | 15 | ⭐ 3,781 | 2026-08-19 | 2026-11-07 |
 
 ---
 
@@ -224,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-11-09T21:01:02.757Z*
+*Last updated: 2026-11-10T21:00:56.601Z*

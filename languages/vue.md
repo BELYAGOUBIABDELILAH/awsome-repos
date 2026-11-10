@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 99
+- **Total Repositories**: 100
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-03
+- **Last Updated**: 2026-11-10
 
 ---
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,942 | 2026-08-01 | 44 |
+| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,492 | 2026-08-01 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 22,394 | 2026-08-01 | 41 |
+| [wux1an/wxapkg](../repos/wux1an/wxapkg.md) | ⭐ 4,373 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 477 | 2026-08-02 | 47 |
+| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,943 | 2026-08-01 | 45 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 17,433 | 2026-08-02 | 45 |
+| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,110 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | ⭐ 2,120 | 2026-08-02 | 33 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 17,496 | 2026-08-02 | 46 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [unovue/reka-ui](../repos/unovue/reka-ui.md) | ⭐ 6,942 | 2026-08-02 | 36 |
+| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | ⭐ 2,121 | 2026-08-02 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hslr-s/sun-panel](../repos/hslr-s/sun-panel.md) | ⭐ 5,365 | 2026-08-04 | 3 |
+| [VueTorrent/VueTorrent](../repos/VueTorrent/VueTorrent.md) | ⭐ 7,044 | 2026-08-03 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HuLaSpark/HuLa](../repos/HuLaSpark/HuLa.md) | ⭐ 7,819 | 2026-08-08 | 14 |
+| [Daymychen/art-design-pro](../repos/Daymychen/art-design-pro.md) | ⭐ 5,991 | 2026-08-07 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Rule-34/App](../repos/Rule-34/App.md) | ⭐ 388 | 2026-08-16 | 13 |
+| [freqtrade/frequi](../repos/freqtrade/frequi.md) | ⭐ 1,116 | 2026-08-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Jelosus2/BD2-L2D-Viewer](../repos/Jelosus2/BD2-L2D-Viewer.md) | ⭐ 575 | 2026-08-29 | 8 |
+| [HuLaSpark/HuLa](../repos/HuLaSpark/HuLa.md) | ⭐ 7,831 | 2026-08-08 | 15 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Tools-cx-app/meta-magic_mount-rs](../repos/Tools-cx-app/meta-magic_mount-rs.md) | ⭐ 561 | 2026-10-11 | An implementation of a metamodule using Magic Mount, Based on MKSU, Template is from meta-overlay. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [gcpaas/DataRoom](../repos/gcpaas/DataRoom.md) | ⭐ 866 | 2026-10-11 | 🔥AI对话式生成大屏、页面，采用前后端一体化解决方案，几十种炫酷图表，支持20+数据来源接入，适用于大屏、低代码、BI场景，使用简单，代码完全开源。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Hunlongyu/ZY-Player](../repos/Hunlongyu/ZY-Player.md) | ⭐ 14,511 | 2026-10-12 | ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞 |
@@ -79,7 +73,10 @@
 | [Stapxs/Stapxs-QQ-Lite-2.0](../repos/Stapxs/Stapxs-QQ-Lite-2.0.md) | ⭐ 1,348 | 2026-10-27 | 一个兼容 OneBot 协议的第三方 QQ 客户端。 Web、全平台实现！ |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [YuehaiTeam/cocogoat](../repos/YuehaiTeam/cocogoat.md) | ⭐ 1,162 | 2026-11-08 | A toolbox for Genshin Impact 100% running in browser. 纯网页端的原神工具箱，保证每一行代码都是熬夜加班打造。 |
+| [YuehaiTeam/cocogoat](../repos/YuehaiTeam/cocogoat.md) | ⭐ 1,165 | 2026-11-08 | A toolbox for Genshin Impact 100% running in browser. 纯网页端的原神工具箱，保证每一行代码都是熬夜加班打造。 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [hack-gpon/hack-gpon.github.io](../repos/hack-gpon/hack-gpon.github.io.md) | ⭐ 347 | 2026-11-10 | Worldwide wiki on how to access, change and edit ONTs |
 
 
 ---
@@ -88,7 +85,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,126 | 2026-08-01 | 23 |
+| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,110 | 2026-08-01 | 24 |
 | [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 53,976 | 2026-08-01 | 14 |
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,596 | 2026-08-01 | 37 |
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,587 | 2026-08-01 | 35 |
@@ -98,7 +95,7 @@
 | [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 22,394 | 2026-08-01 | 41 |
 | [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,702 | 2026-08-02 | 20 |
 | [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) | ⭐ 18,922 | 2026-08-07 | 3 |
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 17,433 | 2026-08-02 | 45 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 17,496 | 2026-08-02 | 46 |
 | [Hunlongyu/ZY-Player](../repos/Hunlongyu/ZY-Player.md) | ⭐ 14,511 | 2026-10-12 | 1 |
 | [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,450 | 2026-08-05 | 16 |
 | [tiny-craft/tiny-rdm](../repos/tiny-craft/tiny-rdm.md) | ⭐ 13,148 | 2026-08-20 | 5 |
@@ -116,14 +113,14 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [RikkaApps/websites](../repos/RikkaApps/websites.md) | 47 | ⭐ 477 | 2026-08-02 | 2026-11-09 |
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | 45 | ⭐ 17,433 | 2026-08-02 | 2026-11-09 |
-| [frappe/crm](../repos/frappe/crm.md) | 44 | ⭐ 3,942 | 2026-08-01 | 2026-11-09 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | 46 | ⭐ 17,496 | 2026-08-02 | 2026-11-10 |
+| [frappe/crm](../repos/frappe/crm.md) | 45 | ⭐ 3,943 | 2026-08-01 | 2026-11-10 |
 | [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 41 | ⭐ 22,394 | 2026-08-01 | 2026-11-09 |
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | 37 | ⭐ 33,596 | 2026-08-01 | 2026-11-07 |
 | [requarks/wiki](../repos/requarks/wiki.md) | 36 | ⭐ 29,058 | 2026-08-01 | 2026-10-20 |
 | [unovue/reka-ui](../repos/unovue/reka-ui.md) | 36 | ⭐ 6,942 | 2026-08-02 | 2026-11-09 |
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 35 | ⭐ 33,587 | 2026-08-01 | 2026-10-12 |
-| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | 33 | ⭐ 2,120 | 2026-08-02 | 2026-11-09 |
+| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | 34 | ⭐ 2,121 | 2026-08-02 | 2026-11-10 |
 | [julyx10/lap](../repos/julyx10/lap.md) | 33 | ⭐ 4,132 | 2026-08-02 | 2026-10-29 |
 
 ---
@@ -229,7 +226,8 @@
 - [ginnnnnncc/GinsMooc](../repos/ginnnnnncc/GinsMooc.md) - 中国大学MOOC查询测验&#x2F;作业&#x2F;考试答案，插件支持，测验支持选择&#x2F;判断&#x2F;填空。
 - [Stapxs/Stapxs-QQ-Lite-2.0](../repos/Stapxs/Stapxs-QQ-Lite-2.0.md) - 一个兼容 OneBot 协议的第三方 QQ 客户端。 Web、全平台实现！
 - [YuehaiTeam/cocogoat](../repos/YuehaiTeam/cocogoat.md) - A toolbox for Genshin Impact 100% running in browser. 纯网页端的原神工具箱，保证每一行代码都是熬夜加班打造。
+- [hack-gpon/hack-gpon.github.io](../repos/hack-gpon/hack-gpon.github.io.md) - Worldwide wiki on how to access, change and edit ONTs
 
 ---
 
-*Last updated: 2026-11-09T21:01:02.780Z*
+*Last updated: 2026-11-10T21:00:56.624Z*

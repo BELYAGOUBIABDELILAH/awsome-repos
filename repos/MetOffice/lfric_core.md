@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Fortran |
 | **License** | BSD-3-Clause |
-| **Stars** | ⭐ 27 |
+| **Stars** | ⭐ 28 |
 | **Forks** | 🍴 77 |
-| **Trending Days** | 37 |
+| **Trending Days** | 38 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 7, 2026 |
+| **Last Seen** | Nov 10, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 37
+- **Trending Days**: 38
 - **Longest Streak**: 5 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 27+ stars, strong contributor base |
+| **Community** | Very Active | 28+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-09T21:01:05.414Z*  
-*Data from 37 trending reports*
+*Last updated: 2026-11-10T21:00:59.200Z*  
+*Data from 38 trending reports*

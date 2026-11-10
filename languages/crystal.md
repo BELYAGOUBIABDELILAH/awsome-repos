@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,486 | 2026-08-06 | 13 |
 
+*No Crystal repositories trending today*
 
 ---
 
@@ -61,4 +59,4 @@
 
 ---
 
-*Last updated: 2026-11-09T21:01:02.667Z*
+*Last updated: 2026-11-10T21:00:56.514Z*
