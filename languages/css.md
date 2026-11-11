@@ -16,13 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,485 | 2026-08-01 | 59 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 53,327 | 2026-08-02 | 43 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 52,513 | 2026-08-02 | 42 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,468 | 2026-08-04 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,978 | 2026-08-06 | 29 |
+| [SillyTavern/SillyTavern-Docs](../repos/SillyTavern/SillyTavern-Docs.md) | ⭐ 185 | 2026-09-08 | 3 |
 
 
 ---
@@ -69,8 +69,8 @@
 |------------|-------|------------|---------------|
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,978 | 2026-08-06 | 29 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,487 | 2026-08-01 | 14 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 52,513 | 2026-08-02 | 42 |
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,433 | 2026-08-04 | 32 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 53,327 | 2026-08-02 | 43 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,468 | 2026-08-04 | 33 |
 | [adobe-fonts/source-code-pro](../repos/adobe-fonts/source-code-pro.md) | ⭐ 20,445 | 2026-09-07 | 1 |
 | [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,612 | 2026-08-04 | 5 |
 | [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,847 | 2026-08-08 | 2 |
@@ -95,9 +95,9 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 59 | ⭐ 1,485 | 2026-08-01 | 2026-11-10 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 42 | ⭐ 52,513 | 2026-08-02 | 2026-11-10 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 43 | ⭐ 53,327 | 2026-08-02 | 2026-11-11 |
 | [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 38 | ⭐ 921 | 2026-08-01 | 2026-11-08 |
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 32 | ⭐ 45,433 | 2026-08-04 | 2026-11-04 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 33 | ⭐ 45,468 | 2026-08-04 | 2026-11-11 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 29 | ⭐ 1,431 | 2026-08-01 | 2026-10-22 |
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | 29 | ⭐ 82,978 | 2026-08-06 | 2026-11-10 |
 | [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 28 | ⭐ 9,633 | 2026-08-05 | 2026-11-09 |
@@ -193,4 +193,4 @@
 
 ---
 
-*Last updated: 2026-11-10T21:00:56.506Z*
+*Last updated: 2026-11-11T21:00:51.634Z*

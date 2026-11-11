@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | HTML |
 | **License** | CC0-1.0 |
-| **Stars** | ⭐ 46,659 |
-| **Forks** | 🍴 8,347 |
-| **Trending Days** | 10 |
+| **Stars** | ⭐ 46,685 |
+| **Forks** | 🍴 8,341 |
+| **Trending Days** | 11 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 7, 2026 |
+| **Last Seen** | Nov 11, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 10
+- **Trending Days**: 11
 - **Longest Streak**: 2 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-10T21:00:59.089Z*  
-*Data from 10 trending reports*
+*Last updated: 2026-11-11T21:00:53.037Z*  
+*Data from 11 trending reports*

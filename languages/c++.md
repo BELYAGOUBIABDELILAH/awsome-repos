@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 305
+- **Total Repositories**: 306
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-07
 
@@ -16,43 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 133,947 | 2026-08-01 | 35 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 134,149 | 2026-08-01 | 36 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [orailnoor/cross-platform-llm-client](../repos/orailnoor/cross-platform-llm-client.md) | ⭐ 2,110 | 2026-08-04 | 9 |
+| [orailnoor/cross-platform-llm-client](../repos/orailnoor/cross-platform-llm-client.md) | ⭐ 2,178 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [throneproj/Throne](../repos/throneproj/Throne.md) | ⭐ 7,820 | 2026-08-08 | 6 |
+| [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 41,444 | 2026-08-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [notepad-plus-plus/notepad-plus-plus](../repos/notepad-plus-plus/notepad-plus-plus.md) | ⭐ 29,840 | 2026-08-08 | 6 |
+| [throneproj/Throne](../repos/throneproj/Throne.md) | ⭐ 7,836 | 2026-08-08 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mozilla-ai/llamafile](../repos/mozilla-ai/llamafile.md) | ⭐ 26,608 | 2026-08-09 | 11 |
+| [alibaba/MNN](../repos/alibaba/MNN.md) | ⭐ 16,497 | 2026-08-08 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YimMenu/YimMenuV2](../repos/YimMenu/YimMenuV2.md) | ⭐ 1,824 | 2026-08-09 | 4 |
+| [google-deepmind/mujoco](../repos/google-deepmind/mujoco.md) | ⭐ 17,623 | 2026-08-11 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-deepmind/mujoco](../repos/google-deepmind/mujoco.md) | ⭐ 17,296 | 2026-08-11 | 5 |
+| [simdjson/simdjson](../repos/simdjson/simdjson.md) | ⭐ 24,554 | 2026-08-20 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [deepseek-ai/3FS](../repos/deepseek-ai/3FS.md) | ⭐ 10,447 | 2026-08-15 | 4 |
+| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 53,223 | 2026-10-06 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dariulone/cyberpunk-vr-port](../repos/dariulone/cyberpunk-vr-port.md) | ⭐ 547 | 2026-08-23 | 10 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [moonlight-stream/moonlight-qt](../repos/moonlight-stream/moonlight-qt.md) | ⭐ 19,464 | 2026-08-24 | 5 |
+| [mg-chao/snow-shot](../repos/mg-chao/snow-shot.md) | ⭐ 6,948 | 2026-11-11 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [diasurgical/DevilutionX](../repos/diasurgical/DevilutionX.md) | ⭐ 9,834 | 2026-10-12 | Diablo build for modern operating systems |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [scummvm/scummvm](../repos/scummvm/scummvm.md) | ⭐ 2,855 | 2026-10-13 | ScummVM main repository |
@@ -80,6 +74,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [iliasHDZ/Bismuth](../repos/iliasHDZ/Bismuth.md) | ⭐ 94 | 2026-10-20 | Optimization mod for Geometry Dash |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [zufuliu/notepad4](../repos/zufuliu/notepad4.md) | ⭐ 5,054 | 2026-10-20 | Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with ... |
 
 
 ---
@@ -89,7 +86,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,384 | 2026-07-30 | 32 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 133,947 | 2026-08-01 | 35 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 134,149 | 2026-08-01 | 36 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,803 | 2026-08-04 | 7 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 123,622 | 2026-08-01 | 7 |
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 119,259 | 2026-08-01 | 12 |
@@ -98,7 +95,7 @@
 | [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 77,216 | 2026-08-12 | 7 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,876 | 2026-08-08 | 18 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,138 | 2026-08-01 | 20 |
-| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 52,949 | 2026-10-06 | 11 |
+| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 53,223 | 2026-10-06 | 12 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
 | [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,787 | 2026-08-03 | 13 |
 | [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,454 | 2026-09-01 | 3 |
@@ -106,8 +103,8 @@
 | [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 43,382 | 2026-09-06 | 3 |
 | [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 42,460 | 2026-08-19 | 14 |
 | [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 41,510 | 2026-08-09 | 14 |
+| [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 41,444 | 2026-08-06 | 5 |
 | [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 41,019 | 2026-08-02 | 8 |
-| [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 40,788 | 2026-08-06 | 4 |
 
 ---
 
@@ -116,7 +113,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 46 | ⭐ 439 | 2026-08-01 | 2026-10-09 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 35 | ⭐ 133,947 | 2026-08-01 | 2026-11-10 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 36 | ⭐ 134,149 | 2026-08-01 | 2026-11-11 |
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 32 | ⭐ 201,384 | 2026-07-30 | 2026-11-07 |
 | [google/googletest](../repos/google/googletest.md) | 27 | ⭐ 39,709 | 2026-08-04 | 2026-11-05 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 20 | ⭐ 72,138 | 2026-08-01 | 2026-10-29 |
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-11-10T21:00:56.503Z*
+*Last updated: 2026-11-11T21:00:51.632Z*

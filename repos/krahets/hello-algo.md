@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | Java |
+| **Language** | Python |
 | **License** | Other |
-| **Stars** | ⭐ 131,621 |
-| **Forks** | 🍴 15,567 |
-| **Trending Days** | 16 |
+| **Stars** | ⭐ 132,217 |
+| **Forks** | 🍴 15,617 |
+| **Trending Days** | 17 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Oct 28, 2026 |
+| **Last Seen** | Nov 11, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Java or algo*
+*Similar: Check repositories in Python or algo*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 16
+- **Trending Days**: 17
 - **Longest Streak**: 5 days
 
 ---
@@ -70,10 +70,10 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 131,621+ stars, strong contributor base |
+| **Community** | Very Active | 132,217+ stars, strong contributor base |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Active | Regular updates |
-| **Learning Curve** | Medium | Moderate learning investment |
+| **Maintenance** | Very Active | Updated within last week |
+| **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
 - General purpose
@@ -81,7 +81,7 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in Java
+- Check similar projects in Python
 
 #### Metrics
 - **Hidden Gem**: ✗ No
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-10T21:00:59.840Z*  
-*Data from 16 trending reports*
+*Last updated: 2026-11-11T21:00:53.512Z*  
+*Data from 17 trending reports*

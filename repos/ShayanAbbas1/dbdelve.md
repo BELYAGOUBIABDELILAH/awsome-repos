@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 566 |
-| **Forks** | 🍴 33 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 1,089 |
+| **Forks** | 🍴 58 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 27, 2026 |
-| **Last Seen** | Oct 27, 2026 |
+| **Last Seen** | Nov 11, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`database`](../../topics/database.md) [`dbclient`](../../topics/dbclient.md) [`developer-tools`](../../topics/developer-tools.md) [`gpui`](../../topics/gpui.md) [`linux`](../../topics/linux.md) [`local-first`](../../topics/local-first.md) [`macos-app`](../../topics/macos-app.md) [`mariadb`](../../topics/mariadb.md) [`mongodb`](../../topics/mongodb.md) [`mssql-database`](../../topics/mssql-database.md) [`mssqlserver`](../../topics/mssqlserver.md) [`mysql`](../../topics/mysql.md) [`open-source`](../../topics/open-source.md) [`postgresql`](../../topics/postgresql.md) [`redis`](../../topics/redis.md) [`rust`](../../topics/rust.md) [`snowflake`](../../topics/snowflake.md) [`sql`](../../topics/sql.md) [`sqlite`](../../topics/sqlite.md) [`windows`](../../topics/windows.md) 
+[`database`](../../topics/database.md) [`dbclient`](../../topics/dbclient.md) [`developer-tools`](../../topics/developer-tools.md) [`gpui`](../../topics/gpui.md) [`linux`](../../topics/linux.md) [`local-first`](../../topics/local-first.md) [`macos-app`](../../topics/macos-app.md) [`mariadb`](../../topics/mariadb.md) [`mongodb`](../../topics/mongodb.md) [`mssql-database`](../../topics/mssql-database.md) [`mssqlserver`](../../topics/mssqlserver.md) [`mysql`](../../topics/mysql.md) [`odbc`](../../topics/odbc.md) [`postgresql`](../../topics/postgresql.md) [`redis`](../../topics/redis.md) [`rust`](../../topics/rust.md) [`snowflake`](../../topics/snowflake.md) [`sql`](../../topics/sql.md) [`sqlite`](../../topics/sqlite.md) [`windows`](../../topics/windows.md) 
 
 ### Curated Categories
 `Frontend Development` `Backend Development` `Databases` `Systems Programming` `Developer Tools` 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-10T21:01:03.289Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-11-11T21:00:55.818Z*  
+*Data from 2 trending reports*

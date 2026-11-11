@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 228
+- **Total Repositories**: 227
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-28
+- **Last Updated**: 2026-11-10
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | ⭐ 30,254 | 2026-08-02 | 18 |
+| [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,969 | 2026-08-04 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AntennaPod/AntennaPod](../repos/AntennaPod/AntennaPod.md) | ⭐ 8,289 | 2026-08-03 | 5 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 6,334 | 2026-08-05 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 99,333 | 2026-08-03 | 32 |
+| [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 48,427 | 2026-08-07 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iflytek/skillhub](../repos/iflytek/skillhub.md) | ⭐ 5,389 | 2026-08-04 | 18 |
+| [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,311 | 2026-08-08 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,823 | 2026-08-04 | 11 |
+| [zaproxy/zaproxy](../repos/zaproxy/zaproxy.md) | ⭐ 16,168 | 2026-08-12 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zalexdev/strykerapp](../repos/zalexdev/strykerapp.md) | ⭐ 2,030 | 2026-08-08 | 6 |
+| [apache/kafka](../repos/apache/kafka.md) | ⭐ 34,210 | 2026-08-12 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AndreyPavlenko/Fermata](../repos/AndreyPavlenko/Fermata.md) | ⭐ 1,498 | 2026-08-23 | 6 |
+| [apache/fineract](../repos/apache/fineract.md) | ⭐ 2,621 | 2026-08-27 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Keeperorowner/NagramXF](../repos/Keeperorowner/NagramXF.md) | ⭐ 1,135 | 2026-08-24 | 4 |
+| [jenkinsci/jenkins](../repos/jenkinsci/jenkins.md) | ⭐ 26,763 | 2026-09-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/Sui](../repos/RikkaApps/Sui.md) | ⭐ 4,362 | 2026-09-13 | 2 |
+| [iterate-ch/cyberduck](../repos/iterate-ch/cyberduck.md) | ⭐ 4,909 | 2026-09-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AbdurazaaqMohammed/MP-Manager](../repos/AbdurazaaqMohammed/MP-Manager.md) | ⭐ 539 | 2026-09-27 | 8 |
+| [mlmvpn/mlmvpn_android](../repos/mlmvpn/mlmvpn_android.md) | ⭐ 689 | 2026-09-29 | 7 |
 
 
 ---
@@ -88,18 +88,17 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 131,621 | 2026-08-04 | 16 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 99,333 | 2026-08-03 | 32 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,787 | 2026-08-04 | 22 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,509 | 2026-08-02 | 25 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
-| [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,823 | 2026-08-04 | 11 |
+| [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,969 | 2026-08-04 | 12 |
 | [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,508 | 2026-08-08 | 3 |
-| [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,300 | 2026-08-08 | 11 |
+| [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,311 | 2026-08-08 | 12 |
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 52,327 | 2026-08-04 | 15 |
 | [google/guava](../repos/google/guava.md) | ⭐ 51,912 | 2026-08-02 | 12 |
 | [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 51,593 | 2026-08-12 | 12 |
-| [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 48,307 | 2026-08-07 | 11 |
+| [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 48,427 | 2026-08-07 | 12 |
 | [ReactiveX/RxJava](../repos/ReactiveX/RxJava.md) | ⭐ 48,208 | 2026-08-28 | 1 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 43,092 | 2026-08-05 | 20 |
 | [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 40,546 | 2026-08-02 | 15 |
@@ -108,6 +107,7 @@
 | [PhilJay/MPAndroidChart](../repos/PhilJay/MPAndroidChart.md) | ⭐ 38,169 | 2026-09-21 | 1 |
 | [alibaba/arthas](../repos/alibaba/arthas.md) | ⭐ 37,526 | 2026-08-28 | 2 |
 | [doocs/leetcode](../repos/doocs/leetcode.md) | ⭐ 36,511 | 2026-08-08 | 5 |
+| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 36,142 | 2026-08-04 | 21 |
 
 ---
 
@@ -115,8 +115,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 33 | ⭐ 6,334 | 2026-08-05 | 2026-11-11 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 32 | ⭐ 99,333 | 2026-08-03 | 2026-11-10 |
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 32 | ⭐ 6,286 | 2026-08-05 | 2026-11-07 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 25 | ⭐ 78,509 | 2026-08-02 | 2026-11-06 |
 | [kestra-io/kestra](../repos/kestra-io/kestra.md) | 24 | ⭐ 30,163 | 2026-08-04 | 2026-11-06 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 23 | ⭐ 27,915 | 2026-08-02 | 2026-11-07 |
@@ -176,7 +176,6 @@
 - [iflytek/skillhub](../repos/iflytek/skillhub.md) - Self-hosted, open-source agent skill registry for enterprises. Publish &amp; version skill packages, ...
 - [trinodb/trino](../repos/trinodb/trino.md) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as Pr...
 - [kestra-io/kestra](../repos/kestra-io/kestra.md) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infr...
-- [krahets/hello-algo](../repos/krahets/hello-algo.md) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Ru...
 - [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) - All Algorithms implemented in Java
 - [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) - Browse media content with your own rules on Android TV
 - [apache/cassandra](../repos/apache/cassandra.md) - Open source transactional distributed database. Linear scalability and proven fault-tolerance on ...
@@ -213,7 +212,7 @@
 - [quarkusio/quarkus](../repos/quarkusio/quarkus.md) - Quarkus: Supersonic Subatomic Java. 
 - [DataDog/dd-trace-java](../repos/DataDog/dd-trace-java.md) - Datadog APM client for Java
 - [Mininglamp-OSS/octo-android](../repos/Mininglamp-OSS/octo-android.md) - OCTO Android Client — Open-source enterprise IM
-- [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) - 【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知...
+- [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) - 一款免费开源的 AI 低代码平台，也是 AI 时代构建复杂业务系统的开源基座！权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一...
 - [kdn251/interviews](../repos/kdn251/interviews.md) - Everything you need to know to get the job.
 - [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) - Spring Framework
 - [anddea/revanced-patches](../repos/anddea/revanced-patches.md) - 🧩 Patches for ReVanced
@@ -230,7 +229,8 @@
 - [conductor-oss/conductor](../repos/conductor-oss/conductor.md) - Conductor is an event driven agentic workflow engine providing durable and highly resilient execu...
 - [languagetool-org/languagetool](../repos/languagetool-org/languagetool.md) - Style and Grammar Checker for 25+ Languages
 - [navinreddy20/Javacode](../repos/navinreddy20/Javacode.md) - 
+- [ReChronoRain/HyperCeiler](../repos/ReChronoRain/HyperCeiler.md) - HyperOS enhancement module - Make HyperOS Great Again!
 
 ---
 
-*Last updated: 2026-11-10T21:00:56.545Z*
+*Last updated: 2026-11-11T21:00:51.656Z*

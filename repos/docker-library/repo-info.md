@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Perl |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 611 |
-| **Forks** | 🍴 358 |
-| **Trending Days** | 5 |
+| **Stars** | ⭐ 612 |
+| **Forks** | 🍴 359 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 12, 2026 |
-| **Last Seen** | Nov 6, 2026 |
+| **Last Seen** | Nov 11, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 1 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 611+ stars, strong contributor base |
+| **Community** | Very Active | 612+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 80&#x2F;100
+- **Trending Score**: 95&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-10T21:01:02.271Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-11-11T21:00:55.229Z*  
+*Data from 6 trending reports*

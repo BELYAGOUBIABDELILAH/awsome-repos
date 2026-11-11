@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 187
+- **Total Repositories**: 188
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-07
 
@@ -16,37 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | ⭐ 8,374 | 2026-08-01 | 7 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 115,837 | 2026-08-05 | 36 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 115,059 | 2026-08-05 | 35 |
+| [microsoft/power-platform-skills](../repos/microsoft/power-platform-skills.md) | ⭐ 1,134 | 2026-08-07 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 33,890 | 2026-08-08 | 18 |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 34,116 | 2026-08-08 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 64,117 | 2026-08-27 | 15 |
+| [fishjar/kiss-translator](../repos/fishjar/kiss-translator.md) | ⭐ 13,297 | 2026-08-10 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 69,110 | 2026-08-28 | 19 |
+| [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) | ⭐ 5,147 | 2026-08-14 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DeanChensj/jiangshan-map](../repos/DeanChensj/jiangshan-map.md) | ⭐ 5,239 | 2026-11-02 | 3 |
+| [chuspeeism/dashi-ppt-skill](../repos/chuspeeism/dashi-ppt-skill.md) | ⭐ 10,618 | 2026-08-20 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chinese-poetry/chinese-poetry](../repos/chinese-poetry/chinese-poetry.md) | ⭐ 54,238 | 2026-11-10 | 1 |
+| [kunchenguid/lavish-axi](../repos/kunchenguid/lavish-axi.md) | ⭐ 4,537 | 2026-08-24 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [PenglongHuang/chinese-novelist-skill](../repos/PenglongHuang/chinese-novelist-skill.md) | ⭐ 4,793 | 2026-09-19 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [tiagozip/cap](../repos/tiagozip/cap.md) | ⭐ 8,340 | 2026-09-29 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [songquanpeng/one-api](../repos/songquanpeng/one-api.md) | ⭐ 37,405 | 2026-10-09 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [poloclub/transformer-explainer](../repos/poloclub/transformer-explainer.md) | ⭐ 8,958 | 2026-10-12 | Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [JoeanAmier/TikTokDownloader](../repos/JoeanAmier/TikTokDownloader.md) | ⭐ 16,745 | 2026-10-12 | 抖音 &#x2F; TikTok 平台作品下载&#x2F;数据采集工具 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [truelockmc/streambert](../repos/truelockmc/streambert.md) | ⭐ 6,259 | 2026-10-13 | A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the... |
@@ -71,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [datawhalechina/easy-vibe](../repos/datawhalechina/easy-vibe.md) | ⭐ 20,059 | 2026-10-19 | 💻  Vibe Coding 101｜Your First Course For AI Product Builders. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [flizzywine/dsh-tavern](../repos/flizzywine/dsh-tavern.md) | ⭐ 1,128 | 2026-10-19 | 基于DSH的Agent酒馆。类酒馆文字游戏Agent。兼容SillyTavern生态，人物卡直接导入就能玩。更快、更稳、更鲜活。所有模型都能用。手机也能玩。 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [NomaDamas/CozyClay](../repos/NomaDamas/CozyClay.md) | ⭐ 886 | 2026-10-21 | Open source previs software in the browser: block a scene, pose characters, author camera moves a... |
 
 
 ---
@@ -84,7 +93,7 @@
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 158,907 | 2026-08-06 | 4 |
 | [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | 2 |
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,323 | 2026-07-30 | 14 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 115,059 | 2026-08-05 | 35 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 115,837 | 2026-08-05 | 36 |
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,607 | 2026-08-06 | 3 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
@@ -98,7 +107,7 @@
 | [jgraph/drawio-desktop](../repos/jgraph/drawio-desktop.md) | ⭐ 63,817 | 2026-11-04 | 1 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,346 | 2026-08-11 | 4 |
 | [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 59,798 | 2026-10-14 | 1 |
-| [chinese-poetry/chinese-poetry](../repos/chinese-poetry/chinese-poetry.md) | ⭐ 54,238 | 2026-11-10 | 1 |
+| [chinese-poetry/chinese-poetry](../repos/chinese-poetry/chinese-poetry.md) | ⭐ 54,296 | 2026-11-10 | 2 |
 
 ---
 
@@ -106,12 +115,12 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 35 | ⭐ 115,059 | 2026-08-05 | 2026-11-10 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 36 | ⭐ 115,837 | 2026-08-05 | 2026-11-11 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 32 | ⭐ 14,607 | 2026-08-02 | 2026-11-07 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 22 | ⭐ 90,383 | 2026-08-04 | 2026-10-27 |
 | [byoungd/up](../repos/byoungd/up.md) | 21 | ⭐ 70,243 | 2026-08-01 | 2026-11-07 |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 19 | ⭐ 34,116 | 2026-08-08 | 2026-11-11 |
 | [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | 19 | ⭐ 69,110 | 2026-08-28 | 2026-11-10 |
-| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 18 | ⭐ 33,890 | 2026-08-08 | 2026-11-10 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
 | [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | 15 | ⭐ 39,049 | 2026-08-16 | 2026-11-09 |
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | 15 | ⭐ 64,117 | 2026-08-27 | 2026-11-10 |
@@ -224,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-10T21:00:56.548Z*
+*Last updated: 2026-11-11T21:00:51.658Z*

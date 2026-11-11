@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 146
+- **Total Repositories**: 147
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-06
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 14,054 | 2026-08-01 | 32 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 14,103 | 2026-08-01 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/container](../repos/apple/container.md) | ⭐ 51,136 | 2026-08-01 | 19 |
+| [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 14,732 | 2026-08-08 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [momenbasel/PureMac](../repos/momenbasel/PureMac.md) | ⭐ 7,732 | 2026-08-04 | 12 |
+| [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 22,281 | 2026-08-12 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/CopilotForXcode](../repos/github/CopilotForXcode.md) | ⭐ 6,381 | 2026-08-11 | 12 |
+| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,925 | 2026-08-17 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [abue-ammar/tinycast](../repos/abue-ammar/tinycast.md) | ⭐ 9,363 | 2026-09-01 | 14 |
+| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 15,317 | 2026-09-21 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | ⭐ 1,371 | 2026-09-13 | 10 |
+| [kaishi00/hermes-conduit](../repos/kaishi00/hermes-conduit.md) | ⭐ 579 | 2026-09-29 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HD838A/remote-mic-app](../repos/HD838A/remote-mic-app.md) | ⭐ 2,783 | 2026-10-08 | 11 |
+| [YangJiiii/3105](../repos/YangJiiii/3105.md) | ⭐ 986 | 2026-10-25 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [frs0n/GestaltEdit](../repos/frs0n/GestaltEdit.md) | ⭐ 976 | 2026-11-11 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [StephenLovino/BetterCast](../repos/StephenLovino/BetterCast.md) | ⭐ 182 | 2026-10-12 | Turn spare devices into real extra displays for your Mac or Windows PC — iPad, iPhone, Android, W... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [OpenBMB/MiniCPM-V-Apps](../repos/OpenBMB/MiniCPM-V-Apps.md) | ⭐ 457 | 2026-10-15 | MiniCPM-V apps — fully offline multimodal chat on iOS &#x2F; Android &#x2F; HarmonyOS |
@@ -67,10 +67,13 @@
 | [JohnCoates/Aerial](../repos/JohnCoates/Aerial.md) | ⭐ 21,122 | 2026-10-23 | Apple TV Aerial Screensaver for Mac |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [YangJiiii/3105](../repos/YangJiiii/3105.md) | ⭐ 980 | 2026-10-25 | Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab. |
+| [YangJiiii/3105](../repos/YangJiiii/3105.md) | ⭐ 986 | 2026-10-25 | Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [samhenrigold/LightTouchMac](../repos/samhenrigold/LightTouchMac.md) | ⭐ 293 | 2026-10-26 | Run classic iPhone, iPod touch and iPad apps on your Mac (iOS 1–7) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [milika/SmartTubeIOS](../repos/milika/SmartTubeIOS.md) | ⭐ 508 | 2026-10-28 | Native Swift&#x2F;SwiftUI YouTube client for iPhone, iPad, Apple TV &amp; Mac — ad-free, SponsorBlock, DeA... |
 
 
 ---
@@ -88,17 +91,17 @@
 | [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 27,997 | 2026-08-04 | 4 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,918 | 2026-08-04 | 16 |
 | [ReactiveX/RxSwift](../repos/ReactiveX/RxSwift.md) | ⭐ 24,646 | 2026-08-15 | 1 |
-| [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 22,032 | 2026-08-12 | 10 |
+| [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 22,281 | 2026-08-12 | 11 |
 | [JohnCoates/Aerial](../repos/JohnCoates/Aerial.md) | ⭐ 21,122 | 2026-10-23 | 4 |
 | [SnapKit/SnapKit](../repos/SnapKit/SnapKit.md) | ⭐ 20,344 | 2026-08-14 | 1 |
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,685 | 2026-08-01 | 4 |
 | [OpenEmu/OpenEmu](../repos/OpenEmu/OpenEmu.md) | ⭐ 17,766 | 2026-09-13 | 1 |
+| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 15,317 | 2026-09-21 | 14 |
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 15,130 | 2026-08-03 | 4 |
 | [Whisky-App/Whisky](../repos/Whisky-App/Whisky.md) | ⭐ 15,107 | 2026-09-06 | 2 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,999 | 2026-08-04 | 22 |
 | [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,987 | 2026-08-24 | 12 |
-| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 14,808 | 2026-09-21 | 13 |
-| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,686 | 2026-08-17 | 14 |
+| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,925 | 2026-08-17 | 15 |
 
 ---
 
@@ -106,7 +109,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 32 | ⭐ 14,054 | 2026-08-01 | 2026-11-10 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 33 | ⭐ 14,103 | 2026-08-01 | 2026-11-11 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 27 | ⭐ 28,732 | 2026-08-01 | 2026-11-06 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 22 | ⭐ 14,999 | 2026-08-04 | 2026-10-29 |
 | [apple/container](../repos/apple/container.md) | 19 | ⭐ 51,136 | 2026-08-01 | 2026-11-10 |
@@ -224,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-11-10T21:00:56.606Z*
+*Last updated: 2026-11-11T21:00:51.691Z*

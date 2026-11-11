@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 133
+**Gems Found**: 127
 
 ---
 
@@ -271,27 +271,7 @@
 
 ---
 
-### 14. [longbridge&#x2F;gpui-component](../../repos/longbridge/gpui-component.md)
-
-**Rust GUI components for building fantastic cross-platform desktop application by using GPUI.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 13,249 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 72/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 1, 2026 |
-
-**Why it's a gem**: High growth velocity (+58 stars&#x2F;day) • Trending 6 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/longbridge/gpui-component.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;longbridge&#x2F;gpui-component)
-
----
-
-### 15. [Gitlawb&#x2F;zero](../../repos/Gitlawb/zero.md)
+### 14. [Gitlawb&#x2F;zero](../../repos/Gitlawb/zero.md)
 
 **The coding agent that answers to you, your model, your machine, your rules.**
 
@@ -311,7 +291,7 @@
 
 ---
 
-### 16. [tutti-os&#x2F;tutti](../../repos/tutti-os/tutti.md)
+### 15. [tutti-os&#x2F;tutti](../../repos/tutti-os/tutti.md)
 
 **Where people and agents build in tune.**
 
@@ -328,6 +308,26 @@
 **Best for**: 
 
 [View Passport](../../repos/tutti-os/tutti.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;tutti-os&#x2F;tutti)
+
+---
+
+### 16. [longbridge&#x2F;gpui-component](../../repos/longbridge/gpui-component.md)
+
+**Rust GUI components for building fantastic cross-platform desktop application by using GPUI.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 13,249 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 71/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 1, 2026 |
+
+**Why it's a gem**: High growth velocity (+58 stars&#x2F;day) • Trending 6 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/longbridge/gpui-component.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;longbridge&#x2F;gpui-component)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-10T21:01:03.871Z*  
+*Generated: 2026-11-11T21:00:56.163Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 177
+- **Total Repositories**: 179
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-08
+- **Last Updated**: 2026-11-11
 
 ---
 
@@ -16,37 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vivizzz007/vivi-music](../repos/vivizzz007/vivi-music.md) | ⭐ 4,089 | 2026-08-02 | 11 |
+| [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 22,070 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HapeLee/legado-with-MD3](../repos/HapeLee/legado-with-MD3.md) | ⭐ 6,939 | 2026-08-02 | 14 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 65,725 | 2026-08-02 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 11,223 | 2026-08-03 | 14 |
+| [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 11,953 | 2026-08-02 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EchoMusicApp/Echo-Music](../repos/EchoMusicApp/Echo-Music.md) | ⭐ 2,453 | 2026-08-09 | 6 |
+| [vivizzz007/vivi-music](../repos/vivizzz007/vivi-music.md) | ⭐ 4,115 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 19,176 | 2026-08-17 | 9 |
+| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 11,243 | 2026-08-03 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ximeiorg/Xime](../repos/ximeiorg/Xime.md) | ⭐ 1,371 | 2026-09-09 | 7 |
+| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,561 | 2026-08-04 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CYQawa/YunX](../repos/CYQawa/YunX.md) | ⭐ 7,078 | 2026-10-06 | 11 |
+| [torlando-tech/columba](../repos/torlando-tech/columba.md) | ⭐ 1,295 | 2026-08-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tidain/YunX-Desktop](../repos/tidain/YunX-Desktop.md) | ⭐ 4,117 | 2026-11-09 | 2 |
+| [jellyfin/jellyfin-androidtv](../repos/jellyfin/jellyfin-androidtv.md) | ⭐ 4,730 | 2026-08-24 | 8 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [CYQawa/YunX](../repos/CYQawa/YunX.md) | ⭐ 7,298 | 2026-10-06 | 12 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ahXN00/OwnTV](../repos/ahXN00/OwnTV.md) | ⭐ 774 | 2026-10-06 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | ⭐ 5,955 | 2026-10-12 | BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [MuwMx/YumaPlayer](../repos/MuwMx/YumaPlayer.md) | ⭐ 937 | 2026-10-13 | 🎵 Hybrid music client for Android: Spotify discovery &amp; UI + YouTube Music library + Hi-Res Lossl... |
@@ -74,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mossyhub/openautolink](../repos/mossyhub/openautolink.md) | ⭐ 176 | 2026-10-16 | Android Auto and CarPlay for GM EV AAOS head units with cluster&#x2F;HUD support and EV range in Maps |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [carlelieser/shizzi](../repos/carlelieser/shizzi.md) | ⭐ 279 | 2026-10-16 | Rootless wifi-tethering bypass for Android with Shizuku. |
 
 
 ---
@@ -82,10 +88,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 65,554 | 2026-08-02 | 23 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 65,725 | 2026-08-02 | 24 |
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 63,713 | 2026-08-03 | 17 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 56,380 | 2026-08-06 | 17 |
-| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,539 | 2026-08-04 | 14 |
+| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,561 | 2026-08-04 | 15 |
 | [android/architecture-samples](../repos/android/architecture-samples.md) | ⭐ 45,876 | 2026-10-14 | 2 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 44,223 | 2026-08-03 | 18 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 33,265 | 2026-08-08 | 23 |
@@ -95,7 +101,7 @@
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 24,746 | 2026-08-01 | 18 |
 | [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,479 | 2026-08-05 | 6 |
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 23,173 | 2026-08-02 | 6 |
-| [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 22,050 | 2026-08-01 | 10 |
+| [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 22,070 | 2026-08-01 | 11 |
 | [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 21,437 | 2026-09-07 | 11 |
 | [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,354 | 2026-08-12 | 4 |
 | [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 19,176 | 2026-08-17 | 9 |
@@ -109,7 +115,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 23 | ⭐ 65,554 | 2026-08-02 | 2026-11-08 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 24 | ⭐ 65,725 | 2026-08-02 | 2026-11-11 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 23 | ⭐ 33,265 | 2026-08-08 | 2026-11-09 |
 | [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 19 | ⭐ 3,038 | 2026-08-02 | 2026-10-26 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 18 | ⭐ 24,746 | 2026-08-01 | 2026-10-26 |
@@ -117,8 +123,8 @@
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 17 | ⭐ 63,713 | 2026-08-03 | 2026-11-02 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 17 | ⭐ 56,380 | 2026-08-06 | 2026-11-04 |
 | [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) | 16 | ⭐ 2,217 | 2026-08-04 | 2026-11-09 |
-| [SukiSU-Ultra/SukiSU-Ultra](../repos/SukiSU-Ultra/SukiSU-Ultra.md) | 15 | ⭐ 6,993 | 2026-08-09 | 2026-11-08 |
-| [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | 15 | ⭐ 5,955 | 2026-10-12 | 2026-11-06 |
+| [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | 15 | ⭐ 11,953 | 2026-08-02 | 2026-11-11 |
+| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | 15 | ⭐ 11,243 | 2026-08-03 | 2026-11-11 |
 
 ---
 
@@ -227,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-10T21:00:56.554Z*
+*Last updated: 2026-11-11T21:00:51.662Z*

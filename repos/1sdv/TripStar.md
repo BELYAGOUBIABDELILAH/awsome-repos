@@ -1,6 +1,6 @@
 # 1sdv&#x2F;TripStar
 
-> 旅途星辰 (TripStar)是一个创新的 AI 文旅智能体应用，旨在解决用户在规划旅行时面临的各种问题，为提供一站式旅游攻略而生。
+> TripStar 是一个创新的 AI 文旅智能体应用，致力于打造多智能体协作文旅规划平台，有别于传统的旅游攻略网站，本项目的创新模式更像是一位经验丰富的人类旅行管家一样，自动搜索小红书旅行信息、查询天气、精选酒店并在地图上规划最优景点路线，快速生成旅游攻略路书。
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;1sdv&#x2F;TripStar) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Vue |
 | **License** | GPL-2.0 |
-| **Stars** | ⭐ 2,513 |
-| **Forks** | 🍴 292 |
-| **Trending Days** | 12 |
+| **Stars** | ⭐ 2,538 |
+| **Forks** | 🍴 302 |
+| **Trending Days** | 13 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 4, 2026 |
-| **Last Seen** | Oct 28, 2026 |
+| **Last Seen** | Nov 11, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 12
+- **Trending Days**: 13
 - **Longest Streak**: 3 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-10T21:01:01.970Z*  
-*Data from 12 trending reports*
+*Last updated: 2026-11-11T21:00:55.042Z*  
+*Data from 13 trending reports*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 49,120 |
-| **Forks** | 🍴 3,445 |
-| **Trending Days** | 21 |
+| **Stars** | ⭐ 49,795 |
+| **Forks** | 🍴 3,483 |
+| **Trending Days** | 22 |
 | **Peak Rank** | #1 |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Nov 10, 2026 |
+| **Last Seen** | Nov 11, 2026 |
 
 
 ---
@@ -48,12 +48,13 @@
 **Nov 8, 2026** — Rank #5 (+812 ⭐)  
 **Nov 9, 2026** — Rank #7 (+914 ⭐)  
 **Nov 10, 2026** — Rank #8 (+775 ⭐)  
+**Nov 11, 2026** — Rank #6 (+712 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #1
-- **Trending Days**: 21
-- **Longest Streak**: 9 days
+- **Trending Days**: 22
+- **Longest Streak**: 10 days
 
 ---
 
@@ -96,5 +97,5 @@
 
 ---
 
-*Last updated: 2026-11-10T21:00:59.301Z*  
-*Data from 21 trending reports*
+*Last updated: 2026-11-11T21:00:53.175Z*  
+*Data from 22 trending reports*

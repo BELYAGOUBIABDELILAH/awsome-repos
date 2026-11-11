@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T21:01:04.129Z",
+  "generated_at": "2026-11-11T21:00:56.335Z",
   "total_topics": 100,
   "topics": [
     {
@@ -19,42 +19,42 @@
     },
     {
       "topic": "llm",
-      "repository_count": 198,
+      "repository_count": 199,
       "percentage": 4.4
     },
     {
       "topic": "rust",
-      "repository_count": 173,
+      "repository_count": 174,
       "percentage": 3.9
     },
     {
       "topic": "ai-agents",
-      "repository_count": 160,
+      "repository_count": 161,
       "percentage": 3.6
     },
     {
       "topic": "python",
-      "repository_count": 157,
+      "repository_count": 159,
       "percentage": 3.5
     },
     {
       "topic": "mcp",
-      "repository_count": 157,
+      "repository_count": 159,
       "percentage": 3.5
     },
     {
       "topic": "macos",
-      "repository_count": 151,
+      "repository_count": 152,
       "percentage": 3.4
     },
     {
       "topic": "claude-code",
-      "repository_count": 149,
+      "repository_count": 150,
       "percentage": 3.3
     },
     {
       "topic": "windows",
-      "repository_count": 145,
+      "repository_count": 146,
       "percentage": 3.2
     },
     {
@@ -74,12 +74,12 @@
     },
     {
       "topic": "ios",
-      "repository_count": 129,
+      "repository_count": 130,
       "percentage": 2.9
     },
     {
       "topic": "open-source",
-      "repository_count": 127,
+      "repository_count": 126,
       "percentage": 2.8
     },
     {
@@ -89,16 +89,16 @@
     },
     {
       "topic": "self-hosted",
-      "repository_count": 115,
+      "repository_count": 116,
       "percentage": 2.6
     },
     {
-      "topic": "golang",
-      "repository_count": 108,
+      "topic": "codex",
+      "repository_count": 110,
       "percentage": 2.4
     },
     {
-      "topic": "codex",
+      "topic": "golang",
       "repository_count": 108,
       "percentage": 2.4
     },
@@ -139,7 +139,7 @@
     },
     {
       "topic": "swift",
-      "repository_count": 77,
+      "repository_count": 78,
       "percentage": 1.7
     },
     {
@@ -149,7 +149,7 @@
     },
     {
       "topic": "php",
-      "repository_count": 75,
+      "repository_count": 76,
       "percentage": 1.7
     },
     {
@@ -164,7 +164,7 @@
     },
     {
       "topic": "developer-tools",
-      "repository_count": 73,
+      "repository_count": 74,
       "percentage": 1.6
     },
     {
@@ -323,7 +323,17 @@
       "percentage": 0.9
     },
     {
+      "topic": "scala",
+      "repository_count": 39,
+      "percentage": 0.9
+    },
+    {
       "topic": "game",
+      "repository_count": 39,
+      "percentage": 0.9
+    },
+    {
+      "topic": "cursor",
       "repository_count": 39,
       "percentage": 0.9
     },
@@ -331,16 +341,6 @@
       "topic": "anthropic",
       "repository_count": 39,
       "percentage": 0.9
-    },
-    {
-      "topic": "scala",
-      "repository_count": 38,
-      "percentage": 0.8
-    },
-    {
-      "topic": "cursor",
-      "repository_count": 38,
-      "percentage": 0.8
     },
     {
       "topic": "vim",
@@ -368,17 +368,17 @@
       "percentage": 0.8
     },
     {
-      "topic": "dsh-plugin",
-      "repository_count": 37,
-      "percentage": 0.8
-    },
-    {
       "topic": "c-plus-plus",
       "repository_count": 37,
       "percentage": 0.8
     },
     {
       "topic": "neovim-plugin",
+      "repository_count": 36,
+      "percentage": 0.8
+    },
+    {
+      "topic": "dsh-plugin",
       "repository_count": 36,
       "percentage": 0.8
     },

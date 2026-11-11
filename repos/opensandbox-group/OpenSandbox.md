@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | Python |
+| **Language** | Go |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 17,136 |
-| **Forks** | 🍴 1,619 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 17,198 |
+| **Forks** | 🍴 1,630 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Nov 9, 2026 |
-| **Last Seen** | Nov 10, 2026 |
+| **Last Seen** | Nov 11, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Python or aaif*
+*Similar: Check repositories in Go or aaif*
 
 ---
 
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
-- **Longest Streak**: 2 days
+- **Trending Days**: 3
+- **Longest Streak**: 3 days
 
 ---
 
@@ -81,15 +81,15 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in Python
+- Check similar projects in Go
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 40&#x2F;100
+- **Trending Score**: 60&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-10T21:01:03.546Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-11-11T21:00:55.970Z*  
+*Data from 3 trending reports*

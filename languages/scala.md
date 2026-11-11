@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 76
+- **Total Repositories**: 78
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-10
+- **Last Updated**: 2026-11-11
 
 ---
 
@@ -16,37 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 9,074 | 2026-08-01 | 65 |
+| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 9,074 | 2026-08-01 | 66 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 74,059 | 2026-08-01 | 64 |
+| [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,284 | 2026-08-01 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,383 | 2026-08-01 | 61 |
+| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 74,062 | 2026-08-01 | 65 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,462 | 2026-08-01 | 82 |
+| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,388 | 2026-08-01 | 62 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [scala/scala](../repos/scala/scala.md) | ⭐ 14,542 | 2026-08-01 | 44 |
+| [canton-network/splice](../repos/canton-network/splice.md) | ⭐ 122 | 2026-08-01 | 41 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,966 | 2026-08-02 | 68 |
+| [scala/scala3](../repos/scala/scala3.md) | ⭐ 6,337 | 2026-08-01 | 41 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zio/zio](../repos/zio/zio.md) | ⭐ 4,434 | 2026-08-02 | 29 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,471 | 2026-08-01 | 83 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [llm4s/llm4s](../repos/llm4s/llm4s.md) | ⭐ 279 | 2026-10-12 | 7 |
+| [guardian/grid](../repos/guardian/grid.md) | ⭐ 1,460 | 2026-08-01 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,972 | 2026-08-02 | 69 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [apache/datafusion-comet](../repos/apache/datafusion-comet.md) | ⭐ 1,321 | 2026-08-02 | 57 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [llm4s/llm4s](../repos/llm4s/llm4s.md) | ⭐ 279 | 2026-10-12 | Agentic  and LLM Programming in Scala |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [apache/carbondata](../repos/apache/carbondata.md) | ⭐ 1,454 | 2026-10-15 | High performance data store solution |
@@ -74,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ie3-institute/simona](../repos/ie3-institute/simona.md) | ⭐ 37 | 2026-11-08 | simona is an agent-based discrete-event power system simulation model developed @ie3-institute  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [zio/zio-http](../repos/zio/zio-http.md) | ⭐ 877 | 2026-11-08 | A next-generation Scala framework for building scalable, correct, and efficient HTTP clients and ... |
 
 
 ---
@@ -82,21 +88,21 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 74,059 | 2026-08-01 | 64 |
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,462 | 2026-08-01 | 82 |
-| [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,966 | 2026-08-02 | 68 |
+| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 74,062 | 2026-08-01 | 65 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,471 | 2026-08-01 | 83 |
+| [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,972 | 2026-08-02 | 69 |
 | [scala/scala](../repos/scala/scala.md) | ⭐ 14,542 | 2026-08-01 | 44 |
-| [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,281 | 2026-08-01 | 33 |
+| [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,284 | 2026-08-01 | 34 |
 | [apache/predictionio](../repos/apache/predictionio.md) | ⭐ 12,518 | 2026-09-02 | 13 |
 | [yahoo/CMAK](../repos/yahoo/CMAK.md) | ⭐ 11,918 | 2026-09-07 | 2 |
 | [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | ⭐ 9,417 | 2026-08-01 | 37 |
-| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 9,074 | 2026-08-01 | 65 |
+| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 9,074 | 2026-08-01 | 66 |
 | [twitter/finagle](../repos/twitter/finagle.md) | ⭐ 8,869 | 2026-08-20 | 9 |
-| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,383 | 2026-08-01 | 61 |
+| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,388 | 2026-08-01 | 62 |
 | [snowplow/snowplow](../repos/snowplow/snowplow.md) | ⭐ 7,047 | 2026-08-11 | 11 |
 | [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,955 | 2026-08-01 | 43 |
 | [apache/openwhisk](../repos/apache/openwhisk.md) | ⭐ 6,805 | 2026-08-05 | 9 |
-| [scala/scala3](../repos/scala/scala3.md) | ⭐ 6,336 | 2026-08-01 | 40 |
+| [scala/scala3](../repos/scala/scala3.md) | ⭐ 6,337 | 2026-08-01 | 41 |
 | [guardian/frontend](../repos/guardian/frontend.md) | ⭐ 5,899 | 2026-08-03 | 31 |
 | [fpinscala/fpinscala](../repos/fpinscala/fpinscala.md) | ⭐ 5,860 | 2026-09-03 | 3 |
 | [microsoft/SynapseML](../repos/microsoft/SynapseML.md) | ⭐ 5,245 | 2026-08-01 | 12 |
@@ -109,14 +115,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [apache/spark](../repos/apache/spark.md) | 82 | ⭐ 44,462 | 2026-08-01 | 2026-11-10 |
-| [lichess-org/lila](../repos/lichess-org/lila.md) | 68 | ⭐ 18,966 | 2026-08-02 | 2026-11-10 |
-| [delta-io/delta](../repos/delta-io/delta.md) | 65 | ⭐ 9,074 | 2026-08-01 | 2026-11-10 |
-| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | 64 | ⭐ 74,059 | 2026-08-01 | 2026-11-10 |
+| [apache/spark](../repos/apache/spark.md) | 83 | ⭐ 44,471 | 2026-08-01 | 2026-11-11 |
+| [lichess-org/lila](../repos/lichess-org/lila.md) | 69 | ⭐ 18,972 | 2026-08-02 | 2026-11-11 |
+| [delta-io/delta](../repos/delta-io/delta.md) | 66 | ⭐ 9,074 | 2026-08-01 | 2026-11-11 |
+| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | 65 | ⭐ 74,062 | 2026-08-01 | 2026-11-11 |
 | [apache/gluten](../repos/apache/gluten.md) | 63 | ⭐ 1,618 | 2026-08-01 | 2026-11-08 |
 | [joernio/joern](../repos/joernio/joern.md) | 62 | ⭐ 3,616 | 2026-08-01 | 2026-11-03 |
-| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | 61 | ⭐ 7,383 | 2026-08-01 | 2026-11-10 |
-| [apache/datafusion-comet](../repos/apache/datafusion-comet.md) | 56 | ⭐ 1,316 | 2026-08-02 | 2026-11-07 |
+| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | 62 | ⭐ 7,388 | 2026-08-01 | 2026-11-11 |
+| [apache/datafusion-comet](../repos/apache/datafusion-comet.md) | 57 | ⭐ 1,321 | 2026-08-02 | 2026-11-11 |
 | [NVIDIA/cudf-spark](../repos/NVIDIA/cudf-spark.md) | 48 | ⭐ 1,011 | 2026-08-01 | 2026-11-06 |
 | [scala/scala](../repos/scala/scala.md) | 44 | ⭐ 14,542 | 2026-08-01 | 2026-11-10 |
 
@@ -200,7 +206,9 @@
 - [NetLogo/NetLogo](../repos/NetLogo/NetLogo.md) - turtles, patches, and links for kids, teachers, and scientists
 - [ie3-institute/simona](../repos/ie3-institute/simona.md) - simona is an agent-based discrete-event power system simulation model developed @ie3-institute 
 - [zio/zio-http](../repos/zio/zio-http.md) - A next-generation Scala framework for building scalable, correct, and efficient HTTP clients and ...
+- [zio/zio-schema](../repos/zio/zio-schema.md) - Compositional, type-safe schema definitions, which enable auto-derivation of codecs and migrations.
+- [zio/izumi-reflect](../repos/zio/izumi-reflect.md) - TypeTag without scala-reflect. Supports Scala 2 and Scala 3.
 
 ---
 
-*Last updated: 2026-11-10T21:00:56.597Z*
+*Last updated: 2026-11-11T21:00:51.687Z*

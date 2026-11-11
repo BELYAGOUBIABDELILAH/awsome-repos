@@ -14,11 +14,11 @@
 | **License** | Other |
 | **Stars** | ⭐ 20 |
 | **Forks** | 🍴 20 |
-| **Trending Days** | 8 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 27, 2026 |
-| **Last Seen** | Nov 10, 2026 |
+| **Last Seen** | Nov 11, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in OCaml or similar-topics*
+*Similar: Check repositories in OCaml or production*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 8
+- **Trending Days**: 9
 - **Longest Streak**: 4 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-
+[`production`](../../topics/production.md) 
 
 ### Curated Categories
-`General` 
+`Systems Programming` 
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-10T21:01:03.297Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-11-11T21:00:55.823Z*  
+*Data from 9 trending reports*

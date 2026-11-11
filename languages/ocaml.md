@@ -16,16 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,314 | 2026-08-01 | 69 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,321 | 2026-08-01 | 70 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 1,184 | 2026-08-01 | 48 |
+| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 1,190 | 2026-08-01 | 49 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,629 | 2026-08-01 | 62 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [semgrep/semgrep-interfaces](../repos/semgrep/semgrep-interfaces.md) | ⭐ 20 | 2026-10-27 | 8 |
+| [semgrep/semgrep-interfaces](../repos/semgrep/semgrep-interfaces.md) | ⭐ 20 | 2026-10-27 | 9 |
 
 
 ---
@@ -57,7 +54,7 @@
 | [janestreet/magic-trace](../repos/janestreet/magic-trace.md) | ⭐ 6,347 | 2026-08-05 | 12 |
 | [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | ⭐ 5,660 | 2026-08-01 | 41 |
 | [bcpierce00/unison](../repos/bcpierce00/unison.md) | ⭐ 5,560 | 2026-08-07 | 29 |
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,314 | 2026-08-01 | 69 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,321 | 2026-08-01 | 70 |
 | [mirage/mirage](../repos/mirage/mirage.md) | ⭐ 3,006 | 2026-10-07 | 1 |
 | [CatalaLang/catala](../repos/CatalaLang/catala.md) | ⭐ 2,418 | 2026-08-02 | 4 |
 | [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,128 | 2026-08-01 | 33 |
@@ -66,7 +63,7 @@
 | [ocaml/opam](../repos/ocaml/opam.md) | ⭐ 1,387 | 2026-08-01 | 22 |
 | [janestreet/bonsai](../repos/janestreet/bonsai.md) | ⭐ 1,381 | 2026-08-05 | 3 |
 | [stategraph/stategraph](../repos/stategraph/stategraph.md) | ⭐ 1,283 | 2026-08-09 | 2 |
-| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 1,184 | 2026-08-01 | 48 |
+| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 1,190 | 2026-08-01 | 49 |
 | [oxcaml/oxcaml](../repos/oxcaml/oxcaml.md) | ⭐ 931 | 2026-08-03 | 15 |
 | [ocaml/ocaml-lsp](../repos/ocaml/ocaml-lsp.md) | ⭐ 909 | 2026-08-06 | 3 |
 
@@ -76,9 +73,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | 69 | ⭐ 3,314 | 2026-08-01 | 2026-11-10 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | 70 | ⭐ 3,321 | 2026-08-01 | 2026-11-11 |
 | [ocaml/ocaml](../repos/ocaml/ocaml.md) | 62 | ⭐ 6,629 | 2026-08-01 | 2026-11-10 |
-| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | 48 | ⭐ 1,184 | 2026-08-01 | 2026-11-10 |
+| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | 49 | ⭐ 1,190 | 2026-08-01 | 2026-11-11 |
 | [ocaml/dune](../repos/ocaml/dune.md) | 42 | ⭐ 1,934 | 2026-08-01 | 2026-11-06 |
 | [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | 41 | ⭐ 5,660 | 2026-08-01 | 2026-11-06 |
 | [facebook/infer](../repos/facebook/infer.md) | 41 | ⭐ 15,728 | 2026-08-02 | 2026-10-25 |
@@ -120,4 +117,4 @@
 
 ---
 
-*Last updated: 2026-11-10T21:00:56.569Z*
+*Last updated: 2026-11-11T21:00:51.671Z*

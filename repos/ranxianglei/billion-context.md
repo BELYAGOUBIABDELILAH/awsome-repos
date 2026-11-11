@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | Other |
-| **Stars** | ⭐ 6,225 |
-| **Forks** | 🍴 525 |
-| **Trending Days** | 9 |
+| **Stars** | ⭐ 6,808 |
+| **Forks** | 🍴 554 |
+| **Trending Days** | 10 |
 | **Peak Rank** | #9 |
 
 | **First Seen** | Oct 12, 2026 |
-| **Last Seen** | Nov 10, 2026 |
+| **Last Seen** | Nov 11, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in TypeScript or dsh-plugin*
+*Similar: Check repositories in TypeScript or similar-topics*
 
 ---
 
@@ -50,15 +50,15 @@
 ### Highlights
 
 - **Peak Rank**: #9
-- **Trending Days**: 9
-- **Longest Streak**: 4 days
+- **Trending Days**: 10
+- **Longest Streak**: 5 days
 
 ---
 
 ## Categories
 
 ### Topics
-[`dsh-plugin`](../../topics/dsh-plugin.md) 
+
 
 ### Curated Categories
 `General` 
@@ -94,5 +94,5 @@
 
 ---
 
-*Last updated: 2026-11-10T21:01:02.973Z*  
-*Data from 9 trending reports*
+*Last updated: 2026-11-11T21:00:55.630Z*  
+*Data from 10 trending reports*

@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 5
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-10
+- **Last Updated**: 2026-11-11
 
 ---
 
@@ -16,16 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 38,098 | 2026-08-01 | 76 |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 38,105 | 2026-08-01 | 77 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [vlang/vtl](../repos/vlang/vtl.md) | ⭐ 171 | 2026-10-12 | The V Tensor Library |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [vlang/vsl](../repos/vlang/vsl.md) | ⭐ 404 | 2026-10-15 | V library to develop Artificial Intelligence and High-Performance Scientific Computations |
@@ -37,7 +34,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 38,098 | 2026-08-01 | 76 |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 38,105 | 2026-08-01 | 77 |
 | [vlang/vinix](../repos/vlang/vinix.md) | ⭐ 2,701 | 2026-09-09 | 24 |
 | [vlang/vsl](../repos/vlang/vsl.md) | ⭐ 404 | 2026-10-15 | 2 |
 | [vlang/v-analyzer](../repos/vlang/v-analyzer.md) | ⭐ 206 | 2026-08-09 | 2 |
@@ -49,7 +46,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [vlang/v](../repos/vlang/v.md) | 76 | ⭐ 38,098 | 2026-08-01 | 2026-11-10 |
+| [vlang/v](../repos/vlang/v.md) | 77 | ⭐ 38,105 | 2026-08-01 | 2026-11-11 |
 | [vlang/vinix](../repos/vlang/vinix.md) | 24 | ⭐ 2,701 | 2026-09-09 | 2026-10-27 |
 | [vlang/v-analyzer](../repos/vlang/v-analyzer.md) | 2 | ⭐ 206 | 2026-08-09 | 2026-08-11 |
 | [vlang/vsl](../repos/vlang/vsl.md) | 2 | ⭐ 404 | 2026-10-15 | 2026-10-16 |
@@ -67,4 +64,4 @@
 
 ---
 
-*Last updated: 2026-11-10T21:00:56.612Z*
+*Last updated: 2026-11-11T21:00:51.695Z*

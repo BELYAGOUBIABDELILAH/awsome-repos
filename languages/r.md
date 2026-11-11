@@ -16,19 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,626 | 2026-08-01 | 51 |
+| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,626 | 2026-08-01 | 52 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 692 | 2026-08-01 | 56 |
+| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 693 | 2026-08-01 | 57 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 896 | 2026-08-01 | 47 |
+| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 896 | 2026-08-01 | 48 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 442 | 2026-08-08 | 54 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 443 | 2026-08-08 | 55 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [carob-data/carob](../repos/carob-data/carob.md) | ⭐ 24 | 2026-11-03 | 4 |
+| [carob-data/carob](../repos/carob-data/carob.md) | ⭐ 25 | 2026-11-03 | 5 |
 
 
 ---
@@ -55,7 +55,7 @@
 | [joey711/phyloseq](../repos/joey711/phyloseq.md) | ⭐ 651 | 2026-10-28 | phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [carob-data/carob](../repos/carob-data/carob.md) | ⭐ 24 | 2026-11-03 | Carob: standardizing agricultural research data |
+| [carob-data/carob](../repos/carob-data/carob.md) | ⭐ 25 | 2026-11-03 | Carob: standardizing agricultural research data |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [glmmTMB/glmmTMB](../repos/glmmTMB/glmmTMB.md) | ⭐ 391 | 2026-11-04 | glmmTMB |
@@ -77,7 +77,7 @@
 | [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,706 | 2026-08-02 | 32 |
 | [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,187 | 2026-08-04 | 23 |
 | [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,079 | 2026-08-04 | 31 |
-| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,626 | 2026-08-01 | 51 |
+| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,626 | 2026-08-01 | 52 |
 | [briatte/awesome-network-analysis](../repos/briatte/awesome-network-analysis.md) | ⭐ 4,134 | 2026-10-18 | 2 |
 | [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,926 | 2026-08-04 | 33 |
 | [rstudio/rmarkdown](../repos/rstudio/rmarkdown.md) | ⭐ 3,069 | 2026-08-08 | 12 |
@@ -92,7 +92,7 @@
 | [tidyverse/readr](../repos/tidyverse/readr.md) | ⭐ 1,041 | 2026-11-06 | 1 |
 | [allisonhorst/palmerpenguins](../repos/allisonhorst/palmerpenguins.md) | ⭐ 1,020 | 2026-10-06 | 3 |
 | [r-lib/usethis](../repos/r-lib/usethis.md) | ⭐ 922 | 2026-09-24 | 1 |
-| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 896 | 2026-08-01 | 47 |
+| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 896 | 2026-08-01 | 48 |
 
 ---
 
@@ -100,11 +100,11 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [jinworks/CellChat](../repos/jinworks/CellChat.md) | 56 | ⭐ 692 | 2026-08-01 | 2026-11-10 |
-| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | 54 | ⭐ 442 | 2026-08-08 | 2026-11-10 |
-| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | 51 | ⭐ 4,626 | 2026-08-01 | 2026-11-10 |
+| [jinworks/CellChat](../repos/jinworks/CellChat.md) | 57 | ⭐ 693 | 2026-08-01 | 2026-11-11 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | 55 | ⭐ 443 | 2026-08-08 | 2026-11-11 |
+| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | 52 | ⭐ 4,626 | 2026-08-01 | 2026-11-11 |
 | [satijalab/seurat](../repos/satijalab/seurat.md) | 48 | ⭐ 2,812 | 2026-08-01 | 2026-11-06 |
-| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | 47 | ⭐ 896 | 2026-08-01 | 2026-11-10 |
+| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | 48 | ⭐ 896 | 2026-08-01 | 2026-11-11 |
 | [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | 35 | ⭐ 7,025 | 2026-08-04 | 2026-11-06 |
 | [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | 33 | ⭐ 3,926 | 2026-08-04 | 2026-11-06 |
 | [rstudio/shiny](../repos/rstudio/shiny.md) | 32 | ⭐ 5,706 | 2026-08-02 | 2026-11-06 |
@@ -155,4 +155,4 @@
 
 ---
 
-*Last updated: 2026-11-10T21:00:56.588Z*
+*Last updated: 2026-11-11T21:00:51.681Z*

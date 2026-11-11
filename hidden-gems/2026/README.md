@@ -7,7 +7,7 @@
 ## 2026
 
 **Period**: 2026-01-01 to 2026-12-31  
-**Gems Found**: 1222
+**Gems Found**: 1228
 
 ---
 
@@ -71,39 +71,19 @@
 
 ---
 
-### 4. [PimpinPumpkin&#x2F;Vela](../../repos/PimpinPumpkin/Vela.md)
-
-**Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,463 |
-| 💻 **Language** | Kotlin |
-| 🏆 **Gem Score** | 97/100 |
-| 📈 **Trending Days** | 9 |
-| 📅 **First Seen** | Oct 6, 2026 |
-
-**Why it's a gem**: High growth velocity (+127 stars&#x2F;day) • Trending 9 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/PimpinPumpkin/Vela.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;PimpinPumpkin&#x2F;Vela)
-
----
-
-### 5. [vivizzz007&#x2F;vivi-music](../../repos/vivizzz007/vivi-music.md)
+### 4. [vivizzz007&#x2F;vivi-music](../../repos/vivizzz007/vivi-music.md)
 
 **Vivi-Music is an expressive Material 3–based YouTube Music client for Android.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4,089 |
+| ⭐ **Stars** | 4,115 |
 | 💻 **Language** | Kotlin |
 | 🏆 **Gem Score** | 96/100 |
-| 📈 **Trending Days** | 11 |
+| 📈 **Trending Days** | 12 |
 | 📅 **First Seen** | Aug 2, 2026 |
 
-**Why it's a gem**: High growth velocity (+59 stars&#x2F;day) • Trending 11 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+56 stars&#x2F;day) • Trending 12 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -111,7 +91,7 @@
 
 ---
 
-### 6. [derv82&#x2F;wifit3](../../repos/derv82/wifit3.md)
+### 5. [derv82&#x2F;wifit3](../../repos/derv82/wifit3.md)
 
 **Wifite but USB-only &amp; cross-platform.**
 
@@ -128,6 +108,26 @@
 **Best for**: 
 
 [View Passport](../../repos/derv82/wifit3.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;derv82&#x2F;wifit3)
+
+---
+
+### 6. [PimpinPumpkin&#x2F;Vela](../../repos/PimpinPumpkin/Vela.md)
+
+**Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,463 |
+| 💻 **Language** | Kotlin |
+| 🏆 **Gem Score** | 96/100 |
+| 📈 **Trending Days** | 9 |
+| 📅 **First Seen** | Oct 6, 2026 |
+
+**Why it's a gem**: High growth velocity (+127 stars&#x2F;day) • Trending 9 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/PimpinPumpkin/Vela.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;PimpinPumpkin&#x2F;Vela)
 
 ---
 
@@ -291,7 +291,27 @@
 
 ---
 
-### 15. [rorkai&#x2F;App-Store-Connect-CLI](../../repos/rorkai/App-Store-Connect-CLI.md)
+### 15. [OpenAEC-Foundation&#x2F;open-pdf-studio](../../repos/OpenAEC-Foundation/open-pdf-studio.md)
+
+**An open source PDF viewer&#x2F;editor with it&#39;s own blazing fast rust engine**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,171 |
+| 💻 **Language** | HTML |
+| 🏆 **Gem Score** | 92/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 3, 2026 |
+
+**Why it's a gem**: High growth velocity (+37 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/OpenAEC-Foundation/open-pdf-studio.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;OpenAEC-Foundation&#x2F;open-pdf-studio)
+
+---
+
+### 16. [rorkai&#x2F;App-Store-Connect-CLI](../../repos/rorkai/App-Store-Connect-CLI.md)
 
 **Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more**
 
@@ -311,7 +331,7 @@
 
 ---
 
-### 16. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
+### 17. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
 
 **Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.**
 
@@ -331,19 +351,19 @@
 
 ---
 
-### 17. [darkzOGx&#x2F;youtube-automation-agent](../../repos/darkzOGx/youtube-automation-agent.md)
+### 18. [darkzOGx&#x2F;youtube-automation-agent](../../repos/darkzOGx/youtube-automation-agent.md)
 
 **🎬 Open-source, self-hosted AI agent that runs a YouTube channel end to end: researches topics, writes scripts, generates narration, visuals and video, optimizes SEO, and publishes after your approval, then learns from analytics. Works with Gemini, OpenAI, OpenRouter, DeepSeek and more.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4,688 |
+| ⭐ **Stars** | 5,147 |
 | 💻 **Language** | JavaScript |
 | 🏆 **Gem Score** | 92/100 |
-| 📈 **Trending Days** | 9 |
+| 📈 **Trending Days** | 10 |
 | 📅 **First Seen** | Aug 14, 2026 |
 
-**Why it's a gem**: High growth velocity (+62 stars&#x2F;day) • Trending 9 times • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+58 stars&#x2F;day) • Trending 10 times • Very active development • Strong community engagement
 
 **Best for**: 
 
@@ -351,7 +371,7 @@
 
 ---
 
-### 18. [PrismML-Eng&#x2F;Bonsai-demo](../../repos/PrismML-Eng/Bonsai-demo.md)
+### 19. [PrismML-Eng&#x2F;Bonsai-demo](../../repos/PrismML-Eng/Bonsai-demo.md)
 
 **Bonsai Demo**
 
@@ -371,19 +391,19 @@
 
 ---
 
-### 19. [shy3130&#x2F;tick-stock-panel](../../repos/shy3130/tick-stock-panel.md)
+### 20. [shy3130&#x2F;tick-stock-panel](../../repos/shy3130/tick-stock-panel.md)
 
 **TSP自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6,959 |
+| ⭐ **Stars** | 7,604 |
 | 💻 **Language** | Python |
 | 🏆 **Gem Score** | 92/100 |
-| 📈 **Trending Days** | 5 |
+| 📈 **Trending Days** | 6 |
 | 📅 **First Seen** | Aug 23, 2026 |
 
-**Why it's a gem**: High growth velocity (+86 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+90 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement
 
 **Best for**: 
 
@@ -391,7 +411,7 @@
 
 ---
 
-### 20. [androoAGI&#x2F;starnet](../../repos/androoAGI/starnet.md)
+### 21. [androoAGI&#x2F;starnet](../../repos/androoAGI/starnet.md)
 
 **A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.**
 
@@ -411,7 +431,7 @@
 
 ---
 
-### 21. [elie222&#x2F;rakazo](../../repos/elie222/rakazo.md)
+### 22. [elie222&#x2F;rakazo](../../repos/elie222/rakazo.md)
 
 **Open-source Grok Bot alternative. Choose your own model and sandbox.**
 
@@ -431,7 +451,7 @@
 
 ---
 
-### 22. [JetBrains&#x2F;thinkrail](../../repos/JetBrains/thinkrail.md)
+### 23. [JetBrains&#x2F;thinkrail](../../repos/JetBrains/thinkrail.md)
 
 **Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need**
 
@@ -451,7 +471,27 @@
 
 ---
 
-### 23. [Jakubantalik&#x2F;transitions.dev](../../repos/Jakubantalik/transitions.dev.md)
+### 24. [agent-substrate&#x2F;substrate](../../repos/agent-substrate/substrate.md)
+
+**Agent Substrate: the core system**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 6,455 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 91/100 |
+| 📈 **Trending Days** | 23 |
+| 📅 **First Seen** | Aug 2, 2026 |
+
+**Why it's a gem**: High growth velocity (+131 stars&#x2F;day) • Trending 23 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/agent-substrate/substrate.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;agent-substrate&#x2F;substrate)
+
+---
+
+### 25. [Jakubantalik&#x2F;transitions.dev](../../repos/Jakubantalik/transitions.dev.md)
 
 **UI motion agent, a library of 43+ crafted transitions, a skill that fits your workflow.**
 
@@ -471,7 +511,7 @@
 
 ---
 
-### 24. [harry7557558&#x2F;spirula-studio](../../repos/harry7557558/spirula-studio.md)
+### 26. [harry7557558&#x2F;spirula-studio](../../repos/harry7557558/spirula-studio.md)
 
 **Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.**
 
@@ -491,7 +531,7 @@
 
 ---
 
-### 25. [metadist&#x2F;synaplan](../../repos/metadist/synaplan.md)
+### 27. [metadist&#x2F;synaplan](../../repos/metadist/synaplan.md)
 
 **Own the flow: one open-source AI platform for your knowledge, models and channels – web, WhatsApp, email, Outlook, Nextcloud &amp; ownCloud. Local and cloud models side by side, with the cost on every answer.**
 
@@ -511,27 +551,7 @@
 
 ---
 
-### 26. [alsk1992&#x2F;CloddsBot](../../repos/alsk1992/CloddsBot.md)
-
-**Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,944 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Sep 10, 2026 |
-
-**Why it's a gem**: High growth velocity (+345 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/alsk1992/CloddsBot.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;alsk1992&#x2F;CloddsBot)
-
----
-
-### 27. [mg-chao&#x2F;snow-apps](../../repos/mg-chao/snow-apps.md)
+### 28. [mg-chao&#x2F;snow-apps](../../repos/mg-chao/snow-apps.md)
 
 **Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.**
 
@@ -551,7 +571,7 @@
 
 ---
 
-### 28. [superdesigndev&#x2F;treg](../../repos/superdesigndev/treg.md)
+### 29. [superdesigndev&#x2F;treg](../../repos/superdesigndev/treg.md)
 
 **OpenRouter for agent tools. Join community here: https:&#x2F;&#x2F;discord.gg&#x2F;6mQYYfFMAn**
 
@@ -571,7 +591,7 @@
 
 ---
 
-### 29. [ch6vip&#x2F;fqapp](../../repos/ch6vip/fqapp.md)
+### 30. [ch6vip&#x2F;fqapp](../../repos/ch6vip/fqapp.md)
 
 **内容聚合 Android 客户端：小说&#x2F;短剧&#x2F;漫剧&#x2F;听书&#x2F;漫画，Flutter UI + 进程内 Rust 核心，无自建服务器、无需 root**
 
@@ -591,7 +611,7 @@
 
 ---
 
-### 30. [superplanehq&#x2F;superplane](../../repos/superplanehq/superplane.md)
+### 31. [superplanehq&#x2F;superplane](../../repos/superplanehq/superplane.md)
 
 **Open source factory for one-shot engineering**
 
@@ -608,26 +628,6 @@
 **Best for**: 
 
 [View Passport](../../repos/superplanehq/superplane.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;superplanehq&#x2F;superplane)
-
----
-
-### 31. [agent-substrate&#x2F;substrate](../../repos/agent-substrate/substrate.md)
-
-**Agent Substrate: the core system**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 6,384 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 22 |
-| 📅 **First Seen** | Aug 2, 2026 |
-
-**Why it's a gem**: High growth velocity (+134 stars&#x2F;day) • Trending 22 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/agent-substrate/substrate.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;agent-substrate&#x2F;substrate)
 
 ---
 
@@ -657,13 +657,13 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2,110 |
+| ⭐ **Stars** | 2,178 |
 | 💻 **Language** | C++ |
 | 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 9 |
+| 📈 **Trending Days** | 10 |
 | 📅 **First Seen** | Aug 4, 2026 |
 
-**Why it's a gem**: High growth velocity (+87 stars&#x2F;day) • Trending 9 times • Very active development • Underrated project
+**Why it's a gem**: High growth velocity (+86 stars&#x2F;day) • Trending 10 times • Very active development • Underrated project
 
 **Best for**: 
 
@@ -691,7 +691,27 @@
 
 ---
 
-### 35. [CyrilPeng&#x2F;Venera-Next](../../repos/CyrilPeng/Venera-Next.md)
+### 35. [alsk1992&#x2F;CloddsBot](../../repos/alsk1992/CloddsBot.md)
+
+**Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,944 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 90/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Sep 10, 2026 |
+
+**Why it's a gem**: High growth velocity (+345 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/alsk1992/CloddsBot.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;alsk1992&#x2F;CloddsBot)
+
+---
+
+### 36. [CyrilPeng&#x2F;Venera-Next](../../repos/CyrilPeng/Venera-Next.md)
 
 **VeneraNext 是一个跨平台漫画阅读器，支持本地漫画、WebDAV 漫画源、第三方网络漫画源，支持 Android、iOS、Windows、Linux、macOS 平台。**
 
@@ -711,7 +731,7 @@
 
 ---
 
-### 36. [Tianyu199509&#x2F;DeskBox](../../repos/Tianyu199509/DeskBox.md)
+### 37. [Tianyu199509&#x2F;DeskBox](../../repos/Tianyu199509/DeskBox.md)
 
 **A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.**
 
@@ -731,7 +751,7 @@
 
 ---
 
-### 37. [YuKongA&#x2F;ghostlock-app](../../repos/YuKongA/ghostlock-app.md)
+### 38. [YuKongA&#x2F;ghostlock-app](../../repos/YuKongA/ghostlock-app.md)
 
 **GhostLock One-Tap Execution App (CVE-2026-43499)**
 
@@ -751,7 +771,7 @@
 
 ---
 
-### 38. [HD838A&#x2F;remote-mic-app](../../repos/HD838A/remote-mic-app.md)
+### 39. [HD838A&#x2F;remote-mic-app](../../repos/HD838A/remote-mic-app.md)
 
 **无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备**
 
@@ -771,7 +791,7 @@
 
 ---
 
-### 39. [makecindy&#x2F;cindy](../../repos/makecindy/cindy.md)
+### 40. [makecindy&#x2F;cindy](../../repos/makecindy/cindy.md)
 
 **Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。**
 
@@ -791,47 +811,7 @@
 
 ---
 
-### 40. [itsfatduck&#x2F;optimizerDuck](../../repos/itsfatduck/optimizerDuck.md)
-
-**Free, open-source Windows optimization tool for performance, privacy, and simplicity.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 11,444 |
-| 💻 **Language** | C# |
-| 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 17 |
-| 📅 **First Seen** | Aug 4, 2026 |
-
-**Why it's a gem**: High growth velocity (+87 stars&#x2F;day) • Trending 17 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/itsfatduck/optimizerDuck.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;itsfatduck&#x2F;optimizerDuck)
-
----
-
-### 41. [melgarafael&#x2F;DeskcommCRM](../../repos/melgarafael/DeskcommCRM.md)
-
-**Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 4,130 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 5, 2026 |
-
-**Why it's a gem**: High growth velocity (+414 stars&#x2F;day) • Trending 6 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/melgarafael/DeskcommCRM.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;melgarafael&#x2F;DeskcommCRM)
-
----
-
-### 42. [aws&#x2F;agent-toolkit-for-aws](../../repos/aws/agent-toolkit-for-aws.md)
+### 41. [aws&#x2F;agent-toolkit-for-aws](../../repos/aws/agent-toolkit-for-aws.md)
 
 **Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS**
 
@@ -851,7 +831,7 @@
 
 ---
 
-### 43. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
+### 42. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
 
 **Multi-account API gateway for Grok Build, Grok Web, and Grok Console**
 
@@ -871,7 +851,7 @@
 
 ---
 
-### 44. [EchoMusicApp&#x2F;Echo-Music](../../repos/EchoMusicApp/Echo-Music.md)
+### 43. [EchoMusicApp&#x2F;Echo-Music](../../repos/EchoMusicApp/Echo-Music.md)
 
 **An YouTube Music Client**
 
@@ -891,7 +871,7 @@
 
 ---
 
-### 45. [MakazhanAlpamys&#x2F;Soup](../../repos/MakazhanAlpamys/Soup.md)
+### 44. [MakazhanAlpamys&#x2F;Soup](../../repos/MakazhanAlpamys/Soup.md)
 
 **Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.**
 
@@ -911,7 +891,7 @@
 
 ---
 
-### 46. [tbphp&#x2F;gpt-load](../../repos/tbphp/gpt-load.md)
+### 45. [tbphp&#x2F;gpt-load](../../repos/tbphp/gpt-load.md)
 
 **Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。**
 
@@ -931,7 +911,7 @@
 
 ---
 
-### 47. [guohuiyuan&#x2F;go-music-dl](../../repos/guohuiyuan/go-music-dl.md)
+### 46. [guohuiyuan&#x2F;go-music-dl](../../repos/guohuiyuan/go-music-dl.md)
 
 **一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923**
 
@@ -951,7 +931,7 @@
 
 ---
 
-### 48. [mvschwarz&#x2F;openrig](../../repos/mvschwarz/openrig.md)
+### 47. [mvschwarz&#x2F;openrig](../../repos/mvschwarz/openrig.md)
 
 **Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.**
 
@@ -971,7 +951,7 @@
 
 ---
 
-### 49. [EpicGames&#x2F;unreal-engine-skills-for-claude-code-plugin](../../repos/EpicGames/unreal-engine-skills-for-claude-code-plugin.md)
+### 48. [EpicGames&#x2F;unreal-engine-skills-for-claude-code-plugin](../../repos/EpicGames/unreal-engine-skills-for-claude-code-plugin.md)
 
 **No description**
 
@@ -991,7 +971,7 @@
 
 ---
 
-### 50. [leepokai&#x2F;Codync](../../repos/leepokai/Codync.md)
+### 49. [leepokai&#x2F;Codync](../../repos/leepokai/Codync.md)
 
 **Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.**
 
@@ -1011,6 +991,26 @@
 
 ---
 
+### 50. [liguobao&#x2F;ds-harness-remote](../../repos/liguobao/ds-harness-remote.md)
+
+**基于 DeepSeek Harness 插件机制构建的远程访问方案，通过低延迟、端到端加密的 P2P 网络，支持使用 PC、移动端 和 Web 随时访问本地设备上的DSH 、CodeX、Cursor、Claude Code等工作区。 (Built on DeepSeek Harness plugins, this low-latency, end-to-end encrypted P2P solution lets PC, mobile, and web clients access local DSH, Codex, Cursor, and Claude Code workspaces.)**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,934 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 89/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Oct 23, 2026 |
+
+**Why it's a gem**: High growth velocity (+230 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/liguobao/ds-harness-remote.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;liguobao&#x2F;ds-harness-remote)
+
+---
+
 
 ## Scoring Methodology
 
@@ -1027,5 +1027,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-10T21:01:03.888Z*  
+*Generated: 2026-11-11T21:00:56.172Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

@@ -9,7 +9,7 @@
 - **Total Repositories**: 136
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-02
-- **Average Stars**: 15398
+- **Average Stars**: 15399
 
 ---
 
@@ -17,22 +17,16 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,462 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,471 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,267 | Clojure |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,286 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 41,198 | Vim Script |  |
+| [vim/vim](../repos/vim/vim.md) | ⭐ 41,314 | Vim Script |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | ⭐ 2,121 | Vue |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [github/gh-aw](../repos/github/gh-aw.md) | ⭐ 5,612 | Go |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [chinese-poetry/chinese-poetry](../repos/chinese-poetry/chinese-poetry.md) | ⭐ 54,238 | JavaScript |  |
+| [chinese-poetry/chinese-poetry](../repos/chinese-poetry/chinese-poetry.md) | ⭐ 54,296 | JavaScript |  |
 
 
 ---
@@ -46,10 +40,10 @@
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 78,208 | C | 2026-08-02 | 18 |
 | [nektos/act](../repos/nektos/act.md) | ⭐ 71,966 | Go | 2026-08-07 | 2 |
 | [git/git](../repos/git/git.md) | ⭐ 64,135 | C | 2026-08-05 | 10 |
-| [chinese-poetry/chinese-poetry](../repos/chinese-poetry/chinese-poetry.md) | ⭐ 54,238 | JavaScript | 2026-11-10 | 1 |
+| [chinese-poetry/chinese-poetry](../repos/chinese-poetry/chinese-poetry.md) | ⭐ 54,296 | JavaScript | 2026-11-10 | 2 |
 | [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | ⭐ 52,636 | Python | 2026-08-03 | 16 |
 | [pandas-dev/pandas](../repos/pandas-dev/pandas.md) | ⭐ 50,466 | Python | 2026-08-04 | 2 |
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,267 | Clojure | 2026-08-01 | 79 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,286 | Clojure | 2026-08-01 | 80 |
 | [TanStack/query](../repos/TanStack/query.md) | ⭐ 50,183 | TypeScript | 2026-08-22 | 1 |
 
 ---
@@ -67,16 +61,16 @@
 | [apache/texera](../repos/apache/texera.md) | ⭐ 333 | Scala | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,462 | Scala | 9 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,471 | Scala | 10 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,267 | Clojure | 9 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,286 | Clojure | 10 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,523 | C | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 41,198 | Vim Script | 1 |
+| [vim/vim](../repos/vim/vim.md) | ⭐ 41,314 | Vim Script | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 992 | MATLAB | 1 |
@@ -126,6 +120,10 @@
 
 ## 📅 Recent History
 
+### [2026-11-11](../archive/2026/11/2026-11-11.md)
+- 4 repositories trending
+- Top: chinese-poetry&#x2F;chinese-poetry
+
 ### [2026-11-10](../archive/2026/11/2026-11-10.md)
 - 6 repositories trending
 - Top: chinese-poetry&#x2F;chinese-poetry
@@ -150,10 +148,6 @@
 - 9 repositories trending
 - Top: metabase&#x2F;metabase
 
-### [2026-11-04](../archive/2026/11/2026-11-04.md)
-- 7 repositories trending
-- Top: metabase&#x2F;metabase
-
 
 ---
 
@@ -163,9 +157,9 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 82 days | 2026-08-01 | 2026-11-10 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 79 days | 2026-08-01 | 2026-11-10 |
-| [vim/vim](../repos/vim/vim.md) | 69 days | 2026-08-01 | 2026-11-10 |
+| [apache/spark](../repos/apache/spark.md) | 83 days | 2026-08-01 | 2026-11-11 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 80 days | 2026-08-01 | 2026-11-11 |
+| [vim/vim](../repos/vim/vim.md) | 70 days | 2026-08-01 | 2026-11-11 |
 | [joernio/joern](../repos/joernio/joern.md) | 62 days | 2026-08-01 | 2026-11-03 |
 | [ruby/ruby](../repos/ruby/ruby.md) | 42 days | 2026-08-01 | 2026-11-07 |
 | [facebook/infer](../repos/facebook/infer.md) | 41 days | 2026-08-02 | 2026-10-25 |
@@ -186,7 +180,7 @@
 - **Java**: 7 repositories (5%)
 
 ### Trending Frequency
-- **Daily Average**: 14.3 repositories
+- **Daily Average**: 14.1 repositories
 - **Peak Day**: 2026-11-06 (36 repositories)
 - **Growth Rate**: 12% this month
 
@@ -302,4 +296,4 @@
 
 ---
 
-*Last updated: 2026-11-10T21:00:56.192Z*
+*Last updated: 2026-11-11T21:00:51.446Z*

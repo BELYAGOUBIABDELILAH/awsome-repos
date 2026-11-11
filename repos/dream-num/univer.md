@@ -1,6 +1,6 @@
 # dream-num&#x2F;univer
 
-> The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
+> Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;dream-num&#x2F;univer) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 21,786 |
-| **Forks** | 🍴 1,840 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 23,172 |
+| **Forks** | 🍴 1,960 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #3 |
 
 | **First Seen** | Aug 5, 2026 |
-| **Last Seen** | Sep 29, 2026 |
+| **Last Seen** | Nov 11, 2026 |
 
 
 ---
@@ -53,7 +53,7 @@
 ### Highlights
 
 - **Peak Rank**: #3
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 3 days
 
 ---
@@ -61,7 +61,7 @@
 ## Categories
 
 ### Topics
-[`board`](../../topics/board.md) [`collaboration`](../../topics/collaboration.md) [`data-table`](../../topics/data-table.md) [`doc`](../../topics/doc.md) [`docx`](../../topics/docx.md) [`excel`](../../topics/excel.md) [`grid`](../../topics/grid.md) [`pdf`](../../topics/pdf.md) [`ppt`](../../topics/ppt.md) [`pptx`](../../topics/pptx.md) [`presentation`](../../topics/presentation.md) [`sdk`](../../topics/sdk.md) [`sheet`](../../topics/sheet.md) [`slides`](../../topics/slides.md) [`spreadsheet`](../../topics/spreadsheet.md) [`table`](../../topics/table.md) [`word`](../../topics/word.md) [`wordprocessor`](../../topics/wordprocessor.md) [`xlsx`](../../topics/xlsx.md) 
+[`board`](../../topics/board.md) [`collaboration`](../../topics/collaboration.md) [`doc`](../../topics/doc.md) [`docx`](../../topics/docx.md) [`excel`](../../topics/excel.md) [`offce365`](../../topics/offce365.md) [`office`](../../topics/office.md) [`pdf`](../../topics/pdf.md) [`ppt`](../../topics/ppt.md) [`pptx`](../../topics/pptx.md) [`presentation`](../../topics/presentation.md) [`sdk`](../../topics/sdk.md) [`sheet`](../../topics/sheet.md) [`slides`](../../topics/slides.md) [`spreadsheet`](../../topics/spreadsheet.md) [`univer`](../../topics/univer.md) [`word`](../../topics/word.md) [`wordprocessor`](../../topics/wordprocessor.md) [`workspace`](../../topics/workspace.md) [`xlsx`](../../topics/xlsx.md) 
 
 ### Curated Categories
 `Systems Programming` `Developer Tools` 
@@ -78,7 +78,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -97,5 +97,5 @@
 
 ---
 
-*Last updated: 2026-11-10T21:01:00.039Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-11-11T21:00:53.629Z*  
+*Data from 8 trending reports*

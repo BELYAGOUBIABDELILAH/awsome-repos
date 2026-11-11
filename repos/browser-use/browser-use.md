@@ -1,6 +1,6 @@
 # browser-use&#x2F;browser-use
 
-> Agents that use the browser.
+> Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;browser-use&#x2F;browser-use) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | MIT |
-| **Stars** | ⭐ 115,765 |
-| **Forks** | 🍴 12,739 |
-| **Trending Days** | 9 |
+| **Stars** | ⭐ 120,731 |
+| **Forks** | 🍴 13,495 |
+| **Trending Days** | 10 |
 | **Peak Rank** | #12 |
 
 | **First Seen** | Aug 20, 2026 |
-| **Last Seen** | Sep 21, 2026 |
+| **Last Seen** | Nov 11, 2026 |
 
 
 ---
@@ -49,7 +49,7 @@
 ### Highlights
 
 - **Peak Rank**: #12
-- **Trending Days**: 9
+- **Trending Days**: 10
 - **Longest Streak**: 4 days
 
 ---
@@ -57,10 +57,10 @@
 ## Categories
 
 ### Topics
-[`ai-agents`](../../topics/ai-agents.md) [`ai-tools`](../../topics/ai-tools.md) [`browser-automation`](../../topics/browser-automation.md) [`browser-use`](../../topics/browser-use.md) [`llm`](../../topics/llm.md) [`playwright`](../../topics/playwright.md) [`python`](../../topics/python.md) 
+[`ai-agents`](../../topics/ai-agents.md) [`ai-tools`](../../topics/ai-tools.md) [`browser-agent`](../../topics/browser-agent.md) [`browser-automation`](../../topics/browser-automation.md) [`browser-use`](../../topics/browser-use.md) [`cdp`](../../topics/cdp.md) [`cloud-browser`](../../topics/cloud-browser.md) [`computer-use`](../../topics/computer-use.md) [`headless-browser`](../../topics/headless-browser.md) [`llm`](../../topics/llm.md) [`mcp`](../../topics/mcp.md) [`playwright`](../../topics/playwright.md) [`python`](../../topics/python.md) [`remote-browser`](../../topics/remote-browser.md) [`stealth-browser`](../../topics/stealth-browser.md) [`web-automation`](../../topics/web-automation.md) [`web-scraping`](../../topics/web-scraping.md) 
 
 ### Curated Categories
-`Artificial Intelligence` `Large Language Models` `DevOps &amp; CI&#x2F;CD` `Developer Tools` `Automation` 
+`Artificial Intelligence` `Large Language Models` `Web Development` `Backend Development` `DevOps &amp; CI&#x2F;CD` `Cloud &amp; Infrastructure` `Systems Programming` `Developer Tools` `Automation` 
 
 ---
 
@@ -72,9 +72,9 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 115,765+ stars, strong contributor base |
+| **Community** | Very Active | 120,731+ stars, strong contributor base |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
@@ -93,5 +93,5 @@
 
 ---
 
-*Last updated: 2026-11-10T21:01:01.345Z*  
-*Data from 9 trending reports*
+*Last updated: 2026-11-11T21:00:54.614Z*  
+*Data from 10 trending reports*

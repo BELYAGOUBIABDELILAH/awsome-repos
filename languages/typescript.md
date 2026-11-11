@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 318
+- **Total Repositories**: 320
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-07
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [garrytan/gbrain](../repos/garrytan/gbrain.md) | ⭐ 32,471 | 2026-08-11 | 5 |
+| [dream-num/univer](../repos/dream-num/univer.md) | ⭐ 23,172 | 2026-08-05 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [every-app/open-seo](../repos/every-app/open-seo.md) | ⭐ 27,178 | 2026-08-14 | 11 |
+| [garrytan/gbrain](../repos/garrytan/gbrain.md) | ⭐ 32,683 | 2026-08-11 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [upscayl/upscayl](../repos/upscayl/upscayl.md) | ⭐ 52,178 | 2026-08-14 | 5 |
+| [google-labs-code/stitch-skills](../repos/google-labs-code/stitch-skills.md) | ⭐ 8,739 | 2026-08-22 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-labs-code/stitch-skills](../repos/google-labs-code/stitch-skills.md) | ⭐ 8,724 | 2026-08-22 | 5 |
+| [backnotprop/plannotator](../repos/backnotprop/plannotator.md) | ⭐ 10,047 | 2026-08-26 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [backnotprop/plannotator](../repos/backnotprop/plannotator.md) | ⭐ 10,000 | 2026-08-26 | 7 |
+| [OpenCTI-Platform/opencti](../repos/OpenCTI-Platform/opencti.md) | ⭐ 10,340 | 2026-09-29 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ranxianglei/billion-context](../repos/ranxianglei/billion-context.md) | ⭐ 6,225 | 2026-10-12 | 9 |
+| [openai/codex-security](../repos/openai/codex-security.md) | ⭐ 11,631 | 2026-10-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mantrakp04/ardia](../repos/mantrakp04/ardia.md) | ⭐ 1,637 | 2026-10-25 | 4 |
+| [ranxianglei/billion-context](../repos/ranxianglei/billion-context.md) | ⭐ 6,808 | 2026-10-12 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [meta/astryx](../repos/meta/astryx.md) | ⭐ 22,495 | 2026-11-06 | 5 |
+| [LibreSpark/LibreTV](../repos/LibreSpark/LibreTV.md) | ⭐ 24,455 | 2026-10-16 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WhiteTowerAI/ohmygame](../repos/WhiteTowerAI/ohmygame.md) | ⭐ 2,025 | 2026-11-10 | 1 |
+| [meta/astryx](../repos/meta/astryx.md) | ⭐ 24,754 | 2026-11-06 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [WhiteTowerAI/ohmygame](../repos/WhiteTowerAI/ohmygame.md) | ⭐ 2,103 | 2026-11-10 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ranxianglei/billion-context](../repos/ranxianglei/billion-context.md) | ⭐ 6,225 | 2026-10-12 | A context-compression plugin for month-long single sessions (billions of tokens) ,small context w... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [wuwangzhang1216/ChinaTextbookStudyFree](../repos/wuwangzhang1216/ChinaTextbookStudyFree.md) | ⭐ 863 | 2026-10-12 | 给所有中国小学生打造的免费学习平台，从一年级到六年级所有的课本知识点全汇总。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [apify/apify-mcp-server](../repos/apify/apify-mcp-server.md) | ⭐ 11,224 | 2026-10-13 | The Apify MCP server enables your AI agents to extract data from social media, search engines, ma... |
@@ -76,7 +73,13 @@
 | [dimthink/PriceAI](../repos/dimthink/PriceAI.md) | ⭐ 4,122 | 2026-10-15 | AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [LibreSpark/LibreTV](../repos/LibreSpark/LibreTV.md) | ⭐ 18,808 | 2026-10-16 | 一分钟搭建影视站，支持Docker等部署方式 |
+| [LibreSpark/LibreTV](../repos/LibreSpark/LibreTV.md) | ⭐ 24,455 | 2026-10-16 | 一分钟搭建影视站，支持Docker等部署方式 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [desktop/desktop](../repos/desktop/desktop.md) | ⭐ 21,961 | 2026-10-16 | Focus on what matters instead of fighting with Git. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [superdesigndev/superdesign](../repos/superdesigndev/superdesign.md) | ⭐ 7,429 | 2026-10-16 | AI Product Design Agent - Open Source |
 
 
 ---
@@ -172,7 +175,7 @@
 - [cloudflare/computer](../repos/cloudflare/computer.md) - Give your agent a computer 👾
 - [ln-dev7/circle](../repos/ln-dev7/circle.md) - UI - Project management interface inspired by Linear. Built with Next.js and shadcn&#x2F;ui, this appl...
 - [melgarafael/DeskcommCRM](../repos/melgarafael/DeskcommCRM.md) - Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternati...
-- [dream-num/univer](../repos/dream-num/univer.md) - The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF...
+- [dream-num/univer](../repos/dream-num/univer.md) - Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and f...
 - [AdventDevInc/kudu](../repos/AdventDevInc/kudu.md) - Free Windows, Mac and Linux cleaner, scanner, and more.
 - [iOfficeAI/AionUi](../repos/iOfficeAI/AionUi.md) - Open-source 24&#x2F;7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI A...
 - [expo/expo](../repos/expo/expo.md) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, ...
@@ -230,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-10T21:00:56.610Z*
+*Last updated: 2026-11-11T21:00:51.694Z*

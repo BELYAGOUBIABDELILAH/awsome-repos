@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,509 | 2026-08-01 | 25 |
+| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,949 | 2026-08-03 | 41 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 14,945 | 2026-08-01 | 23 |
+| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 39,199 | 2026-08-03 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 120,344 | 2026-08-02 | 34 |
+| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,426 | 2026-08-04 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) | ⭐ 7,007 | 2026-08-02 | 16 |
+| [SmartlyDressedGames/U3-SDK](../repos/SmartlyDressedGames/U3-SDK.md) | ⭐ 4,024 | 2026-08-07 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 17,894 | 2026-08-02 | 27 |
+| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,517 | 2026-08-10 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 39,173 | 2026-08-03 | 15 |
+| [NickvisionApps/Parabolic](../repos/NickvisionApps/Parabolic.md) | ⭐ 7,605 | 2026-08-14 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 11,444 | 2026-08-04 | 17 |
+| [sourcegit-scm/sourcegit](../repos/sourcegit-scm/sourcegit.md) | ⭐ 6,456 | 2026-08-19 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | ⭐ 9,443 | 2026-08-04 | 19 |
+| [Orbmu2k/nvidiaProfileInspector](../repos/Orbmu2k/nvidiaProfileInspector.md) | ⭐ 7,575 | 2026-08-23 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [UnigramDev/Unigram](../repos/UnigramDev/Unigram.md) | ⭐ 5,523 | 2026-08-09 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 40,927 | 2026-08-14 | 10 |
+| [Perfare/Il2CppDumper](../repos/Perfare/Il2CppDumper.md) | ⭐ 9,637 | 2026-09-07 | 3 |
 
 
 ---
@@ -93,7 +90,7 @@
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 56,028 | 2026-08-06 | 22 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,351 | 2026-08-01 | 17 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 40,927 | 2026-08-14 | 10 |
-| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 39,173 | 2026-08-03 | 15 |
+| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 39,199 | 2026-08-03 | 16 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,509 | 2026-08-01 | 25 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 33,494 | 2026-08-02 | 42 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,757 | 2026-08-01 | 23 |
@@ -101,7 +98,7 @@
 | [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,082 | 2026-08-28 | 4 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
 | [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,740 | 2026-08-05 | 15 |
-| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,436 | 2026-08-10 | 8 |
+| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,517 | 2026-08-10 | 9 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,954 | 2026-08-01 | 13 |
 | [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,527 | 2026-08-02 | 9 |
 | [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 25,660 | 2026-08-27 | 10 |
@@ -116,14 +113,14 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 42 | ⭐ 33,494 | 2026-08-02 | 2026-11-09 |
-| [dotnet/skills](../repos/dotnet/skills.md) | 40 | ⭐ 5,851 | 2026-08-03 | 2026-11-07 |
+| [dotnet/skills](../repos/dotnet/skills.md) | 41 | ⭐ 5,949 | 2026-08-03 | 2026-11-11 |
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 34 | ⭐ 120,344 | 2026-08-02 | 2026-11-10 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 27 | ⭐ 17,894 | 2026-08-02 | 2026-11-10 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 25 | ⭐ 38,509 | 2026-08-01 | 2026-11-10 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 24 | ⭐ 58,750 | 2026-08-02 | 2026-10-28 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 23 | ⭐ 32,757 | 2026-08-01 | 2026-10-29 |
 | [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 23 | ⭐ 14,945 | 2026-08-01 | 2026-11-10 |
-| [dotnet/runtime](../repos/dotnet/runtime.md) | 22 | ⭐ 18,413 | 2026-08-04 | 2026-11-06 |
+| [dotnet/runtime](../repos/dotnet/runtime.md) | 23 | ⭐ 18,426 | 2026-08-04 | 2026-11-11 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | 22 | ⭐ 56,028 | 2026-08-06 | 2026-11-05 |
 
 ---
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-11-10T21:00:56.500Z*
+*Last updated: 2026-11-11T21:00:51.629Z*

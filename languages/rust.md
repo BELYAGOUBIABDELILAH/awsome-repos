@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 242
+- **Total Repositories**: 243
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-05
 
@@ -16,28 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 49,120 | 2026-08-02 | 21 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 49,795 | 2026-08-02 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 67,032 | 2026-08-05 | 13 |
+| [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 40,328 | 2026-08-05 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 103,860 | 2026-08-09 | 24 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 104,032 | 2026-08-09 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ooolabdev/ooosplat](../repos/ooolabdev/ooosplat.md) | ⭐ 2,437 | 2026-11-09 | 2 |
+| [ShayanAbbas1/dbdelve](../repos/ShayanAbbas1/dbdelve.md) | ⭐ 1,089 | 2026-10-27 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alvr-org/ALVR](../repos/alvr-org/ALVR.md) | ⭐ 8,078 | 2026-11-10 | 1 |
+| [ja7ad/hydra](../repos/ja7ad/hydra.md) | ⭐ 1,408 | 2026-11-11 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [microsoft/litebox](../repos/microsoft/litebox.md) | ⭐ 3,122 | 2026-10-12 | A security-focused library OS supporting kernel- and user-mode execution |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [raphaelmansuy/edgequake](../repos/raphaelmansuy/edgequake.md) | ⭐ 2,236 | 2026-10-13 | EdegQuake 🌋 High-performance GraphRAG inspired from LightRag written in Rust; Transform document... |
@@ -65,6 +62,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ModernRelay/omnigraph](../repos/ModernRelay/omnigraph.md) | ⭐ 1,599 | 2026-10-20 | Object-storage native graph database with branching and typed ontology |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Jamailar/Beav](../repos/Jamailar/Beav.md) | ⭐ 2,089 | 2026-10-20 | 小红书 AI 运营工作台｜小红书采集、评论区下载、素材库、选题、AI写作、小红书全域解决方案，开箱即用，一键安装，小红书AI工作台，自媒体素材库，AI写作+图片自动编排，小红书版OpenClaw... |
 
 
 ---
@@ -76,7 +76,7 @@
 | [openai/codex](../repos/openai/codex.md) | ⭐ 133,337 | 2026-08-01 | 19 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 121,599 | 2026-07-30 | 13 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,907 | 2026-07-30 | 5 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 103,860 | 2026-08-09 | 24 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 104,032 | 2026-08-09 | 25 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 103,801 | 2026-08-05 | 29 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 96,635 | 2026-08-11 | 10 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 91,737 | 2026-07-31 | 8 |
@@ -89,8 +89,8 @@
 | [rust-unofficial/awesome-rust](../repos/rust-unofficial/awesome-rust.md) | ⭐ 59,459 | 2026-09-03 | 3 |
 | [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 55,699 | 2026-08-19 | 6 |
 | [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 51,108 | 2026-08-12 | 7 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 49,795 | 2026-08-02 | 22 |
 | [herdrdev/herdr](../repos/herdrdev/herdr.md) | ⭐ 49,394 | 2026-11-03 | 2 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 49,120 | 2026-08-02 | 21 |
 | [bevyengine/bevy](../repos/bevyengine/bevy.md) | ⭐ 48,449 | 2026-08-28 | 3 |
 | [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 46,418 | 2026-08-28 | 2 |
 
@@ -101,9 +101,9 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 29 | ⭐ 103,801 | 2026-08-05 | 2026-11-05 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 24 | ⭐ 103,860 | 2026-08-09 | 2026-11-10 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 25 | ⭐ 104,032 | 2026-08-09 | 2026-11-11 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 22 | ⭐ 49,795 | 2026-08-02 | 2026-11-11 |
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 22 | ⭐ 24,202 | 2026-08-08 | 2026-10-25 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 21 | ⭐ 49,120 | 2026-08-02 | 2026-11-10 |
 | [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 20 | ⭐ 11,934 | 2026-08-26 | 2026-11-07 |
 | [openai/codex](../repos/openai/codex.md) | 19 | ⭐ 133,337 | 2026-08-01 | 2026-11-05 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 17 | ⭐ 29,069 | 2026-08-01 | 2026-11-04 |
@@ -218,4 +218,4 @@
 
 ---
 
-*Last updated: 2026-11-10T21:00:56.595Z*
+*Last updated: 2026-11-11T21:00:51.685Z*

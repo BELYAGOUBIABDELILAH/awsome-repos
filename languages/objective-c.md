@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 109
+- **Total Repositories**: 111
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-12
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/promises](../repos/google/promises.md) | ⭐ 3,828 | 2026-08-01 | 55 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,590 | 2026-08-02 | 41 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,608 | 2026-08-01 | 57 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,742 | 2026-08-03 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,586 | 2026-08-02 | 40 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,411 | 2026-08-04 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,735 | 2026-08-03 | 28 |
+| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,321 | 2026-08-04 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [erikdoe/ocmock](../repos/erikdoe/ocmock.md) | ⭐ 2,162 | 2026-08-03 | 8 |
+| [SelfControlApp/selfcontrol](../repos/SelfControlApp/selfcontrol.md) | ⭐ 4,422 | 2026-09-22 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,601 | 2026-08-04 | 37 |
+| [nfzerox/VirtualMacOniPad](../repos/nfzerox/VirtualMacOniPad.md) | ⭐ 2,069 | 2026-10-03 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,321 | 2026-08-04 | 29 |
+| [skopevoj/spoti.pw](../repos/skopevoj/spoti.pw.md) | ⭐ 940 | 2026-11-08 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | ⭐ 4,505 | 2026-08-05 | 41 |
+| [pookjw/HermesEnabler](../repos/pookjw/HermesEnabler.md) | ⭐ 1,185 | 2026-11-11 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SDWebImage/SDWebImageWebPCoder](../repos/SDWebImage/SDWebImageWebPCoder.md) | ⭐ 278 | 2026-08-20 | 21 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [uber/ios-snapshot-test-case](../repos/uber/ios-snapshot-test-case.md) | ⭐ 1,865 | 2026-08-22 | 7 |
+| [Turbo1123/Turbo-IO](../repos/Turbo1123/Turbo-IO.md) | ⭐ 346 | 2026-11-11 | 1 |
 
 
 ---
@@ -61,10 +58,16 @@
 | [Tunnelblick/Tunnelblick](../repos/Tunnelblick/Tunnelblick.md) | ⭐ 3,294 | 2026-10-25 | The official Tunnelblick website is at https:&#x2F;&#x2F;tunnelblick.net; the official Tunnelblick GitHub r... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [skopevoj/spoti.pw](../repos/skopevoj/spoti.pw.md) | ⭐ 937 | 2026-11-08 | Liquid Glass UI for the Spotify iOS app, no jailbreak |
+| [skopevoj/spoti.pw](../repos/skopevoj/spoti.pw.md) | ⭐ 940 | 2026-11-08 | Liquid Glass UI for the Spotify iOS app, no jailbreak |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nakst/gf](../repos/nakst/gf.md) | ⭐ 3,541 | 2026-11-09 | A GDB frontend for Lïnux. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [pookjw/HermesEnabler](../repos/pookjw/HermesEnabler.md) | ⭐ 1,185 | 2026-11-11 | Enable Hermès Watch Faces on any Apple Watch devices |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Turbo1123/Turbo-IO](../repos/Turbo1123/Turbo-IO.md) | ⭐ 346 | 2026-11-11 | 雷鸟 iO &#x2F; RayNeo iO 非官方 SDK：原生鸿蒙 HarmonyOS SDK&#x2F;客户端、iOS 客户端及 iOS&#x2F;Android 官方 App 扩展。自有模型、联网搜索、眼镜导航、录音... |
 
 
 ---
@@ -76,19 +79,19 @@
 | [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | 1 |
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,371 | 2026-08-02 | 7 |
 | [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,608 | 2026-08-01 | 57 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,586 | 2026-08-02 | 40 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,590 | 2026-08-02 | 41 |
 | [SnapKit/Masonry](../repos/SnapKit/Masonry.md) | ⭐ 18,130 | 2026-09-02 | 1 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,601 | 2026-08-04 | 37 |
-| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,400 | 2026-08-04 | 20 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,411 | 2026-08-04 | 21 |
 | [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,893 | 2026-08-04 | 13 |
 | [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,201 | 2026-08-01 | 14 |
 | [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,642 | 2026-08-04 | 5 |
 | [marcuswestin/WebViewJavascriptBridge](../repos/marcuswestin/WebViewJavascriptBridge.md) | ⭐ 14,308 | 2026-09-13 | 1 |
 | [ccgus/fmdb](../repos/ccgus/fmdb.md) | ⭐ 13,828 | 2026-08-28 | 2 |
 | [CoderMJLee/MJRefresh](../repos/CoderMJLee/MJRefresh.md) | ⭐ 13,810 | 2026-09-01 | 1 |
-| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,735 | 2026-08-03 | 28 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,742 | 2026-08-03 | 29 |
 | [eczarny/spectacle](../repos/eczarny/spectacle.md) | ⭐ 13,632 | 2026-09-19 | 1 |
-| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,321 | 2026-08-04 | 29 |
+| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,321 | 2026-08-04 | 30 |
 | [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,067 | 2026-08-02 | 2 |
 | [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,433 | 2026-08-06 | 8 |
 | [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,146 | 2026-08-07 | 15 |
@@ -106,8 +109,8 @@
 | [google/promises](../repos/google/promises.md) | 55 | ⭐ 3,828 | 2026-08-01 | 2026-11-10 |
 | [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 55 | ⭐ 292 | 2026-08-01 | 2026-11-07 |
 | [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | 46 | ⭐ 2,038 | 2026-08-08 | 2026-11-06 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 41 | ⭐ 22,590 | 2026-08-02 | 2026-11-11 |
 | [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | 41 | ⭐ 4,505 | 2026-08-05 | 2026-11-10 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 40 | ⭐ 22,586 | 2026-08-02 | 2026-11-10 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | 37 | ⭐ 16,601 | 2026-08-04 | 2026-11-10 |
 | [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 37 | ⭐ 678 | 2026-08-04 | 2026-11-06 |
 
@@ -218,4 +221,4 @@
 
 ---
 
-*Last updated: 2026-11-10T21:00:56.571Z*
+*Last updated: 2026-11-11T21:00:51.672Z*

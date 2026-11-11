@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 154
+- **Total Repositories**: 155
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-02
 
@@ -16,34 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,788 | 2026-08-01 | 50 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,912 | 2026-08-01 | 51 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 11,015 | 2026-08-07 | 17 |
+| [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | ⭐ 10,306 | 2026-08-03 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 8,761 | 2026-08-12 | 25 |
+| [SimoneAvogadro/android-reverse-engineering-skill](../repos/SimoneAvogadro/android-reverse-engineering-skill.md) | ⭐ 8,701 | 2026-08-04 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | ⭐ 3,852 | 2026-08-19 | 16 |
+| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,945 | 2026-08-04 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Mr-MIBonk/M.I.B._More-Incredible-Bash](../repos/Mr-MIBonk/M.I.B._More-Incredible-Bash.md) | ⭐ 1,233 | 2026-09-20 | 6 |
+| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 26,495 | 2026-08-04 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [conda-forge/miniforge](../repos/conda-forge/miniforge.md) | ⭐ 10,353 | 2026-10-09 | 3 |
+| [cloudflare/skills](../repos/cloudflare/skills.md) | ⭐ 3,343 | 2026-08-05 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [htr-tech/nexphisher](../repos/htr-tech/nexphisher.md) | ⭐ 3,926 | 2026-11-10 | 1 |
+| [wondelai/skills](../repos/wondelai/skills.md) | ⭐ 2,667 | 2026-08-14 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [DaoCloud/public-image-mirror](../repos/DaoCloud/public-image-mirror.md) | ⭐ 15,354 | 2026-08-14 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,636 | 2026-08-20 | 17 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 5,407 | 2026-09-01 | 13 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [sailor-sh/CK-X](../repos/sailor-sh/CK-X.md) | ⭐ 1,226 | 2026-10-12 | A mock exams for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configure... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [itsnotkubrick/3X-UI_KIT](../repos/itsnotkubrick/3X-UI_KIT.md) | ⭐ 622 | 2026-10-15 |  |
@@ -71,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [liandu2024/Open-Box](../repos/liandu2024/Open-Box.md) | ⭐ 2,654 | 2026-10-22 | Open-Box 一体化透明代理：OpenWrt &#x2F; Debian &#x2F; Ubuntu &#x2F; Docker；自有程序闭源，第三方组件遵守原许可。 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [nextcloud/docker](../repos/nextcloud/docker.md) | ⭐ 7,406 | 2026-10-23 | A community maintained docker micro-image for deploying Nextcloud on container platforms |
 
 
 ---
@@ -81,11 +90,11 @@
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,858 | 2026-08-07 | 4 |
 | [papers-we-love/papers-we-love](../repos/papers-we-love/papers-we-love.md) | ⭐ 110,960 | 2026-10-27 | 1 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,788 | 2026-08-01 | 50 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,912 | 2026-08-01 | 51 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,756 | 2026-08-04 | 10 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,702 | 2026-08-06 | 15 |
-| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,855 | 2026-08-04 | 13 |
+| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,945 | 2026-08-04 | 14 |
 | [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 46,666 | 2026-08-29 | 17 |
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
 | [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,866 | 2026-08-20 | 13 |
@@ -93,7 +102,7 @@
 | [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,807 | 2026-09-02 | 5 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
 | [lxgw/LxgwWenKai](../repos/lxgw/LxgwWenKai.md) | ⭐ 26,857 | 2026-11-07 | 1 |
-| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 26,341 | 2026-08-04 | 13 |
+| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 26,495 | 2026-08-04 | 14 |
 | [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 22,309 | 2026-08-07 | 11 |
 | [lewagon/dotfiles](../repos/lewagon/dotfiles.md) | ⭐ 21,783 | 2026-08-25 | 1 |
 | [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
@@ -106,15 +115,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 50 | ⭐ 95,788 | 2026-08-01 | 2026-11-10 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 51 | ⭐ 95,912 | 2026-08-01 | 2026-11-11 |
 | [expo/skills](../repos/expo/skills.md) | 36 | ⭐ 3,754 | 2026-08-07 | 2026-10-29 |
 | [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 25 | ⭐ 8,761 | 2026-08-12 | 2026-11-10 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
 | [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | 17 | ⭐ 11,015 | 2026-08-07 | 2026-11-10 |
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | 17 | ⭐ 1,636 | 2026-08-20 | 2026-11-11 |
 | [omacom/omarchy](../repos/omacom/omarchy.md) | 17 | ⭐ 46,666 | 2026-08-29 | 2026-11-09 |
+| [cloudflare/skills](../repos/cloudflare/skills.md) | 16 | ⭐ 3,343 | 2026-08-05 | 2026-11-11 |
 | [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | 16 | ⭐ 3,852 | 2026-08-19 | 2026-11-10 |
-| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | 16 | ⭐ 1,623 | 2026-08-20 | 2026-11-06 |
-| [cloudflare/skills](../repos/cloudflare/skills.md) | 15 | ⭐ 3,172 | 2026-08-05 | 2026-10-25 |
 | [dockur/windows](../repos/dockur/windows.md) | 15 | ⭐ 53,702 | 2026-08-06 | 2026-10-27 |
 
 ---
@@ -208,7 +217,7 @@
 - [laude-institute/headlong](../repos/laude-institute/headlong.md) - An open source agent microharness featuring persistent agency and recursive LLMs. Of bash, by bas...
 - [juewuy/ShellCrash](../repos/juewuy/ShellCrash.md) - Run sing-box&#x2F;mihomo as client in shell
 - [omacom/omarchy](../repos/omacom/omarchy.md) - Beautiful, Modern &amp; Opinionated Linux
-- [233boy/sing-box](../repos/233boy/sing-box.md) - 最好用的 sing-box 一键安装脚本 &amp; 管理脚本，自动创建 REALITY 协议；支持 TUIC，Trojan，Hysteria2 等所有常见的协议
+- [233boy/sing-box](../repos/233boy/sing-box.md) - 最好用的 sing-box 一键安装脚本 &amp; 管理脚本，自动创建 Hysteria2 协议；支持 TUIC，Trojan，REALITY 等所有常见的协议
 - [raphabot/awesome-cybersecurity-agentic-ai](../repos/raphabot/awesome-cybersecurity-agentic-ai.md) - 
 - [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) - Fish-like autosuggestions for zsh
 - [233boy/v2ray](../repos/233boy/v2ray.md) - 最好用的 V2Ray 一键安装脚本 &amp; 管理脚本
@@ -224,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-10T21:00:56.601Z*
+*Last updated: 2026-11-11T21:00:51.689Z*

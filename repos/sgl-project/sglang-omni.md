@@ -1,6 +1,6 @@
 # sgl-project&#x2F;sglang-omni
 
-> SGLang-Omni is a high-performance serving framework for audio models (TTS, ASR) and unified multimodal models.
+> High Performance Serving Runtime For Interactive Super Intelligence System
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;sgl-project&#x2F;sglang-omni) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 1,515 |
-| **Forks** | 🍴 603 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 1,758 |
+| **Forks** | 🍴 720 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 15, 2026 |
-| **Last Seen** | Oct 15, 2026 |
+| **Last Seen** | Nov 11, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 1 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`asr`](../../topics/asr.md) [`audio-generation`](../../topics/audio-generation.md) [`cuda`](../../topics/cuda.md) [`distributed-inference`](../../topics/distributed-inference.md) [`inference`](../../topics/inference.md) [`model-serving`](../../topics/model-serving.md) [`multimodal`](../../topics/multimodal.md) [`music-generation`](../../topics/music-generation.md) [`openai-api`](../../topics/openai-api.md) [`pytorch`](../../topics/pytorch.md) [`sglang`](../../topics/sglang.md) [`speech-recognition`](../../topics/speech-recognition.md) [`streaming`](../../topics/streaming.md) [`text-to-speech`](../../topics/text-to-speech.md) [`tts`](../../topics/tts.md) 
+[`asr`](../../topics/asr.md) [`audio-generation`](../../topics/audio-generation.md) [`cuda`](../../topics/cuda.md) [`distributed-inference`](../../topics/distributed-inference.md) [`inference`](../../topics/inference.md) [`interactive`](../../topics/interactive.md) [`model-serving`](../../topics/model-serving.md) [`multimodal`](../../topics/multimodal.md) [`music-generation`](../../topics/music-generation.md) [`openai-api`](../../topics/openai-api.md) [`pytorch`](../../topics/pytorch.md) [`sglang`](../../topics/sglang.md) [`speech-recognition`](../../topics/speech-recognition.md) [`streaming`](../../topics/streaming.md) [`text-to-speech`](../../topics/text-to-speech.md) [`tts`](../../topics/tts.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Data Engineering` `Backend Development` `Systems Programming` 
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 1,515+ stars, strong contributor base |
+| **Community** | Very Active | 1,758+ stars, strong contributor base |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 50&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-10T21:01:01.026Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-11-11T21:00:54.422Z*  
+*Data from 4 trending reports*

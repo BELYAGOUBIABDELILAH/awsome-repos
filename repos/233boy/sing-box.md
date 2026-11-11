@@ -1,6 +1,6 @@
 # 233boy&#x2F;sing-box
 
-> 最好用的 sing-box 一键安装脚本 &amp; 管理脚本，自动创建 REALITY 协议；支持 TUIC，Trojan，Hysteria2 等所有常见的协议
+> 最好用的 sing-box 一键安装脚本 &amp; 管理脚本，自动创建 Hysteria2 协议；支持 TUIC，Trojan，REALITY 等所有常见的协议
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;233boy&#x2F;sing-box) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Shell |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 5,082 |
-| **Forks** | 🍴 1,831 |
-| **Trending Days** | 12 |
+| **Stars** | ⭐ 5,407 |
+| **Forks** | 🍴 1,872 |
+| **Trending Days** | 13 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 1, 2026 |
-| **Last Seen** | Oct 27, 2026 |
+| **Last Seen** | Nov 11, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 12
+- **Trending Days**: 13
 - **Longest Streak**: 4 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`hysteria2`](../../topics/hysteria2.md) [`sing-box`](../../topics/sing-box.md) [`trojan`](../../topics/trojan.md) [`tuic`](../../topics/tuic.md) [`v2ray`](../../topics/v2ray.md) [`xray`](../../topics/xray.md) 
+[`hysteria2`](../../topics/hysteria2.md) [`reality`](../../topics/reality.md) [`sing-box`](../../topics/sing-box.md) [`trojan`](../../topics/trojan.md) [`tuic`](../../topics/tuic.md) [`v2ray`](../../topics/v2ray.md) [`xray`](../../topics/xray.md) 
 
 ### Curated Categories
 `Frontend Development` `Systems Programming` 
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 5,082+ stars, strong contributor base |
+| **Community** | Very Active | 5,407+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-10T21:01:01.817Z*  
-*Data from 12 trending reports*
+*Last updated: 2026-11-11T21:00:54.939Z*  
+*Data from 13 trending reports*

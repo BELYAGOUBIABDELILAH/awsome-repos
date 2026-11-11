@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 119
+- **Total Repositories**: 120
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-07
 
@@ -16,22 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,943 | 2026-08-01 | 24 |
+| [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | ⭐ 9,063 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/opensource.guide](../repos/github/opensource.guide.md) | ⭐ 15,793 | 2026-09-19 | 5 |
+| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,685 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yvoronoy/awesome-english](../repos/yvoronoy/awesome-english.md) | ⭐ 4,526 | 2026-10-14 | 3 |
+| [OpenAEC-Foundation/open-pdf-studio](../repos/OpenAEC-Foundation/open-pdf-studio.md) | ⭐ 1,171 | 2026-08-03 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Sjj1024/PakePlus](../repos/Sjj1024/PakePlus.md) | ⭐ 15,887 | 2026-08-07 | 10 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [github/training-kit](../repos/github/training-kit.md) | ⭐ 5,152 | 2026-08-15 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Azure/Azure-Sentinel](../repos/Azure/Azure-Sentinel.md) | ⭐ 6,249 | 2026-11-03 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [fanhao375/microduck-replica](../repos/fanhao375/microduck-replica.md) | ⭐ 1,657 | 2026-11-11 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Hisn00w/ASu-skills](../repos/Hisn00w/ASu-skills.md) | ⭐ 6,242 | 2026-10-12 | 🚀面向求职与开发场景的实用 AI Skills 集合，支持简历优化、岗位投递、面试准备与开发提效。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [yvoronoy/awesome-english](../repos/yvoronoy/awesome-english.md) | ⭐ 4,526 | 2026-10-14 | A collection of awesome study resources for learners of English. |
@@ -46,7 +55,7 @@
 | [ProletRevDicta/Prolet](../repos/ProletRevDicta/Prolet.md) | ⭐ 1,865 | 2026-11-03 | Historical documents (in Chinese) about the GPCR (Thanks Comrade RC MR HR etc.) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Azure/Azure-Sentinel](../repos/Azure/Azure-Sentinel.md) | ⭐ 6,245 | 2026-11-03 | Cloud-native SIEM for intelligent security analytics for your entire enterprise. |
+| [Azure/Azure-Sentinel](../repos/Azure/Azure-Sentinel.md) | ⭐ 6,249 | 2026-11-03 | Cloud-native SIEM for intelligent security analytics for your entire enterprise. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [alshedivat/al-folio](../repos/alshedivat/al-folio.md) | ⭐ 16,310 | 2026-11-04 | A beautiful, simple, clean, and responsive Jekyll theme for academics |
@@ -59,6 +68,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [givanz/Vvveb](../repos/givanz/Vvveb.md) | ⭐ 1,278 | 2026-11-06 | Powerful and easy to use cms to build websites, blogs or ecommerce stores. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [geekan/HowToLiveLonger](../repos/geekan/HowToLiveLonger.md) | ⭐ 36,035 | 2026-11-07 | A Programmer’s Guide to Longevity | Helping everyone live a longer, healthier, happier life. Avai... |
 
 
 ---
@@ -71,7 +83,7 @@
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 141,705 | 2026-08-08 | 18 |
 | [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 76,613 | 2026-08-19 | 9 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,943 | 2026-08-01 | 24 |
-| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,659 | 2026-08-01 | 10 |
+| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,685 | 2026-08-01 | 11 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 43,224 | 2026-08-12 | 13 |
 | [QSCTech/zju-icicles](../repos/QSCTech/zju-icicles.md) | ⭐ 41,365 | 2026-09-03 | 5 |
 | [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,722 | 2026-08-07 | 7 |
@@ -212,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-11-10T21:00:56.540Z*
+*Last updated: 2026-11-11T21:00:51.654Z*

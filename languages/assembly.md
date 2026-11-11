@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | ⭐ 464 | 2026-08-01 | 69 |
+| [pret/pokered](../repos/pret/pokered.md) | ⭐ 5,026 | 2026-08-01 | 52 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,741 | 2026-08-01 | 62 |
+| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | ⭐ 466 | 2026-08-01 | 70 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | ⭐ 2,239 | 2026-08-01 | 45 |
+| [aws/aws-lc](../repos/aws/aws-lc.md) | ⭐ 864 | 2026-08-01 | 61 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [espressif/esp-dl](../repos/espressif/esp-dl.md) | ⭐ 1,218 | 2026-08-01 | 39 |
+| [espressif/esp-dl](../repos/espressif/esp-dl.md) | ⭐ 1,220 | 2026-08-01 | 40 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [boostorg/context](../repos/boostorg/context.md) | ⭐ 372 | 2026-08-01 | 35 |
+| [riscv-software-src/riscv-tests](../repos/riscv-software-src/riscv-tests.md) | ⭐ 1,262 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | ⭐ 18,911 | 2026-08-01 | 57 |
+| [pret/pokecrystal](../repos/pret/pokecrystal.md) | ⭐ 2,548 | 2026-08-01 | 43 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | ⭐ 1,692 | 2026-08-01 | 53 |
+| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | ⭐ 1,692 | 2026-08-01 | 54 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [riscv/riscv-arch-test](../repos/riscv/riscv-arch-test.md) | ⭐ 809 | 2026-08-02 | 45 |
+| [riscv/riscv-arch-test](../repos/riscv/riscv-arch-test.md) | ⭐ 809 | 2026-08-02 | 46 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/arrow-go](../repos/apache/arrow-go.md) | ⭐ 419 | 2026-08-07 | 31 |
+| [cemu-project/cemu_graphic_packs](../repos/cemu-project/cemu_graphic_packs.md) | ⭐ 1,483 | 2026-08-04 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Cpasjuste/pemu](../repos/Cpasjuste/pemu.md) | ⭐ 529 | 2026-08-22 | 21 |
+| [apache/arrow-go](../repos/apache/arrow-go.md) | ⭐ 419 | 2026-08-07 | 32 |
 
 
 ---
@@ -75,21 +75,21 @@
 | [kanaka/mal](../repos/kanaka/mal.md) | ⭐ 10,757 | 2026-08-11 | 21 |
 | [jmechner/Prince-of-Persia-Apple-II](../repos/jmechner/Prince-of-Persia-Apple-II.md) | ⭐ 6,906 | 2026-09-28 | 3 |
 | [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | ⭐ 6,516 | 2026-08-01 | 54 |
-| [pret/pokered](../repos/pret/pokered.md) | ⭐ 5,019 | 2026-08-01 | 51 |
+| [pret/pokered](../repos/pret/pokered.md) | ⭐ 5,026 | 2026-08-01 | 52 |
 | [below/HelloSilicon](../repos/below/HelloSilicon.md) | ⭐ 4,994 | 2026-09-02 | 2 |
 | [briansmith/ring](../repos/briansmith/ring.md) | ⭐ 4,107 | 2026-08-01 | 12 |
 | [ebitengine/purego](../repos/ebitengine/purego.md) | ⭐ 4,091 | 2026-08-04 | 52 |
 | [virtualagc/virtualagc](../repos/virtualagc/virtualagc.md) | ⭐ 3,350 | 2026-08-01 | 9 |
 | [netwide-assembler/nasm](../repos/netwide-assembler/nasm.md) | ⭐ 3,322 | 2026-09-01 | 8 |
 | [SpinalHDL/VexRiscv](../repos/SpinalHDL/VexRiscv.md) | ⭐ 3,265 | 2026-09-19 | 1 |
-| [openhwfoundation/cva6](../repos/openhwfoundation/cva6.md) | ⭐ 3,186 | 2026-09-19 | 29 |
+| [openhwfoundation/cva6](../repos/openhwfoundation/cva6.md) | ⭐ 3,190 | 2026-09-19 | 30 |
 | [openhwgroup/cva6](../repos/openhwgroup/cva6.md) | ⭐ 3,111 | 2026-08-01 | 34 |
 | [SheerSt/pokewilds](../repos/SheerSt/pokewilds.md) | ⭐ 2,921 | 2026-08-03 | 17 |
-| [pret/pokecrystal](../repos/pret/pokecrystal.md) | ⭐ 2,547 | 2026-08-01 | 42 |
+| [pret/pokecrystal](../repos/pret/pokecrystal.md) | ⭐ 2,548 | 2026-08-01 | 43 |
 | [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | ⭐ 2,239 | 2026-08-01 | 45 |
 | [PlummersSoftwareLLC/TinyRetroPad](../repos/PlummersSoftwareLLC/TinyRetroPad.md) | ⭐ 1,750 | 2026-08-04 | 15 |
 | [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,741 | 2026-08-01 | 62 |
-| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | ⭐ 1,692 | 2026-08-01 | 53 |
+| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | ⭐ 1,692 | 2026-08-01 | 54 |
 
 ---
 
@@ -97,16 +97,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | 69 | ⭐ 464 | 2026-08-01 | 2026-11-10 |
+| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | 70 | ⭐ 466 | 2026-08-01 | 2026-11-11 |
 | [apple/swift-crypto](../repos/apple/swift-crypto.md) | 62 | ⭐ 1,741 | 2026-08-01 | 2026-11-10 |
-| [aws/aws-lc](../repos/aws/aws-lc.md) | 60 | ⭐ 862 | 2026-08-01 | 2026-11-09 |
+| [aws/aws-lc](../repos/aws/aws-lc.md) | 61 | ⭐ 864 | 2026-08-01 | 2026-11-11 |
 | [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | 57 | ⭐ 18,911 | 2026-08-01 | 2026-11-10 |
+| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | 54 | ⭐ 1,692 | 2026-08-01 | 2026-11-11 |
 | [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | 54 | ⭐ 6,516 | 2026-08-01 | 2026-11-09 |
-| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | 53 | ⭐ 1,692 | 2026-08-01 | 2026-11-10 |
+| [pret/pokered](../repos/pret/pokered.md) | 52 | ⭐ 5,026 | 2026-08-01 | 2026-11-11 |
 | [ebitengine/purego](../repos/ebitengine/purego.md) | 52 | ⭐ 4,091 | 2026-08-04 | 2026-11-06 |
-| [pret/pokered](../repos/pret/pokered.md) | 51 | ⭐ 5,019 | 2026-08-01 | 2026-11-05 |
+| [riscv/riscv-arch-test](../repos/riscv/riscv-arch-test.md) | 46 | ⭐ 809 | 2026-08-02 | 2026-11-11 |
 | [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | 45 | ⭐ 2,239 | 2026-08-01 | 2026-11-10 |
-| [riscv/riscv-arch-test](../repos/riscv/riscv-arch-test.md) | 45 | ⭐ 809 | 2026-08-02 | 2026-11-10 |
 
 ---
 
@@ -167,4 +167,4 @@
 
 ---
 
-*Last updated: 2026-11-10T21:00:56.487Z*
+*Last updated: 2026-11-11T21:00:51.622Z*

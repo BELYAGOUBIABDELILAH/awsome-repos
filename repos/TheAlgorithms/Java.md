@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Java |
 | **License** | MIT |
-| **Stars** | ⭐ 66,823 |
-| **Forks** | 🍴 21,486 |
-| **Trending Days** | 11 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 66,969 |
+| **Forks** | 🍴 21,500 |
+| **Trending Days** | 12 |
+| **Peak Rank** | #10 |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Nov 10, 2026 |
+| **Last Seen** | Nov 11, 2026 |
 
 
 ---
@@ -43,11 +43,12 @@
 
 ## Trending Timeline
 
+**Nov 11, 2026** — Rank #10 (+108 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 11
+- **Peak Rank**: #10
+- **Trending Days**: 12
 - **Longest Streak**: 3 days
 
 ---
@@ -70,7 +71,7 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Good | Well-maintained documentation |
-| **Community** | Very Active | 66,823+ stars, strong contributor base |
+| **Community** | Very Active | 66,969+ stars, strong contributor base |
 | **Maturity** | Production Ready | Battle-tested and stable |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -86,10 +87,10 @@
 #### Metrics
 - **Hidden Gem**: ✗ No
 - **Trending Score**: 100&#x2F;100
-- **Historical Rank**: No ranking data
+- **Historical Rank**: Top 10 (Peak: #10)
 
 
 ---
 
-*Last updated: 2026-11-10T21:00:59.841Z*  
-*Data from 11 trending reports*
+*Last updated: 2026-11-11T21:00:53.513Z*  
+*Data from 12 trending reports*

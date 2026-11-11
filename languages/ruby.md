@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 48,074 | 2026-08-01 | 53 |
+| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 48,074 | 2026-08-01 | 54 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 50,481 | 2026-08-01 | 35 |
+| [opf/openproject](../repos/opf/openproject.md) | ⭐ 17,284 | 2026-08-01 | 54 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opf/openproject](../repos/opf/openproject.md) | ⭐ 17,227 | 2026-08-01 | 53 |
+| [DataDog/dd-trace-rb](../repos/DataDog/dd-trace-rb.md) | ⭐ 419 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spree/spree](../repos/spree/spree.md) | ⭐ 15,826 | 2026-08-01 | 38 |
+| [github-linguist/linguist](../repos/github-linguist/linguist.md) | ⭐ 13,783 | 2026-08-01 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,844 | 2026-08-01 | 37 |
+| [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | ⭐ 39,528 | 2026-08-01 | 41 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,080 | 2026-08-01 | 39 |
+| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,081 | 2026-08-01 | 40 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [we-promise/sure](../repos/we-promise/sure.md) | ⭐ 11,814 | 2026-08-02 | 41 |
+| [we-promise/sure](../repos/we-promise/sure.md) | ⭐ 12,827 | 2026-08-02 | 42 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rubocop/rubocop](../repos/rubocop/rubocop.md) | ⭐ 12,926 | 2026-08-02 | 16 |
+| [rubocop/rubocop](../repos/rubocop/rubocop.md) | ⭐ 12,927 | 2026-08-02 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jekyll/jekyll](../repos/jekyll/jekyll.md) | ⭐ 51,762 | 2026-08-03 | 27 |
+| [docusealco/docuseal](../repos/docusealco/docuseal.md) | ⭐ 19,042 | 2026-08-02 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [puma/puma](../repos/puma/puma.md) | ⭐ 7,928 | 2026-08-04 | 5 |
+| [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 42,386 | 2026-08-04 | 43 |
 
 
 ---
@@ -52,13 +52,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [orbitalindex/awesome-space](../repos/orbitalindex/awesome-space.md) | ⭐ 2,243 | 2026-10-12 | 🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [capistrano/capistrano](../repos/capistrano/capistrano.md) | ⭐ 13,015 | 2026-10-14 | A deployment automation tool built on Ruby, Rake, and SSH. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [danbooru/danbooru](../repos/danbooru/danbooru.md) | ⭐ 2,919 | 2026-10-17 | A taggable image board written in Rails. |
+| [danbooru/danbooru](../repos/danbooru/danbooru.md) | ⭐ 2,928 | 2026-10-17 | A taggable image board written in Rails. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [patterns-ai-core/langchainrb](../repos/patterns-ai-core/langchainrb.md) | ⭐ 2,006 | 2026-10-18 | Build LLM-powered applications in Ruby |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [superiorlu/AITreasureBox](../repos/superiorlu/AITreasureBox.md) | ⭐ 918 | 2026-11-07 | 🤖 Automatically collected AI repos, tools, websites, papers &amp; tutorials. 实用AI百宝箱 💎 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [engineyard/rails_metrics](../repos/engineyard/rails_metrics.md) | ⭐ 250 | 2026-11-09 | Engine for tracking various metrics related to a Rails 3 application |
 
 
 ---
@@ -91,21 +91,21 @@
 | [rails/rails](../repos/rails/rails.md) | ⭐ 59,081 | 2026-08-02 | 54 |
 | [jekyll/jekyll](../repos/jekyll/jekyll.md) | ⭐ 51,762 | 2026-08-03 | 27 |
 | [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 50,481 | 2026-08-01 | 35 |
-| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 48,074 | 2026-08-01 | 53 |
-| [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 42,369 | 2026-08-04 | 42 |
-| [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | ⭐ 39,336 | 2026-08-01 | 40 |
+| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 48,074 | 2026-08-01 | 54 |
+| [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 42,386 | 2026-08-04 | 43 |
+| [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | ⭐ 39,528 | 2026-08-01 | 41 |
 | [hashicorp/vagrant](../repos/hashicorp/vagrant.md) | ⭐ 27,218 | 2026-08-05 | 15 |
 | [matteocrippa/awesome-swift](../repos/matteocrippa/awesome-swift.md) | ⭐ 26,364 | 2026-09-27 | 9 |
 | [gitlabhq/gitlabhq](../repos/gitlabhq/gitlabhq.md) | ⭐ 24,548 | 2026-08-01 | 18 |
 | [heartcombo/devise](../repos/heartcombo/devise.md) | ⭐ 24,355 | 2026-09-08 | 5 |
 | [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,799 | 2026-08-01 | 42 |
 | [forem/forem](../repos/forem/forem.md) | ⭐ 22,813 | 2026-08-04 | 20 |
-| [docusealco/docuseal](../repos/docusealco/docuseal.md) | ⭐ 18,982 | 2026-08-02 | 33 |
-| [opf/openproject](../repos/opf/openproject.md) | ⭐ 17,227 | 2026-08-01 | 53 |
+| [docusealco/docuseal](../repos/docusealco/docuseal.md) | ⭐ 19,042 | 2026-08-02 | 34 |
+| [opf/openproject](../repos/opf/openproject.md) | ⭐ 17,284 | 2026-08-01 | 54 |
 | [postalserver/postal](../repos/postalserver/postal.md) | ⭐ 16,917 | 2026-08-04 | 21 |
 | [spree/spree](../repos/spree/spree.md) | ⭐ 15,826 | 2026-08-01 | 38 |
 | [CocoaPods/CocoaPods](../repos/CocoaPods/CocoaPods.md) | ⭐ 14,836 | 2026-09-02 | 4 |
-| [neutraltone/awesome-stock-resources](../repos/neutraltone/awesome-stock-resources.md) | ⭐ 14,801 | 2026-09-04 | 10 |
+| [neutraltone/awesome-stock-resources](../repos/neutraltone/awesome-stock-resources.md) | ⭐ 14,815 | 2026-09-04 | 11 |
 | [basecamp/kamal](../repos/basecamp/kamal.md) | ⭐ 14,687 | 2026-08-12 | 16 |
 | [gollum/gollum](../repos/gollum/gollum.md) | ⭐ 14,323 | 2026-09-08 | 1 |
 
@@ -115,14 +115,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [discourse/discourse](../repos/discourse/discourse.md) | 54 | ⭐ 48,074 | 2026-08-01 | 2026-11-11 |
+| [opf/openproject](../repos/opf/openproject.md) | 54 | ⭐ 17,284 | 2026-08-01 | 2026-11-11 |
 | [rails/rails](../repos/rails/rails.md) | 54 | ⭐ 59,081 | 2026-08-02 | 2026-11-08 |
-| [discourse/discourse](../repos/discourse/discourse.md) | 53 | ⭐ 48,074 | 2026-08-01 | 2026-11-10 |
-| [opf/openproject](../repos/opf/openproject.md) | 53 | ⭐ 17,227 | 2026-08-01 | 2026-11-10 |
+| [fastlane/fastlane](../repos/fastlane/fastlane.md) | 43 | ⭐ 42,386 | 2026-08-04 | 2026-11-11 |
 | [ruby/ruby](../repos/ruby/ruby.md) | 42 | ⭐ 23,799 | 2026-08-01 | 2026-11-07 |
-| [fastlane/fastlane](../repos/fastlane/fastlane.md) | 42 | ⭐ 42,369 | 2026-08-04 | 2026-11-07 |
-| [we-promise/sure](../repos/we-promise/sure.md) | 41 | ⭐ 11,814 | 2026-08-02 | 2026-11-10 |
-| [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | 40 | ⭐ 39,336 | 2026-08-01 | 2026-11-08 |
-| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 39 | ⭐ 1,080 | 2026-08-01 | 2026-11-10 |
+| [we-promise/sure](../repos/we-promise/sure.md) | 42 | ⭐ 12,827 | 2026-08-02 | 2026-11-11 |
+| [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | 41 | ⭐ 39,528 | 2026-08-01 | 2026-11-11 |
+| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 40 | ⭐ 1,081 | 2026-08-01 | 2026-11-11 |
 | [spree/spree](../repos/spree/spree.md) | 38 | ⭐ 15,826 | 2026-08-01 | 2026-11-10 |
 | [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | 37 | ⭐ 5,844 | 2026-08-01 | 2026-11-10 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-10T21:00:56.592Z*
+*Last updated: 2026-11-11T21:00:51.684Z*

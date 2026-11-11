@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T21:01:04.082Z",
+  "generated_at": "2026-11-11T21:00:56.301Z",
   "total_count": 100,
   "repositories": [
     {
@@ -177,10 +177,10 @@
       "full_name": "anthropics/skills",
       "owner": "anthropics",
       "name": "skills",
-      "stars": 192179,
+      "stars": 193049,
       "language": "Python",
       "first_seen": "2026-08-11",
-      "trending_days": 12
+      "trending_days": 13
     },
     {
       "rank": 19,
@@ -217,10 +217,10 @@
       "full_name": "flutter/flutter",
       "owner": "flutter",
       "name": "flutter",
-      "stars": 181110,
+      "stars": 181235,
       "language": "Dart",
       "first_seen": "2026-08-01",
-      "trending_days": 52
+      "trending_days": 53
     },
     {
       "rank": 23,
@@ -347,10 +347,10 @@
       "full_name": "microsoft/PowerToys",
       "owner": "microsoft",
       "name": "PowerToys",
-      "stars": 140695,
+      "stars": 140879,
       "language": "C",
       "first_seen": "2026-08-01",
-      "trending_days": 25
+      "trending_days": 26
     },
     {
       "rank": 36,
@@ -387,10 +387,10 @@
       "full_name": "ggml-org/llama.cpp",
       "owner": "ggml-org",
       "name": "llama.cpp",
-      "stars": 133947,
+      "stars": 134149,
       "language": "C++",
       "first_seen": "2026-08-01",
-      "trending_days": 35
+      "trending_days": 36
     },
     {
       "rank": 40,
@@ -417,10 +417,10 @@
       "full_name": "krahets/hello-algo",
       "owner": "krahets",
       "name": "hello-algo",
-      "stars": 131621,
-      "language": "Java",
+      "stars": 132217,
+      "language": "Python",
       "first_seen": "2026-08-04",
-      "trending_days": 16
+      "trending_days": 17
     },
     {
       "rank": 43,
@@ -474,6 +474,16 @@
     },
     {
       "rank": 48,
+      "full_name": "browser-use/browser-use",
+      "owner": "browser-use",
+      "name": "browser-use",
+      "stars": 120731,
+      "language": "Python",
+      "first_seen": "2026-08-20",
+      "trending_days": 10
+    },
+    {
+      "rank": 49,
       "full_name": "2dust/v2rayN",
       "owner": "2dust",
       "name": "v2rayN",
@@ -483,7 +493,7 @@
       "trending_days": 34
     },
     {
-      "rank": 49,
+      "rank": 50,
       "full_name": "godotengine/godot",
       "owner": "godotengine",
       "name": "godot",
@@ -493,7 +503,7 @@
       "trending_days": 12
     },
     {
-      "rank": 50,
+      "rank": 51,
       "full_name": "stablyai/orca",
       "owner": "stablyai",
       "name": "orca",
@@ -503,7 +513,7 @@
       "trending_days": 25
     },
     {
-      "rank": 51,
+      "rank": 52,
       "full_name": "immich-app/immich",
       "owner": "immich-app",
       "name": "immich",
@@ -513,7 +523,7 @@
       "trending_days": 5
     },
     {
-      "rank": 52,
+      "rank": 53,
       "full_name": "TauricResearch/TradingAgents",
       "owner": "TauricResearch",
       "name": "TradingAgents",
@@ -523,7 +533,7 @@
       "trending_days": 16
     },
     {
-      "rank": 53,
+      "rank": 54,
       "full_name": "microsoft/generative-ai-for-beginners",
       "owner": "microsoft",
       "name": "generative-ai-for-beginners",
@@ -533,7 +543,7 @@
       "trending_days": 3
     },
     {
-      "rank": 54,
+      "rank": 55,
       "full_name": "earendil-works/pi",
       "owner": "earendil-works",
       "name": "pi",
@@ -543,24 +553,14 @@
       "trending_days": 12
     },
     {
-      "rank": 55,
-      "full_name": "browser-use/browser-use",
-      "owner": "browser-use",
-      "name": "browser-use",
-      "stars": 115765,
-      "language": "Python",
-      "first_seen": "2026-08-20",
-      "trending_days": 9
-    },
-    {
       "rank": 56,
       "full_name": "addyosmani/agent-skills",
       "owner": "addyosmani",
       "name": "agent-skills",
-      "stars": 115059,
+      "stars": 115837,
       "language": "JavaScript",
       "first_seen": "2026-08-05",
-      "trending_days": 35
+      "trending_days": 36
     },
     {
       "rank": 57,
@@ -604,6 +604,16 @@
     },
     {
       "rank": 61,
+      "full_name": "sherlock-project/sherlock",
+      "owner": "sherlock-project",
+      "name": "sherlock",
+      "stars": 110002,
+      "language": "Python",
+      "first_seen": "2026-08-02",
+      "trending_days": 10
+    },
+    {
+      "rank": 62,
       "full_name": "denoland/deno",
       "owner": "denoland",
       "name": "deno",
@@ -611,16 +621,6 @@
       "language": "Rust",
       "first_seen": "2026-07-30",
       "trending_days": 5
-    },
-    {
-      "rank": 62,
-      "full_name": "sherlock-project/sherlock",
-      "owner": "sherlock-project",
-      "name": "sherlock",
-      "stars": 108794,
-      "language": "Python",
-      "first_seen": "2026-08-02",
-      "trending_days": 9
     },
     {
       "rank": 63,
@@ -674,6 +674,16 @@
     },
     {
       "rank": 68,
+      "full_name": "ruvnet/RuView",
+      "owner": "ruvnet",
+      "name": "RuView",
+      "stars": 104032,
+      "language": "Rust",
+      "first_seen": "2026-08-09",
+      "trending_days": 25
+    },
+    {
+      "rank": 69,
       "full_name": "ruanyf/weekly",
       "owner": "ruanyf",
       "name": "weekly",
@@ -681,16 +691,6 @@
       "language": "Unknown",
       "first_seen": "2026-09-19",
       "trending_days": 2
-    },
-    {
-      "rank": 69,
-      "full_name": "ruvnet/RuView",
-      "owner": "ruvnet",
-      "name": "RuView",
-      "stars": 103860,
-      "language": "Rust",
-      "first_seen": "2026-08-09",
-      "trending_days": 24
     },
     {
       "rank": 70,
@@ -767,10 +767,10 @@
       "full_name": "localsend/localsend",
       "owner": "localsend",
       "name": "localsend",
-      "stars": 98264,
+      "stars": 98473,
       "language": "Dart",
       "first_seen": "2026-08-02",
-      "trending_days": 39
+      "trending_days": 40
     },
     {
       "rank": 78,
@@ -797,10 +797,10 @@
       "full_name": "nvm-sh/nvm",
       "owner": "nvm-sh",
       "name": "nvm",
-      "stars": 95788,
+      "stars": 95912,
       "language": "Shell",
       "first_seen": "2026-08-01",
-      "trending_days": 50
+      "trending_days": 51
     },
     {
       "rank": 81,

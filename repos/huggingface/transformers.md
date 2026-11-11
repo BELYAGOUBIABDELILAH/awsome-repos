@@ -78,7 +78,7 @@
 | **Documentation** | Excellent | Comprehensive guides and examples |
 | **Community** | Very Active | 167,557+ stars, strong contributor base |
 | **Maturity** | Production Ready | Battle-tested and stable |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Slow | Occasional updates |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
@@ -103,5 +103,5 @@
 
 ---
 
-*Last updated: 2026-11-10T21:00:58.704Z*  
+*Last updated: 2026-11-11T21:00:52.808Z*  
 *Data from 9 trending reports*

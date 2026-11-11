@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 24
+- **Total Repositories**: 25
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-29
 
@@ -16,10 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 739 | 2026-08-01 | 61 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 739 | 2026-08-01 | 62 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [StructuralEquationModels/StructuralEquationModels.jl](../repos/StructuralEquationModels/StructuralEquationModels.jl.md) | ⭐ 55 | 2026-11-09 | 2 |
+| [StructuralEquationModels/StructuralEquationModels.jl](../repos/StructuralEquationModels/StructuralEquationModels.jl.md) | ⭐ 55 | 2026-11-09 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [FourierFlows/FourierFlows.jl](../repos/FourierFlows/FourierFlows.jl.md) | ⭐ 219 | 2026-11-11 | 1 |
 
 
 ---
@@ -35,6 +38,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [StructuralEquationModels/StructuralEquationModels.jl](../repos/StructuralEquationModels/StructuralEquationModels.jl.md) | ⭐ 55 | 2026-11-09 | A fast and flexible Structural Equation Modelling Framework |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [FourierFlows/FourierFlows.jl](../repos/FourierFlows/FourierFlows.jl.md) | ⭐ 219 | 2026-11-11 | Tools for building fast, hackable, pseudospectral partial differential equation solvers on period... |
 
 
 ---
@@ -50,19 +56,19 @@
 | [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,448 | 2026-08-02 | 39 |
 | [JuliaGPU/CUDA.jl](../repos/JuliaGPU/CUDA.jl.md) | ⭐ 1,419 | 2026-08-12 | 1 |
 | [JuliaStats/Distributions.jl](../repos/JuliaStats/Distributions.jl.md) | ⭐ 1,196 | 2026-08-12 | 1 |
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 739 | 2026-08-01 | 61 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 739 | 2026-08-01 | 62 |
 | [trixi-framework/Trixi.jl](../repos/trixi-framework/Trixi.jl.md) | ⭐ 736 | 2026-08-07 | 3 |
 | [LuxDL/Lux.jl](../repos/LuxDL/Lux.jl.md) | ⭐ 721 | 2026-08-12 | 1 |
 | [EnzymeAD/Enzyme.jl](../repos/EnzymeAD/Enzyme.jl.md) | ⭐ 586 | 2026-09-09 | 2 |
 | [JuliaGPU/KernelAbstractions.jl](../repos/JuliaGPU/KernelAbstractions.jl.md) | ⭐ 529 | 2026-10-11 | 4 |
 | [EnzymeAD/Reactant.jl](../repos/EnzymeAD/Reactant.jl.md) | ⭐ 355 | 2026-08-07 | 3 |
 | [aviatesk/JETLS.jl](../repos/aviatesk/JETLS.jl.md) | ⭐ 317 | 2026-10-25 | 2 |
+| [FourierFlows/FourierFlows.jl](../repos/FourierFlows/FourierFlows.jl.md) | ⭐ 219 | 2026-11-11 | 1 |
 | [Evovest/EvoTrees.jl](../repos/Evovest/EvoTrees.jl.md) | ⭐ 200 | 2026-09-02 | 1 |
 | [JuliaLLVM/LLVM.jl](../repos/JuliaLLVM/LLVM.jl.md) | ⭐ 145 | 2026-10-02 | 2 |
 | [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | ⭐ 126 | 2026-08-01 | 14 |
 | [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | ⭐ 117 | 2026-08-01 | 12 |
 | [davidanthoff/Electron.jl](../repos/davidanthoff/Electron.jl.md) | ⭐ 96 | 2026-08-14 | 2 |
-| [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | ⭐ 73 | 2026-08-01 | 8 |
 
 ---
 
@@ -70,7 +76,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 61 | ⭐ 739 | 2026-08-01 | 2026-11-10 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 62 | ⭐ 739 | 2026-08-01 | 2026-11-11 |
 | [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | 39 | ⭐ 1,448 | 2026-08-02 | 2026-11-06 |
 | [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | 15 | ⭐ 46 | 2026-08-02 | 2026-08-25 |
 | [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | 14 | ⭐ 126 | 2026-08-01 | 2026-09-12 |
@@ -79,7 +85,7 @@
 | [JuliaGPU/KernelAbstractions.jl](../repos/JuliaGPU/KernelAbstractions.jl.md) | 4 | ⭐ 529 | 2026-10-11 | 2026-10-14 |
 | [trixi-framework/Trixi.jl](../repos/trixi-framework/Trixi.jl.md) | 3 | ⭐ 736 | 2026-08-07 | 2026-10-16 |
 | [EnzymeAD/Reactant.jl](../repos/EnzymeAD/Reactant.jl.md) | 3 | ⭐ 355 | 2026-08-07 | 2026-08-11 |
-| [davidanthoff/Electron.jl](../repos/davidanthoff/Electron.jl.md) | 2 | ⭐ 96 | 2026-08-14 | 2026-08-19 |
+| [StructuralEquationModels/StructuralEquationModels.jl](../repos/StructuralEquationModels/StructuralEquationModels.jl.md) | 3 | ⭐ 55 | 2026-11-09 | 2026-11-11 |
 
 ---
 
@@ -109,7 +115,8 @@
 - [aviatesk/JETLS.jl](../repos/aviatesk/JETLS.jl.md) - A new language server for Julia, enabling modern, compiler-powered tooling.
 - [FluxML/Flux.jl](../repos/FluxML/Flux.jl.md) - Relax! Flux is the ML library that doesn&#39;t make you tensor
 - [StructuralEquationModels/StructuralEquationModels.jl](../repos/StructuralEquationModels/StructuralEquationModels.jl.md) - A fast and flexible Structural Equation Modelling Framework
+- [FourierFlows/FourierFlows.jl](../repos/FourierFlows/FourierFlows.jl.md) - Tools for building fast, hackable, pseudospectral partial differential equation solvers on period...
 
 ---
 
-*Last updated: 2026-11-10T21:00:56.550Z*
+*Last updated: 2026-11-11T21:00:51.659Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 125
+- **Total Repositories**: 126
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-27
 
@@ -16,25 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 15,166 | 2026-08-01 | 33 |
+| [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 37,481 | 2026-08-02 | 40 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,997 | 2026-08-01 | 41 |
+| [SuiteCRM/SuiteCRM](../repos/SuiteCRM/SuiteCRM.md) | ⭐ 5,858 | 2026-08-02 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [glpi-project/glpi](../repos/glpi-project/glpi.md) | ⭐ 6,578 | 2026-08-01 | 43 |
+| [roundcube/roundcubemail](../repos/roundcube/roundcubemail.md) | ⭐ 7,269 | 2026-08-04 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ChurchCRM/CRM](../repos/ChurchCRM/CRM.md) | ⭐ 992 | 2026-08-03 | 4 |
+| [wallabag/wallabag](../repos/wallabag/wallabag.md) | ⭐ 13,062 | 2026-08-05 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [laravel/ai](../repos/laravel/ai.md) | ⭐ 1,266 | 2026-08-05 | 15 |
+| [espocrm/espocrm](../repos/espocrm/espocrm.md) | ⭐ 3,585 | 2026-08-06 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | ⭐ 10,807 | 2026-08-09 | 35 |
+| [woocommerce/woocommerce](../repos/woocommerce/woocommerce.md) | ⭐ 10,595 | 2026-08-06 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vimeo/psalm](../repos/vimeo/psalm.md) | ⭐ 5,923 | 2026-10-17 | 5 |
+| [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 24,137 | 2026-08-07 | 25 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | ⭐ 10,816 | 2026-08-09 | 36 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [kanboard/kanboard](../repos/kanboard/kanboard.md) | ⭐ 9,954 | 2026-08-20 | 12 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [openmediavault/openmediavault](../repos/openmediavault/openmediavault.md) | ⭐ 7,087 | 2026-09-01 | 7 |
 
 
 ---
@@ -43,13 +52,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [paragonie/awesome-appsec](../repos/paragonie/awesome-appsec.md) | ⭐ 7,099 | 2026-10-12 | A curated list of resources for learning about application security |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [googleapis/google-cloud-php](../repos/googleapis/google-cloud-php.md) | ⭐ 1,180 | 2026-10-13 | Google Cloud Client Library for PHP |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [modelcontextprotocol/php-sdk](../repos/modelcontextprotocol/php-sdk.md) | ⭐ 1,666 | 2026-10-14 | The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration ... |
+| [modelcontextprotocol/php-sdk](../repos/modelcontextprotocol/php-sdk.md) | ⭐ 1,671 | 2026-10-14 | The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [modxcms-jp/evolution-jp](../repos/modxcms-jp/evolution-jp.md) | ⭐ 33 | 2026-10-14 |  |
@@ -71,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [vimeo/psalm](../repos/vimeo/psalm.md) | ⭐ 5,923 | 2026-10-17 | A PHP static analysis tool for finding errors and security vulnerabilities in PHP applications |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [bobthecow/psysh](../repos/bobthecow/psysh.md) | ⭐ 9,829 | 2026-10-19 | A REPL for PHP |
 
 
 ---
@@ -80,13 +89,13 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 57,493 | 2026-08-01 | 3 |
-| [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 37,448 | 2026-08-02 | 39 |
+| [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 37,481 | 2026-08-02 | 40 |
 | [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,997 | 2026-08-01 | 41 |
 | [filamentphp/filament](../repos/filamentphp/filament.md) | ⭐ 32,453 | 2026-08-02 | 31 |
 | [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,520 | 2026-08-02 | 40 |
 | [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,330 | 2026-08-01 | 29 |
 | [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,714 | 2026-08-04 | 24 |
-| [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 24,111 | 2026-08-07 | 24 |
+| [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 24,137 | 2026-08-07 | 25 |
 | [guzzle/guzzle](../repos/guzzle/guzzle.md) | ⭐ 23,445 | 2026-10-20 | 1 |
 | [PHPMailer/PHPMailer](../repos/PHPMailer/PHPMailer.md) | ⭐ 22,342 | 2026-08-01 | 15 |
 | [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 22,009 | 2026-08-01 | 31 |
@@ -97,7 +106,7 @@
 | [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 15,166 | 2026-08-01 | 33 |
 | [PHPOffice/PhpSpreadsheet](../repos/PHPOffice/PhpSpreadsheet.md) | ⭐ 14,005 | 2026-08-19 | 7 |
 | [PHP-CS-Fixer/PHP-CS-Fixer](../repos/PHP-CS-Fixer/PHP-CS-Fixer.md) | ⭐ 13,565 | 2026-08-04 | 5 |
-| [wallabag/wallabag](../repos/wallabag/wallabag.md) | ⭐ 13,053 | 2026-08-05 | 7 |
+| [wallabag/wallabag](../repos/wallabag/wallabag.md) | ⭐ 13,062 | 2026-08-05 | 8 |
 | [SpartnerNL/Laravel-Excel](../repos/SpartnerNL/Laravel-Excel.md) | ⭐ 12,699 | 2026-08-09 | 1 |
 
 ---
@@ -109,8 +118,8 @@
 | [glpi-project/glpi](../repos/glpi-project/glpi.md) | 43 | ⭐ 6,578 | 2026-08-01 | 2026-11-10 |
 | [laravel/framework](../repos/laravel/framework.md) | 41 | ⭐ 34,997 | 2026-08-01 | 2026-11-10 |
 | [symfony/symfony](../repos/symfony/symfony.md) | 40 | ⭐ 31,520 | 2026-08-02 | 2026-11-08 |
-| [nextcloud/server](../repos/nextcloud/server.md) | 39 | ⭐ 37,448 | 2026-08-02 | 2026-11-08 |
-| [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | 35 | ⭐ 10,807 | 2026-08-09 | 2026-11-10 |
+| [nextcloud/server](../repos/nextcloud/server.md) | 40 | ⭐ 37,481 | 2026-08-02 | 2026-11-11 |
+| [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | 36 | ⭐ 10,816 | 2026-08-09 | 2026-11-11 |
 | [grokability/snipe-it](../repos/grokability/snipe-it.md) | 33 | ⭐ 15,166 | 2026-08-01 | 2026-11-10 |
 | [WordPress/wordpress-develop](../repos/WordPress/wordpress-develop.md) | 32 | ⭐ 3,508 | 2026-08-01 | 2026-11-08 |
 | [matomo-org/matomo](../repos/matomo-org/matomo.md) | 31 | ⭐ 22,009 | 2026-08-01 | 2026-11-06 |
@@ -224,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-10T21:00:56.574Z*
+*Last updated: 2026-11-11T21:00:51.673Z*

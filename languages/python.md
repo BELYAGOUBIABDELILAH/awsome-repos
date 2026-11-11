@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 329
+- **Total Repositories**: 331
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-03
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [figma/mcp-server-guide](../repos/figma/mcp-server-guide.md) | ⭐ 2,170 | 2026-08-01 | 2 |
+| [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 110,002 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 108,794 | 2026-08-02 | 9 |
+| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | ⭐ 68,655 | 2026-08-03 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZhuLinsen/daily_stock_analysis](../repos/ZhuLinsen/daily_stock_analysis.md) | ⭐ 69,535 | 2026-08-09 | 8 |
+| [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 132,217 | 2026-08-04 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 192,179 | 2026-08-11 | 12 |
+| [ZhuLinsen/daily_stock_analysis](../repos/ZhuLinsen/daily_stock_analysis.md) | ⭐ 70,102 | 2026-08-09 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashishpatel26/500-AI-Agents-Projects](../repos/ashishpatel26/500-AI-Agents-Projects.md) | ⭐ 39,634 | 2026-08-15 | 2 |
+| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 193,049 | 2026-08-11 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-quickstarts](../repos/anthropics/claude-quickstarts.md) | ⭐ 20,427 | 2026-08-22 | 6 |
+| [sgl-project/sglang-omni](../repos/sgl-project/sglang-omni.md) | ⭐ 1,758 | 2026-08-15 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elder-plinius/OBLITERATUS](../repos/elder-plinius/OBLITERATUS.md) | ⭐ 9,446 | 2026-08-23 | 4 |
+| [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 120,731 | 2026-08-20 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Imbad0202/academic-research-skills](../repos/Imbad0202/academic-research-skills.md) | ⭐ 56,350 | 2026-09-01 | 7 |
+| [anthropics/claude-quickstarts](../repos/anthropics/claude-quickstarts.md) | ⭐ 20,755 | 2026-08-22 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rlaope/oh-my-hermes](../repos/rlaope/oh-my-hermes.md) | ⭐ 5,364 | 2026-09-14 | 3 |
+| [shy3130/tick-stock-panel](../repos/shy3130/tick-stock-panel.md) | ⭐ 7,604 | 2026-08-23 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenBMB/VoxCPM](../repos/OpenBMB/VoxCPM.md) | ⭐ 42,206 | 2026-09-14 | 5 |
+| [experientiallabs/experiential](../repos/experientiallabs/experiential.md) | ⭐ 16,555 | 2026-09-06 | 6 |
 
 
 ---
@@ -94,7 +94,7 @@
 | [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 285,114 | 2026-08-08 | 4 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 243,012 | 2026-08-01 | 17 |
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 198,857 | 2026-08-02 | 8 |
-| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 192,179 | 2026-08-11 | 12 |
+| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 193,049 | 2026-08-11 | 13 |
 | [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 189,013 | 2026-09-07 | 3 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,775 | 2026-08-06 | 9 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 167,557 | 2026-07-31 | 9 |
@@ -103,11 +103,11 @@
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 141,991 | 2026-08-05 | 13 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 139,731 | 2026-08-01 | 19 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 133,846 | 2026-08-03 | 11 |
+| [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 132,217 | 2026-08-04 | 17 |
+| [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 120,731 | 2026-08-20 | 10 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 117,829 | 2026-08-08 | 16 |
-| [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 115,765 | 2026-08-20 | 9 |
-| [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 108,794 | 2026-08-02 | 9 |
+| [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 110,002 | 2026-08-02 | 10 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 108,616 | 2026-07-31 | 6 |
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 104,830 | 2026-08-01 | 14 |
 
 ---
 
@@ -118,13 +118,13 @@
 | [github/copilot-cli](../repos/github/copilot-cli.md) | 25 | ⭐ 11,351 | 2026-08-04 | 2026-11-04 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 19 | ⭐ 139,731 | 2026-08-01 | 2026-11-05 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 17 | ⭐ 243,012 | 2026-08-01 | 2026-09-07 |
+| [krahets/hello-algo](../repos/krahets/hello-algo.md) | 17 | ⭐ 132,217 | 2026-08-04 | 2026-11-11 |
 | [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 17 | ⭐ 65,960 | 2026-08-22 | 2026-10-14 |
+| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 16 | ⭐ 68,655 | 2026-08-03 | 2026-11-11 |
 | [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 16 | ⭐ 52,636 | 2026-08-03 | 2026-10-18 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | 16 | ⭐ 117,829 | 2026-08-08 | 2026-10-28 |
-| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 15 | ⭐ 64,593 | 2026-08-03 | 2026-10-28 |
 | [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | 15 | ⭐ 46,607 | 2026-08-07 | 2026-11-09 |
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 14 | ⭐ 104,830 | 2026-08-01 | 2026-10-27 |
-| [llm-d/llm-d](../repos/llm-d/llm-d.md) | 14 | ⭐ 4,651 | 2026-08-01 | 2026-09-24 |
 
 ---
 
@@ -184,6 +184,7 @@
 - [alirezarezvani/claude-skills](../repos/alirezarezvani/claude-skills.md) - 380 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 380+ skills, cu...
 - [harvard-edge/cs249r_book](../repos/harvard-edge/cs249r_book.md) - Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard...
 - [spesmilo/electrum](../repos/spesmilo/electrum.md) - Electrum Bitcoin Wallet
+- [krahets/hello-algo](../repos/krahets/hello-algo.md) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Ru...
 - [github/copilot-cli](../repos/github/copilot-cli.md) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
 - [roboflow/supervision](../repos/roboflow/supervision.md) - We write your reusable computer vision tools. 💜
 - [Comfy-Org/workflow_templates](../repos/Comfy-Org/workflow_templates.md) - ComfyUI template workflows
@@ -229,8 +230,7 @@
 - [LLMQuant/quant-mind](../repos/LLMQuant/quant-mind.md) - QuantMind is an agent-native knowledge extraction and retrieval framework for quantitative finance.
 - [AWeirdDev/flights](../repos/AWeirdDev/flights.md) - Fast, robust Google Flights scraper (API) for Python. (Probably)
 - [cactus-compute/needle](../repos/cactus-compute/needle.md) - Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction a...
-- [NVlabs/GR00T-WholeBodyControl](../repos/NVlabs/GR00T-WholeBodyControl.md) - Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deployin...
 
 ---
 
-*Last updated: 2026-11-10T21:00:56.583Z*
+*Last updated: 2026-11-11T21:00:51.679Z*

@@ -1,6 +1,6 @@
 # PenglongHuang&#x2F;chinese-novelist-skill
 
-> 🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜AI novel writing skill
+> 🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜🤝 Infistar.cc 赞助 · 注册送 $5｜AI novel writing skill
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;PenglongHuang&#x2F;chinese-novelist-skill) 
 
@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | Python |
+| **Language** | JavaScript |
 | **License** | MIT |
-| **Stars** | ⭐ 3,100 |
-| **Forks** | 🍴 451 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 4,793 |
+| **Forks** | 🍴 650 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 19, 2026 |
-| **Last Seen** | Sep 19, 2026 |
+| **Last Seen** | Nov 11, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Python or agent*
+*Similar: Check repositories in JavaScript or agent*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -81,15 +81,15 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in Python
+- Check similar projects in JavaScript
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-10T21:01:02.366Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-11-11T21:00:55.279Z*  
+*Data from 2 trending reports*
