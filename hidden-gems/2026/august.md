@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 127
+**Gems Found**: 117
 
 ---
 
@@ -119,7 +119,7 @@
 |---|---|
 | ⭐ **Stars** | 3,033 |
 | 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 76/100 |
+| 🏆 **Gem Score** | 75/100 |
 | 📈 **Trending Days** | 3 |
 | 📅 **First Seen** | Aug 20, 2026 |
 
@@ -351,27 +351,7 @@
 
 ---
 
-### 18. [krillinai&#x2F;KrillinAI](../../repos/krillinai/KrillinAI.md)
-
-**AI video translation &amp; dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTube, TikTok, Bilibili, Douyin, and more.AI视频翻译配音工具，面向人类与AI Agent，100+语言全链路，CLI分阶段调用，适配抖音、小红书、哔哩哔哩、视频号、TikTok、YouTube**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 11,134 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 70/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 3, 2026 |
-
-**Why it's a gem**: High growth velocity (+84 stars&#x2F;day) • Trending 4 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/krillinai/KrillinAI.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;krillinai&#x2F;KrillinAI)
-
----
-
-### 19. [microsoft&#x2F;intelligent-terminal](../../repos/microsoft/intelligent-terminal.md)
+### 18. [microsoft&#x2F;intelligent-terminal](../../repos/microsoft/intelligent-terminal.md)
 
 **A fork of Windows Terminal with native agent integration, right in your command line.**
 
@@ -391,7 +371,7 @@
 
 ---
 
-### 20. [worldwonderer&#x2F;oh-story-claudecode](../../repos/worldwonderer/oh-story-claudecode.md)
+### 19. [worldwonderer&#x2F;oh-story-claudecode](../../repos/worldwonderer/oh-story-claudecode.md)
 
 **网文&#x2F;小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-form web fiction.**
 
@@ -399,7 +379,7 @@
 |---|---|
 | ⭐ **Stars** | 5,980 |
 | 💻 **Language** | JavaScript |
-| 🏆 **Gem Score** | 69/100 |
+| 🏆 **Gem Score** | 68/100 |
 | 📈 **Trending Days** | 2 |
 | 📅 **First Seen** | Aug 4, 2026 |
 
@@ -408,6 +388,26 @@
 **Best for**: 
 
 [View Passport](../../repos/worldwonderer/oh-story-claudecode.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;worldwonderer&#x2F;oh-story-claudecode)
+
+---
+
+### 20. [NVIDIA-NeMo&#x2F;Switchyard](../../repos/NVIDIA-NeMo/Switchyard.md)
+
+**Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost&#x2F;performance optimization.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,565 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 68/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 12, 2026 |
+
+**Why it's a gem**: High growth velocity (+412 stars&#x2F;day) • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/NVIDIA-NeMo/Switchyard.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;NVIDIA-NeMo&#x2F;Switchyard)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-11T21:00:56.163Z*  
+*Generated: 2026-11-12T21:01:11.888Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 320
+- **Total Repositories**: 323
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-07
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dream-num/univer](../repos/dream-num/univer.md) | ⭐ 23,172 | 2026-08-05 | 8 |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 55,167 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [garrytan/gbrain](../repos/garrytan/gbrain.md) | ⭐ 32,683 | 2026-08-11 | 6 |
+| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,066 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-labs-code/stitch-skills](../repos/google-labs-code/stitch-skills.md) | ⭐ 8,739 | 2026-08-22 | 6 |
+| [gitroomhq/postiz-app](../repos/gitroomhq/postiz-app.md) | ⭐ 41,461 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [backnotprop/plannotator](../repos/backnotprop/plannotator.md) | ⭐ 10,047 | 2026-08-26 | 8 |
+| [angular/angular](../repos/angular/angular.md) | ⭐ 101,484 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenCTI-Platform/opencti](../repos/OpenCTI-Platform/opencti.md) | ⭐ 10,340 | 2026-09-29 | 2 |
+| [QwenLM/qwen-code](../repos/QwenLM/qwen-code.md) | ⭐ 29,736 | 2026-08-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex-security](../repos/openai/codex-security.md) | ⭐ 11,631 | 2026-10-08 | 2 |
+| [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 210,322 | 2026-08-11 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ranxianglei/billion-context](../repos/ranxianglei/billion-context.md) | ⭐ 6,808 | 2026-10-12 | 10 |
+| [every-app/open-seo](../repos/every-app/open-seo.md) | ⭐ 27,480 | 2026-08-14 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LibreSpark/LibreTV](../repos/LibreSpark/LibreTV.md) | ⭐ 24,455 | 2026-10-16 | 2 |
+| [google-labs-code/stitch-skills](../repos/google-labs-code/stitch-skills.md) | ⭐ 8,751 | 2026-08-22 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [meta/astryx](../repos/meta/astryx.md) | ⭐ 24,754 | 2026-11-06 | 6 |
+| [elder-plinius/G0DM0D3](../repos/elder-plinius/G0DM0D3.md) | ⭐ 12,242 | 2026-10-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WhiteTowerAI/ohmygame](../repos/WhiteTowerAI/ohmygame.md) | ⭐ 2,103 | 2026-11-10 | 2 |
+| [openai/codex-security](../repos/openai/codex-security.md) | ⭐ 12,321 | 2026-10-08 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [apify/apify-mcp-server](../repos/apify/apify-mcp-server.md) | ⭐ 11,224 | 2026-10-13 | The Apify MCP server enables your AI agents to extract data from social media, search engines, ma... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Twigpine/openclaude](../repos/Twigpine/openclaude.md) | ⭐ 33,827 | 2026-10-13 | runs anywhere. uses anything |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nestjs/nest](../repos/nestjs/nest.md) | ⭐ 76,848 | 2026-10-14 | A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-sid... |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [superdesigndev/superdesign](../repos/superdesigndev/superdesign.md) | ⭐ 7,429 | 2026-10-16 | AI Product Design Agent - Open Source |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [elie222/rakazo](../repos/elie222/rakazo.md) | ⭐ 7,688 | 2026-10-17 | Open-source Grok Bot alternative. Choose your own model and sandbox. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [OpenBMB/PilotDeck](../repos/OpenBMB/PilotDeck.md) | ⭐ 4,576 | 2026-10-17 | Task-oriented AI Agent productivity platform |
 
 
 ---
@@ -90,7 +90,7 @@
 |------------|-------|------------|---------------|
 | [morluto/rea](../repos/morluto/rea.md) | ⭐ 440,692 | 2026-10-06 | 11 |
 | [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 212,590 | 2026-08-04 | 2 |
-| [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 208,895 | 2026-08-11 | 7 |
+| [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 210,322 | 2026-08-11 | 8 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 195,293 | 2026-08-07 | 8 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 195,138 | 2026-07-30 | 9 |
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 158,228 | 2026-09-01 | 4 |
@@ -103,7 +103,7 @@
 | [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 116,129 | 2026-08-07 | 12 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 110,330 | 2026-08-02 | 11 |
 | [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 108,379 | 2026-08-23 | 2 |
-| [angular/angular](../repos/angular/angular.md) | ⭐ 101,466 | 2026-08-04 | 6 |
+| [angular/angular](../repos/angular/angular.md) | ⭐ 101,484 | 2026-08-04 | 7 |
 | [microsoft/playwright](../repos/microsoft/playwright.md) | ⭐ 98,817 | 2026-10-15 | 2 |
 | [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 98,649 | 2026-08-04 | 6 |
 | [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | 2026-08-22 | 1 |
@@ -123,7 +123,7 @@
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 20 | ⭐ 78,178 | 2026-08-10 | 2026-10-21 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 19 | ⭐ 48,123 | 2026-08-01 | 2026-11-05 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 19 | ⭐ 140,636 | 2026-08-02 | 2026-11-07 |
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 14 | ⭐ 54,366 | 2026-08-01 | 2026-10-28 |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 15 | ⭐ 55,167 | 2026-08-01 | 2026-11-12 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 14 | ⭐ 34,200 | 2026-08-02 | 2026-10-03 |
 
 ---
@@ -144,6 +144,7 @@
 - [pingdotgg/t3code](../repos/pingdotgg/t3code.md) - 
 - [continuedev/continue](../repos/continuedev/continue.md) - open-source coding agent
 - [portainer/portainer](../repos/portainer/portainer.md) - Making Docker and Kubernetes management easy.
+- [appwrite/appwrite](../repos/appwrite/appwrite.md) - The open-source cloud for agents &amp; devs. Including Auth, Databases, Storage, Functions, Messaging...
 - [podman-desktop/podman-desktop](../repos/podman-desktop/podman-desktop.md) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for d...
 - [actions/checkout](../repos/actions/checkout.md) - Action for checking out a repo
 - [Narcooo/inkos](../repos/Narcooo/inkos.md) - Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content
@@ -229,8 +230,7 @@
 - [every-app/open-seo](../repos/every-app/open-seo.md) - Open source alternative to Semrush and Ahrefs
 - [documenso/documenso](../repos/documenso/documenso.md) - The Open Source DocuSign Alternative.
 - [vercel-labs/deepsec](../repos/vercel-labs/deepsec.md) - Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
-- [upscayl/upscayl](../repos/upscayl/upscayl.md) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 
 ---
 
-*Last updated: 2026-11-11T21:00:51.694Z*
+*Last updated: 2026-11-12T21:01:04.861Z*

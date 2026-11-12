@@ -1,6 +1,6 @@
 # NapNeko&#x2F;NapCatQQ
 
-> Modern protocol-side framework based on NTQQ
+> Modern protocol-side framework
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;NapNeko&#x2F;NapCatQQ) 
 
@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | TypeScript |
-| **License** | Other |
-| **Stars** | ⭐ 12,689 |
-| **Forks** | 🍴 1,722 |
-| **Trending Days** | 1 |
+| **Language** | Unknown |
+| **License** | Not specified |
+| **Stars** | ⭐ 12,762 |
+| **Forks** | 🍴 1,892 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Nov 11, 2026 |
-| **Last Seen** | Nov 11, 2026 |
+| **Last Seen** | Nov 12, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in TypeScript or napcat*
+*Similar: Check repositories in Unknown or napcat*
 
 ---
 
@@ -47,15 +47,15 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
-- **Longest Streak**: 1 days
+- **Trending Days**: 2
+- **Longest Streak**: 2 days
 
 ---
 
 ## Categories
 
 ### Topics
-[`napcat`](../../topics/napcat.md) [`ncqq`](../../topics/ncqq.md) [`ntqq`](../../topics/ntqq.md) [`onebot`](../../topics/onebot.md) [`onebot11`](../../topics/onebot11.md) 
+[`napcat`](../../topics/napcat.md) [`ncqq`](../../topics/ncqq.md) [`onebot`](../../topics/onebot.md) [`onebot11`](../../topics/onebot11.md) 
 
 ### Curated Categories
 `Systems Programming` `Automation` 
@@ -81,15 +81,15 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in TypeScript
+- Check similar projects in this category
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 40&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-11T21:00:55.986Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-11-12T21:01:11.565Z*  
+*Data from 2 trending reports*

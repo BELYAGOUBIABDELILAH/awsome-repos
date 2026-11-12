@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | Other |
-| **Stars** | ⭐ 9,433 |
-| **Forks** | 🍴 702 |
-| **Trending Days** | 15 |
+| **Stars** | ⭐ 10,031 |
+| **Forks** | 🍴 707 |
+| **Trending Days** | 16 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Nov 9, 2026 |
+| **Last Seen** | Nov 12, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 15
+- **Trending Days**: 16
 - **Longest Streak**: 4 days
 
 ---
@@ -69,8 +69,8 @@
 | Aspect | Rating | Details |
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
-| **Documentation** | Limited | May require reading source code |
-| **Community** | Small | Niche but dedicated community |
+| **Documentation** | Average | Basic documentation available |
+| **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-11T21:00:53.178Z*  
-*Data from 15 trending reports*
+*Last updated: 2026-11-12T21:01:07.570Z*  
+*Data from 16 trending reports*

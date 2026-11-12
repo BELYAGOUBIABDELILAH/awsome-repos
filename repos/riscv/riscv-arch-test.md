@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Assembly |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 809 |
-| **Forks** | 🍴 382 |
-| **Trending Days** | 46 |
+| **Stars** | ⭐ 811 |
+| **Forks** | 🍴 383 |
+| **Trending Days** | 47 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Nov 11, 2026 |
+| **Last Seen** | Nov 12, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 46
+- **Trending Days**: 47
 - **Longest Streak**: 8 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 809+ stars, strong contributor base |
+| **Community** | Very Active | 811+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-11T21:00:53.334Z*  
-*Data from 46 trending reports*
+*Last updated: 2026-11-12T21:01:07.801Z*  
+*Data from 47 trending reports*

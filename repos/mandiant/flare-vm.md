@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | PowerShell |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 9,292 |
-| **Forks** | 🍴 1,131 |
-| **Trending Days** | 22 |
+| **Stars** | ⭐ 9,317 |
+| **Forks** | 🍴 1,127 |
+| **Trending Days** | 23 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 6, 2026 |
-| **Last Seen** | Nov 5, 2026 |
+| **Last Seen** | Nov 12, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 22
+- **Trending Days**: 23
 - **Longest Streak**: 4 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-11T21:00:53.796Z*  
-*Data from 22 trending reports*
+*Last updated: 2026-11-12T21:01:08.520Z*  
+*Data from 23 trending reports*

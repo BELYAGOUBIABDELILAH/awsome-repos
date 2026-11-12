@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | R |
 | **License** | Other |
-| **Stars** | ⭐ 1,445 |
-| **Forks** | 🍴 417 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 1,446 |
+| **Forks** | 🍴 416 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Nov 6, 2026 |
-| **Last Seen** | Nov 6, 2026 |
+| **Last Seen** | Nov 12, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-11T21:00:55.933Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-11-12T21:01:11.483Z*  
+*Data from 2 trending reports*

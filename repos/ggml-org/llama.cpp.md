@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C++ |
 | **License** | MIT |
-| **Stars** | ⭐ 134,149 |
-| **Forks** | 🍴 25,437 |
-| **Trending Days** | 36 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 134,476 |
+| **Forks** | 🍴 25,502 |
+| **Trending Days** | 37 |
+| **Peak Rank** | #13 |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 11, 2026 |
+| **Last Seen** | Nov 12, 2026 |
 
 
 ---
@@ -43,11 +43,12 @@
 
 ## Trending Timeline
 
+**Nov 12, 2026** — Rank #13 (+287 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 36
+- **Peak Rank**: #13
+- **Trending Days**: 37
 - **Longest Streak**: 3 days
 
 ---
@@ -70,7 +71,7 @@
 |--------|--------|---------|
 | **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 134,149+ stars, strong contributor base |
+| **Community** | Very Active | 134,476+ stars, strong contributor base |
 | **Maturity** | Stable | Mature with proven track record |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
@@ -86,10 +87,10 @@
 #### Metrics
 - **Hidden Gem**: ✗ No
 - **Trending Score**: 100&#x2F;100
-- **Historical Rank**: No ranking data
+- **Historical Rank**: Peak: #13
 
 
 ---
 
-*Last updated: 2026-11-11T21:00:52.889Z*  
-*Data from 36 trending reports*
+*Last updated: 2026-11-12T21:01:07.131Z*  
+*Data from 37 trending reports*

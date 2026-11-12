@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Objective-C |
 | **License** | Other |
-| **Stars** | ⭐ 940 |
-| **Forks** | 🍴 6,286 |
-| **Trending Days** | 4 |
+| **Stars** | ⭐ 943 |
+| **Forks** | 🍴 6,303 |
+| **Trending Days** | 5 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Nov 8, 2026 |
-| **Last Seen** | Nov 11, 2026 |
+| **Last Seen** | Nov 12, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 4
-- **Longest Streak**: 4 days
+- **Trending Days**: 5
+- **Longest Streak**: 5 days
 
 ---
 
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 940+ stars, strong contributor base |
+| **Community** | Very Active | 943+ stars, strong contributor base |
 | **Maturity** | Experimental | New project, evolving rapidly |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 80&#x2F;100
+- **Trending Score**: 100&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-11T21:00:55.970Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-11-12T21:01:11.537Z*  
+*Data from 5 trending reports*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 331
+- **Total Repositories**: 335
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-03
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 110,002 | 2026-08-02 | 10 |
+| [openai/whisper](../repos/openai/whisper.md) | ⭐ 112,593 | 2026-07-31 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | ⭐ 68,655 | 2026-08-03 | 16 |
+| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 168,915 | 2026-07-31 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 132,217 | 2026-08-04 | 17 |
+| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 67,433 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZhuLinsen/daily_stock_analysis](../repos/ZhuLinsen/daily_stock_analysis.md) | ⭐ 70,102 | 2026-08-09 | 9 |
+| [figma/mcp-server-guide](../repos/figma/mcp-server-guide.md) | ⭐ 2,180 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 193,049 | 2026-08-11 | 13 |
+| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | ⭐ 69,179 | 2026-08-03 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sgl-project/sglang-omni](../repos/sgl-project/sglang-omni.md) | ⭐ 1,758 | 2026-08-15 | 4 |
+| [ZhuLinsen/daily_stock_analysis](../repos/ZhuLinsen/daily_stock_analysis.md) | ⭐ 71,066 | 2026-08-09 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 120,731 | 2026-08-20 | 10 |
+| [NVIDIA/SkillSpector](../repos/NVIDIA/SkillSpector.md) | ⭐ 25,668 | 2026-09-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-quickstarts](../repos/anthropics/claude-quickstarts.md) | ⭐ 20,755 | 2026-08-22 | 7 |
+| [rlaope/oh-my-hermes](../repos/rlaope/oh-my-hermes.md) | ⭐ 5,556 | 2026-09-14 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shy3130/tick-stock-panel](../repos/shy3130/tick-stock-panel.md) | ⭐ 7,604 | 2026-08-23 | 6 |
+| [fastapi/fastapi](../repos/fastapi/fastapi.md) | ⭐ 104,666 | 2026-10-19 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [experientiallabs/experiential](../repos/experientiallabs/experiential.md) | ⭐ 16,555 | 2026-09-06 | 6 |
+| [homeassistant-ai/ha-mcp](../repos/homeassistant-ai/ha-mcp.md) | ⭐ 7,675 | 2026-10-26 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [baidu/Unlimited-OCR](../repos/baidu/Unlimited-OCR.md) | ⭐ 29,734 | 2026-10-13 | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [rommapp/romm](../repos/rommapp/romm.md) | ⭐ 13,612 | 2026-10-13 | A beautiful, powerful, self-hosted ROM manager and player. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [1Panel-dev/MaxKB](../repos/1Panel-dev/MaxKB.md) | ⭐ 22,969 | 2026-10-13 | 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [isair/jarvis](../repos/isair/jarvis.md) | ⭐ 2,062 | 2026-10-14 | Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and ... |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Kruk2/jasna](../repos/Kruk2/jasna.md) | ⭐ 3,232 | 2026-10-18 | Video restoration tool |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [NVlabs/ASPIRE](../repos/NVlabs/ASPIRE.md) | ⭐ 753 | 2026-10-18 | ASPIRE: Agentic &#x2F;Skills Discovery for Robotics |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mozilla-ai/otari](../repos/mozilla-ai/otari.md) | ⭐ 653 | 2026-10-18 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [bobeff/open-source-games](../repos/bobeff/open-source-games.md) | ⭐ 17,817 | 2026-10-19 | A list of open source games. |
 
 
 ---
@@ -93,11 +93,12 @@
 | [vinta/awesome-python](../repos/vinta/awesome-python.md) | ⭐ 319,105 | 2026-09-07 | 1 |
 | [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 285,114 | 2026-08-08 | 4 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 243,012 | 2026-08-01 | 17 |
+| [TheAlgorithms/Python](../repos/TheAlgorithms/Python.md) | ⭐ 226,056 | 2026-11-12 | 1 |
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 198,857 | 2026-08-02 | 8 |
 | [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 193,049 | 2026-08-11 | 13 |
 | [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 189,013 | 2026-09-07 | 3 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,775 | 2026-08-06 | 9 |
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 167,557 | 2026-07-31 | 9 |
+| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 168,915 | 2026-07-31 | 10 |
 | [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 147,818 | 2026-08-14 | 13 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 143,038 | 2026-08-04 | 8 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 141,991 | 2026-08-05 | 13 |
@@ -106,8 +107,7 @@
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 132,217 | 2026-08-04 | 17 |
 | [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 120,731 | 2026-08-20 | 10 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 117,829 | 2026-08-08 | 16 |
-| [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 110,002 | 2026-08-02 | 10 |
-| [openai/whisper](../repos/openai/whisper.md) | ⭐ 108,616 | 2026-07-31 | 6 |
+| [openai/whisper](../repos/openai/whisper.md) | ⭐ 112,593 | 2026-07-31 | 7 |
 
 ---
 
@@ -118,9 +118,9 @@
 | [github/copilot-cli](../repos/github/copilot-cli.md) | 25 | ⭐ 11,351 | 2026-08-04 | 2026-11-04 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 19 | ⭐ 139,731 | 2026-08-01 | 2026-11-05 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 17 | ⭐ 243,012 | 2026-08-01 | 2026-09-07 |
+| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 17 | ⭐ 69,179 | 2026-08-03 | 2026-11-12 |
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | 17 | ⭐ 132,217 | 2026-08-04 | 2026-11-11 |
 | [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 17 | ⭐ 65,960 | 2026-08-22 | 2026-10-14 |
-| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 16 | ⭐ 68,655 | 2026-08-03 | 2026-11-11 |
 | [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 16 | ⭐ 52,636 | 2026-08-03 | 2026-10-18 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | 16 | ⭐ 117,829 | 2026-08-08 | 2026-10-28 |
 | [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | 15 | ⭐ 46,607 | 2026-08-07 | 2026-11-09 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-11T21:00:51.679Z*
+*Last updated: 2026-11-12T21:01:04.833Z*

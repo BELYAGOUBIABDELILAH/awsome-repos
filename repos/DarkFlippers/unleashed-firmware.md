@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 22,697 |
+| **Stars** | ⭐ 22,716 |
 | **Forks** | 🍴 1,984 |
-| **Trending Days** | 8 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 11, 2026 |
+| **Last Seen** | Nov 12, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 8
+- **Trending Days**: 9
 - **Longest Streak**: 2 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-11T21:00:52.905Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-11-12T21:01:07.158Z*  
+*Data from 9 trending reports*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Zig |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 7,841 |
-| **Forks** | 🍴 330 |
-| **Trending Days** | 57 |
+| **Stars** | ⭐ 7,845 |
+| **Forks** | 🍴 331 |
+| **Trending Days** | 58 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Nov 9, 2026 |
+| **Last Seen** | Nov 12, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 57
+- **Trending Days**: 58
 - **Longest Streak**: 11 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-11T21:00:53.322Z*  
-*Data from 57 trending reports*
+*Last updated: 2026-11-12T21:01:07.785Z*  
+*Data from 58 trending reports*

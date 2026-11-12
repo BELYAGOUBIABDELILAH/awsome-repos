@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-11T21:00:56.293Z",
-  "total_repositories": 4511,
-  "trending_today": 325,
-  "new_this_month": 551,
+  "generated_at": "2026-11-12T21:01:12.090Z",
+  "total_repositories": 4534,
+  "trending_today": 337,
+  "new_this_month": 548,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-11-11",
+  "last_collection": "2026-11-12",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
@@ -12,13 +12,13 @@
   },
   "most_frequent": {
     "full_name": "apache/spark",
-    "trending_days": 83,
+    "trending_days": 84,
     "first_seen": "2026-08-01"
   },
   "newest_discovery": {
-    "full_name": "GoogleChrome/modern-web-guidance-src",
-    "stars": 1658,
-    "first_seen": "2026-11-11"
+    "full_name": "oaustegard/claude-skills",
+    "stars": 366,
+    "first_seen": "2026-11-12"
   },
   "fastest_growing": {
     "full_name": "different-ai/openwork",
@@ -26,11 +26,11 @@
     "growth_rate": 100,
     "first_seen": "2026-08-01"
   },
-  "total_stars": 60020548,
-  "avg_stars": 13305,
-  "avg_trending_days": 7,
+  "total_stars": 60348965,
+  "avg_stars": 13310,
+  "avg_trending_days": 7.1,
   "language_count": 62,
-  "topic_count": 11178,
+  "topic_count": 11218,
   "collection_success_rate": 100,
   "data_quality_score": 99
 }

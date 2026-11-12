@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Objective-C |
 | **License** | MIT |
-| **Stars** | ⭐ 1,185 |
-| **Forks** | 🍴 112 |
-| **Trending Days** | 1 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 1,491 |
+| **Forks** | 🍴 138 |
+| **Trending Days** | 2 |
+| **Peak Rank** | #4 |
 
 | **First Seen** | Nov 11, 2026 |
-| **Last Seen** | Nov 11, 2026 |
+| **Last Seen** | Nov 12, 2026 |
 
 
 ---
@@ -43,12 +43,13 @@
 
 ## Trending Timeline
 
+**Nov 12, 2026** — Rank #4 (+300 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
-- **Longest Streak**: 1 days
+- **Peak Rank**: #4
+- **Trending Days**: 2
+- **Longest Streak**: 2 days
 
 ---
 
@@ -85,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
-- **Historical Rank**: No ranking data
+- **Trending Score**: 40&#x2F;100
+- **Historical Rank**: Top 5 (Peak: #4)
 
 
 ---
 
-*Last updated: 2026-11-11T21:00:55.993Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-11-12T21:01:11.579Z*  
+*Data from 2 trending reports*

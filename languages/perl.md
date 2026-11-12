@@ -16,28 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,825 | 2026-08-01 | 61 |
+| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | ⭐ 519 | 2026-08-01 | 57 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | ⭐ 517 | 2026-08-01 | 56 |
+| [znuny/Znuny](../repos/znuny/Znuny.md) | ⭐ 613 | 2026-08-01 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [znuny/Znuny](../repos/znuny/Znuny.md) | ⭐ 613 | 2026-08-01 | 29 |
+| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,258 | 2026-08-01 | 66 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,542 | 2026-08-01 | 45 |
+| [yaml/yaml-test-suite](../repos/yaml/yaml-test-suite.md) | ⭐ 276 | 2026-08-02 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,254 | 2026-08-01 | 65 |
+| [holzschu/a-shell](../repos/holzschu/a-shell.md) | ⭐ 4,017 | 2026-08-02 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [holzschu/a-shell](../repos/holzschu/a-shell.md) | ⭐ 4,016 | 2026-08-02 | 32 |
+| [docker-library/repo-info](../repos/docker-library/repo-info.md) | ⭐ 612 | 2026-09-12 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Perl/perl5](../repos/Perl/perl5.md) | ⭐ 2,359 | 2026-08-03 | 36 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [docker-library/repo-info](../repos/docker-library/repo-info.md) | ⭐ 612 | 2026-09-12 | 6 |
+| [brucemiller/LaTeXML](../repos/brucemiller/LaTeXML.md) | ⭐ 1,325 | 2026-11-06 | 2 |
 
 
 ---
@@ -46,7 +43,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [brucemiller/LaTeXML](../repos/brucemiller/LaTeXML.md) | ⭐ 1,323 | 2026-11-06 | LaTeXML: a TeX and LaTeX to XML&#x2F;HTML&#x2F;ePub&#x2F;MathML translator. |
+| [brucemiller/LaTeXML](../repos/brucemiller/LaTeXML.md) | ⭐ 1,325 | 2026-11-06 | LaTeXML: a TeX and LaTeX to XML&#x2F;HTML&#x2F;ePub&#x2F;MathML translator. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [PDLPorters/pdl](../repos/PDLPorters/pdl.md) | ⭐ 105 | 2026-11-06 | Scientific computing with Perl |
@@ -61,8 +58,8 @@
 | [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,825 | 2026-08-01 | 61 |
 | [so-fancy/diff-so-fancy](../repos/so-fancy/diff-so-fancy.md) | ⭐ 18,090 | 2026-09-07 | 1 |
 | [major/MySQLTuner-perl](../repos/major/MySQLTuner-perl.md) | ⭐ 9,477 | 2026-09-04 | 5 |
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,254 | 2026-08-01 | 65 |
-| [holzschu/a-shell](../repos/holzschu/a-shell.md) | ⭐ 4,016 | 2026-08-02 | 32 |
+| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,258 | 2026-08-01 | 66 |
+| [holzschu/a-shell](../repos/holzschu/a-shell.md) | ⭐ 4,017 | 2026-08-02 | 33 |
 | [rsnapshot/rsnapshot](../repos/rsnapshot/rsnapshot.md) | ⭐ 3,683 | 2026-09-21 | 1 |
 | [ddclient/ddclient](../repos/ddclient/ddclient.md) | ⭐ 3,517 | 2026-08-10 | 5 |
 | [mojolicious/mojo](../repos/mojolicious/mojo.md) | ⭐ 2,758 | 2026-10-09 | 8 |
@@ -72,7 +69,7 @@
 | [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | ⭐ 1,712 | 2026-08-01 | 39 |
 | [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,542 | 2026-08-01 | 45 |
 | [mrash/fwknop](../repos/mrash/fwknop.md) | ⭐ 1,441 | 2026-08-22 | 3 |
-| [brucemiller/LaTeXML](../repos/brucemiller/LaTeXML.md) | ⭐ 1,323 | 2026-11-06 | 1 |
+| [brucemiller/LaTeXML](../repos/brucemiller/LaTeXML.md) | ⭐ 1,325 | 2026-11-06 | 2 |
 | [asbru-cm/asbru-cm](../repos/asbru-cm/asbru-cm.md) | ⭐ 1,294 | 2026-08-03 | 3 |
 | [lm-sensors/lm-sensors](../repos/lm-sensors/lm-sensors.md) | ⭐ 1,152 | 2026-08-01 | 14 |
 | [aspiers/stow](../repos/aspiers/stow.md) | ⭐ 1,124 | 2026-08-26 | 3 |
@@ -85,16 +82,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | 65 | ⭐ 5,254 | 2026-08-01 | 2026-11-11 |
+| [exiftool/exiftool](../repos/exiftool/exiftool.md) | 66 | ⭐ 5,258 | 2026-08-01 | 2026-11-12 |
 | [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | 61 | ⭐ 19,825 | 2026-08-01 | 2026-11-11 |
-| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | 56 | ⭐ 517 | 2026-08-01 | 2026-11-11 |
+| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | 57 | ⭐ 519 | 2026-08-01 | 2026-11-12 |
 | [OpenKore/openkore](../repos/OpenKore/openkore.md) | 45 | ⭐ 1,542 | 2026-08-01 | 2026-11-11 |
 | [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | 39 | ⭐ 1,712 | 2026-08-01 | 2026-11-06 |
 | [Perl/perl5](../repos/Perl/perl5.md) | 36 | ⭐ 2,359 | 2026-08-03 | 2026-11-11 |
-| [yaml/yaml-test-suite](../repos/yaml/yaml-test-suite.md) | 33 | ⭐ 274 | 2026-08-02 | 2026-11-10 |
+| [yaml/yaml-test-suite](../repos/yaml/yaml-test-suite.md) | 34 | ⭐ 276 | 2026-08-02 | 2026-11-12 |
+| [holzschu/a-shell](../repos/holzschu/a-shell.md) | 33 | ⭐ 4,017 | 2026-08-02 | 2026-11-12 |
 | [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 32 | ⭐ 2,680 | 2026-08-01 | 2026-09-14 |
-| [holzschu/a-shell](../repos/holzschu/a-shell.md) | 32 | ⭐ 4,016 | 2026-08-02 | 2026-11-11 |
-| [znuny/Znuny](../repos/znuny/Znuny.md) | 29 | ⭐ 613 | 2026-08-01 | 2026-11-11 |
+| [znuny/Znuny](../repos/znuny/Znuny.md) | 30 | ⭐ 613 | 2026-08-01 | 2026-11-12 |
 
 ---
 
@@ -144,4 +141,4 @@
 
 ---
 
-*Last updated: 2026-11-11T21:00:51.676Z*
+*Last updated: 2026-11-12T21:01:04.828Z*

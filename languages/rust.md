@@ -16,28 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 49,795 | 2026-08-02 | 22 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 121,842 | 2026-07-30 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 40,328 | 2026-08-05 | 7 |
+| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 91,951 | 2026-07-31 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 104,032 | 2026-08-09 | 25 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 50,290 | 2026-08-02 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ShayanAbbas1/dbdelve](../repos/ShayanAbbas1/dbdelve.md) | ⭐ 1,089 | 2026-10-27 | 2 |
+| [zellij-org/zellij](../repos/zellij-org/zellij.md) | ⭐ 36,036 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ja7ad/hydra](../repos/ja7ad/hydra.md) | ⭐ 1,408 | 2026-11-11 | 1 |
+| [ShayanAbbas1/dbdelve](../repos/ShayanAbbas1/dbdelve.md) | ⭐ 1,211 | 2026-10-27 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Universal-Debloater-Alliance/universal-android-debloater-next-generation](../repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation.md) | ⭐ 10,027 | 2026-11-09 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [raphaelmansuy/edgequake](../repos/raphaelmansuy/edgequake.md) | ⭐ 2,236 | 2026-10-13 | EdegQuake 🌋 High-performance GraphRAG inspired from LightRag written in Rust; Transform document... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [vosen/ZLUDA](../repos/vosen/ZLUDA.md) | ⭐ 15,052 | 2026-10-14 | CUDA on non-NVIDIA GPUs |
@@ -65,6 +65,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Jamailar/Beav](../repos/Jamailar/Beav.md) | ⭐ 2,089 | 2026-10-20 | 小红书 AI 运营工作台｜小红书采集、评论区下载、素材库、选题、AI写作、小红书全域解决方案，开箱即用，一键安装，小红书AI工作台，自媒体素材库，AI写作+图片自动编排，小红书版OpenClaw... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [trymirai/uzu](../repos/trymirai/uzu.md) | ⭐ 3,037 | 2026-10-21 | A high-performance inference engine for AI models |
 
 
 ---
@@ -74,12 +77,12 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [openai/codex](../repos/openai/codex.md) | ⭐ 133,337 | 2026-08-01 | 19 |
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 121,599 | 2026-07-30 | 13 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 121,842 | 2026-07-30 | 14 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,907 | 2026-07-30 | 5 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 104,032 | 2026-08-09 | 25 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 103,801 | 2026-08-05 | 29 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 96,635 | 2026-08-11 | 10 |
-| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 91,737 | 2026-07-31 | 8 |
+| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 91,951 | 2026-07-31 | 9 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 67,032 | 2026-08-05 | 13 |
@@ -89,7 +92,7 @@
 | [rust-unofficial/awesome-rust](../repos/rust-unofficial/awesome-rust.md) | ⭐ 59,459 | 2026-09-03 | 3 |
 | [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 55,699 | 2026-08-19 | 6 |
 | [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 51,108 | 2026-08-12 | 7 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 49,795 | 2026-08-02 | 22 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 50,290 | 2026-08-02 | 23 |
 | [herdrdev/herdr](../repos/herdrdev/herdr.md) | ⭐ 49,394 | 2026-11-03 | 2 |
 | [bevyengine/bevy](../repos/bevyengine/bevy.md) | ⭐ 48,449 | 2026-08-28 | 3 |
 | [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 46,418 | 2026-08-28 | 2 |
@@ -102,7 +105,7 @@
 |------------|---------------|-------|------------|-----------|
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 29 | ⭐ 103,801 | 2026-08-05 | 2026-11-05 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 25 | ⭐ 104,032 | 2026-08-09 | 2026-11-11 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 22 | ⭐ 49,795 | 2026-08-02 | 2026-11-11 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 23 | ⭐ 50,290 | 2026-08-02 | 2026-11-12 |
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 22 | ⭐ 24,202 | 2026-08-08 | 2026-10-25 |
 | [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 20 | ⭐ 11,934 | 2026-08-26 | 2026-11-07 |
 | [openai/codex](../repos/openai/codex.md) | 19 | ⭐ 133,337 | 2026-08-01 | 2026-11-05 |
@@ -218,4 +221,4 @@
 
 ---
 
-*Last updated: 2026-11-11T21:00:51.685Z*
+*Last updated: 2026-11-12T21:01:04.845Z*

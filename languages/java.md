@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 227
+- **Total Repositories**: 228
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-10
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,969 | 2026-08-04 | 12 |
+| [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | ⭐ 30,271 | 2026-08-02 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 6,334 | 2026-08-05 | 33 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,673 | 2026-08-02 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 48,427 | 2026-08-07 | 12 |
+| [TGX-Android/Telegram-X](../repos/TGX-Android/Telegram-X.md) | ⭐ 6,193 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,311 | 2026-08-08 | 12 |
+| [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 67,207 | 2026-08-04 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zaproxy/zaproxy](../repos/zaproxy/zaproxy.md) | ⭐ 16,168 | 2026-08-12 | 5 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,904 | 2026-08-04 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/kafka](../repos/apache/kafka.md) | ⭐ 34,210 | 2026-08-12 | 18 |
+| [apache/flink](../repos/apache/flink.md) | ⭐ 26,468 | 2026-08-04 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/fineract](../repos/apache/fineract.md) | ⭐ 2,621 | 2026-08-27 | 8 |
+| [openjdk/jdk](../repos/openjdk/jdk.md) | ⭐ 23,523 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jenkinsci/jenkins](../repos/jenkinsci/jenkins.md) | ⭐ 26,763 | 2026-09-01 | 8 |
+| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 43,330 | 2026-08-05 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iterate-ch/cyberduck](../repos/iterate-ch/cyberduck.md) | ⭐ 4,909 | 2026-09-08 | 3 |
+| [xuxueli/xxl-job](../repos/xuxueli/xxl-job.md) | ⭐ 30,662 | 2026-08-05 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mlmvpn/mlmvpn_android](../repos/mlmvpn/mlmvpn_android.md) | ⭐ 689 | 2026-09-29 | 7 |
+| [microg/GmsCore](../repos/microg/GmsCore.md) | ⭐ 15,287 | 2026-08-06 | 21 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [apache/calcite](../repos/apache/calcite.md) | ⭐ 5,193 | 2026-10-13 | Apache Calcite |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [apache/shenyu](../repos/apache/shenyu.md) | ⭐ 8,891 | 2026-10-18 | Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governa... |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [castorini/anserini](../repos/castorini/anserini.md) | ⭐ 1,225 | 2026-11-05 | Anserini is a Lucene toolkit for reproducible information retrieval research |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jetty/jetty.project](../repos/jetty/jetty.project.md) | ⭐ 4,096 | 2026-11-06 | Eclipse Jetty® - Web Container &amp; Clients - supports HTTP&#x2F;3, HTTP&#x2F;2, HTTP&#x2F;1, websocket, servlets, ... |
 
 
 ---
@@ -89,10 +89,10 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 99,333 | 2026-08-03 | 32 |
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,787 | 2026-08-04 | 22 |
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,509 | 2026-08-02 | 25 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,904 | 2026-08-04 | 23 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,673 | 2026-08-02 | 26 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
-| [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,969 | 2026-08-04 | 12 |
+| [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 67,207 | 2026-08-04 | 13 |
 | [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,508 | 2026-08-08 | 3 |
 | [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,311 | 2026-08-08 | 12 |
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 52,327 | 2026-08-04 | 15 |
@@ -100,7 +100,7 @@
 | [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 51,593 | 2026-08-12 | 12 |
 | [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 48,427 | 2026-08-07 | 12 |
 | [ReactiveX/RxJava](../repos/ReactiveX/RxJava.md) | ⭐ 48,208 | 2026-08-28 | 1 |
-| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 43,092 | 2026-08-05 | 20 |
+| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 43,330 | 2026-08-05 | 21 |
 | [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 40,546 | 2026-08-02 | 15 |
 | [halo-dev/halo](../repos/halo-dev/halo.md) | ⭐ 40,150 | 2026-08-22 | 5 |
 | [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 39,988 | 2026-08-06 | 13 |
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 33 | ⭐ 6,334 | 2026-08-05 | 2026-11-11 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 32 | ⭐ 99,333 | 2026-08-03 | 2026-11-10 |
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 25 | ⭐ 78,509 | 2026-08-02 | 2026-11-06 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 26 | ⭐ 78,673 | 2026-08-02 | 2026-11-12 |
 | [kestra-io/kestra](../repos/kestra-io/kestra.md) | 24 | ⭐ 30,163 | 2026-08-04 | 2026-11-06 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 23 | ⭐ 27,915 | 2026-08-02 | 2026-11-07 |
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 22 | ⭐ 81,787 | 2026-08-04 | 2026-11-07 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 23 | ⭐ 81,904 | 2026-08-04 | 2026-11-12 |
 | [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 21 | ⭐ 36,142 | 2026-08-04 | 2026-11-09 |
+| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 21 | ⭐ 43,330 | 2026-08-05 | 2026-11-12 |
+| [microg/GmsCore](../repos/microg/GmsCore.md) | 21 | ⭐ 15,287 | 2026-08-06 | 2026-11-12 |
 | [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | 21 | ⭐ 7,545 | 2026-08-14 | 2026-11-07 |
-| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 20 | ⭐ 43,092 | 2026-08-05 | 2026-11-05 |
-| [microg/GmsCore](../repos/microg/GmsCore.md) | 20 | ⭐ 15,255 | 2026-08-06 | 2026-11-09 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-11T21:00:51.656Z*
+*Last updated: 2026-11-12T21:01:04.769Z*

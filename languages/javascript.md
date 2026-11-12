@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 188
+- **Total Repositories**: 189
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-11-07
+- **Last Updated**: 2026-11-12
 
 ---
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 115,837 | 2026-08-05 | 36 |
+| [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,675 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/power-platform-skills](../repos/microsoft/power-platform-skills.md) | ⭐ 1,134 | 2026-08-07 | 11 |
+| [react/react](../repos/react/react.md) | ⭐ 252,553 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 34,116 | 2026-08-08 | 19 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 116,594 | 2026-08-05 | 37 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fishjar/kiss-translator](../repos/fishjar/kiss-translator.md) | ⭐ 13,297 | 2026-08-10 | 5 |
+| [OpenWhispr/openwhispr](../repos/OpenWhispr/openwhispr.md) | ⭐ 11,430 | 2026-08-29 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) | ⭐ 5,147 | 2026-08-14 | 10 |
+| [PenglongHuang/chinese-novelist-skill](../repos/PenglongHuang/chinese-novelist-skill.md) | ⭐ 4,824 | 2026-09-19 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chuspeeism/dashi-ppt-skill](../repos/chuspeeism/dashi-ppt-skill.md) | ⭐ 10,618 | 2026-08-20 | 7 |
+| [tiagozip/cap](../repos/tiagozip/cap.md) | ⭐ 8,359 | 2026-09-29 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kunchenguid/lavish-axi](../repos/kunchenguid/lavish-axi.md) | ⭐ 4,537 | 2026-08-24 | 3 |
+| [laoma528/awesome-zhuiju-free](../repos/laoma528/awesome-zhuiju-free.md) | ⭐ 15,409 | 2026-10-15 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PenglongHuang/chinese-novelist-skill](../repos/PenglongHuang/chinese-novelist-skill.md) | ⭐ 4,793 | 2026-09-19 | 2 |
+| [Orkas-AI/Orkas](../repos/Orkas-AI/Orkas.md) | ⭐ 9,302 | 2026-11-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tiagozip/cap](../repos/tiagozip/cap.md) | ⭐ 8,340 | 2026-09-29 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [songquanpeng/one-api](../repos/songquanpeng/one-api.md) | ⭐ 37,405 | 2026-10-09 | 2 |
+| [PavelDoGreat/WebGL-Fluid-Simulation](../repos/PavelDoGreat/WebGL-Fluid-Simulation.md) | ⭐ 16,835 | 2026-11-12 | 1 |
 
 
 ---
@@ -52,13 +49,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [truelockmc/streambert](../repos/truelockmc/streambert.md) | ⭐ 6,259 | 2026-10-13 | A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 59,798 | 2026-10-14 | jQuery JavaScript Library |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [laoma528/awesome-zhuiju-free](../repos/laoma528/awesome-zhuiju-free.md) | ⭐ 12,592 | 2026-10-15 | 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox &#x2F; 影视仓空壳软件&#x2F;配置地址、IPTV直播源、会员拼团、影视相关开源项... |
+| [laoma528/awesome-zhuiju-free](../repos/laoma528/awesome-zhuiju-free.md) | ⭐ 15,409 | 2026-10-15 | 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox &#x2F; 影视仓空壳软件&#x2F;配置地址、IPTV直播源、会员拼团、影视相关开源项... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [michael-denyer/pstack-claude](../repos/michael-denyer/pstack-claude.md) | ⭐ 4,042 | 2026-10-16 | Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of... |
@@ -80,6 +74,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [NomaDamas/CozyClay](../repos/NomaDamas/CozyClay.md) | ⭐ 886 | 2026-10-21 | Open source previs software in the browser: block a scene, pose characters, author camera moves a... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [xmanrui/dsh-im](../repos/xmanrui/dsh-im.md) | ⭐ 2,615 | 2026-10-21 | 通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect I... |
 
 
 ---
@@ -88,19 +85,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [react/react](../repos/react/react.md) | ⭐ 252,361 | 2026-08-04 | 7 |
+| [react/react](../repos/react/react.md) | ⭐ 252,553 | 2026-08-04 | 8 |
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | 2026-07-30 | 3 |
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 158,907 | 2026-08-06 | 4 |
 | [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | 2 |
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,323 | 2026-07-30 | 14 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 115,837 | 2026-08-05 | 36 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 116,594 | 2026-08-05 | 37 |
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,607 | 2026-08-06 | 3 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 90,383 | 2026-08-04 | 22 |
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 77,000 | 2026-08-09 | 2 |
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 70,243 | 2026-08-01 | 21 |
-| [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,576 | 2026-08-04 | 4 |
+| [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,675 | 2026-08-04 | 5 |
 | [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 69,110 | 2026-08-28 | 19 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,980 | 2026-08-04 | 4 |
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 64,117 | 2026-08-27 | 15 |
@@ -115,7 +112,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 36 | ⭐ 115,837 | 2026-08-05 | 2026-11-11 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 37 | ⭐ 116,594 | 2026-08-05 | 2026-11-12 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 32 | ⭐ 14,607 | 2026-08-02 | 2026-11-07 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 22 | ⭐ 90,383 | 2026-08-04 | 2026-10-27 |
 | [byoungd/up](../repos/byoungd/up.md) | 21 | ⭐ 70,243 | 2026-08-01 | 2026-11-07 |
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-11-11T21:00:51.658Z*
+*Last updated: 2026-11-12T21:01:04.773Z*

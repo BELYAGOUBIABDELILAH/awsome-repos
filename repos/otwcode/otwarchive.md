@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Ruby |
 | **License** | GPL-2.0 |
-| **Stars** | ⭐ 2,362 |
-| **Forks** | 🍴 888 |
-| **Trending Days** | 11 |
+| **Stars** | ⭐ 2,395 |
+| **Forks** | 🍴 894 |
+| **Trending Days** | 12 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 19, 2026 |
-| **Last Seen** | Nov 4, 2026 |
+| **Last Seen** | Nov 12, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 11
+- **Trending Days**: 12
 - **Longest Streak**: 3 days
 
 ---
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 2,362+ stars, strong contributor base |
+| **Community** | Very Active | 2,395+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-11T21:00:54.555Z*  
-*Data from 11 trending reports*
+*Last updated: 2026-11-12T21:01:09.415Z*  
+*Data from 12 trending reports*

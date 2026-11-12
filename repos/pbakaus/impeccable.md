@@ -82,7 +82,7 @@
 | **Documentation** | Excellent | Comprehensive guides and examples |
 | **Community** | Very Active | 103,801+ stars, strong contributor base |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Very Active | Updated within last week |
+| **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -101,5 +101,5 @@
 
 ---
 
-*Last updated: 2026-11-11T21:00:53.624Z*  
+*Last updated: 2026-11-12T21:01:08.254Z*  
 *Data from 29 trending reports*

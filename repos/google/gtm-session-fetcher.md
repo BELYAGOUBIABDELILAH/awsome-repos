@@ -13,12 +13,12 @@
 | **Language** | Objective-C |
 | **License** | Apache-2.0 |
 | **Stars** | ⭐ 292 |
-| **Forks** | 🍴 201 |
-| **Trending Days** | 55 |
+| **Forks** | 🍴 200 |
+| **Trending Days** | 56 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 7, 2026 |
+| **Last Seen** | Nov 12, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 55
+- **Trending Days**: 56
 - **Longest Streak**: 11 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Very Active | 292+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-11T21:00:53.066Z*  
-*Data from 55 trending reports*
+*Last updated: 2026-11-12T21:01:07.402Z*  
+*Data from 56 trending reports*

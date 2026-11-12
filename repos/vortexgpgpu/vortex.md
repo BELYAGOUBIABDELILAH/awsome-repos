@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Verilog |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 2,396 |
+| **Stars** | ⭐ 2,399 |
 | **Forks** | 🍴 575 |
-| **Trending Days** | 31 |
+| **Trending Days** | 32 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Nov 11, 2026 |
+| **Last Seen** | Nov 12, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 31
+- **Trending Days**: 32
 - **Longest Streak**: 6 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-11T21:00:53.616Z*  
-*Data from 31 trending reports*
+*Last updated: 2026-11-12T21:01:08.239Z*  
+*Data from 32 trending reports*

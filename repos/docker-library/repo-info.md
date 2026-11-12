@@ -14,11 +14,11 @@
 | **License** | Apache-2.0 |
 | **Stars** | ⭐ 612 |
 | **Forks** | 🍴 359 |
-| **Trending Days** | 6 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 12, 2026 |
-| **Last Seen** | Nov 11, 2026 |
+| **Last Seen** | Nov 12, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 6
-- **Longest Streak**: 1 days
+- **Trending Days**: 7
+- **Longest Streak**: 2 days
 
 ---
 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 95&#x2F;100
+- **Trending Score**: 100&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-11T21:00:55.229Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-11-12T21:01:10.410Z*  
+*Data from 7 trending reports*

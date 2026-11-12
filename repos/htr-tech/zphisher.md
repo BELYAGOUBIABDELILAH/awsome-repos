@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | HTML |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 17,200 |
-| **Forks** | 🍴 6,435 |
-| **Trending Days** | 12 |
+| **Stars** | ⭐ 17,228 |
+| **Forks** | 🍴 6,439 |
+| **Trending Days** | 13 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Nov 9, 2026 |
+| **Last Seen** | Nov 12, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 12
+- **Trending Days**: 13
 - **Longest Streak**: 3 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Average | Basic documentation available |
-| **Community** | Very Active | 17,200+ stars, strong contributor base |
+| **Community** | Very Active | 17,228+ stars, strong contributor base |
 | **Maturity** | Stable | Mature with proven track record |
 | **Maintenance** | Inactive | No recent updates |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-11T21:00:53.299Z*  
-*Data from 12 trending reports*
+*Last updated: 2026-11-12T21:01:07.751Z*  
+*Data from 13 trending reports*

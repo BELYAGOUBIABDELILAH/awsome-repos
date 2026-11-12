@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 155
+- **Total Repositories**: 156
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-02
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,912 | 2026-08-01 | 51 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,985 | 2026-08-01 | 52 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | ⭐ 10,306 | 2026-08-03 | 14 |
+| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,950 | 2026-08-04 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SimoneAvogadro/android-reverse-engineering-skill](../repos/SimoneAvogadro/android-reverse-engineering-skill.md) | ⭐ 8,701 | 2026-08-04 | 12 |
+| [bivlked/amneziawg-installer](../repos/bivlked/amneziawg-installer.md) | ⭐ 1,538 | 2026-08-25 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,945 | 2026-08-04 | 14 |
+| [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 5,433 | 2026-09-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 26,495 | 2026-08-04 | 14 |
+| [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,867 | 2026-09-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/skills](../repos/cloudflare/skills.md) | ⭐ 3,343 | 2026-08-05 | 16 |
+| [skills/introduction-to-git](../repos/skills/introduction-to-git.md) | ⭐ 276 | 2026-09-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wondelai/skills](../repos/wondelai/skills.md) | ⭐ 2,667 | 2026-08-14 | 6 |
+| [conda-forge/miniforge](../repos/conda-forge/miniforge.md) | ⭐ 10,364 | 2026-10-09 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DaoCloud/public-image-mirror](../repos/DaoCloud/public-image-mirror.md) | ⭐ 15,354 | 2026-08-14 | 4 |
+| [EpicGames/unreal-engine-skills-for-claude-code-plugin](../repos/EpicGames/unreal-engine-skills-for-claude-code-plugin.md) | ⭐ 1,957 | 2026-10-11 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,636 | 2026-08-20 | 17 |
+| [htr-tech/nexphisher](../repos/htr-tech/nexphisher.md) | ⭐ 3,939 | 2026-11-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 5,407 | 2026-09-01 | 13 |
+| [chefranov/mhi2-au37x-carplay](../repos/chefranov/mhi2-au37x-carplay.md) | ⭐ 141 | 2026-11-12 | 1 |
 
 
 ---
@@ -90,16 +90,16 @@
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,858 | 2026-08-07 | 4 |
 | [papers-we-love/papers-we-love](../repos/papers-we-love/papers-we-love.md) | ⭐ 110,960 | 2026-10-27 | 1 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,912 | 2026-08-01 | 51 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,985 | 2026-08-01 | 52 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,756 | 2026-08-04 | 10 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,702 | 2026-08-06 | 15 |
-| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,945 | 2026-08-04 | 14 |
+| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,950 | 2026-08-04 | 15 |
 | [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 46,666 | 2026-08-29 | 17 |
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
 | [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,866 | 2026-08-20 | 13 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 33,123 | 2026-08-02 | 22 |
-| [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,807 | 2026-09-02 | 5 |
+| [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,867 | 2026-09-02 | 6 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
 | [lxgw/LxgwWenKai](../repos/lxgw/LxgwWenKai.md) | ⭐ 26,857 | 2026-11-07 | 1 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 26,495 | 2026-08-04 | 14 |
@@ -115,7 +115,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 51 | ⭐ 95,912 | 2026-08-01 | 2026-11-11 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 52 | ⭐ 95,985 | 2026-08-01 | 2026-11-12 |
 | [expo/skills](../repos/expo/skills.md) | 36 | ⭐ 3,754 | 2026-08-07 | 2026-10-29 |
 | [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 25 | ⭐ 8,761 | 2026-08-12 | 2026-11-10 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
@@ -124,7 +124,7 @@
 | [omacom/omarchy](../repos/omacom/omarchy.md) | 17 | ⭐ 46,666 | 2026-08-29 | 2026-11-09 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 16 | ⭐ 3,343 | 2026-08-05 | 2026-11-11 |
 | [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | 16 | ⭐ 3,852 | 2026-08-19 | 2026-11-10 |
-| [dockur/windows](../repos/dockur/windows.md) | 15 | ⭐ 53,702 | 2026-08-06 | 2026-10-27 |
+| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | 15 | ⭐ 47,950 | 2026-08-04 | 2026-11-12 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-11T21:00:51.689Z*
+*Last updated: 2026-11-12T21:01:04.852Z*

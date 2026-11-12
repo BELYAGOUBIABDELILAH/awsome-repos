@@ -75,7 +75,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Very Active | Updated within last week |
+| **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -94,5 +94,5 @@
 
 ---
 
-*Last updated: 2026-11-11T21:00:55.856Z*  
+*Last updated: 2026-11-12T21:01:11.378Z*  
 *Data from 4 trending reports*

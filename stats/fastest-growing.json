@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T21:00:56.320Z",
+  "generated_at": "2026-11-12T21:01:12.125Z",
   "total_count": 100,
   "repositories": [
     {
@@ -498,6 +498,19 @@
     },
     {
       "rank": 39,
+      "full_name": "NapNeko/NapCatQQ",
+      "owner": "NapNeko",
+      "name": "NapCatQQ",
+      "stars": 12762,
+      "estimated_initial_stars": 12662,
+      "growth": 100,
+      "growth_rate": 100,
+      "language": "Unknown",
+      "first_seen": "2026-11-11",
+      "trending_days": 2
+    },
+    {
+      "rank": 40,
       "full_name": "mysql/mysql-server",
       "owner": "mysql",
       "name": "mysql-server",
@@ -510,7 +523,7 @@
       "trending_days": 2
     },
     {
-      "rank": 40,
+      "rank": 41,
       "full_name": "GitoxideLabs/gitoxide",
       "owner": "GitoxideLabs",
       "name": "gitoxide",
@@ -523,7 +536,7 @@
       "trending_days": 2
     },
     {
-      "rank": 41,
+      "rank": 42,
       "full_name": "BigBodyCobain/Shadowbroker",
       "owner": "BigBodyCobain",
       "name": "Shadowbroker",
@@ -536,7 +549,7 @@
       "trending_days": 2
     },
     {
-      "rank": 42,
+      "rank": 43,
       "full_name": "apify/apify-mcp-server",
       "owner": "apify",
       "name": "apify-mcp-server",
@@ -549,7 +562,7 @@
       "trending_days": 2
     },
     {
-      "rank": 43,
+      "rank": 44,
       "full_name": "gcc-mirror/gcc",
       "owner": "gcc-mirror",
       "name": "gcc",
@@ -562,7 +575,7 @@
       "trending_days": 2
     },
     {
-      "rank": 44,
+      "rank": 45,
       "full_name": "chiphuyen/machine-learning-systems-design",
       "owner": "chiphuyen",
       "name": "machine-learning-systems-design",
@@ -575,7 +588,7 @@
       "trending_days": 2
     },
     {
-      "rank": 45,
+      "rank": 46,
       "full_name": "genspark-ai/genoffice",
       "owner": "genspark-ai",
       "name": "genoffice",
@@ -588,7 +601,7 @@
       "trending_days": 2
     },
     {
-      "rank": 46,
+      "rank": 47,
       "full_name": "velero-io/velero",
       "owner": "velero-io",
       "name": "velero",
@@ -601,7 +614,7 @@
       "trending_days": 2
     },
     {
-      "rank": 47,
+      "rank": 48,
       "full_name": "diasurgical/DevilutionX",
       "owner": "diasurgical",
       "name": "DevilutionX",
@@ -614,7 +627,7 @@
       "trending_days": 2
     },
     {
-      "rank": 48,
+      "rank": 49,
       "full_name": "troxler/awesome-css-frameworks",
       "owner": "troxler",
       "name": "awesome-css-frameworks",
@@ -627,7 +640,7 @@
       "trending_days": 2
     },
     {
-      "rank": 49,
+      "rank": 50,
       "full_name": "facebookarchive/Shimmer",
       "owner": "facebookarchive",
       "name": "Shimmer",
@@ -640,7 +653,7 @@
       "trending_days": 2
     },
     {
-      "rank": 50,
+      "rank": 51,
       "full_name": "risingwavelabs/risingwave",
       "owner": "risingwavelabs",
       "name": "risingwave",
@@ -653,7 +666,7 @@
       "trending_days": 2
     },
     {
-      "rank": 51,
+      "rank": 52,
       "full_name": "poloclub/transformer-explainer",
       "owner": "poloclub",
       "name": "transformer-explainer",
@@ -666,7 +679,7 @@
       "trending_days": 2
     },
     {
-      "rank": 52,
+      "rank": 53,
       "full_name": "EpicGames/lore",
       "owner": "EpicGames",
       "name": "lore",
@@ -679,7 +692,7 @@
       "trending_days": 2
     },
     {
-      "rank": 53,
+      "rank": 54,
       "full_name": "Nutlope/logocreator",
       "owner": "Nutlope",
       "name": "logocreator",
@@ -692,7 +705,7 @@
       "trending_days": 2
     },
     {
-      "rank": 54,
+      "rank": 55,
       "full_name": "strands-agents/harness-sdk",
       "owner": "strands-agents",
       "name": "harness-sdk",
@@ -705,7 +718,7 @@
       "trending_days": 2
     },
     {
-      "rank": 55,
+      "rank": 56,
       "full_name": "gdy666/lucky",
       "owner": "gdy666",
       "name": "lucky",
@@ -718,7 +731,7 @@
       "trending_days": 2
     },
     {
-      "rank": 56,
+      "rank": 57,
       "full_name": "CodebuffAI/codebuff",
       "owner": "CodebuffAI",
       "name": "codebuff",
@@ -731,7 +744,7 @@
       "trending_days": 2
     },
     {
-      "rank": 57,
+      "rank": 58,
       "full_name": "tile-ai/tilelang",
       "owner": "tile-ai",
       "name": "tilelang",
@@ -744,7 +757,7 @@
       "trending_days": 2
     },
     {
-      "rank": 58,
+      "rank": 59,
       "full_name": "maharmstone/btrfs",
       "owner": "maharmstone",
       "name": "btrfs",
@@ -757,7 +770,7 @@
       "trending_days": 2
     },
     {
-      "rank": 59,
+      "rank": 60,
       "full_name": "ArvinLovegood/go-stock",
       "owner": "ArvinLovegood",
       "name": "go-stock",
@@ -770,7 +783,7 @@
       "trending_days": 2
     },
     {
-      "rank": 60,
+      "rank": 61,
       "full_name": "vercel-labs/deepsec",
       "owner": "vercel-labs",
       "name": "deepsec",
@@ -780,19 +793,6 @@
       "growth_rate": 100,
       "language": "TypeScript",
       "first_seen": "2026-08-14",
-      "trending_days": 2
-    },
-    {
-      "rank": 61,
-      "full_name": "jepsen-io/jepsen",
-      "owner": "jepsen-io",
-      "name": "jepsen",
-      "stars": 7565,
-      "estimated_initial_stars": 7465,
-      "growth": 100,
-      "growth_rate": 100,
-      "language": "Clojure",
-      "first_seen": "2026-11-04",
       "trending_days": 2
     },
     {

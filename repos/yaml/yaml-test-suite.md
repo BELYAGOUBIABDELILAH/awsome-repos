@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Perl |
 | **License** | MIT |
-| **Stars** | ⭐ 274 |
-| **Forks** | 🍴 103 |
-| **Trending Days** | 33 |
+| **Stars** | ⭐ 276 |
+| **Forks** | 🍴 106 |
+| **Trending Days** | 34 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Nov 10, 2026 |
+| **Last Seen** | Nov 12, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 33
+- **Trending Days**: 34
 - **Longest Streak**: 9 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 274+ stars, strong contributor base |
+| **Community** | Very Active | 276+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Inactive | No recent updates |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-11T21:00:53.295Z*  
-*Data from 33 trending reports*
+*Last updated: 2026-11-12T21:01:07.746Z*  
+*Data from 34 trending reports*

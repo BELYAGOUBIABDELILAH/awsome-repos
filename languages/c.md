@@ -16,43 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 140,879 | 2026-08-01 | 26 |
+| [DarkFlippers/unleashed-firmware](../repos/DarkFlippers/unleashed-firmware.md) | ⭐ 22,716 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DarkFlippers/unleashed-firmware](../repos/DarkFlippers/unleashed-firmware.md) | ⭐ 22,697 | 2026-08-01 | 8 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 79,470 | 2026-08-02 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [brunodev85/winlator](../repos/brunodev85/winlator.md) | ⭐ 19,923 | 2026-08-02 | 13 |
+| [redis/redis](../repos/redis/redis.md) | ⭐ 77,477 | 2026-08-04 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dorianborian/sesame-robot](../repos/dorianborian/sesame-robot.md) | ⭐ 5,033 | 2026-08-15 | 14 |
+| [CTCaer/hekate](../repos/CTCaer/hekate.md) | ⭐ 9,012 | 2026-08-16 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bol-van/zapret2](../repos/bol-van/zapret2.md) | ⭐ 5,982 | 2026-08-16 | 7 |
+| [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 80,843 | 2026-08-24 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HarbourMasters/Shipwright](../repos/HarbourMasters/Shipwright.md) | ⭐ 5,992 | 2026-08-24 | 10 |
+| [freebsd/freebsd-src](../repos/freebsd/freebsd-src.md) | ⭐ 9,455 | 2026-09-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [containers/bubblewrap](../repos/containers/bubblewrap.md) | ⭐ 9,456 | 2026-08-28 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [henrypp/simplewall](../repos/henrypp/simplewall.md) | ⭐ 9,289 | 2026-09-20 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ValdikSS/GoodbyeDPI](../repos/ValdikSS/GoodbyeDPI.md) | ⭐ 28,865 | 2026-10-03 | 2 |
+| [SlickAmogus/silent-hill-decomp](../repos/SlickAmogus/silent-hill-decomp.md) | ⭐ 850 | 2026-09-20 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Zelda64Recomp/Zelda64Recomp](../repos/Zelda64Recomp/Zelda64Recomp.md) | ⭐ 7,644 | 2026-10-13 | Static recompilation of Majora&#39;s Mask (and soon Ocarina of Time) for PC (Windows&#x2F;Linux&#x2F;Mac) |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [rogerbinns/apsw](../repos/rogerbinns/apsw.md) | ⭐ 938 | 2026-10-13 | Another Python SQLite wrapper |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [timescale/pg_vectorsearch](../repos/timescale/pg_vectorsearch.md) | ⭐ 368 | 2026-10-16 | High-performance vector search for PostgreSQL |
@@ -77,6 +65,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [YizhengWw/HachimoDock](../repos/YizhengWw/HachimoDock.md) | ⭐ 853 | 2026-11-03 | A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing,  juggling... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [FareedKhan-dev/kimi-k3-in-c](../repos/FareedKhan-dev/kimi-k3-in-c.md) | ⭐ 11,318 | 2026-11-04 | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [unkyulee/micro-journal](../repos/unkyulee/micro-journal.md) | ⭐ 1,071 | 2026-11-05 |  |
 
 
 ---
@@ -87,9 +81,9 @@
 |------------|-------|------------|---------------|
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 153,855 | 2026-08-07 | 18 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 140,879 | 2026-08-01 | 26 |
-| [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 80,039 | 2026-08-24 | 4 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 78,208 | 2026-08-02 | 18 |
-| [redis/redis](../repos/redis/redis.md) | ⭐ 77,254 | 2026-08-04 | 11 |
+| [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 80,843 | 2026-08-24 | 5 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 79,470 | 2026-08-02 | 19 |
+| [redis/redis](../repos/redis/redis.md) | ⭐ 77,477 | 2026-08-04 | 12 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 75,752 | 2026-08-01 | 26 |
 | [git/git](../repos/git/git.md) | ⭐ 64,135 | 2026-08-05 | 10 |
 | [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 48,141 | 2026-09-01 | 24 |
@@ -119,8 +113,8 @@
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 26 | ⭐ 47,337 | 2026-08-07 | 2026-10-23 |
 | [JustVugg/colibri](../repos/JustVugg/colibri.md) | 24 | ⭐ 48,141 | 2026-09-01 | 2026-11-05 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 21 | ⭐ 28,089 | 2026-08-07 | 2026-10-23 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 19 | ⭐ 79,470 | 2026-08-02 | 2026-11-12 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 19 | ⭐ 7,021 | 2026-08-04 | 2026-10-23 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 18 | ⭐ 78,208 | 2026-08-02 | 2026-10-25 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 18 | ⭐ 153,855 | 2026-08-07 | 2026-11-02 |
 
 ---
@@ -230,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-11-11T21:00:51.627Z*
+*Last updated: 2026-11-12T21:01:04.703Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C++ |
 | **License** | Other |
-| **Stars** | ⭐ 72,138 |
-| **Forks** | 🍴 16,340 |
-| **Trending Days** | 20 |
+| **Stars** | ⭐ 72,169 |
+| **Forks** | 🍴 16,357 |
+| **Trending Days** | 21 |
 | **Peak Rank** | #13 |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Oct 29, 2026 |
+| **Last Seen** | Nov 12, 2026 |
 
 
 ---
@@ -48,7 +48,7 @@
 ### Highlights
 
 - **Peak Rank**: #13
-- **Trending Days**: 20
+- **Trending Days**: 21
 - **Longest Streak**: 3 days
 
 ---
@@ -73,7 +73,7 @@
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Production Ready | Battle-tested and stable |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -92,5 +92,5 @@
 
 ---
 
-*Last updated: 2026-11-11T21:00:52.892Z*  
-*Data from 20 trending reports*
+*Last updated: 2026-11-12T21:01:07.135Z*  
+*Data from 21 trending reports*

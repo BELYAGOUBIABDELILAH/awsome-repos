@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 147
+- **Total Repositories**: 148
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-06
 
@@ -16,28 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 14,103 | 2026-08-01 | 33 |
+| [apple/container](../repos/apple/container.md) | ⭐ 51,307 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 14,732 | 2026-08-08 | 10 |
+| [sozercan/kaset](../repos/sozercan/kaset.md) | ⭐ 2,575 | 2026-08-04 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 22,281 | 2026-08-12 | 11 |
+| [jellyfin/Swiftfin](../repos/jellyfin/Swiftfin.md) | ⭐ 4,274 | 2026-08-14 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,925 | 2026-08-17 | 15 |
+| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 15,383 | 2026-09-21 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 15,317 | 2026-09-21 | 14 |
+| [ggml-org/Llama-macOS](../repos/ggml-org/Llama-macOS.md) | ⭐ 1,785 | 2026-10-06 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kaishi00/hermes-conduit](../repos/kaishi00/hermes-conduit.md) | ⭐ 579 | 2026-09-29 | 3 |
+| [frs0n/GestaltEdit](../repos/frs0n/GestaltEdit.md) | ⭐ 1,018 | 2026-11-11 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YangJiiii/3105](../repos/YangJiiii/3105.md) | ⭐ 986 | 2026-10-25 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [frs0n/GestaltEdit](../repos/frs0n/GestaltEdit.md) | ⭐ 976 | 2026-11-11 | 1 |
+| [microsoft/Procexp-Mac](../repos/microsoft/Procexp-Mac.md) | ⭐ 765 | 2026-11-12 | 1 |
 
 
 ---
@@ -84,7 +81,7 @@
 |------------|-------|------------|---------------|
 | [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,542 | 2026-08-05 | 18 |
 | [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) | ⭐ 53,673 | 2026-09-04 | 5 |
-| [apple/container](../repos/apple/container.md) | ⭐ 51,136 | 2026-08-01 | 19 |
+| [apple/container](../repos/apple/container.md) | ⭐ 51,307 | 2026-08-01 | 20 |
 | [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,920 | 2026-08-12 | 15 |
 | [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,277 | 2026-09-01 | 4 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 28,732 | 2026-08-01 | 27 |
@@ -96,7 +93,7 @@
 | [SnapKit/SnapKit](../repos/SnapKit/SnapKit.md) | ⭐ 20,344 | 2026-08-14 | 1 |
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,685 | 2026-08-01 | 4 |
 | [OpenEmu/OpenEmu](../repos/OpenEmu/OpenEmu.md) | ⭐ 17,766 | 2026-09-13 | 1 |
-| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 15,317 | 2026-09-21 | 14 |
+| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 15,383 | 2026-09-21 | 15 |
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 15,130 | 2026-08-03 | 4 |
 | [Whisky-App/Whisky](../repos/Whisky-App/Whisky.md) | ⭐ 15,107 | 2026-09-06 | 2 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,999 | 2026-08-04 | 22 |
@@ -112,7 +109,7 @@
 | [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 33 | ⭐ 14,103 | 2026-08-01 | 2026-11-11 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 27 | ⭐ 28,732 | 2026-08-01 | 2026-11-06 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 22 | ⭐ 14,999 | 2026-08-04 | 2026-10-29 |
-| [apple/container](../repos/apple/container.md) | 19 | ⭐ 51,136 | 2026-08-01 | 2026-11-10 |
+| [apple/container](../repos/apple/container.md) | 20 | ⭐ 51,307 | 2026-08-01 | 2026-11-12 |
 | [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 18 | ⭐ 9,415 | 2026-08-02 | 2026-11-07 |
 | [swiftlang/swift](../repos/swiftlang/swift.md) | 18 | ⭐ 70,542 | 2026-08-05 | 2026-11-06 |
 | [apple/swift-nio](../repos/apple/swift-nio.md) | 16 | ⭐ 8,547 | 2026-08-04 | 2026-11-06 |
@@ -227,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-11-11T21:00:51.691Z*
+*Last updated: 2026-11-12T21:01:04.856Z*

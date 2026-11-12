@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | JavaScript |
 | **License** | MIT |
-| **Stars** | ⭐ 115,837 |
-| **Forks** | 🍴 12,148 |
-| **Trending Days** | 36 |
+| **Stars** | ⭐ 116,594 |
+| **Forks** | 🍴 12,205 |
+| **Trending Days** | 37 |
 | **Peak Rank** | #2 |
 
 | **First Seen** | Aug 5, 2026 |
-| **Last Seen** | Nov 11, 2026 |
+| **Last Seen** | Nov 12, 2026 |
 
 
 ---
@@ -43,7 +43,6 @@
 
 ## Trending Timeline
 
-**Aug 11, 2026** — Rank #4 (+571 ⭐)  
 **Aug 29, 2026** — Rank #18 (+188 ⭐)  
 **Sep 3, 2026** — Rank #12 (+260 ⭐)  
 **Sep 19, 2026** — Rank #3 (+675 ⭐)  
@@ -53,11 +52,12 @@
 **Oct 9, 2026** — Rank #8 (+523 ⭐)  
 **Nov 10, 2026** — Rank #3 (+465 ⭐)  
 **Nov 11, 2026** — Rank #5 (+788 ⭐)  
+**Nov 12, 2026** — Rank #9 (+812 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #2
-- **Trending Days**: 36
+- **Trending Days**: 37
 - **Longest Streak**: 7 days
 
 ---
@@ -80,7 +80,7 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 115,837+ stars, strong contributor base |
+| **Community** | Very Active | 116,594+ stars, strong contributor base |
 | **Maturity** | Experimental | New project, evolving rapidly |
 | **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -101,5 +101,5 @@
 
 ---
 
-*Last updated: 2026-11-11T21:00:53.618Z*  
-*Data from 36 trending reports*
+*Last updated: 2026-11-12T21:01:08.243Z*  
+*Data from 37 trending reports*

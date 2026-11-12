@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 200
+- **Total Repositories**: 202
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-10
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,949 | 2026-08-03 | 41 |
+| [dotnet/eShop](../repos/dotnet/eShop.md) | ⭐ 11,019 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 39,199 | 2026-08-03 | 16 |
+| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,993 | 2026-08-03 | 42 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,426 | 2026-08-04 | 23 |
+| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 39,224 | 2026-08-03 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SmartlyDressedGames/U3-SDK](../repos/SmartlyDressedGames/U3-SDK.md) | ⭐ 4,024 | 2026-08-07 | 13 |
+| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | ⭐ 9,447 | 2026-08-04 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,517 | 2026-08-10 | 9 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 56,130 | 2026-08-06 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NickvisionApps/Parabolic](../repos/NickvisionApps/Parabolic.md) | ⭐ 7,605 | 2026-08-14 | 8 |
+| [BepInEx/BepInEx](../repos/BepInEx/BepInEx.md) | ⭐ 9,020 | 2026-08-09 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sourcegit-scm/sourcegit](../repos/sourcegit-scm/sourcegit.md) | ⭐ 6,456 | 2026-08-19 | 14 |
+| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,535 | 2026-08-10 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Orbmu2k/nvidiaProfileInspector](../repos/Orbmu2k/nvidiaProfileInspector.md) | ⭐ 7,575 | 2026-08-23 | 7 |
+| [Tianyu199509/DeskBox](../repos/Tianyu199509/DeskBox.md) | ⭐ 9,039 | 2026-09-27 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Perfare/Il2CppDumper](../repos/Perfare/Il2CppDumper.md) | ⭐ 9,637 | 2026-09-07 | 3 |
+| [nopSolutions/nopCommerce](../repos/nopSolutions/nopCommerce.md) | ⭐ 10,186 | 2026-10-13 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [LagrangeDev/Lagrange.Core](../repos/LagrangeDev/Lagrange.Core.md) | ⭐ 3,037 | 2026-11-12 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [nopSolutions/nopCommerce](../repos/nopSolutions/nopCommerce.md) | ⭐ 10,171 | 2026-10-13 | ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [SplitScreen-Me/splitscreenme-nucleus](../repos/SplitScreen-Me/splitscreenme-nucleus.md) | ⭐ 2,098 | 2026-10-13 | Nucleus Co-op is an application that starts multiple instances of a game for split-screen multipl... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [xM4ddy/OFGB](../repos/xM4ddy/OFGB.md) | ⭐ 7,474 | 2026-10-15 | GUI Tool To Remove Ads From Various Places Around Windows 11 |
@@ -77,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [patchzyy/Wiicompiled](../repos/patchzyy/Wiicompiled.md) | ⭐ 1,363 | 2026-10-26 | Wiicompiled |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [unoplatform/uno](../repos/unoplatform/uno.md) | ⭐ 10,103 | 2026-10-27 | Open-source platform for building cross-platform native Mobile, Web, Desktop, and Embedded apps f... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [HunterPie/HunterPie](../repos/HunterPie/HunterPie.md) | ⭐ 1,320 | 2026-10-28 | A clean, modern and robust overlay for Monster Hunter games. |
 
 
 ---
@@ -87,10 +90,10 @@
 |------------|-------|------------|---------------|
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 120,344 | 2026-08-02 | 34 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 58,750 | 2026-08-02 | 24 |
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 56,028 | 2026-08-06 | 22 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 56,130 | 2026-08-06 | 23 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,351 | 2026-08-01 | 17 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 40,927 | 2026-08-14 | 10 |
-| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 39,199 | 2026-08-03 | 16 |
+| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 39,224 | 2026-08-03 | 17 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,509 | 2026-08-01 | 25 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 33,494 | 2026-08-02 | 42 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,757 | 2026-08-01 | 23 |
@@ -98,7 +101,7 @@
 | [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,082 | 2026-08-28 | 4 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
 | [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,740 | 2026-08-05 | 15 |
-| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,517 | 2026-08-10 | 9 |
+| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,535 | 2026-08-10 | 10 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,954 | 2026-08-01 | 13 |
 | [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,527 | 2026-08-02 | 9 |
 | [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 25,660 | 2026-08-27 | 10 |
@@ -113,7 +116,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 42 | ⭐ 33,494 | 2026-08-02 | 2026-11-09 |
-| [dotnet/skills](../repos/dotnet/skills.md) | 41 | ⭐ 5,949 | 2026-08-03 | 2026-11-11 |
+| [dotnet/skills](../repos/dotnet/skills.md) | 42 | ⭐ 5,993 | 2026-08-03 | 2026-11-12 |
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 34 | ⭐ 120,344 | 2026-08-02 | 2026-11-10 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 27 | ⭐ 17,894 | 2026-08-02 | 2026-11-10 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 25 | ⭐ 38,509 | 2026-08-01 | 2026-11-10 |
@@ -121,7 +124,7 @@
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 23 | ⭐ 32,757 | 2026-08-01 | 2026-10-29 |
 | [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 23 | ⭐ 14,945 | 2026-08-01 | 2026-11-10 |
 | [dotnet/runtime](../repos/dotnet/runtime.md) | 23 | ⭐ 18,426 | 2026-08-04 | 2026-11-11 |
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | 22 | ⭐ 56,028 | 2026-08-06 | 2026-11-05 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | 23 | ⭐ 56,130 | 2026-08-06 | 2026-11-12 |
 
 ---
 
@@ -230,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-11T21:00:51.629Z*
+*Last updated: 2026-11-12T21:01:04.709Z*

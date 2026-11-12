@@ -1,6 +1,6 @@
 # GoogleChrome&#x2F;modern-web-guidance-src
 
-> No description available
+> Keep your coding agent up to date with the latest web best practices
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;GoogleChrome&#x2F;modern-web-guidance-src) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 1,658 |
-| **Forks** | 🍴 137 |
-| **Trending Days** | 1 |
-| **Peak Rank** | #3 |
+| **Stars** | ⭐ 2,720 |
+| **Forks** | 🍴 188 |
+| **Trending Days** | 2 |
+| **Peak Rank** | #1 |
 
 | **First Seen** | Nov 11, 2026 |
-| **Last Seen** | Nov 11, 2026 |
+| **Last Seen** | Nov 12, 2026 |
 
 
 ---
@@ -43,12 +43,13 @@
 
 ## Trending Timeline
 
+**Nov 12, 2026** — Rank #1 (+799 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #3
-- **Trending Days**: 1
-- **Longest Streak**: 1 days
+- **Peak Rank**: #1
+- **Trending Days**: 2
+- **Longest Streak**: 2 days
 
 ---
 
@@ -85,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
-- **Historical Rank**: Top 5 (Peak: #3)
+- **Trending Score**: 40&#x2F;100
+- **Historical Rank**: Reached #1
 
 
 ---
 
-*Last updated: 2026-11-11T21:00:55.985Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-11-12T21:01:11.562Z*  
+*Data from 2 trending reports*

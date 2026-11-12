@@ -1,6 +1,6 @@
 # lollipopkit&#x2F;flutter_server_box
 
-> ServerBox - server status &amp; toolbox
+> ServerBox - high performance server toolbox app &amp; server written in Flutter &amp; Rust.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;lollipopkit&#x2F;flutter_server_box) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Dart |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 8,885 |
-| **Forks** | 🍴 571 |
-| **Trending Days** | 11 |
+| **Stars** | ⭐ 8,998 |
+| **Forks** | 🍴 578 |
+| **Trending Days** | 12 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 11, 2026 |
-| **Last Seen** | Oct 27, 2026 |
+| **Last Seen** | Nov 12, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Dart or android*
+*Similar: Check repositories in Dart or ai-agents*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 11
+- **Trending Days**: 12
 - **Longest Streak**: 3 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`android`](../../topics/android.md) [`dart`](../../topics/dart.md) [`flutter`](../../topics/flutter.md) [`ios`](../../topics/ios.md) [`server`](../../topics/server.md) [`ssh`](../../topics/ssh.md) [`status`](../../topics/status.md) [`vps`](../../topics/vps.md) 
+[`ai-agents`](../../topics/ai-agents.md) [`android`](../../topics/android.md) [`dart`](../../topics/dart.md) [`docker`](../../topics/docker.md) [`flutter`](../../topics/flutter.md) [`ios`](../../topics/ios.md) [`podman`](../../topics/podman.md) [`pve`](../../topics/pve.md) [`rust`](../../topics/rust.md) [`server`](../../topics/server.md) [`sftp`](../../topics/sftp.md) [`ssh`](../../topics/ssh.md) [`status`](../../topics/status.md) [`virtualization`](../../topics/virtualization.md) [`vps`](../../topics/vps.md) 
 
 ### Curated Categories
-`Backend Development` `Mobile Development` `Systems Programming` 
+`Artificial Intelligence` `Backend Development` `Mobile Development` `Containers &amp; Orchestration` `Systems Programming` 
 
 ---
 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-11T21:00:54.279Z*  
-*Data from 11 trending reports*
+*Last updated: 2026-11-12T21:01:09.018Z*  
+*Data from 12 trending reports*

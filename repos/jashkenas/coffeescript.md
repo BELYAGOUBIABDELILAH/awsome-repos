@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | CoffeeScript |
 | **License** | MIT |
-| **Stars** | ⭐ 16,592 |
-| **Forks** | 🍴 1,974 |
-| **Trending Days** | 13 |
+| **Stars** | ⭐ 16,594 |
+| **Forks** | 🍴 1,972 |
+| **Trending Days** | 14 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 9, 2026 |
-| **Last Seen** | Nov 6, 2026 |
+| **Last Seen** | Nov 12, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 13
+- **Trending Days**: 14
 - **Longest Streak**: 2 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-11T21:00:54.019Z*  
-*Data from 13 trending reports*
+*Last updated: 2026-11-12T21:01:08.855Z*  
+*Data from 14 trending reports*

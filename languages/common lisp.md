@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [nodecode-ai/nodecode](../repos/nodecode-ai/nodecode.md) | ⭐ 270 | 2026-10-26 | 9 |
 
+*No Common Lisp repositories trending today*
 
 ---
 
@@ -73,4 +71,4 @@
 
 ---
 
-*Last updated: 2026-11-11T21:00:51.637Z*
+*Last updated: 2026-11-12T21:01:04.721Z*

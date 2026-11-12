@@ -7,7 +7,7 @@
 ## All Time
 
 **Period**: Beginning to Present  
-**Gems Found**: 1228
+**Gems Found**: 1226
 
 ---
 
@@ -71,47 +71,7 @@
 
 ---
 
-### 4. [vivizzz007&#x2F;vivi-music](../../repos/vivizzz007/vivi-music.md)
-
-**Vivi-Music is an expressive Material 3–based YouTube Music client for Android.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 4,115 |
-| 💻 **Language** | Kotlin |
-| 🏆 **Gem Score** | 96/100 |
-| 📈 **Trending Days** | 12 |
-| 📅 **First Seen** | Aug 2, 2026 |
-
-**Why it's a gem**: High growth velocity (+56 stars&#x2F;day) • Trending 12 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/vivizzz007/vivi-music.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;vivizzz007&#x2F;vivi-music)
-
----
-
-### 5. [derv82&#x2F;wifit3](../../repos/derv82/wifit3.md)
-
-**Wifite but USB-only &amp; cross-platform.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 3,345 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 96/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Sep 25, 2026 |
-
-**Why it's a gem**: High growth velocity (+241 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/derv82/wifit3.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;derv82&#x2F;wifit3)
-
----
-
-### 6. [PimpinPumpkin&#x2F;Vela](../../repos/PimpinPumpkin/Vela.md)
+### 4. [PimpinPumpkin&#x2F;Vela](../../repos/PimpinPumpkin/Vela.md)
 
 **Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras**
 
@@ -128,6 +88,46 @@
 **Best for**: 
 
 [View Passport](../../repos/PimpinPumpkin/Vela.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;PimpinPumpkin&#x2F;Vela)
+
+---
+
+### 5. [vivizzz007&#x2F;vivi-music](../../repos/vivizzz007/vivi-music.md)
+
+**Vivi-Music is an expressive Material 3–based YouTube Music client for Android.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 4,115 |
+| 💻 **Language** | Kotlin |
+| 🏆 **Gem Score** | 95/100 |
+| 📈 **Trending Days** | 12 |
+| 📅 **First Seen** | Aug 2, 2026 |
+
+**Why it's a gem**: High growth velocity (+56 stars&#x2F;day) • Trending 12 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/vivizzz007/vivi-music.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;vivizzz007&#x2F;vivi-music)
+
+---
+
+### 6. [derv82&#x2F;wifit3](../../repos/derv82/wifit3.md)
+
+**Wifite but USB-only &amp; cross-platform.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3,345 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 95/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Sep 25, 2026 |
+
+**Why it's a gem**: High growth velocity (+241 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/derv82/wifit3.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;derv82&#x2F;wifit3)
 
 ---
 
@@ -191,47 +191,7 @@
 
 ---
 
-### 10. [julyx10&#x2F;lap](../../repos/julyx10/lap.md)
-
-**An offline-first photo manager for large local libraries**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 4,132 |
-| 💻 **Language** | Vue |
-| 🏆 **Gem Score** | 94/100 |
-| 📈 **Trending Days** | 33 |
-| 📅 **First Seen** | Aug 2, 2026 |
-
-**Why it's a gem**: High growth velocity (+53 stars&#x2F;day) • Trending 33 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/julyx10/lap.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;julyx10&#x2F;lap)
-
----
-
-### 11. [mixelpixx&#x2F;Konnect](../../repos/mixelpixx/Konnect.md)
-
-**AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,282 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 94/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Sep 6, 2026 |
-
-**Why it's a gem**: High growth velocity (+73 stars&#x2F;day) • Trending 6 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/mixelpixx/Konnect.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mixelpixx&#x2F;Konnect)
-
----
-
-### 12. [plugin87&#x2F;ux-ui-agent-skills](../../repos/plugin87/ux-ui-agent-skills.md)
+### 10. [plugin87&#x2F;ux-ui-agent-skills](../../repos/plugin87/ux-ui-agent-skills.md)
 
 **Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.**
 
@@ -251,7 +211,7 @@
 
 ---
 
-### 13. [nightly-labs&#x2F;openbot](../../repos/nightly-labs/openbot.md)
+### 11. [nightly-labs&#x2F;openbot](../../repos/nightly-labs/openbot.md)
 
 **A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.**
 
@@ -271,7 +231,67 @@
 
 ---
 
-### 14. [Gaurav-Gosain&#x2F;tuios](../../repos/Gaurav-Gosain/tuios.md)
+### 12. [julyx10&#x2F;lap](../../repos/julyx10/lap.md)
+
+**An offline-first photo manager for large local libraries**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 4,132 |
+| 💻 **Language** | Vue |
+| 🏆 **Gem Score** | 93/100 |
+| 📈 **Trending Days** | 33 |
+| 📅 **First Seen** | Aug 2, 2026 |
+
+**Why it's a gem**: High growth velocity (+53 stars&#x2F;day) • Trending 33 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/julyx10/lap.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;julyx10&#x2F;lap)
+
+---
+
+### 13. [OpenAEC-Foundation&#x2F;open-pdf-studio](../../repos/OpenAEC-Foundation/open-pdf-studio.md)
+
+**An open source PDF viewer&#x2F;editor with it&#39;s own blazing fast rust engine**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,213 |
+| 💻 **Language** | HTML |
+| 🏆 **Gem Score** | 93/100 |
+| 📈 **Trending Days** | 7 |
+| 📅 **First Seen** | Aug 3, 2026 |
+
+**Why it's a gem**: High growth velocity (+39 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/OpenAEC-Foundation/open-pdf-studio.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;OpenAEC-Foundation&#x2F;open-pdf-studio)
+
+---
+
+### 14. [Jakubantalik&#x2F;transitions.dev](../../repos/Jakubantalik/transitions.dev.md)
+
+**UI motion agent, a library of 43+ crafted transitions, a skill that fits your workflow.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 6,287 |
+| 💻 **Language** | HTML |
+| 🏆 **Gem Score** | 93/100 |
+| 📈 **Trending Days** | 17 |
+| 📅 **First Seen** | Aug 11, 2026 |
+
+**Why it's a gem**: High growth velocity (+86 stars&#x2F;day) • Trending 17 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/Jakubantalik/transitions.dev.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Jakubantalik&#x2F;transitions.dev)
+
+---
+
+### 15. [Gaurav-Gosain&#x2F;tuios](../../repos/Gaurav-Gosain/tuios.md)
 
 **A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X&#x2F;Twitter account.**
 
@@ -291,43 +311,23 @@
 
 ---
 
-### 15. [OpenAEC-Foundation&#x2F;open-pdf-studio](../../repos/OpenAEC-Foundation/open-pdf-studio.md)
+### 16. [mixelpixx&#x2F;Konnect](../../repos/mixelpixx/Konnect.md)
 
-**An open source PDF viewer&#x2F;editor with it&#39;s own blazing fast rust engine**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,171 |
-| 💻 **Language** | HTML |
-| 🏆 **Gem Score** | 92/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 3, 2026 |
-
-**Why it's a gem**: High growth velocity (+37 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/OpenAEC-Foundation/open-pdf-studio.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;OpenAEC-Foundation&#x2F;open-pdf-studio)
-
----
-
-### 16. [rorkai&#x2F;App-Store-Connect-CLI](../../repos/rorkai/App-Store-Connect-CLI.md)
-
-**Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more**
+**AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 8,318 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 92/100 |
+| ⭐ **Stars** | 1,282 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 93/100 |
 | 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 9, 2026 |
+| 📅 **First Seen** | Sep 6, 2026 |
 
-**Why it's a gem**: High growth velocity (+51 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+73 stars&#x2F;day) • Trending 6 times • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/rorkai/App-Store-Connect-CLI.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;rorkai&#x2F;App-Store-Connect-CLI)
+[View Passport](../../repos/mixelpixx/Konnect.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mixelpixx&#x2F;Konnect)
 
 ---
 
@@ -411,27 +411,7 @@
 
 ---
 
-### 21. [androoAGI&#x2F;starnet](../../repos/androoAGI/starnet.md)
-
-**A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,011 |
-| 💻 **Language** | JavaScript |
-| 🏆 **Gem Score** | 92/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Sep 24, 2026 |
-
-**Why it's a gem**: High growth velocity (+117 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/androoAGI/starnet.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;androoAGI&#x2F;starnet)
-
----
-
-### 22. [elie222&#x2F;rakazo](../../repos/elie222/rakazo.md)
+### 21. [elie222&#x2F;rakazo](../../repos/elie222/rakazo.md)
 
 **Open-source Grok Bot alternative. Choose your own model and sandbox.**
 
@@ -451,7 +431,7 @@
 
 ---
 
-### 23. [JetBrains&#x2F;thinkrail](../../repos/JetBrains/thinkrail.md)
+### 22. [JetBrains&#x2F;thinkrail](../../repos/JetBrains/thinkrail.md)
 
 **Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need**
 
@@ -471,19 +451,39 @@
 
 ---
 
+### 23. [homeassistant-ai&#x2F;ha-mcp](../../repos/homeassistant-ai/ha-mcp.md)
+
+**Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 7,675 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 92/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Oct 26, 2026 |
+
+**Why it's a gem**: High growth velocity (+731 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/homeassistant-ai/ha-mcp.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;homeassistant-ai&#x2F;ha-mcp)
+
+---
+
 ### 24. [agent-substrate&#x2F;substrate](../../repos/agent-substrate/substrate.md)
 
 **Agent Substrate: the core system**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6,455 |
+| ⭐ **Stars** | 6,541 |
 | 💻 **Language** | Go |
 | 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 23 |
+| 📈 **Trending Days** | 24 |
 | 📅 **First Seen** | Aug 2, 2026 |
 
-**Why it's a gem**: High growth velocity (+131 stars&#x2F;day) • Trending 23 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+129 stars&#x2F;day) • Trending 24 times • Very active development • Strong community engagement
 
 **Best for**: 
 
@@ -491,23 +491,23 @@
 
 ---
 
-### 25. [Jakubantalik&#x2F;transitions.dev](../../repos/Jakubantalik/transitions.dev.md)
+### 25. [rorkai&#x2F;App-Store-Connect-CLI](../../repos/rorkai/App-Store-Connect-CLI.md)
 
-**UI motion agent, a library of 43+ crafted transitions, a skill that fits your workflow.**
+**Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5,826 |
-| 💻 **Language** | HTML |
+| ⭐ **Stars** | 8,318 |
+| 💻 **Language** | Go |
 | 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 16 |
-| 📅 **First Seen** | Aug 11, 2026 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 9, 2026 |
 
-**Why it's a gem**: High growth velocity (+90 stars&#x2F;day) • Trending 16 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+51 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/Jakubantalik/transitions.dev.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Jakubantalik&#x2F;transitions.dev)
+[View Passport](../../repos/rorkai/App-Store-Connect-CLI.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;rorkai&#x2F;App-Store-Connect-CLI)
 
 ---
 
@@ -591,23 +591,23 @@
 
 ---
 
-### 30. [ch6vip&#x2F;fqapp](../../repos/ch6vip/fqapp.md)
+### 30. [androoAGI&#x2F;starnet](../../repos/androoAGI/starnet.md)
 
-**内容聚合 Android 客户端：小说&#x2F;短剧&#x2F;漫剧&#x2F;听书&#x2F;漫画，Flutter UI + 进程内 Rust 核心，无自建服务器、无需 root**
+**A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1,321 |
-| 💻 **Language** | Dart |
+| ⭐ **Stars** | 1,011 |
+| 💻 **Language** | JavaScript |
 | 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 8 |
-| 📅 **First Seen** | Nov 2, 2026 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Sep 24, 2026 |
 
-**Why it's a gem**: High growth velocity (+36 stars&#x2F;day) • Trending 8 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+117 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/ch6vip/fqapp.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;ch6vip&#x2F;fqapp)
+[View Passport](../../repos/androoAGI/starnet.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;androoAGI&#x2F;starnet)
 
 ---
 
@@ -627,5 +627,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-11T21:00:56.179Z*  
+*Generated: 2026-11-12T21:01:11.910Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

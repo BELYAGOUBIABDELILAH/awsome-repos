@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 40,100 |
-| **Forks** | 🍴 7,603 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 41,461 |
+| **Forks** | 🍴 7,909 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #7 |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Oct 29, 2026 |
+| **Last Seen** | Nov 12, 2026 |
 
 
 ---
@@ -49,7 +49,7 @@
 ### Highlights
 
 - **Peak Rank**: #7
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 4 days
 
 ---
@@ -74,7 +74,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -93,5 +93,5 @@
 
 ---
 
-*Last updated: 2026-11-11T21:00:53.159Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-11-12T21:01:07.541Z*  
+*Data from 8 trending reports*

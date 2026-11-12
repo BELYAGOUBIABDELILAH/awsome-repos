@@ -16,25 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | ⭐ 9,063 | 2026-08-01 | 10 |
+| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 17,228 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,685 | 2026-08-01 | 11 |
+| [google/fonts](../repos/google/fonts.md) | ⭐ 20,756 | 2026-08-03 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenAEC-Foundation/open-pdf-studio](../repos/OpenAEC-Foundation/open-pdf-studio.md) | ⭐ 1,171 | 2026-08-03 | 6 |
+| [OpenAEC-Foundation/open-pdf-studio](../repos/OpenAEC-Foundation/open-pdf-studio.md) | ⭐ 1,213 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sjj1024/PakePlus](../repos/Sjj1024/PakePlus.md) | ⭐ 15,887 | 2026-08-07 | 10 |
+| [Sjj1024/PakePlus](../repos/Sjj1024/PakePlus.md) | ⭐ 15,925 | 2026-08-07 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/training-kit](../repos/github/training-kit.md) | ⭐ 5,152 | 2026-08-15 | 5 |
+| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | ⭐ 6,287 | 2026-08-11 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Azure/Azure-Sentinel](../repos/Azure/Azure-Sentinel.md) | ⭐ 6,249 | 2026-11-03 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [fanhao375/microduck-replica](../repos/fanhao375/microduck-replica.md) | ⭐ 1,657 | 2026-11-11 | 1 |
+| [xbtlin/ai-berkshire](../repos/xbtlin/ai-berkshire.md) | ⭐ 17,102 | 2026-09-14 | 9 |
 
 
 ---
@@ -97,7 +94,7 @@
 | [Tencent/weui](../repos/Tencent/weui.md) | ⭐ 27,434 | 2026-09-25 | 1 |
 | [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 1 |
 | [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 23,508 | 2026-08-01 | 12 |
-| [google/fonts](../repos/google/fonts.md) | ⭐ 20,719 | 2026-08-03 | 8 |
+| [google/fonts](../repos/google/fonts.md) | ⭐ 20,756 | 2026-08-03 | 9 |
 | [Chuyu-Team/Dism-Multi-language](../repos/Chuyu-Team/Dism-Multi-language.md) | ⭐ 20,324 | 2026-09-05 | 1 |
 
 ---
@@ -112,10 +109,10 @@
 | [averygan/reclip](../repos/averygan/reclip.md) | 18 | ⭐ 11,040 | 2026-08-03 | 2026-10-28 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 18 | ⭐ 141,705 | 2026-08-08 | 2026-11-03 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 17 | ⭐ 30,478 | 2026-08-09 | 2026-11-04 |
+| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | 17 | ⭐ 6,287 | 2026-08-11 | 2026-11-12 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 16 | ⭐ 28,016 | 2026-08-04 | 2026-10-15 |
 | [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 16 | ⭐ 6,305 | 2026-08-05 | 2026-11-06 |
-| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | 16 | ⭐ 5,826 | 2026-08-11 | 2026-10-27 |
-| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 13 | ⭐ 16,604 | 2026-08-04 | 2026-10-16 |
+| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | 13 | ⭐ 17,228 | 2026-08-02 | 2026-11-12 |
 
 ---
 
@@ -224,4 +221,4 @@
 
 ---
 
-*Last updated: 2026-11-11T21:00:51.654Z*
+*Last updated: 2026-11-12T21:01:04.762Z*

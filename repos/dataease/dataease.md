@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Java |
 | **License** | Other |
-| **Stars** | ⭐ 24,611 |
-| **Forks** | 🍴 4,270 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 24,690 |
+| **Forks** | 🍴 4,262 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 14, 2026 |
-| **Last Seen** | Oct 15, 2026 |
+| **Last Seen** | Nov 12, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 1 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-11T21:00:54.387Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-11-12T21:01:09.156Z*  
+*Data from 8 trending reports*

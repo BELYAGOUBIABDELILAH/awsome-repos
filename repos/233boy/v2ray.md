@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Shell |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 29,807 |
-| **Forks** | 🍴 16,536 |
-| **Trending Days** | 5 |
+| **Stars** | ⭐ 29,867 |
+| **Forks** | 🍴 16,511 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 2, 2026 |
-| **Last Seen** | Oct 28, 2026 |
+| **Last Seen** | Nov 12, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 1 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Average | Basic documentation available |
-| **Community** | Very Active | 29,807+ stars, strong contributor base |
+| **Community** | Very Active | 29,867+ stars, strong contributor base |
 | **Maturity** | Stable | Mature with proven track record |
 | **Maintenance** | Inactive | No recent updates |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 80&#x2F;100
+- **Trending Score**: 95&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-11T21:00:54.973Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-11-12T21:01:10.024Z*  
+*Data from 6 trending reports*

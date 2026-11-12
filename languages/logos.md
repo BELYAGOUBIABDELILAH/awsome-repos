@@ -21,10 +21,8 @@
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [NeoFreeBird/app](../repos/NeoFreeBird/app.md) | ⭐ 1,863 | 2026-10-13 | A modified Twitter app, with branding reverts, BHTwitter and other QoL modifications. |
 
+*No new Logos repositories in the last 30 days*
 
 ---
 
@@ -50,4 +48,4 @@
 
 ---
 
-*Last updated: 2026-11-11T21:00:51.663Z*
+*Last updated: 2026-11-12T21:01:04.793Z*
