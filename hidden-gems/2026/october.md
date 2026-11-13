@@ -7,7 +7,7 @@
 ## October 2026
 
 **Period**: 2026-10-01 to 2026-10-28  
-**Gems Found**: 409
+**Gems Found**: 399
 
 ---
 
@@ -23,7 +23,7 @@
 | 📈 **Trending Days** | 6 |
 | 📅 **First Seen** | Aug 1, 2026 |
 
-**Why it's a gem**: High growth velocity (+67 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+67 stars&#x2F;day) • Trending 6 times • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -31,27 +31,7 @@
 
 ---
 
-### 2. [plugin87&#x2F;ux-ui-agent-skills](../../repos/plugin87/ux-ui-agent-skills.md)
-
-**Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,389 |
-| 💻 **Language** | JavaScript |
-| 🏆 **Gem Score** | 94/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Sep 14, 2026 |
-
-**Why it's a gem**: High growth velocity (+122 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/plugin87/ux-ui-agent-skills.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;plugin87&#x2F;ux-ui-agent-skills)
-
----
-
-### 3. [nightly-labs&#x2F;openbot](../../repos/nightly-labs/openbot.md)
+### 2. [nightly-labs&#x2F;openbot](../../repos/nightly-labs/openbot.md)
 
 **A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.**
 
@@ -71,7 +51,7 @@
 
 ---
 
-### 4. [julyx10&#x2F;lap](../../repos/julyx10/lap.md)
+### 3. [julyx10&#x2F;lap](../../repos/julyx10/lap.md)
 
 **An offline-first photo manager for large local libraries**
 
@@ -91,7 +71,7 @@
 
 ---
 
-### 5. [mixelpixx&#x2F;Konnect](../../repos/mixelpixx/Konnect.md)
+### 4. [mixelpixx&#x2F;Konnect](../../repos/mixelpixx/Konnect.md)
 
 **AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing**
 
@@ -108,6 +88,26 @@
 **Best for**: 
 
 [View Passport](../../repos/mixelpixx/Konnect.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mixelpixx&#x2F;Konnect)
+
+---
+
+### 5. [plugin87&#x2F;ux-ui-agent-skills](../../repos/plugin87/ux-ui-agent-skills.md)
+
+**Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,389 |
+| 💻 **Language** | JavaScript |
+| 🏆 **Gem Score** | 93/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Sep 14, 2026 |
+
+**Why it's a gem**: High growth velocity (+122 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/plugin87/ux-ui-agent-skills.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;plugin87&#x2F;ux-ui-agent-skills)
 
 ---
 
@@ -171,27 +171,7 @@
 
 ---
 
-### 9. [mg-chao&#x2F;snow-apps](../../repos/mg-chao/snow-apps.md)
-
-**Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 6,186 |
-| 💻 **Language** | C++ |
-| 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Sep 21, 2026 |
-
-**Why it's a gem**: High growth velocity (+63 stars&#x2F;day) • Trending 6 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/mg-chao/snow-apps.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mg-chao&#x2F;snow-apps)
-
----
-
-### 10. [superdesigndev&#x2F;treg](../../repos/superdesigndev/treg.md)
+### 9. [superdesigndev&#x2F;treg](../../repos/superdesigndev/treg.md)
 
 **OpenRouter for agent tools. Join community here: https:&#x2F;&#x2F;discord.gg&#x2F;6mQYYfFMAn**
 
@@ -211,7 +191,7 @@
 
 ---
 
-### 11. [androoAGI&#x2F;starnet](../../repos/androoAGI/starnet.md)
+### 10. [androoAGI&#x2F;starnet](../../repos/androoAGI/starnet.md)
 
 **A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.**
 
@@ -231,7 +211,7 @@
 
 ---
 
-### 12. [apache&#x2F;maka](../../repos/apache/maka.md)
+### 11. [apache&#x2F;maka](../../repos/apache/maka.md)
 
 **Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.**
 
@@ -251,7 +231,7 @@
 
 ---
 
-### 13. [alsk1992&#x2F;CloddsBot](../../repos/alsk1992/CloddsBot.md)
+### 12. [alsk1992&#x2F;CloddsBot](../../repos/alsk1992/CloddsBot.md)
 
 **Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.**
 
@@ -271,47 +251,27 @@
 
 ---
 
-### 14. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
+### 13. [mg-chao&#x2F;snow-apps](../../repos/mg-chao/snow-apps.md)
 
-**Multi-account API gateway for Grok Build, Grok Web, and Grok Console**
+**Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 7,848 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 89/100 |
+| ⭐ **Stars** | 6,186 |
+| 💻 **Language** | C++ |
+| 🏆 **Gem Score** | 90/100 |
 | 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 6, 2026 |
+| 📅 **First Seen** | Sep 21, 2026 |
 
-**Why it's a gem**: High growth velocity (+59 stars&#x2F;day) • Trending 6 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/chenyme/grok2api.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;chenyme&#x2F;grok2api)
-
----
-
-### 15. [mvschwarz&#x2F;openrig](../../repos/mvschwarz/openrig.md)
-
-**Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 4,646 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 7 |
-| 📅 **First Seen** | Sep 25, 2026 |
-
-**Why it's a gem**: High growth velocity (+943 stars&#x2F;day) • Trending 7 times • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+63 stars&#x2F;day) • Trending 6 times • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/mvschwarz/openrig.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mvschwarz&#x2F;openrig)
+[View Passport](../../repos/mg-chao/snow-apps.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mg-chao&#x2F;snow-apps)
 
 ---
 
-### 16. [makecindy&#x2F;cindy](../../repos/makecindy/cindy.md)
+### 14. [makecindy&#x2F;cindy](../../repos/makecindy/cindy.md)
 
 **Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。**
 
@@ -331,7 +291,7 @@
 
 ---
 
-### 17. [uber&#x2F;ADR](../../repos/uber/ADR.md)
+### 15. [uber&#x2F;ADR](../../repos/uber/ADR.md)
 
 **ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.**
 
@@ -351,7 +311,27 @@
 
 ---
 
-### 18. [tbphp&#x2F;gpt-load](../../repos/tbphp/gpt-load.md)
+### 16. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
+
+**Multi-account API gateway for Grok Build, Grok Web, and Grok Console**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 7,848 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 88/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 6, 2026 |
+
+**Why it's a gem**: High growth velocity (+59 stars&#x2F;day) • Trending 6 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/chenyme/grok2api.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;chenyme&#x2F;grok2api)
+
+---
+
+### 17. [tbphp&#x2F;gpt-load](../../repos/tbphp/gpt-load.md)
 
 **Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。**
 
@@ -371,27 +351,7 @@
 
 ---
 
-### 19. [willfaust&#x2F;Madeira](../../repos/willfaust/Madeira.md)
-
-**Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,932 |
-| 💻 **Language** | C |
-| 🏆 **Gem Score** | 88/100 |
-| 📈 **Trending Days** | 11 |
-| 📅 **First Seen** | Sep 9, 2026 |
-
-**Why it's a gem**: High growth velocity (+133 stars&#x2F;day) • Trending 11 times • Very active development • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/willfaust/Madeira.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;willfaust&#x2F;Madeira)
-
----
-
-### 20. [BuilderIO&#x2F;agent-native](../../repos/BuilderIO/agent-native.md)
+### 18. [BuilderIO&#x2F;agent-native](../../repos/BuilderIO/agent-native.md)
 
 **A framework for building agentic apps**
 
@@ -411,6 +371,46 @@
 
 ---
 
+### 19. [PCL-Community&#x2F;PCL-CE](../../repos/PCL-Community/PCL-CE.md)
+
+**PCL 社区版 由社区开发者维护与管理**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 4,895 |
+| 💻 **Language** | C# |
+| 🏆 **Gem Score** | 88/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Sep 14, 2026 |
+
+**Why it's a gem**: High growth velocity (+63 stars&#x2F;day) • Trending 4 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/PCL-Community/PCL-CE.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;PCL-Community&#x2F;PCL-CE)
+
+---
+
+### 20. [weave-os&#x2F;router](../../repos/weave-os/router.md)
+
+**Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 5,557 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 88/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Sep 19, 2026 |
+
+**Why it's a gem**: High growth velocity (+83 stars&#x2F;day) • Trending 5 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/weave-os/router.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;weave-os&#x2F;router)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-12T21:01:11.883Z*  
+*Generated: 2026-11-13T21:01:14.556Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

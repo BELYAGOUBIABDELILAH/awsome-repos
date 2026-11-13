@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pret/pokered](../repos/pret/pokered.md) | ⭐ 5,029 | 2026-08-01 | 53 |
+| [pret/pokered](../repos/pret/pokered.md) | ⭐ 5,031 | 2026-08-01 | 54 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | ⭐ 466 | 2026-08-01 | 71 |
+| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | ⭐ 466 | 2026-08-01 | 72 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hiteshchoudhary/open-source-contribution](../repos/hiteshchoudhary/open-source-contribution.md) | ⭐ 548 | 2026-08-01 | 33 |
+| [briansmith/ring](../repos/briansmith/ring.md) | ⭐ 4,122 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [riscv-software-src/riscv-tests](../repos/riscv-software-src/riscv-tests.md) | ⭐ 1,262 | 2026-08-01 | 22 |
+| [hiteshchoudhary/open-source-contribution](../repos/hiteshchoudhary/open-source-contribution.md) | ⭐ 548 | 2026-08-01 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pret/pokecrystal](../repos/pret/pokecrystal.md) | ⭐ 2,550 | 2026-08-01 | 44 |
+| [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | ⭐ 2,241 | 2026-08-01 | 46 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | ⭐ 1,693 | 2026-08-01 | 55 |
+| [riscv-software-src/riscv-tests](../repos/riscv-software-src/riscv-tests.md) | ⭐ 1,263 | 2026-08-01 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | ⭐ 6,520 | 2026-08-01 | 55 |
+| [boostorg/context](../repos/boostorg/context.md) | ⭐ 372 | 2026-08-01 | 36 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [riscv/riscv-arch-test](../repos/riscv/riscv-arch-test.md) | ⭐ 811 | 2026-08-02 | 47 |
+| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | ⭐ 1,694 | 2026-08-01 | 56 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ebitengine/purego](../repos/ebitengine/purego.md) | ⭐ 4,108 | 2026-08-04 | 53 |
+| [ebitengine/purego](../repos/ebitengine/purego.md) | ⭐ 4,110 | 2026-08-04 | 54 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cemu-project/cemu_graphic_packs](../repos/cemu-project/cemu_graphic_packs.md) | ⭐ 1,483 | 2026-08-04 | 31 |
+| [cemu-project/cemu_graphic_packs](../repos/cemu-project/cemu_graphic_packs.md) | ⭐ 1,483 | 2026-08-04 | 32 |
 
 
 ---
@@ -55,7 +55,7 @@
 | [canassa/betrayal-at-krondor](../repos/canassa/betrayal-at-krondor.md) | ⭐ 35 | 2026-11-04 | Betrayal at Krondor: A byte-perfect recompilation of the 1993 classic. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port](../repos/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port.md) | ⭐ 311 | 2026-11-04 | Native Pikmin Windows&#x2F;Linux&#x2F;Android Port |
+| [SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port](../repos/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port.md) | ⭐ 313 | 2026-11-04 | Native Pikmin Windows&#x2F;Linux&#x2F;Android Port |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [memorysafety/rav1d](../repos/memorysafety/rav1d.md) | ⭐ 650 | 2026-11-05 | An AV1 decoder in Rust. |
@@ -75,21 +75,21 @@
 | [kanaka/mal](../repos/kanaka/mal.md) | ⭐ 10,757 | 2026-08-11 | 21 |
 | [jmechner/Prince-of-Persia-Apple-II](../repos/jmechner/Prince-of-Persia-Apple-II.md) | ⭐ 6,906 | 2026-09-28 | 3 |
 | [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | ⭐ 6,520 | 2026-08-01 | 55 |
-| [pret/pokered](../repos/pret/pokered.md) | ⭐ 5,029 | 2026-08-01 | 53 |
+| [pret/pokered](../repos/pret/pokered.md) | ⭐ 5,031 | 2026-08-01 | 54 |
 | [below/HelloSilicon](../repos/below/HelloSilicon.md) | ⭐ 4,994 | 2026-09-02 | 2 |
-| [ebitengine/purego](../repos/ebitengine/purego.md) | ⭐ 4,108 | 2026-08-04 | 53 |
-| [briansmith/ring](../repos/briansmith/ring.md) | ⭐ 4,107 | 2026-08-01 | 12 |
+| [briansmith/ring](../repos/briansmith/ring.md) | ⭐ 4,122 | 2026-08-01 | 13 |
+| [ebitengine/purego](../repos/ebitengine/purego.md) | ⭐ 4,110 | 2026-08-04 | 54 |
 | [virtualagc/virtualagc](../repos/virtualagc/virtualagc.md) | ⭐ 3,350 | 2026-08-01 | 9 |
 | [netwide-assembler/nasm](../repos/netwide-assembler/nasm.md) | ⭐ 3,322 | 2026-09-01 | 8 |
 | [SpinalHDL/VexRiscv](../repos/SpinalHDL/VexRiscv.md) | ⭐ 3,265 | 2026-09-19 | 1 |
-| [openhwfoundation/cva6](../repos/openhwfoundation/cva6.md) | ⭐ 3,190 | 2026-09-19 | 30 |
+| [openhwfoundation/cva6](../repos/openhwfoundation/cva6.md) | ⭐ 3,193 | 2026-09-19 | 31 |
 | [openhwgroup/cva6](../repos/openhwgroup/cva6.md) | ⭐ 3,111 | 2026-08-01 | 34 |
 | [SheerSt/pokewilds](../repos/SheerSt/pokewilds.md) | ⭐ 2,921 | 2026-08-03 | 17 |
 | [pret/pokecrystal](../repos/pret/pokecrystal.md) | ⭐ 2,550 | 2026-08-01 | 44 |
-| [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | ⭐ 2,239 | 2026-08-01 | 45 |
+| [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | ⭐ 2,241 | 2026-08-01 | 46 |
 | [PlummersSoftwareLLC/TinyRetroPad](../repos/PlummersSoftwareLLC/TinyRetroPad.md) | ⭐ 1,750 | 2026-08-04 | 15 |
 | [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,741 | 2026-08-01 | 62 |
-| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | ⭐ 1,693 | 2026-08-01 | 55 |
+| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | ⭐ 1,694 | 2026-08-01 | 56 |
 
 ---
 
@@ -97,16 +97,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | 71 | ⭐ 466 | 2026-08-01 | 2026-11-12 |
+| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | 72 | ⭐ 466 | 2026-08-01 | 2026-11-13 |
 | [apple/swift-crypto](../repos/apple/swift-crypto.md) | 62 | ⭐ 1,741 | 2026-08-01 | 2026-11-10 |
 | [aws/aws-lc](../repos/aws/aws-lc.md) | 61 | ⭐ 864 | 2026-08-01 | 2026-11-11 |
 | [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | 57 | ⭐ 18,911 | 2026-08-01 | 2026-11-10 |
-| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | 55 | ⭐ 1,693 | 2026-08-01 | 2026-11-12 |
+| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | 56 | ⭐ 1,694 | 2026-08-01 | 2026-11-13 |
 | [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | 55 | ⭐ 6,520 | 2026-08-01 | 2026-11-12 |
-| [pret/pokered](../repos/pret/pokered.md) | 53 | ⭐ 5,029 | 2026-08-01 | 2026-11-12 |
-| [ebitengine/purego](../repos/ebitengine/purego.md) | 53 | ⭐ 4,108 | 2026-08-04 | 2026-11-12 |
+| [pret/pokered](../repos/pret/pokered.md) | 54 | ⭐ 5,031 | 2026-08-01 | 2026-11-13 |
+| [ebitengine/purego](../repos/ebitengine/purego.md) | 54 | ⭐ 4,110 | 2026-08-04 | 2026-11-13 |
 | [riscv/riscv-arch-test](../repos/riscv/riscv-arch-test.md) | 47 | ⭐ 811 | 2026-08-02 | 2026-11-12 |
-| [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | 45 | ⭐ 2,239 | 2026-08-01 | 2026-11-10 |
+| [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | 46 | ⭐ 2,241 | 2026-08-01 | 2026-11-13 |
 
 ---
 
@@ -167,4 +167,4 @@
 
 ---
 
-*Last updated: 2026-11-12T21:01:04.695Z*
+*Last updated: 2026-11-13T21:01:06.824Z*

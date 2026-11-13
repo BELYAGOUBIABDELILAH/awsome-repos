@@ -7,7 +7,7 @@
 ## September 2026
 
 **Period**: 2026-09-01 to 2026-09-28  
-**Gems Found**: 317
+**Gems Found**: 315
 
 ---
 
@@ -131,27 +131,7 @@
 
 ---
 
-### 7. [feigeCode&#x2F;navop](../../repos/feigeCode/navop.md)
-
-**A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, and AI.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,709 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 83/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Sep 10, 2026 |
-
-**Why it's a gem**: High growth velocity (+54 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/feigeCode/navop.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;feigeCode&#x2F;navop)
-
----
-
-### 8. [KnockOutEZ&#x2F;wigolo](../../repos/KnockOutEZ/wigolo.md)
+### 7. [KnockOutEZ&#x2F;wigolo](../../repos/KnockOutEZ/wigolo.md)
 
 **The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0&#x2F;query. Public beta.**
 
@@ -168,6 +148,26 @@
 **Best for**: 
 
 [View Passport](../../repos/KnockOutEZ/wigolo.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;KnockOutEZ&#x2F;wigolo)
+
+---
+
+### 8. [feigeCode&#x2F;navop](../../repos/feigeCode/navop.md)
+
+**A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, and AI.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,709 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 82/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Sep 10, 2026 |
+
+**Why it's a gem**: High growth velocity (+54 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/feigeCode/navop.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;feigeCode&#x2F;navop)
 
 ---
 
@@ -219,7 +219,7 @@
 |---|---|
 | ⭐ **Stars** | 6,342 |
 | 💻 **Language** | Go |
-| 🏆 **Gem Score** | 81/100 |
+| 🏆 **Gem Score** | 80/100 |
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Aug 1, 2026 |
 
@@ -331,67 +331,7 @@
 
 ---
 
-### 17. [adongwanai&#x2F;AgentGuide](../../repos/adongwanai/AgentGuide.md)
-
-**https:&#x2F;&#x2F;adongwanai.github.io&#x2F;AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 9,116 |
-| 💻 **Language** | HTML |
-| 🏆 **Gem Score** | 78/100 |
-| 📈 **Trending Days** | 8 |
-| 📅 **First Seen** | Aug 3, 2026 |
-
-**Why it's a gem**: High growth velocity (+59 stars&#x2F;day) • Trending 8 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/adongwanai/AgentGuide.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;adongwanai&#x2F;AgentGuide)
-
----
-
-### 18. [AdventDevInc&#x2F;kudu](../../repos/AdventDevInc/kudu.md)
-
-**Free Windows, Mac and Linux cleaner, scanner, and more.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 3,297 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 78/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Aug 6, 2026 |
-
-**Why it's a gem**: High growth velocity (+188 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/AdventDevInc/kudu.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;AdventDevInc&#x2F;kudu)
-
----
-
-### 19. [cobusgreyling&#x2F;loop-engineering](../../repos/cobusgreyling/loop-engineering.md)
-
-**Practical patterns, starters &amp; CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 10,982 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 78/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 10, 2026 |
-
-**Why it's a gem**: High growth velocity (+64 stars&#x2F;day) • Trending 5 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/cobusgreyling/loop-engineering.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;cobusgreyling&#x2F;loop-engineering)
-
----
-
-### 20. [Osmantic&#x2F;ODS](../../repos/Osmantic/ODS.md)
+### 17. [Osmantic&#x2F;ODS](../../repos/Osmantic/ODS.md)
 
 **Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.**
 
@@ -411,6 +351,66 @@
 
 ---
 
+### 18. [Sumanth077&#x2F;Hands-On-AI-Engineering](../../repos/Sumanth077/Hands-On-AI-Engineering.md)
+
+**A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3,360 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 78/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Sep 4, 2026 |
+
+**Why it's a gem**: High growth velocity (+60 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/Sumanth077/Hands-On-AI-Engineering.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Sumanth077&#x2F;Hands-On-AI-Engineering)
+
+---
+
+### 19. [aipoch&#x2F;open-science](../../repos/aipoch/open-science.md)
+
+**The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python&#x2F;R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 4,884 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 78/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Sep 6, 2026 |
+
+**Why it's a gem**: High growth velocity (+158 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/aipoch/open-science.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;aipoch&#x2F;open-science)
+
+---
+
+### 20. [crivion&#x2F;laranode](../../repos/crivion/laranode.md)
+
+**Free Hosting Panel - Easily manage your VPS&#x2F;dedicated machine with Laranode (a cPanel&#x2F;Plesk alternative) **
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,493 |
+| 💻 **Language** | PHP |
+| 🏆 **Gem Score** | 78/100 |
+| 📈 **Trending Days** | 2 |
+| 📅 **First Seen** | Sep 20, 2026 |
+
+**Why it's a gem**: High growth velocity (+227 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/crivion/laranode.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;crivion&#x2F;laranode)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-12T21:01:11.886Z*  
+*Generated: 2026-11-13T21:01:14.559Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

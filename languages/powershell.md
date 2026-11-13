@@ -16,31 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,590 | 2026-08-01 | 63 |
+| [Euro-Office/DesktopEditors](../repos/Euro-Office/DesktopEditors.md) | ⭐ 880 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 3,576 | 2026-08-01 | 29 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 951 | 2026-08-01 | 50 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,076 | 2026-08-02 | 19 |
+| [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,077 | 2026-08-02 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | ⭐ 539 | 2026-08-04 | 26 |
+| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 9,321 | 2026-08-06 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 9,317 | 2026-08-06 | 23 |
+| [microsoft/sre-agent](../repos/microsoft/sre-agent.md) | ⭐ 189 | 2026-09-22 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,303 | 2026-09-02 | 20 |
+| [javaht/claude-desktop-zh-cn](../repos/javaht/claude-desktop-zh-cn.md) | ⭐ 8,542 | 2026-10-23 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/sre-agent](../repos/microsoft/sre-agent.md) | ⭐ 188 | 2026-09-22 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [javaht/claude-desktop-zh-cn](../repos/javaht/claude-desktop-zh-cn.md) | ⭐ 8,497 | 2026-10-23 | 13 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Atlas-OS/Atlas](../repos/Atlas-OS/Atlas.md) | ⭐ 22,092 | 2026-11-05 | 7 |
+| [Atlas-OS/Atlas](../repos/Atlas-OS/Atlas.md) | ⭐ 22,102 | 2026-11-05 | 8 |
 
 
 ---
@@ -52,7 +46,7 @@
 | [microsoft/Windows-Sandbox](../repos/microsoft/Windows-Sandbox.md) | ⭐ 577 | 2026-10-17 | Disposable, secure and lightweight Windows Desktop Environment |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [javaht/claude-desktop-zh-cn](../repos/javaht/claude-desktop-zh-cn.md) | ⭐ 8,497 | 2026-10-23 | Claude Desktop Chinese Patch (macOS &amp; Windows &amp; Linux) |
+| [javaht/claude-desktop-zh-cn](../repos/javaht/claude-desktop-zh-cn.md) | ⭐ 8,542 | 2026-10-23 | Claude Desktop Chinese Patch (macOS &amp; Windows &amp; Linux) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Azure/Azure-Functions](../repos/Azure/Azure-Functions.md) | ⭐ 1,126 | 2026-10-23 |  |
@@ -67,7 +61,7 @@
 | [irzyxa/Volume2](../repos/irzyxa/Volume2.md) | ⭐ 1,402 | 2026-11-02 | Volume² - advanced Windows volume control. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Atlas-OS/Atlas](../repos/Atlas-OS/Atlas.md) | ⭐ 22,092 | 2026-11-05 | 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and... |
+| [Atlas-OS/Atlas](../repos/Atlas-OS/Atlas.md) | ⭐ 22,102 | 2026-11-05 | 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/AL-Go](../repos/microsoft/AL-Go.md) | ⭐ 513 | 2026-11-05 | The plug-and-play DevOps solution for Business Central app development on GitHub |
@@ -86,17 +80,17 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 36,799 | 2026-08-01 | 20 |
-| [Atlas-OS/Atlas](../repos/Atlas-OS/Atlas.md) | ⭐ 22,092 | 2026-11-05 | 7 |
-| [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,076 | 2026-08-02 | 19 |
+| [Atlas-OS/Atlas](../repos/Atlas-OS/Atlas.md) | ⭐ 22,102 | 2026-11-05 | 8 |
+| [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,077 | 2026-08-02 | 20 |
 | [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,799 | 2026-08-09 | 2 |
 | [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,590 | 2026-08-01 | 63 |
 | [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,063 | 2026-08-04 | 6 |
 | [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,303 | 2026-09-02 | 20 |
 | [SpecterOps/BloodHound-Legacy](../repos/SpecterOps/BloodHound-Legacy.md) | ⭐ 10,597 | 2026-08-06 | 1 |
 | [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,136 | 2026-08-03 | 11 |
-| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 9,317 | 2026-08-06 | 23 |
+| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 9,321 | 2026-08-06 | 24 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,610 | 2026-08-01 | 33 |
-| [javaht/claude-desktop-zh-cn](../repos/javaht/claude-desktop-zh-cn.md) | ⭐ 8,497 | 2026-10-23 | 13 |
+| [javaht/claude-desktop-zh-cn](../repos/javaht/claude-desktop-zh-cn.md) | ⭐ 8,542 | 2026-10-23 | 14 |
 | [mandiant/commando-vm](../repos/mandiant/commando-vm.md) | ⭐ 7,779 | 2026-08-12 | 1 |
 | [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,674 | 2026-08-07 | 7 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 6,178 | 2026-08-01 | 29 |
@@ -113,14 +107,14 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [actions/runner-images](../repos/actions/runner-images.md) | 63 | ⭐ 13,590 | 2026-08-01 | 2026-11-12 |
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 49 | ⭐ 946 | 2026-08-01 | 2026-11-11 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 50 | ⭐ 951 | 2026-08-01 | 2026-11-13 |
 | [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 36 | ⭐ 1,722 | 2026-08-03 | 2026-11-10 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 33 | ⭐ 8,610 | 2026-08-01 | 2026-11-11 |
 | [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 29 | ⭐ 3,576 | 2026-08-01 | 2026-11-12 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 29 | ⭐ 6,178 | 2026-08-01 | 2026-11-11 |
 | [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 26 | ⭐ 1,574 | 2026-08-01 | 2026-11-07 |
 | [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 26 | ⭐ 539 | 2026-08-04 | 2026-11-12 |
-| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | 23 | ⭐ 9,317 | 2026-08-06 | 2026-11-12 |
+| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | 24 | ⭐ 9,321 | 2026-08-06 | 2026-11-13 |
 | [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | 21 | ⭐ 2,767 | 2026-08-11 | 2026-10-29 |
 
 ---
@@ -197,4 +191,4 @@
 
 ---
 
-*Last updated: 2026-11-12T21:01:04.830Z*
+*Last updated: 2026-11-13T21:01:06.926Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Shell |
 | **License** | MIT |
-| **Stars** | ⭐ 3,754 |
-| **Forks** | 🍴 237 |
-| **Trending Days** | 36 |
+| **Stars** | ⭐ 4,137 |
+| **Forks** | 🍴 269 |
+| **Trending Days** | 37 |
 | **Peak Rank** | #12 |
 
 | **First Seen** | Aug 7, 2026 |
-| **Last Seen** | Oct 29, 2026 |
+| **Last Seen** | Nov 13, 2026 |
 
 
 ---
@@ -48,7 +48,7 @@
 ### Highlights
 
 - **Peak Rank**: #12
-- **Trending Days**: 36
+- **Trending Days**: 37
 - **Longest Streak**: 4 days
 
 ---
@@ -73,7 +73,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -92,5 +92,5 @@
 
 ---
 
-*Last updated: 2026-11-12T21:01:08.610Z*  
-*Data from 36 trending reports*
+*Last updated: 2026-11-13T21:01:10.807Z*  
+*Data from 37 trending reports*

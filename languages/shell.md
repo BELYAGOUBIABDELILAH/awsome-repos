@@ -16,34 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,985 | 2026-08-01 | 52 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 96,106 | 2026-08-01 | 53 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,950 | 2026-08-04 | 15 |
+| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 26,529 | 2026-08-04 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bivlked/amneziawg-installer](../repos/bivlked/amneziawg-installer.md) | ⭐ 1,538 | 2026-08-25 | 7 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 4,137 | 2026-08-07 | 37 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 5,433 | 2026-09-01 | 14 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 8,851 | 2026-08-12 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,867 | 2026-09-02 | 6 |
+| [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 5,454 | 2026-09-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [skills/introduction-to-git](../repos/skills/introduction-to-git.md) | ⭐ 276 | 2026-09-05 | 2 |
+| [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,871 | 2026-09-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [conda-forge/miniforge](../repos/conda-forge/miniforge.md) | ⭐ 10,364 | 2026-10-09 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [EpicGames/unreal-engine-skills-for-claude-code-plugin](../repos/EpicGames/unreal-engine-skills-for-claude-code-plugin.md) | ⭐ 1,957 | 2026-10-11 | 7 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [htr-tech/nexphisher](../repos/htr-tech/nexphisher.md) | ⭐ 3,939 | 2026-11-10 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [chefranov/mhi2-au37x-carplay](../repos/chefranov/mhi2-au37x-carplay.md) | ⭐ 141 | 2026-11-12 | 1 |
+| [fscarmen/sing-box](../repos/fscarmen/sing-box.md) | ⭐ 6,038 | 2026-09-21 | 6 |
 
 
 ---
@@ -90,7 +81,7 @@
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,858 | 2026-08-07 | 4 |
 | [papers-we-love/papers-we-love](../repos/papers-we-love/papers-we-love.md) | ⭐ 110,960 | 2026-10-27 | 1 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,985 | 2026-08-01 | 52 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 96,106 | 2026-08-01 | 53 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,756 | 2026-08-04 | 10 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,702 | 2026-08-06 | 15 |
@@ -99,10 +90,10 @@
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
 | [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,866 | 2026-08-20 | 13 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 33,123 | 2026-08-02 | 22 |
-| [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,867 | 2026-09-02 | 6 |
+| [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,871 | 2026-09-02 | 7 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
 | [lxgw/LxgwWenKai](../repos/lxgw/LxgwWenKai.md) | ⭐ 26,857 | 2026-11-07 | 1 |
-| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 26,495 | 2026-08-04 | 14 |
+| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 26,529 | 2026-08-04 | 15 |
 | [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 22,309 | 2026-08-07 | 11 |
 | [lewagon/dotfiles](../repos/lewagon/dotfiles.md) | ⭐ 21,783 | 2026-08-25 | 1 |
 | [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
@@ -115,9 +106,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 52 | ⭐ 95,985 | 2026-08-01 | 2026-11-12 |
-| [expo/skills](../repos/expo/skills.md) | 36 | ⭐ 3,754 | 2026-08-07 | 2026-10-29 |
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 25 | ⭐ 8,761 | 2026-08-12 | 2026-11-10 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 53 | ⭐ 96,106 | 2026-08-01 | 2026-11-13 |
+| [expo/skills](../repos/expo/skills.md) | 37 | ⭐ 4,137 | 2026-08-07 | 2026-11-13 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 26 | ⭐ 8,851 | 2026-08-12 | 2026-11-13 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
 | [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | 17 | ⭐ 11,015 | 2026-08-07 | 2026-11-10 |
 | [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | 17 | ⭐ 1,636 | 2026-08-20 | 2026-11-11 |
@@ -233,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-11-12T21:01:04.852Z*
+*Last updated: 2026-11-13T21:01:06.948Z*

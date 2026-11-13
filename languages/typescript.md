@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 323
+- **Total Repositories**: 324
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-07
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 55,167 | 2026-08-01 | 15 |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 55,392 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,066 | 2026-08-01 | 4 |
+| [actions/checkout](../repos/actions/checkout.md) | ⭐ 9,015 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gitroomhq/postiz-app](../repos/gitroomhq/postiz-app.md) | ⭐ 41,461 | 2026-08-02 | 8 |
+| [EveryInc/compound-engineering-plugin](../repos/EveryInc/compound-engineering-plugin.md) | ⭐ 26,064 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [angular/angular](../repos/angular/angular.md) | ⭐ 101,484 | 2026-08-04 | 7 |
+| [AdventDevInc/kudu](../repos/AdventDevInc/kudu.md) | ⭐ 4,336 | 2026-08-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [QwenLM/qwen-code](../repos/QwenLM/qwen-code.md) | ⭐ 29,736 | 2026-08-06 | 4 |
+| [QwenLM/qwen-code](../repos/QwenLM/qwen-code.md) | ⭐ 30,115 | 2026-08-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 210,322 | 2026-08-11 | 8 |
+| [google-labs-code/stitch-skills](../repos/google-labs-code/stitch-skills.md) | ⭐ 8,767 | 2026-08-22 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [every-app/open-seo](../repos/every-app/open-seo.md) | ⭐ 27,480 | 2026-08-14 | 12 |
+| [backnotprop/plannotator](../repos/backnotprop/plannotator.md) | ⭐ 10,393 | 2026-08-26 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-labs-code/stitch-skills](../repos/google-labs-code/stitch-skills.md) | ⭐ 8,751 | 2026-08-22 | 7 |
+| [a2ui-project/a2ui](../repos/a2ui-project/a2ui.md) | ⭐ 17,304 | 2026-09-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elder-plinius/G0DM0D3](../repos/elder-plinius/G0DM0D3.md) | ⭐ 12,242 | 2026-10-07 | 2 |
+| [thesysdev/openui](../repos/thesysdev/openui.md) | ⭐ 15,189 | 2026-09-13 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex-security](../repos/openai/codex-security.md) | ⭐ 12,321 | 2026-10-08 | 3 |
+| [openai/codex-security](../repos/openai/codex-security.md) | ⭐ 13,057 | 2026-10-08 | 4 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [nestjs/nest](../repos/nestjs/nest.md) | ⭐ 76,848 | 2026-10-14 | A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-sid... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [SegFault42/HeliosGen](../repos/SegFault42/HeliosGen.md) | ⭐ 3,142 | 2026-10-15 | 🏆 Self Hosted Gen AI desktop app. Free alternative to Higgsfield, OpenArt, Freepik.... |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [OpenBMB/PilotDeck](../repos/OpenBMB/PilotDeck.md) | ⭐ 4,576 | 2026-10-17 | Task-oriented AI Agent productivity platform |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [LibreChat-AI/LibreChat](../repos/LibreChat-AI/LibreChat.md) | ⭐ 45,931 | 2026-10-18 | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses... |
 
 
 ---
@@ -123,7 +123,7 @@
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 20 | ⭐ 78,178 | 2026-08-10 | 2026-10-21 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 19 | ⭐ 48,123 | 2026-08-01 | 2026-11-05 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 19 | ⭐ 140,636 | 2026-08-02 | 2026-11-07 |
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 15 | ⭐ 55,167 | 2026-08-01 | 2026-11-12 |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 16 | ⭐ 55,392 | 2026-08-01 | 2026-11-13 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 14 | ⭐ 34,200 | 2026-08-02 | 2026-10-03 |
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-12T21:01:04.861Z*
+*Last updated: 2026-11-13T21:01:06.957Z*

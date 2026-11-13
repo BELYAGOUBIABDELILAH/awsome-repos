@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 15
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-12
+- **Last Updated**: 2026-11-13
 
 ---
 
@@ -16,10 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,930 | 2026-08-01 | 78 |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,933 | 2026-08-01 | 79 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/groovy](../repos/apache/groovy.md) | ⭐ 5,483 | 2026-09-13 | 18 |
+| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,377 | 2026-08-02 | 51 |
 
 
 ---
@@ -40,8 +40,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,930 | 2026-08-01 | 78 |
-| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,373 | 2026-08-02 | 50 |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,933 | 2026-08-01 | 79 |
+| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,377 | 2026-08-02 | 51 |
 | [apache/groovy](../repos/apache/groovy.md) | ⭐ 5,483 | 2026-09-13 | 18 |
 | [ben-manes/gradle-versions-plugin](../repos/ben-manes/gradle-versions-plugin.md) | ⭐ 4,078 | 2026-08-10 | 1 |
 | [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | ⭐ 3,524 | 2026-08-02 | 40 |
@@ -62,8 +62,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [gradle/gradle](../repos/gradle/gradle.md) | 78 | ⭐ 18,930 | 2026-08-01 | 2026-11-12 |
-| [rundeck/rundeck](../repos/rundeck/rundeck.md) | 50 | ⭐ 6,373 | 2026-08-02 | 2026-11-11 |
+| [gradle/gradle](../repos/gradle/gradle.md) | 79 | ⭐ 18,933 | 2026-08-01 | 2026-11-13 |
+| [rundeck/rundeck](../repos/rundeck/rundeck.md) | 51 | ⭐ 6,377 | 2026-08-02 | 2026-11-13 |
 | [apache/grails-core](../repos/apache/grails-core.md) | 41 | ⭐ 2,941 | 2026-08-03 | 2026-11-06 |
 | [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | 40 | ⭐ 3,524 | 2026-08-02 | 2026-11-06 |
 | [gravitee-io/issues](../repos/gravitee-io/issues.md) | 19 | ⭐ 69 | 2026-08-01 | 2026-11-06 |
@@ -95,4 +95,4 @@
 
 ---
 
-*Last updated: 2026-11-12T21:01:04.756Z*
+*Last updated: 2026-11-13T21:01:06.879Z*

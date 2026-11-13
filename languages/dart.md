@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 115
+- **Total Repositories**: 116
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-12
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 78,802 | 2026-08-01 | 37 |
+| [KaringX/karing](../repos/KaringX/karing.md) | ⭐ 16,135 | 2026-08-02 | 45 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 181,251 | 2026-08-01 | 54 |
+| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 98,862 | 2026-08-02 | 42 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [UnboundTechCo/defyxVPN](../repos/UnboundTechCo/defyxVPN.md) | ⭐ 926 | 2026-08-01 | 11 |
+| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 33,988 | 2026-08-02 | 51 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [KaringX/karing](../repos/KaringX/karing.md) | ⭐ 16,125 | 2026-08-02 | 44 |
+| [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | ⭐ 4,523 | 2026-08-02 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 98,690 | 2026-08-02 | 41 |
+| [KaringX/clashmi](../repos/KaringX/clashmi.md) | ⭐ 10,483 | 2026-08-02 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 33,955 | 2026-08-02 | 50 |
+| [wanghongenpin/proxypin](../repos/wanghongenpin/proxypin.md) | ⭐ 14,403 | 2026-08-06 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | ⭐ 4,507 | 2026-08-02 | 27 |
+| [Spyou/Zangetsu](../repos/Spyou/Zangetsu.md) | ⭐ 538 | 2026-08-12 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [KaringX/clashmi](../repos/KaringX/clashmi.md) | ⭐ 10,459 | 2026-08-02 | 15 |
+| [akashdh11/skystream](../repos/akashdh11/skystream.md) | ⭐ 698 | 2026-08-16 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lollipopkit/flutter_server_box](../repos/lollipopkit/flutter_server_box.md) | ⭐ 8,998 | 2026-08-11 | 12 |
+| [CyrilPeng/Venera-Next](../repos/CyrilPeng/Venera-Next.md) | ⭐ 2,284 | 2026-09-25 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZhFahim/anchor](../repos/ZhFahim/anchor.md) | ⭐ 1,711 | 2026-11-12 | 1 |
+| [ch6vip/novel-sound](../repos/ch6vip/novel-sound.md) | ⭐ 1,444 | 2026-11-13 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [zzyoxml/md3Music](../repos/zzyoxml/md3Music.md) | ⭐ 971 | 2026-10-14 | 酷狗概念版 第三方音乐播放器 Flutter + Rust    |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [AneryCoft/course_helper](../repos/AneryCoft/course_helper.md) | ⭐ 387 | 2026-10-14 | 学习通&#x2F;雨课堂课程管理，支持签到、随堂练习等功能 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Regncreative/Pulse](../repos/Regncreative/Pulse.md) | ⭐ 258 | 2026-10-14 | Modern Windows observability app with real-time system insights. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [venera-app/venera-prime](../repos/venera-app/venera-prime.md) | ⭐ 368 | 2026-10-18 | A comic app,but prime |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [openAnimeFlow/AnimeFlow](../repos/openAnimeFlow/AnimeFlow.md) | ⭐ 447 | 2026-11-04 | 跨平台看番 、追番软件,对接Bangumi服务同步用户收藏数据,对接弹弹Play提供弹幕体验，为您提供流畅的观影体验 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Eslamasabry/opencode-mobile-next](../repos/Eslamasabry/opencode-mobile-next.md) | ⭐ 62 | 2026-11-06 | Run Claude Code and OpenCode on your Android phone, no computer needed. Or follow and steer agent... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [flutter/devtools](../repos/flutter/devtools.md) | ⭐ 1,736 | 2026-11-06 | Developer tools for Flutter &amp; Dart |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [1wc10086/Han1mePlus](../repos/1wc10086/Han1mePlus.md) | ⭐ 750 | 2026-11-11 | ​一款基于 Flutter &amp; Dart 构建的跨平台 Hanime1 第三方客户端，支持 Android、iOS、macOS 及 Windows。 |
 
 
 ---
@@ -89,19 +89,19 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 181,251 | 2026-08-01 | 54 |
-| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 98,690 | 2026-08-02 | 41 |
+| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 98,862 | 2026-08-02 | 42 |
 | [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 78,802 | 2026-08-01 | 37 |
 | [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 62,114 | 2026-08-02 | 44 |
 | [KRTirtho/spotube](../repos/KRTirtho/spotube.md) | ⭐ 49,303 | 2026-08-04 | 20 |
 | [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 42,056 | 2026-08-01 | 44 |
-| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 33,955 | 2026-08-02 | 50 |
+| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 33,988 | 2026-08-02 | 51 |
 | [GopeedLab/gopeed](../repos/GopeedLab/gopeed.md) | ⭐ 27,552 | 2026-09-06 | 20 |
 | [mitesh77/Best-Flutter-UI-Templates](../repos/mitesh77/Best-Flutter-UI-Templates.md) | ⭐ 22,819 | 2026-08-01 | 2 |
 | [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | ⭐ 20,697 | 2026-08-02 | 42 |
 | [flutter/samples](../repos/flutter/samples.md) | ⭐ 19,271 | 2026-08-06 | 6 |
 | [xiaoyaocz/dart_simple_live](../repos/xiaoyaocz/dart_simple_live.md) | ⭐ 16,225 | 2026-08-01 | 26 |
-| [KaringX/karing](../repos/KaringX/karing.md) | ⭐ 16,125 | 2026-08-02 | 44 |
-| [wanghongenpin/proxypin](../repos/wanghongenpin/proxypin.md) | ⭐ 14,375 | 2026-08-06 | 22 |
+| [KaringX/karing](../repos/KaringX/karing.md) | ⭐ 16,135 | 2026-08-02 | 45 |
+| [wanghongenpin/proxypin](../repos/wanghongenpin/proxypin.md) | ⭐ 14,403 | 2026-08-06 | 23 |
 | [guozhigq/pilipala](../repos/guozhigq/pilipala.md) | ⭐ 13,848 | 2026-08-20 | 2 |
 | [Notsfsssf/pixez-flutter](../repos/Notsfsssf/pixez-flutter.md) | ⭐ 13,302 | 2026-08-09 | 22 |
 | [cfug/dio](../repos/cfug/dio.md) | ⭐ 12,840 | 2026-09-05 | 1 |
@@ -116,14 +116,14 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [flutter/flutter](../repos/flutter/flutter.md) | 54 | ⭐ 181,251 | 2026-08-01 | 2026-11-12 |
-| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | 50 | ⭐ 33,955 | 2026-08-02 | 2026-11-12 |
+| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | 51 | ⭐ 33,988 | 2026-08-02 | 2026-11-13 |
+| [KaringX/karing](../repos/KaringX/karing.md) | 45 | ⭐ 16,135 | 2026-08-02 | 2026-11-13 |
 | [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | 44 | ⭐ 42,056 | 2026-08-01 | 2026-11-10 |
-| [KaringX/karing](../repos/KaringX/karing.md) | 44 | ⭐ 16,125 | 2026-08-02 | 2026-11-12 |
 | [chen08209/FlClash](../repos/chen08209/FlClash.md) | 44 | ⭐ 62,114 | 2026-08-02 | 2026-11-08 |
 | [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | 42 | ⭐ 20,697 | 2026-08-02 | 2026-11-11 |
-| [localsend/localsend](../repos/localsend/localsend.md) | 41 | ⭐ 98,690 | 2026-08-02 | 2026-11-12 |
+| [localsend/localsend](../repos/localsend/localsend.md) | 42 | ⭐ 98,862 | 2026-08-02 | 2026-11-13 |
 | [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | 37 | ⭐ 78,802 | 2026-08-01 | 2026-11-12 |
-| [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | 27 | ⭐ 4,507 | 2026-08-02 | 2026-11-12 |
+| [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | 28 | ⭐ 4,523 | 2026-08-02 | 2026-11-13 |
 | [dart-lang/sdk](../repos/dart-lang/sdk.md) | 26 | ⭐ 11,338 | 2026-08-01 | 2026-11-06 |
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-12T21:01:04.730Z*
+*Last updated: 2026-11-13T21:01:06.860Z*

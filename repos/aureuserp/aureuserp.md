@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | PHP |
 | **License** | MIT |
-| **Stars** | ⭐ 12,158 |
-| **Forks** | 🍴 615 |
-| **Trending Days** | 21 |
+| **Stars** | ⭐ 12,215 |
+| **Forks** | 🍴 625 |
+| **Trending Days** | 22 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 11, 2026 |
-| **Last Seen** | Nov 3, 2026 |
+| **Last Seen** | Nov 13, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 21
+- **Trending Days**: 22
 - **Longest Streak**: 2 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`accounting`](../../topics/accounting.md) [`erp`](../../topics/erp.md) [`erp-software`](../../topics/erp-software.md) [`filamentphp`](../../topics/filamentphp.md) [`hrm`](../../topics/hrm.md) [`inventory-management`](../../topics/inventory-management.md) [`invoice`](../../topics/invoice.md) [`laravel`](../../topics/laravel.md) [`maintenance`](../../topics/maintenance.md) [`manufacturing`](../../topics/manufacturing.md) [`open-source-erp`](../../topics/open-source-erp.md) [`pms`](../../topics/pms.md) [`point-of-sale`](../../topics/point-of-sale.md) [`pos`](../../topics/pos.md) [`purchase-order`](../../topics/purchase-order.md) [`recruitment`](../../topics/recruitment.md) [`sale-or`](../../topics/sale-or.md) [`sales`](../../topics/sales.md) [`warehouse-management`](../../topics/warehouse-management.md) 
+[`accounting`](../../topics/accounting.md) [`crm`](../../topics/crm.md) [`erp`](../../topics/erp.md) [`erp-software`](../../topics/erp-software.md) [`filamentphp`](../../topics/filamentphp.md) [`hrm`](../../topics/hrm.md) [`inventory-management`](../../topics/inventory-management.md) [`invoice`](../../topics/invoice.md) [`laravel`](../../topics/laravel.md) [`maintenance`](../../topics/maintenance.md) [`manufacturing`](../../topics/manufacturing.md) [`open-source-erp`](../../topics/open-source-erp.md) [`pms`](../../topics/pms.md) [`point-of-sale`](../../topics/point-of-sale.md) [`pos`](../../topics/pos.md) [`purchase-order`](../../topics/purchase-order.md) [`recruitment`](../../topics/recruitment.md) [`sale-or`](../../topics/sale-or.md) [`sales`](../../topics/sales.md) [`warehouse-management`](../../topics/warehouse-management.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Frontend Development` `Systems Programming` 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-12T21:01:09.003Z*  
-*Data from 21 trending reports*
+*Last updated: 2026-11-13T21:01:11.249Z*  
+*Data from 22 trending reports*

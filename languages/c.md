@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 235
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-02
+- **Last Updated**: 2026-11-13
 
 ---
 
@@ -16,25 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DarkFlippers/unleashed-firmware](../repos/DarkFlippers/unleashed-firmware.md) | ⭐ 22,716 | 2026-08-01 | 9 |
+| [nothings/stb](../repos/nothings/stb.md) | ⭐ 35,019 | 2026-08-03 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 79,470 | 2026-08-02 | 19 |
+| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | ⭐ 4,652 | 2026-08-04 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [redis/redis](../repos/redis/redis.md) | ⭐ 77,477 | 2026-08-04 | 12 |
+| [quickjs-ng/quickjs](../repos/quickjs-ng/quickjs.md) | ⭐ 4,147 | 2026-08-07 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CTCaer/hekate](../repos/CTCaer/hekate.md) | ⭐ 9,012 | 2026-08-16 | 6 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 154,755 | 2026-08-07 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 80,843 | 2026-08-24 | 5 |
+| [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 38,334 | 2026-08-08 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [freebsd/freebsd-src](../repos/freebsd/freebsd-src.md) | ⭐ 9,455 | 2026-09-03 | 3 |
+| [KernelSU-Next/KernelSU-Next](../repos/KernelSU-Next/KernelSU-Next.md) | ⭐ 4,830 | 2026-08-09 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SlickAmogus/silent-hill-decomp](../repos/SlickAmogus/silent-hill-decomp.md) | ⭐ 850 | 2026-09-20 | 5 |
+| [duixcom/Duix-Avatar](../repos/duixcom/Duix-Avatar.md) | ⭐ 16,334 | 2026-08-15 | 10 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [CTCaer/hekate](../repos/CTCaer/hekate.md) | ⭐ 9,022 | 2026-08-16 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [UberGuidoZ/Flipper](../repos/UberGuidoZ/Flipper.md) | ⭐ 17,820 | 2026-08-19 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 50,820 | 2026-09-01 | 25 |
 
 
 ---
@@ -79,20 +88,20 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 153,855 | 2026-08-07 | 18 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 154,755 | 2026-08-07 | 19 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 140,879 | 2026-08-01 | 26 |
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 80,843 | 2026-08-24 | 5 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 79,470 | 2026-08-02 | 19 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 77,477 | 2026-08-04 | 12 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 75,752 | 2026-08-01 | 26 |
 | [git/git](../repos/git/git.md) | ⭐ 64,135 | 2026-08-05 | 10 |
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 48,141 | 2026-09-01 | 24 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 50,820 | 2026-09-01 | 25 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 47,337 | 2026-08-07 | 26 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 41,534 | 2026-08-01 | 12 |
+| [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 38,334 | 2026-08-08 | 5 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,982 | 2026-08-02 | 11 |
-| [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,813 | 2026-08-04 | 10 |
-| [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,928 | 2026-08-03 | 8 |
+| [nothings/stb](../repos/nothings/stb.md) | ⭐ 35,019 | 2026-08-03 | 9 |
 | [valinet/ExplorerPatcher](../repos/valinet/ExplorerPatcher.md) | ⭐ 34,217 | 2026-09-06 | 5 |
 | [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,509 | 2026-08-01 | 6 |
 | [lizongying/my-tv](../repos/lizongying/my-tv.md) | ⭐ 31,960 | 2026-08-17 | 2 |
@@ -111,11 +120,11 @@
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 26 | ⭐ 140,879 | 2026-08-01 | 2026-11-11 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 26 | ⭐ 75,752 | 2026-08-01 | 2026-10-28 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 26 | ⭐ 47,337 | 2026-08-07 | 2026-10-23 |
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | 24 | ⭐ 48,141 | 2026-09-01 | 2026-11-05 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | 25 | ⭐ 50,820 | 2026-09-01 | 2026-11-13 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 21 | ⭐ 28,089 | 2026-08-07 | 2026-10-23 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 19 | ⭐ 79,470 | 2026-08-02 | 2026-11-12 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 19 | ⭐ 7,021 | 2026-08-04 | 2026-10-23 |
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 18 | ⭐ 153,855 | 2026-08-07 | 2026-11-02 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 19 | ⭐ 154,755 | 2026-08-07 | 2026-11-13 |
 
 ---
 
@@ -224,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-12T21:01:04.703Z*
+*Last updated: 2026-11-13T21:01:06.833Z*

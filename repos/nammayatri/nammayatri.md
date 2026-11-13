@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Haskell |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 2,565 |
-| **Forks** | 🍴 399 |
-| **Trending Days** | 14 |
+| **Stars** | ⭐ 2,580 |
+| **Forks** | 🍴 408 |
+| **Trending Days** | 15 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Sep 13, 2026 |
+| **Last Seen** | Nov 13, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 14
+- **Trending Days**: 15
 - **Longest Streak**: 4 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-12T21:01:07.971Z*  
-*Data from 14 trending reports*
+*Last updated: 2026-11-13T21:01:10.119Z*  
+*Data from 15 trending reports*

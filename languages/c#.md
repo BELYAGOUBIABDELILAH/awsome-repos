@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 202
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-10
+- **Last Updated**: 2026-11-13
 
 ---
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/eShop](../repos/dotnet/eShop.md) | ⭐ 11,019 | 2026-08-01 | 8 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 120,552 | 2026-08-02 | 35 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,993 | 2026-08-03 | 42 |
+| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 6,136 | 2026-08-03 | 43 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 39,224 | 2026-08-03 | 17 |
+| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 39,237 | 2026-08-03 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | ⭐ 9,447 | 2026-08-04 | 20 |
+| [bloxstraplabs/bloxstrap](../repos/bloxstraplabs/bloxstrap.md) | ⭐ 3,211 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 56,130 | 2026-08-06 | 23 |
+| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | ⭐ 9,447 | 2026-08-04 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BepInEx/BepInEx](../repos/BepInEx/BepInEx.md) | ⭐ 9,020 | 2026-08-09 | 11 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 56,158 | 2026-08-06 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,535 | 2026-08-10 | 10 |
+| [4sval/FModel](../repos/4sval/FModel.md) | ⭐ 3,372 | 2026-08-22 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tianyu199509/DeskBox](../repos/Tianyu199509/DeskBox.md) | ⭐ 9,039 | 2026-09-27 | 11 |
+| [MoFeng2223/BrimDeck](../repos/MoFeng2223/BrimDeck.md) | ⭐ 636 | 2026-11-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nopSolutions/nopCommerce](../repos/nopSolutions/nopCommerce.md) | ⭐ 10,186 | 2026-10-13 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [LagrangeDev/Lagrange.Core](../repos/LagrangeDev/Lagrange.Core.md) | ⭐ 3,037 | 2026-11-12 | 1 |
+| [LagrangeDev/Lagrange.Core](../repos/LagrangeDev/Lagrange.Core.md) | ⭐ 3,044 | 2026-11-12 | 2 |
 
 
 ---
@@ -88,12 +85,12 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 120,344 | 2026-08-02 | 34 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 120,552 | 2026-08-02 | 35 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 58,750 | 2026-08-02 | 24 |
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 56,130 | 2026-08-06 | 23 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 56,158 | 2026-08-06 | 24 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,351 | 2026-08-01 | 17 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 40,927 | 2026-08-14 | 10 |
-| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 39,224 | 2026-08-03 | 17 |
+| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 39,237 | 2026-08-03 | 18 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,509 | 2026-08-01 | 25 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 33,494 | 2026-08-02 | 42 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,757 | 2026-08-01 | 23 |
@@ -115,16 +112,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [dotnet/skills](../repos/dotnet/skills.md) | 43 | ⭐ 6,136 | 2026-08-03 | 2026-11-13 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 42 | ⭐ 33,494 | 2026-08-02 | 2026-11-09 |
-| [dotnet/skills](../repos/dotnet/skills.md) | 42 | ⭐ 5,993 | 2026-08-03 | 2026-11-12 |
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 34 | ⭐ 120,344 | 2026-08-02 | 2026-11-10 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 35 | ⭐ 120,552 | 2026-08-02 | 2026-11-13 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 27 | ⭐ 17,894 | 2026-08-02 | 2026-11-10 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 25 | ⭐ 38,509 | 2026-08-01 | 2026-11-10 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 24 | ⭐ 58,750 | 2026-08-02 | 2026-10-28 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | 24 | ⭐ 56,158 | 2026-08-06 | 2026-11-13 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 23 | ⭐ 32,757 | 2026-08-01 | 2026-10-29 |
 | [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 23 | ⭐ 14,945 | 2026-08-01 | 2026-11-10 |
 | [dotnet/runtime](../repos/dotnet/runtime.md) | 23 | ⭐ 18,426 | 2026-08-04 | 2026-11-11 |
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | 23 | ⭐ 56,130 | 2026-08-06 | 2026-11-12 |
 
 ---
 
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-11-12T21:01:04.709Z*
+*Last updated: 2026-11-13T21:01:06.839Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | CSS |
 | **License** | CC0-1.0 |
-| **Stars** | ⭐ 379 |
-| **Forks** | 🍴 191 |
-| **Trending Days** | 5 |
+| **Stars** | ⭐ 384 |
+| **Forks** | 🍴 201 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Nov 6, 2026 |
+| **Last Seen** | Nov 13, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 1 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 379+ stars, strong contributor base |
+| **Community** | Very Active | 384+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 80&#x2F;100
+- **Trending Score**: 95&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-12T21:01:07.757Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-11-13T21:01:09.882Z*  
+*Data from 6 trending reports*

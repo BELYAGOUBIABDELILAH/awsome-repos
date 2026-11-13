@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 120
+- **Total Repositories**: 122
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-07
 
@@ -16,22 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 17,228 | 2026-08-02 | 13 |
+| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 23,781 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/fonts](../repos/google/fonts.md) | ⭐ 20,756 | 2026-08-03 | 9 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 29,759 | 2026-08-04 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenAEC-Foundation/open-pdf-studio](../repos/OpenAEC-Foundation/open-pdf-studio.md) | ⭐ 1,213 | 2026-08-03 | 7 |
+| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | ⭐ 6,316 | 2026-08-11 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sjj1024/PakePlus](../repos/Sjj1024/PakePlus.md) | ⭐ 15,925 | 2026-08-07 | 11 |
+| [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 30,260 | 2026-08-19 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | ⭐ 6,287 | 2026-08-11 | 17 |
+| [MengTo/threeui](../repos/MengTo/threeui.md) | ⭐ 7,273 | 2026-10-22 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xbtlin/ai-berkshire](../repos/xbtlin/ai-berkshire.md) | ⭐ 17,102 | 2026-09-14 | 9 |
+| [sdli1995/dlssg_for_sm86](../repos/sdli1995/dlssg_for_sm86.md) | ⭐ 5,174 | 2026-11-08 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [eternity4719/HowToLiveBetter](../repos/eternity4719/HowToLiveBetter.md) | ⭐ 75,575 | 2026-11-13 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [nautilus-os/GUST](../repos/nautilus-os/GUST.md) | ⭐ 149 | 2026-11-13 | 1 |
 
 
 ---
@@ -40,10 +46,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [yvoronoy/awesome-english](../repos/yvoronoy/awesome-english.md) | ⭐ 4,526 | 2026-10-14 | A collection of awesome study resources for learners of English. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [MengTo/threeui](../repos/MengTo/threeui.md) | ⭐ 7,060 | 2026-10-22 | Open-source ThreeUI Community catalog with live interactive components and complete Community sou... |
+| [MengTo/threeui](../repos/MengTo/threeui.md) | ⭐ 7,273 | 2026-10-22 | Open-source ThreeUI Community catalog with live interactive components and complete Community sou... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [faroukbmiled/RyukGram](../repos/faroukbmiled/RyukGram.md) | ⭐ 740 | 2026-10-25 | RyukGram, The Instagram tweak for iOS power users. |
@@ -68,6 +71,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [geekan/HowToLiveLonger](../repos/geekan/HowToLiveLonger.md) | ⭐ 36,035 | 2026-11-07 | A Programmer’s Guide to Longevity | Helping everyone live a longer, healthier, happier life. Avai... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [sdli1995/dlssg_for_sm86](../repos/sdli1995/dlssg_for_sm86.md) | ⭐ 5,174 | 2026-11-08 | Here is a dlssg for RTX30 Series GPU  |
 
 
 ---
@@ -79,6 +85,7 @@
 | [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 210,940 | 2026-08-03 | 23 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 141,705 | 2026-08-08 | 18 |
 | [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 76,613 | 2026-08-19 | 9 |
+| [eternity4719/HowToLiveBetter](../repos/eternity4719/HowToLiveBetter.md) | ⭐ 75,575 | 2026-11-13 | 1 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,943 | 2026-08-01 | 24 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,685 | 2026-08-01 | 11 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 43,224 | 2026-08-12 | 13 |
@@ -88,14 +95,13 @@
 | [geekan/HowToLiveLonger](../repos/geekan/HowToLiveLonger.md) | ⭐ 36,035 | 2026-11-07 | 1 |
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,980 | 2026-08-12 | 2 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 30,478 | 2026-08-09 | 17 |
-| [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 30,104 | 2026-08-19 | 11 |
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 28,016 | 2026-08-04 | 16 |
+| [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 30,260 | 2026-08-19 | 12 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 29,759 | 2026-08-04 | 17 |
 | [alchaincyf/huashu-design](../repos/alchaincyf/huashu-design.md) | ⭐ 27,955 | 2026-10-09 | 7 |
 | [Tencent/weui](../repos/Tencent/weui.md) | ⭐ 27,434 | 2026-09-25 | 1 |
 | [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 1 |
-| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 23,508 | 2026-08-01 | 12 |
+| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 23,781 | 2026-08-01 | 13 |
 | [google/fonts](../repos/google/fonts.md) | ⭐ 20,756 | 2026-08-03 | 9 |
-| [Chuyu-Team/Dism-Multi-language](../repos/Chuyu-Team/Dism-Multi-language.md) | ⭐ 20,324 | 2026-09-05 | 1 |
 
 ---
 
@@ -108,11 +114,11 @@
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 18 | ⭐ 10,131 | 2026-08-01 | 2026-11-07 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 18 | ⭐ 11,040 | 2026-08-03 | 2026-10-28 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 18 | ⭐ 141,705 | 2026-08-08 | 2026-11-03 |
+| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | 18 | ⭐ 6,316 | 2026-08-11 | 2026-11-13 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 17 | ⭐ 29,759 | 2026-08-04 | 2026-11-13 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 17 | ⭐ 30,478 | 2026-08-09 | 2026-11-04 |
-| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | 17 | ⭐ 6,287 | 2026-08-11 | 2026-11-12 |
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 16 | ⭐ 28,016 | 2026-08-04 | 2026-10-15 |
 | [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 16 | ⭐ 6,305 | 2026-08-05 | 2026-11-06 |
-| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | 13 | ⭐ 17,228 | 2026-08-02 | 2026-11-12 |
+| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | 13 | ⭐ 23,781 | 2026-08-01 | 2026-11-13 |
 
 ---
 
@@ -221,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-11-12T21:01:04.762Z*
+*Last updated: 2026-11-13T21:01:06.883Z*

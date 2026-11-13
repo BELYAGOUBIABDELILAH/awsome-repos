@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 81
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-12
+- **Last Updated**: 2026-11-13
 
 ---
 
@@ -16,22 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 922 | 2026-08-01 | 39 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,490 | 2026-08-01 | 61 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,489 | 2026-08-01 | 60 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 54,469 | 2026-08-02 | 45 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 53,938 | 2026-08-02 | 44 |
+| [ZoranPandovski/awesome-testing-tools](../repos/ZoranPandovski/awesome-testing-tools.md) | ⭐ 384 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,467 | 2026-08-04 | 34 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,650 | 2026-08-05 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,642 | 2026-08-05 | 29 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,994 | 2026-08-06 | 30 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,999 | 2026-08-06 | 31 |
 
 
 ---
@@ -76,8 +73,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,994 | 2026-08-06 | 30 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 53,938 | 2026-08-02 | 44 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,999 | 2026-08-06 | 31 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 54,469 | 2026-08-02 | 45 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,487 | 2026-08-01 | 14 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,467 | 2026-08-04 | 34 |
 | [adobe-fonts/source-code-pro](../repos/adobe-fonts/source-code-pro.md) | ⭐ 20,445 | 2026-09-07 | 1 |
@@ -90,7 +87,7 @@
 | [tachyons-css/tachyons](../repos/tachyons-css/tachyons.md) | ⭐ 11,724 | 2026-10-16 | 6 |
 | [jdan/98.css](../repos/jdan/98.css.md) | ⭐ 11,557 | 2026-08-09 | 3 |
 | [StylishThemes/GitHub-Dark](../repos/StylishThemes/GitHub-Dark.md) | ⭐ 9,966 | 2026-08-19 | 3 |
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,642 | 2026-08-05 | 29 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,650 | 2026-08-05 | 30 |
 | [troxler/awesome-css-frameworks](../repos/troxler/awesome-css-frameworks.md) | ⭐ 9,495 | 2026-08-23 | 2 |
 | [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,461 | 2026-09-02 | 6 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,427 | 2026-08-01 | 19 |
@@ -103,13 +100,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 60 | ⭐ 1,489 | 2026-08-01 | 2026-11-12 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 44 | ⭐ 53,938 | 2026-08-02 | 2026-11-12 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 61 | ⭐ 1,490 | 2026-08-01 | 2026-11-13 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 45 | ⭐ 54,469 | 2026-08-02 | 2026-11-13 |
 | [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 39 | ⭐ 922 | 2026-08-01 | 2026-11-12 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 34 | ⭐ 45,467 | 2026-08-04 | 2026-11-12 |
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | 30 | ⭐ 82,994 | 2026-08-06 | 2026-11-12 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | 31 | ⭐ 82,999 | 2026-08-06 | 2026-11-13 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 30 | ⭐ 9,650 | 2026-08-05 | 2026-11-13 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 29 | ⭐ 1,431 | 2026-08-01 | 2026-10-22 |
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 29 | ⭐ 9,642 | 2026-08-05 | 2026-11-12 |
 | [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | 27 | ⭐ 7,004 | 2026-08-10 | 2026-11-06 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 23 | ⭐ 12,511 | 2026-08-01 | 2026-10-09 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 19 | ⭐ 9,427 | 2026-08-01 | 2026-11-09 |
@@ -202,4 +199,4 @@
 
 ---
 
-*Last updated: 2026-11-12T21:01:04.715Z*
+*Last updated: 2026-11-13T21:01:06.845Z*

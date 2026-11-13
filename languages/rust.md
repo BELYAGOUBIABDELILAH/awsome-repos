@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 243
+- **Total Repositories**: 244
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-05
 
@@ -16,31 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 121,842 | 2026-07-30 | 14 |
+| [zellij-org/zellij](../repos/zellij-org/zellij.md) | ⭐ 36,039 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 91,951 | 2026-07-31 | 9 |
+| [rustfs/rustfs](../repos/rustfs/rustfs.md) | ⭐ 36,060 | 2026-08-09 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 50,290 | 2026-08-02 | 23 |
+| [block/buzz](../repos/block/buzz.md) | ⭐ 37,272 | 2026-08-19 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zellij-org/zellij](../repos/zellij-org/zellij.md) | ⭐ 36,036 | 2026-08-04 | 3 |
+| [ModernRelay/omnigraph](../repos/ModernRelay/omnigraph.md) | ⭐ 2,217 | 2026-10-20 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ShayanAbbas1/dbdelve](../repos/ShayanAbbas1/dbdelve.md) | ⭐ 1,211 | 2026-10-27 | 3 |
+| [ShayanAbbas1/dbdelve](../repos/ShayanAbbas1/dbdelve.md) | ⭐ 1,296 | 2026-10-27 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Universal-Debloater-Alliance/universal-android-debloater-next-generation](../repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation.md) | ⭐ 10,027 | 2026-11-09 | 2 |
+| [aimod-cc/Agent2API](../repos/aimod-cc/Agent2API.md) | ⭐ 2,252 | 2026-11-13 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [vosen/ZLUDA](../repos/vosen/ZLUDA.md) | ⭐ 15,052 | 2026-10-14 | CUDA on non-NVIDIA GPUs |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [pollen-robotics/microduck](../repos/pollen-robotics/microduck.md) | ⭐ 12,745 | 2026-10-16 | A Tiny biped duck robot 🦆 |
@@ -61,13 +58,16 @@
 | [fish-shell/fish-shell](../repos/fish-shell/fish-shell.md) | ⭐ 34,332 | 2026-10-19 | The user-friendly command line shell. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ModernRelay/omnigraph](../repos/ModernRelay/omnigraph.md) | ⭐ 1,599 | 2026-10-20 | Object-storage native graph database with branching and typed ontology |
+| [ModernRelay/omnigraph](../repos/ModernRelay/omnigraph.md) | ⭐ 2,217 | 2026-10-20 | Object-storage native graph database with branching and typed ontology |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Jamailar/Beav](../repos/Jamailar/Beav.md) | ⭐ 2,089 | 2026-10-20 | 小红书 AI 运营工作台｜小红书采集、评论区下载、素材库、选题、AI写作、小红书全域解决方案，开箱即用，一键安装，小红书AI工作台，自媒体素材库，AI写作+图片自动编排，小红书版OpenClaw... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [trymirai/uzu](../repos/trymirai/uzu.md) | ⭐ 3,037 | 2026-10-21 | A high-performance inference engine for AI models |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [redlib-org/redlib](../repos/redlib-org/redlib.md) | ⭐ 3,896 | 2026-10-22 |  Private front-end for Reddit  |
 
 
 ---
@@ -221,4 +221,4 @@
 
 ---
 
-*Last updated: 2026-11-12T21:01:04.845Z*
+*Last updated: 2026-11-13T21:01:06.941Z*

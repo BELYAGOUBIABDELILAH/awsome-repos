@@ -16,25 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/container](../repos/apple/container.md) | ⭐ 51,307 | 2026-08-01 | 20 |
+| [caezium/Burrow](../repos/caezium/Burrow.md) | ⭐ 1,766 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sozercan/kaset](../repos/sozercan/kaset.md) | ⭐ 2,575 | 2026-08-04 | 11 |
+| [apple/container](../repos/apple/container.md) | ⭐ 51,414 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jellyfin/Swiftfin](../repos/jellyfin/Swiftfin.md) | ⭐ 4,274 | 2026-08-14 | 7 |
+| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 4,139 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 15,383 | 2026-09-21 | 15 |
+| [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,714 | 2026-09-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/Llama-macOS](../repos/ggml-org/Llama-macOS.md) | ⭐ 1,785 | 2026-10-06 | 6 |
+| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | ⭐ 1,418 | 2026-09-13 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frs0n/GestaltEdit](../repos/frs0n/GestaltEdit.md) | ⭐ 1,018 | 2026-11-11 | 2 |
+| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 15,451 | 2026-09-21 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/Procexp-Mac](../repos/microsoft/Procexp-Mac.md) | ⭐ 765 | 2026-11-12 | 1 |
+| [iFurySt/open-computer-use](../repos/iFurySt/open-computer-use.md) | ⭐ 2,963 | 2026-10-18 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [frs0n/GestaltEdit](../repos/frs0n/GestaltEdit.md) | ⭐ 1,036 | 2026-11-11 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [microsoft/Procexp-Mac](../repos/microsoft/Procexp-Mac.md) | ⭐ 906 | 2026-11-12 | 2 |
 
 
 ---
@@ -52,7 +58,7 @@
 | [hugeBlack/GetMoreRam](../repos/hugeBlack/GetMoreRam.md) | ⭐ 456 | 2026-10-17 | A simple AltSign wrapper app that allows you to enable &quot;Increased Memory Limit&quot; to your sideloade... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [iFurySt/open-computer-use](../repos/iFurySt/open-computer-use.md) | ⭐ 2,874 | 2026-10-18 | 👾 Open Computer Use – Open-Source Alternative to Codex Computer Use |
+| [iFurySt/open-computer-use](../repos/iFurySt/open-computer-use.md) | ⭐ 2,963 | 2026-10-18 | 👾 Open Computer Use – Open-Source Alternative to Codex Computer Use |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [lycorp-jp/sim-use](../repos/lycorp-jp/sim-use.md) | ⭐ 1,469 | 2026-10-20 | Give your AI agent eyes and hands on iOS Simulator and Android emulator&#x2F;devices. |
@@ -81,9 +87,9 @@
 |------------|-------|------------|---------------|
 | [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,542 | 2026-08-05 | 18 |
 | [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) | ⭐ 53,673 | 2026-09-04 | 5 |
-| [apple/container](../repos/apple/container.md) | ⭐ 51,307 | 2026-08-01 | 20 |
+| [apple/container](../repos/apple/container.md) | ⭐ 51,414 | 2026-08-01 | 21 |
 | [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,920 | 2026-08-12 | 15 |
-| [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,277 | 2026-09-01 | 4 |
+| [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,714 | 2026-09-01 | 5 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 28,732 | 2026-08-01 | 27 |
 | [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 27,997 | 2026-08-04 | 4 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,918 | 2026-08-04 | 16 |
@@ -93,7 +99,7 @@
 | [SnapKit/SnapKit](../repos/SnapKit/SnapKit.md) | ⭐ 20,344 | 2026-08-14 | 1 |
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,685 | 2026-08-01 | 4 |
 | [OpenEmu/OpenEmu](../repos/OpenEmu/OpenEmu.md) | ⭐ 17,766 | 2026-09-13 | 1 |
-| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 15,383 | 2026-09-21 | 15 |
+| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 15,451 | 2026-09-21 | 16 |
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 15,130 | 2026-08-03 | 4 |
 | [Whisky-App/Whisky](../repos/Whisky-App/Whisky.md) | ⭐ 15,107 | 2026-09-06 | 2 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,999 | 2026-08-04 | 22 |
@@ -109,13 +115,13 @@
 | [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 33 | ⭐ 14,103 | 2026-08-01 | 2026-11-11 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 27 | ⭐ 28,732 | 2026-08-01 | 2026-11-06 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 22 | ⭐ 14,999 | 2026-08-04 | 2026-10-29 |
-| [apple/container](../repos/apple/container.md) | 20 | ⭐ 51,307 | 2026-08-01 | 2026-11-12 |
+| [apple/container](../repos/apple/container.md) | 21 | ⭐ 51,414 | 2026-08-01 | 2026-11-13 |
 | [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 18 | ⭐ 9,415 | 2026-08-02 | 2026-11-07 |
 | [swiftlang/swift](../repos/swiftlang/swift.md) | 18 | ⭐ 70,542 | 2026-08-05 | 2026-11-06 |
+| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 16 | ⭐ 4,139 | 2026-08-01 | 2026-11-13 |
 | [apple/swift-nio](../repos/apple/swift-nio.md) | 16 | ⭐ 8,547 | 2026-08-04 | 2026-11-06 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 16 | ⭐ 26,918 | 2026-08-04 | 2026-10-23 |
-| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 15 | ⭐ 4,037 | 2026-08-01 | 2026-11-05 |
-| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | 15 | ⭐ 36,920 | 2026-08-12 | 2026-10-27 |
+| [xtool-org/xtool](../repos/xtool-org/xtool.md) | 16 | ⭐ 15,451 | 2026-09-21 | 2026-11-13 |
 
 ---
 
@@ -224,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-11-12T21:01:04.856Z*
+*Last updated: 2026-11-13T21:01:06.952Z*

@@ -1,6 +1,6 @@
 # crowdsecurity&#x2F;crowdsec
 
-> CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
+> Open-source IDS&#x2F;IPS, WAF and bot detection for Linux, Windows, Docker and Kubernetes, with a crowdsourced blocklist of malicious IPs.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;crowdsecurity&#x2F;crowdsec) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | MIT |
-| **Stars** | ⭐ 14,742 |
-| **Forks** | 🍴 713 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 15,596 |
+| **Forks** | 🍴 763 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 3, 2026 |
-| **Last Seen** | Sep 3, 2026 |
+| **Last Seen** | Nov 13, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Go or attacks-prevention*
+*Similar: Check repositories in Go or anti-bot*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`attacks-prevention`](../../topics/attacks-prevention.md) [`detection`](../../topics/detection.md) [`ids`](../../topics/ids.md) [`ips`](../../topics/ips.md) [`linux`](../../topics/linux.md) [`protection`](../../topics/protection.md) [`security`](../../topics/security.md) [`waf`](../../topics/waf.md) 
+[`anti-bot`](../../topics/anti-bot.md) [`blocklist`](../../topics/blocklist.md) [`bot-detection`](../../topics/bot-detection.md) [`bot-protection`](../../topics/bot-protection.md) [`cybersecurity`](../../topics/cybersecurity.md) [`docker`](../../topics/docker.md) [`firewall`](../../topics/firewall.md) [`ids-ips`](../../topics/ids-ips.md) [`intrusion-detection`](../../topics/intrusion-detection.md) [`intrusion-prevention`](../../topics/intrusion-prevention.md) [`kubernetes`](../../topics/kubernetes.md) [`modsecurity`](../../topics/modsecurity.md) [`security`](../../topics/security.md) [`threat-intelligence`](../../topics/threat-intelligence.md) [`waap`](../../topics/waap.md) [`waf`](../../topics/waf.md) [`web-application-firewall`](../../topics/web-application-firewall.md) [`web-security`](../../topics/web-security.md) 
 
 ### Curated Categories
-`Cybersecurity` `Systems Programming` 
+`Web Development` `Containers &amp; Orchestration` `Cybersecurity` `Systems Programming` `Automation` 
 
 ---
 
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-12T21:01:10.057Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-11-13T21:01:12.482Z*  
+*Data from 2 trending reports*

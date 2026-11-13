@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Java |
 | **License** | MIT |
-| **Stars** | ⭐ 67,207 |
-| **Forks** | 🍴 21,527 |
-| **Trending Days** | 13 |
+| **Stars** | ⭐ 67,230 |
+| **Forks** | 🍴 21,530 |
+| **Trending Days** | 14 |
 | **Peak Rank** | #10 |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Nov 12, 2026 |
+| **Last Seen** | Nov 13, 2026 |
 
 
 ---
@@ -48,8 +48,8 @@
 ### Highlights
 
 - **Peak Rank**: #10
-- **Trending Days**: 13
-- **Longest Streak**: 3 days
+- **Trending Days**: 14
+- **Longest Streak**: 4 days
 
 ---
 
@@ -71,7 +71,7 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Good | Well-maintained documentation |
-| **Community** | Very Active | 67,207+ stars, strong contributor base |
+| **Community** | Very Active | 67,230+ stars, strong contributor base |
 | **Maturity** | Production Ready | Battle-tested and stable |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -92,5 +92,5 @@
 
 ---
 
-*Last updated: 2026-11-12T21:01:08.074Z*  
-*Data from 13 trending reports*
+*Last updated: 2026-11-13T21:01:10.226Z*  
+*Data from 14 trending reports*

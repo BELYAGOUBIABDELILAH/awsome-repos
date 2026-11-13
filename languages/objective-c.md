@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/promises](../repos/google/promises.md) | ⭐ 3,828 | 2026-08-01 | 56 |
+| [google/promises](../repos/google/promises.md) | ⭐ 3,829 | 2026-08-01 | 57 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 136 | 2026-08-01 | 57 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 136 | 2026-08-01 | 58 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 60 | 2026-08-01 | 57 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 60 | 2026-08-01 | 58 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 292 | 2026-08-01 | 56 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 292 | 2026-08-01 | 57 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,603 | 2026-08-02 | 42 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,611 | 2026-08-01 | 58 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,600 | 2026-08-04 | 38 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,617 | 2026-08-02 | 43 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,322 | 2026-08-04 | 31 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,762 | 2026-08-03 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SVGKit/SVGKit](../repos/SVGKit/SVGKit.md) | ⭐ 4,583 | 2026-08-04 | 4 |
+| [SVGKit/SVGKit](../repos/SVGKit/SVGKit.md) | ⭐ 4,583 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | ⭐ 678 | 2026-08-04 | 38 |
+| [AzureAD/microsoft-authentication-library-common-for-objc](../repos/AzureAD/microsoft-authentication-library-common-for-objc.md) | ⭐ 66 | 2026-08-07 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | ⭐ 4,505 | 2026-08-05 | 42 |
+| [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | ⭐ 2,038 | 2026-08-08 | 48 |
 
 
 ---
@@ -67,7 +67,7 @@
 | [nakst/gf](../repos/nakst/gf.md) | ⭐ 3,541 | 2026-11-09 | A GDB frontend for Lïnux. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [pookjw/HermesEnabler](../repos/pookjw/HermesEnabler.md) | ⭐ 1,491 | 2026-11-11 | Enable Hermès Watch Faces on any Apple Watch devices |
+| [pookjw/HermesEnabler](../repos/pookjw/HermesEnabler.md) | ⭐ 1,746 | 2026-11-11 | Enable Hermès Watch Faces on any Apple Watch devices |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Turbo1123/Turbo-IO](../repos/Turbo1123/Turbo-IO.md) | ⭐ 346 | 2026-11-11 | 雷鸟 iO &#x2F; RayNeo iO 非官方 SDK：原生鸿蒙 HarmonyOS SDK&#x2F;客户端、iOS 客户端及 iOS&#x2F;Android 官方 App 扩展。自有模型、联网搜索、眼镜导航、录音... |
@@ -81,8 +81,8 @@
 |------------|-------|------------|---------------|
 | [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | 1 |
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,371 | 2026-08-02 | 7 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,608 | 2026-08-01 | 57 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,603 | 2026-08-02 | 42 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,611 | 2026-08-01 | 58 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,617 | 2026-08-02 | 43 |
 | [SnapKit/Masonry](../repos/SnapKit/Masonry.md) | ⭐ 18,130 | 2026-09-02 | 1 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,600 | 2026-08-04 | 38 |
 | [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,411 | 2026-08-04 | 21 |
@@ -92,7 +92,7 @@
 | [marcuswestin/WebViewJavascriptBridge](../repos/marcuswestin/WebViewJavascriptBridge.md) | ⭐ 14,308 | 2026-09-13 | 1 |
 | [ccgus/fmdb](../repos/ccgus/fmdb.md) | ⭐ 13,828 | 2026-08-28 | 2 |
 | [CoderMJLee/MJRefresh](../repos/CoderMJLee/MJRefresh.md) | ⭐ 13,810 | 2026-09-01 | 1 |
-| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,742 | 2026-08-03 | 29 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,762 | 2026-08-03 | 30 |
 | [eczarny/spectacle](../repos/eczarny/spectacle.md) | ⭐ 13,632 | 2026-09-19 | 1 |
 | [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,322 | 2026-08-04 | 31 |
 | [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,067 | 2026-08-02 | 2 |
@@ -106,13 +106,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 57 | ⭐ 136 | 2026-08-01 | 2026-11-12 |
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 57 | ⭐ 60 | 2026-08-01 | 2026-11-12 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 57 | ⭐ 25,608 | 2026-08-01 | 2026-11-10 |
-| [google/promises](../repos/google/promises.md) | 56 | ⭐ 3,828 | 2026-08-01 | 2026-11-12 |
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 56 | ⭐ 292 | 2026-08-01 | 2026-11-12 |
-| [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | 47 | ⭐ 2,038 | 2026-08-08 | 2026-11-12 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 42 | ⭐ 22,603 | 2026-08-02 | 2026-11-12 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 58 | ⭐ 136 | 2026-08-01 | 2026-11-13 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 58 | ⭐ 60 | 2026-08-01 | 2026-11-13 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 58 | ⭐ 25,611 | 2026-08-01 | 2026-11-13 |
+| [google/promises](../repos/google/promises.md) | 57 | ⭐ 3,829 | 2026-08-01 | 2026-11-13 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 57 | ⭐ 292 | 2026-08-01 | 2026-11-13 |
+| [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | 48 | ⭐ 2,038 | 2026-08-08 | 2026-11-13 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 43 | ⭐ 22,617 | 2026-08-02 | 2026-11-13 |
 | [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | 42 | ⭐ 4,505 | 2026-08-05 | 2026-11-12 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | 38 | ⭐ 16,600 | 2026-08-04 | 2026-11-12 |
 | [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 38 | ⭐ 678 | 2026-08-04 | 2026-11-12 |
@@ -224,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-11-12T21:01:04.821Z*
+*Last updated: 2026-11-13T21:01:06.917Z*

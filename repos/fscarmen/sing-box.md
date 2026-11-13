@@ -1,6 +1,6 @@
 # fscarmen&#x2F;sing-box
 
-> Sing-box 全家桶 --- 一键多协议脚本。支持 Reality、Hysteria2 、TUIC 、Trojan 、Shadowsocks 、 AnyTLS 、ShadowTLS 、 Vmess 、 VLESS 、NaiveProxy，搭配 Argo 隧道等，多客户端订阅（Clash &#x2F; V2rayN &#x2F; Throne &#x2F; ShadowRocket &#x2F; SFA ），无须域名、功能强大、配置灵活。
+> Sing-box 全家桶 --- 一键多协议脚本。支持 Reality、Hysteria2 、TUIC 、Trojan 、Shadowsocks 、 AnyTLS 、ShadowTLS 、 Vmess 、 VLESS 、NaiveProxy 、Snell，搭配 Argo 隧道等，多客户端订阅（Clash &#x2F; V2rayN &#x2F; Throne &#x2F; ShadowRocket &#x2F; SFA ），无须域名、功能强大、配置灵活。
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;fscarmen&#x2F;sing-box) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Shell |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 5,921 |
-| **Forks** | 🍴 1,147 |
-| **Trending Days** | 5 |
+| **Stars** | ⭐ 6,038 |
+| **Forks** | 🍴 1,167 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 21, 2026 |
-| **Last Seen** | Oct 28, 2026 |
+| **Last Seen** | Nov 13, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 2 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 85&#x2F;100
+- **Trending Score**: 95&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-12T21:01:10.608Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-11-13T21:01:13.103Z*  
+*Data from 6 trending reports*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 26
+- **Total Repositories**: 27
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-07
 
@@ -16,16 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,327 | 2026-08-01 | 71 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,336 | 2026-08-01 | 72 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 1,195 | 2026-08-01 | 50 |
+| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 1,196 | 2026-08-01 | 51 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [janestreet/magic-trace](../repos/janestreet/magic-trace.md) | ⭐ 6,385 | 2026-08-05 | 13 |
+| [janestreet/magic-trace](../repos/janestreet/magic-trace.md) | ⭐ 6,400 | 2026-08-05 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [semgrep/semgrep-interfaces](../repos/semgrep/semgrep-interfaces.md) | ⭐ 20 | 2026-10-27 | 10 |
+| [semgrep/semgrep-interfaces](../repos/semgrep/semgrep-interfaces.md) | ⭐ 20 | 2026-10-27 | 11 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [janestreet/core](../repos/janestreet/core.md) | ⭐ 1,360 | 2026-11-13 | 1 |
 
 
 ---
@@ -41,6 +44,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [geocaml/ocaml-tiff](../repos/geocaml/ocaml-tiff.md) | ⭐ 21 | 2026-11-05 | Pure OCaml library for working with TIFF files |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [janestreet/core](../repos/janestreet/core.md) | ⭐ 1,360 | 2026-11-13 | Jane Street Capital&#39;s standard library overlay |
 
 
 ---
@@ -54,10 +60,10 @@
 | [rescript-lang/rescript](../repos/rescript-lang/rescript.md) | ⭐ 7,478 | 2026-10-03 | 7 |
 | [facebook/pyre-check](../repos/facebook/pyre-check.md) | ⭐ 7,177 | 2026-09-02 | 3 |
 | [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,629 | 2026-08-01 | 62 |
-| [janestreet/magic-trace](../repos/janestreet/magic-trace.md) | ⭐ 6,385 | 2026-08-05 | 13 |
+| [janestreet/magic-trace](../repos/janestreet/magic-trace.md) | ⭐ 6,400 | 2026-08-05 | 14 |
 | [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | ⭐ 5,660 | 2026-08-01 | 41 |
 | [bcpierce00/unison](../repos/bcpierce00/unison.md) | ⭐ 5,560 | 2026-08-07 | 29 |
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,327 | 2026-08-01 | 71 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,336 | 2026-08-01 | 72 |
 | [mirage/mirage](../repos/mirage/mirage.md) | ⭐ 3,006 | 2026-10-07 | 1 |
 | [CatalaLang/catala](../repos/CatalaLang/catala.md) | ⭐ 2,418 | 2026-08-02 | 4 |
 | [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,128 | 2026-08-01 | 33 |
@@ -65,10 +71,10 @@
 | [savonet/liquidsoap](../repos/savonet/liquidsoap.md) | ⭐ 1,755 | 2026-08-10 | 6 |
 | [ocaml/opam](../repos/ocaml/opam.md) | ⭐ 1,387 | 2026-08-01 | 22 |
 | [janestreet/bonsai](../repos/janestreet/bonsai.md) | ⭐ 1,381 | 2026-08-05 | 3 |
+| [janestreet/core](../repos/janestreet/core.md) | ⭐ 1,360 | 2026-11-13 | 1 |
 | [stategraph/stategraph](../repos/stategraph/stategraph.md) | ⭐ 1,283 | 2026-08-09 | 2 |
-| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 1,195 | 2026-08-01 | 50 |
+| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 1,196 | 2026-08-01 | 51 |
 | [oxcaml/oxcaml](../repos/oxcaml/oxcaml.md) | ⭐ 931 | 2026-08-03 | 15 |
-| [ocaml/ocaml-lsp](../repos/ocaml/ocaml-lsp.md) | ⭐ 909 | 2026-08-06 | 3 |
 
 ---
 
@@ -76,9 +82,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | 71 | ⭐ 3,327 | 2026-08-01 | 2026-11-12 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | 72 | ⭐ 3,336 | 2026-08-01 | 2026-11-13 |
 | [ocaml/ocaml](../repos/ocaml/ocaml.md) | 62 | ⭐ 6,629 | 2026-08-01 | 2026-11-10 |
-| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | 50 | ⭐ 1,195 | 2026-08-01 | 2026-11-12 |
+| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | 51 | ⭐ 1,196 | 2026-08-01 | 2026-11-13 |
 | [ocaml/dune](../repos/ocaml/dune.md) | 42 | ⭐ 1,934 | 2026-08-01 | 2026-11-06 |
 | [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | 41 | ⭐ 5,660 | 2026-08-01 | 2026-11-06 |
 | [facebook/infer](../repos/facebook/infer.md) | 41 | ⭐ 15,728 | 2026-08-02 | 2026-10-25 |
@@ -117,7 +123,8 @@
 - [semgrep/semgrep-interfaces](../repos/semgrep/semgrep-interfaces.md) - Store the ATD&#x2F;openapi&#x2F;protobuf&#x2F;... interfaces between semgrep components
 - [meta/infer](../repos/meta/infer.md) - A static analyzer for Java, C, C++, and Objective-C
 - [geocaml/ocaml-tiff](../repos/geocaml/ocaml-tiff.md) - Pure OCaml library for working with TIFF files
+- [janestreet/core](../repos/janestreet/core.md) - Jane Street Capital&#39;s standard library overlay
 
 ---
 
-*Last updated: 2026-11-12T21:01:04.818Z*
+*Last updated: 2026-11-13T21:01:06.915Z*

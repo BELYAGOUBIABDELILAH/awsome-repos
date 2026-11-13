@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 49,837 |
-| **Forks** | 🍴 3,673 |
-| **Trending Days** | 18 |
-| **Peak Rank** | #2 |
+| **Stars** | ⭐ 50,509 |
+| **Forks** | 🍴 3,748 |
+| **Trending Days** | 19 |
+| **Peak Rank** | #1 |
 
 | **First Seen** | Aug 20, 2026 |
-| **Last Seen** | Nov 11, 2026 |
+| **Last Seen** | Nov 13, 2026 |
 
 
 ---
@@ -46,11 +46,12 @@
 **Sep 13, 2026** — Rank #14 (+438 ⭐)  
 **Sep 14, 2026** — Rank #2 (+1796 ⭐)  
 **Oct 9, 2026** — Rank #5 (+323 ⭐)  
+**Nov 13, 2026** — Rank #1 (+206 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #2
-- **Trending Days**: 18
+- **Peak Rank**: #1
+- **Trending Days**: 19
 - **Longest Streak**: 5 days
 
 ---
@@ -71,12 +72,12 @@
 
 | Aspect | Rating | Details |
 |--------|--------|---------|
-| **Difficulty** | Beginner | Approachable with good examples |
-| **Documentation** | Average | Basic documentation available |
-| **Community** | Growing | Emerging community |
+| **Difficulty** | Intermediate | Well-documented but extensive API |
+| **Documentation** | Good | Well-maintained documentation |
+| **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Experimental | New project, evolving rapidly |
 | **Maintenance** | Very Active | Updated within last week |
-| **Learning Curve** | Medium | Moderate learning investment |
+| **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
 - General purpose
@@ -89,10 +90,10 @@
 #### Metrics
 - **Hidden Gem**: ✗ No
 - **Trending Score**: 100&#x2F;100
-- **Historical Rank**: Top 5 (Peak: #2)
+- **Historical Rank**: Reached #1
 
 
 ---
 
-*Last updated: 2026-11-12T21:01:09.520Z*  
-*Data from 18 trending reports*
+*Last updated: 2026-11-13T21:01:11.859Z*  
+*Data from 19 trending reports*

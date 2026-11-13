@@ -16,13 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,088 | 2026-08-01 | 48 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,087 | 2026-08-01 | 49 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | ⭐ 16,594 | 2026-08-09 | 14 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [atmos/camo](../repos/atmos/camo.md) | ⭐ 1,880 | 2026-11-12 | 1 |
+| [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,909 | 2026-08-01 | 19 |
 
 
 ---
@@ -41,9 +38,9 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,615 | 2026-08-01 | 30 |
-| [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,887 | 2026-08-01 | 18 |
+| [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,909 | 2026-08-01 | 19 |
 | [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | ⭐ 16,594 | 2026-08-09 | 14 |
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,088 | 2026-08-01 | 48 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,087 | 2026-08-01 | 49 |
 | [atmos/camo](../repos/atmos/camo.md) | ⭐ 1,880 | 2026-11-12 | 1 |
 | [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,161 | 2026-08-06 | 14 |
 | [taigaio/taiga-front](../repos/taigaio/taiga-front.md) | ⭐ 385 | 2026-10-13 | 2 |
@@ -54,9 +51,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | 48 | ⭐ 16,088 | 2026-08-01 | 2026-11-12 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | 49 | ⭐ 16,087 | 2026-08-01 | 2026-11-13 |
 | [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | 30 | ⭐ 22,615 | 2026-08-01 | 2026-11-05 |
-| [mojs/mojs](../repos/mojs/mojs.md) | 18 | ⭐ 18,887 | 2026-08-01 | 2026-11-07 |
+| [mojs/mojs](../repos/mojs/mojs.md) | 19 | ⭐ 18,909 | 2026-08-01 | 2026-11-13 |
 | [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | 14 | ⭐ 1,161 | 2026-08-06 | 2026-11-06 |
 | [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | 14 | ⭐ 16,594 | 2026-08-09 | 2026-11-12 |
 | [taigaio/taiga-front](../repos/taigaio/taiga-front.md) | 2 | ⭐ 385 | 2026-10-13 | 2026-10-19 |
@@ -76,4 +73,4 @@
 
 ---
 
-*Last updated: 2026-11-12T21:01:04.719Z*
+*Last updated: 2026-11-13T21:01:06.850Z*

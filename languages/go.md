@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 344
+- **Total Repositories**: 346
 - **First Seen**: 2026-07-31
-- **Last Updated**: 2026-11-02
+- **Last Updated**: 2026-11-13
 
 ---
 
@@ -16,52 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [golang/go](../repos/golang/go.md) | ⭐ 139,873 | 2026-07-31 | 19 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 56,051 | 2026-08-01 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 55,886 | 2026-08-01 | 28 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 37,394 | 2026-08-01 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [superplanehq/superplane](../repos/superplanehq/superplane.md) | ⭐ 10,031 | 2026-08-02 | 16 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 186,884 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 6,541 | 2026-08-02 | 24 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 6,586 | 2026-08-02 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kubescape/kubescape](../repos/kubescape/kubescape.md) | ⭐ 11,870 | 2026-08-02 | 3 |
+| [kubescape/kubescape](../repos/kubescape/kubescape.md) | ⭐ 11,890 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 129,032 | 2026-08-04 | 15 |
+| [larksuite/cli](../repos/larksuite/cli.md) | ⭐ 18,097 | 2026-08-06 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [smtg-ai/claude-squad](../repos/smtg-ai/claude-squad.md) | ⭐ 8,791 | 2026-08-12 | 2 |
+| [cli/cli](../repos/cli/cli.md) | ⭐ 47,000 | 2026-08-11 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tailscale/tailcat](../repos/tailscale/tailcat.md) | ⭐ 9,033 | 2026-08-28 | 6 |
+| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 50,509 | 2026-08-20 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [moby/buildkit](../repos/moby/buildkit.md) | ⭐ 10,409 | 2026-09-08 | 3 |
+| [hashicorp/vault](../repos/hashicorp/vault.md) | ⭐ 36,508 | 2026-08-26 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/cloudflared](../repos/cloudflare/cloudflared.md) | ⭐ 16,556 | 2026-09-19 | 5 |
+| [tailscale/tailcat](../repos/tailscale/tailcat.md) | ⭐ 9,389 | 2026-08-28 | 7 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [razorpay/slashdocs](../repos/razorpay/slashdocs.md) | ⭐ 286 | 2026-10-14 | Give your agents the power to publish reviewable HTML documents. Self-hosted server + CLI + remot... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [google/agentmesh](../repos/google/agentmesh.md) | ⭐ 1,073 | 2026-10-14 | Agent Mesh |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [go-chi/chi](../repos/go-chi/chi.md) | ⭐ 22,951 | 2026-10-14 | lightweight, idiomatic and composable router for building Go HTTP services |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Christ9038/Ydisks-Xianyu-Helper](../repos/Christ9038/Ydisks-Xianyu-Helper.md) | ⭐ 2,332 | 2026-10-14 | 闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jasonxu114514/opencode2api](../repos/jasonxu114514/opencode2api.md) | ⭐ 1,045 | 2026-10-16 | A Go-based OpenCode Zen &#x2F; Zen Go API proxy with OpenAI &amp; Anthropic API compatibility, key&#x2F;proxy p... |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [heartleo/zlib](../repos/heartleo/zlib.md) | ⭐ 1,074 | 2026-10-18 | A command-line tool for Z-Library. Search, download, send to Kindle, and integrate with AI agents. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Mag1cFall/AIStudio2API](../repos/Mag1cFall/AIStudio2API.md) | ⭐ 677 | 2026-10-18 | 将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic &amp; Gemini Compatible API |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [goharbor/harbor](../repos/goharbor/harbor.md) | ⭐ 29,577 | 2026-10-20 | An open source trusted cloud native registry project that stores, signs, and scans content. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [istio/istio](../repos/istio/istio.md) | ⭐ 38,492 | 2026-10-20 | Connect, secure, control, and observe services. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Asymptote-Labs/agent-beacon](../repos/Asymptote-Labs/agent-beacon.md) | ⭐ 2,698 | 2026-10-21 | The cross-harness, self-improving memory layer for AI agents. Join our community: https:&#x2F;&#x2F;discord... |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 185,709 | 2026-08-01 | 27 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 186,884 | 2026-08-01 | 28 |
 | [golang/go](../repos/golang/go.md) | ⭐ 139,873 | 2026-07-31 | 19 |
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 129,032 | 2026-08-04 | 15 |
 | [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,859 | 2026-08-15 | 14 |
@@ -102,12 +102,12 @@
 | [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 67,560 | 2026-08-11 | 9 |
 | [minio/minio](../repos/minio/minio.md) | ⭐ 61,365 | 2026-08-12 | 2 |
 | [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | 2 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 55,886 | 2026-08-01 | 28 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 56,051 | 2026-08-01 | 29 |
 | [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,668 | 2026-08-22 | 7 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 51,364 | 2026-08-01 | 22 |
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,305 | 2026-08-04 | 3 |
+| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 50,509 | 2026-08-20 | 19 |
 | [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 50,430 | 2026-08-03 | 2 |
-| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 50,085 | 2026-08-06 | 11 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | 28 | ⭐ 55,886 | 2026-08-01 | 2026-11-12 |
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 28 | ⭐ 37,201 | 2026-08-01 | 2026-11-11 |
-| [ollama/ollama](../repos/ollama/ollama.md) | 27 | ⭐ 185,709 | 2026-08-01 | 2026-11-02 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | 29 | ⭐ 56,051 | 2026-08-01 | 2026-11-13 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 29 | ⭐ 37,394 | 2026-08-01 | 2026-11-13 |
+| [ollama/ollama](../repos/ollama/ollama.md) | 28 | ⭐ 186,884 | 2026-08-01 | 2026-11-13 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 26 | ⭐ 39,167 | 2026-08-01 | 2026-11-09 |
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 24 | ⭐ 6,541 | 2026-08-02 | 2026-11-12 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 25 | ⭐ 6,586 | 2026-08-02 | 2026-11-13 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 22 | ⭐ 51,364 | 2026-08-01 | 2026-11-04 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 20 | ⭐ 45,097 | 2026-08-07 | 2026-10-29 |
 | [golang/go](../repos/golang/go.md) | 19 | ⭐ 139,873 | 2026-07-31 | 2026-11-12 |
+| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 19 | ⭐ 50,509 | 2026-08-20 | 2026-11-13 |
 | [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | 18 | ⭐ 1,031 | 2026-08-01 | 2026-11-04 |
-| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 18 | ⭐ 49,837 | 2026-08-20 | 2026-11-11 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-12T21:01:04.753Z*
+*Last updated: 2026-11-13T21:01:06.877Z*

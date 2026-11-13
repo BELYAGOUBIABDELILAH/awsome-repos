@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 180
+- **Total Repositories**: 181
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-11
+- **Last Updated**: 2026-11-13
 
 ---
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 22,074 | 2026-08-01 | 12 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 25,276 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | ⭐ 8,820 | 2026-08-02 | 15 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 65,835 | 2026-08-02 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | ⭐ 3,290 | 2026-08-02 | 20 |
+| [vivizzz007/vivi-music](../repos/vivizzz007/vivi-music.md) | ⭐ 4,151 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 11,273 | 2026-08-03 | 16 |
+| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 11,284 | 2026-08-03 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [keiyoushi/extensions-source](../repos/keiyoushi/extensions-source.md) | ⭐ 4,891 | 2026-08-16 | 8 |
+| [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 19,263 | 2026-08-17 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CYQawa/YunX](../repos/CYQawa/YunX.md) | ⭐ 7,538 | 2026-10-06 | 13 |
+| [tasks/tasks](../repos/tasks/tasks.md) | ⭐ 5,741 | 2026-09-27 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wasi-master/wmkeyboard](../repos/wasi-master/wmkeyboard.md) | ⭐ 930 | 2026-10-11 | 6 |
+| [CYQawa/YunX](../repos/CYQawa/YunX.md) | ⭐ 7,746 | 2026-10-06 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tidain/YunX-Desktop](../repos/tidain/YunX-Desktop.md) | ⭐ 5,136 | 2026-11-09 | 4 |
+| [ahXN00/OwnTV](../repos/ahXN00/OwnTV.md) | ⭐ 808 | 2026-10-06 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HydeYYHH/Litube](../repos/HydeYYHH/Litube.md) | ⭐ 609 | 2026-11-12 | 1 |
+| [Lelonio/Square](../repos/Lelonio/Square.md) | ⭐ 517 | 2026-10-08 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [tidain/YunX-Desktop](../repos/tidain/YunX-Desktop.md) | ⭐ 5,584 | 2026-11-09 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [orailnoor/DroidDesk](../repos/orailnoor/DroidDesk.md) | ⭐ 4,281 | 2026-10-14 | DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR, and P... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [android/architecture-samples](../repos/android/architecture-samples.md) | ⭐ 45,876 | 2026-10-14 | A collection of samples to discuss and showcase different architectural tools and patterns for An... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Spotui/Spotui](../repos/Spotui/Spotui.md) | ⭐ 652 | 2026-10-14 | Spotify clone with deep integration  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [realidkroo/musicfy](../repos/realidkroo/musicfy.md) | ⭐ 144 | 2026-10-15 | Musicfy repos. what is this? its a music player, offline or online, that you can use for free, wi... |
@@ -77,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jieapi/AiCode](../repos/jieapi/AiCode.md) | ⭐ 339 | 2026-10-22 | 在 Android 上运行的 AI 编程 Agent，内置 Linux 终端与代码编辑器，支持 MCP 协议扩展。 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [theothernt/AerialViews](../repos/theothernt/AerialViews.md) | ⭐ 1,120 | 2026-10-25 | A screensaver for Android TV devices including Google TV, Nvidia Shield, and Fire TV. Inspired by... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [subhra74/xdm](../repos/subhra74/xdm.md) | ⭐ 8,121 | 2026-10-25 | Fast, reliable download accelerator and video downloader since 2013 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Mahmud0808/TeleDrive](../repos/Mahmud0808/TeleDrive.md) | ⭐ 429 | 2026-10-25 | Turn a private Telegram channel into your personal cloud drive. Android, Windows, Linux and macOS... |
 
 
 ---
@@ -85,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 65,725 | 2026-08-02 | 24 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 65,835 | 2026-08-02 | 25 |
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 63,713 | 2026-08-03 | 17 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 56,380 | 2026-08-06 | 17 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,561 | 2026-08-04 | 15 |
@@ -94,14 +97,14 @@
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 33,265 | 2026-08-08 | 23 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,537 | 2026-08-05 | 8 |
 | [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 28,342 | 2026-08-11 | 5 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 25,276 | 2026-08-01 | 19 |
 | [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 25,103 | 2026-08-12 | 10 |
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 24,746 | 2026-08-01 | 18 |
 | [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,479 | 2026-08-05 | 6 |
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 23,173 | 2026-08-02 | 6 |
 | [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 22,074 | 2026-08-01 | 12 |
 | [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 21,437 | 2026-09-07 | 11 |
 | [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,354 | 2026-08-12 | 4 |
-| [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 19,176 | 2026-08-17 | 9 |
+| [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 19,263 | 2026-08-17 | 10 |
 | [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 16,248 | 2026-08-02 | 12 |
 | [ktorio/ktor](../repos/ktorio/ktor.md) | ⭐ 14,525 | 2026-09-12 | 1 |
 | [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) | ⭐ 12,644 | 2026-08-06 | 7 |
@@ -112,14 +115,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 24 | ⭐ 65,725 | 2026-08-02 | 2026-11-11 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 25 | ⭐ 65,835 | 2026-08-02 | 2026-11-13 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 23 | ⭐ 33,265 | 2026-08-08 | 2026-11-09 |
 | [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 20 | ⭐ 3,290 | 2026-08-02 | 2026-11-12 |
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | 18 | ⭐ 24,746 | 2026-08-01 | 2026-10-26 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | 19 | ⭐ 25,276 | 2026-08-01 | 2026-11-13 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | 18 | ⭐ 44,223 | 2026-08-03 | 2026-11-07 |
+| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | 17 | ⭐ 11,284 | 2026-08-03 | 2026-11-13 |
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 17 | ⭐ 63,713 | 2026-08-03 | 2026-11-02 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 17 | ⭐ 56,380 | 2026-08-06 | 2026-11-04 |
-| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | 16 | ⭐ 11,273 | 2026-08-03 | 2026-11-12 |
 | [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) | 16 | ⭐ 2,217 | 2026-08-04 | 2026-11-09 |
 | [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | 15 | ⭐ 8,820 | 2026-08-02 | 2026-11-12 |
 
@@ -230,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-12T21:01:04.789Z*
+*Last updated: 2026-11-13T21:01:06.898Z*

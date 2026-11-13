@@ -7,31 +7,11 @@
 ## November 2026
 
 **Period**: 2026-11-01 to 2026-11-28  
-**Gems Found**: 383
+**Gems Found**: 406
 
 ---
 
-### 1. [dsx-ai-factory&#x2F;nvke](../../repos/dsx-ai-factory/nvke.md)
-
-**NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,110 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 99/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Nov 5, 2026 |
-
-**Why it's a gem**: High growth velocity (+268 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/dsx-ai-factory/nvke.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;dsx-ai-factory&#x2F;nvke)
-
----
-
-### 2. [realidkroo&#x2F;Mochy-Music](../../repos/realidkroo/Mochy-Music.md)
+### 1. [realidkroo&#x2F;Mochy-Music](../../repos/realidkroo/Mochy-Music.md)
 
 **A modern, cool, sleek music player. made with &lt;3**
 
@@ -51,7 +31,47 @@
 
 ---
 
-### 3. [zzet&#x2F;gortex](../../repos/zzet/gortex.md)
+### 2. [dsx-ai-factory&#x2F;nvke](../../repos/dsx-ai-factory/nvke.md)
+
+**NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,110 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 98/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Nov 5, 2026 |
+
+**Why it's a gem**: High growth velocity (+268 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/dsx-ai-factory/nvke.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;dsx-ai-factory&#x2F;nvke)
+
+---
+
+### 3. [vivizzz007&#x2F;vivi-music](../../repos/vivizzz007/vivi-music.md)
+
+**Vivi-Music is an expressive Material 3–based YouTube Music client for Android.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 4,151 |
+| 💻 **Language** | Kotlin |
+| 🏆 **Gem Score** | 96/100 |
+| 📈 **Trending Days** | 13 |
+| 📅 **First Seen** | Aug 2, 2026 |
+
+**Why it's a gem**: High growth velocity (+53 stars&#x2F;day) • Trending 13 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/vivizzz007/vivi-music.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;vivizzz007&#x2F;vivi-music)
+
+---
+
+### 4. [zzet&#x2F;gortex](../../repos/zzet/gortex.md)
 
 **High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https:&#x2F;&#x2F;discord.gg&#x2F;39MFHu3J5d**
 
@@ -59,7 +79,7 @@
 |---|---|
 | ⭐ **Stars** | 2,003 |
 | 💻 **Language** | Go |
-| 🏆 **Gem Score** | 97/100 |
+| 🏆 **Gem Score** | 96/100 |
 | 📈 **Trending Days** | 7 |
 | 📅 **First Seen** | Aug 4, 2026 |
 
@@ -71,7 +91,7 @@
 
 ---
 
-### 4. [PimpinPumpkin&#x2F;Vela](../../repos/PimpinPumpkin/Vela.md)
+### 5. [PimpinPumpkin&#x2F;Vela](../../repos/PimpinPumpkin/Vela.md)
 
 **Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras**
 
@@ -88,26 +108,6 @@
 **Best for**: 
 
 [View Passport](../../repos/PimpinPumpkin/Vela.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;PimpinPumpkin&#x2F;Vela)
-
----
-
-### 5. [vivizzz007&#x2F;vivi-music](../../repos/vivizzz007/vivi-music.md)
-
-**Vivi-Music is an expressive Material 3–based YouTube Music client for Android.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 4,115 |
-| 💻 **Language** | Kotlin |
-| 🏆 **Gem Score** | 95/100 |
-| 📈 **Trending Days** | 12 |
-| 📅 **First Seen** | Aug 2, 2026 |
-
-**Why it's a gem**: High growth velocity (+56 stars&#x2F;day) • Trending 12 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/vivizzz007/vivi-music.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;vivizzz007&#x2F;vivi-music)
 
 ---
 
@@ -171,7 +171,27 @@
 
 ---
 
-### 9. [OpenAEC-Foundation&#x2F;open-pdf-studio](../../repos/OpenAEC-Foundation/open-pdf-studio.md)
+### 9. [ShayanAbbas1&#x2F;dbdelve](../../repos/ShayanAbbas1/dbdelve.md)
+
+**Fast and lightweight DB Client made in Rust and GPUI.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,296 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 95/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Oct 27, 2026 |
+
+**Why it's a gem**: High growth velocity (+89 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/ShayanAbbas1/dbdelve.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;ShayanAbbas1&#x2F;dbdelve)
+
+---
+
+### 10. [OpenAEC-Foundation&#x2F;open-pdf-studio](../../repos/OpenAEC-Foundation/open-pdf-studio.md)
 
 **An open source PDF viewer&#x2F;editor with it&#39;s own blazing fast rust engine**
 
@@ -191,19 +211,19 @@
 
 ---
 
-### 10. [Jakubantalik&#x2F;transitions.dev](../../repos/Jakubantalik/transitions.dev.md)
+### 11. [Jakubantalik&#x2F;transitions.dev](../../repos/Jakubantalik/transitions.dev.md)
 
 **UI motion agent, a library of 43+ crafted transitions, a skill that fits your workflow.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6,287 |
+| ⭐ **Stars** | 6,316 |
 | 💻 **Language** | HTML |
 | 🏆 **Gem Score** | 93/100 |
-| 📈 **Trending Days** | 17 |
+| 📈 **Trending Days** | 18 |
 | 📅 **First Seen** | Aug 11, 2026 |
 
-**Why it's a gem**: High growth velocity (+86 stars&#x2F;day) • Trending 17 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+83 stars&#x2F;day) • Trending 18 times • Very active development • Strong community engagement
 
 **Best for**: 
 
@@ -211,7 +231,7 @@
 
 ---
 
-### 11. [Gaurav-Gosain&#x2F;tuios](../../repos/Gaurav-Gosain/tuios.md)
+### 12. [Gaurav-Gosain&#x2F;tuios](../../repos/Gaurav-Gosain/tuios.md)
 
 **A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X&#x2F;Twitter account.**
 
@@ -231,7 +251,27 @@
 
 ---
 
-### 12. [darkzOGx&#x2F;youtube-automation-agent](../../repos/darkzOGx/youtube-automation-agent.md)
+### 13. [AdventDevInc&#x2F;kudu](../../repos/AdventDevInc/kudu.md)
+
+**Free Windows, Mac and Linux cleaner, scanner, and more.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 4,336 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 92/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 6, 2026 |
+
+**Why it's a gem**: High growth velocity (+147 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/AdventDevInc/kudu.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;AdventDevInc&#x2F;kudu)
+
+---
+
+### 14. [darkzOGx&#x2F;youtube-automation-agent](../../repos/darkzOGx/youtube-automation-agent.md)
 
 **🎬 Open-source, self-hosted AI agent that runs a YouTube channel end to end: researches topics, writes scripts, generates narration, visuals and video, optimizes SEO, and publishes after your approval, then learns from analytics. Works with Gemini, OpenAI, OpenRouter, DeepSeek and more.**
 
@@ -243,7 +283,7 @@
 | 📈 **Trending Days** | 10 |
 | 📅 **First Seen** | Aug 14, 2026 |
 
-**Why it's a gem**: High growth velocity (+58 stars&#x2F;day) • Trending 10 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+58 stars&#x2F;day) • Trending 10 times • Strong community engagement
 
 **Best for**: 
 
@@ -251,7 +291,7 @@
 
 ---
 
-### 13. [shy3130&#x2F;tick-stock-panel](../../repos/shy3130/tick-stock-panel.md)
+### 15. [shy3130&#x2F;tick-stock-panel](../../repos/shy3130/tick-stock-panel.md)
 
 **TSP自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源**
 
@@ -271,7 +311,7 @@
 
 ---
 
-### 14. [elie222&#x2F;rakazo](../../repos/elie222/rakazo.md)
+### 16. [elie222&#x2F;rakazo](../../repos/elie222/rakazo.md)
 
 **Open-source Grok Bot alternative. Choose your own model and sandbox.**
 
@@ -291,7 +331,7 @@
 
 ---
 
-### 15. [homeassistant-ai&#x2F;ha-mcp](../../repos/homeassistant-ai/ha-mcp.md)
+### 17. [homeassistant-ai&#x2F;ha-mcp](../../repos/homeassistant-ai/ha-mcp.md)
 
 **Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.**
 
@@ -311,19 +351,19 @@
 
 ---
 
-### 16. [agent-substrate&#x2F;substrate](../../repos/agent-substrate/substrate.md)
+### 18. [agent-substrate&#x2F;substrate](../../repos/agent-substrate/substrate.md)
 
 **Agent Substrate: the core system**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6,541 |
+| ⭐ **Stars** | 6,586 |
 | 💻 **Language** | Go |
 | 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 24 |
+| 📈 **Trending Days** | 25 |
 | 📅 **First Seen** | Aug 2, 2026 |
 
-**Why it's a gem**: High growth velocity (+129 stars&#x2F;day) • Trending 24 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+126 stars&#x2F;day) • Trending 25 times • Very active development • Strong community engagement
 
 **Best for**: 
 
@@ -331,7 +371,7 @@
 
 ---
 
-### 17. [rorkai&#x2F;App-Store-Connect-CLI](../../repos/rorkai/App-Store-Connect-CLI.md)
+### 19. [rorkai&#x2F;App-Store-Connect-CLI](../../repos/rorkai/App-Store-Connect-CLI.md)
 
 **Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more**
 
@@ -351,7 +391,7 @@
 
 ---
 
-### 18. [metadist&#x2F;synaplan](../../repos/metadist/synaplan.md)
+### 20. [metadist&#x2F;synaplan](../../repos/metadist/synaplan.md)
 
 **Own the flow: one open-source AI platform for your knowledge, models and channels – web, WhatsApp, email, Outlook, Nextcloud &amp; ownCloud. Local and cloud models side by side, with the cost on every answer.**
 
@@ -371,46 +411,6 @@
 
 ---
 
-### 19. [Tianyu199509&#x2F;DeskBox](../../repos/Tianyu199509/DeskBox.md)
-
-**A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 9,039 |
-| 💻 **Language** | C# |
-| 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 11 |
-| 📅 **First Seen** | Sep 27, 2026 |
-
-**Why it's a gem**: High growth velocity (+118 stars&#x2F;day) • Trending 11 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/Tianyu199509/DeskBox.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Tianyu199509&#x2F;DeskBox)
-
----
-
-### 20. [ShayanAbbas1&#x2F;dbdelve](../../repos/ShayanAbbas1/dbdelve.md)
-
-**Fast and lightweight DB Client made in Rust and GPUI.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,211 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Oct 27, 2026 |
-
-**Why it's a gem**: High growth velocity (+81 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/ShayanAbbas1/dbdelve.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;ShayanAbbas1&#x2F;dbdelve)
-
----
-
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-12T21:01:11.878Z*  
+*Generated: 2026-11-13T21:01:14.551Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T21:01:12.099Z",
+  "generated_at": "2026-11-13T21:01:14.791Z",
   "total_count": 100,
   "repositories": [
     {
@@ -217,10 +217,10 @@
       "full_name": "ollama/ollama",
       "owner": "ollama",
       "name": "ollama",
-      "stars": 185709,
+      "stars": 186884,
       "language": "Go",
       "first_seen": "2026-08-01",
-      "trending_days": 27
+      "trending_days": 28
     },
     {
       "rank": 23,
@@ -277,10 +277,10 @@
       "full_name": "Genymobile/scrcpy",
       "owner": "Genymobile",
       "name": "scrcpy",
-      "stars": 153855,
+      "stars": 154755,
       "language": "C",
       "first_seen": "2026-08-07",
-      "trending_days": 18
+      "trending_days": 19
     },
     {
       "rank": 29,
@@ -397,10 +397,10 @@
       "full_name": "ggml-org/llama.cpp",
       "owner": "ggml-org",
       "name": "llama.cpp",
-      "stars": 134476,
+      "stars": 134863,
       "language": "C++",
       "first_seen": "2026-08-01",
-      "trending_days": 37
+      "trending_days": 38
     },
     {
       "rank": 41,
@@ -497,10 +497,10 @@
       "full_name": "2dust/v2rayN",
       "owner": "2dust",
       "name": "v2rayN",
-      "stars": 120344,
+      "stars": 120552,
       "language": "C#",
       "first_seen": "2026-08-02",
-      "trending_days": 34
+      "trending_days": 35
     },
     {
       "rank": 51,
@@ -547,10 +547,10 @@
       "full_name": "addyosmani/agent-skills",
       "owner": "addyosmani",
       "name": "agent-skills",
-      "stars": 116594,
+      "stars": 117105,
       "language": "JavaScript",
       "first_seen": "2026-08-05",
-      "trending_days": 37
+      "trending_days": 38
     },
     {
       "rank": 56,
@@ -754,6 +754,16 @@
     },
     {
       "rank": 76,
+      "full_name": "localsend/localsend",
+      "owner": "localsend",
+      "name": "localsend",
+      "stars": 98862,
+      "language": "Dart",
+      "first_seen": "2026-08-02",
+      "trending_days": 42
+    },
+    {
+      "rank": 77,
       "full_name": "microsoft/playwright",
       "owner": "microsoft",
       "name": "playwright",
@@ -761,16 +771,6 @@
       "language": "TypeScript",
       "first_seen": "2026-10-15",
       "trending_days": 2
-    },
-    {
-      "rank": 77,
-      "full_name": "localsend/localsend",
-      "owner": "localsend",
-      "name": "localsend",
-      "stars": 98690,
-      "language": "Dart",
-      "first_seen": "2026-08-02",
-      "trending_days": 41
     },
     {
       "rank": 78,
@@ -807,10 +807,10 @@
       "full_name": "nvm-sh/nvm",
       "owner": "nvm-sh",
       "name": "nvm",
-      "stars": 95985,
+      "stars": 96106,
       "language": "Shell",
       "first_seen": "2026-08-01",
-      "trending_days": 52
+      "trending_days": 53
     },
     {
       "rank": 82,
