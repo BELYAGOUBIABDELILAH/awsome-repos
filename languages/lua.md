@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 137
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-11
+- **Last Updated**: 2026-11-14
 
 ---
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | ⭐ 5,130 | 2026-08-01 | 26 |
+| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 31,089 | 2026-08-01 | 47 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RLS-Modding/rls_career_overhaul](../repos/RLS-Modding/rls_career_overhaul.md) | ⭐ 296 | 2026-08-01 | 20 |
+| [apache/apisix](../repos/apache/apisix.md) | ⭐ 17,322 | 2026-08-01 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [overextended/ox_inventory](../repos/overextended/ox_inventory.md) | ⭐ 564 | 2026-08-02 | 14 |
+| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,378 | 2026-08-01 | 36 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mason-org/mason.nvim](../repos/mason-org/mason.nvim.md) | ⭐ 10,533 | 2026-08-04 | 8 |
+| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | ⭐ 304 | 2026-08-01 | 52 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stevearc/oil.nvim](../repos/stevearc/oil.nvim.md) | ⭐ 6,980 | 2026-08-04 | 11 |
+| [id577/FS25_AdvancedDamageSystem](../repos/id577/FS25_AdvancedDamageSystem.md) | ⭐ 326 | 2026-08-02 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [folke/tokyonight.nvim](../repos/folke/tokyonight.nvim.md) | ⭐ 8,254 | 2026-08-05 | 5 |
+| [esmuellert/codediff.nvim](../repos/esmuellert/codediff.nvim.md) | ⭐ 1,632 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [folke/lazy.nvim](../repos/folke/lazy.nvim.md) | ⭐ 21,731 | 2026-08-06 | 12 |
+| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,687 | 2026-08-04 | 41 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PathOfBuildingCommunity/PathOfBuilding](../repos/PathOfBuildingCommunity/PathOfBuilding.md) | ⭐ 5,506 | 2026-08-09 | 15 |
+| [miscusi-peek/cheatengine-mcp-bridge](../repos/miscusi-peek/cheatengine-mcp-bridge.md) | ⭐ 1,804 | 2026-08-09 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvim-telescope/telescope.nvim](../repos/nvim-telescope/telescope.nvim.md) | ⭐ 19,853 | 2026-08-11 | 18 |
+| [PathOfBuildingCommunity/PathOfBuilding](../repos/PathOfBuildingCommunity/PathOfBuilding.md) | ⭐ 5,510 | 2026-08-09 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PathOfBuildingCommunity/PathOfBuilding-PoE2](../repos/PathOfBuildingCommunity/PathOfBuilding-PoE2.md) | ⭐ 1,944 | 2026-08-20 | 16 |
+| [PathOfBuildingCommunity/PathOfBuilding-PoE2](../repos/PathOfBuildingCommunity/PathOfBuilding-PoE2.md) | ⭐ 1,944 | 2026-08-20 | 17 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [tomasklaen/uosc](../repos/tomasklaen/uosc.md) | ⭐ 3,446 | 2026-10-15 | Feature-rich minimalist proximity-based UI for MPV player. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Grokitach/Stalker_GAMMA](../repos/Grokitach/Stalker_GAMMA.md) | ⭐ 1,345 | 2026-10-17 | S.T.A.L.K.E.R. G.A.M.M.A. modpack for Anomaly |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [aimeoa/hanshuang-codex](../repos/aimeoa/hanshuang-codex.md) | ⭐ 855 | 2026-11-06 | 针对GPT 6.0,workbuddyV4.1flash的破甲实验项目 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [craftzdog/dotfiles](../repos/craftzdog/dotfiles.md) | ⭐ 7,284 | 2026-11-06 | My personal dotfiles |
 
 
 ---
@@ -88,9 +88,9 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,375 | 2026-08-01 | 35 |
-| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,677 | 2026-08-04 | 40 |
-| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 30,941 | 2026-08-01 | 46 |
+| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,378 | 2026-08-01 | 36 |
+| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,687 | 2026-08-04 | 41 |
+| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 31,089 | 2026-08-01 | 47 |
 | [NvChad/NvChad](../repos/NvChad/NvChad.md) | ⭐ 28,507 | 2026-10-01 | 2 |
 | [nagadomi/waifu2x](../repos/nagadomi/waifu2x.md) | ⭐ 28,218 | 2026-08-01 | 2 |
 | [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | ⭐ 27,836 | 2026-08-04 | 33 |
@@ -99,7 +99,7 @@
 | [nvim-telescope/telescope.nvim](../repos/nvim-telescope/telescope.nvim.md) | ⭐ 19,853 | 2026-08-11 | 18 |
 | [LunarVim/LunarVim](../repos/LunarVim/LunarVim.md) | ⭐ 19,254 | 2026-10-23 | 1 |
 | [yetone/avante.nvim](../repos/yetone/avante.nvim.md) | ⭐ 18,120 | 2026-08-03 | 5 |
-| [apache/apisix](../repos/apache/apisix.md) | ⭐ 17,311 | 2026-08-01 | 24 |
+| [apache/apisix](../repos/apache/apisix.md) | ⭐ 17,322 | 2026-08-01 | 25 |
 | [xmake-io/xmake](../repos/xmake-io/xmake.md) | ⭐ 12,281 | 2026-08-04 | 17 |
 | [mason-org/mason.nvim](../repos/mason-org/mason.nvim.md) | ⭐ 10,533 | 2026-08-04 | 8 |
 | [nvim-mini/mini.nvim](../repos/nvim-mini/mini.nvim.md) | ⭐ 9,608 | 2026-08-26 | 16 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | 51 | ⭐ 303 | 2026-08-01 | 2026-11-12 |
-| [koreader/koreader](../repos/koreader/koreader.md) | 46 | ⭐ 30,941 | 2026-08-01 | 2026-11-07 |
-| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | 40 | ⭐ 31,677 | 2026-08-04 | 2026-11-12 |
-| [Kong/kong](../repos/Kong/kong.md) | 35 | ⭐ 44,375 | 2026-08-01 | 2026-11-11 |
+| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | 52 | ⭐ 304 | 2026-08-01 | 2026-11-14 |
+| [koreader/koreader](../repos/koreader/koreader.md) | 47 | ⭐ 31,089 | 2026-08-01 | 2026-11-14 |
+| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | 41 | ⭐ 31,687 | 2026-08-04 | 2026-11-14 |
+| [Kong/kong](../repos/Kong/kong.md) | 36 | ⭐ 44,378 | 2026-08-01 | 2026-11-14 |
 | [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | 34 | ⭐ 1,210 | 2026-08-01 | 2026-11-10 |
 | [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | 33 | ⭐ 27,836 | 2026-08-04 | 2026-11-10 |
 | [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | 29 | ⭐ 20,090 | 2026-08-03 | 2026-11-08 |
 | [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | 26 | ⭐ 5,130 | 2026-08-01 | 2026-11-13 |
 | [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | 26 | ⭐ 8,210 | 2026-08-08 | 2026-11-11 |
-| [apache/apisix](../repos/apache/apisix.md) | 24 | ⭐ 17,311 | 2026-08-01 | 2026-11-10 |
+| [apache/apisix](../repos/apache/apisix.md) | 25 | ⭐ 17,322 | 2026-08-01 | 2026-11-14 |
 
 ---
 
@@ -150,7 +150,7 @@
 - [Courseplay/Courseplay_FS25](../repos/Courseplay/Courseplay_FS25.md) - Courseplay for Farming Simulator 2025
 - [s1n7ax/nvim-window-picker](../repos/s1n7ax/nvim-window-picker.md) - This plugins prompts the user to pick a window and returns the window id of the picked window
 - [Footagesus/WindUI](../repos/Footagesus/WindUI.md) - WindUI is a open source UI library for Roblox Script Hubs
-- [esmuellert/codediff.nvim](../repos/esmuellert/codediff.nvim.md) - VSCode-style diff, merge and git history for Neovim. Side-by-side or inline, with character-level...
+- [esmuellert/codediff.nvim](../repos/esmuellert/codediff.nvim.md) - Live code review for Neovim with VSCode style diffs
 - [EllesmereGaming/EllesmereUI](../repos/EllesmereGaming/EllesmereUI.md) - EllesmereUI combines the most intuitive UI editor in WoW with extreme performance optimization an...
 - [beyond-all-reason/Beyond-All-Reason](../repos/beyond-all-reason/Beyond-All-Reason.md) - Main game repository for Beyond All Reason.
 - [yetone/avante.nvim](../repos/yetone/avante.nvim.md) - Use your Neovim like using Cursor AI IDE!
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-13T21:01:06.903Z*
+*Last updated: 2026-11-14T21:00:55.570Z*

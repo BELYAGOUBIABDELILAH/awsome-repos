@@ -16,37 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 96,106 | 2026-08-01 | 53 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 96,111 | 2026-08-01 | 54 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 26,529 | 2026-08-04 | 15 |
+| [InfinityLoop1308/PipePipe](../repos/InfinityLoop1308/PipePipe.md) | ⭐ 7,246 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 4,137 | 2026-08-07 | 37 |
+| [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | ⭐ 10,324 | 2026-08-03 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 8,851 | 2026-08-12 | 26 |
+| [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,952 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 5,454 | 2026-09-01 | 15 |
+| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 26,538 | 2026-08-04 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,871 | 2026-09-02 | 7 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 4,152 | 2026-08-07 | 38 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fscarmen/sing-box](../repos/fscarmen/sing-box.md) | ⭐ 6,038 | 2026-09-21 | 6 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 8,876 | 2026-08-12 | 27 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 34,115 | 2026-08-20 | 14 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [itsnotkubrick/3X-UI_KIT](../repos/itsnotkubrick/3X-UI_KIT.md) | ⭐ 622 | 2026-10-15 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [nelvko/clashctl](../repos/nelvko/clashctl.md) | ⭐ 15,015 | 2026-10-15 | 😼 优雅地使用基于 clash&#x2F;mihomo 的代理环境 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [winapps-org/winapps](../repos/winapps-org/winapps.md) | ⭐ 16,088 | 2026-10-16 |  Run Windows apps such as Microsoft Office&#x2F;Adobe in Linux (Ubuntu&#x2F;Fedora) and GNOME&#x2F;KDE as if the... |
@@ -71,6 +68,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nextcloud/docker](../repos/nextcloud/docker.md) | ⭐ 7,406 | 2026-10-23 | A community maintained docker micro-image for deploying Nextcloud on container platforms |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [open-saas-directory/awesome-native-macosx-apps](../repos/open-saas-directory/awesome-native-macosx-apps.md) | ⭐ 1,651 | 2026-10-23 | Discover the best native macOS apps: fast, lightweight Mac apps for productivity, developer tools... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [kharmanskyi/open-steps](../repos/kharmanskyi/open-steps.md) | ⭐ 1,236 | 2026-10-25 | Plain-language agent skills for Claude Code, Codex, Cursor and Gemini CLI: honest session reports... |
 
 
 ---
@@ -81,19 +84,19 @@
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,858 | 2026-08-07 | 4 |
 | [papers-we-love/papers-we-love](../repos/papers-we-love/papers-we-love.md) | ⭐ 110,960 | 2026-10-27 | 1 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 96,106 | 2026-08-01 | 53 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 96,111 | 2026-08-01 | 54 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,756 | 2026-08-04 | 10 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,702 | 2026-08-06 | 15 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,950 | 2026-08-04 | 15 |
 | [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 46,666 | 2026-08-29 | 17 |
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
-| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,866 | 2026-08-20 | 13 |
+| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 34,115 | 2026-08-20 | 14 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 33,123 | 2026-08-02 | 22 |
 | [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,871 | 2026-09-02 | 7 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
 | [lxgw/LxgwWenKai](../repos/lxgw/LxgwWenKai.md) | ⭐ 26,857 | 2026-11-07 | 1 |
-| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 26,529 | 2026-08-04 | 15 |
+| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 26,538 | 2026-08-04 | 16 |
 | [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 22,309 | 2026-08-07 | 11 |
 | [lewagon/dotfiles](../repos/lewagon/dotfiles.md) | ⭐ 21,783 | 2026-08-25 | 1 |
 | [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
@@ -106,16 +109,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 53 | ⭐ 96,106 | 2026-08-01 | 2026-11-13 |
-| [expo/skills](../repos/expo/skills.md) | 37 | ⭐ 4,137 | 2026-08-07 | 2026-11-13 |
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 26 | ⭐ 8,851 | 2026-08-12 | 2026-11-13 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 54 | ⭐ 96,111 | 2026-08-01 | 2026-11-14 |
+| [expo/skills](../repos/expo/skills.md) | 38 | ⭐ 4,152 | 2026-08-07 | 2026-11-14 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 27 | ⭐ 8,876 | 2026-08-12 | 2026-11-14 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
 | [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | 17 | ⭐ 11,015 | 2026-08-07 | 2026-11-10 |
 | [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | 17 | ⭐ 1,636 | 2026-08-20 | 2026-11-11 |
 | [omacom/omarchy](../repos/omacom/omarchy.md) | 17 | ⭐ 46,666 | 2026-08-29 | 2026-11-09 |
+| [a2aproject/A2A](../repos/a2aproject/A2A.md) | 16 | ⭐ 26,538 | 2026-08-04 | 2026-11-14 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 16 | ⭐ 3,343 | 2026-08-05 | 2026-11-11 |
 | [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | 16 | ⭐ 3,852 | 2026-08-19 | 2026-11-10 |
-| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | 15 | ⭐ 47,950 | 2026-08-04 | 2026-11-12 |
 
 ---
 
@@ -224,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-11-13T21:01:06.948Z*
+*Last updated: 2026-11-14T21:00:55.613Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Ruby |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 17,319 |
-| **Forks** | 🍴 3,758 |
-| **Trending Days** | 55 |
+| **Stars** | ⭐ 17,372 |
+| **Forks** | 🍴 3,764 |
+| **Trending Days** | 56 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 12, 2026 |
+| **Last Seen** | Nov 14, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 55
+- **Trending Days**: 56
 - **Longest Streak**: 7 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-13T21:01:09.315Z*  
-*Data from 55 trending reports*
+*Last updated: 2026-11-14T21:00:57.415Z*  
+*Data from 56 trending reports*

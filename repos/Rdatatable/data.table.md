@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | R |
 | **License** | MPL-2.0 |
-| **Stars** | ⭐ 3,926 |
-| **Forks** | 🍴 1,062 |
-| **Trending Days** | 33 |
+| **Stars** | ⭐ 3,928 |
+| **Forks** | 🍴 1,060 |
+| **Trending Days** | 34 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Nov 6, 2026 |
+| **Last Seen** | Nov 14, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 33
+- **Trending Days**: 34
 - **Longest Streak**: 6 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-13T21:01:10.341Z*  
-*Data from 33 trending reports*
+*Last updated: 2026-11-14T21:00:58.227Z*  
+*Data from 34 trending reports*

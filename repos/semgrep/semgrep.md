@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C |
 | **License** | LGPL-2.1 |
-| **Stars** | ⭐ 17,523 |
-| **Forks** | 🍴 1,152 |
-| **Trending Days** | 40 |
+| **Stars** | ⭐ 17,677 |
+| **Forks** | 🍴 1,177 |
+| **Trending Days** | 41 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 6, 2026 |
+| **Last Seen** | Nov 14, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 40
+- **Trending Days**: 41
 - **Longest Streak**: 11 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`c`](../../topics/c.md) [`go`](../../topics/go.md) [`java`](../../topics/java.md) [`javascript`](../../topics/javascript.md) [`python`](../../topics/python.md) [`r2c`](../../topics/r2c.md) [`ruby`](../../topics/ruby.md) [`sast`](../../topics/sast.md) [`semgrep`](../../topics/semgrep.md) [`static-analysis`](../../topics/static-analysis.md) [`static-code-analysis`](../../topics/static-code-analysis.md) [`typescript`](../../topics/typescript.md) 
+[`c`](../../topics/c.md) [`go`](../../topics/go.md) [`java`](../../topics/java.md) [`javascript`](../../topics/javascript.md) [`production`](../../topics/production.md) [`python`](../../topics/python.md) [`r2c`](../../topics/r2c.md) [`ruby`](../../topics/ruby.md) [`sast`](../../topics/sast.md) [`semgrep`](../../topics/semgrep.md) [`static-analysis`](../../topics/static-analysis.md) [`static-code-analysis`](../../topics/static-code-analysis.md) [`typescript`](../../topics/typescript.md) 
 
 ### Curated Categories
 `Systems Programming` 
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-13T21:01:09.442Z*  
-*Data from 40 trending reports*
+*Last updated: 2026-11-14T21:00:57.519Z*  
+*Data from 41 trending reports*

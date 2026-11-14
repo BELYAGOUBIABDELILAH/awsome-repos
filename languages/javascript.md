@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 189
+- **Total Repositories**: 191
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-12
 
@@ -16,25 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 117,105 | 2026-08-05 | 38 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 117,534 | 2026-08-05 | 39 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/power-platform-skills](../repos/microsoft/power-platform-skills.md) | ⭐ 1,146 | 2026-08-07 | 12 |
+| [microsoft/power-platform-skills](../repos/microsoft/power-platform-skills.md) | ⭐ 1,150 | 2026-08-07 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenWhispr/openwhispr](../repos/OpenWhispr/openwhispr.md) | ⭐ 11,508 | 2026-08-29 | 11 |
+| [PenglongHuang/chinese-novelist-skill](../repos/PenglongHuang/chinese-novelist-skill.md) | ⭐ 4,922 | 2026-09-19 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tabler/tabler-icons](../repos/tabler/tabler-icons.md) | ⭐ 22,639 | 2026-10-02 | 3 |
+| [NginxProxyManager/nginx-proxy-manager](../repos/NginxProxyManager/nginx-proxy-manager.md) | ⭐ 34,713 | 2026-09-25 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [hanliang97/MatrixMedia](../repos/hanliang97/MatrixMedia.md) | ⭐ 1,320 | 2026-10-27 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [GoogleChrome/lighthouse](../repos/GoogleChrome/lighthouse.md) | ⭐ 31,089 | 2026-11-14 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [laoma528/awesome-zhuiju-free](../repos/laoma528/awesome-zhuiju-free.md) | ⭐ 15,409 | 2026-10-15 | 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox &#x2F; 影视仓空壳软件&#x2F;配置地址、IPTV直播源、会员拼团、影视相关开源项... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [michael-denyer/pstack-claude](../repos/michael-denyer/pstack-claude.md) | ⭐ 4,042 | 2026-10-16 | Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of... |
@@ -62,6 +65,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [shaobeichen/dsh-pocket](../repos/shaobeichen/dsh-pocket.md) | ⭐ 2,244 | 2026-10-21 | 把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）Put DeepSeek Harness in your pocke... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [adobe/skills](../repos/adobe/skills.md) | ⭐ 295 | 2026-10-22 | Adobe Skills for Agents |
 
 
 ---
@@ -75,7 +81,7 @@
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 158,907 | 2026-08-06 | 4 |
 | [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | 2 |
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,323 | 2026-07-30 | 14 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 117,105 | 2026-08-05 | 38 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 117,534 | 2026-08-05 | 39 |
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,607 | 2026-08-06 | 3 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
@@ -97,7 +103,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 38 | ⭐ 117,105 | 2026-08-05 | 2026-11-13 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 39 | ⭐ 117,534 | 2026-08-05 | 2026-11-14 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 32 | ⭐ 14,607 | 2026-08-02 | 2026-11-07 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 22 | ⭐ 90,383 | 2026-08-04 | 2026-10-27 |
 | [byoungd/up](../repos/byoungd/up.md) | 21 | ⭐ 70,243 | 2026-08-01 | 2026-11-07 |
@@ -215,4 +221,4 @@
 
 ---
 
-*Last updated: 2026-11-13T21:01:06.891Z*
+*Last updated: 2026-11-14T21:00:55.561Z*

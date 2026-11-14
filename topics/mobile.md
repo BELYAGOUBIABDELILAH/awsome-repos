@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 602
+- **Total Repositories**: 606
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-07
-- **Average Stars**: 13933
+- **Average Stars**: 13866
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 22,026 | PHP |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
 | [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,812 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [caezium/Burrow](../repos/caezium/Burrow.md) | ⭐ 1,766 | Swift |  |
+| [caezium/Burrow](../repos/caezium/Burrow.md) | ⭐ 1,778 | Swift |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 25,276 | Kotlin |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,642 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,510 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,520 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,316 | Clojure |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,332 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 23,781 | HTML |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,677 | C |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 27 | Objective-C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [google/promises](../repos/google/promises.md) | ⭐ 3,829 | Objective-C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,611 | Objective-C |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,933 | Groovy |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 38,105 | V |  |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,610 | Objective-C |  |
 
 
 ---
@@ -73,13 +73,13 @@
 | [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,066 | TypeScript | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 22,028 | PHP | 1 |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 22,026 | PHP | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,812 | Ruby | 2 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,812 | Ruby | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [caezium/Burrow](../repos/caezium/Burrow.md) | ⭐ 1,766 | Swift | 1 |
+| [caezium/Burrow](../repos/caezium/Burrow.md) | ⭐ 1,778 | Swift | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 25,276 | Kotlin | 1 |
@@ -88,27 +88,21 @@
 | [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 22,074 | Kotlin | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,510 | Scala | 12 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,642 | Scala | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,520 | Scala | 13 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 78,802 | Dart | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 181,251 | Dart | 3 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 42,056 | Dart | 4 |
 
 ---
 
 ## 🆕 New This Month
 
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [OpenBMB/MiniCPM-V-Apps](../repos/OpenBMB/MiniCPM-V-Apps.md) | ⭐ 457 | Swift | 2026-10-15 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [vlang/vsl](../repos/vlang/vsl.md) | ⭐ 404 | V | 2026-10-15 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [google/artemis](../repos/google/artemis.md) | ⭐ 13,244 | Python | 2026-10-16 |
@@ -123,7 +117,7 @@
 | [leepokai/Codync](../repos/leepokai/Codync.md) | ⭐ 1,781 | Rust | 2026-10-19 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [MewX/light-novel-library_Wenku8_Android](../repos/MewX/light-novel-library_Wenku8_Android.md) | ⭐ 3,427 | Java | 2026-10-19 |
+| [MewX/light-novel-library_Wenku8_Android](../repos/MewX/light-novel-library_Wenku8_Android.md) | ⭐ 3,530 | Java | 2026-10-19 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [lycorp-jp/sim-use](../repos/lycorp-jp/sim-use.md) | ⭐ 1,469 | Swift | 2026-10-20 |
@@ -133,10 +127,20 @@
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [Asymptote-Labs/agent-beacon](../repos/Asymptote-Labs/agent-beacon.md) | ⭐ 2,698 | Go | 2026-10-21 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [c-ares/c-ares](../repos/c-ares/c-ares.md) | ⭐ 2,196 | C | 2026-10-21 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [GhostenEditor/Ghosten-Player](../repos/GhostenEditor/Ghosten-Player.md) | ⭐ 3,365 | Dart | 2026-10-21 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-11-14](../archive/2026/11/2026-11-14.md)
+- 52 repositories trending
+- Top: localsend&#x2F;localsend
 
 ### [2026-11-13](../archive/2026/11/2026-11-13.md)
 - 37 repositories trending
@@ -162,10 +166,6 @@
 - 37 repositories trending
 - Top: ruvnet&#x2F;RuView
 
-### [2026-11-07](../archive/2026/11/2026-11-07.md)
-- 40 repositories trending
-- Top: morluto&#x2F;rea
-
 
 ---
 
@@ -175,15 +175,15 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 85 days | 2026-08-01 | 2026-11-13 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 82 days | 2026-08-01 | 2026-11-13 |
-| [gradle/gradle](../repos/gradle/gradle.md) | 79 days | 2026-08-01 | 2026-11-13 |
-| [vlang/v](../repos/vlang/v.md) | 79 days | 2026-08-01 | 2026-11-13 |
-| [vim/vim](../repos/vim/vim.md) | 71 days | 2026-08-01 | 2026-11-12 |
-| [joernio/joern](../repos/joernio/joern.md) | 62 days | 2026-08-01 | 2026-11-03 |
-| [apple/swift-crypto](../repos/apple/swift-crypto.md) | 62 days | 2026-08-01 | 2026-11-10 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 58 days | 2026-08-01 | 2026-11-13 |
-| [google/promises](../repos/google/promises.md) | 57 days | 2026-08-01 | 2026-11-13 |
+| [apache/spark](../repos/apache/spark.md) | 86 days | 2026-08-01 | 2026-11-14 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 83 days | 2026-08-01 | 2026-11-14 |
+| [gradle/gradle](../repos/gradle/gradle.md) | 80 days | 2026-08-01 | 2026-11-14 |
+| [vlang/v](../repos/vlang/v.md) | 80 days | 2026-08-01 | 2026-11-14 |
+| [vim/vim](../repos/vim/vim.md) | 72 days | 2026-08-01 | 2026-11-14 |
+| [joernio/joern](../repos/joernio/joern.md) | 63 days | 2026-08-01 | 2026-11-14 |
+| [apple/swift-crypto](../repos/apple/swift-crypto.md) | 63 days | 2026-08-01 | 2026-11-14 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 59 days | 2026-08-01 | 2026-11-14 |
+| [google/promises](../repos/google/promises.md) | 58 days | 2026-08-01 | 2026-11-14 |
 | [flutter/flutter](../repos/flutter/flutter.md) | 54 days | 2026-08-01 | 2026-11-12 |
 
 ---
@@ -191,16 +191,16 @@
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Kotlin**: 109 repositories (18%)
+- **Kotlin**: 110 repositories (18%)
 - **Dart**: 76 repositories (13%)
-- **Swift**: 71 repositories (12%)
+- **Swift**: 72 repositories (12%)
 - **C**: 49 repositories (8%)
 - **TypeScript**: 46 repositories (8%)
 
 ### Trending Frequency
 - **Daily Average**: 52 repositories
 - **Peak Day**: 2026-08-19 (77 repositories)
-- **Growth Rate**: 9% this month
+- **Growth Rate**: 10% this month
 
 ---
 
@@ -314,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-11-13T21:01:06.580Z*
+*Last updated: 2026-11-14T21:00:55.305Z*

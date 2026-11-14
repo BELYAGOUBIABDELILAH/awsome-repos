@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 229
+- **Total Repositories**: 231
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-10
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) | ⭐ 26,863 | 2026-08-01 | 10 |
+| [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | ⭐ 9,647 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 67,230 | 2026-08-04 | 14 |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 14,010 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 43,363 | 2026-08-05 | 22 |
+| [debezium/debezium](../repos/debezium/debezium.md) | ⭐ 13,350 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 6,364 | 2026-08-05 | 34 |
+| [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | ⭐ 29,843 | 2026-08-02 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 40,404 | 2026-08-06 | 14 |
+| [ModinMobileSTS/Sts2MobileLauncher](../repos/ModinMobileSTS/Sts2MobileLauncher.md) | ⭐ 580 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 48,459 | 2026-08-07 | 13 |
+| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 36,334 | 2026-08-04 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/iceberg](../repos/apache/iceberg.md) | ⭐ 9,431 | 2026-08-12 | 14 |
+| [apache/flink](../repos/apache/flink.md) | ⭐ 26,472 | 2026-08-04 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [648540858/wvp-GB28181-pro](../repos/648540858/wvp-GB28181-pro.md) | ⭐ 7,433 | 2026-08-15 | 9 |
+| [apache/doris](../repos/apache/doris.md) | ⭐ 16,217 | 2026-08-05 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mlmvpn/mlmvpn_android](../repos/mlmvpn/mlmvpn_android.md) | ⭐ 707 | 2026-09-29 | 8 |
+| [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 48,481 | 2026-08-07 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aleixrodriala/newtube](../repos/aleixrodriala/newtube.md) | ⭐ 775 | 2026-10-03 | 3 |
+| [apache/iceberg](../repos/apache/iceberg.md) | ⭐ 9,435 | 2026-08-12 | 15 |
 
 
 ---
@@ -55,7 +55,7 @@
 | [apache/shenyu](../repos/apache/shenyu.md) | ⭐ 8,891 | 2026-10-18 | Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governa... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [MewX/light-novel-library_Wenku8_Android](../repos/MewX/light-novel-library_Wenku8_Android.md) | ⭐ 3,427 | 2026-10-19 | [CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安... |
+| [MewX/light-novel-library_Wenku8_Android](../repos/MewX/light-novel-library_Wenku8_Android.md) | ⭐ 3,530 | 2026-10-19 | [CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [apache/nifi](../repos/apache/nifi.md) | ⭐ 6,295 | 2026-10-23 | Apache NiFi |
@@ -98,7 +98,7 @@
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 52,327 | 2026-08-04 | 15 |
 | [google/guava](../repos/google/guava.md) | ⭐ 51,912 | 2026-08-02 | 12 |
 | [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 51,593 | 2026-08-12 | 12 |
-| [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 48,459 | 2026-08-07 | 13 |
+| [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 48,481 | 2026-08-07 | 14 |
 | [ReactiveX/RxJava](../repos/ReactiveX/RxJava.md) | ⭐ 48,208 | 2026-08-28 | 1 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 43,363 | 2026-08-05 | 22 |
 | [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 40,546 | 2026-08-02 | 15 |
@@ -107,7 +107,7 @@
 | [PhilJay/MPAndroidChart](../repos/PhilJay/MPAndroidChart.md) | ⭐ 38,169 | 2026-09-21 | 1 |
 | [alibaba/arthas](../repos/alibaba/arthas.md) | ⭐ 37,526 | 2026-08-28 | 2 |
 | [doocs/leetcode](../repos/doocs/leetcode.md) | ⭐ 36,511 | 2026-08-08 | 5 |
-| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 36,142 | 2026-08-04 | 21 |
+| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 36,334 | 2026-08-04 | 22 |
 
 ---
 
@@ -121,10 +121,10 @@
 | [kestra-io/kestra](../repos/kestra-io/kestra.md) | 24 | ⭐ 30,163 | 2026-08-04 | 2026-11-06 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 23 | ⭐ 27,915 | 2026-08-02 | 2026-11-07 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 23 | ⭐ 81,904 | 2026-08-04 | 2026-11-12 |
+| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 22 | ⭐ 36,334 | 2026-08-04 | 2026-11-14 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 22 | ⭐ 43,363 | 2026-08-05 | 2026-11-13 |
-| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 21 | ⭐ 36,142 | 2026-08-04 | 2026-11-09 |
+| [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | 22 | ⭐ 7,664 | 2026-08-14 | 2026-11-14 |
 | [microg/GmsCore](../repos/microg/GmsCore.md) | 21 | ⭐ 15,287 | 2026-08-06 | 2026-11-12 |
-| [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | 21 | ⭐ 7,545 | 2026-08-14 | 2026-11-07 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-13T21:01:06.888Z*
+*Last updated: 2026-11-14T21:00:55.558Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 338
+- **Total Repositories**: 343
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-03
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 67,543 | 2026-08-01 | 10 |
+| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | ⭐ 70,192 | 2026-08-03 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | ⭐ 69,855 | 2026-08-03 | 18 |
+| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | ⭐ 47,286 | 2026-08-07 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | ⭐ 47,175 | 2026-08-07 | 16 |
+| [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 55,369 | 2026-08-11 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [volcengine/OpenViking](../repos/volcengine/OpenViking.md) | ⭐ 42,199 | 2026-08-14 | 8 |
+| [headroomlabs-ai/headroom](../repos/headroomlabs-ai/headroom.md) | ⭐ 79,667 | 2026-10-09 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/SkillSpector](../repos/NVIDIA/SkillSpector.md) | ⭐ 25,872 | 2026-09-01 | 9 |
+| [NVIDIA/SkillEvaluator](../repos/NVIDIA/SkillEvaluator.md) | ⭐ 1,236 | 2026-11-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tencent-Hunyuan/Hy-MT2](../repos/Tencent-Hunyuan/Hy-MT2.md) | ⭐ 1,752 | 2026-10-09 | 2 |
+| [tradermonty/claude-trading-skills](../repos/tradermonty/claude-trading-skills.md) | ⭐ 4,716 | 2026-11-13 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [headroomlabs-ai/headroom](../repos/headroomlabs-ai/headroom.md) | ⭐ 79,582 | 2026-10-09 | 6 |
+| [andrewyng/openworker](../repos/andrewyng/openworker.md) | ⭐ 19,206 | 2026-11-14 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tradermonty/claude-trading-skills](../repos/tradermonty/claude-trading-skills.md) | ⭐ 4,096 | 2026-11-13 | 1 |
+| [pnnbao97/VieNeu-TTS](../repos/pnnbao97/VieNeu-TTS.md) | ⭐ 3,331 | 2026-11-14 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [avenoxai/avenoxbeyin](../repos/avenoxai/avenoxbeyin.md) | ⭐ 453 | 2026-11-13 | 1 |
+| [0x0funky/agent-sprite-forge](../repos/0x0funky/agent-sprite-forge.md) | ⭐ 5,727 | 2026-11-14 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [langchain-ai/langgraph](../repos/langchain-ai/langgraph.md) | ⭐ 44,913 | 2026-11-13 | 1 |
+| [microsoft/PyRIT](../repos/microsoft/PyRIT.md) | ⭐ 4,837 | 2026-11-14 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Crosstalk-Solutions/unifi-toolkit](../repos/Crosstalk-Solutions/unifi-toolkit.md) | ⭐ 691 | 2026-10-15 | A suite of tools for UniFi network management |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [elder-plinius/V3R1T4S](../repos/elder-plinius/V3R1T4S.md) | ⭐ 361 | 2026-10-16 | liberating known unknowns |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [fastapi/fastapi](../repos/fastapi/fastapi.md) | ⭐ 104,666 | 2026-10-19 | FastAPI framework, high performance, easy to learn, fast to code, ready for production |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [onyx-dot-app/onyx](../repos/onyx-dot-app/onyx.md) | ⭐ 32,925 | 2026-10-22 | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
 
 
 ---
@@ -117,12 +117,12 @@
 |------------|---------------|-------|------------|-----------|
 | [github/copilot-cli](../repos/github/copilot-cli.md) | 25 | ⭐ 11,351 | 2026-08-04 | 2026-11-04 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 19 | ⭐ 139,731 | 2026-08-01 | 2026-11-05 |
-| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 18 | ⭐ 69,855 | 2026-08-03 | 2026-11-13 |
+| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 19 | ⭐ 70,192 | 2026-08-03 | 2026-11-14 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 17 | ⭐ 243,012 | 2026-08-01 | 2026-09-07 |
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | 17 | ⭐ 132,217 | 2026-08-04 | 2026-11-11 |
+| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | 17 | ⭐ 47,286 | 2026-08-07 | 2026-11-14 |
 | [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 17 | ⭐ 65,960 | 2026-08-22 | 2026-10-14 |
 | [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 16 | ⭐ 52,636 | 2026-08-03 | 2026-10-18 |
-| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | 16 | ⭐ 47,175 | 2026-08-07 | 2026-11-13 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | 16 | ⭐ 117,829 | 2026-08-08 | 2026-10-28 |
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 14 | ⭐ 104,830 | 2026-08-01 | 2026-10-27 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-13T21:01:06.929Z*
+*Last updated: 2026-11-14T21:00:55.594Z*

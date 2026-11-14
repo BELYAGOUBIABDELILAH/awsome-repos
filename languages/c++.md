@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 310
+- **Total Repositories**: 312
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-12
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 134,863 | 2026-08-01 | 38 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 135,049 | 2026-08-01 | 39 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 55,165 | 2026-08-02 | 2 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,174 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/googletest](../repos/google/googletest.md) | ⭐ 39,737 | 2026-08-04 | 29 |
+| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | ⭐ 12,656 | 2026-08-02 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 41,612 | 2026-08-06 | 7 |
+| [ArduPilot/ardupilot](../repos/ArduPilot/ardupilot.md) | ⭐ 16,364 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 41,574 | 2026-08-09 | 15 |
+| [catchorg/Catch2](../repos/catchorg/Catch2.md) | ⭐ 21,561 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dariulone/cyberpunk-vr-port](../repos/dariulone/cyberpunk-vr-port.md) | ⭐ 614 | 2026-08-23 | 12 |
+| [microsoft/WSL](../repos/microsoft/WSL.md) | ⭐ 34,385 | 2026-08-08 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 53,686 | 2026-10-06 | 13 |
+| [abseil/abseil-cpp](../repos/abseil/abseil-cpp.md) | ⭐ 18,198 | 2026-08-14 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Likely7/Veyra-NRVideo](../repos/Likely7/Veyra-NRVideo.md) | ⭐ 1,574 | 2026-11-13 | 1 |
+| [ggml-org/ggml](../repos/ggml-org/ggml.md) | ⭐ 15,784 | 2026-08-19 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wszqkzqk/PvZ-Portable](../repos/wszqkzqk/PvZ-Portable.md) | ⭐ 903 | 2026-11-13 | 1 |
+| [google-ai-edge/mediapipe](../repos/google-ai-edge/mediapipe.md) | ⭐ 37,690 | 2026-09-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [redpanda-data/redpanda](../repos/redpanda-data/redpanda.md) | ⭐ 12,680 | 2026-11-13 | 1 |
+| [Likely7/Veyra-NRVideo](../repos/Likely7/Veyra-NRVideo.md) | ⭐ 2,136 | 2026-11-13 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ChiR24/Unreal_mcp](../repos/ChiR24/Unreal_mcp.md) | ⭐ 948 | 2026-10-15 | A comprehensive Model Context Protocol (MCP) server that enables AI assistants to control Unreal ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Flare-Animate/Flare](../repos/Flare-Animate/Flare.md) | ⭐ 110 | 2026-10-15 | Flare - A Familiar, Open Source Animation Suite. Forked from OpenToonz. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [zeldaret/botw](../repos/zeldaret/botw.md) | ⭐ 2,272 | 2026-10-16 | Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0) |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [zeux/meshoptimizer](../repos/zeux/meshoptimizer.md) | ⭐ 8,622 | 2026-10-23 | Mesh optimization library that makes meshes smaller and faster to render |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [wopss/RED4ext](../repos/wopss/RED4ext.md) | ⭐ 501 | 2026-10-25 | A script extender for REDengine 4 (Cyberpunk 2077). |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [socquique/TamaPoke](../repos/socquique/TamaPoke.md) | ⭐ 223 | 2026-10-25 | A Pokemon Gen-1 Tamagotchi for the Waveshare ESP32-S3-Touch-AMOLED-1.75 round display — open firm... |
 
 
 ---
@@ -89,7 +89,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,580 | 2026-07-30 | 33 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 134,863 | 2026-08-01 | 38 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 135,049 | 2026-08-01 | 39 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,803 | 2026-08-04 | 7 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 123,622 | 2026-08-01 | 7 |
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 119,259 | 2026-08-01 | 12 |
@@ -97,7 +97,7 @@
 | [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,617 | 2026-08-02 | 12 |
 | [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 77,216 | 2026-08-12 | 7 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,876 | 2026-08-08 | 18 |
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,169 | 2026-08-01 | 21 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,174 | 2026-08-01 | 22 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 55,165 | 2026-08-02 | 2 |
 | [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 53,686 | 2026-10-06 | 13 |
 | [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,787 | 2026-08-03 | 13 |
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 46 | ⭐ 439 | 2026-08-01 | 2026-10-09 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 38 | ⭐ 134,863 | 2026-08-01 | 2026-11-13 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 39 | ⭐ 135,049 | 2026-08-01 | 2026-11-14 |
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 33 | ⭐ 201,580 | 2026-07-30 | 2026-11-12 |
 | [google/googletest](../repos/google/googletest.md) | 29 | ⭐ 39,737 | 2026-08-04 | 2026-11-13 |
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 21 | ⭐ 72,169 | 2026-08-01 | 2026-11-12 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 22 | ⭐ 72,174 | 2026-08-01 | 2026-11-14 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 19 | ⭐ 546 | 2026-08-01 | 2026-10-29 |
 | [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | 19 | ⭐ 32,839 | 2026-08-03 | 2026-11-07 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 18 | ⭐ 76,876 | 2026-08-08 | 2026-10-29 |
+| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 16 | ⭐ 12,656 | 2026-08-02 | 2026-11-14 |
 | [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | 16 | ⭐ 22,255 | 2026-08-06 | 2026-11-06 |
-| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 15 | ⭐ 11,986 | 2026-08-02 | 2026-10-22 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-13T21:01:06.842Z*
+*Last updated: 2026-11-14T21:00:55.524Z*

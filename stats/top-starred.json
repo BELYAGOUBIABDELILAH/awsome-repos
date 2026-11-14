@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T21:01:14.791Z",
+  "generated_at": "2026-11-14T21:01:02.235Z",
   "total_count": 100,
   "repositories": [
     {
@@ -397,10 +397,10 @@
       "full_name": "ggml-org/llama.cpp",
       "owner": "ggml-org",
       "name": "llama.cpp",
-      "stars": 134863,
+      "stars": 135049,
       "language": "C++",
       "first_seen": "2026-08-01",
-      "trending_days": 38
+      "trending_days": 39
     },
     {
       "rank": 41,
@@ -547,10 +547,10 @@
       "full_name": "addyosmani/agent-skills",
       "owner": "addyosmani",
       "name": "agent-skills",
-      "stars": 117105,
+      "stars": 117534,
       "language": "JavaScript",
       "first_seen": "2026-08-05",
-      "trending_days": 38
+      "trending_days": 39
     },
     {
       "rank": 56,
@@ -757,10 +757,10 @@
       "full_name": "localsend/localsend",
       "owner": "localsend",
       "name": "localsend",
-      "stars": 98862,
+      "stars": 98992,
       "language": "Dart",
       "first_seen": "2026-08-02",
-      "trending_days": 42
+      "trending_days": 43
     },
     {
       "rank": 77,
@@ -807,10 +807,10 @@
       "full_name": "nvm-sh/nvm",
       "owner": "nvm-sh",
       "name": "nvm",
-      "stars": 96106,
+      "stars": 96111,
       "language": "Shell",
       "first_seen": "2026-08-01",
-      "trending_days": 53
+      "trending_days": 54
     },
     {
       "rank": 82,

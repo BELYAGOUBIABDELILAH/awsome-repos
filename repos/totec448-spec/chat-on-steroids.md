@@ -1,0 +1,95 @@
+# totec448-spec&#x2F;chat-on-steroids
+
+> Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact &amp; Resume, and durable multi-agent workflows.
+
+[View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;totec448-spec&#x2F;chat-on-steroids) 
+
+---
+
+## Quick Facts
+
+| | |
+|---|---|
+| **Language** | TypeScript |
+| **License** | MIT |
+| **Stars** | ⭐ 5,184 |
+| **Forks** | 🍴 675 |
+| **Trending Days** | 1 |
+| **Peak Rank** | #N&#x2F;A |
+
+| **First Seen** | Nov 14, 2026 |
+| **Last Seen** | Nov 14, 2026 |
+
+
+---
+
+## Best For
+
+
+
+---
+
+## Works Great With
+
+*Ecosystem data coming soon*
+
+---
+
+## Alternatives
+
+*Similar: Check repositories in TypeScript or automation*
+
+---
+
+## Trending Timeline
+
+
+### Highlights
+
+- **Peak Rank**: #N&#x2F;A
+- **Trending Days**: 1
+- **Longest Streak**: 1 days
+
+---
+
+## Categories
+
+### Topics
+[`automation`](../../topics/automation.md) [`chatgpt`](../../topics/chatgpt.md) [`chrome-extension`](../../topics/chrome-extension.md) [`electron`](../../topics/electron.md) [`linux`](../../topics/linux.md) [`local-first`](../../topics/local-first.md) [`macos`](../../topics/macos.md) [`mcp`](../../topics/mcp.md) [`multi-agent`](../../topics/multi-agent.md) [`windows`](../../topics/windows.md) 
+
+### Curated Categories
+`Large Language Models` `DevOps &amp; CI&#x2F;CD` `Systems Programming` `Automation` 
+
+---
+
+## Developer Card
+
+### Developer Card
+
+| Aspect | Rating | Details |
+|--------|--------|---------|
+| **Difficulty** | Beginner | Approachable with good examples |
+| **Documentation** | Limited | May require reading source code |
+| **Community** | Small | Niche but dedicated community |
+| **Maturity** | Experimental | New project, evolving rapidly |
+| **Maintenance** | Very Active | Updated within last week |
+| **Learning Curve** | Medium | Moderate learning investment |
+
+#### Use Cases
+- General purpose
+
+#### Works Great With
+
+#### Alternatives
+- Check similar projects in TypeScript
+
+#### Metrics
+- **Hidden Gem**: ✓ Yes
+- **Trending Score**: 20&#x2F;100
+- **Historical Rank**: No ranking data
+
+
+---
+
+*Last updated: 2026-11-14T21:01:01.810Z*  
+*Data from 1 trending reports*

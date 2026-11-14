@@ -7,7 +7,7 @@
 ## September 2026
 
 **Period**: 2026-09-01 to 2026-09-28  
-**Gems Found**: 315
+**Gems Found**: 314
 
 ---
 
@@ -131,27 +131,7 @@
 
 ---
 
-### 7. [KnockOutEZ&#x2F;wigolo](../../repos/KnockOutEZ/wigolo.md)
-
-**The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0&#x2F;query. Public beta.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 5,346 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 82/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 6, 2026 |
-
-**Why it's a gem**: High growth velocity (+63 stars&#x2F;day) • Trending 4 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/KnockOutEZ/wigolo.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;KnockOutEZ&#x2F;wigolo)
-
----
-
-### 8. [feigeCode&#x2F;navop](../../repos/feigeCode/navop.md)
+### 7. [feigeCode&#x2F;navop](../../repos/feigeCode/navop.md)
 
 **A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, and AI.**
 
@@ -171,27 +151,7 @@
 
 ---
 
-### 9. [yyjeqhc&#x2F;webcodex](../../repos/yyjeqhc/webcodex.md)
-
-**Give cloud AI agents a real development environment on your own machines.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,627 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 82/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Sep 19, 2026 |
-
-**Why it's a gem**: High growth velocity (+137 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/yyjeqhc/webcodex.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;yyjeqhc&#x2F;webcodex)
-
----
-
-### 10. [TNT-Likely&#x2F;PanWatch](../../repos/TNT-Likely/PanWatch.md)
+### 8. [TNT-Likely&#x2F;PanWatch](../../repos/TNT-Likely/PanWatch.md)
 
 **盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股&#x2F;港股&#x2F;美股实时监控、持仓管理、智能分析、全渠道推送**
 
@@ -208,6 +168,46 @@
 **Best for**: 
 
 [View Passport](../../repos/TNT-Likely/PanWatch.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;TNT-Likely&#x2F;PanWatch)
+
+---
+
+### 9. [KnockOutEZ&#x2F;wigolo](../../repos/KnockOutEZ/wigolo.md)
+
+**The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0&#x2F;query. Public beta.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 5,346 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 81/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 6, 2026 |
+
+**Why it's a gem**: High growth velocity (+63 stars&#x2F;day) • Trending 4 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/KnockOutEZ/wigolo.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;KnockOutEZ&#x2F;wigolo)
+
+---
+
+### 10. [yyjeqhc&#x2F;webcodex](../../repos/yyjeqhc/webcodex.md)
+
+**Give cloud AI agents a real development environment on your own machines.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,627 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 81/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Sep 19, 2026 |
+
+**Why it's a gem**: High growth velocity (+137 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/yyjeqhc/webcodex.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;yyjeqhc&#x2F;webcodex)
 
 ---
 
@@ -351,27 +351,7 @@
 
 ---
 
-### 18. [Sumanth077&#x2F;Hands-On-AI-Engineering](../../repos/Sumanth077/Hands-On-AI-Engineering.md)
-
-**A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 3,360 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 78/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Sep 4, 2026 |
-
-**Why it's a gem**: High growth velocity (+60 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/Sumanth077/Hands-On-AI-Engineering.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Sumanth077&#x2F;Hands-On-AI-Engineering)
-
----
-
-### 19. [aipoch&#x2F;open-science](../../repos/aipoch/open-science.md)
+### 18. [aipoch&#x2F;open-science](../../repos/aipoch/open-science.md)
 
 **The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python&#x2F;R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.**
 
@@ -391,7 +371,7 @@
 
 ---
 
-### 20. [crivion&#x2F;laranode](../../repos/crivion/laranode.md)
+### 19. [crivion&#x2F;laranode](../../repos/crivion/laranode.md)
 
 **Free Hosting Panel - Easily manage your VPS&#x2F;dedicated machine with Laranode (a cPanel&#x2F;Plesk alternative) **
 
@@ -411,6 +391,26 @@
 
 ---
 
+### 20. [adongwanai&#x2F;AgentGuide](../../repos/adongwanai/AgentGuide.md)
+
+**https:&#x2F;&#x2F;adongwanai.github.io&#x2F;AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 9,116 |
+| 💻 **Language** | HTML |
+| 🏆 **Gem Score** | 77/100 |
+| 📈 **Trending Days** | 8 |
+| 📅 **First Seen** | Aug 3, 2026 |
+
+**Why it's a gem**: High growth velocity (+59 stars&#x2F;day) • Trending 8 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/adongwanai/AgentGuide.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;adongwanai&#x2F;AgentGuide)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-13T21:01:14.559Z*  
+*Generated: 2026-11-14T21:01:02.057Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

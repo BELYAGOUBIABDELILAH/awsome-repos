@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Shell |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 12,919 |
-| **Forks** | 🍴 2,978 |
-| **Trending Days** | 9 |
+| **Stars** | ⭐ 12,952 |
+| **Forks** | 🍴 2,997 |
+| **Trending Days** | 10 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Nov 4, 2026 |
+| **Last Seen** | Nov 14, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 9
+- **Trending Days**: 10
 - **Longest Streak**: 1 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-13T21:01:10.318Z*  
-*Data from 9 trending reports*
+*Last updated: 2026-11-14T21:00:58.211Z*  
+*Data from 10 trending reports*

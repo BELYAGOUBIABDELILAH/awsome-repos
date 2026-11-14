@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 2912
+- **Total Repositories**: 2928
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-02
-- **Average Stars**: 15776
+- **Average Stars**: 15733
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 67,543 | Python |  |
+| [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 51,428 | TypeScript |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 55,392 | TypeScript |  |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 56,223 | TypeScript |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 37,394 | Go |  |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 39,342 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) | ⭐ 26,863 | Java |  |
+| [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | ⭐ 9,647 | Java |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 15,185 | PHP |  |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 14,010 | Java |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [glpi-project/glpi](../repos/glpi-project/glpi.md) | ⭐ 6,592 | PHP |  |
+| [debezium/debezium](../repos/debezium/debezium.md) | ⭐ 13,350 | Java |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,812 | Ruby |  |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,174 | C++ |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [github-linguist/linguist](../repos/github-linguist/linguist.md) | ⭐ 13,786 | Ruby |  |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,638 | C# |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/gem_rbs_collection](../repos/ruby/gem_rbs_collection.md) | ⭐ 302 | Ruby |  |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,524 | C# |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,082 | Ruby |  |
+| [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 15,188 | PHP |  |
 
 
 ---
@@ -73,13 +73,7 @@
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,580 | C++ | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 195,138 | TypeScript | 2 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
 | [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 121,842 | Rust | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,907 | Rust | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 168,915 | Python | 1 |
@@ -91,13 +85,19 @@
 | [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 67,543 | Python | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 70,243 | JavaScript | 2 |
+| [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 51,428 | TypeScript | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 55,392 | TypeScript | 2 |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 56,223 | TypeScript | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,066 | TypeScript | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 39,342 | Go | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 37,394 | Go | 1 |
 
 ---
 
@@ -105,38 +105,42 @@
 
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [laoma528/awesome-zhuiju-free](../repos/laoma528/awesome-zhuiju-free.md) | ⭐ 15,409 | JavaScript | 2026-10-15 |
+| [michael-denyer/pstack-claude](../repos/michael-denyer/pstack-claude.md) | ⭐ 4,042 | JavaScript | 2026-10-16 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [microsoft/playwright](../repos/microsoft/playwright.md) | ⭐ 98,817 | TypeScript | 2026-10-15 |
+| [superdesigndev/superdesign-skill](../repos/superdesigndev/superdesign-skill.md) | ⭐ 812 | JavaScript | 2026-10-16 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [dimthink/PriceAI](../repos/dimthink/PriceAI.md) | ⭐ 4,122 | TypeScript | 2026-10-15 |
+| [LibreSpark/LibreTV](../repos/LibreSpark/LibreTV.md) | ⭐ 24,455 | TypeScript | 2026-10-16 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [ChiR24/Unreal_mcp](../repos/ChiR24/Unreal_mcp.md) | ⭐ 948 | C++ | 2026-10-15 |
+| [desktop/desktop](../repos/desktop/desktop.md) | ⭐ 21,961 | TypeScript | 2026-10-16 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [Flare-Animate/Flare](../repos/Flare-Animate/Flare.md) | ⭐ 110 | C++ | 2026-10-15 |
+| [prometheus/node_exporter](../repos/prometheus/node_exporter.md) | ⭐ 13,847 | Go | 2026-10-16 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [InvoicePlane/InvoicePlane](../repos/InvoicePlane/InvoicePlane.md) | ⭐ 3,258 | PHP | 2026-10-15 |
+| [zeldaret/botw](../repos/zeldaret/botw.md) | ⭐ 2,272 | C++ | 2026-10-16 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [LibreBooking/librebooking](../repos/LibreBooking/librebooking.md) | ⭐ 826 | PHP | 2026-10-15 |
+| [LittleBitUA/DownpourRecomp](../repos/LittleBitUA/DownpourRecomp.md) | ⭐ 295 | C++ | 2026-10-16 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [xiaomlove/nexusphp](../repos/xiaomlove/nexusphp.md) | ⭐ 1,193 | PHP | 2026-10-15 |
+| [winapps-org/winapps](../repos/winapps-org/winapps.md) | ⭐ 16,088 | Shell | 2026-10-16 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [OpenBMB/MiniCPM-V-Apps](../repos/OpenBMB/MiniCPM-V-Apps.md) | ⭐ 457 | Swift | 2026-10-15 |
+| [IceWhaleTech/ZimaOS](../repos/IceWhaleTech/ZimaOS.md) | ⭐ 3,047 | Shell | 2026-10-16 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [realidkroo/musicfy](../repos/realidkroo/musicfy.md) | ⭐ 144 | Kotlin | 2026-10-15 |
+| [gentoo/gentoo](../repos/gentoo/gentoo.md) | ⭐ 2,469 | Shell | 2026-10-16 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-11-14](../archive/2026/11/2026-11-14.md)
+- 213 repositories trending
+- Top: addyosmani&#x2F;agent-skills
 
 ### [2026-11-13](../archive/2026/11/2026-11-13.md)
 - 180 repositories trending
@@ -162,10 +166,6 @@
 - 157 repositories trending
 - Top: sherlock-project&#x2F;sherlock
 
-### [2026-11-07](../archive/2026/11/2026-11-07.md)
-- 201 repositories trending
-- Top: morluto&#x2F;rea
-
 
 ---
 
@@ -175,16 +175,16 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 85 days | 2026-08-01 | 2026-11-13 |
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 85 days | 2026-08-01 | 2026-11-13 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 82 days | 2026-08-01 | 2026-11-13 |
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 82 days | 2026-08-01 | 2026-11-13 |
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 81 days | 2026-08-01 | 2026-11-13 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 79 days | 2026-08-01 | 2026-11-13 |
-| [vlang/v](../repos/vlang/v.md) | 79 days | 2026-08-01 | 2026-11-13 |
-| [penpot/penpot](../repos/penpot/penpot.md) | 74 days | 2026-08-01 | 2026-11-13 |
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 73 days | 2026-08-01 | 2026-11-13 |
-| [emqx/emqx](../repos/emqx/emqx.md) | 73 days | 2026-08-01 | 2026-11-13 |
+| [apache/spark](../repos/apache/spark.md) | 86 days | 2026-08-01 | 2026-11-14 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 86 days | 2026-08-01 | 2026-11-14 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 83 days | 2026-08-01 | 2026-11-14 |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 83 days | 2026-08-01 | 2026-11-14 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 82 days | 2026-08-01 | 2026-11-14 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 80 days | 2026-08-01 | 2026-11-14 |
+| [vlang/v](../repos/vlang/v.md) | 80 days | 2026-08-01 | 2026-11-14 |
+| [penpot/penpot](../repos/penpot/penpot.md) | 75 days | 2026-08-01 | 2026-11-14 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 74 days | 2026-08-01 | 2026-11-14 |
+| [emqx/emqx](../repos/emqx/emqx.md) | 74 days | 2026-08-01 | 2026-11-14 |
 
 ---
 
@@ -192,13 +192,13 @@
 
 ### Language Breakdown
 - **Go**: 280 repositories (10%)
-- **Python**: 222 repositories (8%)
-- **TypeScript**: 222 repositories (8%)
-- **C++**: 202 repositories (7%)
+- **Python**: 226 repositories (8%)
+- **TypeScript**: 224 repositories (8%)
+- **C++**: 204 repositories (7%)
 - **Rust**: 189 repositories (6%)
 
 ### Trending Frequency
-- **Daily Average**: 230.4 repositories
+- **Daily Average**: 230.2 repositories
 - **Peak Day**: 2026-08-19 (383 repositories)
 - **Growth Rate**: 12% this month
 
@@ -314,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-11-13T21:01:06.661Z*
+*Last updated: 2026-11-14T21:00:55.375Z*

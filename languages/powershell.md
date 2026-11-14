@@ -16,25 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Euro-Office/DesktopEditors](../repos/Euro-Office/DesktopEditors.md) | ⭐ 880 | 2026-08-01 | 16 |
+| [Euro-Office/DesktopEditors](../repos/Euro-Office/DesktopEditors.md) | ⭐ 915 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 951 | 2026-08-01 | 50 |
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,727 | 2026-08-03 | 37 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,077 | 2026-08-02 | 20 |
+| [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,576 | 2026-08-04 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 9,321 | 2026-08-06 | 24 |
+| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,801 | 2026-08-11 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/sre-agent](../repos/microsoft/sre-agent.md) | ⭐ 189 | 2026-09-22 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [javaht/claude-desktop-zh-cn](../repos/javaht/claude-desktop-zh-cn.md) | ⭐ 8,542 | 2026-10-23 | 14 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Atlas-OS/Atlas](../repos/Atlas-OS/Atlas.md) | ⭐ 22,102 | 2026-11-05 | 8 |
+| [dhicoc/dsh-reverse-skill](../repos/dhicoc/dsh-reverse-skill.md) | ⭐ 348 | 2026-11-06 | 2 |
 
 
 ---
@@ -67,7 +61,7 @@
 | [microsoft/AL-Go](../repos/microsoft/AL-Go.md) | ⭐ 513 | 2026-11-05 | The plug-and-play DevOps solution for Business Central app development on GitHub |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [dhicoc/dsh-reverse-skill](../repos/dhicoc/dsh-reverse-skill.md) | ⭐ 332 | 2026-11-06 | Complete reverse-skill (88 SKILL.md) as a DeepSeek Harness (dsh) Cordis plugin — reverse engineer... |
+| [dhicoc/dsh-reverse-skill](../repos/dhicoc/dsh-reverse-skill.md) | ⭐ 348 | 2026-11-06 | Complete reverse-skill (88 SKILL.md) as a DeepSeek Harness (dsh) Cordis plugin — reverse engineer... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [auto-yui-patch/fiddler-everywhere-patch-automated](../repos/auto-yui-patch/fiddler-everywhere-patch-automated.md) | ⭐ 814 | 2026-11-06 | Want Fiddler Everywhere Enterprise for Free? Then Patch it! Patch any version Automatically! |
@@ -98,7 +92,7 @@
 | [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 3,576 | 2026-08-01 | 29 |
 | [pester/Pester](../repos/pester/Pester.md) | ⭐ 3,369 | 2026-10-29 | 1 |
 | [dataplat/dbatools](../repos/dataplat/dbatools.md) | ⭐ 2,857 | 2026-08-04 | 4 |
-| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,767 | 2026-08-11 | 21 |
+| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,801 | 2026-08-11 | 22 |
 
 ---
 
@@ -108,14 +102,14 @@
 |------------|---------------|-------|------------|-----------|
 | [actions/runner-images](../repos/actions/runner-images.md) | 63 | ⭐ 13,590 | 2026-08-01 | 2026-11-12 |
 | [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 50 | ⭐ 951 | 2026-08-01 | 2026-11-13 |
-| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 36 | ⭐ 1,722 | 2026-08-03 | 2026-11-10 |
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 37 | ⭐ 1,727 | 2026-08-03 | 2026-11-14 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 33 | ⭐ 8,610 | 2026-08-01 | 2026-11-11 |
 | [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 29 | ⭐ 3,576 | 2026-08-01 | 2026-11-12 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 29 | ⭐ 6,178 | 2026-08-01 | 2026-11-11 |
 | [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 26 | ⭐ 1,574 | 2026-08-01 | 2026-11-07 |
 | [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 26 | ⭐ 539 | 2026-08-04 | 2026-11-12 |
 | [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | 24 | ⭐ 9,321 | 2026-08-06 | 2026-11-13 |
-| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | 21 | ⭐ 2,767 | 2026-08-11 | 2026-10-29 |
+| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | 22 | ⭐ 2,801 | 2026-08-11 | 2026-11-14 |
 
 ---
 
@@ -191,4 +185,4 @@
 
 ---
 
-*Last updated: 2026-11-13T21:01:06.926Z*
+*Last updated: 2026-11-14T21:00:55.590Z*

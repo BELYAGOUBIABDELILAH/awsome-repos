@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Common Lisp |
 | **License** | ISC |
-| **Stars** | ⭐ 3,641 |
-| **Forks** | 🍴 267 |
-| **Trending Days** | 55 |
+| **Stars** | ⭐ 3,653 |
+| **Forks** | 🍴 266 |
+| **Trending Days** | 56 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Nov 10, 2026 |
+| **Last Seen** | Nov 14, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 55
+- **Trending Days**: 56
 - **Longest Streak**: 9 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-13T21:01:10.169Z*  
-*Data from 55 trending reports*
+*Last updated: 2026-11-14T21:00:58.091Z*  
+*Data from 56 trending reports*

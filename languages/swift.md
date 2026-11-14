@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 148
+- **Total Repositories**: 149
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-06
 
@@ -16,40 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [caezium/Burrow](../repos/caezium/Burrow.md) | ⭐ 1,766 | 2026-08-01 | 2 |
+| [caezium/Burrow](../repos/caezium/Burrow.md) | ⭐ 1,778 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/container](../repos/apple/container.md) | ⭐ 51,414 | 2026-08-01 | 21 |
+| [apple/container](../repos/apple/container.md) | ⭐ 51,470 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 4,139 | 2026-08-01 | 16 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 28,794 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,714 | 2026-09-01 | 5 |
+| [zachlatta/freeflow](../repos/zachlatta/freeflow.md) | ⭐ 3,104 | 2026-08-03 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | ⭐ 1,418 | 2026-09-13 | 11 |
+| [Aidoku/Aidoku](../repos/Aidoku/Aidoku.md) | ⭐ 4,748 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 15,451 | 2026-09-21 | 16 |
+| [apple/coreai-models](../repos/apple/coreai-models.md) | ⭐ 2,346 | 2026-08-12 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iFurySt/open-computer-use](../repos/iFurySt/open-computer-use.md) | ⭐ 2,963 | 2026-10-18 | 6 |
+| [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 15,311 | 2026-08-24 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frs0n/GestaltEdit](../repos/frs0n/GestaltEdit.md) | ⭐ 1,036 | 2026-11-11 | 3 |
+| [farzaa/clicky](../repos/farzaa/clicky.md) | ⭐ 8,009 | 2026-09-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/Procexp-Mac](../repos/microsoft/Procexp-Mac.md) | ⭐ 906 | 2026-11-12 | 2 |
+| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | ⭐ 1,436 | 2026-09-13 | 12 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [chocoford/ExcalidrawZ](../repos/chocoford/ExcalidrawZ.md) | ⭐ 1,898 | 2026-11-14 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [OpenBMB/MiniCPM-V-Apps](../repos/OpenBMB/MiniCPM-V-Apps.md) | ⭐ 457 | 2026-10-15 | MiniCPM-V apps — fully offline multimodal chat on iOS &#x2F; Android &#x2F; HarmonyOS |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [1lck/Lithe-IDEA](../repos/1lck/Lithe-IDEA.md) | ⭐ 2,357 | 2026-10-16 | A lightweight, cross-platform IDE for the AI era, with on-demand tools and services. |
@@ -77,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [milika/SmartTubeIOS](../repos/milika/SmartTubeIOS.md) | ⭐ 508 | 2026-10-28 | Native Swift&#x2F;SwiftUI YouTube client for iPhone, iPad, Apple TV &amp; Mac — ad-free, SponsorBlock, DeA... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [carloslfu/slotstream](../repos/carloslfu/slotstream.md) | ⭐ 605 | 2026-10-28 | Run a 105 GB AI model on a Mac that can&#39;t hold it. Qwen3.8-Flash-Next 4-bit, streamed from SSD on... |
 
 
 ---
@@ -87,10 +90,10 @@
 |------------|-------|------------|---------------|
 | [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,542 | 2026-08-05 | 18 |
 | [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) | ⭐ 53,673 | 2026-09-04 | 5 |
-| [apple/container](../repos/apple/container.md) | ⭐ 51,414 | 2026-08-01 | 21 |
+| [apple/container](../repos/apple/container.md) | ⭐ 51,470 | 2026-08-01 | 22 |
 | [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,920 | 2026-08-12 | 15 |
 | [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,714 | 2026-09-01 | 5 |
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 28,732 | 2026-08-01 | 27 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 28,794 | 2026-08-01 | 28 |
 | [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 27,997 | 2026-08-04 | 4 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,918 | 2026-08-04 | 16 |
 | [ReactiveX/RxSwift](../repos/ReactiveX/RxSwift.md) | ⭐ 24,646 | 2026-08-15 | 1 |
@@ -100,10 +103,10 @@
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,685 | 2026-08-01 | 4 |
 | [OpenEmu/OpenEmu](../repos/OpenEmu/OpenEmu.md) | ⭐ 17,766 | 2026-09-13 | 1 |
 | [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 15,451 | 2026-09-21 | 16 |
+| [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 15,311 | 2026-08-24 | 13 |
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 15,130 | 2026-08-03 | 4 |
 | [Whisky-App/Whisky](../repos/Whisky-App/Whisky.md) | ⭐ 15,107 | 2026-09-06 | 2 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,999 | 2026-08-04 | 22 |
-| [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,987 | 2026-08-24 | 12 |
 | [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,925 | 2026-08-17 | 15 |
 
 ---
@@ -113,9 +116,9 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 33 | ⭐ 14,103 | 2026-08-01 | 2026-11-11 |
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 27 | ⭐ 28,732 | 2026-08-01 | 2026-11-06 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 28 | ⭐ 28,794 | 2026-08-01 | 2026-11-14 |
+| [apple/container](../repos/apple/container.md) | 22 | ⭐ 51,470 | 2026-08-01 | 2026-11-14 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 22 | ⭐ 14,999 | 2026-08-04 | 2026-10-29 |
-| [apple/container](../repos/apple/container.md) | 21 | ⭐ 51,414 | 2026-08-01 | 2026-11-13 |
 | [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 18 | ⭐ 9,415 | 2026-08-02 | 2026-11-07 |
 | [swiftlang/swift](../repos/swiftlang/swift.md) | 18 | ⭐ 70,542 | 2026-08-05 | 2026-11-06 |
 | [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 16 | ⭐ 4,139 | 2026-08-01 | 2026-11-13 |
@@ -230,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-13T21:01:06.952Z*
+*Last updated: 2026-11-14T21:00:55.618Z*

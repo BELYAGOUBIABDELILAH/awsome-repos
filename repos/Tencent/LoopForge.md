@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | Other |
-| **Stars** | ⭐ 666 |
-| **Forks** | 🍴 110 |
-| **Trending Days** | 3 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 851 |
+| **Forks** | 🍴 211 |
+| **Trending Days** | 4 |
+| **Peak Rank** | #13 |
 
 | **First Seen** | Nov 11, 2026 |
-| **Last Seen** | Nov 13, 2026 |
+| **Last Seen** | Nov 14, 2026 |
 
 
 ---
@@ -43,12 +43,13 @@
 
 ## Trending Timeline
 
+**Nov 14, 2026** — Rank #13 (+101 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
-- **Longest Streak**: 3 days
+- **Peak Rank**: #13
+- **Trending Days**: 4
+- **Longest Streak**: 4 days
 
 ---
 
@@ -70,7 +71,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Small | Niche but dedicated community |
+| **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Experimental | New project, evolving rapidly |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -85,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 60&#x2F;100
-- **Historical Rank**: No ranking data
+- **Trending Score**: 80&#x2F;100
+- **Historical Rank**: Peak: #13
 
 
 ---
 
-*Last updated: 2026-11-13T21:01:14.201Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-11-14T21:01:01.754Z*  
+*Data from 4 trending reports*

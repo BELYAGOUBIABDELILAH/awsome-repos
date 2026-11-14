@@ -1,6 +1,6 @@
 # esmuellert&#x2F;codediff.nvim
 
-> VSCode-style diff, merge and git history for Neovim. Side-by-side or inline, with character-level highlighting from VSCode&#39;s own diff algorithm in C.
+> Live code review for Neovim with VSCode style diffs
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;esmuellert&#x2F;codediff.nvim) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Lua |
 | **License** | MIT |
-| **Stars** | ⭐ 1,538 |
-| **Forks** | 🍴 92 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 1,632 |
+| **Forks** | 🍴 108 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Aug 29, 2026 |
+| **Last Seen** | Nov 14, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 1 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 50&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-13T21:01:10.109Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-11-14T21:00:58.043Z*  
+*Data from 4 trending reports*

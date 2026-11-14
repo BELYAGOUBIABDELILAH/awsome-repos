@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 324
+- **Total Repositories**: 325
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-07
 
@@ -16,52 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 55,392 | 2026-08-01 | 16 |
+| [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 51,428 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/checkout](../repos/actions/checkout.md) | ⭐ 9,015 | 2026-08-02 | 8 |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 56,223 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EveryInc/compound-engineering-plugin](../repos/EveryInc/compound-engineering-plugin.md) | ⭐ 26,064 | 2026-08-04 | 8 |
+| [Narcooo/inkos](../repos/Narcooo/inkos.md) | ⭐ 11,181 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AdventDevInc/kudu](../repos/AdventDevInc/kudu.md) | ⭐ 4,336 | 2026-08-06 | 4 |
+| [dream-num/univer](../repos/dream-num/univer.md) | ⭐ 24,416 | 2026-08-05 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [QwenLM/qwen-code](../repos/QwenLM/qwen-code.md) | ⭐ 30,115 | 2026-08-06 | 5 |
+| [CherryHQ/cherry-studio](../repos/CherryHQ/cherry-studio.md) | ⭐ 53,514 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-labs-code/stitch-skills](../repos/google-labs-code/stitch-skills.md) | ⭐ 8,767 | 2026-08-22 | 8 |
+| [QwenLM/qwen-code](../repos/QwenLM/qwen-code.md) | ⭐ 30,285 | 2026-08-06 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [backnotprop/plannotator](../repos/backnotprop/plannotator.md) | ⭐ 10,393 | 2026-08-26 | 9 |
+| [backnotprop/plannotator](../repos/backnotprop/plannotator.md) | ⭐ 11,016 | 2026-08-26 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [a2ui-project/a2ui](../repos/a2ui-project/a2ui.md) | ⭐ 17,304 | 2026-09-02 | 2 |
+| [a2ui-project/a2ui](../repos/a2ui-project/a2ui.md) | ⭐ 17,358 | 2026-09-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [thesysdev/openui](../repos/thesysdev/openui.md) | ⭐ 15,189 | 2026-09-13 | 9 |
+| [ag-ui-protocol/ag-ui](../repos/ag-ui-protocol/ag-ui.md) | ⭐ 17,307 | 2026-10-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex-security](../repos/openai/codex-security.md) | ⭐ 13,057 | 2026-10-08 | 4 |
+| [openai/codex-security](../repos/openai/codex-security.md) | ⭐ 13,519 | 2026-10-08 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [SegFault42/HeliosGen](../repos/SegFault42/HeliosGen.md) | ⭐ 3,142 | 2026-10-15 | 🏆 Self Hosted Gen AI desktop app. Free alternative to Higgsfield, OpenArt, Freepik.... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ErTasselli/OpenTerminal](../repos/ErTasselli/OpenTerminal.md) | ⭐ 1,743 | 2026-10-15 | A Terminal-style trading dashboard built entirely on free public market data. No API keys, no sub... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [microsoft/playwright](../repos/microsoft/playwright.md) | ⭐ 98,817 | 2026-10-15 | Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [dimthink/PriceAI](../repos/dimthink/PriceAI.md) | ⭐ 4,122 | 2026-10-15 | AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [LibreSpark/LibreTV](../repos/LibreSpark/LibreTV.md) | ⭐ 24,455 | 2026-10-16 | 一分钟搭建影视站，支持Docker等部署方式 |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [LibreChat-AI/LibreChat](../repos/LibreChat-AI/LibreChat.md) | ⭐ 45,931 | 2026-10-18 | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [trycompai/crm](../repos/trycompai/crm.md) | ⭐ 11,501 | 2026-10-19 | Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [croffasia/itsaplan](../repos/croffasia/itsaplan.md) | ⭐ 1,733 | 2026-10-19 | ⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tra... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [emdash-cms/emdash](../repos/emdash-cms/emdash.md) | ⭐ 13,825 | 2026-10-20 | EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [PC2005-cloud/dsh-pet](../repos/PC2005-cloud/dsh-pet.md) | ⭐ 3,057 | 2026-10-20 | DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物 |
 
 
 ---
@@ -123,7 +123,7 @@
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 20 | ⭐ 78,178 | 2026-08-10 | 2026-10-21 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 19 | ⭐ 48,123 | 2026-08-01 | 2026-11-05 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 19 | ⭐ 140,636 | 2026-08-02 | 2026-11-07 |
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 16 | ⭐ 55,392 | 2026-08-01 | 2026-11-13 |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 17 | ⭐ 56,223 | 2026-08-01 | 2026-11-14 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 14 | ⭐ 34,200 | 2026-08-02 | 2026-10-03 |
 
 ---
@@ -181,7 +181,7 @@
 - [iOfficeAI/AionUi](../repos/iOfficeAI/AionUi.md) - Open-source 24&#x2F;7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI A...
 - [expo/expo](../repos/expo/expo.md) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, ...
 - [makeplane/plane](../repos/makeplane/plane.md) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project manag...
-- [CherryHQ/cherry-studio](../repos/CherryHQ/cherry-studio.md) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to...
+- [CherryHQ/cherry-studio](../repos/CherryHQ/cherry-studio.md) - Your AI workspace for models, agents, and productivity.
 - [QwenLM/qwen-code](../repos/QwenLM/qwen-code.md) - An open-source AI coding agent that lives in your terminal.
 - [playcanvas/supersplat](../repos/playcanvas/supersplat.md) - 3D Gaussian Splat Editor
 - [KnockOutEZ/wigolo](../repos/KnockOutEZ/wigolo.md) - The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No...
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-13T21:01:06.957Z*
+*Last updated: 2026-11-14T21:00:55.622Z*

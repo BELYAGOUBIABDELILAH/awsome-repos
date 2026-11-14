@@ -1,6 +1,6 @@
 # CherryHQ&#x2F;cherry-studio
 
-> AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
+> Your AI workspace for models, agents, and productivity.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;CherryHQ&#x2F;cherry-studio) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 49,894 |
-| **Forks** | 🍴 4,722 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 53,514 |
+| **Forks** | 🍴 5,223 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 6, 2026 |
-| **Last Seen** | Aug 6, 2026 |
+| **Last Seen** | Nov 14, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`agent-skills`](../../topics/agent-skills.md) [`ai-agent`](../../topics/ai-agent.md) [`awesome-skills`](../../topics/awesome-skills.md) [`claude-code`](../../topics/claude-code.md) [`codex`](../../topics/codex.md) [`deepseek`](../../topics/deepseek.md) [`hermes-agent`](../../topics/hermes-agent.md) [`openclaw`](../../topics/openclaw.md) [`skills`](../../topics/skills.md) [`vibe-coding`](../../topics/vibe-coding.md) 
+[`agent-skills`](../../topics/agent-skills.md) [`agent-workspace`](../../topics/agent-workspace.md) [`agentic-workspace`](../../topics/agentic-workspace.md) [`ai-agents`](../../topics/ai-agents.md) [`ai-models`](../../topics/ai-models.md) [`ai-productivity`](../../topics/ai-productivity.md) [`ai-workspace`](../../topics/ai-workspace.md) [`computer-use`](../../topics/computer-use.md) [`llm`](../../topics/llm.md) [`mcp`](../../topics/mcp.md) [`mcp-client`](../../topics/mcp-client.md) [`ollama`](../../topics/ollama.md) [`rag`](../../topics/rag.md) 
 
 ### Curated Categories
-`Artificial Intelligence` `Large Language Models` `Systems Programming` `Education &amp; Learning` 
+`Artificial Intelligence` `Large Language Models` `Systems Programming` `Developer Tools` 
 
 ---
 
@@ -68,12 +68,12 @@
 
 | Aspect | Rating | Details |
 |--------|--------|---------|
-| **Difficulty** | Beginner | Approachable with good examples |
-| **Documentation** | Average | Basic documentation available |
-| **Community** | Growing | Emerging community |
+| **Difficulty** | Intermediate | Well-documented but extensive API |
+| **Documentation** | Good | Well-maintained documentation |
+| **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Slow | Occasional updates |
-| **Learning Curve** | Medium | Moderate learning investment |
+| **Maintenance** | Very Active | Updated within last week |
+| **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
 - General purpose
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-13T21:01:10.592Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-11-14T21:00:58.435Z*  
+*Data from 2 trending reports*

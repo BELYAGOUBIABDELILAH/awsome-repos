@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 120,552 | 2026-08-02 | 35 |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,638 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 6,136 | 2026-08-03 | 43 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,524 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 39,237 | 2026-08-03 | 18 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 33,754 | 2026-08-02 | 43 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bloxstraplabs/bloxstrap](../repos/bloxstraplabs/bloxstrap.md) | ⭐ 3,211 | 2026-08-04 | 10 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 59,358 | 2026-08-02 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | ⭐ 9,447 | 2026-08-04 | 21 |
+| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 6,179 | 2026-08-03 | 44 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 56,158 | 2026-08-06 | 24 |
+| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 11,727 | 2026-08-04 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [4sval/FModel](../repos/4sval/FModel.md) | ⭐ 3,372 | 2026-08-22 | 6 |
+| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,437 | 2026-08-04 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MoFeng2223/BrimDeck](../repos/MoFeng2223/BrimDeck.md) | ⭐ 636 | 2026-11-06 | 3 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 56,176 | 2026-08-06 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LagrangeDev/Lagrange.Core](../repos/LagrangeDev/Lagrange.Core.md) | ⭐ 3,044 | 2026-11-12 | 2 |
+| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,572 | 2026-08-10 | 11 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [cyanfish/naps2](../repos/cyanfish/naps2.md) | ⭐ 4,786 | 2026-08-22 | 6 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [xM4ddy/OFGB](../repos/xM4ddy/OFGB.md) | ⭐ 7,474 | 2026-10-15 | GUI Tool To Remove Ads From Various Places Around Windows 11 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [empira/PDFsharp](../repos/empira/PDFsharp.md) | ⭐ 1,005 | 2026-10-15 | PDFsharp and MigraDoc Foundation for .NET 6 and .NET Framework |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Matteo842/CrashBandicoot-Launcher](../repos/Matteo842/CrashBandicoot-Launcher.md) | ⭐ 269 | 2026-10-16 | CrashBandicoot native pc port |
@@ -77,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [HunterPie/HunterPie](../repos/HunterPie/HunterPie.md) | ⭐ 1,320 | 2026-10-28 | A clean, modern and robust overlay for Monster Hunter games. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [npgsql/efcore.pg](../repos/npgsql/efcore.pg.md) | ⭐ 1,842 | 2026-10-29 | Entity Framework Core provider for PostgreSQL |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [OrchardCMS/OrchardCore](../repos/OrchardCMS/OrchardCore.md) | ⭐ 8,219 | 2026-10-29 | Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET ... |
 
 
 ---
@@ -86,25 +89,25 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 120,552 | 2026-08-02 | 35 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 58,750 | 2026-08-02 | 24 |
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 56,158 | 2026-08-06 | 24 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 59,358 | 2026-08-02 | 25 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 56,176 | 2026-08-06 | 25 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,351 | 2026-08-01 | 17 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 40,927 | 2026-08-14 | 10 |
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 39,237 | 2026-08-03 | 18 |
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,509 | 2026-08-01 | 25 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 33,494 | 2026-08-02 | 42 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,524 | 2026-08-01 | 26 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 33,754 | 2026-08-02 | 43 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,757 | 2026-08-01 | 23 |
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 32,177 | 2026-08-22 | 6 |
 | [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,082 | 2026-08-28 | 4 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
 | [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,740 | 2026-08-05 | 15 |
-| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,535 | 2026-08-10 | 10 |
+| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,572 | 2026-08-10 | 11 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,954 | 2026-08-01 | 13 |
 | [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,527 | 2026-08-02 | 9 |
-| [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 25,660 | 2026-08-27 | 10 |
+| [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 25,767 | 2026-08-27 | 11 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,316 | 2026-08-04 | 5 |
 | [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,765 | 2026-08-01 | 12 |
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,395 | 2026-08-01 | 13 |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,638 | 2026-08-01 | 14 |
 
 ---
 
@@ -112,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [dotnet/skills](../repos/dotnet/skills.md) | 43 | ⭐ 6,136 | 2026-08-03 | 2026-11-13 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 42 | ⭐ 33,494 | 2026-08-02 | 2026-11-09 |
+| [dotnet/skills](../repos/dotnet/skills.md) | 44 | ⭐ 6,179 | 2026-08-03 | 2026-11-14 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 43 | ⭐ 33,754 | 2026-08-02 | 2026-11-14 |
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 35 | ⭐ 120,552 | 2026-08-02 | 2026-11-13 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 27 | ⭐ 17,894 | 2026-08-02 | 2026-11-10 |
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 25 | ⭐ 38,509 | 2026-08-01 | 2026-11-10 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 24 | ⭐ 58,750 | 2026-08-02 | 2026-10-28 |
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | 24 | ⭐ 56,158 | 2026-08-06 | 2026-11-13 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 26 | ⭐ 38,524 | 2026-08-01 | 2026-11-14 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 25 | ⭐ 59,358 | 2026-08-02 | 2026-11-14 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | 25 | ⭐ 56,176 | 2026-08-06 | 2026-11-14 |
+| [dotnet/runtime](../repos/dotnet/runtime.md) | 24 | ⭐ 18,437 | 2026-08-04 | 2026-11-14 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 23 | ⭐ 32,757 | 2026-08-01 | 2026-10-29 |
 | [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 23 | ⭐ 14,945 | 2026-08-01 | 2026-11-10 |
-| [dotnet/runtime](../repos/dotnet/runtime.md) | 23 | ⭐ 18,426 | 2026-08-04 | 2026-11-11 |
 
 ---
 
@@ -230,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-13T21:01:06.839Z*
+*Last updated: 2026-11-14T21:00:55.520Z*

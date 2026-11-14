@@ -7,7 +7,7 @@
 ## October 2026
 
 **Period**: 2026-10-01 to 2026-10-28  
-**Gems Found**: 399
+**Gems Found**: 388
 
 ---
 
@@ -31,27 +31,7 @@
 
 ---
 
-### 2. [nightly-labs&#x2F;openbot](../../repos/nightly-labs/openbot.md)
-
-**A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 3,806 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 94/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Oct 25, 2026 |
-
-**Why it's a gem**: High growth velocity (+1162 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/nightly-labs/openbot.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;nightly-labs&#x2F;openbot)
-
----
-
-### 3. [julyx10&#x2F;lap](../../repos/julyx10/lap.md)
+### 2. [julyx10&#x2F;lap](../../repos/julyx10/lap.md)
 
 **An offline-first photo manager for large local libraries**
 
@@ -71,7 +51,7 @@
 
 ---
 
-### 4. [mixelpixx&#x2F;Konnect](../../repos/mixelpixx/Konnect.md)
+### 3. [mixelpixx&#x2F;Konnect](../../repos/mixelpixx/Konnect.md)
 
 **AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing**
 
@@ -91,7 +71,7 @@
 
 ---
 
-### 5. [plugin87&#x2F;ux-ui-agent-skills](../../repos/plugin87/ux-ui-agent-skills.md)
+### 4. [plugin87&#x2F;ux-ui-agent-skills](../../repos/plugin87/ux-ui-agent-skills.md)
 
 **Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.**
 
@@ -108,6 +88,26 @@
 **Best for**: 
 
 [View Passport](../../repos/plugin87/ux-ui-agent-skills.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;plugin87&#x2F;ux-ui-agent-skills)
+
+---
+
+### 5. [nightly-labs&#x2F;openbot](../../repos/nightly-labs/openbot.md)
+
+**A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3,806 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 93/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Oct 25, 2026 |
+
+**Why it's a gem**: High growth velocity (+1162 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/nightly-labs/openbot.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;nightly-labs&#x2F;openbot)
 
 ---
 
@@ -151,27 +151,7 @@
 
 ---
 
-### 8. [JetBrains&#x2F;thinkrail](../../repos/JetBrains/thinkrail.md)
-
-**Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 5,934 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 92/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Oct 25, 2026 |
-
-**Why it's a gem**: High growth velocity (+1844 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/JetBrains/thinkrail.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;JetBrains&#x2F;thinkrail)
-
----
-
-### 9. [superdesigndev&#x2F;treg](../../repos/superdesigndev/treg.md)
+### 8. [superdesigndev&#x2F;treg](../../repos/superdesigndev/treg.md)
 
 **OpenRouter for agent tools. Join community here: https:&#x2F;&#x2F;discord.gg&#x2F;6mQYYfFMAn**
 
@@ -183,7 +163,7 @@
 | 📈 **Trending Days** | 7 |
 | 📅 **First Seen** | Sep 22, 2026 |
 
-**Why it's a gem**: High growth velocity (+365 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+365 stars&#x2F;day) • Trending 7 times • Strong community engagement
 
 **Best for**: 
 
@@ -191,7 +171,7 @@
 
 ---
 
-### 10. [androoAGI&#x2F;starnet](../../repos/androoAGI/starnet.md)
+### 9. [androoAGI&#x2F;starnet](../../repos/androoAGI/starnet.md)
 
 **A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.**
 
@@ -211,27 +191,27 @@
 
 ---
 
-### 11. [apache&#x2F;maka](../../repos/apache/maka.md)
+### 10. [JetBrains&#x2F;thinkrail](../../repos/JetBrains/thinkrail.md)
 
-**Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.**
+**Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5,811 |
+| ⭐ **Stars** | 5,934 |
 | 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 9 |
-| 📅 **First Seen** | Aug 20, 2026 |
+| 🏆 **Gem Score** | 91/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Oct 25, 2026 |
 
-**Why it's a gem**: High growth velocity (+363 stars&#x2F;day) • Trending 9 times • Strong community engagement
+**Why it's a gem**: High growth velocity (+1844 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/apache/maka.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;apache&#x2F;maka)
+[View Passport](../../repos/JetBrains/thinkrail.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;JetBrains&#x2F;thinkrail)
 
 ---
 
-### 12. [alsk1992&#x2F;CloddsBot](../../repos/alsk1992/CloddsBot.md)
+### 11. [alsk1992&#x2F;CloddsBot](../../repos/alsk1992/CloddsBot.md)
 
 **Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.**
 
@@ -251,7 +231,7 @@
 
 ---
 
-### 13. [mg-chao&#x2F;snow-apps](../../repos/mg-chao/snow-apps.md)
+### 12. [mg-chao&#x2F;snow-apps](../../repos/mg-chao/snow-apps.md)
 
 **Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.**
 
@@ -268,6 +248,26 @@
 **Best for**: 
 
 [View Passport](../../repos/mg-chao/snow-apps.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mg-chao&#x2F;snow-apps)
+
+---
+
+### 13. [apache&#x2F;maka](../../repos/apache/maka.md)
+
+**Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 5,811 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 89/100 |
+| 📈 **Trending Days** | 9 |
+| 📅 **First Seen** | Aug 20, 2026 |
+
+**Why it's a gem**: High growth velocity (+363 stars&#x2F;day) • Trending 9 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/apache/maka.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;apache&#x2F;maka)
 
 ---
 
@@ -391,23 +391,23 @@
 
 ---
 
-### 20. [weave-os&#x2F;router](../../repos/weave-os/router.md)
+### 20. [mvschwarz&#x2F;openrig](../../repos/mvschwarz/openrig.md)
 
-**Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.**
+**Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5,557 |
-| 💻 **Language** | Go |
+| ⭐ **Stars** | 4,646 |
+| 💻 **Language** | TypeScript |
 | 🏆 **Gem Score** | 88/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Sep 19, 2026 |
+| 📈 **Trending Days** | 7 |
+| 📅 **First Seen** | Sep 25, 2026 |
 
-**Why it's a gem**: High growth velocity (+83 stars&#x2F;day) • Trending 5 times • Strong community engagement
+**Why it's a gem**: High growth velocity (+943 stars&#x2F;day) • Trending 7 times • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/weave-os/router.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;weave-os&#x2F;router)
+[View Passport](../../repos/mvschwarz/openrig.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mvschwarz&#x2F;openrig)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-13T21:01:14.556Z*  
+*Generated: 2026-11-14T21:01:02.055Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

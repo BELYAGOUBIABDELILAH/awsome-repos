@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 244
+- **Total Repositories**: 245
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-05
 
@@ -16,22 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zellij-org/zellij](../repos/zellij-org/zellij.md) | ⭐ 36,039 | 2026-08-04 | 4 |
+| [rust-lang/rust-clippy](../repos/rust-lang/rust-clippy.md) | ⭐ 13,648 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rustfs/rustfs](../repos/rustfs/rustfs.md) | ⭐ 36,060 | 2026-08-09 | 11 |
+| [block/buzz](../repos/block/buzz.md) | ⭐ 37,441 | 2026-08-19 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [block/buzz](../repos/block/buzz.md) | ⭐ 37,272 | 2026-08-19 | 11 |
+| [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 56,615 | 2026-08-19 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ModernRelay/omnigraph](../repos/ModernRelay/omnigraph.md) | ⭐ 2,217 | 2026-10-20 | 3 |
+| [lance-format/lance](../repos/lance-format/lance.md) | ⭐ 7,302 | 2026-08-28 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ShayanAbbas1/dbdelve](../repos/ShayanAbbas1/dbdelve.md) | ⭐ 1,296 | 2026-10-27 | 4 |
+| [martin-olivier/airgorah](../repos/martin-olivier/airgorah.md) | ⭐ 5,757 | 2026-09-13 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aimod-cc/Agent2API](../repos/aimod-cc/Agent2API.md) | ⭐ 2,252 | 2026-11-13 | 1 |
+| [ModernRelay/omnigraph](../repos/ModernRelay/omnigraph.md) | ⭐ 2,403 | 2026-10-20 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [trymirai/uzu](../repos/trymirai/uzu.md) | ⭐ 3,333 | 2026-10-21 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [verus-lang/verus](../repos/verus-lang/verus.md) | ⭐ 3,780 | 2026-11-14 | 1 |
 
 
 ---
@@ -58,13 +64,13 @@
 | [fish-shell/fish-shell](../repos/fish-shell/fish-shell.md) | ⭐ 34,332 | 2026-10-19 | The user-friendly command line shell. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ModernRelay/omnigraph](../repos/ModernRelay/omnigraph.md) | ⭐ 2,217 | 2026-10-20 | Object-storage native graph database with branching and typed ontology |
+| [ModernRelay/omnigraph](../repos/ModernRelay/omnigraph.md) | ⭐ 2,403 | 2026-10-20 | Object-storage native graph database with branching and typed ontology |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Jamailar/Beav](../repos/Jamailar/Beav.md) | ⭐ 2,089 | 2026-10-20 | 小红书 AI 运营工作台｜小红书采集、评论区下载、素材库、选题、AI写作、小红书全域解决方案，开箱即用，一键安装，小红书AI工作台，自媒体素材库，AI写作+图片自动编排，小红书版OpenClaw... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [trymirai/uzu](../repos/trymirai/uzu.md) | ⭐ 3,037 | 2026-10-21 | A high-performance inference engine for AI models |
+| [trymirai/uzu](../repos/trymirai/uzu.md) | ⭐ 3,333 | 2026-10-21 | A high-performance inference engine for AI models |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [redlib-org/redlib](../repos/redlib-org/redlib.md) | ⭐ 3,896 | 2026-10-22 |  Private front-end for Reddit  |
@@ -90,7 +96,7 @@
 | [alacritty/alacritty](../repos/alacritty/alacritty.md) | ⭐ 65,327 | 2026-08-11 | 1 |
 | [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 64,099 | 2026-08-03 | 2 |
 | [rust-unofficial/awesome-rust](../repos/rust-unofficial/awesome-rust.md) | ⭐ 59,459 | 2026-09-03 | 3 |
-| [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 55,699 | 2026-08-19 | 6 |
+| [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 56,615 | 2026-08-19 | 7 |
 | [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 51,108 | 2026-08-12 | 7 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 50,290 | 2026-08-02 | 23 |
 | [herdrdev/herdr](../repos/herdrdev/herdr.md) | ⭐ 49,394 | 2026-11-03 | 2 |
@@ -221,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-11-13T21:01:06.941Z*
+*Last updated: 2026-11-14T21:00:55.606Z*

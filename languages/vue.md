@@ -16,31 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,971 | 2026-08-01 | 48 |
+| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,502 | 2026-08-01 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,474 | 2026-08-03 | 25 |
+| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,981 | 2026-08-01 | 49 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [luckjiawei/frpc-desktop](../repos/luckjiawei/frpc-desktop.md) | ⭐ 6,972 | 2026-08-04 | 3 |
+| [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 53,971 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pipipi-pikachu/PPTist](../repos/pipipi-pikachu/PPTist.md) | ⭐ 9,494 | 2026-08-23 | 19 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 480 | 2026-08-02 | 49 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [1sdv/TripStar](../repos/1sdv/TripStar.md) | ⭐ 2,549 | 2026-09-04 | 14 |
+| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 11,874 | 2026-08-04 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [geekgeekrun/geekgeekrun](../repos/geekgeekrun/geekgeekrun.md) | ⭐ 3,188 | 2026-09-10 | 18 |
+| [Daymychen/art-design-pro](../repos/Daymychen/art-design-pro.md) | ⭐ 6,000 | 2026-08-07 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MoeKoeMusic/MoeKoeMusic](../repos/MoeKoeMusic/MoeKoeMusic.md) | ⭐ 7,163 | 2026-09-19 | 20 |
+| [1sdv/TripStar](../repos/1sdv/TripStar.md) | ⭐ 2,551 | 2026-09-04 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [docmirror/dev-sidecar](../repos/docmirror/dev-sidecar.md) | ⭐ 25,054 | 2026-10-06 | 20 |
+| [docmirror/dev-sidecar](../repos/docmirror/dev-sidecar.md) | ⭐ 25,072 | 2026-10-06 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hack-gpon/hack-gpon.github.io](../repos/hack-gpon/hack-gpon.github.io.md) | ⭐ 347 | 2026-11-10 | 2 |
+| [Stapxs/Stapxs-QQ-Lite-2.0](../repos/Stapxs/Stapxs-QQ-Lite-2.0.md) | ⭐ 1,377 | 2026-10-27 | 2 |
 
 
 ---
@@ -58,7 +58,7 @@
 | [ginnnnnncc/GinsMooc](../repos/ginnnnnncc/GinsMooc.md) | ⭐ 736 | 2026-10-25 | 中国大学MOOC查询测验&#x2F;作业&#x2F;考试答案，插件支持，测验支持选择&#x2F;判断&#x2F;填空。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Stapxs/Stapxs-QQ-Lite-2.0](../repos/Stapxs/Stapxs-QQ-Lite-2.0.md) | ⭐ 1,348 | 2026-10-27 | 一个兼容 OneBot 协议的第三方 QQ 客户端。 Web、全平台实现！ |
+| [Stapxs/Stapxs-QQ-Lite-2.0](../repos/Stapxs/Stapxs-QQ-Lite-2.0.md) | ⭐ 1,377 | 2026-10-27 | 一个兼容 OneBot 协议的第三方 QQ 客户端。 Web、全平台实现！ |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [YuehaiTeam/cocogoat](../repos/YuehaiTeam/cocogoat.md) | ⭐ 1,165 | 2026-11-08 | A toolbox for Genshin Impact 100% running in browser. 纯网页端的原神工具箱，保证每一行代码都是熬夜加班打造。 |
@@ -74,11 +74,11 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,110 | 2026-08-01 | 24 |
-| [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 53,976 | 2026-08-01 | 14 |
+| [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 53,971 | 2026-08-01 | 15 |
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,596 | 2026-08-01 | 37 |
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,587 | 2026-08-01 | 35 |
 | [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 29,058 | 2026-08-01 | 36 |
-| [docmirror/dev-sidecar](../repos/docmirror/dev-sidecar.md) | ⭐ 25,054 | 2026-10-06 | 20 |
+| [docmirror/dev-sidecar](../repos/docmirror/dev-sidecar.md) | ⭐ 25,072 | 2026-10-06 | 21 |
 | [iview/iview](../repos/iview/iview.md) | ⭐ 23,775 | 2026-08-22 | 2 |
 | [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 22,424 | 2026-08-01 | 42 |
 | [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,702 | 2026-08-02 | 20 |
@@ -87,7 +87,7 @@
 | [Hunlongyu/ZY-Player](../repos/Hunlongyu/ZY-Player.md) | ⭐ 14,511 | 2026-10-12 | 1 |
 | [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,450 | 2026-08-05 | 16 |
 | [tiny-craft/tiny-rdm](../repos/tiny-craft/tiny-rdm.md) | ⭐ 13,148 | 2026-08-20 | 5 |
-| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 11,804 | 2026-08-04 | 31 |
+| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 11,874 | 2026-08-04 | 32 |
 | [chaitin/xray](../repos/chaitin/xray.md) | ⭐ 11,764 | 2026-08-12 | 5 |
 | [zyronon/douyin](../repos/zyronon/douyin.md) | ⭐ 11,550 | 2026-08-17 | 5 |
 | [dicebear/dicebear](../repos/dicebear/dicebear.md) | ⭐ 10,038 | 2026-10-16 | 5 |
@@ -100,8 +100,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [frappe/crm](../repos/frappe/crm.md) | 48 | ⭐ 3,971 | 2026-08-01 | 2026-11-13 |
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 48 | ⭐ 480 | 2026-08-02 | 2026-11-12 |
+| [frappe/crm](../repos/frappe/crm.md) | 49 | ⭐ 3,981 | 2026-08-01 | 2026-11-14 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 49 | ⭐ 480 | 2026-08-02 | 2026-11-14 |
 | [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | 48 | ⭐ 17,561 | 2026-08-02 | 2026-11-12 |
 | [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 42 | ⭐ 22,424 | 2026-08-01 | 2026-11-12 |
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | 37 | ⭐ 33,596 | 2026-08-01 | 2026-11-07 |
@@ -218,4 +218,4 @@
 
 ---
 
-*Last updated: 2026-11-13T21:01:06.972Z*
+*Last updated: 2026-11-14T21:00:55.633Z*

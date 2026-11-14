@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 5
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-13
+- **Last Updated**: 2026-11-14
 
 ---
 
@@ -16,17 +16,15 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 38,105 | 2026-08-01 | 79 |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 38,108 | 2026-08-01 | 80 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [vlang/vsl](../repos/vlang/vsl.md) | ⭐ 404 | 2026-10-15 | V library to develop Artificial Intelligence and High-Performance Scientific Computations |
 
+*No new V repositories in the last 30 days*
 
 ---
 
@@ -34,7 +32,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 38,105 | 2026-08-01 | 79 |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 38,108 | 2026-08-01 | 80 |
 | [vlang/vinix](../repos/vlang/vinix.md) | ⭐ 2,701 | 2026-09-09 | 24 |
 | [vlang/vsl](../repos/vlang/vsl.md) | ⭐ 404 | 2026-10-15 | 2 |
 | [vlang/v-analyzer](../repos/vlang/v-analyzer.md) | ⭐ 206 | 2026-08-09 | 2 |
@@ -46,7 +44,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [vlang/v](../repos/vlang/v.md) | 79 | ⭐ 38,105 | 2026-08-01 | 2026-11-13 |
+| [vlang/v](../repos/vlang/v.md) | 80 | ⭐ 38,108 | 2026-08-01 | 2026-11-14 |
 | [vlang/vinix](../repos/vlang/vinix.md) | 24 | ⭐ 2,701 | 2026-09-09 | 2026-10-27 |
 | [vlang/v-analyzer](../repos/vlang/v-analyzer.md) | 2 | ⭐ 206 | 2026-08-09 | 2026-08-11 |
 | [vlang/vsl](../repos/vlang/vsl.md) | 2 | ⭐ 404 | 2026-10-15 | 2026-10-16 |
@@ -64,4 +62,4 @@
 
 ---
 
-*Last updated: 2026-11-13T21:01:06.959Z*
+*Last updated: 2026-11-14T21:00:55.623Z*

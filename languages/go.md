@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 56,051 | 2026-08-01 | 29 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 39,342 | 2026-08-01 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 37,394 | 2026-08-01 | 29 |
+| [tailscale/tailscale](../repos/tailscale/tailscale.md) | ⭐ 39,106 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 186,884 | 2026-08-01 | 28 |
+| [kubescape/kubescape](../repos/kubescape/kubescape.md) | ⭐ 11,899 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 6,586 | 2026-08-02 | 25 |
+| [restic/restic](../repos/restic/restic.md) | ⭐ 37,225 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kubescape/kubescape](../repos/kubescape/kubescape.md) | ⭐ 11,890 | 2026-08-02 | 4 |
+| [projectdiscovery/nuclei](../repos/projectdiscovery/nuclei.md) | ⭐ 32,913 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [larksuite/cli](../repos/larksuite/cli.md) | ⭐ 18,097 | 2026-08-06 | 12 |
+| [wailsapp/wails](../repos/wailsapp/wails.md) | ⭐ 37,106 | 2026-08-05 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cli/cli](../repos/cli/cli.md) | ⭐ 47,000 | 2026-08-11 | 6 |
+| [opentofu/opentofu](../repos/opentofu/opentofu.md) | ⭐ 30,858 | 2026-08-15 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 50,509 | 2026-08-20 | 19 |
+| [getlago/lago](../repos/getlago/lago.md) | ⭐ 10,854 | 2026-08-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hashicorp/vault](../repos/hashicorp/vault.md) | ⭐ 36,508 | 2026-08-26 | 6 |
+| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 51,343 | 2026-08-20 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tailscale/tailcat](../repos/tailscale/tailcat.md) | ⭐ 9,389 | 2026-08-28 | 7 |
+| [tailscale/tailcat](../repos/tailscale/tailcat.md) | ⭐ 9,810 | 2026-08-28 | 8 |
 
 
 ---
@@ -105,8 +105,8 @@
 | [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 56,051 | 2026-08-01 | 29 |
 | [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,668 | 2026-08-22 | 7 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 51,364 | 2026-08-01 | 22 |
+| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 51,343 | 2026-08-20 | 20 |
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,305 | 2026-08-04 | 3 |
-| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 50,509 | 2026-08-20 | 19 |
 | [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 50,430 | 2026-08-03 | 2 |
 
 ---
@@ -118,12 +118,12 @@
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 29 | ⭐ 56,051 | 2026-08-01 | 2026-11-13 |
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 29 | ⭐ 37,394 | 2026-08-01 | 2026-11-13 |
 | [ollama/ollama](../repos/ollama/ollama.md) | 28 | ⭐ 186,884 | 2026-08-01 | 2026-11-13 |
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 26 | ⭐ 39,167 | 2026-08-01 | 2026-11-09 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 27 | ⭐ 39,342 | 2026-08-01 | 2026-11-14 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 25 | ⭐ 6,586 | 2026-08-02 | 2026-11-13 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 22 | ⭐ 51,364 | 2026-08-01 | 2026-11-04 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 20 | ⭐ 45,097 | 2026-08-07 | 2026-10-29 |
+| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 20 | ⭐ 51,343 | 2026-08-20 | 2026-11-14 |
 | [golang/go](../repos/golang/go.md) | 19 | ⭐ 139,873 | 2026-07-31 | 2026-11-12 |
-| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 19 | ⭐ 50,509 | 2026-08-20 | 2026-11-13 |
 | [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | 18 | ⭐ 1,031 | 2026-08-01 | 2026-11-04 |
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-13T21:01:06.877Z*
+*Last updated: 2026-11-14T21:00:55.550Z*

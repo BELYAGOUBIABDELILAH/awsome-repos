@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 440
+- **Total Repositories**: 441
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-11-07
-- **Average Stars**: 21461
+- **Average Stars**: 21490
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 37,394 | Go |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
 | [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,812 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,510 | Scala |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,642 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,316 | Clojure |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,520 | Scala |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,378 | Lua |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,332 | Clojure |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,677 | C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,542 | Perl |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,971 | Vue |  |
+| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,981 | Vue |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [zml/zml](../repos/zml/zml.md) | ⭐ 4,258 | Zig |  |
+| [zml/zml](../repos/zml/zml.md) | ⭐ 4,259 | Zig |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,909 | CoffeeScript |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | ⭐ 1,064 | Solidity |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,361 | Solidity |  |
+| [vim/vim](../repos/vim/vim.md) | ⭐ 41,322 | Vim Script |  |
 
 
 ---
@@ -79,39 +79,30 @@
 | [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,364 | PHP | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,812 | Ruby | 2 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,812 | Ruby | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,510 | Scala | 12 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,642 | Scala | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,520 | Scala | 13 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 181,251 | Dart | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,375 | Lua | 1 |
+| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,378 | Lua | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,316 | Clojure | 12 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,332 | Clojure | 13 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,542 | Perl | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,943 | HTML | 1 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,677 | C | 1 |
 
 ---
 
 ## 🆕 New This Month
 
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [microsoft/playwright](../repos/microsoft/playwright.md) | ⭐ 98,817 | TypeScript | 2026-10-15 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [dimthink/PriceAI](../repos/dimthink/PriceAI.md) | ⭐ 4,122 | TypeScript | 2026-10-15 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [xiaomlove/nexusphp](../repos/xiaomlove/nexusphp.md) | ⭐ 1,193 | PHP | 2026-10-15 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [foundry-rs/foundry](../repos/foundry-rs/foundry.md) | ⭐ 10,767 | Rust | 2026-10-17 |
@@ -133,10 +124,23 @@
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [UdashFramework/udash-core](../repos/UdashFramework/udash-core.md) | ⭐ 452 | Scala | 2026-10-20 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [NomaDamas/CozyClay](../repos/NomaDamas/CozyClay.md) | ⭐ 886 | JavaScript | 2026-10-21 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [trymirai/uzu](../repos/trymirai/uzu.md) | ⭐ 3,333 | Rust | 2026-10-21 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [c-ares/c-ares](../repos/c-ares/c-ares.md) | ⭐ 2,196 | C | 2026-10-21 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-11-14](../archive/2026/11/2026-11-14.md)
+- 29 repositories trending
+- Top: headroomlabs-ai&#x2F;headroom
 
 ### [2026-11-13](../archive/2026/11/2026-11-13.md)
 - 25 repositories trending
@@ -162,10 +166,6 @@
 - 19 repositories trending
 - Top: shanraisshan&#x2F;claude-code-best-practice
 
-### [2026-11-07](../archive/2026/11/2026-11-07.md)
-- 35 repositories trending
-- Top: morluto&#x2F;rea
-
 
 ---
 
@@ -175,16 +175,16 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 85 days | 2026-08-01 | 2026-11-13 |
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 85 days | 2026-08-01 | 2026-11-13 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 82 days | 2026-08-01 | 2026-11-13 |
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 82 days | 2026-08-01 | 2026-11-13 |
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 81 days | 2026-08-01 | 2026-11-13 |
-| [vim/vim](../repos/vim/vim.md) | 71 days | 2026-08-01 | 2026-11-12 |
-| [joernio/joern](../repos/joernio/joern.md) | 62 days | 2026-08-01 | 2026-11-03 |
+| [apache/spark](../repos/apache/spark.md) | 86 days | 2026-08-01 | 2026-11-14 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 86 days | 2026-08-01 | 2026-11-14 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 83 days | 2026-08-01 | 2026-11-14 |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 83 days | 2026-08-01 | 2026-11-14 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 82 days | 2026-08-01 | 2026-11-14 |
+| [vim/vim](../repos/vim/vim.md) | 72 days | 2026-08-01 | 2026-11-14 |
+| [joernio/joern](../repos/joernio/joern.md) | 63 days | 2026-08-01 | 2026-11-14 |
 | [flutter/flutter](../repos/flutter/flutter.md) | 54 days | 2026-08-01 | 2026-11-12 |
-| [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | 51 days | 2026-08-01 | 2026-11-07 |
-| [frappe/crm](../repos/frappe/crm.md) | 48 days | 2026-08-01 | 2026-11-13 |
+| [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | 52 days | 2026-08-01 | 2026-11-14 |
+| [frappe/crm](../repos/frappe/crm.md) | 49 days | 2026-08-01 | 2026-11-14 |
 
 ---
 
@@ -198,7 +198,7 @@
 - **Rust**: 34 repositories (8%)
 
 ### Trending Frequency
-- **Daily Average**: 37.6 repositories
+- **Daily Average**: 37.5 repositories
 - **Peak Day**: 2026-11-06 (59 repositories)
 - **Growth Rate**: 11% this month
 
@@ -301,7 +301,7 @@
 - [zhongkaifu/TensorSharp](../repos/zhongkaifu/TensorSharp.md) - A native .NET LLM inference engine for GGUF models. TensorSharp provides a console application, a...
 - [AAswordman/Operit](../repos/AAswordman/Operit.md) - The most powerful AI agent and AI chat software on Android&#x2F;Operit是一款Android上能力最为强大、发展最久的AI Agent
 - [authpass/authpass](../repos/authpass/authpass.md) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (KDBX 3 and KDBX 4) c...
-- [esmuellert/codediff.nvim](../repos/esmuellert/codediff.nvim.md) - VSCode-style diff, merge and git history for Neovim. Side-by-side or inline, with character-level...
+- [esmuellert/codediff.nvim](../repos/esmuellert/codediff.nvim.md) - Live code review for Neovim with VSCode style diffs
 - [milanglacier/minuet-ai.nvim](../repos/milanglacier/minuet-ai.nvim.md) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular L...
 - [ninenines/cowboy](../repos/ninenines/cowboy.md) - Small, fast, modern HTTP server for Erlang&#x2F;OTP.
 - [morpho-org/morpho-blue-oracles](../repos/morpho-org/morpho-blue-oracles.md) - Morpho Blue Oracles
@@ -314,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-11-13T21:01:06.595Z*
+*Last updated: 2026-11-14T21:00:55.317Z*

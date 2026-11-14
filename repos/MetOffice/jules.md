@@ -13,12 +13,12 @@
 | **Language** | Fortran |
 | **License** | BSD-3-Clause |
 | **Stars** | ⭐ 29 |
-| **Forks** | 🍴 52 |
-| **Trending Days** | 40 |
+| **Forks** | 🍴 53 |
+| **Trending Days** | 41 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 11, 2026 |
-| **Last Seen** | Nov 13, 2026 |
+| **Last Seen** | Nov 14, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 40
+- **Trending Days**: 41
 - **Longest Streak**: 5 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-13T21:01:11.275Z*  
-*Data from 40 trending reports*
+*Last updated: 2026-11-14T21:00:58.967Z*  
+*Data from 41 trending reports*

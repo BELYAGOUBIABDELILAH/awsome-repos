@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | BSD-3-Clause |
-| **Stars** | ⭐ 9,389 |
-| **Forks** | 🍴 429 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 9,810 |
+| **Forks** | 🍴 453 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #4 |
 
 | **First Seen** | Aug 28, 2026 |
-| **Last Seen** | Nov 13, 2026 |
+| **Last Seen** | Nov 14, 2026 |
 
 
 ---
@@ -49,8 +49,8 @@
 ### Highlights
 
 - **Peak Rank**: #4
-- **Trending Days**: 7
-- **Longest Streak**: 2 days
+- **Trending Days**: 8
+- **Longest Streak**: 3 days
 
 ---
 
@@ -93,5 +93,5 @@
 
 ---
 
-*Last updated: 2026-11-13T21:01:12.229Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-11-14T21:00:59.672Z*  
+*Data from 8 trending reports*

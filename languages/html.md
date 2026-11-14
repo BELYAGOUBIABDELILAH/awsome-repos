@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 122
+- **Total Repositories**: 124
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-07
 
@@ -16,28 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 23,781 | 2026-08-01 | 13 |
+| [MengTo/Skills](../repos/MengTo/Skills.md) | ⭐ 7,514 | 2026-08-19 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 29,759 | 2026-08-04 | 17 |
+| [dequelabs/axe-core](../repos/dequelabs/axe-core.md) | ⭐ 7,821 | 2026-10-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | ⭐ 6,316 | 2026-08-11 | 18 |
+| [faroukbmiled/RyukGram](../repos/faroukbmiled/RyukGram.md) | ⭐ 809 | 2026-10-25 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 30,260 | 2026-08-19 | 12 |
+| [sdli1995/dlssg_for_sm86](../repos/sdli1995/dlssg_for_sm86.md) | ⭐ 5,208 | 2026-11-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MengTo/threeui](../repos/MengTo/threeui.md) | ⭐ 7,273 | 2026-10-22 | 4 |
+| [eternity4719/HowToLiveBetter](../repos/eternity4719/HowToLiveBetter.md) | ⭐ 75,766 | 2026-11-13 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sdli1995/dlssg_for_sm86](../repos/sdli1995/dlssg_for_sm86.md) | ⭐ 5,174 | 2026-11-08 | 2 |
+| [jephersonRD/PC-Free](../repos/jephersonRD/PC-Free.md) | ⭐ 283 | 2026-11-14 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [eternity4719/HowToLiveBetter](../repos/eternity4719/HowToLiveBetter.md) | ⭐ 75,575 | 2026-11-13 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [nautilus-os/GUST](../repos/nautilus-os/GUST.md) | ⭐ 149 | 2026-11-13 | 1 |
+| [wdcpclover/ai4paper](../repos/wdcpclover/ai4paper.md) | ⭐ 5,095 | 2026-11-14 | 1 |
 
 
 ---
@@ -49,7 +46,7 @@
 | [MengTo/threeui](../repos/MengTo/threeui.md) | ⭐ 7,273 | 2026-10-22 | Open-source ThreeUI Community catalog with live interactive components and complete Community sou... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [faroukbmiled/RyukGram](../repos/faroukbmiled/RyukGram.md) | ⭐ 740 | 2026-10-25 | RyukGram, The Instagram tweak for iOS power users. |
+| [faroukbmiled/RyukGram](../repos/faroukbmiled/RyukGram.md) | ⭐ 809 | 2026-10-25 | RyukGram, The Instagram tweak for iOS power users. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ProletRevDicta/Prolet](../repos/ProletRevDicta/Prolet.md) | ⭐ 1,865 | 2026-11-03 | Historical documents (in Chinese) about the GPCR (Thanks Comrade RC MR HR etc.) |
@@ -73,7 +70,7 @@
 | [geekan/HowToLiveLonger](../repos/geekan/HowToLiveLonger.md) | ⭐ 36,035 | 2026-11-07 | A Programmer’s Guide to Longevity | Helping everyone live a longer, healthier, happier life. Avai... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [sdli1995/dlssg_for_sm86](../repos/sdli1995/dlssg_for_sm86.md) | ⭐ 5,174 | 2026-11-08 | Here is a dlssg for RTX30 Series GPU  |
+| [sdli1995/dlssg_for_sm86](../repos/sdli1995/dlssg_for_sm86.md) | ⭐ 5,208 | 2026-11-08 | Here is a dlssg for RTX30 Series GPU  |
 
 
 ---
@@ -85,7 +82,7 @@
 | [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 210,940 | 2026-08-03 | 23 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 141,705 | 2026-08-08 | 18 |
 | [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 76,613 | 2026-08-19 | 9 |
-| [eternity4719/HowToLiveBetter](../repos/eternity4719/HowToLiveBetter.md) | ⭐ 75,575 | 2026-11-13 | 1 |
+| [eternity4719/HowToLiveBetter](../repos/eternity4719/HowToLiveBetter.md) | ⭐ 75,766 | 2026-11-13 | 2 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,943 | 2026-08-01 | 24 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,685 | 2026-08-01 | 11 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 43,224 | 2026-08-12 | 13 |
@@ -227,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-11-13T21:01:06.883Z*
+*Last updated: 2026-11-14T21:00:55.555Z*

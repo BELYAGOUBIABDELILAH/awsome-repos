@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 181
+- **Total Repositories**: 182
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-13
 
@@ -16,46 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 25,276 | 2026-08-01 | 19 |
+| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | ⭐ 3,333 | 2026-08-02 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 65,835 | 2026-08-02 | 25 |
+| [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,576 | 2026-08-10 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vivizzz007/vivi-music](../repos/vivizzz007/vivi-music.md) | ⭐ 4,151 | 2026-08-02 | 13 |
+| [Swordfish90/Lemuroid](../repos/Swordfish90/Lemuroid.md) | ⭐ 4,512 | 2026-08-10 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 11,284 | 2026-08-03 | 17 |
+| [Kunzisoft/KeePassDX](../repos/Kunzisoft/KeePassDX.md) | ⭐ 7,682 | 2026-09-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 19,263 | 2026-08-17 | 10 |
+| [PimpinPumpkin/Vela](../repos/PimpinPumpkin/Vela.md) | ⭐ 2,615 | 2026-10-06 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tasks/tasks](../repos/tasks/tasks.md) | ⭐ 5,741 | 2026-09-27 | 2 |
+| [CYQawa/YunX](../repos/CYQawa/YunX.md) | ⭐ 7,908 | 2026-10-06 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CYQawa/YunX](../repos/CYQawa/YunX.md) | ⭐ 7,746 | 2026-10-06 | 14 |
+| [MuwMx/YumaPlayer](../repos/MuwMx/YumaPlayer.md) | ⭐ 1,205 | 2026-10-13 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ahXN00/OwnTV](../repos/ahXN00/OwnTV.md) | ⭐ 808 | 2026-10-06 | 6 |
+| [tidain/YunX-Desktop](../repos/tidain/YunX-Desktop.md) | ⭐ 5,907 | 2026-11-09 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Lelonio/Square](../repos/Lelonio/Square.md) | ⭐ 517 | 2026-10-08 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [tidain/YunX-Desktop](../repos/tidain/YunX-Desktop.md) | ⭐ 5,584 | 2026-11-09 | 5 |
+| [sk2andy/candy-browser](../repos/sk2andy/candy-browser.md) | ⭐ 664 | 2026-11-14 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [realidkroo/musicfy](../repos/realidkroo/musicfy.md) | ⭐ 144 | 2026-10-15 | Musicfy repos. what is this? its a music player, offline or online, that you can use for free, wi... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [1013503897/jadx-headless-mcp](../repos/1013503897/jadx-headless-mcp.md) | ⭐ 86 | 2026-10-15 | Headless MCP server for Android APK static analysis, built directly on jadx-core. No JADX GUI req... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mossyhub/openautolink](../repos/mossyhub/openautolink.md) | ⭐ 176 | 2026-10-16 | Android Auto and CarPlay for GM EV AAOS head units with cluster&#x2F;HUD support and EV range in Maps |
@@ -80,6 +71,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Mahmud0808/TeleDrive](../repos/Mahmud0808/TeleDrive.md) | ⭐ 429 | 2026-10-25 | Turn a private Telegram channel into your personal cloud drive. Android, Windows, Linux and macOS... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [realidkroo/Mochy-Music](../repos/realidkroo/Mochy-Music.md) | ⭐ 1,070 | 2026-10-28 | A modern, cool, sleek music player. made with &lt;3 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ianshulyadav/PixelMusic](../repos/ianshulyadav/PixelMusic.md) | ⭐ 295 | 2026-11-02 | Pixel Music is an open-source Android music player. Stream YouTube Music &amp; Telegram, play Hi-Res ... |
 
 
 ---
@@ -117,7 +114,7 @@
 |------------|---------------|-------|------------|-----------|
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 25 | ⭐ 65,835 | 2026-08-02 | 2026-11-13 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 23 | ⭐ 33,265 | 2026-08-08 | 2026-11-09 |
-| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 20 | ⭐ 3,290 | 2026-08-02 | 2026-11-12 |
+| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 21 | ⭐ 3,333 | 2026-08-02 | 2026-11-14 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 19 | ⭐ 25,276 | 2026-08-01 | 2026-11-13 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | 18 | ⭐ 44,223 | 2026-08-03 | 2026-11-07 |
 | [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | 17 | ⭐ 11,284 | 2026-08-03 | 2026-11-13 |
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-11-13T21:01:06.898Z*
+*Last updated: 2026-11-14T21:00:55.566Z*
