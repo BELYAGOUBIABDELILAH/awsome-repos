@@ -16,25 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,470 | 2026-08-04 | 35 |
+| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 923 | 2026-08-01 | 40 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,654 | 2026-08-05 | 31 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,493 | 2026-08-01 | 62 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/google-api-javascript-client](../repos/google/google-api-javascript-client.md) | ⭐ 3,530 | 2026-08-10 | 7 |
+| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 7,237 | 2026-08-10 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 7,217 | 2026-08-10 | 28 |
+| [mingw-w64/mingw-w64.github.io](../repos/mingw-w64/mingw-w64.github.io.md) | ⭐ 1,056 | 2026-08-22 | 9 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [tachyons-css/tachyons](../repos/tachyons-css/tachyons.md) | ⭐ 11,724 | 2026-10-16 | Functional css for humans |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jerrykuku/luci-theme-argon](../repos/jerrykuku/luci-theme-argon.md) | ⭐ 5,596 | 2026-10-17 | Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface... |
@@ -94,14 +91,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 61 | ⭐ 1,490 | 2026-08-01 | 2026-11-13 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 62 | ⭐ 1,493 | 2026-08-01 | 2026-11-15 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 45 | ⭐ 54,469 | 2026-08-02 | 2026-11-13 |
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 39 | ⭐ 922 | 2026-08-01 | 2026-11-12 |
+| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 40 | ⭐ 923 | 2026-08-01 | 2026-11-15 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 35 | ⭐ 45,470 | 2026-08-04 | 2026-11-14 |
 | [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 31 | ⭐ 9,654 | 2026-08-05 | 2026-11-14 |
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | 31 | ⭐ 82,999 | 2026-08-06 | 2026-11-13 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 29 | ⭐ 1,431 | 2026-08-01 | 2026-10-22 |
-| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | 28 | ⭐ 7,217 | 2026-08-10 | 2026-11-14 |
+| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | 29 | ⭐ 7,237 | 2026-08-10 | 2026-11-15 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 23 | ⭐ 12,511 | 2026-08-01 | 2026-10-09 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 19 | ⭐ 9,427 | 2026-08-01 | 2026-11-09 |
 
@@ -193,4 +190,4 @@
 
 ---
 
-*Last updated: 2026-11-14T21:00:55.526Z*
+*Last updated: 2026-11-15T21:00:55.397Z*

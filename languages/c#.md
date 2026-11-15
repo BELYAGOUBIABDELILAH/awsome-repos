@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,638 | 2026-08-01 | 14 |
+| [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,663 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,524 | 2026-08-01 | 26 |
+| [openutau/OpenUtau](../repos/openutau/OpenUtau.md) | ⭐ 4,591 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 33,754 | 2026-08-02 | 43 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 33,799 | 2026-08-02 | 44 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 59,358 | 2026-08-02 | 25 |
+| [tModLoader/tModLoader](../repos/tModLoader/tModLoader.md) | ⭐ 5,787 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 6,179 | 2026-08-03 | 44 |
+| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 27,055 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 11,727 | 2026-08-04 | 18 |
+| [dotnet/efcore](../repos/dotnet/efcore.md) | ⭐ 14,819 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,437 | 2026-08-04 | 24 |
+| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,772 | 2026-08-05 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 56,176 | 2026-08-06 | 25 |
+| [umlx5h/LLPlayer](../repos/umlx5h/LLPlayer.md) | ⭐ 4,725 | 2026-09-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,572 | 2026-08-10 | 11 |
+| [patchzyy/Wiicompiled](../repos/patchzyy/Wiicompiled.md) | ⭐ 1,393 | 2026-10-26 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cyanfish/naps2](../repos/cyanfish/naps2.md) | ⭐ 4,786 | 2026-08-22 | 6 |
+| [MoFeng2223/BrimDeck](../repos/MoFeng2223/BrimDeck.md) | ⭐ 730 | 2026-11-06 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Matteo842/CrashBandicoot-Launcher](../repos/Matteo842/CrashBandicoot-Launcher.md) | ⭐ 269 | 2026-10-16 | CrashBandicoot native pc port |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Interkarma/daggerfall-unity](../repos/Interkarma/daggerfall-unity.md) | ⭐ 3,535 | 2026-10-18 | Open source recreation of Daggerfall in the Unity engine |
@@ -67,7 +64,7 @@
 | [ArduPilot/MissionPlanner](../repos/ArduPilot/MissionPlanner.md) | ⭐ 2,407 | 2026-10-25 | Mission Planner Ground Control Station for ArduPilot (c# .net) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [patchzyy/Wiicompiled](../repos/patchzyy/Wiicompiled.md) | ⭐ 1,363 | 2026-10-26 | Wiicompiled |
+| [patchzyy/Wiicompiled](../repos/patchzyy/Wiicompiled.md) | ⭐ 1,393 | 2026-10-26 | Wiicompiled |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [unoplatform/uno](../repos/unoplatform/uno.md) | ⭐ 10,103 | 2026-10-27 | Open-source platform for building cross-platform native Mobile, Web, Desktop, and Embedded apps f... |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [OrchardCMS/OrchardCore](../repos/OrchardCMS/OrchardCore.md) | ⭐ 8,219 | 2026-10-29 | Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [JiaFeiMiao-K-Cat/DiscImageStudio](../repos/JiaFeiMiao-K-Cat/DiscImageStudio.md) | ⭐ 7,201 | 2026-11-04 |  |
 
 
 ---
@@ -91,19 +91,19 @@
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 120,552 | 2026-08-02 | 35 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 59,358 | 2026-08-02 | 25 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 56,176 | 2026-08-06 | 25 |
-| [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,351 | 2026-08-01 | 17 |
+| [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,663 | 2026-08-01 | 18 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 40,927 | 2026-08-14 | 10 |
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 39,237 | 2026-08-03 | 18 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,524 | 2026-08-01 | 26 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 33,754 | 2026-08-02 | 43 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 33,799 | 2026-08-02 | 44 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,757 | 2026-08-01 | 23 |
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 32,177 | 2026-08-22 | 6 |
 | [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,082 | 2026-08-28 | 4 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
-| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,740 | 2026-08-05 | 15 |
+| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,772 | 2026-08-05 | 16 |
 | [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,572 | 2026-08-10 | 11 |
+| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 27,055 | 2026-08-02 | 10 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,954 | 2026-08-01 | 13 |
-| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,527 | 2026-08-02 | 9 |
 | [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 25,767 | 2026-08-27 | 11 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,316 | 2026-08-04 | 5 |
 | [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,765 | 2026-08-01 | 12 |
@@ -115,8 +115,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 44 | ⭐ 33,799 | 2026-08-02 | 2026-11-15 |
 | [dotnet/skills](../repos/dotnet/skills.md) | 44 | ⭐ 6,179 | 2026-08-03 | 2026-11-14 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 43 | ⭐ 33,754 | 2026-08-02 | 2026-11-14 |
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 35 | ⭐ 120,552 | 2026-08-02 | 2026-11-13 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 27 | ⭐ 17,894 | 2026-08-02 | 2026-11-10 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 26 | ⭐ 38,524 | 2026-08-01 | 2026-11-14 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-14T21:00:55.520Z*
+*Last updated: 2026-11-15T21:00:55.392Z*

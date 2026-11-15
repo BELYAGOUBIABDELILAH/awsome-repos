@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 312
+- **Total Repositories**: 314
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-12
 
@@ -16,46 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 135,049 | 2026-08-01 | 39 |
+| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 120,227 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,174 | 2026-08-01 | 22 |
+| [jrouwe/JoltPhysics](../repos/jrouwe/JoltPhysics.md) | ⭐ 12,314 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | ⭐ 12,656 | 2026-08-02 | 16 |
+| [stenzek/duckstation](../repos/stenzek/duckstation.md) | ⭐ 11,016 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ArduPilot/ardupilot](../repos/ArduPilot/ardupilot.md) | ⭐ 16,364 | 2026-08-02 | 10 |
+| [esphome/esphome](../repos/esphome/esphome.md) | ⭐ 12,111 | 2026-08-17 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [catchorg/Catch2](../repos/catchorg/Catch2.md) | ⭐ 21,561 | 2026-08-04 | 7 |
+| [ggml-org/ggml](../repos/ggml-org/ggml.md) | ⭐ 15,877 | 2026-08-19 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/WSL](../repos/microsoft/WSL.md) | ⭐ 34,385 | 2026-08-08 | 12 |
+| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 54,165 | 2026-10-06 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [abseil/abseil-cpp](../repos/abseil/abseil-cpp.md) | ⭐ 18,198 | 2026-08-14 | 8 |
+| [Likely7/Veyra-NRVideo](../repos/Likely7/Veyra-NRVideo.md) | ⭐ 2,759 | 2026-11-13 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/ggml](../repos/ggml-org/ggml.md) | ⭐ 15,784 | 2026-08-19 | 3 |
+| [sonicnext-dev/MarathonRecomp](../repos/sonicnext-dev/MarathonRecomp.md) | ⭐ 867 | 2026-11-15 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-ai-edge/mediapipe](../repos/google-ai-edge/mediapipe.md) | ⭐ 37,690 | 2026-09-10 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Likely7/Veyra-NRVideo](../repos/Likely7/Veyra-NRVideo.md) | ⭐ 2,136 | 2026-11-13 | 2 |
+| [SunshineStream/Sunshine](../repos/SunshineStream/Sunshine.md) | ⭐ 43,449 | 2026-11-15 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [zeldaret/botw](../repos/zeldaret/botw.md) | ⭐ 2,272 | 2026-10-16 | Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0) |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [LittleBitUA/DownpourRecomp](../repos/LittleBitUA/DownpourRecomp.md) | ⭐ 295 | 2026-10-16 | Silent Hill: Downpour — native Windows PC port via static recompilation of the Xbox 360 binary. v... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mzzvxm/LARecomp](../repos/mzzvxm/LARecomp.md) | ⭐ 172 | 2026-10-18 |  |
@@ -80,6 +71,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [socquique/TamaPoke](../repos/socquique/TamaPoke.md) | ⭐ 223 | 2026-10-25 | A Pokemon Gen-1 Tamagotchi for the Waveshare ESP32-S3-Touch-AMOLED-1.75 round display — open firm... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [psiberx/cp2077-archive-xl](../repos/psiberx/cp2077-archive-xl.md) | ⭐ 138 | 2026-10-25 | Cyberpunk 2077 mod that allows you to expand game resources without conflicts. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Z3Prover/z3](../repos/Z3Prover/z3.md) | ⭐ 12,842 | 2026-10-26 | The Z3 Theorem Prover |
 
 
 ---
@@ -92,22 +89,22 @@
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 135,049 | 2026-08-01 | 39 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,803 | 2026-08-04 | 7 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 123,622 | 2026-08-01 | 7 |
-| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 119,259 | 2026-08-01 | 12 |
+| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 120,227 | 2026-08-01 | 13 |
 | [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 105,211 | 2026-08-06 | 8 |
 | [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,617 | 2026-08-02 | 12 |
 | [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 77,216 | 2026-08-12 | 7 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,876 | 2026-08-08 | 18 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,174 | 2026-08-01 | 22 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 55,165 | 2026-08-02 | 2 |
-| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 53,686 | 2026-10-06 | 13 |
+| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 54,165 | 2026-10-06 | 14 |
 | [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,787 | 2026-08-03 | 13 |
 | [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,454 | 2026-09-01 | 3 |
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,405 | 2026-08-02 | 10 |
+| [SunshineStream/Sunshine](../repos/SunshineStream/Sunshine.md) | ⭐ 43,449 | 2026-11-15 | 1 |
 | [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 43,382 | 2026-09-06 | 3 |
 | [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 42,460 | 2026-08-19 | 14 |
 | [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 41,612 | 2026-08-06 | 7 |
 | [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 41,574 | 2026-08-09 | 15 |
-| [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 41,019 | 2026-08-02 | 8 |
 
 ---
 
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-11-14T21:00:55.524Z*
+*Last updated: 2026-11-15T21:00:55.395Z*

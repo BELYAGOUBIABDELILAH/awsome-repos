@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 236
+- **Total Repositories**: 238
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-13
 
@@ -16,40 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [libsdl-org/SDL](../repos/libsdl-org/SDL.md) | ⭐ 16,990 | 2026-08-01 | 12 |
+| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 29,153 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,677 | 2026-08-01 | 41 |
+| [brunodev85/winlator](../repos/brunodev85/winlator.md) | ⭐ 19,998 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [immortalwrt/immortalwrt](../repos/immortalwrt/immortalwrt.md) | ⭐ 11,922 | 2026-08-03 | 6 |
+| [lcdyk0517/arkos4clone](../repos/lcdyk0517/arkos4clone.md) | ⭐ 796 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/mimalloc](../repos/microsoft/mimalloc.md) | ⭐ 13,546 | 2026-08-04 | 9 |
+| [moonlight-stream/moonlight-android](../repos/moonlight-stream/moonlight-android.md) | ⭐ 7,498 | 2026-08-23 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [quickjs-ng/quickjs](../repos/quickjs-ng/quickjs.md) | ⭐ 4,150 | 2026-08-07 | 5 |
+| [EchoStretch/kstuff-lite](../repos/EchoStretch/kstuff-lite.md) | ⭐ 947 | 2026-09-22 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 51,088 | 2026-09-01 | 26 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [redcanaryco/atomic-red-team](../repos/redcanaryco/atomic-red-team.md) | ⭐ 12,859 | 2026-09-02 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Cisco-Talos/clamav](../repos/Cisco-Talos/clamav.md) | ⭐ 7,580 | 2026-11-14 | 1 |
+| [surge-synthesizer/surge](../repos/surge-synthesizer/surge.md) | ⭐ 4,135 | 2026-11-15 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [timescale/pg_vectorsearch](../repos/timescale/pg_vectorsearch.md) | ⭐ 368 | 2026-10-16 | High-performance vector search for PostgreSQL |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [logicog/RTLPlayground](../repos/logicog/RTLPlayground.md) | ⭐ 602 | 2026-10-16 | A Playground for Firmware development for RTL8372&#x2F;RTL8373 based 2.5GBit Switches |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [V4bel/dirtyfrag](../repos/V4bel/dirtyfrag.md) | ⭐ 5,093 | 2026-10-19 |  |
@@ -74,6 +62,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [unkyulee/micro-journal](../repos/unkyulee/micro-journal.md) | ⭐ 1,071 | 2026-11-05 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Encryqed/Dumper-7](../repos/Encryqed/Dumper-7.md) | ⭐ 2,380 | 2026-11-06 | Unreal Engine SDK Generator |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [openssh/openssh-portable](../repos/openssh/openssh-portable.md) | ⭐ 4,098 | 2026-11-06 | Portable OpenSSH |
 
 
 ---
@@ -101,7 +95,7 @@
 | [lizongying/my-tv](../repos/lizongying/my-tv.md) | ⭐ 31,960 | 2026-08-17 | 2 |
 | [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,952 | 2026-08-02 | 9 |
 | [coolsnowwolf/lede](../repos/coolsnowwolf/lede.md) | ⭐ 31,611 | 2026-08-16 | 3 |
-| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 29,094 | 2026-08-09 | 15 |
+| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 29,153 | 2026-08-02 | 13 |
 
 ---
 
@@ -150,6 +144,7 @@
 - [mpv-player/mpv](../repos/mpv-player/mpv.md) - 🎥 Command line media player
 - [TsudaKageyu/minhook](../repos/TsudaKageyu/minhook.md) - The Minimalistic x86&#x2F;x64 API Hooking Library for Windows
 - [olikraus/u8g2](../repos/olikraus/u8g2.md) - U8glib library for monochrome displays, version 2 
+- [lcdyk0517/arkos4clone](../repos/lcdyk0517/arkos4clone.md) - Bringing ArkOS and dArkOS porting to unsupported RK3326 handheld gaming devices.
 - [bmax121/KernelPatch](../repos/bmax121/KernelPatch.md) - Patching and hooking the Linux kernel with only a stripped Linux kernel image.
 - [mgba-emu/mgba](../repos/mgba-emu/mgba.md) - mGBA Game Boy Advance Emulator
 - [flipperdevices/flipperzero-firmware](../repos/flipperdevices/flipperzero-firmware.md) - Flipper Zero firmware source code
@@ -223,8 +218,7 @@
 - [nuta/operating-system-in-1000-lines](../repos/nuta/operating-system-in-1000-lines.md) - Writing an OS in 1,000 lines.
 - [superturtlee/gbl_root_canoe](../repos/superturtlee/gbl_root_canoe.md) - No TrickyStore on Canoe
 - [duixcom/Duix-Avatar](../repos/duixcom/Duix-Avatar.md) - 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital hu...
-- [microsoft/msquic](../repos/microsoft/msquic.md) - Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.
 
 ---
 
-*Last updated: 2026-11-14T21:00:55.516Z*
+*Last updated: 2026-11-15T21:00:55.388Z*

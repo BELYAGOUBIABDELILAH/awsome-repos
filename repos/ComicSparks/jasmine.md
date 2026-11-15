@@ -1,6 +1,6 @@
 # ComicSparks&#x2F;jasmine
 
-> A comic browser，support Android &#x2F; iOS &#x2F; MacOS &#x2F; Windows &#x2F; Linux. 
+> JM漫画全平台客户端。A comic browser，support Android &#x2F; iOS &#x2F; MacOS &#x2F; Windows &#x2F; Linux. 
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;ComicSparks&#x2F;jasmine) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Dart |
 | **License** | MIT |
-| **Stars** | ⭐ 5,521 |
-| **Forks** | 🍴 364 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 5,560 |
+| **Forks** | 🍴 365 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 8, 2026 |
-| **Last Seen** | Nov 4, 2026 |
+| **Last Seen** | Nov 15, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 2 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 55&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-14T21:01:01.211Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-11-15T21:01:00.481Z*  
+*Data from 4 trending reports*

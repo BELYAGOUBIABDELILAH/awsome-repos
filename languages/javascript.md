@@ -16,34 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 117,534 | 2026-08-05 | 39 |
+| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 28,216 | 2026-08-03 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/power-platform-skills](../repos/microsoft/power-platform-skills.md) | ⭐ 1,150 | 2026-08-07 | 13 |
+| [maillab/cloud-mail](../repos/maillab/cloud-mail.md) | ⭐ 16,184 | 2026-09-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PenglongHuang/chinese-novelist-skill](../repos/PenglongHuang/chinese-novelist-skill.md) | ⭐ 4,922 | 2026-09-19 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [NginxProxyManager/nginx-proxy-manager](../repos/NginxProxyManager/nginx-proxy-manager.md) | ⭐ 34,713 | 2026-09-25 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [hanliang97/MatrixMedia](../repos/hanliang97/MatrixMedia.md) | ⭐ 1,320 | 2026-10-27 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [GoogleChrome/lighthouse](../repos/GoogleChrome/lighthouse.md) | ⭐ 31,089 | 2026-11-14 | 1 |
+| [qist/tvbox](../repos/qist/tvbox.md) | ⭐ 12,957 | 2026-09-14 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [michael-denyer/pstack-claude](../repos/michael-denyer/pstack-claude.md) | ⭐ 4,042 | 2026-10-16 | Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [superdesigndev/superdesign-skill](../repos/superdesigndev/superdesign-skill.md) | ⭐ 812 | 2026-10-16 | The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [guoyue2010/lxmusic-](../repos/guoyue2010/lxmusic-.md) | ⭐ 6,466 | 2026-10-18 | lxmusic(洛雪音乐)全网最新最全音源 |
@@ -68,6 +53,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [adobe/skills](../repos/adobe/skills.md) | ⭐ 295 | 2026-10-22 | Adobe Skills for Agents |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [maboloshi/github-chinese](../repos/maboloshi/github-chinese.md) | ⭐ 36,643 | 2026-10-25 | GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [algorithm-visualizer/algorithm-visualizer](../repos/algorithm-visualizer/algorithm-visualizer.md) | ⭐ 49,214 | 2026-10-27 | :fireworks:Interactive Online Platform that Visualizes Algorithms from Code |
 
 
 ---
@@ -221,4 +212,4 @@
 
 ---
 
-*Last updated: 2026-11-14T21:00:55.561Z*
+*Last updated: 2026-11-15T21:00:55.432Z*

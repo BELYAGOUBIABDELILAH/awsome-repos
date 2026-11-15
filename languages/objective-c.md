@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 111
+- **Total Repositories**: 112
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-12
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 27 | 2026-08-01 | 21 |
+| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,927 | 2026-08-01 | 35 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/promises](../repos/google/promises.md) | ⭐ 3,829 | 2026-08-01 | 58 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,630 | 2026-08-02 | 44 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 136 | 2026-08-01 | 59 |
+| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 775 | 2026-08-02 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 60 | 2026-08-01 | 59 |
+| [iodefog/VipVideo](../repos/iodefog/VipVideo.md) | ⭐ 6,206 | 2026-08-02 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 292 | 2026-08-01 | 58 |
+| [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | ⭐ 544 | 2026-08-02 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,610 | 2026-08-01 | 59 |
+| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,285 | 2026-08-02 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,322 | 2026-08-04 | 32 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,776 | 2026-08-03 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | ⭐ 678 | 2026-08-04 | 39 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,431 | 2026-08-04 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,650 | 2026-08-04 | 6 |
+| [alexzielenski/Mousecape](../repos/alexzielenski/Mousecape.md) | ⭐ 2,099 | 2026-08-09 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | ⭐ 4,506 | 2026-08-05 | 43 |
+| [nfzerox/VirtualMacOniPad](../repos/nfzerox/VirtualMacOniPad.md) | ⭐ 2,076 | 2026-10-03 | 13 |
 
 
 ---
@@ -71,6 +71,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Turbo1123/Turbo-IO](../repos/Turbo1123/Turbo-IO.md) | ⭐ 346 | 2026-11-11 | 雷鸟 iO &#x2F; RayNeo iO 非官方 SDK：原生鸿蒙 HarmonyOS SDK&#x2F;客户端、iOS 客户端及 iOS&#x2F;Android 官方 App 扩展。自有模型、联网搜索、眼镜导航、录音... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Alinto/sogo](../repos/Alinto/sogo.md) | ⭐ 2,187 | 2026-11-15 | SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, a... |
 
 
 ---
@@ -82,17 +85,17 @@
 | [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | 1 |
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,371 | 2026-08-02 | 7 |
 | [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,610 | 2026-08-01 | 59 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,617 | 2026-08-02 | 43 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,630 | 2026-08-02 | 44 |
 | [SnapKit/Masonry](../repos/SnapKit/Masonry.md) | ⭐ 18,130 | 2026-09-02 | 1 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,600 | 2026-08-04 | 38 |
-| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,411 | 2026-08-04 | 21 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,431 | 2026-08-04 | 22 |
 | [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,893 | 2026-08-04 | 13 |
 | [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,201 | 2026-08-01 | 14 |
 | [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,650 | 2026-08-04 | 6 |
 | [marcuswestin/WebViewJavascriptBridge](../repos/marcuswestin/WebViewJavascriptBridge.md) | ⭐ 14,308 | 2026-09-13 | 1 |
 | [ccgus/fmdb](../repos/ccgus/fmdb.md) | ⭐ 13,828 | 2026-08-28 | 2 |
 | [CoderMJLee/MJRefresh](../repos/CoderMJLee/MJRefresh.md) | ⭐ 13,810 | 2026-09-01 | 1 |
-| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,762 | 2026-08-03 | 30 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,776 | 2026-08-03 | 31 |
 | [eczarny/spectacle](../repos/eczarny/spectacle.md) | ⭐ 13,632 | 2026-09-19 | 1 |
 | [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,322 | 2026-08-04 | 32 |
 | [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,067 | 2026-08-02 | 2 |
@@ -112,7 +115,7 @@
 | [google/promises](../repos/google/promises.md) | 58 | ⭐ 3,829 | 2026-08-01 | 2026-11-14 |
 | [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 58 | ⭐ 292 | 2026-08-01 | 2026-11-14 |
 | [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | 49 | ⭐ 2,039 | 2026-08-08 | 2026-11-14 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 43 | ⭐ 22,617 | 2026-08-02 | 2026-11-13 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 44 | ⭐ 22,630 | 2026-08-02 | 2026-11-15 |
 | [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | 43 | ⭐ 4,506 | 2026-08-05 | 2026-11-14 |
 | [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 39 | ⭐ 678 | 2026-08-04 | 2026-11-14 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | 38 | ⭐ 16,600 | 2026-08-04 | 2026-11-12 |
@@ -224,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-11-14T21:00:55.581Z*
+*Last updated: 2026-11-15T21:00:55.453Z*

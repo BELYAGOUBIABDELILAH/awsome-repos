@@ -16,19 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Euro-Office/DesktopEditors](../repos/Euro-Office/DesktopEditors.md) | ⭐ 915 | 2026-08-01 | 17 |
+| [Euro-Office/DesktopEditors](../repos/Euro-Office/DesktopEditors.md) | ⭐ 945 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,727 | 2026-08-03 | 37 |
+| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | ⭐ 545 | 2026-08-04 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,576 | 2026-08-04 | 11 |
+| [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,577 | 2026-08-04 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,801 | 2026-08-11 | 22 |
+| [Atlas-OS/Atlas](../repos/Atlas-OS/Atlas.md) | ⭐ 22,119 | 2026-11-05 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dhicoc/dsh-reverse-skill](../repos/dhicoc/dsh-reverse-skill.md) | ⭐ 348 | 2026-11-06 | 2 |
+| [dhicoc/dsh-reverse-skill](../repos/dhicoc/dsh-reverse-skill.md) | ⭐ 350 | 2026-11-06 | 3 |
 
 
 ---
@@ -55,13 +55,13 @@
 | [irzyxa/Volume2](../repos/irzyxa/Volume2.md) | ⭐ 1,402 | 2026-11-02 | Volume² - advanced Windows volume control. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Atlas-OS/Atlas](../repos/Atlas-OS/Atlas.md) | ⭐ 22,102 | 2026-11-05 | 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and... |
+| [Atlas-OS/Atlas](../repos/Atlas-OS/Atlas.md) | ⭐ 22,119 | 2026-11-05 | 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/AL-Go](../repos/microsoft/AL-Go.md) | ⭐ 513 | 2026-11-05 | The plug-and-play DevOps solution for Business Central app development on GitHub |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [dhicoc/dsh-reverse-skill](../repos/dhicoc/dsh-reverse-skill.md) | ⭐ 348 | 2026-11-06 | Complete reverse-skill (88 SKILL.md) as a DeepSeek Harness (dsh) Cordis plugin — reverse engineer... |
+| [dhicoc/dsh-reverse-skill](../repos/dhicoc/dsh-reverse-skill.md) | ⭐ 350 | 2026-11-06 | Complete reverse-skill (88 SKILL.md) as a DeepSeek Harness (dsh) Cordis plugin — reverse engineer... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [auto-yui-patch/fiddler-everywhere-patch-automated](../repos/auto-yui-patch/fiddler-everywhere-patch-automated.md) | ⭐ 814 | 2026-11-06 | Want Fiddler Everywhere Enterprise for Free? Then Patch it! Patch any version Automatically! |
@@ -74,7 +74,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 36,799 | 2026-08-01 | 20 |
-| [Atlas-OS/Atlas](../repos/Atlas-OS/Atlas.md) | ⭐ 22,102 | 2026-11-05 | 8 |
+| [Atlas-OS/Atlas](../repos/Atlas-OS/Atlas.md) | ⭐ 22,119 | 2026-11-05 | 9 |
 | [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,077 | 2026-08-02 | 20 |
 | [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,799 | 2026-08-09 | 2 |
 | [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,590 | 2026-08-01 | 63 |
@@ -106,8 +106,8 @@
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 33 | ⭐ 8,610 | 2026-08-01 | 2026-11-11 |
 | [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 29 | ⭐ 3,576 | 2026-08-01 | 2026-11-12 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 29 | ⭐ 6,178 | 2026-08-01 | 2026-11-11 |
+| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 27 | ⭐ 545 | 2026-08-04 | 2026-11-15 |
 | [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 26 | ⭐ 1,574 | 2026-08-01 | 2026-11-07 |
-| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 26 | ⭐ 539 | 2026-08-04 | 2026-11-12 |
 | [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | 24 | ⭐ 9,321 | 2026-08-06 | 2026-11-13 |
 | [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | 22 | ⭐ 2,801 | 2026-08-11 | 2026-11-14 |
 
@@ -185,4 +185,4 @@
 
 ---
 
-*Last updated: 2026-11-14T21:00:55.590Z*
+*Last updated: 2026-11-15T21:00:55.460Z*

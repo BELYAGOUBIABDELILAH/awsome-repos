@@ -16,43 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | ⭐ 3,333 | 2026-08-02 | 21 |
+| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | ⭐ 3,366 | 2026-08-02 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,576 | 2026-08-10 | 11 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 64,039 | 2026-08-03 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Swordfish90/Lemuroid](../repos/Swordfish90/Lemuroid.md) | ⭐ 4,512 | 2026-08-10 | 4 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 56,703 | 2026-08-06 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Kunzisoft/KeePassDX](../repos/Kunzisoft/KeePassDX.md) | ⭐ 7,682 | 2026-09-01 | 4 |
+| [ximeiorg/Xime](../repos/ximeiorg/Xime.md) | ⭐ 1,391 | 2026-09-09 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PimpinPumpkin/Vela](../repos/PimpinPumpkin/Vela.md) | ⭐ 2,615 | 2026-10-06 | 10 |
+| [compose-miuix-ui/miuix](../repos/compose-miuix-ui/miuix.md) | ⭐ 1,647 | 2026-09-14 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CYQawa/YunX](../repos/CYQawa/YunX.md) | ⭐ 7,908 | 2026-10-06 | 15 |
+| [CYQawa/YunX](../repos/CYQawa/YunX.md) | ⭐ 8,031 | 2026-10-06 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MuwMx/YumaPlayer](../repos/MuwMx/YumaPlayer.md) | ⭐ 1,205 | 2026-10-13 | 5 |
+| [MuwMx/YumaPlayer](../repos/MuwMx/YumaPlayer.md) | ⭐ 1,231 | 2026-10-13 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tidain/YunX-Desktop](../repos/tidain/YunX-Desktop.md) | ⭐ 5,907 | 2026-11-09 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [sk2andy/candy-browser](../repos/sk2andy/candy-browser.md) | ⭐ 664 | 2026-11-14 | 1 |
+| [realidkroo/Mochy-Music](../repos/realidkroo/Mochy-Music.md) | ⭐ 1,796 | 2026-10-28 | 9 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mossyhub/openautolink](../repos/mossyhub/openautolink.md) | ⭐ 176 | 2026-10-16 | Android Auto and CarPlay for GM EV AAOS head units with cluster&#x2F;HUD support and EV range in Maps |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [carlelieser/shizzi](../repos/carlelieser/shizzi.md) | ⭐ 279 | 2026-10-16 | Rootless wifi-tethering bypass for Android with Shizuku. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Clarklevis1995/dsh-mobile](../repos/Clarklevis1995/dsh-mobile.md) | ⭐ 740 | 2026-10-17 | DeepSeek Harness Mobile 是一个面向 DeepSeek Harness 的原生移动端客户端。它通过 dsh-plugin-mobile-gateway 与 Harness ... |
@@ -73,10 +64,16 @@
 | [Mahmud0808/TeleDrive](../repos/Mahmud0808/TeleDrive.md) | ⭐ 429 | 2026-10-25 | Turn a private Telegram channel into your personal cloud drive. Android, Windows, Linux and macOS... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [realidkroo/Mochy-Music](../repos/realidkroo/Mochy-Music.md) | ⭐ 1,070 | 2026-10-28 | A modern, cool, sleek music player. made with &lt;3 |
+| [realidkroo/Mochy-Music](../repos/realidkroo/Mochy-Music.md) | ⭐ 1,796 | 2026-10-28 | A modern, cool, sleek music player. made with &lt;3 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ianshulyadav/PixelMusic](../repos/ianshulyadav/PixelMusic.md) | ⭐ 295 | 2026-11-02 | Pixel Music is an open-source Android music player. Stream YouTube Music &amp; Telegram, play Hi-Res ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [roro2239/Stellar](../repos/roro2239/Stellar.md) | ⭐ 1,821 | 2026-11-08 | Another Shizuku impl |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [tidain/YunX-Desktop](../repos/tidain/YunX-Desktop.md) | ⭐ 5,907 | 2026-11-09 | YunX（云析）的官方 windows 桌面端 |
 
 
 ---
@@ -86,8 +83,8 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 65,835 | 2026-08-02 | 25 |
-| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 63,713 | 2026-08-03 | 17 |
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 56,380 | 2026-08-06 | 17 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 64,039 | 2026-08-03 | 18 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 56,703 | 2026-08-06 | 18 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,561 | 2026-08-04 | 15 |
 | [android/architecture-samples](../repos/android/architecture-samples.md) | ⭐ 45,876 | 2026-10-14 | 2 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 44,223 | 2026-08-03 | 18 |
@@ -114,14 +111,14 @@
 |------------|---------------|-------|------------|-----------|
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 25 | ⭐ 65,835 | 2026-08-02 | 2026-11-13 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 23 | ⭐ 33,265 | 2026-08-08 | 2026-11-09 |
-| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 21 | ⭐ 3,333 | 2026-08-02 | 2026-11-14 |
+| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 22 | ⭐ 3,366 | 2026-08-02 | 2026-11-15 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 19 | ⭐ 25,276 | 2026-08-01 | 2026-11-13 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 18 | ⭐ 64,039 | 2026-08-03 | 2026-11-15 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | 18 | ⭐ 44,223 | 2026-08-03 | 2026-11-07 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 18 | ⭐ 56,703 | 2026-08-06 | 2026-11-15 |
 | [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | 17 | ⭐ 11,284 | 2026-08-03 | 2026-11-13 |
-| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 17 | ⭐ 63,713 | 2026-08-03 | 2026-11-02 |
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 17 | ⭐ 56,380 | 2026-08-06 | 2026-11-04 |
 | [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) | 16 | ⭐ 2,217 | 2026-08-04 | 2026-11-09 |
-| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | 15 | ⭐ 8,820 | 2026-08-02 | 2026-11-12 |
+| [CYQawa/YunX](../repos/CYQawa/YunX.md) | 16 | ⭐ 8,031 | 2026-10-06 | 2026-11-15 |
 
 ---
 
@@ -230,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-11-14T21:00:55.566Z*
+*Last updated: 2026-11-15T21:00:55.439Z*

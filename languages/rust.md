@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 245
+- **Total Repositories**: 246
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-05
 
@@ -16,37 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rust-lang/rust-clippy](../repos/rust-lang/rust-clippy.md) | ⭐ 13,648 | 2026-08-02 | 6 |
+| [block/buzz](../repos/block/buzz.md) | ⭐ 37,482 | 2026-08-19 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [block/buzz](../repos/block/buzz.md) | ⭐ 37,441 | 2026-08-19 | 12 |
+| [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 56,661 | 2026-08-19 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 56,615 | 2026-08-19 | 7 |
+| [lance-format/lance](../repos/lance-format/lance.md) | ⭐ 7,316 | 2026-08-28 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lance-format/lance](../repos/lance-format/lance.md) | ⭐ 7,302 | 2026-08-28 | 3 |
+| [martin-olivier/airgorah](../repos/martin-olivier/airgorah.md) | ⭐ 6,232 | 2026-09-13 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [martin-olivier/airgorah](../repos/martin-olivier/airgorah.md) | ⭐ 5,757 | 2026-09-13 | 10 |
+| [yynxxxxx/Codex-X](../repos/yynxxxxx/Codex-X.md) | ⭐ 4,528 | 2026-09-19 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ModernRelay/omnigraph](../repos/ModernRelay/omnigraph.md) | ⭐ 2,403 | 2026-10-20 | 4 |
+| [harry0703/MangoDisk](../repos/harry0703/MangoDisk.md) | ⭐ 5,765 | 2026-10-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [trymirai/uzu](../repos/trymirai/uzu.md) | ⭐ 3,333 | 2026-10-21 | 4 |
+| [ModernRelay/omnigraph](../repos/ModernRelay/omnigraph.md) | ⭐ 2,594 | 2026-10-20 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [verus-lang/verus](../repos/verus-lang/verus.md) | ⭐ 3,780 | 2026-11-14 | 1 |
+| [antithesishq/bombadil](../repos/antithesishq/bombadil.md) | ⭐ 1,958 | 2026-11-15 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [pollen-robotics/microduck](../repos/pollen-robotics/microduck.md) | ⭐ 12,745 | 2026-10-16 | A Tiny biped duck robot 🦆 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [GCWing/OpenBitFun](../repos/GCWing/OpenBitFun.md) | ⭐ 3,974 | 2026-10-17 | OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop appl... |
@@ -64,7 +61,7 @@
 | [fish-shell/fish-shell](../repos/fish-shell/fish-shell.md) | ⭐ 34,332 | 2026-10-19 | The user-friendly command line shell. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ModernRelay/omnigraph](../repos/ModernRelay/omnigraph.md) | ⭐ 2,403 | 2026-10-20 | Object-storage native graph database with branching and typed ontology |
+| [ModernRelay/omnigraph](../repos/ModernRelay/omnigraph.md) | ⭐ 2,594 | 2026-10-20 | Object-storage native graph database with branching and typed ontology |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Jamailar/Beav](../repos/Jamailar/Beav.md) | ⭐ 2,089 | 2026-10-20 | 小红书 AI 运营工作台｜小红书采集、评论区下载、素材库、选题、AI写作、小红书全域解决方案，开箱即用，一键安装，小红书AI工作台，自媒体素材库，AI写作+图片自动编排，小红书版OpenClaw... |
@@ -74,6 +71,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [redlib-org/redlib](../repos/redlib-org/redlib.md) | ⭐ 3,896 | 2026-10-22 |  Private front-end for Reddit  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ShayanAbbas1/dbdelve](../repos/ShayanAbbas1/dbdelve.md) | ⭐ 1,296 | 2026-10-27 | Fast and lightweight DB Client made in Rust and GPUI. |
 
 
 ---
@@ -96,7 +96,7 @@
 | [alacritty/alacritty](../repos/alacritty/alacritty.md) | ⭐ 65,327 | 2026-08-11 | 1 |
 | [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 64,099 | 2026-08-03 | 2 |
 | [rust-unofficial/awesome-rust](../repos/rust-unofficial/awesome-rust.md) | ⭐ 59,459 | 2026-09-03 | 3 |
-| [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 56,615 | 2026-08-19 | 7 |
+| [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 56,661 | 2026-08-19 | 8 |
 | [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 51,108 | 2026-08-12 | 7 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 50,290 | 2026-08-02 | 23 |
 | [herdrdev/herdr](../repos/herdrdev/herdr.md) | ⭐ 49,394 | 2026-11-03 | 2 |
@@ -227,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-11-14T21:00:55.606Z*
+*Last updated: 2026-11-15T21:00:55.471Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Groovy |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 18,934 |
-| **Forks** | 🍴 5,261 |
-| **Trending Days** | 80 |
+| **Stars** | ⭐ 18,937 |
+| **Forks** | 🍴 5,260 |
+| **Trending Days** | 81 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 14, 2026 |
+| **Last Seen** | Nov 15, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 80
-- **Longest Streak**: 13 days
+- **Trending Days**: 81
+- **Longest Streak**: 14 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-14T21:00:57.612Z*  
-*Data from 80 trending reports*
+*Last updated: 2026-11-15T21:00:57.479Z*  
+*Data from 81 trending reports*

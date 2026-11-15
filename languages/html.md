@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 124
+- **Total Repositories**: 125
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-07
 
@@ -16,25 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MengTo/Skills](../repos/MengTo/Skills.md) | ⭐ 7,514 | 2026-08-19 | 12 |
+| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,637 | 2026-08-04 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dequelabs/axe-core](../repos/dequelabs/axe-core.md) | ⭐ 7,821 | 2026-10-03 | 6 |
+| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | ⭐ 6,313 | 2026-08-05 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [faroukbmiled/RyukGram](../repos/faroukbmiled/RyukGram.md) | ⭐ 809 | 2026-10-25 | 3 |
+| [MengTo/Skills](../repos/MengTo/Skills.md) | ⭐ 7,597 | 2026-08-19 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sdli1995/dlssg_for_sm86](../repos/sdli1995/dlssg_for_sm86.md) | ⭐ 5,208 | 2026-11-08 | 3 |
+| [isjiamu/gzh-design-skill](../repos/isjiamu/gzh-design-skill.md) | ⭐ 4,382 | 2026-09-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [eternity4719/HowToLiveBetter](../repos/eternity4719/HowToLiveBetter.md) | ⭐ 75,766 | 2026-11-13 | 2 |
+| [aoaostar/legado](../repos/aoaostar/legado.md) | ⭐ 7,395 | 2026-09-07 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jephersonRD/PC-Free](../repos/jephersonRD/PC-Free.md) | ⭐ 283 | 2026-11-14 | 1 |
+| [xbtlin/ai-berkshire](../repos/xbtlin/ai-berkshire.md) | ⭐ 17,146 | 2026-09-14 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wdcpclover/ai4paper](../repos/wdcpclover/ai4paper.md) | ⭐ 5,095 | 2026-11-14 | 1 |
+| [sdli1995/dlssg_for_sm86](../repos/sdli1995/dlssg_for_sm86.md) | ⭐ 5,239 | 2026-11-08 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [jephersonRD/PC-Free](../repos/jephersonRD/PC-Free.md) | ⭐ 289 | 2026-11-14 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [microsoft/zerotrustassessment](../repos/microsoft/zerotrustassessment.md) | ⭐ 492 | 2026-11-15 | 1 |
 
 
 ---
@@ -70,7 +76,7 @@
 | [geekan/HowToLiveLonger](../repos/geekan/HowToLiveLonger.md) | ⭐ 36,035 | 2026-11-07 | A Programmer’s Guide to Longevity | Helping everyone live a longer, healthier, happier life. Avai... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [sdli1995/dlssg_for_sm86](../repos/sdli1995/dlssg_for_sm86.md) | ⭐ 5,208 | 2026-11-08 | Here is a dlssg for RTX30 Series GPU  |
+| [sdli1995/dlssg_for_sm86](../repos/sdli1995/dlssg_for_sm86.md) | ⭐ 5,239 | 2026-11-08 | Here is a dlssg for RTX30 Series GPU  |
 
 
 ---
@@ -113,9 +119,9 @@
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 18 | ⭐ 141,705 | 2026-08-08 | 2026-11-03 |
 | [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | 18 | ⭐ 6,316 | 2026-08-11 | 2026-11-13 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 17 | ⭐ 29,759 | 2026-08-04 | 2026-11-13 |
+| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 17 | ⭐ 6,313 | 2026-08-05 | 2026-11-15 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 17 | ⭐ 30,478 | 2026-08-09 | 2026-11-04 |
-| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 16 | ⭐ 6,305 | 2026-08-05 | 2026-11-06 |
-| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | 13 | ⭐ 23,781 | 2026-08-01 | 2026-11-13 |
+| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 14 | ⭐ 16,637 | 2026-08-04 | 2026-11-15 |
 
 ---
 
@@ -224,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-11-14T21:00:55.555Z*
+*Last updated: 2026-11-15T21:00:55.426Z*

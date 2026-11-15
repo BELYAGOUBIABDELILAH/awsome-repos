@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 156
+- **Total Repositories**: 157
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-02
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 96,111 | 2026-08-01 | 54 |
+| [jqssun/android-titanium-browser](../repos/jqssun/android-titanium-browser.md) | ⭐ 3,230 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [InfinityLoop1308/PipePipe](../repos/InfinityLoop1308/PipePipe.md) | ⭐ 7,246 | 2026-08-02 | 12 |
+| [hestiacp/hestiacp](../repos/hestiacp/hestiacp.md) | ⭐ 4,581 | 2026-08-06 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | ⭐ 10,324 | 2026-08-03 | 15 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 4,158 | 2026-08-07 | 39 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,952 | 2026-08-04 | 10 |
+| [fscarmen/sing-box](../repos/fscarmen/sing-box.md) | ⭐ 6,055 | 2026-09-21 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 26,538 | 2026-08-04 | 16 |
+| [EpicGames/unreal-engine-skills-for-claude-code-plugin](../repos/EpicGames/unreal-engine-skills-for-claude-code-plugin.md) | ⭐ 1,976 | 2026-10-11 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 4,152 | 2026-08-07 | 38 |
+| [itsnotkubrick/3X-UI_KIT](../repos/itsnotkubrick/3X-UI_KIT.md) | ⭐ 687 | 2026-10-15 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 8,876 | 2026-08-12 | 27 |
+| [gentoo/gentoo](../repos/gentoo/gentoo.md) | ⭐ 2,492 | 2026-10-16 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 34,115 | 2026-08-20 | 14 |
+| [ublue-os/bazzite](../repos/ublue-os/bazzite.md) | ⭐ 9,352 | 2026-11-11 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [kinsamanka/OpenStick-Builder](../repos/kinsamanka/OpenStick-Builder.md) | ⭐ 102 | 2026-11-15 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [233boy/Xray](../repos/233boy/Xray.md) | ⭐ 2,828 | 2026-11-15 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [winapps-org/winapps](../repos/winapps-org/winapps.md) | ⭐ 16,088 | 2026-10-16 |  Run Windows apps such as Microsoft Office&#x2F;Adobe in Linux (Ubuntu&#x2F;Fedora) and GNOME&#x2F;KDE as if the... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [IceWhaleTech/ZimaOS](../repos/IceWhaleTech/ZimaOS.md) | ⭐ 3,047 | 2026-10-16 | A Simplified, Focused and Open NAS OS_ |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [gentoo/gentoo](../repos/gentoo/gentoo.md) | ⭐ 2,469 | 2026-10-16 | [MIRROR] Official Gentoo ebuild repository |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [home-assistant/addons](../repos/home-assistant/addons.md) | ⭐ 2,239 | 2026-10-17 | :heavy_plus_sign: Docker add-ons for Home Assistant |
@@ -74,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [kharmanskyi/open-steps](../repos/kharmanskyi/open-steps.md) | ⭐ 1,236 | 2026-10-25 | Plain-language agent skills for Claude Code, Codex, Cursor and Gemini CLI: honest session reports... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [papers-we-love/papers-we-love](../repos/papers-we-love/papers-we-love.md) | ⭐ 110,960 | 2026-10-27 | Papers from the computer science community to read and discuss. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [remote-android/redroid-doc](../repos/remote-android/redroid-doc.md) | ⭐ 7,051 | 2026-10-28 | redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues &#x2F; ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ViktorUJ/cks](../repos/ViktorUJ/cks.md) | ⭐ 1,669 | 2026-10-29 | Open-source Platform for learning kubernetes and aws eks   and preparation for  for  Certified Ku... |
 
 
 ---
@@ -110,7 +116,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 54 | ⭐ 96,111 | 2026-08-01 | 2026-11-14 |
-| [expo/skills](../repos/expo/skills.md) | 38 | ⭐ 4,152 | 2026-08-07 | 2026-11-14 |
+| [expo/skills](../repos/expo/skills.md) | 39 | ⭐ 4,158 | 2026-08-07 | 2026-11-15 |
 | [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 27 | ⭐ 8,876 | 2026-08-12 | 2026-11-14 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
 | [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | 17 | ⭐ 11,015 | 2026-08-07 | 2026-11-10 |
@@ -132,7 +138,6 @@
 - [Chachamaru127/claude-code-harness](../repos/Chachamaru127/claude-code-harness.md) - Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonom...
 - [void-linux/void-packages](../repos/void-linux/void-packages.md) - The Void source packages collection
 - [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) - Универсальный менеджер для обхода блокировок на OpenWrt
-- [lcdyk0517/arkos4clone](../repos/lcdyk0517/arkos4clone.md) - Bringing ArkOS and dArkOS porting to unsupported RK3326 handheld gaming devices.
 - [basecamp/omarchy](../repos/basecamp/omarchy.md) - Beautiful, Modern &amp; Opinionated Linux
 - [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) - Docker configuration for running VLLM on dual DGX Sparks
 - [dockur/macos](../repos/dockur/macos.md) - MacOS inside a Docker container.
@@ -224,7 +229,8 @@
 - [sabamdarif/termux-desktop](../repos/sabamdarif/termux-desktop.md) - Install a full Linux desktop environment on your Android device with Termux X11 ( VNC optional) a...
 - [zhnnky329/MathModeling-skills](../repos/zhnnky329/MathModeling-skills.md) - 面向数学建模竞赛的 Claude Code &#x2F; Codex Skills ，支持分阶段建模流程与 Python、MATLAB&#x2F;北太天元代码分支。
 - [thibmaek/awesome-raspberry-pi](../repos/thibmaek/awesome-raspberry-pi.md) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+- [bitol-io/open-data-contract-standard](../repos/bitol-io/open-data-contract-standard.md) - Home of the Open Data Contract Standard (ODCS).
 
 ---
 
-*Last updated: 2026-11-14T21:00:55.613Z*
+*Last updated: 2026-11-15T21:00:55.476Z*

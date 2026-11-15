@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 126
+- **Total Repositories**: 129
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-14
+- **Last Updated**: 2026-11-15
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 15,188 | 2026-08-01 | 35 |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 22,028 | 2026-08-01 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [glpi-project/glpi](../repos/glpi-project/glpi.md) | ⭐ 6,595 | 2026-08-01 | 45 |
+| [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,438 | 2026-08-02 | 41 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 22,026 | 2026-08-01 | 33 |
+| [cedar2025/Xboard](../repos/cedar2025/Xboard.md) | ⭐ 4,865 | 2026-08-02 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cedar2025/Xboard](../repos/cedar2025/Xboard.md) | ⭐ 4,865 | 2026-08-02 | 25 |
+| [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 37,531 | 2026-08-02 | 43 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 37,516 | 2026-08-02 | 42 |
+| [ChurchCRM/CRM](../repos/ChurchCRM/CRM.md) | ⭐ 997 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [roundcube/roundcubemail](../repos/roundcube/roundcubemail.md) | ⭐ 7,278 | 2026-08-04 | 20 |
+| [wallabag/wallabag](../repos/wallabag/wallabag.md) | ⭐ 13,061 | 2026-08-05 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wallabag/wallabag](../repos/wallabag/wallabag.md) | ⭐ 13,057 | 2026-08-05 | 9 |
+| [woocommerce/woocommerce](../repos/woocommerce/woocommerce.md) | ⭐ 10,603 | 2026-08-06 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [espocrm/espocrm](../repos/espocrm/espocrm.md) | ⭐ 3,615 | 2026-08-06 | 27 |
+| [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 24,163 | 2026-08-07 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 24,155 | 2026-08-07 | 27 |
+| [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | ⭐ 10,842 | 2026-08-09 | 39 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elabftw/elabftw](../repos/elabftw/elabftw.md) | ⭐ 1,493 | 2026-08-07 | 8 |
+| [aureuserp/aureuserp](../repos/aureuserp/aureuserp.md) | ⭐ 12,237 | 2026-08-11 | 24 |
 
 
 ---
@@ -52,10 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [pfsense/pfsense](../repos/pfsense/pfsense.md) | ⭐ 5,756 | 2026-10-16 | Main repository for pfSense |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [vimeo/psalm](../repos/vimeo/psalm.md) | ⭐ 5,929 | 2026-10-17 | A PHP static analysis tool for finding errors and security vulnerabilities in PHP applications |
+| [vimeo/psalm](../repos/vimeo/psalm.md) | ⭐ 5,931 | 2026-10-17 | A PHP static analysis tool for finding errors and security vulnerabilities in PHP applications |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [bobthecow/psysh](../repos/bobthecow/psysh.md) | ⭐ 9,829 | 2026-10-19 | A REPL for PHP |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mpdf/mpdf](../repos/mpdf/mpdf.md) | ⭐ 4,702 | 2026-10-28 | PHP library generating PDF files from UTF-8 encoded HTML |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [TheHostingTool/TheHostingTool](../repos/TheHostingTool/TheHostingTool.md) | ⭐ 75 | 2026-10-28 | A PHP-based, open-source, client management script geared towards free web hosting providers. |
 
 
 ---
@@ -88,16 +88,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 37,516 | 2026-08-02 | 42 |
+| [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 37,531 | 2026-08-02 | 43 |
 | [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,999 | 2026-08-01 | 42 |
 | [filamentphp/filament](../repos/filamentphp/filament.md) | ⭐ 32,488 | 2026-08-02 | 32 |
-| [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,520 | 2026-08-02 | 40 |
+| [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,438 | 2026-08-02 | 41 |
 | [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,364 | 2026-08-01 | 30 |
 | [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,714 | 2026-08-04 | 24 |
-| [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 24,155 | 2026-08-07 | 27 |
+| [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 24,163 | 2026-08-07 | 28 |
 | [guzzle/guzzle](../repos/guzzle/guzzle.md) | ⭐ 23,445 | 2026-10-20 | 1 |
 | [PHPMailer/PHPMailer](../repos/PHPMailer/PHPMailer.md) | ⭐ 22,342 | 2026-08-01 | 15 |
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 22,026 | 2026-08-01 | 33 |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 22,028 | 2026-08-01 | 34 |
 | [koel/koel](../repos/koel/koel.md) | ⭐ 17,333 | 2026-09-28 | 4 |
 | [easychen/opc-methodology](../repos/easychen/opc-methodology.md) | ⭐ 17,034 | 2026-08-04 | 9 |
 | [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 16,581 | 2026-08-02 | 29 |
@@ -105,7 +105,7 @@
 | [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 15,188 | 2026-08-01 | 35 |
 | [PHPOffice/PhpSpreadsheet](../repos/PHPOffice/PhpSpreadsheet.md) | ⭐ 14,005 | 2026-08-19 | 7 |
 | [PHP-CS-Fixer/PHP-CS-Fixer](../repos/PHP-CS-Fixer/PHP-CS-Fixer.md) | ⭐ 13,565 | 2026-08-04 | 5 |
-| [wallabag/wallabag](../repos/wallabag/wallabag.md) | ⭐ 13,057 | 2026-08-05 | 9 |
+| [wallabag/wallabag](../repos/wallabag/wallabag.md) | ⭐ 13,061 | 2026-08-05 | 10 |
 | [SpartnerNL/Laravel-Excel](../repos/SpartnerNL/Laravel-Excel.md) | ⭐ 12,699 | 2026-08-09 | 1 |
 | [typecho/typecho](../repos/typecho/typecho.md) | ⭐ 12,417 | 2026-08-02 | 1 |
 
@@ -116,12 +116,12 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [glpi-project/glpi](../repos/glpi-project/glpi.md) | 45 | ⭐ 6,595 | 2026-08-01 | 2026-11-14 |
+| [nextcloud/server](../repos/nextcloud/server.md) | 43 | ⭐ 37,531 | 2026-08-02 | 2026-11-15 |
 | [laravel/framework](../repos/laravel/framework.md) | 42 | ⭐ 34,999 | 2026-08-01 | 2026-11-13 |
-| [nextcloud/server](../repos/nextcloud/server.md) | 42 | ⭐ 37,516 | 2026-08-02 | 2026-11-14 |
-| [symfony/symfony](../repos/symfony/symfony.md) | 40 | ⭐ 31,520 | 2026-08-02 | 2026-11-08 |
-| [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | 38 | ⭐ 10,833 | 2026-08-09 | 2026-11-14 |
+| [symfony/symfony](../repos/symfony/symfony.md) | 41 | ⭐ 31,438 | 2026-08-02 | 2026-11-15 |
+| [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | 39 | ⭐ 10,842 | 2026-08-09 | 2026-11-15 |
 | [grokability/snipe-it](../repos/grokability/snipe-it.md) | 35 | ⭐ 15,188 | 2026-08-01 | 2026-11-14 |
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | 33 | ⭐ 22,026 | 2026-08-01 | 2026-11-14 |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | 34 | ⭐ 22,028 | 2026-08-01 | 2026-11-15 |
 | [WordPress/wordpress-develop](../repos/WordPress/wordpress-develop.md) | 32 | ⭐ 3,508 | 2026-08-01 | 2026-11-08 |
 | [filamentphp/filament](../repos/filamentphp/filament.md) | 32 | ⭐ 32,488 | 2026-08-02 | 2026-11-12 |
 | [bagisto/bagisto](../repos/bagisto/bagisto.md) | 30 | ⭐ 28,364 | 2026-08-01 | 2026-11-12 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-14T21:00:55.583Z*
+*Last updated: 2026-11-15T21:00:55.455Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | PHP |
 | **License** | MIT |
-| **Stars** | ⭐ 31,520 |
-| **Forks** | 🍴 9,955 |
-| **Trending Days** | 40 |
+| **Stars** | ⭐ 31,438 |
+| **Forks** | 🍴 9,948 |
+| **Trending Days** | 41 |
 | **Peak Rank** | #8 |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Nov 8, 2026 |
+| **Last Seen** | Nov 15, 2026 |
 
 
 ---
@@ -48,7 +48,7 @@
 ### Highlights
 
 - **Peak Rank**: #8
-- **Trending Days**: 40
+- **Trending Days**: 41
 - **Longest Streak**: 7 days
 
 ---
@@ -71,9 +71,9 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Average | Basic documentation available |
-| **Community** | Very Active | 31,520+ stars, strong contributor base |
+| **Community** | Very Active | 31,438+ stars, strong contributor base |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -92,5 +92,5 @@
 
 ---
 
-*Last updated: 2026-11-14T21:00:57.772Z*  
-*Data from 40 trending reports*
+*Last updated: 2026-11-15T21:00:57.637Z*  
+*Data from 41 trending reports*

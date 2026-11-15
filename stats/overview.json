@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-14T21:01:02.228Z",
-  "total_repositories": 4574,
-  "trending_today": 348,
-  "new_this_month": 542,
+  "generated_at": "2026-11-15T21:01:01.548Z",
+  "total_repositories": 4606,
+  "trending_today": 304,
+  "new_this_month": 547,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-11-14",
+  "last_collection": "2026-11-15",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
@@ -12,13 +12,13 @@
   },
   "most_frequent": {
     "full_name": "apache/spark",
-    "trending_days": 86,
+    "trending_days": 87,
     "first_seen": "2026-08-01"
   },
   "newest_discovery": {
-    "full_name": "andrewyng/openworker",
-    "stars": 19206,
-    "first_seen": "2026-11-14"
+    "full_name": "bojieli/ai-infra-book",
+    "stars": 7818,
+    "first_seen": "2026-11-15"
   },
   "fastest_growing": {
     "full_name": "different-ai/openwork",
@@ -26,11 +26,11 @@
     "growth_rate": 100,
     "first_seen": "2026-08-01"
   },
-  "total_stars": 60752240,
-  "avg_stars": 13282,
+  "total_stars": 61086914,
+  "avg_stars": 13262,
   "avg_trending_days": 7.2,
   "language_count": 62,
-  "topic_count": 11296,
+  "topic_count": 11360,
   "collection_success_rate": 100,
   "data_quality_score": 99
 }

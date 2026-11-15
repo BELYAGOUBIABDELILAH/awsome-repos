@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 100
+**Gems Found**: 91
 
 ---
 
@@ -39,7 +39,7 @@
 |---|---|
 | ⭐ **Stars** | 3,374 |
 | 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 79/100 |
+| 🏆 **Gem Score** | 78/100 |
 | 📈 **Trending Days** | 4 |
 | 📅 **First Seen** | Aug 16, 2026 |
 
@@ -211,27 +211,7 @@
 
 ---
 
-### 11. [Gitlawb&#x2F;zero](../../repos/Gitlawb/zero.md)
-
-**The coding agent that answers to you, your model, your machine, your rules.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,544 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 72/100 |
-| 📈 **Trending Days** | 2 |
-| 📅 **First Seen** | Aug 16, 2026 |
-
-**Why it's a gem**: High growth velocity (+99 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/Gitlawb/zero.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Gitlawb&#x2F;zero)
-
----
-
-### 12. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
+### 11. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
 
 **Visualize your year in travel using your Google Location History (Timeline) data**
 
@@ -251,7 +231,7 @@
 
 ---
 
-### 13. [Tencent&#x2F;AI-Infra-Guard](../../repos/Tencent/AI-Infra-Guard.md)
+### 12. [Tencent&#x2F;AI-Infra-Guard](../../repos/Tencent/AI-Infra-Guard.md)
 
 **A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.**
 
@@ -271,7 +251,7 @@
 
 ---
 
-### 14. [workweave&#x2F;router](../../repos/workweave/router.md)
+### 13. [workweave&#x2F;router](../../repos/workweave/router.md)
 
 **Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.**
 
@@ -291,7 +271,7 @@
 
 ---
 
-### 15. [longbridge&#x2F;gpui-component](../../repos/longbridge/gpui-component.md)
+### 14. [longbridge&#x2F;gpui-component](../../repos/longbridge/gpui-component.md)
 
 **Rust GUI components for building fantastic cross-platform desktop application by using GPUI.**
 
@@ -311,7 +291,7 @@
 
 ---
 
-### 16. [tutti-os&#x2F;tutti](../../repos/tutti-os/tutti.md)
+### 15. [tutti-os&#x2F;tutti](../../repos/tutti-os/tutti.md)
 
 **Where people and agents build in tune.**
 
@@ -331,27 +311,7 @@
 
 ---
 
-### 17. [liustack&#x2F;modlens](../../repos/liustack/modlens.md)
-
-**The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,781 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 70/100 |
-| 📈 **Trending Days** | 2 |
-| 📅 **First Seen** | Aug 15, 2026 |
-
-**Why it's a gem**: High growth velocity (+527 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/liustack/modlens.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;liustack&#x2F;modlens)
-
----
-
-### 18. [microsoft&#x2F;intelligent-terminal](../../repos/microsoft/intelligent-terminal.md)
+### 16. [microsoft&#x2F;intelligent-terminal](../../repos/microsoft/intelligent-terminal.md)
 
 **A fork of Windows Terminal with native agent integration, right in your command line.**
 
@@ -371,7 +331,7 @@
 
 ---
 
-### 19. [worldwonderer&#x2F;oh-story-claudecode](../../repos/worldwonderer/oh-story-claudecode.md)
+### 17. [worldwonderer&#x2F;oh-story-claudecode](../../repos/worldwonderer/oh-story-claudecode.md)
 
 **网文&#x2F;小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-form web fiction.**
 
@@ -391,6 +351,46 @@
 
 ---
 
+### 18. [jnMetaCode&#x2F;agency-agents-zh](../../repos/jnMetaCode/agency-agents-zh.md)
+
+**🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent&#x2F;Claude Code&#x2F;Cursor&#x2F;Copilot 等 18 种工具，覆盖工程&#x2F;设计&#x2F;营销&#x2F;金融等 20 个部门。含 52 个中国市场原创智能体（小红书&#x2F;抖音&#x2F;微信&#x2F;飞书&#x2F;钉钉等）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 20,046 |
+| 💻 **Language** | Shell |
+| 🏆 **Gem Score** | 67/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 12, 2026 |
+
+**Why it's a gem**: High growth velocity (+51 stars&#x2F;day) • Trending 6 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/jnMetaCode/agency-agents-zh.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;jnMetaCode&#x2F;agency-agents-zh)
+
+---
+
+### 19. [laude-institute&#x2F;headlong](../../repos/laude-institute/headlong.md)
+
+**An open source agent microharness featuring persistent agency and recursive LLMs. Of bash, by bash, for bash; it&#39;s shells all the way down.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 921 |
+| 💻 **Language** | Shell |
+| 🏆 **Gem Score** | 67/100 |
+| 📈 **Trending Days** | 2 |
+| 📅 **First Seen** | Aug 26, 2026 |
+
+**Why it's a gem**: High growth velocity (+264 stars&#x2F;day) • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/laude-institute/headlong.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;laude-institute&#x2F;headlong)
+
+---
+
 ### 20. [kitknox&#x2F;rootshell](../../repos/kitknox/rootshell.md)
 
 **rootshell - The terminal, reimagined for Apple platforms**
@@ -399,7 +399,7 @@
 |---|---|
 | ⭐ **Stars** | 555 |
 | 💻 **Language** | Swift |
-| 🏆 **Gem Score** | 68/100 |
+| 🏆 **Gem Score** | 67/100 |
 | 📈 **Trending Days** | 2 |
 | 📅 **First Seen** | Aug 27, 2026 |
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-14T21:01:02.058Z*  
+*Generated: 2026-11-15T21:01:01.369Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

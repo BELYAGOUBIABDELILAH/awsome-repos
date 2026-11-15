@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 343
+- **Total Repositories**: 349
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-03
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | ⭐ 70,192 | 2026-08-03 | 19 |
+| [HKUDS/Vibe-Trading](../repos/HKUDS/Vibe-Trading.md) | ⭐ 38,318 | 2026-08-24 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | ⭐ 47,286 | 2026-08-07 | 17 |
+| [SnailSploit/Claude-Red](../repos/SnailSploit/Claude-Red.md) | ⭐ 11,012 | 2026-09-12 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 55,369 | 2026-08-11 | 7 |
+| [HKUDS/AutoSwarm](../repos/HKUDS/AutoSwarm.md) | ⭐ 2,535 | 2026-10-27 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [headroomlabs-ai/headroom](../repos/headroomlabs-ai/headroom.md) | ⭐ 79,667 | 2026-10-09 | 7 |
+| [NVIDIA/SkillEvaluator](../repos/NVIDIA/SkillEvaluator.md) | ⭐ 1,575 | 2026-11-12 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/SkillEvaluator](../repos/NVIDIA/SkillEvaluator.md) | ⭐ 1,236 | 2026-11-12 | 2 |
+| [tradermonty/claude-trading-skills](../repos/tradermonty/claude-trading-skills.md) | ⭐ 5,431 | 2026-11-13 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tradermonty/claude-trading-skills](../repos/tradermonty/claude-trading-skills.md) | ⭐ 4,716 | 2026-11-13 | 2 |
+| [andrewyng/openworker](../repos/andrewyng/openworker.md) | ⭐ 19,338 | 2026-11-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [andrewyng/openworker](../repos/andrewyng/openworker.md) | ⭐ 19,206 | 2026-11-14 | 1 |
+| [bojieli/ai-infra-book](../repos/bojieli/ai-infra-book.md) | ⭐ 7,818 | 2026-11-15 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pnnbao97/VieNeu-TTS](../repos/pnnbao97/VieNeu-TTS.md) | ⭐ 3,331 | 2026-11-14 | 1 |
+| [PrefectHQ/fastmcp](../repos/PrefectHQ/fastmcp.md) | ⭐ 28,519 | 2026-11-15 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [0x0funky/agent-sprite-forge](../repos/0x0funky/agent-sprite-forge.md) | ⭐ 5,727 | 2026-11-14 | 1 |
+| [fqscfqj/Y2A-Auto](../repos/fqscfqj/Y2A-Auto.md) | ⭐ 5,010 | 2026-11-15 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/PyRIT](../repos/microsoft/PyRIT.md) | ⭐ 4,837 | 2026-11-14 | 1 |
+| [ManimCommunity/manim](../repos/ManimCommunity/manim.md) | ⭐ 42,578 | 2026-11-15 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [elder-plinius/V3R1T4S](../repos/elder-plinius/V3R1T4S.md) | ⭐ 361 | 2026-10-16 | liberating known unknowns |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [odoo/odoo](../repos/odoo/odoo.md) | ⭐ 55,090 | 2026-10-16 | Odoo. Open Source Apps To Grow Your Business. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [google/artemis](../repos/google/artemis.md) | ⭐ 13,244 | 2026-10-16 | ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ScrapeCreators/social-media-research-skills](../repos/ScrapeCreators/social-media-research-skills.md) | ⭐ 4,026 | 2026-10-17 | AI agent skills for social media research. Outlier posts, comment mining, competitor teardowns, a... |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [onyx-dot-app/onyx](../repos/onyx-dot-app/onyx.md) | ⭐ 32,925 | 2026-10-22 | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Mailu/Mailu](../repos/Mailu/Mailu.md) | ⭐ 7,583 | 2026-10-23 | Insular email distribution - mail server as Docker images |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [AstrBotDevs/AstrBot](../repos/AstrBotDevs/AstrBot.md) | ⭐ 43,810 | 2026-10-25 | AI Agent Assistant &amp; development framework that integrates lots of IM platforms, LLMs, plugins an... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [higgsfield-ai/skills](../repos/higgsfield-ai/skills.md) | ⭐ 1,672 | 2026-10-26 |  |
 
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-14T21:00:55.594Z*
+*Last updated: 2026-11-15T21:00:55.463Z*

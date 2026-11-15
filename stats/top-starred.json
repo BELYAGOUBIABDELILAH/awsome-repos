@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T21:01:02.235Z",
+  "generated_at": "2026-11-15T21:01:01.557Z",
   "total_count": 100,
   "repositories": [
     {
@@ -507,10 +507,10 @@
       "full_name": "godotengine/godot",
       "owner": "godotengine",
       "name": "godot",
-      "stars": 119259,
+      "stars": 120227,
       "language": "C++",
       "first_seen": "2026-08-01",
-      "trending_days": 12
+      "trending_days": 13
     },
     {
       "rank": 52,
@@ -757,10 +757,10 @@
       "full_name": "localsend/localsend",
       "owner": "localsend",
       "name": "localsend",
-      "stars": 98992,
+      "stars": 99142,
       "language": "Dart",
       "first_seen": "2026-08-02",
-      "trending_days": 43
+      "trending_days": 44
     },
     {
       "rank": 77,
@@ -914,6 +914,16 @@
     },
     {
       "rank": 92,
+      "full_name": "gohugoio/hugo",
+      "owner": "gohugoio",
+      "name": "hugo",
+      "stars": 90478,
+      "language": "Go",
+      "first_seen": "2026-08-03",
+      "trending_days": 5
+    },
+    {
+      "rank": 93,
       "full_name": "tt-a1i/archify",
       "owner": "tt-a1i",
       "name": "archify",
@@ -921,16 +931,6 @@
       "language": "JavaScript",
       "first_seen": "2026-08-04",
       "trending_days": 22
-    },
-    {
-      "rank": 93,
-      "full_name": "gohugoio/hugo",
-      "owner": "gohugoio",
-      "name": "hugo",
-      "stars": 90245,
-      "language": "Go",
-      "first_seen": "2026-08-03",
-      "trending_days": 4
     },
     {
       "rank": 94,

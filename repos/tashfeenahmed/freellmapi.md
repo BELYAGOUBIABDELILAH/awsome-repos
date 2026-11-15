@@ -1,6 +1,6 @@
 # tashfeenahmed&#x2F;freellmapi
 
-> 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one &#x2F;v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+> 10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one &#x2F;v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;tashfeenahmed&#x2F;freellmapi) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | MIT |
-| **Stars** | ⭐ 46,688 |
-| **Forks** | 🍴 6,382 |
-| **Trending Days** | 20 |
+| **Stars** | ⭐ 52,845 |
+| **Forks** | 🍴 7,403 |
+| **Trending Days** | 21 |
 | **Peak Rank** | #15 |
 
 | **First Seen** | Aug 7, 2026 |
-| **Last Seen** | Nov 3, 2026 |
+| **Last Seen** | Nov 15, 2026 |
 
 
 ---
@@ -49,7 +49,7 @@
 ### Highlights
 
 - **Peak Rank**: #15
-- **Trending Days**: 20
+- **Trending Days**: 21
 - **Longest Streak**: 6 days
 
 ---
@@ -70,12 +70,12 @@
 
 | Aspect | Rating | Details |
 |--------|--------|---------|
-| **Difficulty** | Beginner | Approachable with good examples |
-| **Documentation** | Average | Basic documentation available |
-| **Community** | Growing | Emerging community |
+| **Difficulty** | Intermediate | Well-documented but extensive API |
+| **Documentation** | Good | Well-maintained documentation |
+| **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
-| **Learning Curve** | Medium | Moderate learning investment |
+| **Maintenance** | Very Active | Updated within last week |
+| **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
 - General purpose
@@ -93,5 +93,5 @@
 
 ---
 
-*Last updated: 2026-11-14T21:00:58.550Z*  
-*Data from 20 trending reports*
+*Last updated: 2026-11-15T21:00:58.394Z*  
+*Data from 21 trending reports*

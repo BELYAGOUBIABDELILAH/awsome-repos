@@ -16,19 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,758 | 2026-08-01 | 71 |
+| [haskell/cabal](../repos/haskell/cabal.md) | ⭐ 1,750 | 2026-08-01 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,341 | 2026-08-01 | 74 |
+| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 2,116 | 2026-08-01 | 60 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 2,108 | 2026-08-01 | 59 |
+| [agda/agda](../repos/agda/agda.md) | ⭐ 2,975 | 2026-08-03 | 37 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agda/agda](../repos/agda/agda.md) | ⭐ 2,974 | 2026-08-03 | 36 |
+| [commercialhaskell/stack](../repos/commercialhaskell/stack.md) | ⭐ 4,084 | 2026-08-05 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mtolly/onyx](../repos/mtolly/onyx.md) | ⭐ 312 | 2026-08-08 | 38 |
+| [mtolly/onyx](../repos/mtolly/onyx.md) | ⭐ 312 | 2026-08-08 | 39 |
 
 
 ---
@@ -60,17 +60,17 @@
 | [carp-lang/Carp](../repos/carp-lang/Carp.md) | ⭐ 6,100 | 2026-09-04 | 2 |
 | [digitallyinduced/ihp](../repos/digitallyinduced/ihp.md) | ⭐ 5,330 | 2026-08-02 | 1 |
 | [hledgerorg/hledger](../repos/hledgerorg/hledger.md) | ⭐ 4,814 | 2026-09-29 | 24 |
-| [commercialhaskell/stack](../repos/commercialhaskell/stack.md) | ⭐ 4,081 | 2026-08-05 | 21 |
+| [commercialhaskell/stack](../repos/commercialhaskell/stack.md) | ⭐ 4,084 | 2026-08-05 | 22 |
 | [ghc/ghc](../repos/ghc/ghc.md) | ⭐ 3,274 | 2026-10-22 | 2 |
 | [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,172 | 2026-08-01 | 34 |
-| [agda/agda](../repos/agda/agda.md) | ⭐ 2,974 | 2026-08-03 | 36 |
+| [agda/agda](../repos/agda/agda.md) | ⭐ 2,975 | 2026-08-03 | 37 |
 | [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | ⭐ 2,966 | 2026-08-01 | 25 |
 | [wireapp/wire-server](../repos/wireapp/wire-server.md) | ⭐ 2,783 | 2026-08-04 | 2 |
 | [diku-dk/futhark](../repos/diku-dk/futhark.md) | ⭐ 2,778 | 2026-08-02 | 1 |
 | [nammayatri/nammayatri](../repos/nammayatri/nammayatri.md) | ⭐ 2,580 | 2026-08-03 | 15 |
-| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 2,108 | 2026-08-01 | 59 |
+| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 2,116 | 2026-08-01 | 60 |
 | [haskell-servant/servant](../repos/haskell-servant/servant.md) | ⭐ 1,967 | 2026-09-02 | 1 |
-| [haskell/cabal](../repos/haskell/cabal.md) | ⭐ 1,748 | 2026-08-01 | 31 |
+| [haskell/cabal](../repos/haskell/cabal.md) | ⭐ 1,750 | 2026-08-01 | 32 |
 | [IntersectMBO/plutus](../repos/IntersectMBO/plutus.md) | ⭐ 1,635 | 2026-08-05 | 2 |
 
 ---
@@ -81,14 +81,14 @@
 |------------|---------------|-------|------------|-----------|
 | [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 74 | ⭐ 40,341 | 2026-08-01 | 2026-11-14 |
 | [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | 71 | ⭐ 27,758 | 2026-08-01 | 2026-11-14 |
-| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | 59 | ⭐ 2,108 | 2026-08-01 | 2026-11-14 |
-| [mtolly/onyx](../repos/mtolly/onyx.md) | 38 | ⭐ 312 | 2026-08-08 | 2026-11-14 |
-| [agda/agda](../repos/agda/agda.md) | 36 | ⭐ 2,974 | 2026-08-03 | 2026-11-14 |
+| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | 60 | ⭐ 2,116 | 2026-08-01 | 2026-11-15 |
+| [mtolly/onyx](../repos/mtolly/onyx.md) | 39 | ⭐ 312 | 2026-08-08 | 2026-11-15 |
+| [agda/agda](../repos/agda/agda.md) | 37 | ⭐ 2,975 | 2026-08-03 | 2026-11-15 |
 | [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | 34 | ⭐ 3,172 | 2026-08-01 | 2026-11-11 |
-| [haskell/cabal](../repos/haskell/cabal.md) | 31 | ⭐ 1,748 | 2026-08-01 | 2026-11-06 |
+| [haskell/cabal](../repos/haskell/cabal.md) | 32 | ⭐ 1,750 | 2026-08-01 | 2026-11-15 |
 | [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | 25 | ⭐ 2,966 | 2026-08-01 | 2026-11-06 |
 | [hledgerorg/hledger](../repos/hledgerorg/hledger.md) | 24 | ⭐ 4,814 | 2026-09-29 | 2026-11-07 |
-| [commercialhaskell/stack](../repos/commercialhaskell/stack.md) | 21 | ⭐ 4,081 | 2026-08-05 | 2026-11-06 |
+| [commercialhaskell/stack](../repos/commercialhaskell/stack.md) | 22 | ⭐ 4,084 | 2026-08-05 | 2026-11-15 |
 
 ---
 
@@ -135,4 +135,4 @@
 
 ---
 
-*Last updated: 2026-11-14T21:00:55.556Z*
+*Last updated: 2026-11-15T21:00:55.427Z*

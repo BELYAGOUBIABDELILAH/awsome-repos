@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 149
+- **Total Repositories**: 152
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-06
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [caezium/Burrow](../repos/caezium/Burrow.md) | ⭐ 1,778 | 2026-08-01 | 3 |
+| [rooootdev/lara](../repos/rooootdev/lara.md) | ⭐ 1,646 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/container](../repos/apple/container.md) | ⭐ 51,470 | 2026-08-01 | 22 |
+| [Aidoku/Aidoku](../repos/Aidoku/Aidoku.md) | ⭐ 4,755 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 28,794 | 2026-08-01 | 28 |
+| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | ⭐ 1,446 | 2026-09-13 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zachlatta/freeflow](../repos/zachlatta/freeflow.md) | ⭐ 3,104 | 2026-08-03 | 11 |
+| [ggml-org/Llama-macOS](../repos/ggml-org/Llama-macOS.md) | ⭐ 1,825 | 2026-10-06 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Aidoku/Aidoku](../repos/Aidoku/Aidoku.md) | ⭐ 4,748 | 2026-08-03 | 5 |
+| [bobsupra/NuvioTVOS](../repos/bobsupra/NuvioTVOS.md) | ⭐ 427 | 2026-10-11 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/coreai-models](../repos/apple/coreai-models.md) | ⭐ 2,346 | 2026-08-12 | 14 |
+| [hugeBlack/GetMoreRam](../repos/hugeBlack/GetMoreRam.md) | ⭐ 479 | 2026-10-17 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 15,311 | 2026-08-24 | 13 |
+| [milika/SmartTubeIOS](../repos/milika/SmartTubeIOS.md) | ⭐ 569 | 2026-10-28 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [farzaa/clicky](../repos/farzaa/clicky.md) | ⭐ 8,009 | 2026-09-04 | 9 |
+| [suversal/WrapPin](../repos/suversal/WrapPin.md) | ⭐ 921 | 2026-11-15 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | ⭐ 1,436 | 2026-09-13 | 12 |
+| [drumih/turbo-fieldfare](../repos/drumih/turbo-fieldfare.md) | ⭐ 7,392 | 2026-11-15 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chocoford/ExcalidrawZ](../repos/chocoford/ExcalidrawZ.md) | ⭐ 1,898 | 2026-11-14 | 1 |
+| [ResistanceTo/MiniWatts](../repos/ResistanceTo/MiniWatts.md) | ⭐ 509 | 2026-11-15 | 1 |
 
 
 ---
@@ -52,10 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [1lck/Lithe-IDEA](../repos/1lck/Lithe-IDEA.md) | ⭐ 2,357 | 2026-10-16 | A lightweight, cross-platform IDE for the AI era, with on-demand tools and services. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [hugeBlack/GetMoreRam](../repos/hugeBlack/GetMoreRam.md) | ⭐ 456 | 2026-10-17 | A simple AltSign wrapper app that allows you to enable &quot;Increased Memory Limit&quot; to your sideloade... |
+| [hugeBlack/GetMoreRam](../repos/hugeBlack/GetMoreRam.md) | ⭐ 479 | 2026-10-17 | A simple AltSign wrapper app that allows you to enable &quot;Increased Memory Limit&quot; to your sideloade... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [iFurySt/open-computer-use](../repos/iFurySt/open-computer-use.md) | ⭐ 2,963 | 2026-10-18 | 👾 Open Computer Use – Open-Source Alternative to Codex Computer Use |
@@ -76,10 +73,13 @@
 | [samhenrigold/LightTouchMac](../repos/samhenrigold/LightTouchMac.md) | ⭐ 293 | 2026-10-26 | Run classic iPhone, iPod touch and iPad apps on your Mac (iOS 1–7) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [milika/SmartTubeIOS](../repos/milika/SmartTubeIOS.md) | ⭐ 508 | 2026-10-28 | Native Swift&#x2F;SwiftUI YouTube client for iPhone, iPad, Apple TV &amp; Mac — ad-free, SponsorBlock, DeA... |
+| [milika/SmartTubeIOS](../repos/milika/SmartTubeIOS.md) | ⭐ 569 | 2026-10-28 | Native Swift&#x2F;SwiftUI YouTube client for iPhone, iPad, Apple TV &amp; Mac — ad-free, SponsorBlock, DeA... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [carloslfu/slotstream](../repos/carloslfu/slotstream.md) | ⭐ 605 | 2026-10-28 | Run a 105 GB AI model on a Mac that can&#39;t hold it. Qwen3.8-Flash-Next 4-bit, streamed from SSD on... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [cmagnussen/blitztext-app](../repos/cmagnussen/blitztext-app.md) | ⭐ 246 | 2026-10-28 | Local-first dictation for macOS. Speak, text, done. Parakeet or Whisper on your Mac, writing mode... |
 
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-14T21:00:55.618Z*
+*Last updated: 2026-11-15T21:00:55.480Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 346
+- **Total Repositories**: 352
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-11-13
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 39,342 | 2026-08-01 | 27 |
+| [XTLS/Xray-core](../repos/XTLS/Xray-core.md) | ⭐ 42,926 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tailscale/tailscale](../repos/tailscale/tailscale.md) | ⭐ 39,106 | 2026-08-02 | 8 |
+| [kubescape/kubescape](../repos/kubescape/kubescape.md) | ⭐ 11,917 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kubescape/kubescape](../repos/kubescape/kubescape.md) | ⭐ 11,899 | 2026-08-02 | 5 |
+| [meshery/meshery](../repos/meshery/meshery.md) | ⭐ 12,206 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [restic/restic](../repos/restic/restic.md) | ⭐ 37,225 | 2026-08-03 | 4 |
+| [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 90,478 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [projectdiscovery/nuclei](../repos/projectdiscovery/nuclei.md) | ⭐ 32,913 | 2026-08-04 | 8 |
+| [getlago/lago](../repos/getlago/lago.md) | ⭐ 10,876 | 2026-08-19 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wailsapp/wails](../repos/wailsapp/wails.md) | ⭐ 37,106 | 2026-08-05 | 9 |
+| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 51,948 | 2026-08-20 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opentofu/opentofu](../repos/opentofu/opentofu.md) | ⭐ 30,858 | 2026-08-15 | 5 |
+| [tailscale/tailcat](../repos/tailscale/tailcat.md) | ⭐ 9,932 | 2026-08-28 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [getlago/lago](../repos/getlago/lago.md) | ⭐ 10,854 | 2026-08-19 | 2 |
+| [jaegertracing/jaeger](../repos/jaegertracing/jaeger.md) | ⭐ 23,412 | 2026-09-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 51,343 | 2026-08-20 | 20 |
+| [google/ax](../repos/google/ax.md) | ⭐ 14,717 | 2026-09-22 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tailscale/tailcat](../repos/tailscale/tailcat.md) | ⭐ 9,810 | 2026-08-28 | 8 |
+| [Tencent/LoopForge](../repos/Tencent/LoopForge.md) | ⭐ 1,399 | 2026-11-11 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [jasonxu114514/opencode2api](../repos/jasonxu114514/opencode2api.md) | ⭐ 1,045 | 2026-10-16 | A Go-based OpenCode Zen &#x2F; Zen Go API proxy with OpenAI &amp; Anthropic API compatibility, key&#x2F;proxy p... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [GoogleCloudPlatform/scion](../repos/GoogleCloudPlatform/scion.md) | ⭐ 1,949 | 2026-10-16 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [prometheus/node_exporter](../repos/prometheus/node_exporter.md) | ⭐ 13,847 | 2026-10-16 | Exporter for machine metrics |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [bia-pain-bache/BPB-Wizard](../repos/bia-pain-bache/BPB-Wizard.md) | ⭐ 1,073 | 2026-10-17 | A wizard to facilitate BPB Panel deployment and management. |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Asymptote-Labs/agent-beacon](../repos/Asymptote-Labs/agent-beacon.md) | ⭐ 2,698 | 2026-10-21 | The cross-harness, self-improving memory layer for AI agents. Join our community: https:&#x2F;&#x2F;discord... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [DataDog/dd-trace-go](../repos/DataDog/dd-trace-go.md) | ⭐ 861 | 2026-10-21 | Datadog Go Library including APM tracing, profiling, and security monitoring. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [fleetdm/fleet](../repos/fleetdm/fleet.md) | ⭐ 7,142 | 2026-10-23 | Open device management |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [php/frankenphp](../repos/php/frankenphp.md) | ⭐ 11,457 | 2026-10-23 | 🧟 The modern PHP app server |
 
 
 ---
@@ -93,7 +93,7 @@
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 129,032 | 2026-08-04 | 15 |
 | [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,859 | 2026-08-15 | 14 |
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 93,967 | 2026-08-06 | 15 |
-| [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 90,245 | 2026-08-03 | 4 |
+| [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 90,478 | 2026-08-03 | 5 |
 | [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,599 | 2026-08-05 | 6 |
 | [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 81,063 | 2026-08-12 | 8 |
 | [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 78,808 | 2026-08-03 | 9 |
@@ -104,8 +104,8 @@
 | [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | 2 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 56,051 | 2026-08-01 | 29 |
 | [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,668 | 2026-08-22 | 7 |
+| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 51,948 | 2026-08-20 | 21 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 51,364 | 2026-08-01 | 22 |
-| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 51,343 | 2026-08-20 | 20 |
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,305 | 2026-08-04 | 3 |
 | [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 50,430 | 2026-08-03 | 2 |
 
@@ -121,8 +121,8 @@
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 27 | ⭐ 39,342 | 2026-08-01 | 2026-11-14 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 25 | ⭐ 6,586 | 2026-08-02 | 2026-11-13 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 22 | ⭐ 51,364 | 2026-08-01 | 2026-11-04 |
+| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 21 | ⭐ 51,948 | 2026-08-20 | 2026-11-15 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 20 | ⭐ 45,097 | 2026-08-07 | 2026-10-29 |
-| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 20 | ⭐ 51,343 | 2026-08-20 | 2026-11-14 |
 | [golang/go](../repos/golang/go.md) | 19 | ⭐ 139,873 | 2026-07-31 | 2026-11-12 |
 | [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | 18 | ⭐ 1,031 | 2026-08-01 | 2026-11-04 |
 
@@ -159,6 +159,7 @@
 - [tailscale/tailscale](../repos/tailscale/tailscale.md) - The easiest, most secure way to use WireGuard and 2FA.
 - [1Panel-dev/1Panel](../repos/1Panel-dev/1Panel.md) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent supp...
 - [kubescape/kubescape](../repos/kubescape/kubescape.md) - Kubescape is an open-source Kubernetes security platform for your IDE, CI&#x2F;CD pipelines, and clust...
+- [meshery/meshery](../repos/meshery/meshery.md) - Meshery, the cloud native manager
 - [lharries/whatsapp-mcp](../repos/lharries/whatsapp-mcp.md) - WhatsApp MCP server
 - [bettercap/bettercap](../repos/bettercap/bettercap.md) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MIT...
 - [krillinai/KrillinAI](../repos/krillinai/KrillinAI.md) - AI video translation &amp; dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: dow...
@@ -229,8 +230,7 @@
 - [OpenListTeam/OpenList](../repos/OpenListTeam/OpenList.md) - A new AList Fork to Anti Trust Crisis
 - [grafana/loki](../repos/grafana/loki.md) - Like Prometheus, but for logs.
 - [henrygd/beszel](../repos/henrygd/beszel.md) - Lightweight server monitoring with historical data, docker stats, and alerts.
-- [github/gh-aw](../repos/github/gh-aw.md) - GitHub Agentic Workflows
 
 ---
 
-*Last updated: 2026-11-14T21:00:55.550Z*
+*Last updated: 2026-11-15T21:00:55.421Z*

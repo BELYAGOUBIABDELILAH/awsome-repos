@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 325
+- **Total Repositories**: 328
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-07
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 51,428 | 2026-08-01 | 7 |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 56,843 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 56,223 | 2026-08-01 | 17 |
+| [dream-num/univer](../repos/dream-num/univer.md) | ⭐ 25,517 | 2026-08-05 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Narcooo/inkos](../repos/Narcooo/inkos.md) | ⭐ 11,181 | 2026-08-02 | 3 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 52,845 | 2026-08-07 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dream-num/univer](../repos/dream-num/univer.md) | ⭐ 24,416 | 2026-08-05 | 9 |
+| [google-labs-code/stitch-skills](../repos/google-labs-code/stitch-skills.md) | ⭐ 9,231 | 2026-08-22 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CherryHQ/cherry-studio](../repos/CherryHQ/cherry-studio.md) | ⭐ 53,514 | 2026-08-06 | 2 |
+| [backnotprop/plannotator](../repos/backnotprop/plannotator.md) | ⭐ 11,761 | 2026-08-26 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [QwenLM/qwen-code](../repos/QwenLM/qwen-code.md) | ⭐ 30,285 | 2026-08-06 | 6 |
+| [ag-ui-protocol/ag-ui](../repos/ag-ui-protocol/ag-ui.md) | ⭐ 17,772 | 2026-10-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [backnotprop/plannotator](../repos/backnotprop/plannotator.md) | ⭐ 11,016 | 2026-08-26 | 10 |
+| [elder-plinius/G0DM0D3](../repos/elder-plinius/G0DM0D3.md) | ⭐ 12,416 | 2026-10-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [a2ui-project/a2ui](../repos/a2ui-project/a2ui.md) | ⭐ 17,358 | 2026-09-02 | 3 |
+| [GoogleChrome/modern-web-guidance-src](../repos/GoogleChrome/modern-web-guidance-src.md) | ⭐ 7,028 | 2026-11-11 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ag-ui-protocol/ag-ui](../repos/ag-ui-protocol/ag-ui.md) | ⭐ 17,307 | 2026-10-01 | 2 |
+| [motiondivision/motion](../repos/motiondivision/motion.md) | ⭐ 35,232 | 2026-11-15 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex-security](../repos/openai/codex-security.md) | ⭐ 13,519 | 2026-10-08 | 5 |
+| [assistant-ui/assistant-ui](../repos/assistant-ui/assistant-ui.md) | ⭐ 13,237 | 2026-11-15 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [LibreSpark/LibreTV](../repos/LibreSpark/LibreTV.md) | ⭐ 24,455 | 2026-10-16 | 一分钟搭建影视站，支持Docker等部署方式 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [desktop/desktop](../repos/desktop/desktop.md) | ⭐ 21,961 | 2026-10-16 | Focus on what matters instead of fighting with Git. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [superdesigndev/superdesign](../repos/superdesigndev/superdesign.md) | ⭐ 7,429 | 2026-10-16 | AI Product Design Agent - Open Source |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [elie222/rakazo](../repos/elie222/rakazo.md) | ⭐ 7,688 | 2026-10-17 | Open-source Grok Bot alternative. Choose your own model and sandbox. |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [PC2005-cloud/dsh-pet](../repos/PC2005-cloud/dsh-pet.md) | ⭐ 3,057 | 2026-10-20 | DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [genspark-ai/genoffice](../repos/genspark-ai/genoffice.md) | ⭐ 10,649 | 2026-10-22 | Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a bu... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [bowenliang123/dsh-context](../repos/bowenliang123/dsh-context.md) | ⭐ 3,474 | 2026-10-22 | The best DeepSeek Harness plugin for context insight and management, with context dashboard &#x2F; bro... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [CopilotKit/OpenBot](../repos/CopilotKit/OpenBot.md) | ⭐ 12,264 | 2026-10-22 | Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with ... |
 
 
 ---
@@ -119,11 +119,11 @@
 | [cursor/plugins](../repos/cursor/plugins.md) | 24 | ⭐ 14,334 | 2026-08-01 | 2026-10-27 |
 | [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 23 | ⭐ 74,642 | 2026-08-08 | 2026-10-28 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | 21 | ⭐ 154,905 | 2026-08-07 | 2026-11-07 |
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 20 | ⭐ 46,688 | 2026-08-07 | 2026-11-03 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 21 | ⭐ 52,845 | 2026-08-07 | 2026-11-15 |
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 20 | ⭐ 78,178 | 2026-08-10 | 2026-10-21 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 19 | ⭐ 48,123 | 2026-08-01 | 2026-11-05 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 19 | ⭐ 140,636 | 2026-08-02 | 2026-11-07 |
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 17 | ⭐ 56,223 | 2026-08-01 | 2026-11-14 |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 18 | ⭐ 56,843 | 2026-08-01 | 2026-11-15 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 14 | ⭐ 34,200 | 2026-08-02 | 2026-10-03 |
 
 ---
@@ -162,7 +162,6 @@
 - [iptv-org/iptv](../repos/iptv-org/iptv.md) - Collection of publicly available IPTV channels from all over the world
 - [karakeep-app/karakeep](../repos/karakeep-app/karakeep.md) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging...
 - [darkreader/darkreader](../repos/darkreader/darkreader.md) - Dark Reader Chrome and Firefox extension
-- [meshery/meshery](../repos/meshery/meshery.md) - Meshery, the cloud native manager
 - [CodebuffAI/codebuff](../repos/CodebuffAI/codebuff.md) - Generate code from the terminal!
 - [cypress-io/cypress](../repos/cypress-io/cypress.md) - Fast, easy and reliable testing for anything that runs in a browser.
 - [angular/angular](../repos/angular/angular.md) - Deliver web apps with confidence 🚀
@@ -187,7 +186,7 @@
 - [KnockOutEZ/wigolo](../repos/KnockOutEZ/wigolo.md) - The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No...
 - [promptfoo/promptfoo](../repos/promptfoo/promptfoo.md) - Test your prompts, agents, and RAGs. Red teaming&#x2F;pentesting&#x2F;vulnerability scanning for AI. Compar...
 - [anthropics/claude-code](../repos/anthropics/claude-code.md) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...
-- [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one &#x2F;v1...
+- [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) - 10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one ...
 - [open-mercato/open-mercato](../repos/open-mercato/open-mercato.md) - AI-Engineering Foundation Framework built with AI and designed for AI. Hundreds of architectural ...
 - [payloadcms/payload](../repos/payloadcms/payload.md) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. ...
 - [CodebuffAI/freebuff](../repos/CodebuffAI/freebuff.md) - The free coding agent
@@ -230,7 +229,8 @@
 - [every-app/open-seo](../repos/every-app/open-seo.md) - Open source alternative to Semrush and Ahrefs
 - [documenso/documenso](../repos/documenso/documenso.md) - The Open Source DocuSign Alternative.
 - [vercel-labs/deepsec](../repos/vercel-labs/deepsec.md) - Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
+- [upscayl/upscayl](../repos/upscayl/upscayl.md) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 
 ---
 
-*Last updated: 2026-11-14T21:00:55.622Z*
+*Last updated: 2026-11-15T21:00:55.483Z*

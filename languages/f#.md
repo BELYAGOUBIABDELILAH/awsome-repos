@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 6
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-14
+- **Last Updated**: 2026-11-15
 
 ---
 
@@ -16,7 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,352 | 2026-08-01 | 47 |
+| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,352 | 2026-08-01 | 48 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [fsprojects/Paket](../repos/fsprojects/Paket.md) | ⭐ 2,096 | 2026-08-09 | 18 |
 
 
 ---
@@ -37,9 +40,9 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,352 | 2026-08-01 | 47 |
+| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,352 | 2026-08-01 | 48 |
 | [fable-compiler/Fable](../repos/fable-compiler/Fable.md) | ⭐ 3,161 | 2026-10-07 | 12 |
-| [fsprojects/Paket](../repos/fsprojects/Paket.md) | ⭐ 2,094 | 2026-08-09 | 17 |
+| [fsprojects/Paket](../repos/fsprojects/Paket.md) | ⭐ 2,096 | 2026-08-09 | 18 |
 | [fsprojects/FAKE](../repos/fsprojects/FAKE.md) | ⭐ 1,325 | 2026-10-26 | 1 |
 | [leafOfTree/WindowTabs](../repos/leafOfTree/WindowTabs.md) | ⭐ 1,034 | 2026-10-25 | 3 |
 | [dotnet/performance](../repos/dotnet/performance.md) | ⭐ 771 | 2026-08-07 | 1 |
@@ -50,8 +53,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [dotnet/fsharp](../repos/dotnet/fsharp.md) | 47 | ⭐ 4,352 | 2026-08-01 | 2026-11-14 |
-| [fsprojects/Paket](../repos/fsprojects/Paket.md) | 17 | ⭐ 2,094 | 2026-08-09 | 2026-11-06 |
+| [dotnet/fsharp](../repos/dotnet/fsharp.md) | 48 | ⭐ 4,352 | 2026-08-01 | 2026-11-15 |
+| [fsprojects/Paket](../repos/fsprojects/Paket.md) | 18 | ⭐ 2,096 | 2026-08-09 | 2026-11-15 |
 | [fable-compiler/Fable](../repos/fable-compiler/Fable.md) | 12 | ⭐ 3,161 | 2026-10-07 | 2026-11-06 |
 | [leafOfTree/WindowTabs](../repos/leafOfTree/WindowTabs.md) | 3 | ⭐ 1,034 | 2026-10-25 | 2026-11-09 |
 | [dotnet/performance](../repos/dotnet/performance.md) | 1 | ⭐ 771 | 2026-08-07 | 2026-08-07 |
@@ -70,4 +73,4 @@
 
 ---
 
-*Last updated: 2026-11-14T21:00:55.546Z*
+*Last updated: 2026-11-15T21:00:55.417Z*

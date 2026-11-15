@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | TypeScript |
+| **Language** | Go |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 11,424 |
-| **Forks** | 🍴 3,614 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 12,206 |
+| **Forks** | 🍴 4,188 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Aug 3, 2026 |
+| **Last Seen** | Nov 15, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in TypeScript or cloud-native*
+*Similar: Check repositories in Go or cloud-native*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`cloud-native`](../../topics/cloud-native.md) [`cncf`](../../topics/cncf.md) [`control-plane`](../../topics/control-plane.md) [`docker`](../../topics/docker.md) [`gitops`](../../topics/gitops.md) [`golang`](../../topics/golang.md) [`gsoc`](../../topics/gsoc.md) [`hacktoberfest`](../../topics/hacktoberfest.md) [`infrastructure-as-code`](../../topics/infrastructure-as-code.md) [`internal-developer-platform`](../../topics/internal-developer-platform.md) [`kanvas`](../../topics/kanvas.md) [`kubernetes`](../../topics/kubernetes.md) [`kubernetes-operator`](../../topics/kubernetes-operator.md) [`management-plane`](../../topics/management-plane.md) [`meshery`](../../topics/meshery.md) [`opa`](../../topics/opa.md) [`platform-engineering`](../../topics/platform-engineering.md) [`reactjs`](../../topics/reactjs.md) [`visualization`](../../topics/visualization.md) [`webassembly`](../../topics/webassembly.md) 
+[`cloud-native`](../../topics/cloud-native.md) [`cncf`](../../topics/cncf.md) [`control-plane`](../../topics/control-plane.md) [`gitops`](../../topics/gitops.md) [`golang`](../../topics/golang.md) [`gsoc`](../../topics/gsoc.md) [`hacktoberfest`](../../topics/hacktoberfest.md) [`infrastructure-as-code`](../../topics/infrastructure-as-code.md) [`internal-developer-platform`](../../topics/internal-developer-platform.md) [`kanvas`](../../topics/kanvas.md) [`kubernetes`](../../topics/kubernetes.md) [`kubernetes-operator`](../../topics/kubernetes-operator.md) [`management-plane`](../../topics/management-plane.md) [`meshery`](../../topics/meshery.md) [`opa`](../../topics/opa.md) [`platform-engineering`](../../topics/platform-engineering.md) [`reactjs`](../../topics/reactjs.md) [`support-official`](../../topics/support-official.md) [`visualization`](../../topics/visualization.md) [`webassembly`](../../topics/webassembly.md) 
 
 ### Curated Categories
 `Web Development` `Cloud &amp; Infrastructure` `Containers &amp; Orchestration` `Systems Programming` 
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Average | Basic documentation available |
-| **Community** | Very Active | 11,424+ stars, strong contributor base |
+| **Community** | Very Active | 12,206+ stars, strong contributor base |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -81,15 +81,15 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in TypeScript
+- Check similar projects in Go
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-14T21:00:57.947Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-11-15T21:00:57.806Z*  
+*Data from 2 trending reports*

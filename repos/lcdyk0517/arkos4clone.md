@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | Shell |
+| **Language** | C |
 | **License** | MIT |
-| **Stars** | ⭐ 718 |
-| **Forks** | 🍴 464 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 796 |
+| **Forks** | 🍴 542 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Sep 28, 2026 |
+| **Last Seen** | Nov 15, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Shell or similar-topics*
+*Similar: Check repositories in C or similar-topics*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 2 days
 
 ---
@@ -68,11 +68,11 @@
 
 | Aspect | Rating | Details |
 |--------|--------|---------|
-| **Difficulty** | Beginner | Approachable with good examples |
+| **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 718+ stars, strong contributor base |
+| **Community** | Very Active | 796+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -81,7 +81,7 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in Shell
+- Check similar projects in C
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-14T21:00:57.755Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-11-15T21:00:57.620Z*  
+*Data from 8 trending reports*

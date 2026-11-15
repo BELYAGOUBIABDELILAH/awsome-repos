@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Nim |
 | **License** | MIT |
-| **Stars** | ⭐ 457 |
-| **Forks** | 🍴 54 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 470 |
+| **Forks** | 🍴 57 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 28, 2026 |
-| **Last Seen** | Oct 29, 2026 |
+| **Last Seen** | Nov 15, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 2 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 40&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-14T21:01:01.559Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-11-15T21:01:00.828Z*  
+*Data from 3 trending reports*
