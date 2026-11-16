@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 91
+**Gems Found**: 82
 
 ---
 
@@ -19,7 +19,7 @@
 |---|---|
 | ⭐ **Stars** | 659 |
 | 💻 **Language** | Go |
-| 🏆 **Gem Score** | 86/100 |
+| 🏆 **Gem Score** | 85/100 |
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Aug 19, 2026 |
 
@@ -179,7 +179,7 @@
 |---|---|
 | ⭐ **Stars** | 13,929 |
 | 💻 **Language** | Python |
-| 🏆 **Gem Score** | 73/100 |
+| 🏆 **Gem Score** | 72/100 |
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Aug 11, 2026 |
 
@@ -191,27 +191,7 @@
 
 ---
 
-### 10. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
-
-**Portable Tool for an Ideal Windows Setup**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,621 |
-| 💻 **Language** | C# |
-| 🏆 **Gem Score** | 73/100 |
-| 📈 **Trending Days** | 2 |
-| 📅 **First Seen** | Aug 24, 2026 |
-
-**Why it's a gem**: High growth velocity (+52 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/Greedeks/GTweak.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Greedeks&#x2F;GTweak)
-
----
-
-### 11. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
+### 10. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
 
 **Visualize your year in travel using your Google Location History (Timeline) data**
 
@@ -231,7 +211,7 @@
 
 ---
 
-### 12. [Tencent&#x2F;AI-Infra-Guard](../../repos/Tencent/AI-Infra-Guard.md)
+### 11. [Tencent&#x2F;AI-Infra-Guard](../../repos/Tencent/AI-Infra-Guard.md)
 
 **A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.**
 
@@ -248,6 +228,26 @@
 **Best for**: 
 
 [View Passport](../../repos/Tencent/AI-Infra-Guard.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Tencent&#x2F;AI-Infra-Guard)
+
+---
+
+### 12. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
+
+**Portable Tool for an Ideal Windows Setup**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,621 |
+| 💻 **Language** | C# |
+| 🏆 **Gem Score** | 72/100 |
+| 📈 **Trending Days** | 2 |
+| 📅 **First Seen** | Aug 24, 2026 |
+
+**Why it's a gem**: High growth velocity (+52 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/Greedeks/GTweak.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Greedeks&#x2F;GTweak)
 
 ---
 
@@ -371,27 +371,7 @@
 
 ---
 
-### 19. [laude-institute&#x2F;headlong](../../repos/laude-institute/headlong.md)
-
-**An open source agent microharness featuring persistent agency and recursive LLMs. Of bash, by bash, for bash; it&#39;s shells all the way down.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 921 |
-| 💻 **Language** | Shell |
-| 🏆 **Gem Score** | 67/100 |
-| 📈 **Trending Days** | 2 |
-| 📅 **First Seen** | Aug 26, 2026 |
-
-**Why it's a gem**: High growth velocity (+264 stars&#x2F;day) • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/laude-institute/headlong.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;laude-institute&#x2F;headlong)
-
----
-
-### 20. [kitknox&#x2F;rootshell](../../repos/kitknox/rootshell.md)
+### 19. [kitknox&#x2F;rootshell](../../repos/kitknox/rootshell.md)
 
 **rootshell - The terminal, reimagined for Apple platforms**
 
@@ -411,6 +391,26 @@
 
 ---
 
+### 20. [shy3130&#x2F;tickflow-stock-panel](../../repos/shy3130/tickflow-stock-panel.md)
+
+**TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3,455 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 66/100 |
+| 📈 **Trending Days** | 1 |
+| 📅 **First Seen** | Aug 22, 2026 |
+
+**Why it's a gem**: High growth velocity (+90 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/shy3130/tickflow-stock-panel.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;shy3130&#x2F;tickflow-stock-panel)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-15T21:01:01.369Z*  
+*Generated: 2026-11-16T21:00:59.181Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

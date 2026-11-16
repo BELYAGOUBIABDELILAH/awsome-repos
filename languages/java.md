@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 231
+- **Total Repositories**: 233
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-10
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | ⭐ 29,861 | 2026-08-02 | 17 |
+| [apache/maven](../repos/apache/maven.md) | ⭐ 5,376 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MojoLauncher/MojoLauncher](../repos/MojoLauncher/MojoLauncher.md) | ⭐ 1,088 | 2026-08-02 | 12 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 28,113 | 2026-08-02 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 28,086 | 2026-08-02 | 24 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,655 | 2026-08-02 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Creators-of-Create/Create](../repos/Creators-of-Create/Create.md) | ⭐ 4,618 | 2026-08-02 | 6 |
+| [RikkaApps/Shizuku-API](../repos/RikkaApps/Shizuku-API.md) | ⭐ 2,791 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ModinMobileSTS/Sts2MobileLauncher](../repos/ModinMobileSTS/Sts2MobileLauncher.md) | ⭐ 599 | 2026-08-02 | 4 |
+| [cabaletta/baritone](../repos/cabaletta/baritone.md) | ⭐ 9,359 | 2026-08-03 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cabaletta/baritone](../repos/cabaletta/baritone.md) | ⭐ 9,358 | 2026-08-03 | 12 |
+| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 36,400 | 2026-08-04 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 36,365 | 2026-08-04 | 23 |
+| [microg/GmsCore](../repos/microg/GmsCore.md) | ⭐ 15,343 | 2026-08-06 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [StarRocks/starrocks](../repos/StarRocks/starrocks.md) | ⭐ 12,254 | 2026-08-05 | 16 |
+| [FCL-Team/FoldCraftLauncher](../repos/FCL-Team/FoldCraftLauncher.md) | ⭐ 5,211 | 2026-08-17 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [freeok/so-novel](../repos/freeok/so-novel.md) | ⭐ 9,029 | 2026-08-11 | 9 |
+| [00-Evan/shattered-pixel-dungeon](../repos/00-Evan/shattered-pixel-dungeon.md) | ⭐ 6,810 | 2026-08-17 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HMCL-dev/HMCL](../repos/HMCL-dev/HMCL.md) | ⭐ 10,993 | 2026-08-23 | 9 |
+| [RikkaApps/Sui](../repos/RikkaApps/Sui.md) | ⭐ 4,386 | 2026-09-13 | 3 |
 
 
 ---
@@ -90,7 +90,7 @@
 |------------|-------|------------|---------------|
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 99,333 | 2026-08-03 | 32 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,904 | 2026-08-04 | 23 |
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,673 | 2026-08-02 | 26 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,655 | 2026-08-02 | 27 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 67,230 | 2026-08-04 | 14 |
 | [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,508 | 2026-08-08 | 3 |
@@ -107,7 +107,7 @@
 | [PhilJay/MPAndroidChart](../repos/PhilJay/MPAndroidChart.md) | ⭐ 38,169 | 2026-09-21 | 1 |
 | [alibaba/arthas](../repos/alibaba/arthas.md) | ⭐ 37,526 | 2026-08-28 | 2 |
 | [doocs/leetcode](../repos/doocs/leetcode.md) | ⭐ 36,511 | 2026-08-08 | 5 |
-| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 36,365 | 2026-08-04 | 23 |
+| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 36,400 | 2026-08-04 | 24 |
 
 ---
 
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 34 | ⭐ 6,364 | 2026-08-05 | 2026-11-13 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 32 | ⭐ 99,333 | 2026-08-03 | 2026-11-10 |
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 26 | ⭐ 78,673 | 2026-08-02 | 2026-11-12 |
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 24 | ⭐ 28,086 | 2026-08-02 | 2026-11-15 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 27 | ⭐ 78,655 | 2026-08-02 | 2026-11-16 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 25 | ⭐ 28,113 | 2026-08-02 | 2026-11-16 |
 | [kestra-io/kestra](../repos/kestra-io/kestra.md) | 24 | ⭐ 30,163 | 2026-08-04 | 2026-11-06 |
-| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 23 | ⭐ 36,365 | 2026-08-04 | 2026-11-15 |
+| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 24 | ⭐ 36,400 | 2026-08-04 | 2026-11-16 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 23 | ⭐ 81,904 | 2026-08-04 | 2026-11-12 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 22 | ⭐ 43,363 | 2026-08-05 | 2026-11-13 |
+| [microg/GmsCore](../repos/microg/GmsCore.md) | 22 | ⭐ 15,343 | 2026-08-06 | 2026-11-16 |
 | [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | 22 | ⭐ 7,664 | 2026-08-14 | 2026-11-14 |
-| [microg/GmsCore](../repos/microg/GmsCore.md) | 21 | ⭐ 15,287 | 2026-08-06 | 2026-11-12 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-15T21:00:55.429Z*
+*Last updated: 2026-11-16T21:00:54.492Z*

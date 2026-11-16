@@ -16,28 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Euro-Office/DesktopEditors](../repos/Euro-Office/DesktopEditors.md) | ⭐ 945 | 2026-08-01 | 18 |
+| [microsoft/hve-core](../repos/microsoft/hve-core.md) | ⭐ 1,620 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | ⭐ 545 | 2026-08-04 | 27 |
+| [Euro-Office/DesktopEditors](../repos/Euro-Office/DesktopEditors.md) | ⭐ 975 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,577 | 2026-08-04 | 12 |
+| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | ⭐ 545 | 2026-08-04 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Atlas-OS/Atlas](../repos/Atlas-OS/Atlas.md) | ⭐ 22,119 | 2026-11-05 | 9 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [dhicoc/dsh-reverse-skill](../repos/dhicoc/dsh-reverse-skill.md) | ⭐ 350 | 2026-11-06 | 3 |
+| [Atlas-OS/Atlas](../repos/Atlas-OS/Atlas.md) | ⭐ 22,127 | 2026-11-05 | 10 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [microsoft/Windows-Sandbox](../repos/microsoft/Windows-Sandbox.md) | ⭐ 577 | 2026-10-17 | Disposable, secure and lightweight Windows Desktop Environment |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [javaht/claude-desktop-zh-cn](../repos/javaht/claude-desktop-zh-cn.md) | ⭐ 8,542 | 2026-10-23 | Claude Desktop Chinese Patch (macOS &amp; Windows &amp; Linux) |
@@ -55,7 +49,7 @@
 | [irzyxa/Volume2](../repos/irzyxa/Volume2.md) | ⭐ 1,402 | 2026-11-02 | Volume² - advanced Windows volume control. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Atlas-OS/Atlas](../repos/Atlas-OS/Atlas.md) | ⭐ 22,119 | 2026-11-05 | 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and... |
+| [Atlas-OS/Atlas](../repos/Atlas-OS/Atlas.md) | ⭐ 22,127 | 2026-11-05 | 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/AL-Go](../repos/microsoft/AL-Go.md) | ⭐ 513 | 2026-11-05 | The plug-and-play DevOps solution for Business Central app development on GitHub |
@@ -65,6 +59,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [auto-yui-patch/fiddler-everywhere-patch-automated](../repos/auto-yui-patch/fiddler-everywhere-patch-automated.md) | ⭐ 814 | 2026-11-06 | Want Fiddler Everywhere Enterprise for Free? Then Patch it! Patch any version Automatically! |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Azure/Azure-Landing-Zones](../repos/Azure/Azure-Landing-Zones.md) | ⭐ 104 | 2026-11-06 | Azure Landing Zones documentation |
 
 
 ---
@@ -74,7 +71,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 36,799 | 2026-08-01 | 20 |
-| [Atlas-OS/Atlas](../repos/Atlas-OS/Atlas.md) | ⭐ 22,119 | 2026-11-05 | 9 |
+| [Atlas-OS/Atlas](../repos/Atlas-OS/Atlas.md) | ⭐ 22,127 | 2026-11-05 | 10 |
 | [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,077 | 2026-08-02 | 20 |
 | [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,799 | 2026-08-09 | 2 |
 | [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,590 | 2026-08-01 | 63 |
@@ -106,7 +103,7 @@
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 33 | ⭐ 8,610 | 2026-08-01 | 2026-11-11 |
 | [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 29 | ⭐ 3,576 | 2026-08-01 | 2026-11-12 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 29 | ⭐ 6,178 | 2026-08-01 | 2026-11-11 |
-| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 27 | ⭐ 545 | 2026-08-04 | 2026-11-15 |
+| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 28 | ⭐ 545 | 2026-08-04 | 2026-11-16 |
 | [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 26 | ⭐ 1,574 | 2026-08-01 | 2026-11-07 |
 | [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | 24 | ⭐ 9,321 | 2026-08-06 | 2026-11-13 |
 | [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | 22 | ⭐ 2,801 | 2026-08-11 | 2026-11-14 |
@@ -185,4 +182,4 @@
 
 ---
 
-*Last updated: 2026-11-15T21:00:55.460Z*
+*Last updated: 2026-11-16T21:00:54.526Z*

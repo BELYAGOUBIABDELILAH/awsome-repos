@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Dart |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 1,642 |
-| **Forks** | 🍴 178 |
-| **Trending Days** | 12 |
+| **Stars** | ⭐ 1,788 |
+| **Forks** | 🍴 201 |
+| **Trending Days** | 13 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 13, 2026 |
-| **Last Seen** | Nov 9, 2026 |
+| **Last Seen** | Nov 16, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 12
+- **Trending Days**: 13
 - **Longest Streak**: 4 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`android`](../../topics/android.md) [`bodybuilding`](../../topics/bodybuilding.md) [`dart`](../../topics/dart.md) [`exercises`](../../topics/exercises.md) [`f-droid`](../../topics/f-droid.md) [`fitness`](../../topics/fitness.md) [`flutter`](../../topics/flutter.md) [`gym`](../../topics/gym.md) [`gym-app`](../../topics/gym-app.md) [`health`](../../topics/health.md) [`privacy`](../../topics/privacy.md) [`workout`](../../topics/workout.md) [`workout-app`](../../topics/workout-app.md) [`workout-tracker`](../../topics/workout-tracker.md) 
+[`android`](../../topics/android.md) [`bodybuilding`](../../topics/bodybuilding.md) [`dart`](../../topics/dart.md) [`exercises`](../../topics/exercises.md) [`f-droid`](../../topics/f-droid.md) [`fitness`](../../topics/fitness.md) [`flutter`](../../topics/flutter.md) [`gym`](../../topics/gym.md) [`gym-app`](../../topics/gym-app.md) [`health`](../../topics/health.md) [`privacy`](../../topics/privacy.md) [`self-hosted`](../../topics/self-hosted.md) [`workout`](../../topics/workout.md) [`workout-app`](../../topics/workout-app.md) [`workout-tracker`](../../topics/workout-tracker.md) 
 
 ### Curated Categories
 `Frontend Development` `Mobile Development` `Systems Programming` 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-15T21:01:00.573Z*  
-*Data from 12 trending reports*
+*Last updated: 2026-11-16T21:00:58.562Z*  
+*Data from 13 trending reports*

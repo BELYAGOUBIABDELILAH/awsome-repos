@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Java |
 | **License** | MIT |
-| **Stars** | ⭐ 36,365 |
-| **Forks** | 🍴 2,329 |
-| **Trending Days** | 23 |
+| **Stars** | ⭐ 36,400 |
+| **Forks** | 🍴 2,336 |
+| **Trending Days** | 24 |
 | **Peak Rank** | #9 |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Nov 15, 2026 |
+| **Last Seen** | Nov 16, 2026 |
 
 
 ---
@@ -49,7 +49,7 @@
 ### Highlights
 
 - **Peak Rank**: #9
-- **Trending Days**: 23
+- **Trending Days**: 24
 - **Longest Streak**: 5 days
 
 ---
@@ -93,5 +93,5 @@
 
 ---
 
-*Last updated: 2026-11-15T21:00:58.004Z*  
-*Data from 23 trending reports*
+*Last updated: 2026-11-16T21:00:56.554Z*  
+*Data from 24 trending reports*

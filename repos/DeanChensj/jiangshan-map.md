@@ -1,6 +1,6 @@
 # DeanChensj&#x2F;jiangshan-map
 
-> 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 164 territory snapshots, ancient-to-modern place genealogy &amp; classical poetry routes
+> 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy &amp; classical poetry routes
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;DeanChensj&#x2F;jiangshan-map) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | JavaScript |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 5,239 |
-| **Forks** | 🍴 613 |
-| **Trending Days** | 3 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 6,652 |
+| **Forks** | 🍴 782 |
+| **Trending Days** | 4 |
+| **Peak Rank** | #7 |
 
 | **First Seen** | Nov 2, 2026 |
-| **Last Seen** | Nov 10, 2026 |
+| **Last Seen** | Nov 16, 2026 |
 
 
 ---
@@ -43,11 +43,12 @@
 
 ## Trending Timeline
 
+**Nov 16, 2026** — Rank #7 (+285 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Peak Rank**: #7
+- **Trending Days**: 4
 - **Longest Streak**: 2 days
 
 ---
@@ -85,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 50&#x2F;100
-- **Historical Rank**: No ranking data
+- **Trending Score**: 65&#x2F;100
+- **Historical Rank**: Top 10 (Peak: #7)
 
 
 ---
 
-*Last updated: 2026-11-15T21:01:00.856Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-11-16T21:00:58.779Z*  
+*Data from 4 trending reports*

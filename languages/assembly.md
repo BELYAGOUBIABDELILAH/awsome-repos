@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 53
+- **Total Repositories**: 54
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-10
+- **Last Updated**: 2026-11-16
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | ⭐ 469 | 2026-08-01 | 74 |
+| [pret/pokered](../repos/pret/pokered.md) | ⭐ 5,037 | 2026-08-01 | 56 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aws/aws-lc](../repos/aws/aws-lc.md) | ⭐ 865 | 2026-08-01 | 63 |
+| [riscv-software-src/riscv-tests](../repos/riscv-software-src/riscv-tests.md) | ⭐ 1,264 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [riscv-software-src/riscv-tests](../repos/riscv-software-src/riscv-tests.md) | ⭐ 1,263 | 2026-08-01 | 25 |
+| [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | ⭐ 18,923 | 2026-08-01 | 58 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pret/pokecrystal](../repos/pret/pokecrystal.md) | ⭐ 2,552 | 2026-08-01 | 45 |
+| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | ⭐ 1,696 | 2026-08-01 | 59 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | ⭐ 1,695 | 2026-08-01 | 58 |
+| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | ⭐ 6,532 | 2026-08-01 | 57 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | ⭐ 6,529 | 2026-08-01 | 56 |
+| [ebitengine/purego](../repos/ebitengine/purego.md) | ⭐ 4,120 | 2026-08-04 | 56 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [riscv/riscv-arch-test](../repos/riscv/riscv-arch-test.md) | ⭐ 813 | 2026-08-02 | 49 |
+| [JSsixtyfour/smashremix](../repos/JSsixtyfour/smashremix.md) | ⭐ 973 | 2026-08-10 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/arrow-go](../repos/apache/arrow-go.md) | ⭐ 421 | 2026-08-07 | 34 |
+| [Cpasjuste/pemu](../repos/Cpasjuste/pemu.md) | ⭐ 531 | 2026-08-22 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JSsixtyfour/smashremix](../repos/JSsixtyfour/smashremix.md) | ⭐ 973 | 2026-08-10 | 26 |
+| [joaorb64/smashremix-plus-extra](../repos/joaorb64/smashremix-plus-extra.md) | ⭐ 146 | 2026-08-24 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kanaka/mal](../repos/kanaka/mal.md) | ⭐ 10,761 | 2026-08-11 | 22 |
+| [SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port](../repos/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port.md) | ⭐ 318 | 2026-11-04 | 9 |
 
 
 ---
@@ -55,7 +55,7 @@
 | [canassa/betrayal-at-krondor](../repos/canassa/betrayal-at-krondor.md) | ⭐ 35 | 2026-11-04 | Betrayal at Krondor: A byte-perfect recompilation of the 1993 classic. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port](../repos/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port.md) | ⭐ 317 | 2026-11-04 | Native Pikmin Windows&#x2F;Linux&#x2F;Android Port |
+| [SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port](../repos/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port.md) | ⭐ 318 | 2026-11-04 | Native Pikmin Windows&#x2F;Linux&#x2F;Android Port |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [memorysafety/rav1d](../repos/memorysafety/rav1d.md) | ⭐ 650 | 2026-11-05 | An AV1 decoder in Rust. |
@@ -65,6 +65,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [VitorVilela7/SA1-Root](../repos/VitorVilela7/SA1-Root.md) | ⭐ 576 | 2026-11-15 | Project for accelerating SNES games using the SA-1 chip. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Project-Silicium/Mu-Silicium](../repos/Project-Silicium/Mu-Silicium.md) | ⭐ 626 | 2026-11-16 | Project Mu UEFI Ports for ARM64-Based Devices |
 
 
 ---
@@ -73,15 +76,15 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | ⭐ 18,911 | 2026-08-01 | 57 |
+| [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | ⭐ 18,923 | 2026-08-01 | 58 |
 | [leachim6/hello-world](../repos/leachim6/hello-world.md) | ⭐ 12,035 | 2026-08-02 | 39 |
 | [kanaka/mal](../repos/kanaka/mal.md) | ⭐ 10,761 | 2026-08-11 | 22 |
 | [jmechner/Prince-of-Persia-Apple-II](../repos/jmechner/Prince-of-Persia-Apple-II.md) | ⭐ 6,906 | 2026-09-28 | 3 |
-| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | ⭐ 6,529 | 2026-08-01 | 56 |
-| [pret/pokered](../repos/pret/pokered.md) | ⭐ 5,034 | 2026-08-01 | 55 |
+| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | ⭐ 6,532 | 2026-08-01 | 57 |
+| [pret/pokered](../repos/pret/pokered.md) | ⭐ 5,037 | 2026-08-01 | 56 |
 | [below/HelloSilicon](../repos/below/HelloSilicon.md) | ⭐ 4,994 | 2026-09-02 | 2 |
 | [briansmith/ring](../repos/briansmith/ring.md) | ⭐ 4,122 | 2026-08-01 | 13 |
-| [ebitengine/purego](../repos/ebitengine/purego.md) | ⭐ 4,113 | 2026-08-04 | 55 |
+| [ebitengine/purego](../repos/ebitengine/purego.md) | ⭐ 4,120 | 2026-08-04 | 56 |
 | [virtualagc/virtualagc](../repos/virtualagc/virtualagc.md) | ⭐ 3,350 | 2026-08-01 | 9 |
 | [netwide-assembler/nasm](../repos/netwide-assembler/nasm.md) | ⭐ 3,322 | 2026-09-01 | 8 |
 | [SpinalHDL/VexRiscv](../repos/SpinalHDL/VexRiscv.md) | ⭐ 3,265 | 2026-09-19 | 1 |
@@ -92,7 +95,7 @@
 | [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | ⭐ 2,241 | 2026-08-01 | 46 |
 | [PlummersSoftwareLLC/TinyRetroPad](../repos/PlummersSoftwareLLC/TinyRetroPad.md) | ⭐ 1,750 | 2026-08-04 | 15 |
 | [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,741 | 2026-08-01 | 63 |
-| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | ⭐ 1,695 | 2026-08-01 | 58 |
+| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | ⭐ 1,696 | 2026-08-01 | 59 |
 
 ---
 
@@ -103,11 +106,11 @@
 | [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | 74 | ⭐ 469 | 2026-08-01 | 2026-11-15 |
 | [aws/aws-lc](../repos/aws/aws-lc.md) | 63 | ⭐ 865 | 2026-08-01 | 2026-11-15 |
 | [apple/swift-crypto](../repos/apple/swift-crypto.md) | 63 | ⭐ 1,741 | 2026-08-01 | 2026-11-14 |
-| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | 58 | ⭐ 1,695 | 2026-08-01 | 2026-11-15 |
-| [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | 57 | ⭐ 18,911 | 2026-08-01 | 2026-11-10 |
-| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | 56 | ⭐ 6,529 | 2026-08-01 | 2026-11-15 |
-| [pret/pokered](../repos/pret/pokered.md) | 55 | ⭐ 5,034 | 2026-08-01 | 2026-11-14 |
-| [ebitengine/purego](../repos/ebitengine/purego.md) | 55 | ⭐ 4,113 | 2026-08-04 | 2026-11-14 |
+| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | 59 | ⭐ 1,696 | 2026-08-01 | 2026-11-16 |
+| [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | 58 | ⭐ 18,923 | 2026-08-01 | 2026-11-16 |
+| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | 57 | ⭐ 6,532 | 2026-08-01 | 2026-11-16 |
+| [pret/pokered](../repos/pret/pokered.md) | 56 | ⭐ 5,037 | 2026-08-01 | 2026-11-16 |
+| [ebitengine/purego](../repos/ebitengine/purego.md) | 56 | ⭐ 4,120 | 2026-08-04 | 2026-11-16 |
 | [riscv/riscv-arch-test](../repos/riscv/riscv-arch-test.md) | 49 | ⭐ 813 | 2026-08-02 | 2026-11-15 |
 | [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | 46 | ⭐ 2,241 | 2026-08-01 | 2026-11-13 |
 
@@ -168,7 +171,8 @@
 - [memorysafety/rav1d](../repos/memorysafety/rav1d.md) - An AV1 decoder in Rust.
 - [MathisLav/GeometryDashCE](../repos/MathisLav/GeometryDashCE.md) - Inspired from Geometry Dash. In this game, you will have to avoid the obstacles by jumping with t...
 - [VitorVilela7/SA1-Root](../repos/VitorVilela7/SA1-Root.md) - Project for accelerating SNES games using the SA-1 chip.
+- [Project-Silicium/Mu-Silicium](../repos/Project-Silicium/Mu-Silicium.md) - Project Mu UEFI Ports for ARM64-Based Devices
 
 ---
 
-*Last updated: 2026-11-15T21:00:55.382Z*
+*Last updated: 2026-11-16T21:00:54.447Z*

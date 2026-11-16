@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 191
+- **Total Repositories**: 192
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-12
 
@@ -16,13 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 28,216 | 2026-08-03 | 13 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 70,623 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [maillab/cloud-mail](../repos/maillab/cloud-mail.md) | ⭐ 16,184 | 2026-09-06 | 2 |
+| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 65,279 | 2026-08-27 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [qist/tvbox](../repos/qist/tvbox.md) | ⭐ 12,957 | 2026-09-14 | 3 |
+| [maillab/cloud-mail](../repos/maillab/cloud-mail.md) | ⭐ 16,274 | 2026-09-06 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [hanliang97/MatrixMedia](../repos/hanliang97/MatrixMedia.md) | ⭐ 1,444 | 2026-10-27 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [DeanChensj/jiangshan-map](../repos/DeanChensj/jiangshan-map.md) | ⭐ 6,652 | 2026-11-02 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [airbnb/lottie-web](../repos/airbnb/lottie-web.md) | ⭐ 32,476 | 2026-11-16 | 1 |
 
 
 ---
@@ -78,11 +87,11 @@
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 90,383 | 2026-08-04 | 22 |
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 77,000 | 2026-08-09 | 2 |
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 70,243 | 2026-08-01 | 21 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 70,623 | 2026-08-01 | 22 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,675 | 2026-08-04 | 5 |
 | [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 69,110 | 2026-08-28 | 19 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,980 | 2026-08-04 | 4 |
-| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 64,117 | 2026-08-27 | 15 |
+| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 65,279 | 2026-08-27 | 16 |
 | [jgraph/drawio-desktop](../repos/jgraph/drawio-desktop.md) | ⭐ 63,817 | 2026-11-04 | 1 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,346 | 2026-08-11 | 4 |
 | [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 59,798 | 2026-10-14 | 1 |
@@ -96,13 +105,13 @@
 |------------|---------------|-------|------------|-----------|
 | [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 39 | ⭐ 117,534 | 2026-08-05 | 2026-11-14 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 32 | ⭐ 14,607 | 2026-08-02 | 2026-11-07 |
+| [byoungd/up](../repos/byoungd/up.md) | 22 | ⭐ 70,623 | 2026-08-01 | 2026-11-16 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 22 | ⭐ 90,383 | 2026-08-04 | 2026-10-27 |
-| [byoungd/up](../repos/byoungd/up.md) | 21 | ⭐ 70,243 | 2026-08-01 | 2026-11-07 |
 | [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 19 | ⭐ 34,116 | 2026-08-08 | 2026-11-11 |
 | [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | 19 | ⭐ 69,110 | 2026-08-28 | 2026-11-10 |
+| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | 16 | ⭐ 65,279 | 2026-08-27 | 2026-11-16 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
 | [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | 15 | ⭐ 39,049 | 2026-08-16 | 2026-11-09 |
-| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | 15 | ⭐ 64,117 | 2026-08-27 | 2026-11-10 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 14 | ⭐ 143,323 | 2026-07-30 | 2026-11-04 |
 
 ---
@@ -212,4 +221,4 @@
 
 ---
 
-*Last updated: 2026-11-15T21:00:55.432Z*
+*Last updated: 2026-11-16T21:00:54.494Z*

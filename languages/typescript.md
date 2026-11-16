@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 328
+- **Total Repositories**: 330
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-07
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 56,843 | 2026-08-01 | 18 |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 57,621 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dream-num/univer](../repos/dream-num/univer.md) | ⭐ 25,517 | 2026-08-05 | 10 |
+| [angular/angular](../repos/angular/angular.md) | ⭐ 101,437 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 52,845 | 2026-08-07 | 21 |
+| [dream-num/univer](../repos/dream-num/univer.md) | ⭐ 27,707 | 2026-08-05 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-labs-code/stitch-skills](../repos/google-labs-code/stitch-skills.md) | ⭐ 9,231 | 2026-08-22 | 9 |
+| [google-labs-code/stitch-skills](../repos/google-labs-code/stitch-skills.md) | ⭐ 9,689 | 2026-08-22 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [backnotprop/plannotator](../repos/backnotprop/plannotator.md) | ⭐ 11,761 | 2026-08-26 | 11 |
+| [backnotprop/plannotator](../repos/backnotprop/plannotator.md) | ⭐ 12,464 | 2026-08-26 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ag-ui-protocol/ag-ui](../repos/ag-ui-protocol/ag-ui.md) | ⭐ 17,772 | 2026-10-01 | 3 |
+| [koala73/worldmonitor](../repos/koala73/worldmonitor.md) | ⭐ 90,766 | 2026-08-28 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elder-plinius/G0DM0D3](../repos/elder-plinius/G0DM0D3.md) | ⭐ 12,416 | 2026-10-07 | 3 |
+| [ag-ui-protocol/ag-ui](../repos/ag-ui-protocol/ag-ui.md) | ⭐ 18,832 | 2026-10-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [GoogleChrome/modern-web-guidance-src](../repos/GoogleChrome/modern-web-guidance-src.md) | ⭐ 7,028 | 2026-11-11 | 5 |
+| [nestjs/nest](../repos/nestjs/nest.md) | ⭐ 77,094 | 2026-10-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [motiondivision/motion](../repos/motiondivision/motion.md) | ⭐ 35,232 | 2026-11-15 | 1 |
+| [elie222/rakazo](../repos/elie222/rakazo.md) | ⭐ 8,828 | 2026-10-17 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [assistant-ui/assistant-ui](../repos/assistant-ui/assistant-ui.md) | ⭐ 13,237 | 2026-11-15 | 1 |
+| [GoogleChrome/modern-web-guidance-src](../repos/GoogleChrome/modern-web-guidance-src.md) | ⭐ 7,924 | 2026-11-11 | 6 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [elie222/rakazo](../repos/elie222/rakazo.md) | ⭐ 7,688 | 2026-10-17 | Open-source Grok Bot alternative. Choose your own model and sandbox. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [OpenBMB/PilotDeck](../repos/OpenBMB/PilotDeck.md) | ⭐ 4,576 | 2026-10-17 | Task-oriented AI Agent productivity platform |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [LibreChat-AI/LibreChat](../repos/LibreChat-AI/LibreChat.md) | ⭐ 45,931 | 2026-10-18 | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses... |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [CopilotKit/OpenBot](../repos/CopilotKit/OpenBot.md) | ⭐ 12,264 | 2026-10-22 | Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Renhuai123/ziwei-doushu](../repos/Renhuai123/ziwei-doushu.md) | ⭐ 15,752 | 2026-10-23 | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [SehajveerSingh2005/bloom](../repos/SehajveerSingh2005/bloom.md) | ⭐ 338 | 2026-10-23 | Bloom is a desktop companion that reimagines how you interact with Windows. It moves away from st... |
 
 
 ---
@@ -103,7 +103,7 @@
 | [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 116,129 | 2026-08-07 | 12 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 110,330 | 2026-08-02 | 11 |
 | [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 108,379 | 2026-08-23 | 2 |
-| [angular/angular](../repos/angular/angular.md) | ⭐ 101,484 | 2026-08-04 | 7 |
+| [angular/angular](../repos/angular/angular.md) | ⭐ 101,437 | 2026-08-04 | 8 |
 | [microsoft/playwright](../repos/microsoft/playwright.md) | ⭐ 98,817 | 2026-10-15 | 2 |
 | [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 98,649 | 2026-08-04 | 6 |
 | [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | 2026-08-22 | 1 |
@@ -121,9 +121,9 @@
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | 21 | ⭐ 154,905 | 2026-08-07 | 2026-11-07 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 21 | ⭐ 52,845 | 2026-08-07 | 2026-11-15 |
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 20 | ⭐ 78,178 | 2026-08-10 | 2026-10-21 |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 19 | ⭐ 57,621 | 2026-08-01 | 2026-11-16 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 19 | ⭐ 48,123 | 2026-08-01 | 2026-11-05 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 19 | ⭐ 140,636 | 2026-08-02 | 2026-11-07 |
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 18 | ⭐ 56,843 | 2026-08-01 | 2026-11-15 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 14 | ⭐ 34,200 | 2026-08-02 | 2026-10-03 |
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-15T21:00:55.483Z*
+*Last updated: 2026-11-16T21:00:54.547Z*

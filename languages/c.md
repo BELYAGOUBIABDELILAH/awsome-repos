@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 238
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-13
+- **Last Updated**: 2026-11-16
 
 ---
 
@@ -16,22 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 29,153 | 2026-08-02 | 13 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 41,787 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [brunodev85/winlator](../repos/brunodev85/winlator.md) | ⭐ 19,998 | 2026-08-02 | 14 |
+| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 29,209 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lcdyk0517/arkos4clone](../repos/lcdyk0517/arkos4clone.md) | ⭐ 796 | 2026-08-02 | 8 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 79,589 | 2026-08-02 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [moonlight-stream/moonlight-android](../repos/moonlight-stream/moonlight-android.md) | ⭐ 7,498 | 2026-08-23 | 6 |
+| [portapack-mayhem/mayhem-firmware](../repos/portapack-mayhem/mayhem-firmware.md) | ⭐ 5,543 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EchoStretch/kstuff-lite](../repos/EchoStretch/kstuff-lite.md) | ⭐ 947 | 2026-09-22 | 5 |
+| [redis/redis](../repos/redis/redis.md) | ⭐ 77,492 | 2026-08-04 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [surge-synthesizer/surge](../repos/surge-synthesizer/surge.md) | ⭐ 4,135 | 2026-11-15 | 1 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 154,980 | 2026-08-07 | 20 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [eclipse-mosquitto/mosquitto](../repos/eclipse-mosquitto/mosquitto.md) | ⭐ 11,450 | 2026-08-14 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [coop-deluxe/sm64coopdx](../repos/coop-deluxe/sm64coopdx.md) | ⭐ 1,549 | 2026-08-16 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Next-Flip/Momentum-Firmware](../repos/Next-Flip/Momentum-Firmware.md) | ⭐ 9,400 | 2026-08-19 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [V4bel/dirtyfrag](../repos/V4bel/dirtyfrag.md) | ⭐ 5,281 | 2026-10-19 | 2 |
 
 
 ---
@@ -40,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [V4bel/dirtyfrag](../repos/V4bel/dirtyfrag.md) | ⭐ 5,093 | 2026-10-19 |  |
+| [V4bel/dirtyfrag](../repos/V4bel/dirtyfrag.md) | ⭐ 5,281 | 2026-10-19 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [c-ares/c-ares](../repos/c-ares/c-ares.md) | ⭐ 2,196 | 2026-10-21 | A C library for asynchronous DNS requests |
@@ -76,16 +88,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 154,755 | 2026-08-07 | 19 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 154,980 | 2026-08-07 | 20 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 140,879 | 2026-08-01 | 26 |
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 80,843 | 2026-08-24 | 5 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 79,470 | 2026-08-02 | 19 |
-| [redis/redis](../repos/redis/redis.md) | ⭐ 77,477 | 2026-08-04 | 12 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 79,589 | 2026-08-02 | 20 |
+| [redis/redis](../repos/redis/redis.md) | ⭐ 77,492 | 2026-08-04 | 13 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 75,752 | 2026-08-01 | 26 |
 | [git/git](../repos/git/git.md) | ⭐ 64,135 | 2026-08-05 | 10 |
 | [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 51,088 | 2026-09-01 | 26 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 47,337 | 2026-08-07 | 26 |
-| [php/php-src](../repos/php/php-src.md) | ⭐ 41,534 | 2026-08-01 | 12 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 41,787 | 2026-08-01 | 13 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 38,334 | 2026-08-08 | 5 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,982 | 2026-08-02 | 11 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,813 | 2026-08-04 | 10 |
@@ -95,7 +107,7 @@
 | [lizongying/my-tv](../repos/lizongying/my-tv.md) | ⭐ 31,960 | 2026-08-17 | 2 |
 | [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,952 | 2026-08-02 | 9 |
 | [coolsnowwolf/lede](../repos/coolsnowwolf/lede.md) | ⭐ 31,611 | 2026-08-16 | 3 |
-| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 29,153 | 2026-08-02 | 13 |
+| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 29,209 | 2026-08-02 | 14 |
 
 ---
 
@@ -110,9 +122,9 @@
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 26 | ⭐ 47,337 | 2026-08-07 | 2026-10-23 |
 | [JustVugg/colibri](../repos/JustVugg/colibri.md) | 26 | ⭐ 51,088 | 2026-09-01 | 2026-11-14 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 21 | ⭐ 28,089 | 2026-08-07 | 2026-10-23 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 19 | ⭐ 79,470 | 2026-08-02 | 2026-11-12 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 20 | ⭐ 79,589 | 2026-08-02 | 2026-11-16 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 20 | ⭐ 154,980 | 2026-08-07 | 2026-11-16 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 19 | ⭐ 7,021 | 2026-08-04 | 2026-10-23 |
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 19 | ⭐ 154,755 | 2026-08-07 | 2026-11-13 |
 
 ---
 
@@ -221,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-15T21:00:55.388Z*
+*Last updated: 2026-11-16T21:00:54.453Z*

@@ -7,7 +7,7 @@
 ## October 2026
 
 **Period**: 2026-10-01 to 2026-10-28  
-**Gems Found**: 377
+**Gems Found**: 374
 
 ---
 
@@ -19,7 +19,7 @@
 |---|---|
 | ⭐ **Stars** | 1,725 |
 | 💻 **Language** | Go |
-| 🏆 **Gem Score** | 94/100 |
+| 🏆 **Gem Score** | 93/100 |
 | 📈 **Trending Days** | 6 |
 | 📅 **First Seen** | Aug 1, 2026 |
 
@@ -43,7 +43,7 @@
 | 📈 **Trending Days** | 33 |
 | 📅 **First Seen** | Aug 2, 2026 |
 
-**Why it's a gem**: High growth velocity (+53 stars&#x2F;day) • Trending 33 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+53 stars&#x2F;day) • Trending 33 times • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -103,7 +103,7 @@
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Oct 25, 2026 |
 
-**Why it's a gem**: High growth velocity (+1162 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+1162 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -119,11 +119,11 @@
 |---|---|
 | ⭐ **Stars** | 5,640 |
 | 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 92/100 |
+| 🏆 **Gem Score** | 91/100 |
 | 📈 **Trending Days** | 9 |
 | 📅 **First Seen** | Aug 11, 2026 |
 
-**Why it's a gem**: High growth velocity (+318 stars&#x2F;day) • Trending 9 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+318 stars&#x2F;day) • Trending 9 times • Strong community engagement
 
 **Best for**: 
 
@@ -183,7 +183,7 @@
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Oct 25, 2026 |
 
-**Why it's a gem**: High growth velocity (+1844 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+1844 stars&#x2F;day) • Trending 5 times • Strong community engagement
 
 **Best for**: 
 
@@ -231,27 +231,7 @@
 
 ---
 
-### 12. [superdesigndev&#x2F;treg](../../repos/superdesigndev/treg.md)
-
-**OpenRouter for agent tools. Join community here: https:&#x2F;&#x2F;discord.gg&#x2F;6mQYYfFMAn**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 6,379 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 7 |
-| 📅 **First Seen** | Sep 22, 2026 |
-
-**Why it's a gem**: High growth velocity (+365 stars&#x2F;day) • Trending 7 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/superdesigndev/treg.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;superdesigndev&#x2F;treg)
-
----
-
-### 13. [apache&#x2F;maka](../../repos/apache/maka.md)
+### 12. [apache&#x2F;maka](../../repos/apache/maka.md)
 
 **Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.**
 
@@ -271,7 +251,7 @@
 
 ---
 
-### 14. [makecindy&#x2F;cindy](../../repos/makecindy/cindy.md)
+### 13. [makecindy&#x2F;cindy](../../repos/makecindy/cindy.md)
 
 **Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。**
 
@@ -291,27 +271,7 @@
 
 ---
 
-### 15. [uber&#x2F;ADR](../../repos/uber/ADR.md)
-
-**ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,893 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 88/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 4, 2026 |
-
-**Why it's a gem**: High growth velocity (+336 stars&#x2F;day) • Trending 4 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/uber/ADR.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;uber&#x2F;ADR)
-
----
-
-### 16. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
+### 14. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
 
 **Multi-account API gateway for Grok Build, Grok Web, and Grok Console**
 
@@ -331,7 +291,7 @@
 
 ---
 
-### 17. [tbphp&#x2F;gpt-load](../../repos/tbphp/gpt-load.md)
+### 15. [tbphp&#x2F;gpt-load](../../repos/tbphp/gpt-load.md)
 
 **Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。**
 
@@ -351,7 +311,7 @@
 
 ---
 
-### 18. [BuilderIO&#x2F;agent-native](../../repos/BuilderIO/agent-native.md)
+### 16. [BuilderIO&#x2F;agent-native](../../repos/BuilderIO/agent-native.md)
 
 **A framework for building agentic apps**
 
@@ -371,27 +331,7 @@
 
 ---
 
-### 19. [PCL-Community&#x2F;PCL-CE](../../repos/PCL-Community/PCL-CE.md)
-
-**PCL 社区版 由社区开发者维护与管理**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 4,895 |
-| 💻 **Language** | C# |
-| 🏆 **Gem Score** | 88/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Sep 14, 2026 |
-
-**Why it's a gem**: High growth velocity (+63 stars&#x2F;day) • Trending 4 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/PCL-Community/PCL-CE.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;PCL-Community&#x2F;PCL-CE)
-
----
-
-### 20. [mvschwarz&#x2F;openrig](../../repos/mvschwarz/openrig.md)
+### 17. [mvschwarz&#x2F;openrig](../../repos/mvschwarz/openrig.md)
 
 **Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.**
 
@@ -411,6 +351,66 @@
 
 ---
 
+### 18. [uber&#x2F;ADR](../../repos/uber/ADR.md)
+
+**ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,893 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 87/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 4, 2026 |
+
+**Why it's a gem**: High growth velocity (+336 stars&#x2F;day) • Trending 4 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/uber/ADR.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;uber&#x2F;ADR)
+
+---
+
+### 19. [Armur-Ai&#x2F;Pentest-Swarm-AI](../../repos/Armur-Ai/Pentest-Swarm-AI.md)
+
+**Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,961 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 87/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 25, 2026 |
+
+**Why it's a gem**: High growth velocity (+42 stars&#x2F;day) • Trending 6 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/Armur-Ai/Pentest-Swarm-AI.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Armur-Ai&#x2F;Pentest-Swarm-AI)
+
+---
+
+### 20. [willfaust&#x2F;Madeira](../../repos/willfaust/Madeira.md)
+
+**Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,932 |
+| 💻 **Language** | C |
+| 🏆 **Gem Score** | 87/100 |
+| 📈 **Trending Days** | 11 |
+| 📅 **First Seen** | Sep 9, 2026 |
+
+**Why it's a gem**: High growth velocity (+133 stars&#x2F;day) • Trending 11 times • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/willfaust/Madeira.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;willfaust&#x2F;Madeira)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-15T21:01:01.365Z*  
+*Generated: 2026-11-16T21:00:59.177Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

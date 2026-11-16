@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 5
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-15
+- **Last Updated**: 2026-11-16
 
 ---
 
@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 38,112 | 2026-08-01 | 81 |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 38,117 | 2026-08-01 | 82 |
 
 
 ---
@@ -32,7 +32,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 38,112 | 2026-08-01 | 81 |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 38,117 | 2026-08-01 | 82 |
 | [vlang/vinix](../repos/vlang/vinix.md) | ⭐ 2,701 | 2026-09-09 | 24 |
 | [vlang/vsl](../repos/vlang/vsl.md) | ⭐ 404 | 2026-10-15 | 2 |
 | [vlang/v-analyzer](../repos/vlang/v-analyzer.md) | ⭐ 206 | 2026-08-09 | 2 |
@@ -44,7 +44,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [vlang/v](../repos/vlang/v.md) | 81 | ⭐ 38,112 | 2026-08-01 | 2026-11-15 |
+| [vlang/v](../repos/vlang/v.md) | 82 | ⭐ 38,117 | 2026-08-01 | 2026-11-16 |
 | [vlang/vinix](../repos/vlang/vinix.md) | 24 | ⭐ 2,701 | 2026-09-09 | 2026-10-27 |
 | [vlang/v-analyzer](../repos/vlang/v-analyzer.md) | 2 | ⭐ 206 | 2026-08-09 | 2026-08-11 |
 | [vlang/vsl](../repos/vlang/vsl.md) | 2 | ⭐ 404 | 2026-10-15 | 2026-10-16 |
@@ -62,4 +62,4 @@
 
 ---
 
-*Last updated: 2026-11-15T21:00:55.485Z*
+*Last updated: 2026-11-16T21:00:54.549Z*

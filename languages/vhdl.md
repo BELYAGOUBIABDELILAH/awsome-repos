@@ -8,14 +8,16 @@
 
 - **Total Repositories**: 2
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-14
+- **Last Updated**: 2026-11-16
 
 ---
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ghdl/ghdl](../repos/ghdl/ghdl.md) | ⭐ 2,927 | 2026-08-01 | 45 |
 
-*No VHDL repositories trending today*
 
 ---
 
@@ -30,7 +32,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ghdl/ghdl](../repos/ghdl/ghdl.md) | ⭐ 2,925 | 2026-08-01 | 44 |
+| [ghdl/ghdl](../repos/ghdl/ghdl.md) | ⭐ 2,927 | 2026-08-01 | 45 |
 | [stnolting/neorv32](../repos/stnolting/neorv32.md) | ⭐ 2,294 | 2026-08-07 | 15 |
 
 ---
@@ -39,7 +41,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ghdl/ghdl](../repos/ghdl/ghdl.md) | 44 | ⭐ 2,925 | 2026-08-01 | 2026-11-14 |
+| [ghdl/ghdl](../repos/ghdl/ghdl.md) | 45 | ⭐ 2,927 | 2026-08-01 | 2026-11-16 |
 | [stnolting/neorv32](../repos/stnolting/neorv32.md) | 15 | ⭐ 2,294 | 2026-08-07 | 2026-10-13 |
 
 ---
@@ -51,4 +53,4 @@
 
 ---
 
-*Last updated: 2026-11-15T21:00:55.486Z*
+*Last updated: 2026-11-16T21:00:54.550Z*

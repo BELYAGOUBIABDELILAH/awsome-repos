@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Inochi2D/inochi2d](../repos/Inochi2D/inochi2d.md) | ⭐ 1,871 | 2026-11-14 | 2 |
 
+*No D repositories trending today*
 
 ---
 
@@ -55,4 +53,4 @@
 
 ---
 
-*Last updated: 2026-11-15T21:00:55.407Z*
+*Last updated: 2026-11-16T21:00:54.470Z*

@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,927 | 2026-08-01 | 35 |
+| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,934 | 2026-08-01 | 36 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,630 | 2026-08-02 | 44 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,645 | 2026-08-02 | 45 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 775 | 2026-08-02 | 32 |
+| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 775 | 2026-08-02 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iodefog/VipVideo](../repos/iodefog/VipVideo.md) | ⭐ 6,206 | 2026-08-02 | 26 |
+| [iodefog/VipVideo](../repos/iodefog/VipVideo.md) | ⭐ 6,220 | 2026-08-02 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | ⭐ 544 | 2026-08-02 | 19 |
+| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,287 | 2026-08-02 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,285 | 2026-08-02 | 25 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,784 | 2026-08-03 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,776 | 2026-08-03 | 31 |
+| [danveloper/flash-moe](../repos/danveloper/flash-moe.md) | ⭐ 4,526 | 2026-08-03 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,431 | 2026-08-04 | 22 |
+| [nfzerox/VirtualMacOniPad](../repos/nfzerox/VirtualMacOniPad.md) | ⭐ 2,079 | 2026-10-03 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alexzielenski/Mousecape](../repos/alexzielenski/Mousecape.md) | ⭐ 2,099 | 2026-08-09 | 9 |
+| [skopevoj/spoti.pw](../repos/skopevoj/spoti.pw.md) | ⭐ 954 | 2026-11-08 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nfzerox/VirtualMacOniPad](../repos/nfzerox/VirtualMacOniPad.md) | ⭐ 2,076 | 2026-10-03 | 13 |
+| [Alinto/sogo](../repos/Alinto/sogo.md) | ⭐ 2,187 | 2026-11-15 | 2 |
 
 
 ---
@@ -61,7 +61,7 @@
 | [Tunnelblick/Tunnelblick](../repos/Tunnelblick/Tunnelblick.md) | ⭐ 3,294 | 2026-10-25 | The official Tunnelblick website is at https:&#x2F;&#x2F;tunnelblick.net; the official Tunnelblick GitHub r... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [skopevoj/spoti.pw](../repos/skopevoj/spoti.pw.md) | ⭐ 943 | 2026-11-08 | Liquid Glass UI for the Spotify iOS app, no jailbreak |
+| [skopevoj/spoti.pw](../repos/skopevoj/spoti.pw.md) | ⭐ 954 | 2026-11-08 | Liquid Glass UI for the Spotify iOS app, no jailbreak |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nakst/gf](../repos/nakst/gf.md) | ⭐ 3,541 | 2026-11-09 | A GDB frontend for Lïnux. |
@@ -85,7 +85,7 @@
 | [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | 1 |
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,371 | 2026-08-02 | 7 |
 | [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,610 | 2026-08-01 | 59 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,630 | 2026-08-02 | 44 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,645 | 2026-08-02 | 45 |
 | [SnapKit/Masonry](../repos/SnapKit/Masonry.md) | ⭐ 18,130 | 2026-09-02 | 1 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,600 | 2026-08-04 | 38 |
 | [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,431 | 2026-08-04 | 22 |
@@ -95,7 +95,7 @@
 | [marcuswestin/WebViewJavascriptBridge](../repos/marcuswestin/WebViewJavascriptBridge.md) | ⭐ 14,308 | 2026-09-13 | 1 |
 | [ccgus/fmdb](../repos/ccgus/fmdb.md) | ⭐ 13,828 | 2026-08-28 | 2 |
 | [CoderMJLee/MJRefresh](../repos/CoderMJLee/MJRefresh.md) | ⭐ 13,810 | 2026-09-01 | 1 |
-| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,776 | 2026-08-03 | 31 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,784 | 2026-08-03 | 32 |
 | [eczarny/spectacle](../repos/eczarny/spectacle.md) | ⭐ 13,632 | 2026-09-19 | 1 |
 | [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,322 | 2026-08-04 | 32 |
 | [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,067 | 2026-08-02 | 2 |
@@ -115,7 +115,7 @@
 | [google/promises](../repos/google/promises.md) | 58 | ⭐ 3,829 | 2026-08-01 | 2026-11-14 |
 | [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 58 | ⭐ 292 | 2026-08-01 | 2026-11-14 |
 | [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | 49 | ⭐ 2,039 | 2026-08-08 | 2026-11-14 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 44 | ⭐ 22,630 | 2026-08-02 | 2026-11-15 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 45 | ⭐ 22,645 | 2026-08-02 | 2026-11-16 |
 | [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | 43 | ⭐ 4,506 | 2026-08-05 | 2026-11-14 |
 | [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 39 | ⭐ 678 | 2026-08-04 | 2026-11-14 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | 38 | ⭐ 16,600 | 2026-08-04 | 2026-11-12 |
@@ -227,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-11-15T21:00:55.453Z*
+*Last updated: 2026-11-16T21:00:54.518Z*

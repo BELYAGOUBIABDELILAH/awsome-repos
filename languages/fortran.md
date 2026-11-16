@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 32
+- **Total Repositories**: 33
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-27
 
@@ -16,10 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 451 | 2026-08-01 | 73 |
+| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 452 | 2026-08-01 | 74 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JuliaPackaging/Yggdrasil](../repos/JuliaPackaging/Yggdrasil.md) | ⭐ 409 | 2026-08-03 | 34 |
+| [Starlink/starlink](../repos/Starlink/starlink.md) | ⭐ 215 | 2026-11-16 | 1 |
 
 
 ---
@@ -32,6 +32,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [NOAA-EMC/WW3](../repos/NOAA-EMC/WW3.md) | ⭐ 361 | 2026-11-14 | WAVEWATCH III |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Starlink/starlink](../repos/Starlink/starlink.md) | ⭐ 215 | 2026-11-16 | Starlink Software Collection |
 
 
 ---
@@ -49,7 +52,7 @@
 | [firemodels/fds](../repos/firemodels/fds.md) | ⭐ 918 | 2026-08-01 | 47 |
 | [grimme-lab/xtb](../repos/grimme-lab/xtb.md) | ⭐ 884 | 2026-09-20 | 8 |
 | [OpenRadioss/OpenRadioss](../repos/OpenRadioss/OpenRadioss.md) | ⭐ 874 | 2026-09-04 | 6 |
-| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 451 | 2026-08-01 | 73 |
+| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 452 | 2026-08-01 | 74 |
 | [MFlowCode/MFC](../repos/MFlowCode/MFC.md) | ⭐ 434 | 2026-08-19 | 10 |
 | [JuliaPackaging/Yggdrasil](../repos/JuliaPackaging/Yggdrasil.md) | ⭐ 409 | 2026-08-03 | 34 |
 | [MODFLOW-ORG/modflow6](../repos/MODFLOW-ORG/modflow6.md) | ⭐ 366 | 2026-08-20 | 3 |
@@ -67,7 +70,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | 73 | ⭐ 451 | 2026-08-01 | 2026-11-15 |
+| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | 74 | ⭐ 452 | 2026-08-01 | 2026-11-16 |
 | [cp2k/cp2k](../repos/cp2k/cp2k.md) | 64 | ⭐ 1,240 | 2026-08-01 | 2026-11-13 |
 | [wrf-model/WRF](../repos/wrf-model/WRF.md) | 62 | ⭐ 1,805 | 2026-08-04 | 2026-11-14 |
 | [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | 50 | ⭐ 990 | 2026-08-01 | 2026-11-14 |
@@ -114,7 +117,8 @@
 - [Dhondtguido/CalculiX](../repos/Dhondtguido/CalculiX.md) - This repository contains the source files of CalculiX, a three-dimensional Finite Element Program...
 - [geoschem/geos-chem](../repos/geoschem/geos-chem.md) - GEOS-Chem &quot;Science Codebase&quot; repository.  Contains GEOS-Chem science routines, run directory gene...
 - [NOAA-EMC/WW3](../repos/NOAA-EMC/WW3.md) - WAVEWATCH III
+- [Starlink/starlink](../repos/Starlink/starlink.md) - Starlink Software Collection
 
 ---
 
-*Last updated: 2026-11-15T21:00:55.419Z*
+*Last updated: 2026-11-16T21:00:54.482Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Swift |
 | **License** | Not specified |
-| **Stars** | ⭐ 9,415 |
-| **Forks** | 🍴 3,243 |
-| **Trending Days** | 18 |
+| **Stars** | ⭐ 9,443 |
+| **Forks** | 🍴 3,312 |
+| **Trending Days** | 19 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Nov 7, 2026 |
+| **Last Seen** | Nov 16, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 18
+- **Trending Days**: 19
 - **Longest Streak**: 3 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 9,415+ stars, strong contributor base |
+| **Community** | Very Active | 9,443+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-15T21:00:57.657Z*  
-*Data from 18 trending reports*
+*Last updated: 2026-11-16T21:00:56.262Z*  
+*Data from 19 trending reports*

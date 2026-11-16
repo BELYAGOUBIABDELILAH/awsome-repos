@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 43
+- **Total Repositories**: 44
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-12
+- **Last Updated**: 2026-11-16
 
 ---
 
@@ -16,19 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | ⭐ 1,278 | 2026-08-01 | 59 |
+| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | ⭐ 1,282 | 2026-08-01 | 60 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | ⭐ 17,382 | 2026-08-01 | 78 |
+| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | ⭐ 64,169 | 2026-08-01 | 85 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lightpanda-io/browser](../repos/lightpanda-io/browser.md) | ⭐ 42,090 | 2026-08-02 | 69 |
+| [neurosnap/zmx](../repos/neurosnap/zmx.md) | ⭐ 2,286 | 2026-08-01 | 57 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZigEmbeddedGroup/microzig](../repos/ZigEmbeddedGroup/microzig.md) | ⭐ 2,337 | 2026-08-03 | 8 |
+| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | ⭐ 17,392 | 2026-08-01 | 79 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/fx](../repos/vercel-labs/fx.md) | ⭐ 3,870 | 2026-10-11 | 26 |
+| [vercel-labs/native](../repos/vercel-labs/native.md) | ⭐ 7,847 | 2026-08-02 | 60 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [lightpanda-io/browser](../repos/lightpanda-io/browser.md) | ⭐ 42,142 | 2026-08-02 | 70 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | ⭐ 8,229 | 2026-08-04 | 44 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [vercel-labs/fx](../repos/vercel-labs/fx.md) | ⭐ 3,886 | 2026-10-11 | 27 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [blackboardsh/electrobun](../repos/blackboardsh/electrobun.md) | ⭐ 13,071 | 2026-10-29 | 10 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [natecraddock/ziglua](../repos/natecraddock/ziglua.md) | ⭐ 542 | 2026-11-16 | 1 |
 
 
 ---
@@ -40,7 +55,7 @@
 | [freref/fancy-cat](../repos/freref/fancy-cat.md) | ⭐ 575 | 2026-10-20 | PDF reader for terminal emulators using the Kitty image protocol |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [blackboardsh/electrobun](../repos/blackboardsh/electrobun.md) | ⭐ 13,055 | 2026-10-29 | Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Rust, Go, or Odin. |
+| [blackboardsh/electrobun](../repos/blackboardsh/electrobun.md) | ⭐ 13,071 | 2026-10-29 | Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Rust, Go, or Odin. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [const-void/DOOM-fire-zig](../repos/const-void/DOOM-fire-zig.md) | ⭐ 261 | 2026-11-05 | DOOM&#39;s fire algo, in zig, for 256 color terminals w&#x2F;no dependencies |
@@ -50,6 +65,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [karlseguin/websocket.zig](../repos/karlseguin/websocket.zig.md) | ⭐ 526 | 2026-11-13 | A websocket implementation for zig |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [natecraddock/ziglua](../repos/natecraddock/ziglua.md) | ⭐ 542 | 2026-11-16 | Zig bindings for the Lua C API |
 
 
 ---
@@ -58,15 +76,15 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | ⭐ 64,047 | 2026-08-01 | 84 |
-| [lightpanda-io/browser](../repos/lightpanda-io/browser.md) | ⭐ 42,090 | 2026-08-02 | 69 |
-| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | ⭐ 17,382 | 2026-08-01 | 78 |
-| [blackboardsh/electrobun](../repos/blackboardsh/electrobun.md) | ⭐ 13,055 | 2026-10-29 | 9 |
-| [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | ⭐ 8,224 | 2026-08-04 | 43 |
-| [vercel-labs/native](../repos/vercel-labs/native.md) | ⭐ 7,846 | 2026-08-02 | 59 |
+| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | ⭐ 64,169 | 2026-08-01 | 85 |
+| [lightpanda-io/browser](../repos/lightpanda-io/browser.md) | ⭐ 42,142 | 2026-08-02 | 70 |
+| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | ⭐ 17,392 | 2026-08-01 | 79 |
+| [blackboardsh/electrobun](../repos/blackboardsh/electrobun.md) | ⭐ 13,071 | 2026-10-29 | 10 |
+| [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | ⭐ 8,229 | 2026-08-04 | 44 |
+| [vercel-labs/native](../repos/vercel-labs/native.md) | ⭐ 7,847 | 2026-08-02 | 60 |
 | [riverwm/river](../repos/riverwm/river.md) | ⭐ 4,320 | 2026-08-01 | 15 |
 | [zml/zml](../repos/zml/zml.md) | ⭐ 4,259 | 2026-08-01 | 41 |
-| [vercel-labs/fx](../repos/vercel-labs/fx.md) | ⭐ 3,870 | 2026-10-11 | 26 |
+| [vercel-labs/fx](../repos/vercel-labs/fx.md) | ⭐ 3,886 | 2026-10-11 | 27 |
 | [PixelGuys/Cubyz](../repos/PixelGuys/Cubyz.md) | ⭐ 3,747 | 2026-08-01 | 23 |
 | [mitchellh/libxev](../repos/mitchellh/libxev.md) | ⭐ 3,596 | 2026-08-23 | 7 |
 | [jstrieb/github-stats](../repos/jstrieb/github-stats.md) | ⭐ 3,559 | 2026-08-01 | 21 |
@@ -74,7 +92,7 @@
 | [pedropark99/zig-book](../repos/pedropark99/zig-book.md) | ⭐ 2,679 | 2026-08-02 | 3 |
 | [neurocyte/flow](../repos/neurocyte/flow.md) | ⭐ 2,549 | 2026-08-02 | 34 |
 | [ZigEmbeddedGroup/microzig](../repos/ZigEmbeddedGroup/microzig.md) | ⭐ 2,337 | 2026-08-03 | 8 |
-| [neurosnap/zmx](../repos/neurosnap/zmx.md) | ⭐ 2,284 | 2026-08-01 | 56 |
+| [neurosnap/zmx](../repos/neurosnap/zmx.md) | ⭐ 2,286 | 2026-08-01 | 57 |
 | [sleep3r/mtproto.zig](../repos/sleep3r/mtproto.zig.md) | ⭐ 2,215 | 2026-09-05 | 40 |
 | [rockorager/libvaxis](../repos/rockorager/libvaxis.md) | ⭐ 2,007 | 2026-08-01 | 14 |
 | [raylib-zig/raylib-zig](../repos/raylib-zig/raylib-zig.md) | ⭐ 1,909 | 2026-08-07 | 8 |
@@ -85,14 +103,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | 84 | ⭐ 64,047 | 2026-08-01 | 2026-11-12 |
-| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | 78 | ⭐ 17,382 | 2026-08-01 | 2026-11-15 |
-| [lightpanda-io/browser](../repos/lightpanda-io/browser.md) | 69 | ⭐ 42,090 | 2026-08-02 | 2026-11-15 |
-| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | 59 | ⭐ 1,278 | 2026-08-01 | 2026-11-15 |
-| [vercel-labs/native](../repos/vercel-labs/native.md) | 59 | ⭐ 7,846 | 2026-08-02 | 2026-11-14 |
-| [neurosnap/zmx](../repos/neurosnap/zmx.md) | 56 | ⭐ 2,284 | 2026-08-01 | 2026-11-14 |
+| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | 85 | ⭐ 64,169 | 2026-08-01 | 2026-11-16 |
+| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | 79 | ⭐ 17,392 | 2026-08-01 | 2026-11-16 |
+| [lightpanda-io/browser](../repos/lightpanda-io/browser.md) | 70 | ⭐ 42,142 | 2026-08-02 | 2026-11-16 |
+| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | 60 | ⭐ 1,282 | 2026-08-01 | 2026-11-16 |
+| [vercel-labs/native](../repos/vercel-labs/native.md) | 60 | ⭐ 7,847 | 2026-08-02 | 2026-11-16 |
+| [neurosnap/zmx](../repos/neurosnap/zmx.md) | 57 | ⭐ 2,286 | 2026-08-01 | 2026-11-16 |
 | [Loongphy/codex-auth](../repos/Loongphy/codex-auth.md) | 52 | ⭐ 2,868 | 2026-08-01 | 2026-11-13 |
-| [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | 43 | ⭐ 8,224 | 2026-08-04 | 2026-11-14 |
+| [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | 44 | ⭐ 8,229 | 2026-08-04 | 2026-11-16 |
 | [zml/zml](../repos/zml/zml.md) | 41 | ⭐ 4,259 | 2026-08-01 | 2026-11-14 |
 | [sleep3r/mtproto.zig](../repos/sleep3r/mtproto.zig.md) | 40 | ⭐ 2,215 | 2026-09-05 | 2026-11-14 |
 
@@ -143,7 +161,8 @@
 - [const-void/DOOM-fire-zig](../repos/const-void/DOOM-fire-zig.md) - DOOM&#39;s fire algo, in zig, for 256 color terminals w&#x2F;no dependencies
 - [manishrjain/egres](../repos/manishrjain/egres.md) - A Postgres Compatible Database for Heavy, Multi-Tenant Workloads
 - [karlseguin/websocket.zig](../repos/karlseguin/websocket.zig.md) - A websocket implementation for zig
+- [natecraddock/ziglua](../repos/natecraddock/ziglua.md) - Zig bindings for the Lua C API
 
 ---
 
-*Last updated: 2026-11-15T21:00:55.496Z*
+*Last updated: 2026-11-16T21:00:54.559Z*

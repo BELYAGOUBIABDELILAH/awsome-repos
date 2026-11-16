@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T21:01:01.557Z",
+  "generated_at": "2026-11-16T21:00:59.347Z",
   "total_count": 100,
   "repositories": [
     {
@@ -227,20 +227,20 @@
       "full_name": "flutter/flutter",
       "owner": "flutter",
       "name": "flutter",
-      "stars": 181251,
+      "stars": 181254,
       "language": "Dart",
       "first_seen": "2026-08-01",
-      "trending_days": 54
+      "trending_days": 55
     },
     {
       "rank": 24,
       "full_name": "huggingface/transformers",
       "owner": "huggingface",
       "name": "transformers",
-      "stars": 168915,
+      "stars": 169057,
       "language": "Python",
       "first_seen": "2026-07-31",
-      "trending_days": 10
+      "trending_days": 11
     },
     {
       "rank": 25,
@@ -264,6 +264,16 @@
     },
     {
       "rank": 27,
+      "full_name": "Genymobile/scrcpy",
+      "owner": "Genymobile",
+      "name": "scrcpy",
+      "stars": 154980,
+      "language": "C",
+      "first_seen": "2026-08-07",
+      "trending_days": 20
+    },
+    {
+      "rank": 28,
       "full_name": "anthropics/claude-code",
       "owner": "anthropics",
       "name": "claude-code",
@@ -271,16 +281,6 @@
       "language": "TypeScript",
       "first_seen": "2026-08-07",
       "trending_days": 21
-    },
-    {
-      "rank": 28,
-      "full_name": "Genymobile/scrcpy",
-      "owner": "Genymobile",
-      "name": "scrcpy",
-      "stars": 154755,
-      "language": "C",
-      "first_seen": "2026-08-07",
-      "trending_days": 19
     },
     {
       "rank": 29,
@@ -377,10 +377,10 @@
       "full_name": "golang/go",
       "owner": "golang",
       "name": "go",
-      "stars": 139873,
+      "stars": 139950,
       "language": "Go",
       "first_seen": "2026-07-31",
-      "trending_days": 19
+      "trending_days": 20
     },
     {
       "rank": 39,
@@ -437,10 +437,10 @@
       "full_name": "kubernetes/kubernetes",
       "owner": "kubernetes",
       "name": "kubernetes",
-      "stars": 129032,
+      "stars": 129115,
       "language": "Go",
       "first_seen": "2026-08-04",
-      "trending_days": 15
+      "trending_days": 16
     },
     {
       "rank": 45,
@@ -477,13 +477,23 @@
       "full_name": "rust-lang/rust",
       "owner": "rust-lang",
       "name": "rust",
-      "stars": 121842,
+      "stars": 122055,
       "language": "Rust",
       "first_seen": "2026-07-30",
-      "trending_days": 14
+      "trending_days": 15
     },
     {
       "rank": 49,
+      "full_name": "2dust/v2rayN",
+      "owner": "2dust",
+      "name": "v2rayN",
+      "stars": 120762,
+      "language": "C#",
+      "first_seen": "2026-08-02",
+      "trending_days": 36
+    },
+    {
+      "rank": 50,
       "full_name": "browser-use/browser-use",
       "owner": "browser-use",
       "name": "browser-use",
@@ -493,24 +503,14 @@
       "trending_days": 10
     },
     {
-      "rank": 50,
-      "full_name": "2dust/v2rayN",
-      "owner": "2dust",
-      "name": "v2rayN",
-      "stars": 120552,
-      "language": "C#",
-      "first_seen": "2026-08-02",
-      "trending_days": 35
-    },
-    {
       "rank": 51,
       "full_name": "godotengine/godot",
       "owner": "godotengine",
       "name": "godot",
-      "stars": 120227,
+      "stars": 120277,
       "language": "C++",
       "first_seen": "2026-08-01",
-      "trending_days": 13
+      "trending_days": 14
     },
     {
       "rank": 52,
@@ -577,20 +577,20 @@
       "full_name": "d3/d3",
       "owner": "d3",
       "name": "d3",
-      "stars": 113858,
+      "stars": 113944,
       "language": "Shell",
       "first_seen": "2026-08-07",
-      "trending_days": 4
+      "trending_days": 5
     },
     {
       "rank": 59,
       "full_name": "openai/whisper",
       "owner": "openai",
       "name": "whisper",
-      "stars": 112593,
+      "stars": 112835,
       "language": "Python",
       "first_seen": "2026-07-31",
-      "trending_days": 7
+      "trending_days": 8
     },
     {
       "rank": 60,
@@ -737,10 +737,10 @@
       "full_name": "angular/angular",
       "owner": "angular",
       "name": "angular",
-      "stars": 101484,
+      "stars": 101437,
       "language": "TypeScript",
       "first_seen": "2026-08-04",
-      "trending_days": 7
+      "trending_days": 8
     },
     {
       "rank": 75,
@@ -807,10 +807,10 @@
       "full_name": "nvm-sh/nvm",
       "owner": "nvm-sh",
       "name": "nvm",
-      "stars": 96111,
+      "stars": 96074,
       "language": "Shell",
       "first_seen": "2026-08-01",
-      "trending_days": 54
+      "trending_days": 55
     },
     {
       "rank": 82,
@@ -857,10 +857,10 @@
       "full_name": "astral-sh/uv",
       "owner": "astral-sh",
       "name": "uv",
-      "stars": 91951,
+      "stars": 92022,
       "language": "Rust",
       "first_seen": "2026-07-31",
-      "trending_days": 9
+      "trending_days": 10
     },
     {
       "rank": 87,
@@ -894,6 +894,16 @@
     },
     {
       "rank": 90,
+      "full_name": "koala73/worldmonitor",
+      "owner": "koala73",
+      "name": "worldmonitor",
+      "stars": 90766,
+      "language": "TypeScript",
+      "first_seen": "2026-08-28",
+      "trending_days": 8
+    },
+    {
+      "rank": 91,
       "full_name": "storybookjs/storybook",
       "owner": "storybookjs",
       "name": "storybook",
@@ -903,7 +913,7 @@
       "trending_days": 1
     },
     {
-      "rank": 91,
+      "rank": 92,
       "full_name": "bitcoin/bitcoin",
       "owner": "bitcoin",
       "name": "bitcoin",
@@ -913,7 +923,7 @@
       "trending_days": 12
     },
     {
-      "rank": 92,
+      "rank": 93,
       "full_name": "gohugoio/hugo",
       "owner": "gohugoio",
       "name": "hugo",
@@ -923,7 +933,7 @@
       "trending_days": 5
     },
     {
-      "rank": 93,
+      "rank": 94,
       "full_name": "tt-a1i/archify",
       "owner": "tt-a1i",
       "name": "archify",
@@ -933,7 +943,7 @@
       "trending_days": 22
     },
     {
-      "rank": 94,
+      "rank": 95,
       "full_name": "PanJiaChen/vue-element-admin",
       "owner": "PanJiaChen",
       "name": "vue-element-admin",
@@ -941,16 +951,6 @@
       "language": "Vue",
       "first_seen": "2026-08-01",
       "trending_days": 24
-    },
-    {
-      "rank": 95,
-      "full_name": "koala73/worldmonitor",
-      "owner": "koala73",
-      "name": "worldmonitor",
-      "stars": 90022,
-      "language": "TypeScript",
-      "first_seen": "2026-08-28",
-      "trending_days": 7
     },
     {
       "rank": 96,

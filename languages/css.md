@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 81
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-13
+- **Last Updated**: 2026-11-16
 
 ---
 
@@ -16,28 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 923 | 2026-08-01 | 40 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,494 | 2026-08-01 | 63 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,493 | 2026-08-01 | 62 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 7,237 | 2026-08-10 | 29 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [mingw-w64/mingw-w64.github.io](../repos/mingw-w64/mingw-w64.github.io.md) | ⭐ 1,056 | 2026-08-22 | 9 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 83,016 | 2026-08-06 | 32 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [jerrykuku/luci-theme-argon](../repos/jerrykuku/luci-theme-argon.md) | ⭐ 5,596 | 2026-10-17 | Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [prakhar1989/docker-curriculum](../repos/prakhar1989/docker-curriculum.md) | ⭐ 6,116 | 2026-10-17 | :dolphin: A comprehensive tutorial on getting started with Docker! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [wso2/docs-is](../repos/wso2/docs-is.md) | ⭐ 81 | 2026-10-20 |  |
@@ -64,7 +52,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,999 | 2026-08-06 | 31 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 83,016 | 2026-08-06 | 32 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 54,469 | 2026-08-02 | 45 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,487 | 2026-08-01 | 14 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,470 | 2026-08-04 | 35 |
@@ -91,12 +79,12 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 62 | ⭐ 1,493 | 2026-08-01 | 2026-11-15 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 63 | ⭐ 1,494 | 2026-08-01 | 2026-11-16 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 45 | ⭐ 54,469 | 2026-08-02 | 2026-11-13 |
 | [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 40 | ⭐ 923 | 2026-08-01 | 2026-11-15 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 35 | ⭐ 45,470 | 2026-08-04 | 2026-11-14 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | 32 | ⭐ 83,016 | 2026-08-06 | 2026-11-16 |
 | [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 31 | ⭐ 9,654 | 2026-08-05 | 2026-11-14 |
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | 31 | ⭐ 82,999 | 2026-08-06 | 2026-11-13 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 29 | ⭐ 1,431 | 2026-08-01 | 2026-10-22 |
 | [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | 29 | ⭐ 7,237 | 2026-08-10 | 2026-11-15 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 23 | ⭐ 12,511 | 2026-08-01 | 2026-10-09 |
@@ -190,4 +178,4 @@
 
 ---
 
-*Last updated: 2026-11-15T21:00:55.397Z*
+*Last updated: 2026-11-16T21:00:54.462Z*

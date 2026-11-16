@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 152
+- **Total Repositories**: 153
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-06
 
@@ -16,43 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rooootdev/lara](../repos/rooootdev/lara.md) | ⭐ 1,646 | 2026-08-03 | 6 |
+| [apple/container](../repos/apple/container.md) | ⭐ 51,663 | 2026-08-01 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Aidoku/Aidoku](../repos/Aidoku/Aidoku.md) | ⭐ 4,755 | 2026-08-03 | 6 |
+| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | ⭐ 9,443 | 2026-08-02 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | ⭐ 1,446 | 2026-09-13 | 13 |
+| [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 15,429 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/Llama-macOS](../repos/ggml-org/Llama-macOS.md) | ⭐ 1,825 | 2026-10-06 | 7 |
+| [openai/tart](../repos/openai/tart.md) | ⭐ 7,926 | 2026-08-14 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bobsupra/NuvioTVOS](../repos/bobsupra/NuvioTVOS.md) | ⭐ 427 | 2026-10-11 | 3 |
+| [bobsupra/NuvioTVOS](../repos/bobsupra/NuvioTVOS.md) | ⭐ 436 | 2026-10-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hugeBlack/GetMoreRam](../repos/hugeBlack/GetMoreRam.md) | ⭐ 479 | 2026-10-17 | 4 |
+| [frs0n/GestaltEdit](../repos/frs0n/GestaltEdit.md) | ⭐ 1,202 | 2026-11-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [milika/SmartTubeIOS](../repos/milika/SmartTubeIOS.md) | ⭐ 569 | 2026-10-28 | 2 |
+| [suversal/WrapPin](../repos/suversal/WrapPin.md) | ⭐ 954 | 2026-11-15 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [suversal/WrapPin](../repos/suversal/WrapPin.md) | ⭐ 921 | 2026-11-15 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [drumih/turbo-fieldfare](../repos/drumih/turbo-fieldfare.md) | ⭐ 7,392 | 2026-11-15 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ResistanceTo/MiniWatts](../repos/ResistanceTo/MiniWatts.md) | ⭐ 509 | 2026-11-15 | 1 |
+| [Xplo8E/Liter8](../repos/Xplo8E/Liter8.md) | ⭐ 226 | 2026-11-16 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [hugeBlack/GetMoreRam](../repos/hugeBlack/GetMoreRam.md) | ⭐ 479 | 2026-10-17 | A simple AltSign wrapper app that allows you to enable &quot;Increased Memory Limit&quot; to your sideloade... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [iFurySt/open-computer-use](../repos/iFurySt/open-computer-use.md) | ⭐ 2,963 | 2026-10-18 | 👾 Open Computer Use – Open-Source Alternative to Codex Computer Use |
@@ -80,6 +71,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [cmagnussen/blitztext-app](../repos/cmagnussen/blitztext-app.md) | ⭐ 246 | 2026-10-28 | Local-first dictation for macOS. Speak, text, done. Parakeet or Whisper on your Mac, writing mode... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [nook-browser/Nook](../repos/nook-browser/Nook.md) | ⭐ 2,022 | 2026-10-29 | A new browser, not owned by Atlassian. |
 
 
 ---
@@ -90,7 +84,7 @@
 |------------|-------|------------|---------------|
 | [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,542 | 2026-08-05 | 18 |
 | [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) | ⭐ 53,673 | 2026-09-04 | 5 |
-| [apple/container](../repos/apple/container.md) | ⭐ 51,470 | 2026-08-01 | 22 |
+| [apple/container](../repos/apple/container.md) | ⭐ 51,663 | 2026-08-01 | 23 |
 | [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,920 | 2026-08-12 | 15 |
 | [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,714 | 2026-09-01 | 5 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 28,794 | 2026-08-01 | 28 |
@@ -103,8 +97,8 @@
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,685 | 2026-08-01 | 4 |
 | [OpenEmu/OpenEmu](../repos/OpenEmu/OpenEmu.md) | ⭐ 17,766 | 2026-09-13 | 1 |
 | [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 15,451 | 2026-09-21 | 16 |
+| [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 15,429 | 2026-08-03 | 5 |
 | [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 15,311 | 2026-08-24 | 13 |
-| [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 15,130 | 2026-08-03 | 4 |
 | [Whisky-App/Whisky](../repos/Whisky-App/Whisky.md) | ⭐ 15,107 | 2026-09-06 | 2 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,999 | 2026-08-04 | 22 |
 | [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,925 | 2026-08-17 | 15 |
@@ -117,9 +111,9 @@
 |------------|---------------|-------|------------|-----------|
 | [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 33 | ⭐ 14,103 | 2026-08-01 | 2026-11-11 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 28 | ⭐ 28,794 | 2026-08-01 | 2026-11-14 |
-| [apple/container](../repos/apple/container.md) | 22 | ⭐ 51,470 | 2026-08-01 | 2026-11-14 |
+| [apple/container](../repos/apple/container.md) | 23 | ⭐ 51,663 | 2026-08-01 | 2026-11-16 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 22 | ⭐ 14,999 | 2026-08-04 | 2026-10-29 |
-| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 18 | ⭐ 9,415 | 2026-08-02 | 2026-11-07 |
+| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 19 | ⭐ 9,443 | 2026-08-02 | 2026-11-16 |
 | [swiftlang/swift](../repos/swiftlang/swift.md) | 18 | ⭐ 70,542 | 2026-08-05 | 2026-11-06 |
 | [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 16 | ⭐ 4,139 | 2026-08-01 | 2026-11-13 |
 | [apple/swift-nio](../repos/apple/swift-nio.md) | 16 | ⭐ 8,547 | 2026-08-04 | 2026-11-06 |
@@ -233,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-11-15T21:00:55.480Z*
+*Last updated: 2026-11-16T21:00:54.544Z*

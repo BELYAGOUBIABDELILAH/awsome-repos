@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 182
+- **Total Repositories**: 183
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-13
+- **Last Updated**: 2026-11-16
 
 ---
 
@@ -16,40 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | ⭐ 3,366 | 2026-08-02 | 22 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 66,022 | 2026-08-02 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 64,039 | 2026-08-03 | 18 |
+| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 11,324 | 2026-08-03 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 56,703 | 2026-08-06 | 18 |
+| [Dev4Mod/WaEnhancer](../repos/Dev4Mod/WaEnhancer.md) | ⭐ 1,897 | 2026-08-03 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ximeiorg/Xime](../repos/ximeiorg/Xime.md) | ⭐ 1,391 | 2026-09-09 | 8 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 64,065 | 2026-08-03 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [compose-miuix-ui/miuix](../repos/compose-miuix-ui/miuix.md) | ⭐ 1,647 | 2026-09-14 | 3 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 33,864 | 2026-08-08 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CYQawa/YunX](../repos/CYQawa/YunX.md) | ⭐ 8,031 | 2026-10-06 | 16 |
+| [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,591 | 2026-08-10 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MuwMx/YumaPlayer](../repos/MuwMx/YumaPlayer.md) | ⭐ 1,231 | 2026-10-13 | 6 |
+| [PimpinPumpkin/Vela](../repos/PimpinPumpkin/Vela.md) | ⭐ 2,706 | 2026-10-06 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [realidkroo/Mochy-Music](../repos/realidkroo/Mochy-Music.md) | ⭐ 1,796 | 2026-10-28 | 9 |
+| [throneproj/ThroneForAndroid](../repos/throneproj/ThroneForAndroid.md) | ⭐ 834 | 2026-10-11 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [MuwMx/YumaPlayer](../repos/MuwMx/YumaPlayer.md) | ⭐ 1,242 | 2026-10-13 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [SukiSU-Nova/SukiSU-Nova](../repos/SukiSU-Nova/SukiSU-Nova.md) | ⭐ 7,154 | 2026-11-16 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Clarklevis1995/dsh-mobile](../repos/Clarklevis1995/dsh-mobile.md) | ⭐ 740 | 2026-10-17 | DeepSeek Harness Mobile 是一个面向 DeepSeek Harness 的原生移动端客户端。它通过 dsh-plugin-mobile-gateway 与 Harness ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [fahrez182/AxManager](../repos/fahrez182/AxManager.md) | ⭐ 1,544 | 2026-10-17 | AxManager is an Android application designed to provide deeper control over apps and the system. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jieapi/AiCode](../repos/jieapi/AiCode.md) | ⭐ 339 | 2026-10-22 | 在 Android 上运行的 AI 编程 Agent，内置 Linux 终端与代码编辑器，支持 MCP 协议扩展。 |
@@ -74,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [tidain/YunX-Desktop](../repos/tidain/YunX-Desktop.md) | ⭐ 5,907 | 2026-11-09 | YunX（云析）的官方 windows 桌面端 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [babalae/bettergi-pocket](../repos/babalae/bettergi-pocket.md) | ⭐ 164 | 2026-11-11 | BetterGI 安卓版本 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mollyim/mollyim-android](../repos/mollyim/mollyim-android.md) | ⭐ 3,832 | 2026-11-11 | Enhanced and security-focused fork of Signal. |
 
 
 ---
@@ -82,13 +88,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 65,835 | 2026-08-02 | 25 |
-| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 64,039 | 2026-08-03 | 18 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 66,022 | 2026-08-02 | 26 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 64,065 | 2026-08-03 | 19 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 56,703 | 2026-08-06 | 18 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,561 | 2026-08-04 | 15 |
 | [android/architecture-samples](../repos/android/architecture-samples.md) | ⭐ 45,876 | 2026-10-14 | 2 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 44,223 | 2026-08-03 | 18 |
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 33,265 | 2026-08-08 | 23 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 33,864 | 2026-08-08 | 24 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,537 | 2026-08-05 | 8 |
 | [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 28,342 | 2026-08-11 | 5 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 25,276 | 2026-08-01 | 19 |
@@ -109,14 +115,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 25 | ⭐ 65,835 | 2026-08-02 | 2026-11-13 |
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 23 | ⭐ 33,265 | 2026-08-08 | 2026-11-09 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 26 | ⭐ 66,022 | 2026-08-02 | 2026-11-16 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 24 | ⭐ 33,864 | 2026-08-08 | 2026-11-16 |
 | [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 22 | ⭐ 3,366 | 2026-08-02 | 2026-11-15 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 19 | ⭐ 25,276 | 2026-08-01 | 2026-11-13 |
-| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 18 | ⭐ 64,039 | 2026-08-03 | 2026-11-15 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 19 | ⭐ 64,065 | 2026-08-03 | 2026-11-16 |
+| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | 18 | ⭐ 11,324 | 2026-08-03 | 2026-11-16 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | 18 | ⭐ 44,223 | 2026-08-03 | 2026-11-07 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 18 | ⭐ 56,703 | 2026-08-06 | 2026-11-15 |
-| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | 17 | ⭐ 11,284 | 2026-08-03 | 2026-11-13 |
 | [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) | 16 | ⭐ 2,217 | 2026-08-04 | 2026-11-09 |
 | [CYQawa/YunX](../repos/CYQawa/YunX.md) | 16 | ⭐ 8,031 | 2026-10-06 | 2026-11-15 |
 
@@ -227,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-15T21:00:55.439Z*
+*Last updated: 2026-11-16T21:00:54.501Z*

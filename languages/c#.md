@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 202
+- **Total Repositories**: 203
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-13
+- **Last Updated**: 2026-11-16
 
 ---
 
@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,663 | 2026-08-01 | 18 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 33,352 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openutau/OpenUtau](../repos/openutau/OpenUtau.md) | ⭐ 4,591 | 2026-08-01 | 7 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 15,022 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 33,799 | 2026-08-02 | 44 |
+| [openutau/OpenUtau](../repos/openutau/OpenUtau.md) | ⭐ 4,596 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tModLoader/tModLoader](../repos/tModLoader/tModLoader.md) | ⭐ 5,787 | 2026-08-02 | 12 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 120,762 | 2026-08-02 | 36 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 27,055 | 2026-08-02 | 10 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 59,438 | 2026-08-02 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/efcore](../repos/dotnet/efcore.md) | ⭐ 14,819 | 2026-08-04 | 7 |
+| [PCL-Community/PCL-CE](../repos/PCL-Community/PCL-CE.md) | ⭐ 5,153 | 2026-09-14 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,772 | 2026-08-05 | 16 |
+| [MoFeng2223/BrimDeck](../repos/MoFeng2223/BrimDeck.md) | ⭐ 764 | 2026-11-06 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [umlx5h/LLPlayer](../repos/umlx5h/LLPlayer.md) | ⭐ 4,725 | 2026-09-04 | 10 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [patchzyy/Wiicompiled](../repos/patchzyy/Wiicompiled.md) | ⭐ 1,393 | 2026-10-26 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [MoFeng2223/BrimDeck](../repos/MoFeng2223/BrimDeck.md) | ⭐ 730 | 2026-11-06 | 5 |
+| [lay295/TwitchDownloader](../repos/lay295/TwitchDownloader.md) | ⭐ 4,055 | 2026-11-16 | 1 |
 
 
 ---
@@ -88,15 +82,15 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 120,552 | 2026-08-02 | 35 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 59,358 | 2026-08-02 | 25 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 120,762 | 2026-08-02 | 36 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 59,438 | 2026-08-02 | 26 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 56,176 | 2026-08-06 | 25 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,663 | 2026-08-01 | 18 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 40,927 | 2026-08-14 | 10 |
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 39,237 | 2026-08-03 | 18 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,524 | 2026-08-01 | 26 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 33,799 | 2026-08-02 | 44 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,757 | 2026-08-01 | 23 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 33,352 | 2026-08-01 | 24 |
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 32,177 | 2026-08-22 | 6 |
 | [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,082 | 2026-08-28 | 4 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
@@ -117,14 +111,14 @@
 |------------|---------------|-------|------------|-----------|
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 44 | ⭐ 33,799 | 2026-08-02 | 2026-11-15 |
 | [dotnet/skills](../repos/dotnet/skills.md) | 44 | ⭐ 6,179 | 2026-08-03 | 2026-11-14 |
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 35 | ⭐ 120,552 | 2026-08-02 | 2026-11-13 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 36 | ⭐ 120,762 | 2026-08-02 | 2026-11-16 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 27 | ⭐ 17,894 | 2026-08-02 | 2026-11-10 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 26 | ⭐ 38,524 | 2026-08-01 | 2026-11-14 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 25 | ⭐ 59,358 | 2026-08-02 | 2026-11-14 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 26 | ⭐ 59,438 | 2026-08-02 | 2026-11-16 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | 25 | ⭐ 56,176 | 2026-08-06 | 2026-11-14 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 24 | ⭐ 33,352 | 2026-08-01 | 2026-11-16 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 24 | ⭐ 15,022 | 2026-08-01 | 2026-11-16 |
 | [dotnet/runtime](../repos/dotnet/runtime.md) | 24 | ⭐ 18,437 | 2026-08-04 | 2026-11-14 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 23 | ⭐ 32,757 | 2026-08-01 | 2026-10-29 |
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 23 | ⭐ 14,945 | 2026-08-01 | 2026-11-10 |
 
 ---
 
@@ -233,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-11-15T21:00:55.392Z*
+*Last updated: 2026-11-16T21:00:54.457Z*

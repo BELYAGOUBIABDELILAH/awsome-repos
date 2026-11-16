@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 349
+- **Total Repositories**: 351
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-03
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HKUDS/Vibe-Trading](../repos/HKUDS/Vibe-Trading.md) | ⭐ 38,318 | 2026-08-24 | 5 |
+| [openai/whisper](../repos/openai/whisper.md) | ⭐ 112,835 | 2026-07-31 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SnailSploit/Claude-Red](../repos/SnailSploit/Claude-Red.md) | ⭐ 11,012 | 2026-09-12 | 7 |
+| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 169,057 | 2026-07-31 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HKUDS/AutoSwarm](../repos/HKUDS/AutoSwarm.md) | ⭐ 2,535 | 2026-10-27 | 2 |
+| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 68,043 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/SkillEvaluator](../repos/NVIDIA/SkillEvaluator.md) | ⭐ 1,575 | 2026-11-12 | 3 |
+| [HKUDS/Vibe-Trading](../repos/HKUDS/Vibe-Trading.md) | ⭐ 38,383 | 2026-08-24 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tradermonty/claude-trading-skills](../repos/tradermonty/claude-trading-skills.md) | ⭐ 5,431 | 2026-11-13 | 3 |
+| [superdesigndev/treg](../repos/superdesigndev/treg.md) | ⭐ 8,166 | 2026-09-22 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [andrewyng/openworker](../repos/andrewyng/openworker.md) | ⭐ 19,338 | 2026-11-14 | 2 |
+| [ifixai-ai/iFixAi](../repos/ifixai-ai/iFixAi.md) | ⭐ 46,039 | 2026-10-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bojieli/ai-infra-book](../repos/bojieli/ai-infra-book.md) | ⭐ 7,818 | 2026-11-15 | 1 |
+| [isair/jarvis](../repos/isair/jarvis.md) | ⭐ 2,314 | 2026-10-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PrefectHQ/fastmcp](../repos/PrefectHQ/fastmcp.md) | ⭐ 28,519 | 2026-11-15 | 1 |
+| [NVIDIA/SkillEvaluator](../repos/NVIDIA/SkillEvaluator.md) | ⭐ 2,548 | 2026-11-12 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fqscfqj/Y2A-Auto](../repos/fqscfqj/Y2A-Auto.md) | ⭐ 5,010 | 2026-11-15 | 1 |
+| [tradermonty/claude-trading-skills](../repos/tradermonty/claude-trading-skills.md) | ⭐ 6,221 | 2026-11-13 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ManimCommunity/manim](../repos/ManimCommunity/manim.md) | ⭐ 42,578 | 2026-11-15 | 1 |
+| [google-research/paper-orchestra](../repos/google-research/paper-orchestra.md) | ⭐ 1,365 | 2026-11-16 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ScrapeCreators/social-media-research-skills](../repos/ScrapeCreators/social-media-research-skills.md) | ⭐ 4,026 | 2026-10-17 | AI agent skills for social media research. Outlier posts, comment mining, competitor teardowns, a... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Kruk2/jasna](../repos/Kruk2/jasna.md) | ⭐ 3,232 | 2026-10-18 | Video restoration tool |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [higgsfield-ai/skills](../repos/higgsfield-ai/skills.md) | ⭐ 1,672 | 2026-10-26 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [homeassistant-ai/ha-mcp](../repos/homeassistant-ai/ha-mcp.md) | ⭐ 7,675 | 2026-10-26 | Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. |
 
 
 ---
@@ -98,7 +98,7 @@
 | [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 193,049 | 2026-08-11 | 13 |
 | [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 189,013 | 2026-09-07 | 3 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,775 | 2026-08-06 | 9 |
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 168,915 | 2026-07-31 | 10 |
+| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 169,057 | 2026-07-31 | 11 |
 | [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 147,818 | 2026-08-14 | 13 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 143,038 | 2026-08-04 | 8 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 141,991 | 2026-08-05 | 13 |
@@ -107,7 +107,7 @@
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 132,217 | 2026-08-04 | 17 |
 | [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 120,731 | 2026-08-20 | 10 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 117,829 | 2026-08-08 | 16 |
-| [openai/whisper](../repos/openai/whisper.md) | ⭐ 112,593 | 2026-07-31 | 7 |
+| [openai/whisper](../repos/openai/whisper.md) | ⭐ 112,835 | 2026-07-31 | 8 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-15T21:00:55.463Z*
+*Last updated: 2026-11-16T21:00:54.529Z*

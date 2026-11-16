@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | Other |
-| **Stars** | ⭐ 6,379 |
-| **Forks** | 🍴 547 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 8,166 |
+| **Forks** | 🍴 775 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #7 |
 
 | **First Seen** | Sep 22, 2026 |
-| **Last Seen** | Oct 27, 2026 |
+| **Last Seen** | Nov 16, 2026 |
 
 
 ---
@@ -48,7 +48,7 @@
 ### Highlights
 
 - **Peak Rank**: #7
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 2 days
 
 ---
@@ -73,7 +73,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -92,5 +92,5 @@
 
 ---
 
-*Last updated: 2026-11-15T21:01:00.157Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-11-16T21:00:58.249Z*  
+*Data from 8 trending reports*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | BSD-3-Clause |
-| **Stars** | ⭐ 7,589 |
-| **Forks** | 🍴 318 |
-| **Trending Days** | 5 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 8,631 |
+| **Forks** | 🍴 401 |
+| **Trending Days** | 6 |
+| **Peak Rank** | #6 |
 
 | **First Seen** | Aug 6, 2026 |
-| **Last Seen** | Sep 24, 2026 |
+| **Last Seen** | Nov 16, 2026 |
 
 
 ---
@@ -43,11 +43,12 @@
 
 ## Trending Timeline
 
+**Nov 16, 2026** — Rank #6 (+31 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
+- **Peak Rank**: #6
+- **Trending Days**: 6
 - **Longest Streak**: 1 days
 
 ---
@@ -72,7 +73,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 80&#x2F;100
-- **Historical Rank**: No ranking data
+- **Trending Score**: 95&#x2F;100
+- **Historical Rank**: Top 10 (Peak: #6)
 
 
 ---
 
-*Last updated: 2026-11-15T21:00:58.294Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-11-16T21:00:56.783Z*  
+*Data from 6 trending reports*

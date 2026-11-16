@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 157
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-02
+- **Last Updated**: 2026-11-16
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jqssun/android-titanium-browser](../repos/jqssun/android-titanium-browser.md) | ⭐ 3,230 | 2026-08-02 | 12 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 96,074 | 2026-08-01 | 55 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hestiacp/hestiacp](../repos/hestiacp/hestiacp.md) | ⭐ 4,581 | 2026-08-06 | 6 |
+| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 2,251 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 4,158 | 2026-08-07 | 39 |
+| [InfinityLoop1308/PipePipe](../repos/InfinityLoop1308/PipePipe.md) | ⭐ 7,255 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fscarmen/sing-box](../repos/fscarmen/sing-box.md) | ⭐ 6,055 | 2026-09-21 | 7 |
+| [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,965 | 2026-08-04 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EpicGames/unreal-engine-skills-for-claude-code-plugin](../repos/EpicGames/unreal-engine-skills-for-claude-code-plugin.md) | ⭐ 1,976 | 2026-10-11 | 8 |
+| [marcusquinn/aidevops](../repos/marcusquinn/aidevops.md) | ⭐ 456 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [itsnotkubrick/3X-UI_KIT](../repos/itsnotkubrick/3X-UI_KIT.md) | ⭐ 687 | 2026-10-15 | 4 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 4,173 | 2026-08-07 | 40 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gentoo/gentoo](../repos/gentoo/gentoo.md) | ⭐ 2,492 | 2026-10-16 | 2 |
+| [d3/d3](../repos/d3/d3.md) | ⭐ 113,944 | 2026-08-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ublue-os/bazzite](../repos/ublue-os/bazzite.md) | ⭐ 9,352 | 2026-11-11 | 2 |
+| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | ⭐ 3,982 | 2026-08-19 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kinsamanka/OpenStick-Builder](../repos/kinsamanka/OpenStick-Builder.md) | ⭐ 102 | 2026-11-15 | 1 |
+| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 34,152 | 2026-08-20 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [233boy/Xray](../repos/233boy/Xray.md) | ⭐ 2,828 | 2026-11-15 | 1 |
+| [liandu2024/Open-Box](../repos/liandu2024/Open-Box.md) | ⭐ 2,770 | 2026-10-22 | 8 |
 
 
 ---
@@ -52,16 +52,13 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [home-assistant/addons](../repos/home-assistant/addons.md) | ⭐ 2,239 | 2026-10-17 | :heavy_plus_sign: Docker add-ons for Home Assistant |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [sorin-ionescu/prezto](../repos/sorin-ionescu/prezto.md) | ⭐ 14,576 | 2026-10-20 | The configuration framework for Zsh |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [auscaster/frantic-board](../repos/auscaster/frantic-board.md) | ⭐ 642 | 2026-10-21 | HELP WANTED: AI AGENTS. Real bounties, real money, every payout sealed to a public ledger. The no... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [liandu2024/Open-Box](../repos/liandu2024/Open-Box.md) | ⭐ 2,654 | 2026-10-22 | Open-Box 一体化透明代理：OpenWrt &#x2F; Debian &#x2F; Ubuntu &#x2F; Docker；自有程序闭源，第三方组件遵守原许可。 |
+| [liandu2024/Open-Box](../repos/liandu2024/Open-Box.md) | ⭐ 2,770 | 2026-10-22 | Open-Box 一体化透明代理：OpenWrt &#x2F; Debian &#x2F; Ubuntu &#x2F; Docker；自有程序闭源，第三方组件遵守原许可。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nextcloud/docker](../repos/nextcloud/docker.md) | ⭐ 7,406 | 2026-10-23 | A community maintained docker micro-image for deploying Nextcloud on container platforms |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ViktorUJ/cks](../repos/ViktorUJ/cks.md) | ⭐ 1,669 | 2026-10-29 | Open-source Platform for learning kubernetes and aws eks   and preparation for  for  Certified Ku... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [agarrharr/awesome-cli-apps](../repos/agarrharr/awesome-cli-apps.md) | ⭐ 20,600 | 2026-11-04 | 🖥 📊 🕹 🛠 A curated list of command line apps |
 
 
 ---
@@ -88,16 +88,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [d3/d3](../repos/d3/d3.md) | ⭐ 113,858 | 2026-08-07 | 4 |
+| [d3/d3](../repos/d3/d3.md) | ⭐ 113,944 | 2026-08-07 | 5 |
 | [papers-we-love/papers-we-love](../repos/papers-we-love/papers-we-love.md) | ⭐ 110,960 | 2026-10-27 | 1 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 96,111 | 2026-08-01 | 54 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 96,074 | 2026-08-01 | 55 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,756 | 2026-08-04 | 10 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,702 | 2026-08-06 | 15 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,950 | 2026-08-04 | 15 |
 | [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 46,666 | 2026-08-29 | 17 |
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
-| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 34,115 | 2026-08-20 | 14 |
+| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 34,152 | 2026-08-20 | 15 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 33,123 | 2026-08-02 | 22 |
 | [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,871 | 2026-09-02 | 7 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 54 | ⭐ 96,111 | 2026-08-01 | 2026-11-14 |
-| [expo/skills](../repos/expo/skills.md) | 39 | ⭐ 4,158 | 2026-08-07 | 2026-11-15 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 55 | ⭐ 96,074 | 2026-08-01 | 2026-11-16 |
+| [expo/skills](../repos/expo/skills.md) | 40 | ⭐ 4,173 | 2026-08-07 | 2026-11-16 |
 | [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 27 | ⭐ 8,876 | 2026-08-12 | 2026-11-14 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
 | [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | 17 | ⭐ 11,015 | 2026-08-07 | 2026-11-10 |
+| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | 17 | ⭐ 3,982 | 2026-08-19 | 2026-11-16 |
 | [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | 17 | ⭐ 1,636 | 2026-08-20 | 2026-11-11 |
 | [omacom/omarchy](../repos/omacom/omarchy.md) | 17 | ⭐ 46,666 | 2026-08-29 | 2026-11-09 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | 16 | ⭐ 26,538 | 2026-08-04 | 2026-11-14 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 16 | ⭐ 3,343 | 2026-08-05 | 2026-11-11 |
-| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | 16 | ⭐ 3,852 | 2026-08-19 | 2026-11-10 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-15T21:00:55.476Z*
+*Last updated: 2026-11-16T21:00:54.541Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | Other |
-| **Stars** | ⭐ 535 |
-| **Forks** | 🍴 51 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 1,399 |
+| **Forks** | 🍴 139 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 22, 2026 |
-| **Last Seen** | Sep 22, 2026 |
+| **Last Seen** | Nov 16, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Go or context-engineering*
+*Similar: Check repositories in Go or context-enginnering*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`context-engineering`](../../topics/context-engineering.md) [`harness-engineering`](../../topics/harness-engineering.md) [`ontology`](../../topics/ontology.md) [`ontology-engineering`](../../topics/ontology-engineering.md) [`ontology-platform`](../../topics/ontology-platform.md) [`opensource-ontology-platform`](../../topics/opensource-ontology-platform.md) 
+[`context-enginnering`](../../topics/context-enginnering.md) [`ontology`](../../topics/ontology.md) [`ontology-engineering`](../../topics/ontology-engineering.md) [`ontology-platform`](../../topics/ontology-platform.md) [`opensource-ontology-platform`](../../topics/opensource-ontology-platform.md) 
 
 ### Curated Categories
 `Systems Programming` 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-15T21:01:00.161Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-11-16T21:00:58.252Z*  
+*Data from 2 trending reports*

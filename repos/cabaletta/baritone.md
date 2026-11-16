@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Java |
 | **License** | LGPL-3.0 |
-| **Stars** | ⭐ 9,358 |
-| **Forks** | 🍴 2,085 |
-| **Trending Days** | 12 |
+| **Stars** | ⭐ 9,359 |
+| **Forks** | 🍴 2,084 |
+| **Trending Days** | 13 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Nov 15, 2026 |
+| **Last Seen** | Nov 16, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 12
+- **Trending Days**: 13
 - **Longest Streak**: 2 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Very Active | Updated within last week |
+| **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-15T21:00:57.838Z*  
-*Data from 12 trending reports*
+*Last updated: 2026-11-16T21:00:56.421Z*  
+*Data from 13 trending reports*

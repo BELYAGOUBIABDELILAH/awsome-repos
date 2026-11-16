@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 23
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-15
+- **Last Updated**: 2026-11-16
 
 ---
 
@@ -16,13 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | ⭐ 4,399 | 2026-08-01 | 63 |
+| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | ⭐ 4,398 | 2026-08-01 | 64 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | ⭐ 3,293 | 2026-08-01 | 84 |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | ⭐ 3,295 | 2026-08-01 | 85 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | ⭐ 808 | 2026-08-01 | 53 |
+| [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | ⭐ 2,409 | 2026-08-04 | 35 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [TinyTapeout/ttsky-verilog-template](../repos/TinyTapeout/ttsky-verilog-template.md) | ⭐ 69 | 2026-08-14 | 24 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ufrisk/pcileech-fpga](../repos/ufrisk/pcileech-fpga.md) | ⭐ 1,858 | 2026-10-25 | 3 |
 
 
 ---
@@ -34,7 +40,7 @@
 | [MiSTer-devel/Template_MiSTer](../repos/MiSTer-devel/Template_MiSTer.md) | ⭐ 96 | 2026-10-22 | Template with latest framework for MiSTer |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ufrisk/pcileech-fpga](../repos/ufrisk/pcileech-fpga.md) | ⭐ 1,839 | 2026-10-25 | FPGA modules used together with the PCILeech Direct Memory Access (DMA) Attack Software |
+| [ufrisk/pcileech-fpga](../repos/ufrisk/pcileech-fpga.md) | ⭐ 1,858 | 2026-10-25 | FPGA modules used together with the PCILeech Direct Memory Access (DMA) Attack Software |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [openecos-projects/icsprout55-pdk](../repos/openecos-projects/icsprout55-pdk.md) | ⭐ 323 | 2026-10-29 | 55nm CMOS Open Source PDK for Digital, Analog, and Mixed-Signal Circuit Design. It supports an op... |
@@ -49,15 +55,15 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | ⭐ 4,399 | 2026-08-01 | 63 |
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | ⭐ 3,293 | 2026-08-01 | 84 |
+| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | ⭐ 4,398 | 2026-08-01 | 64 |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | ⭐ 3,295 | 2026-08-01 | 85 |
 | [alexforencich/verilog-ethernet](../repos/alexforencich/verilog-ethernet.md) | ⭐ 3,133 | 2026-08-02 | 10 |
 | [corundum/corundum](../repos/corundum/corundum.md) | ⭐ 2,508 | 2026-08-07 | 8 |
-| [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | ⭐ 2,403 | 2026-08-04 | 34 |
+| [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | ⭐ 2,409 | 2026-08-04 | 35 |
 | [nvdla/hw](../repos/nvdla/hw.md) | ⭐ 2,170 | 2026-09-25 | 1 |
 | [analogdevicesinc/hdl](../repos/analogdevicesinc/hdl.md) | ⭐ 2,014 | 2026-08-01 | 34 |
 | [riscv-mcu/e203_hbirdv2](../repos/riscv-mcu/e203_hbirdv2.md) | ⭐ 1,977 | 2026-11-03 | 2 |
-| [ufrisk/pcileech-fpga](../repos/ufrisk/pcileech-fpga.md) | ⭐ 1,839 | 2026-10-25 | 2 |
+| [ufrisk/pcileech-fpga](../repos/ufrisk/pcileech-fpga.md) | ⭐ 1,858 | 2026-10-25 | 3 |
 | [XUANTIE-RV/openc910](../repos/XUANTIE-RV/openc910.md) | ⭐ 1,462 | 2026-08-06 | 2 |
 | [chili-chips-ba/wireguard-fpga](../repos/chili-chips-ba/wireguard-fpga.md) | ⭐ 1,352 | 2026-08-09 | 1 |
 | [EttusResearch/uhd](../repos/EttusResearch/uhd.md) | ⭐ 1,303 | 2026-08-01 | 56 |
@@ -76,13 +82,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 84 | ⭐ 3,293 | 2026-08-01 | 2026-11-15 |
-| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | 63 | ⭐ 4,399 | 2026-08-01 | 2026-11-15 |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 85 | ⭐ 3,295 | 2026-08-01 | 2026-11-16 |
+| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | 64 | ⭐ 4,398 | 2026-08-01 | 2026-11-16 |
 | [EttusResearch/uhd](../repos/EttusResearch/uhd.md) | 56 | ⭐ 1,303 | 2026-08-01 | 2026-11-14 |
 | [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | 53 | ⭐ 808 | 2026-08-01 | 2026-11-15 |
+| [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | 35 | ⭐ 2,409 | 2026-08-04 | 2026-11-16 |
 | [analogdevicesinc/hdl](../repos/analogdevicesinc/hdl.md) | 34 | ⭐ 2,014 | 2026-08-01 | 2026-09-12 |
-| [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | 34 | ⭐ 2,403 | 2026-08-04 | 2026-11-14 |
-| [TinyTapeout/ttsky-verilog-template](../repos/TinyTapeout/ttsky-verilog-template.md) | 23 | ⭐ 67 | 2026-08-14 | 2026-11-09 |
+| [TinyTapeout/ttsky-verilog-template](../repos/TinyTapeout/ttsky-verilog-template.md) | 24 | ⭐ 69 | 2026-08-14 | 2026-11-16 |
 | [The-OpenROAD-Project/OpenSTA](../repos/The-OpenROAD-Project/OpenSTA.md) | 21 | ⭐ 643 | 2026-08-03 | 2026-11-11 |
 | [OpenPOWERFoundation/a2o](../repos/OpenPOWERFoundation/a2o.md) | 16 | ⭐ 59 | 2026-08-12 | 2026-10-08 |
 | [sheldonucr/ucr-eecs168-lab](../repos/sheldonucr/ucr-eecs168-lab.md) | 11 | ⭐ 595 | 2026-10-01 | 2026-10-19 |
@@ -117,4 +123,4 @@
 
 ---
 
-*Last updated: 2026-11-15T21:00:55.487Z*
+*Last updated: 2026-11-16T21:00:54.551Z*

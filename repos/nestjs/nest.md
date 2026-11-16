@@ -1,6 +1,6 @@
 # nestjs&#x2F;nest
 
-> A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript&#x2F;JavaScript 🚀
+> A progressive TypeScript framework for Node.js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;nestjs&#x2F;nest) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | MIT |
-| **Stars** | ⭐ 76,848 |
-| **Forks** | 🍴 8,583 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 77,094 |
+| **Forks** | 🍴 8,725 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 14, 2026 |
-| **Last Seen** | Oct 14, 2026 |
+| **Last Seen** | Nov 16, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Production Ready | Battle-tested and stable |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-15T21:01:00.580Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-11-16T21:00:58.569Z*  
+*Data from 2 trending reports*

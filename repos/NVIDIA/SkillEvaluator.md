@@ -1,6 +1,6 @@
 # NVIDIA&#x2F;SkillEvaluator
 
-> Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
+> Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;NVIDIA&#x2F;SkillEvaluator) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 1,575 |
-| **Forks** | 🍴 226 |
-| **Trending Days** | 3 |
-| **Peak Rank** | #12 |
+| **Stars** | ⭐ 2,548 |
+| **Forks** | 🍴 350 |
+| **Trending Days** | 4 |
+| **Peak Rank** | #10 |
 
 | **First Seen** | Nov 12, 2026 |
-| **Last Seen** | Nov 15, 2026 |
+| **Last Seen** | Nov 16, 2026 |
 
 
 ---
@@ -44,12 +44,13 @@
 ## Trending Timeline
 
 **Nov 15, 2026** — Rank #12 (+205 ⭐)  
+**Nov 16, 2026** — Rank #10 (+953 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #12
-- **Trending Days**: 3
-- **Longest Streak**: 2 days
+- **Peak Rank**: #10
+- **Trending Days**: 4
+- **Longest Streak**: 3 days
 
 ---
 
@@ -86,11 +87,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 55&#x2F;100
-- **Historical Rank**: Peak: #12
+- **Trending Score**: 75&#x2F;100
+- **Historical Rank**: Top 10 (Peak: #10)
 
 
 ---
 
-*Last updated: 2026-11-15T21:01:01.047Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-11-16T21:00:58.916Z*  
+*Data from 4 trending reports*

@@ -16,31 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,637 | 2026-08-04 | 14 |
+| [iptv-org/epg](../repos/iptv-org/epg.md) | ⭐ 3,521 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | ⭐ 6,313 | 2026-08-05 | 17 |
+| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | ⭐ 6,314 | 2026-08-05 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MengTo/Skills](../repos/MengTo/Skills.md) | ⭐ 7,597 | 2026-08-19 | 13 |
+| [nova-video-player/aos-AVP](../repos/nova-video-player/aos-AVP.md) | ⭐ 4,808 | 2026-08-16 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [isjiamu/gzh-design-skill](../repos/isjiamu/gzh-design-skill.md) | ⭐ 4,382 | 2026-09-01 | 8 |
+| [MengTo/Skills](../repos/MengTo/Skills.md) | ⭐ 7,655 | 2026-08-19 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aoaostar/legado](../repos/aoaostar/legado.md) | ⭐ 7,395 | 2026-09-07 | 6 |
+| [xbtlin/ai-berkshire](../repos/xbtlin/ai-berkshire.md) | ⭐ 17,155 | 2026-09-14 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xbtlin/ai-berkshire](../repos/xbtlin/ai-berkshire.md) | ⭐ 17,146 | 2026-09-14 | 10 |
+| [faroukbmiled/RyukGram](../repos/faroukbmiled/RyukGram.md) | ⭐ 823 | 2026-10-25 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sdli1995/dlssg_for_sm86](../repos/sdli1995/dlssg_for_sm86.md) | ⭐ 5,239 | 2026-11-08 | 4 |
+| [sdli1995/dlssg_for_sm86](../repos/sdli1995/dlssg_for_sm86.md) | ⭐ 5,254 | 2026-11-08 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jephersonRD/PC-Free](../repos/jephersonRD/PC-Free.md) | ⭐ 289 | 2026-11-14 | 2 |
+| [jephersonRD/PC-Free](../repos/jephersonRD/PC-Free.md) | ⭐ 291 | 2026-11-14 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/zerotrustassessment](../repos/microsoft/zerotrustassessment.md) | ⭐ 492 | 2026-11-15 | 1 |
+| [microsoft/zerotrustassessment](../repos/microsoft/zerotrustassessment.md) | ⭐ 499 | 2026-11-15 | 2 |
 
 
 ---
@@ -52,7 +52,7 @@
 | [MengTo/threeui](../repos/MengTo/threeui.md) | ⭐ 7,273 | 2026-10-22 | Open-source ThreeUI Community catalog with live interactive components and complete Community sou... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [faroukbmiled/RyukGram](../repos/faroukbmiled/RyukGram.md) | ⭐ 809 | 2026-10-25 | RyukGram, The Instagram tweak for iOS power users. |
+| [faroukbmiled/RyukGram](../repos/faroukbmiled/RyukGram.md) | ⭐ 823 | 2026-10-25 | RyukGram, The Instagram tweak for iOS power users. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ProletRevDicta/Prolet](../repos/ProletRevDicta/Prolet.md) | ⭐ 1,865 | 2026-11-03 | Historical documents (in Chinese) about the GPCR (Thanks Comrade RC MR HR etc.) |
@@ -76,7 +76,7 @@
 | [geekan/HowToLiveLonger](../repos/geekan/HowToLiveLonger.md) | ⭐ 36,035 | 2026-11-07 | A Programmer’s Guide to Longevity | Helping everyone live a longer, healthier, happier life. Avai... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [sdli1995/dlssg_for_sm86](../repos/sdli1995/dlssg_for_sm86.md) | ⭐ 5,239 | 2026-11-08 | Here is a dlssg for RTX30 Series GPU  |
+| [sdli1995/dlssg_for_sm86](../repos/sdli1995/dlssg_for_sm86.md) | ⭐ 5,254 | 2026-11-08 | Here is a dlssg for RTX30 Series GPU  |
 
 
 ---
@@ -116,10 +116,10 @@
 | [ossu/computer-science](../repos/ossu/computer-science.md) | 23 | ⭐ 210,940 | 2026-08-03 | 2026-11-07 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 18 | ⭐ 10,131 | 2026-08-01 | 2026-11-07 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 18 | ⭐ 11,040 | 2026-08-03 | 2026-10-28 |
+| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 18 | ⭐ 6,314 | 2026-08-05 | 2026-11-16 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 18 | ⭐ 141,705 | 2026-08-08 | 2026-11-03 |
 | [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | 18 | ⭐ 6,316 | 2026-08-11 | 2026-11-13 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 17 | ⭐ 29,759 | 2026-08-04 | 2026-11-13 |
-| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 17 | ⭐ 6,313 | 2026-08-05 | 2026-11-15 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 17 | ⭐ 30,478 | 2026-08-09 | 2026-11-04 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 14 | ⭐ 16,637 | 2026-08-04 | 2026-11-15 |
 
@@ -230,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-11-15T21:00:55.426Z*
+*Last updated: 2026-11-16T21:00:54.488Z*

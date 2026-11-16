@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 246
+- **Total Repositories**: 247
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-05
 
@@ -16,40 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [block/buzz](../repos/block/buzz.md) | ⭐ 37,482 | 2026-08-19 | 13 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 122,055 | 2026-07-30 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 56,661 | 2026-08-19 | 8 |
+| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 92,022 | 2026-07-31 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lance-format/lance](../repos/lance-format/lance.md) | ⭐ 7,316 | 2026-08-28 | 4 |
+| [rust-lang/rust-clippy](../repos/rust-lang/rust-clippy.md) | ⭐ 13,672 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [martin-olivier/airgorah](../repos/martin-olivier/airgorah.md) | ⭐ 6,232 | 2026-09-13 | 11 |
+| [lance-format/lance](../repos/lance-format/lance.md) | ⭐ 7,336 | 2026-08-28 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yynxxxxx/Codex-X](../repos/yynxxxxx/Codex-X.md) | ⭐ 4,528 | 2026-09-19 | 5 |
+| [xai-org/x-algorithm](../repos/xai-org/x-algorithm.md) | ⭐ 34,253 | 2026-09-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [harry0703/MangoDisk](../repos/harry0703/MangoDisk.md) | ⭐ 5,765 | 2026-10-07 | 5 |
+| [martin-olivier/airgorah](../repos/martin-olivier/airgorah.md) | ⭐ 6,485 | 2026-09-13 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ModernRelay/omnigraph](../repos/ModernRelay/omnigraph.md) | ⭐ 2,594 | 2026-10-20 | 5 |
+| [yynxxxxx/Codex-X](../repos/yynxxxxx/Codex-X.md) | ⭐ 4,541 | 2026-09-19 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [antithesishq/bombadil](../repos/antithesishq/bombadil.md) | ⭐ 1,958 | 2026-11-15 | 1 |
+| [ModernRelay/omnigraph](../repos/ModernRelay/omnigraph.md) | ⭐ 2,819 | 2026-10-20 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [lapce/lapce](../repos/lapce/lapce.md) | ⭐ 39,068 | 2026-11-16 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [GCWing/OpenBitFun](../repos/GCWing/OpenBitFun.md) | ⭐ 3,974 | 2026-10-17 | OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop appl... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [foundry-rs/foundry](../repos/foundry-rs/foundry.md) | ⭐ 10,767 | 2026-10-17 | Foundry is a blazing fast, portable and modular toolkit for Ethereum application development writ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [smg-project/smg](../repos/smg-project/smg.md) | ⭐ 636 | 2026-10-19 | Engine-agnostic LLM gateway in Rust. Full OpenAI &amp; Anthropic API compatibility across vLLM, TRT-L... |
@@ -61,7 +58,7 @@
 | [fish-shell/fish-shell](../repos/fish-shell/fish-shell.md) | ⭐ 34,332 | 2026-10-19 | The user-friendly command line shell. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ModernRelay/omnigraph](../repos/ModernRelay/omnigraph.md) | ⭐ 2,594 | 2026-10-20 | Object-storage native graph database with branching and typed ontology |
+| [ModernRelay/omnigraph](../repos/ModernRelay/omnigraph.md) | ⭐ 2,819 | 2026-10-20 | Object-storage native graph database with branching and typed ontology |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Jamailar/Beav](../repos/Jamailar/Beav.md) | ⭐ 2,089 | 2026-10-20 | 小红书 AI 运营工作台｜小红书采集、评论区下载、素材库、选题、AI写作、小红书全域解决方案，开箱即用，一键安装，小红书AI工作台，自媒体素材库，AI写作+图片自动编排，小红书版OpenClaw... |
@@ -74,6 +71,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ShayanAbbas1/dbdelve](../repos/ShayanAbbas1/dbdelve.md) | ⭐ 1,296 | 2026-10-27 | Fast and lightweight DB Client made in Rust and GPUI. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [NVIDIA/cuda-rust](../repos/NVIDIA/cuda-rust.md) | ⭐ 3,883 | 2026-10-29 | NVIDIA&#39;s CUDA platform for Rust. Host runtime crates plus Tile (cutile-rs) and SIMT (cuda-oxide) ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jub0t/Concat](../repos/jub0t/Concat.md) | ⭐ 16,148 | 2026-10-29 | Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a... |
 
 
 ---
@@ -83,12 +86,12 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [openai/codex](../repos/openai/codex.md) | ⭐ 133,337 | 2026-08-01 | 19 |
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 121,842 | 2026-07-30 | 14 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 122,055 | 2026-07-30 | 15 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,907 | 2026-07-30 | 5 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 104,032 | 2026-08-09 | 25 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 103,801 | 2026-08-05 | 29 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 96,635 | 2026-08-11 | 10 |
-| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 91,951 | 2026-07-31 | 9 |
+| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 92,022 | 2026-07-31 | 10 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 67,032 | 2026-08-05 | 13 |
@@ -118,7 +121,7 @@
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 17 | ⭐ 29,069 | 2026-08-01 | 2026-11-04 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 17 | ⭐ 42,354 | 2026-08-10 | 2026-10-26 |
 | [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | 16 | ⭐ 12,999 | 2026-08-17 | 2026-10-23 |
-| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 15 | ⭐ 30,895 | 2026-08-03 | 2026-10-26 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | 15 | ⭐ 122,055 | 2026-07-30 | 2026-11-16 |
 
 ---
 
@@ -227,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-11-15T21:00:55.471Z*
+*Last updated: 2026-11-16T21:00:54.536Z*

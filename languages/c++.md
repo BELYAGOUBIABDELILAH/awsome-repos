@@ -16,31 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 120,227 | 2026-08-01 | 13 |
+| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 120,277 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jrouwe/JoltPhysics](../repos/jrouwe/JoltPhysics.md) | ⭐ 12,314 | 2026-08-01 | 6 |
+| [shadps4-emu/shadPS4](../repos/shadps4-emu/shadPS4.md) | ⭐ 34,237 | 2026-08-03 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stenzek/duckstation](../repos/stenzek/duckstation.md) | ⭐ 11,016 | 2026-08-03 | 4 |
+| [stenzek/duckstation](../repos/stenzek/duckstation.md) | ⭐ 11,020 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [esphome/esphome](../repos/esphome/esphome.md) | ⭐ 12,111 | 2026-08-17 | 10 |
+| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 77,136 | 2026-08-08 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/ggml](../repos/ggml-org/ggml.md) | ⭐ 15,877 | 2026-08-19 | 4 |
+| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 54,482 | 2026-10-06 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 54,165 | 2026-10-06 | 14 |
+| [Likely7/Veyra-NRVideo](../repos/Likely7/Veyra-NRVideo.md) | ⭐ 3,043 | 2026-11-13 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Likely7/Veyra-NRVideo](../repos/Likely7/Veyra-NRVideo.md) | ⭐ 2,759 | 2026-11-13 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [sonicnext-dev/MarathonRecomp](../repos/sonicnext-dev/MarathonRecomp.md) | ⭐ 867 | 2026-11-15 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [SunshineStream/Sunshine](../repos/SunshineStream/Sunshine.md) | ⭐ 43,449 | 2026-11-15 | 1 |
+| [Helldez/BigMoeOnEdge](../repos/Helldez/BigMoeOnEdge.md) | ⭐ 965 | 2026-11-14 | 2 |
 
 
 ---
@@ -89,14 +83,14 @@
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 135,049 | 2026-08-01 | 39 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,803 | 2026-08-04 | 7 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 123,622 | 2026-08-01 | 7 |
-| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 120,227 | 2026-08-01 | 13 |
+| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 120,277 | 2026-08-01 | 14 |
 | [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 105,211 | 2026-08-06 | 8 |
 | [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,617 | 2026-08-02 | 12 |
 | [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 77,216 | 2026-08-12 | 7 |
-| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,876 | 2026-08-08 | 18 |
+| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 77,136 | 2026-08-08 | 19 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,174 | 2026-08-01 | 22 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 55,165 | 2026-08-02 | 2 |
-| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 54,165 | 2026-10-06 | 14 |
+| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 54,482 | 2026-10-06 | 15 |
 | [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,787 | 2026-08-03 | 13 |
 | [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,454 | 2026-09-01 | 3 |
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,405 | 2026-08-02 | 10 |
@@ -119,7 +113,7 @@
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 22 | ⭐ 72,174 | 2026-08-01 | 2026-11-14 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 19 | ⭐ 546 | 2026-08-01 | 2026-10-29 |
 | [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | 19 | ⭐ 32,839 | 2026-08-03 | 2026-11-07 |
-| [ocornut/imgui](../repos/ocornut/imgui.md) | 18 | ⭐ 76,876 | 2026-08-08 | 2026-10-29 |
+| [ocornut/imgui](../repos/ocornut/imgui.md) | 19 | ⭐ 77,136 | 2026-08-08 | 2026-11-16 |
 | [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 16 | ⭐ 12,656 | 2026-08-02 | 2026-11-14 |
 | [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | 16 | ⭐ 22,255 | 2026-08-06 | 2026-11-06 |
 
@@ -230,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-11-15T21:00:55.395Z*
+*Last updated: 2026-11-16T21:00:54.460Z*
