@@ -16,31 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 122,055 | 2026-07-30 | 15 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 30,628 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 92,022 | 2026-07-31 | 10 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 112,097 | 2026-08-05 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rust-lang/rust-clippy](../repos/rust-lang/rust-clippy.md) | ⭐ 13,672 | 2026-08-02 | 7 |
+| [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) | ⭐ 22,801 | 2026-08-07 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lance-format/lance](../repos/lance-format/lance.md) | ⭐ 7,336 | 2026-08-28 | 5 |
+| [malisper/pgrust](../repos/malisper/pgrust.md) | ⭐ 5,849 | 2026-08-08 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xai-org/x-algorithm](../repos/xai-org/x-algorithm.md) | ⭐ 34,253 | 2026-09-03 | 6 |
+| [rustfs/rustfs](../repos/rustfs/rustfs.md) | ⭐ 36,217 | 2026-08-09 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [martin-olivier/airgorah](../repos/martin-olivier/airgorah.md) | ⭐ 6,485 | 2026-09-13 | 12 |
+| [NVIDIA-NeMo/Switchyard](../repos/NVIDIA-NeMo/Switchyard.md) | ⭐ 3,629 | 2026-08-12 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yynxxxxx/Codex-X](../repos/yynxxxxx/Codex-X.md) | ⭐ 4,541 | 2026-09-19 | 6 |
+| [jlcodes99/cockpit-tools](../repos/jlcodes99/cockpit-tools.md) | ⭐ 20,079 | 2026-08-14 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ModernRelay/omnigraph](../repos/ModernRelay/omnigraph.md) | ⭐ 2,819 | 2026-10-20 | 6 |
+| [leepokai/Codync](../repos/leepokai/Codync.md) | ⭐ 2,215 | 2026-10-19 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lapce/lapce](../repos/lapce/lapce.md) | ⭐ 39,068 | 2026-11-16 | 1 |
+| [ShayanAbbas1/dbdelve](../repos/ShayanAbbas1/dbdelve.md) | ⭐ 1,546 | 2026-10-27 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [aimod-cc/Agent2API](../repos/aimod-cc/Agent2API.md) | ⭐ 2,462 | 2026-11-13 | 2 |
 
 
 ---
@@ -52,7 +55,7 @@
 | [smg-project/smg](../repos/smg-project/smg.md) | ⭐ 636 | 2026-10-19 | Engine-agnostic LLM gateway in Rust. Full OpenAI &amp; Anthropic API compatibility across vLLM, TRT-L... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [leepokai/Codync](../repos/leepokai/Codync.md) | ⭐ 1,781 | 2026-10-19 | Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Cod... |
+| [leepokai/Codync](../repos/leepokai/Codync.md) | ⭐ 2,215 | 2026-10-19 | Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Cod... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [fish-shell/fish-shell](../repos/fish-shell/fish-shell.md) | ⭐ 34,332 | 2026-10-19 | The user-friendly command line shell. |
@@ -70,7 +73,7 @@
 | [redlib-org/redlib](../repos/redlib-org/redlib.md) | ⭐ 3,896 | 2026-10-22 |  Private front-end for Reddit  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ShayanAbbas1/dbdelve](../repos/ShayanAbbas1/dbdelve.md) | ⭐ 1,296 | 2026-10-27 | Fast and lightweight DB Client made in Rust and GPUI. |
+| [ShayanAbbas1/dbdelve](../repos/ShayanAbbas1/dbdelve.md) | ⭐ 1,546 | 2026-10-27 | Fast and lightweight DB Client made in Rust and GPUI. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [NVIDIA/cuda-rust](../repos/NVIDIA/cuda-rust.md) | ⭐ 3,883 | 2026-10-29 | NVIDIA&#39;s CUDA platform for Rust. Host runtime crates plus Tile (cutile-rs) and SIMT (cuda-oxide) ... |
@@ -87,9 +90,9 @@
 |------------|-------|------------|---------------|
 | [openai/codex](../repos/openai/codex.md) | ⭐ 133,337 | 2026-08-01 | 19 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 122,055 | 2026-07-30 | 15 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 112,097 | 2026-08-05 | 30 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,907 | 2026-07-30 | 5 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 104,032 | 2026-08-09 | 25 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 103,801 | 2026-08-05 | 29 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 96,635 | 2026-08-11 | 10 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 92,022 | 2026-07-31 | 10 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
@@ -112,13 +115,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 29 | ⭐ 103,801 | 2026-08-05 | 2026-11-05 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 30 | ⭐ 112,097 | 2026-08-05 | 2026-11-17 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 25 | ⭐ 104,032 | 2026-08-09 | 2026-11-11 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 23 | ⭐ 50,290 | 2026-08-02 | 2026-11-12 |
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 22 | ⭐ 24,202 | 2026-08-08 | 2026-10-25 |
 | [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 20 | ⭐ 11,934 | 2026-08-26 | 2026-11-07 |
 | [openai/codex](../repos/openai/codex.md) | 19 | ⭐ 133,337 | 2026-08-01 | 2026-11-05 |
-| [t8y2/dbx](../repos/t8y2/dbx.md) | 17 | ⭐ 29,069 | 2026-08-01 | 2026-11-04 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | 18 | ⭐ 30,628 | 2026-08-01 | 2026-11-17 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 17 | ⭐ 42,354 | 2026-08-10 | 2026-10-26 |
 | [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | 16 | ⭐ 12,999 | 2026-08-17 | 2026-10-23 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | 15 | ⭐ 122,055 | 2026-07-30 | 2026-11-16 |
@@ -230,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-16T21:00:54.536Z*
+*Last updated: 2026-11-17T21:01:02.481Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Kotlin |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 9,044 |
-| **Forks** | 🍴 584 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 10,629 |
+| **Forks** | 🍴 696 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #7 |
 
 | **First Seen** | Aug 7, 2026 |
-| **Last Seen** | Oct 20, 2026 |
+| **Last Seen** | Nov 17, 2026 |
 
 
 ---
@@ -50,7 +50,7 @@
 ### Highlights
 
 - **Peak Rank**: #7
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 6 days
 
 ---
@@ -72,10 +72,10 @@
 | Aspect | Rating | Details |
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
-| **Documentation** | Limited | May require reading source code |
-| **Community** | Small | Niche but dedicated community |
+| **Documentation** | Average | Basic documentation available |
+| **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -94,5 +94,5 @@
 
 ---
 
-*Last updated: 2026-11-16T21:00:56.858Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-11-17T21:01:05.509Z*  
+*Data from 8 trending reports*

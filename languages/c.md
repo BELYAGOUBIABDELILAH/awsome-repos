@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 238
+- **Total Repositories**: 239
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-16
 
@@ -16,34 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [php/php-src](../repos/php/php-src.md) | ⭐ 41,787 | 2026-08-01 | 13 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,777 | 2026-08-01 | 42 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 29,209 | 2026-08-02 | 14 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 17,109 | 2026-08-06 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 79,589 | 2026-08-02 | 20 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 48,774 | 2026-08-07 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [portapack-mayhem/mayhem-firmware](../repos/portapack-mayhem/mayhem-firmware.md) | ⭐ 5,543 | 2026-08-04 | 8 |
+| [eclipse-mosquitto/mosquitto](../repos/eclipse-mosquitto/mosquitto.md) | ⭐ 11,462 | 2026-08-14 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [redis/redis](../repos/redis/redis.md) | ⭐ 77,492 | 2026-08-04 | 13 |
+| [Cisco-Talos/clamav](../repos/Cisco-Talos/clamav.md) | ⭐ 7,653 | 2026-11-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 154,980 | 2026-08-07 | 20 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [eclipse-mosquitto/mosquitto](../repos/eclipse-mosquitto/mosquitto.md) | ⭐ 11,450 | 2026-08-14 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [coop-deluxe/sm64coopdx](../repos/coop-deluxe/sm64coopdx.md) | ⭐ 1,549 | 2026-08-16 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Next-Flip/Momentum-Firmware](../repos/Next-Flip/Momentum-Firmware.md) | ⭐ 9,400 | 2026-08-19 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [V4bel/dirtyfrag](../repos/V4bel/dirtyfrag.md) | ⭐ 5,281 | 2026-10-19 | 2 |
+| [aircrack-ng/aircrack-ng](../repos/aircrack-ng/aircrack-ng.md) | ⭐ 7,928 | 2026-11-17 | 1 |
 
 
 ---
@@ -96,7 +84,7 @@
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 75,752 | 2026-08-01 | 26 |
 | [git/git](../repos/git/git.md) | ⭐ 64,135 | 2026-08-05 | 10 |
 | [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 51,088 | 2026-09-01 | 26 |
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 47,337 | 2026-08-07 | 26 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 48,774 | 2026-08-07 | 27 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 41,787 | 2026-08-01 | 13 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 38,334 | 2026-08-08 | 5 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,982 | 2026-08-02 | 11 |
@@ -115,11 +103,11 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 41 | ⭐ 17,677 | 2026-08-01 | 2026-11-14 |
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 29 | ⭐ 17,025 | 2026-08-06 | 2026-11-06 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 42 | ⭐ 17,777 | 2026-08-01 | 2026-11-17 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 30 | ⭐ 17,109 | 2026-08-06 | 2026-11-17 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 27 | ⭐ 48,774 | 2026-08-07 | 2026-11-17 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 26 | ⭐ 140,879 | 2026-08-01 | 2026-11-11 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 26 | ⭐ 75,752 | 2026-08-01 | 2026-10-28 |
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 26 | ⭐ 47,337 | 2026-08-07 | 2026-10-23 |
 | [JustVugg/colibri](../repos/JustVugg/colibri.md) | 26 | ⭐ 51,088 | 2026-09-01 | 2026-11-14 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 21 | ⭐ 28,089 | 2026-08-07 | 2026-10-23 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 20 | ⭐ 79,589 | 2026-08-02 | 2026-11-16 |
@@ -233,4 +221,4 @@
 
 ---
 
-*Last updated: 2026-11-16T21:00:54.453Z*
+*Last updated: 2026-11-17T21:01:02.394Z*

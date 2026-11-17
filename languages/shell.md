@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 157
+- **Total Repositories**: 158
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-16
+- **Last Updated**: 2026-11-17
 
 ---
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 96,074 | 2026-08-01 | 55 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 96,266 | 2026-08-01 | 56 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 2,251 | 2026-08-01 | 14 |
+| [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | ⭐ 10,335 | 2026-08-03 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [InfinityLoop1308/PipePipe](../repos/InfinityLoop1308/PipePipe.md) | ⭐ 7,255 | 2026-08-02 | 13 |
+| [openshift/release](../repos/openshift/release.md) | ⭐ 332 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,965 | 2026-08-04 | 11 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 4,182 | 2026-08-07 | 41 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [marcusquinn/aidevops](../repos/marcusquinn/aidevops.md) | ⭐ 456 | 2026-08-04 | 3 |
+| [d3/d3](../repos/d3/d3.md) | ⭐ 113,950 | 2026-08-07 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 4,173 | 2026-08-07 | 40 |
+| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 22,434 | 2026-08-07 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [d3/d3](../repos/d3/d3.md) | ⭐ 113,944 | 2026-08-07 | 5 |
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,651 | 2026-08-20 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | ⭐ 3,982 | 2026-08-19 | 17 |
+| [CISOfy/lynis](../repos/CISOfy/lynis.md) | ⭐ 16,705 | 2026-08-24 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 34,152 | 2026-08-20 | 15 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [liandu2024/Open-Box](../repos/liandu2024/Open-Box.md) | ⭐ 2,770 | 2026-10-22 | 8 |
+| [VIKINGYFY/OpenWRT-CI](../repos/VIKINGYFY/OpenWRT-CI.md) | ⭐ 1,197 | 2026-11-17 | 1 |
 
 
 ---
@@ -88,9 +85,9 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [d3/d3](../repos/d3/d3.md) | ⭐ 113,944 | 2026-08-07 | 5 |
+| [d3/d3](../repos/d3/d3.md) | ⭐ 113,950 | 2026-08-07 | 6 |
 | [papers-we-love/papers-we-love](../repos/papers-we-love/papers-we-love.md) | ⭐ 110,960 | 2026-10-27 | 1 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 96,074 | 2026-08-01 | 55 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 96,266 | 2026-08-01 | 56 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,756 | 2026-08-04 | 10 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,702 | 2026-08-06 | 15 |
@@ -103,7 +100,7 @@
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
 | [lxgw/LxgwWenKai](../repos/lxgw/LxgwWenKai.md) | ⭐ 26,857 | 2026-11-07 | 1 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 26,538 | 2026-08-04 | 16 |
-| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 22,309 | 2026-08-07 | 11 |
+| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 22,434 | 2026-08-07 | 12 |
 | [lewagon/dotfiles](../repos/lewagon/dotfiles.md) | ⭐ 21,783 | 2026-08-25 | 1 |
 | [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
 | [agarrharr/awesome-cli-apps](../repos/agarrharr/awesome-cli-apps.md) | ⭐ 20,600 | 2026-11-04 | 1 |
@@ -115,16 +112,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 55 | ⭐ 96,074 | 2026-08-01 | 2026-11-16 |
-| [expo/skills](../repos/expo/skills.md) | 40 | ⭐ 4,173 | 2026-08-07 | 2026-11-16 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 56 | ⭐ 96,266 | 2026-08-01 | 2026-11-17 |
+| [expo/skills](../repos/expo/skills.md) | 41 | ⭐ 4,182 | 2026-08-07 | 2026-11-17 |
 | [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 27 | ⭐ 8,876 | 2026-08-12 | 2026-11-14 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | 18 | ⭐ 1,651 | 2026-08-20 | 2026-11-17 |
 | [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | 17 | ⭐ 11,015 | 2026-08-07 | 2026-11-10 |
 | [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | 17 | ⭐ 3,982 | 2026-08-19 | 2026-11-16 |
-| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | 17 | ⭐ 1,636 | 2026-08-20 | 2026-11-11 |
 | [omacom/omarchy](../repos/omacom/omarchy.md) | 17 | ⭐ 46,666 | 2026-08-29 | 2026-11-09 |
+| [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | 16 | ⭐ 10,335 | 2026-08-03 | 2026-11-17 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | 16 | ⭐ 26,538 | 2026-08-04 | 2026-11-14 |
-| [cloudflare/skills](../repos/cloudflare/skills.md) | 16 | ⭐ 3,343 | 2026-08-05 | 2026-11-11 |
 
 ---
 
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-11-16T21:00:54.541Z*
+*Last updated: 2026-11-17T21:01:02.486Z*

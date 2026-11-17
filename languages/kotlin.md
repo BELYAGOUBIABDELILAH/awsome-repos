@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 183
+- **Total Repositories**: 184
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-16
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 66,022 | 2026-08-02 | 26 |
+| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | ⭐ 8,960 | 2026-08-02 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 11,324 | 2026-08-03 | 18 |
+| [HapeLee/legado-with-MD3](../repos/HapeLee/legado-with-MD3.md) | ⭐ 7,067 | 2026-08-02 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Dev4Mod/WaEnhancer](../repos/Dev4Mod/WaEnhancer.md) | ⭐ 1,897 | 2026-08-03 | 9 |
+| [jay3-yy/BiliPai](../repos/jay3-yy/BiliPai.md) | ⭐ 5,288 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 64,065 | 2026-08-03 | 19 |
+| [cwuom/NeriPlayer](../repos/cwuom/NeriPlayer.md) | ⭐ 4,260 | 2026-08-05 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 33,864 | 2026-08-08 | 24 |
+| [bitwarden/android](../repos/bitwarden/android.md) | ⭐ 9,655 | 2026-08-05 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,591 | 2026-08-10 | 12 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 57,583 | 2026-08-06 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PimpinPumpkin/Vela](../repos/PimpinPumpkin/Vela.md) | ⭐ 2,706 | 2026-10-06 | 11 |
+| [android/skills](../repos/android/skills.md) | ⭐ 10,629 | 2026-08-07 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [throneproj/ThroneForAndroid](../repos/throneproj/ThroneForAndroid.md) | ⭐ 834 | 2026-10-11 | 6 |
+| [wgtunnel/android](../repos/wgtunnel/android.md) | ⭐ 3,366 | 2026-08-15 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MuwMx/YumaPlayer](../repos/MuwMx/YumaPlayer.md) | ⭐ 1,242 | 2026-10-13 | 7 |
+| [tasks/tasks](../repos/tasks/tasks.md) | ⭐ 5,762 | 2026-09-27 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SukiSU-Nova/SukiSU-Nova](../repos/SukiSU-Nova/SukiSU-Nova.md) | ⭐ 7,154 | 2026-11-16 | 1 |
+| [PimpinPumpkin/Vela](../repos/PimpinPumpkin/Vela.md) | ⭐ 2,742 | 2026-10-06 | 12 |
 
 
 ---
@@ -58,7 +58,7 @@
 | [theothernt/AerialViews](../repos/theothernt/AerialViews.md) | ⭐ 1,120 | 2026-10-25 | A screensaver for Android TV devices including Google TV, Nvidia Shield, and Fire TV. Inspired by... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [subhra74/xdm](../repos/subhra74/xdm.md) | ⭐ 8,121 | 2026-10-25 | Fast, reliable download accelerator and video downloader since 2013 |
+| [subhra74/xdm](../repos/subhra74/xdm.md) | ⭐ 8,588 | 2026-10-25 | Fast, reliable download accelerator and video downloader since 2013 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Mahmud0808/TeleDrive](../repos/Mahmud0808/TeleDrive.md) | ⭐ 429 | 2026-10-25 | Turn a private Telegram channel into your personal cloud drive. Android, Windows, Linux and macOS... |
@@ -90,7 +90,7 @@
 |------------|-------|------------|---------------|
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 66,022 | 2026-08-02 | 26 |
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 64,065 | 2026-08-03 | 19 |
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 56,703 | 2026-08-06 | 18 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 57,583 | 2026-08-06 | 19 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,561 | 2026-08-04 | 15 |
 | [android/architecture-samples](../repos/android/architecture-samples.md) | ⭐ 45,876 | 2026-10-14 | 2 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 44,223 | 2026-08-03 | 18 |
@@ -120,11 +120,11 @@
 | [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 22 | ⭐ 3,366 | 2026-08-02 | 2026-11-15 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 19 | ⭐ 25,276 | 2026-08-01 | 2026-11-13 |
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 19 | ⭐ 64,065 | 2026-08-03 | 2026-11-16 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 19 | ⭐ 57,583 | 2026-08-06 | 2026-11-17 |
 | [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | 18 | ⭐ 11,324 | 2026-08-03 | 2026-11-16 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | 18 | ⭐ 44,223 | 2026-08-03 | 2026-11-07 |
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 18 | ⭐ 56,703 | 2026-08-06 | 2026-11-15 |
+| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | 16 | ⭐ 8,960 | 2026-08-02 | 2026-11-17 |
 | [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) | 16 | ⭐ 2,217 | 2026-08-04 | 2026-11-09 |
-| [CYQawa/YunX](../repos/CYQawa/YunX.md) | 16 | ⭐ 8,031 | 2026-10-06 | 2026-11-15 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-16T21:00:54.501Z*
+*Last updated: 2026-11-17T21:01:02.445Z*

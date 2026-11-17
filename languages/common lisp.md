@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 7
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-04
+- **Last Updated**: 2026-11-17
 
 ---
 
@@ -16,7 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,662 | 2026-08-03 | 58 |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,662 | 2026-08-03 | 59 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) | ⭐ 11,070 | 2026-08-04 | 2 |
 
 
 ---
@@ -37,8 +40,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) | ⭐ 10,986 | 2026-08-04 | 1 |
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,662 | 2026-08-03 | 58 |
+| [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) | ⭐ 11,070 | 2026-08-04 | 2 |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,662 | 2026-08-03 | 59 |
 | [lem-project/lem](../repos/lem-project/lem.md) | ⭐ 3,023 | 2026-08-01 | 3 |
 | [sbcl/sbcl](../repos/sbcl/sbcl.md) | ⭐ 2,143 | 2026-08-24 | 4 |
 | [coalton-lang/coalton](../repos/coalton-lang/coalton.md) | ⭐ 1,734 | 2026-08-04 | 1 |
@@ -51,12 +54,12 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | 58 | ⭐ 3,662 | 2026-08-03 | 2026-11-16 |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | 59 | ⭐ 3,662 | 2026-08-03 | 2026-11-17 |
 | [nodecode-ai/nodecode](../repos/nodecode-ai/nodecode.md) | 9 | ⭐ 270 | 2026-10-26 | 2026-11-11 |
 | [sbcl/sbcl](../repos/sbcl/sbcl.md) | 4 | ⭐ 2,143 | 2026-08-24 | 2026-09-09 |
 | [lem-project/lem](../repos/lem-project/lem.md) | 3 | ⭐ 3,023 | 2026-08-01 | 2026-08-03 |
+| [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) | 2 | ⭐ 11,070 | 2026-08-04 | 2026-11-17 |
 | [jsk-enshu/robot-programming](../repos/jsk-enshu/robot-programming.md) | 2 | ⭐ 42 | 2026-10-28 | 2026-11-02 |
-| [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) | 1 | ⭐ 10,986 | 2026-08-04 | 2026-08-04 |
 | [coalton-lang/coalton](../repos/coalton-lang/coalton.md) | 1 | ⭐ 1,734 | 2026-08-04 | 2026-08-04 |
 
 ---
@@ -73,4 +76,4 @@
 
 ---
 
-*Last updated: 2026-11-16T21:00:54.466Z*
+*Last updated: 2026-11-17T21:01:02.409Z*

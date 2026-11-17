@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | Not specified |
-| **Stars** | ⭐ 14,334 |
-| **Forks** | 🍴 1,437 |
-| **Trending Days** | 24 |
+| **Stars** | ⭐ 16,851 |
+| **Forks** | 🍴 1,828 |
+| **Trending Days** | 25 |
 | **Peak Rank** | #3 |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Oct 27, 2026 |
+| **Last Seen** | Nov 17, 2026 |
 
 
 ---
@@ -43,7 +43,6 @@
 
 ## Trending Timeline
 
-**Aug 14, 2026** — Rank #11 (+69 ⭐)  
 **Aug 15, 2026** — Rank #3 (+152 ⭐)  
 **Aug 20, 2026** — Rank #5 (+473 ⭐)  
 **Aug 21, 2026** — Rank #5 (+391 ⭐)  
@@ -53,11 +52,12 @@
 **Oct 2, 2026** — Rank #14 (+168 ⭐)  
 **Oct 16, 2026** — Rank #9 (+282 ⭐)  
 **Oct 18, 2026** — Rank #4 (+351 ⭐)  
+**Nov 17, 2026** — Rank #8 (+196 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #3
-- **Trending Days**: 24
+- **Trending Days**: 25
 - **Longest Streak**: 5 days
 
 ---
@@ -82,7 +82,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -101,5 +101,5 @@
 
 ---
 
-*Last updated: 2026-11-16T21:00:55.860Z*  
-*Data from 24 trending reports*
+*Last updated: 2026-11-17T21:01:04.212Z*  
+*Data from 25 trending reports*

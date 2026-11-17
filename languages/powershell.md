@@ -16,16 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/hve-core](../repos/microsoft/hve-core.md) | ⭐ 1,620 | 2026-08-01 | 17 |
+| [microsoft/hve-core](../repos/microsoft/hve-core.md) | ⭐ 1,622 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Euro-Office/DesktopEditors](../repos/Euro-Office/DesktopEditors.md) | ⭐ 975 | 2026-08-01 | 19 |
+| [Euro-Office/DesktopEditors](../repos/Euro-Office/DesktopEditors.md) | ⭐ 987 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | ⭐ 545 | 2026-08-04 | 28 |
+| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | ⭐ 1,585 | 2026-08-01 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Atlas-OS/Atlas](../repos/Atlas-OS/Atlas.md) | ⭐ 22,127 | 2026-11-05 | 10 |
+| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,802 | 2026-08-11 | 23 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [github/copilot-plugins](../repos/github/copilot-plugins.md) | ⭐ 386 | 2026-08-26 | 10 |
 
 
 ---
@@ -89,7 +92,7 @@
 | [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 3,576 | 2026-08-01 | 29 |
 | [pester/Pester](../repos/pester/Pester.md) | ⭐ 3,369 | 2026-10-29 | 1 |
 | [dataplat/dbatools](../repos/dataplat/dbatools.md) | ⭐ 2,857 | 2026-08-04 | 4 |
-| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,801 | 2026-08-11 | 22 |
+| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,802 | 2026-08-11 | 23 |
 
 ---
 
@@ -104,9 +107,9 @@
 | [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 29 | ⭐ 3,576 | 2026-08-01 | 2026-11-12 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 29 | ⭐ 6,178 | 2026-08-01 | 2026-11-11 |
 | [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 28 | ⭐ 545 | 2026-08-04 | 2026-11-16 |
-| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 26 | ⭐ 1,574 | 2026-08-01 | 2026-11-07 |
+| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 27 | ⭐ 1,585 | 2026-08-01 | 2026-11-17 |
 | [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | 24 | ⭐ 9,321 | 2026-08-06 | 2026-11-13 |
-| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | 22 | ⭐ 2,801 | 2026-08-11 | 2026-11-14 |
+| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | 23 | ⭐ 2,802 | 2026-08-11 | 2026-11-17 |
 
 ---
 
@@ -182,4 +185,4 @@
 
 ---
 
-*Last updated: 2026-11-16T21:00:54.526Z*
+*Last updated: 2026-11-17T21:01:02.468Z*

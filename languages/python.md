@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 351
+- **Total Repositories**: 354
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-03
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/whisper](../repos/openai/whisper.md) | ⭐ 112,835 | 2026-07-31 | 8 |
+| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 68,909 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 169,057 | 2026-07-31 | 11 |
+| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 149,584 | 2026-08-03 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 68,043 | 2026-08-01 | 11 |
+| [usestrix/strix](../repos/usestrix/strix.md) | ⭐ 76,303 | 2026-08-04 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HKUDS/Vibe-Trading](../repos/HKUDS/Vibe-Trading.md) | ⭐ 38,383 | 2026-08-24 | 6 |
+| [ComposioHQ/awesome-claude-skills](../repos/ComposioHQ/awesome-claude-skills.md) | ⭐ 79,726 | 2026-08-06 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [superdesigndev/treg](../repos/superdesigndev/treg.md) | ⭐ 8,166 | 2026-09-22 | 8 |
+| [jingyaogong/minimind](../repos/jingyaogong/minimind.md) | ⭐ 65,869 | 2026-09-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ifixai-ai/iFixAi](../repos/ifixai-ai/iFixAi.md) | ⭐ 46,039 | 2026-10-01 | 5 |
+| [HKUDS/AutoSwarm](../repos/HKUDS/AutoSwarm.md) | ⭐ 2,626 | 2026-10-27 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [isair/jarvis](../repos/isair/jarvis.md) | ⭐ 2,314 | 2026-10-14 | 2 |
+| [NVIDIA/SkillEvaluator](../repos/NVIDIA/SkillEvaluator.md) | ⭐ 3,309 | 2026-11-12 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/SkillEvaluator](../repos/NVIDIA/SkillEvaluator.md) | ⭐ 2,548 | 2026-11-12 | 4 |
+| [tradermonty/claude-trading-skills](../repos/tradermonty/claude-trading-skills.md) | ⭐ 6,830 | 2026-11-13 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tradermonty/claude-trading-skills](../repos/tradermonty/claude-trading-skills.md) | ⭐ 6,221 | 2026-11-13 | 4 |
+| [google-research/paper-orchestra](../repos/google-research/paper-orchestra.md) | ⭐ 2,827 | 2026-11-16 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-research/paper-orchestra](../repos/google-research/paper-orchestra.md) | ⭐ 1,365 | 2026-11-16 | 1 |
+| [vstorm-co/agenticos](../repos/vstorm-co/agenticos.md) | ⭐ 404 | 2026-11-16 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Kruk2/jasna](../repos/Kruk2/jasna.md) | ⭐ 3,232 | 2026-10-18 | Video restoration tool |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [NVlabs/ASPIRE](../repos/NVlabs/ASPIRE.md) | ⭐ 753 | 2026-10-18 | ASPIRE: Agentic &#x2F;Skills Discovery for Robotics |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mozilla-ai/otari](../repos/mozilla-ai/otari.md) | ⭐ 653 | 2026-10-18 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [bobeff/open-source-games](../repos/bobeff/open-source-games.md) | ⭐ 17,817 | 2026-10-19 | A list of open source games. |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [homeassistant-ai/ha-mcp](../repos/homeassistant-ai/ha-mcp.md) | ⭐ 7,675 | 2026-10-26 | Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [HarnessRouter/harnessrouter](../repos/HarnessRouter/harnessrouter.md) | ⭐ 3,688 | 2026-10-26 | HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [HKUDS/AutoSwarm](../repos/HKUDS/AutoSwarm.md) | ⭐ 2,626 | 2026-10-27 | AutoSwarm: Unify All Your Agents. Break Context Barriers. Watch Them Work Together for You. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [NVIDIA/auto-ontology](../repos/NVIDIA/auto-ontology.md) | ⭐ 9,728 | 2026-10-27 | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data... |
 
 
 ---
@@ -99,11 +99,11 @@
 | [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 189,013 | 2026-09-07 | 3 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,775 | 2026-08-06 | 9 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 169,057 | 2026-07-31 | 11 |
+| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 149,584 | 2026-08-03 | 12 |
 | [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 147,818 | 2026-08-14 | 13 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 143,038 | 2026-08-04 | 8 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 141,991 | 2026-08-05 | 13 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 139,731 | 2026-08-01 | 19 |
-| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 133,846 | 2026-08-03 | 11 |
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 132,217 | 2026-08-04 | 17 |
 | [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 120,731 | 2026-08-20 | 10 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 117,829 | 2026-08-08 | 16 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-16T21:00:54.529Z*
+*Last updated: 2026-11-17T21:01:02.471Z*

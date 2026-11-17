@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/maven](../repos/apache/maven.md) | ⭐ 5,376 | 2026-08-01 | 7 |
+| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,474 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 28,113 | 2026-08-02 | 25 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 28,137 | 2026-08-02 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,655 | 2026-08-02 | 27 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 30,252 | 2026-08-04 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/Shizuku-API](../repos/RikkaApps/Shizuku-API.md) | ⭐ 2,791 | 2026-08-02 | 10 |
+| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 36,419 | 2026-08-04 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cabaletta/baritone](../repos/cabaletta/baritone.md) | ⭐ 9,359 | 2026-08-03 | 13 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 82,050 | 2026-08-04 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 36,400 | 2026-08-04 | 24 |
+| [xuxueli/xxl-job](../repos/xuxueli/xxl-job.md) | ⭐ 30,669 | 2026-08-05 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microg/GmsCore](../repos/microg/GmsCore.md) | ⭐ 15,343 | 2026-08-06 | 22 |
+| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 40,475 | 2026-08-06 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FCL-Team/FoldCraftLauncher](../repos/FCL-Team/FoldCraftLauncher.md) | ⭐ 5,211 | 2026-08-17 | 13 |
+| [ZCShou/GoGoGo](../repos/ZCShou/GoGoGo.md) | ⭐ 11,854 | 2026-08-22 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [00-Evan/shattered-pixel-dungeon](../repos/00-Evan/shattered-pixel-dungeon.md) | ⭐ 6,810 | 2026-08-17 | 3 |
+| [JetBrains/intellij-community](../repos/JetBrains/intellij-community.md) | ⭐ 20,740 | 2026-08-25 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/Sui](../repos/RikkaApps/Sui.md) | ⭐ 4,386 | 2026-09-13 | 3 |
+| [hibernate/hibernate-orm](../repos/hibernate/hibernate-orm.md) | ⭐ 6,488 | 2026-09-12 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [apache/shenyu](../repos/apache/shenyu.md) | ⭐ 8,891 | 2026-10-18 | Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governa... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [MewX/light-novel-library_Wenku8_Android](../repos/MewX/light-novel-library_Wenku8_Android.md) | ⭐ 3,550 | 2026-10-19 | [CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安... |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jetty/jetty.project](../repos/jetty/jetty.project.md) | ⭐ 4,096 | 2026-11-06 | Eclipse Jetty® - Web Container &amp; Clients - supports HTTP&#x2F;3, HTTP&#x2F;2, HTTP&#x2F;1, websocket, servlets, ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [pgjdbc/pgjdbc](../repos/pgjdbc/pgjdbc.md) | ⭐ 1,747 | 2026-11-06 | Postgresql JDBC Driver |
 
 
 ---
@@ -89,7 +89,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 99,333 | 2026-08-03 | 32 |
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,904 | 2026-08-04 | 23 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 82,050 | 2026-08-04 | 24 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,655 | 2026-08-02 | 27 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 67,230 | 2026-08-04 | 14 |
@@ -102,12 +102,12 @@
 | [ReactiveX/RxJava](../repos/ReactiveX/RxJava.md) | ⭐ 48,208 | 2026-08-28 | 1 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 43,363 | 2026-08-05 | 22 |
 | [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 40,546 | 2026-08-02 | 15 |
-| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 40,404 | 2026-08-06 | 14 |
+| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 40,475 | 2026-08-06 | 15 |
 | [halo-dev/halo](../repos/halo-dev/halo.md) | ⭐ 40,150 | 2026-08-22 | 5 |
 | [PhilJay/MPAndroidChart](../repos/PhilJay/MPAndroidChart.md) | ⭐ 38,169 | 2026-09-21 | 1 |
 | [alibaba/arthas](../repos/alibaba/arthas.md) | ⭐ 37,526 | 2026-08-28 | 2 |
 | [doocs/leetcode](../repos/doocs/leetcode.md) | ⭐ 36,511 | 2026-08-08 | 5 |
-| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 36,400 | 2026-08-04 | 24 |
+| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 36,419 | 2026-08-04 | 25 |
 
 ---
 
@@ -118,10 +118,10 @@
 | [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 34 | ⭐ 6,364 | 2026-08-05 | 2026-11-13 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 32 | ⭐ 99,333 | 2026-08-03 | 2026-11-10 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 27 | ⭐ 78,655 | 2026-08-02 | 2026-11-16 |
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 25 | ⭐ 28,113 | 2026-08-02 | 2026-11-16 |
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 24 | ⭐ 30,163 | 2026-08-04 | 2026-11-06 |
-| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 24 | ⭐ 36,400 | 2026-08-04 | 2026-11-16 |
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 23 | ⭐ 81,904 | 2026-08-04 | 2026-11-12 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 26 | ⭐ 28,137 | 2026-08-02 | 2026-11-17 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 25 | ⭐ 30,252 | 2026-08-04 | 2026-11-17 |
+| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 25 | ⭐ 36,419 | 2026-08-04 | 2026-11-17 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 24 | ⭐ 82,050 | 2026-08-04 | 2026-11-17 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 22 | ⭐ 43,363 | 2026-08-05 | 2026-11-13 |
 | [microg/GmsCore](../repos/microg/GmsCore.md) | 22 | ⭐ 15,343 | 2026-08-06 | 2026-11-16 |
 | [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | 22 | ⭐ 7,664 | 2026-08-14 | 2026-11-14 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-16T21:00:54.492Z*
+*Last updated: 2026-11-17T21:01:02.436Z*

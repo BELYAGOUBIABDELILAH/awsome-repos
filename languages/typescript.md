@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 57,621 | 2026-08-01 | 19 |
+| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 16,851 | 2026-08-01 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [angular/angular](../repos/angular/angular.md) | ⭐ 101,437 | 2026-08-04 | 8 |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 58,009 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dream-num/univer](../repos/dream-num/univer.md) | ⭐ 27,707 | 2026-08-05 | 11 |
+| [karakeep-app/karakeep](../repos/karakeep-app/karakeep.md) | ⭐ 30,648 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-labs-code/stitch-skills](../repos/google-labs-code/stitch-skills.md) | ⭐ 9,689 | 2026-08-22 | 10 |
+| [dream-num/univer](../repos/dream-num/univer.md) | ⭐ 28,839 | 2026-08-05 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [backnotprop/plannotator](../repos/backnotprop/plannotator.md) | ⭐ 12,464 | 2026-08-26 | 12 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 54,008 | 2026-08-07 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koala73/worldmonitor](../repos/koala73/worldmonitor.md) | ⭐ 90,766 | 2026-08-28 | 8 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 127,723 | 2026-08-11 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ag-ui-protocol/ag-ui](../repos/ag-ui-protocol/ag-ui.md) | ⭐ 18,832 | 2026-10-01 | 4 |
+| [google-labs-code/stitch-skills](../repos/google-labs-code/stitch-skills.md) | ⭐ 10,044 | 2026-08-22 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nestjs/nest](../repos/nestjs/nest.md) | ⭐ 77,094 | 2026-10-14 | 2 |
+| [mastra-ai/mastra](../repos/mastra-ai/mastra.md) | ⭐ 29,569 | 2026-08-25 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elie222/rakazo](../repos/elie222/rakazo.md) | ⭐ 8,828 | 2026-10-17 | 8 |
+| [backnotprop/plannotator](../repos/backnotprop/plannotator.md) | ⭐ 13,014 | 2026-08-26 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [GoogleChrome/modern-web-guidance-src](../repos/GoogleChrome/modern-web-guidance-src.md) | ⭐ 7,924 | 2026-11-11 | 6 |
+| [ag-ui-protocol/ag-ui](../repos/ag-ui-protocol/ag-ui.md) | ⭐ 19,923 | 2026-10-01 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [LibreChat-AI/LibreChat](../repos/LibreChat-AI/LibreChat.md) | ⭐ 45,931 | 2026-10-18 | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [trycompai/crm](../repos/trycompai/crm.md) | ⭐ 11,501 | 2026-10-19 | Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM. |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [SehajveerSingh2005/bloom](../repos/SehajveerSingh2005/bloom.md) | ⭐ 338 | 2026-10-23 | Bloom is a desktop companion that reimagines how you interact with Windows. It moves away from st... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [liguobao/ds-harness-remote](../repos/liguobao/ds-harness-remote.md) | ⭐ 1,934 | 2026-10-23 | 基于 DeepSeek Harness 插件机制构建的远程访问方案，通过低延迟、端到端加密的 P2P 网络，支持使用 PC、移动端 和 Web 随时访问本地设备上的DSH 、CodeX、Curs... |
 
 
 ---
@@ -97,8 +97,8 @@
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 154,905 | 2026-08-07 | 21 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 141,850 | 2026-08-02 | 8 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 140,636 | 2026-08-02 | 19 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 127,723 | 2026-08-11 | 26 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | 2026-07-31 | 3 |
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 118,510 | 2026-08-11 | 25 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 118,331 | 2026-08-17 | 5 |
 | [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 116,129 | 2026-08-07 | 12 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 110,330 | 2026-08-02 | 11 |
@@ -115,13 +115,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [stablyai/orca](../repos/stablyai/orca.md) | 25 | ⭐ 118,510 | 2026-08-11 | 2026-11-07 |
-| [cursor/plugins](../repos/cursor/plugins.md) | 24 | ⭐ 14,334 | 2026-08-01 | 2026-10-27 |
+| [stablyai/orca](../repos/stablyai/orca.md) | 26 | ⭐ 127,723 | 2026-08-11 | 2026-11-17 |
+| [cursor/plugins](../repos/cursor/plugins.md) | 25 | ⭐ 16,851 | 2026-08-01 | 2026-11-17 |
 | [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 23 | ⭐ 74,642 | 2026-08-08 | 2026-10-28 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 22 | ⭐ 54,008 | 2026-08-07 | 2026-11-17 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | 21 | ⭐ 154,905 | 2026-08-07 | 2026-11-07 |
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 21 | ⭐ 52,845 | 2026-08-07 | 2026-11-15 |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 20 | ⭐ 58,009 | 2026-08-01 | 2026-11-17 |
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 20 | ⭐ 78,178 | 2026-08-10 | 2026-10-21 |
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 19 | ⭐ 57,621 | 2026-08-01 | 2026-11-16 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 19 | ⭐ 48,123 | 2026-08-01 | 2026-11-05 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 19 | ⭐ 140,636 | 2026-08-02 | 2026-11-07 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 14 | ⭐ 34,200 | 2026-08-02 | 2026-10-03 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-16T21:00:54.547Z*
+*Last updated: 2026-11-17T21:01:02.494Z*

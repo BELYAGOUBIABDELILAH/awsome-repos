@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 82
+**Gems Found**: 73
 
 ---
 
@@ -271,27 +271,7 @@
 
 ---
 
-### 14. [longbridge&#x2F;gpui-component](../../repos/longbridge/gpui-component.md)
-
-**Rust GUI components for building fantastic cross-platform desktop application by using GPUI.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 13,249 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 71/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 1, 2026 |
-
-**Why it's a gem**: High growth velocity (+58 stars&#x2F;day) • Trending 6 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/longbridge/gpui-component.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;longbridge&#x2F;gpui-component)
-
----
-
-### 15. [tutti-os&#x2F;tutti](../../repos/tutti-os/tutti.md)
+### 14. [tutti-os&#x2F;tutti](../../repos/tutti-os/tutti.md)
 
 **Where people and agents build in tune.**
 
@@ -311,7 +291,7 @@
 
 ---
 
-### 16. [microsoft&#x2F;intelligent-terminal](../../repos/microsoft/intelligent-terminal.md)
+### 15. [microsoft&#x2F;intelligent-terminal](../../repos/microsoft/intelligent-terminal.md)
 
 **A fork of Windows Terminal with native agent integration, right in your command line.**
 
@@ -331,7 +311,7 @@
 
 ---
 
-### 17. [worldwonderer&#x2F;oh-story-claudecode](../../repos/worldwonderer/oh-story-claudecode.md)
+### 16. [worldwonderer&#x2F;oh-story-claudecode](../../repos/worldwonderer/oh-story-claudecode.md)
 
 **网文&#x2F;小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-form web fiction.**
 
@@ -339,7 +319,7 @@
 |---|---|
 | ⭐ **Stars** | 5,980 |
 | 💻 **Language** | JavaScript |
-| 🏆 **Gem Score** | 68/100 |
+| 🏆 **Gem Score** | 67/100 |
 | 📈 **Trending Days** | 2 |
 | 📅 **First Seen** | Aug 4, 2026 |
 
@@ -351,27 +331,7 @@
 
 ---
 
-### 18. [jnMetaCode&#x2F;agency-agents-zh](../../repos/jnMetaCode/agency-agents-zh.md)
-
-**🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent&#x2F;Claude Code&#x2F;Cursor&#x2F;Copilot 等 18 种工具，覆盖工程&#x2F;设计&#x2F;营销&#x2F;金融等 20 个部门。含 52 个中国市场原创智能体（小红书&#x2F;抖音&#x2F;微信&#x2F;飞书&#x2F;钉钉等）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 20,046 |
-| 💻 **Language** | Shell |
-| 🏆 **Gem Score** | 67/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 12, 2026 |
-
-**Why it's a gem**: High growth velocity (+51 stars&#x2F;day) • Trending 6 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/jnMetaCode/agency-agents-zh.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;jnMetaCode&#x2F;agency-agents-zh)
-
----
-
-### 19. [kitknox&#x2F;rootshell](../../repos/kitknox/rootshell.md)
+### 17. [kitknox&#x2F;rootshell](../../repos/kitknox/rootshell.md)
 
 **rootshell - The terminal, reimagined for Apple platforms**
 
@@ -391,7 +351,27 @@
 
 ---
 
-### 20. [shy3130&#x2F;tickflow-stock-panel](../../repos/shy3130/tickflow-stock-panel.md)
+### 18. [jnMetaCode&#x2F;agency-agents-zh](../../repos/jnMetaCode/agency-agents-zh.md)
+
+**🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent&#x2F;Claude Code&#x2F;Cursor&#x2F;Copilot 等 18 种工具，覆盖工程&#x2F;设计&#x2F;营销&#x2F;金融等 20 个部门。含 52 个中国市场原创智能体（小红书&#x2F;抖音&#x2F;微信&#x2F;飞书&#x2F;钉钉等）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 20,046 |
+| 💻 **Language** | Shell |
+| 🏆 **Gem Score** | 66/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 12, 2026 |
+
+**Why it's a gem**: High growth velocity (+51 stars&#x2F;day) • Trending 6 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/jnMetaCode/agency-agents-zh.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;jnMetaCode&#x2F;agency-agents-zh)
+
+---
+
+### 19. [shy3130&#x2F;tickflow-stock-panel](../../repos/shy3130/tickflow-stock-panel.md)
 
 **TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目**
 
@@ -411,6 +391,26 @@
 
 ---
 
+### 20. [Xoshbin&#x2F;asyar](../../repos/Xoshbin/asyar.md)
+
+**The power of Raycast. The speed of Alfred. Privacy by design.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 519 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 66/100 |
+| 📈 **Trending Days** | 1 |
+| 📅 **First Seen** | Aug 26, 2026 |
+
+**Why it's a gem**: High growth velocity (+42 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/Xoshbin/asyar.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Xoshbin&#x2F;asyar)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-16T21:00:59.181Z*  
+*Generated: 2026-11-17T21:01:08.560Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

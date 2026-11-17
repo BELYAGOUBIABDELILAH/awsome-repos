@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Verilog |
 | **License** | BSD-3-Clause |
-| **Stars** | ⭐ 3,295 |
-| **Forks** | 🍴 1,090 |
-| **Trending Days** | 85 |
+| **Stars** | ⭐ 3,297 |
+| **Forks** | 🍴 1,093 |
+| **Trending Days** | 86 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 16, 2026 |
+| **Last Seen** | Nov 17, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 85
-- **Longest Streak**: 15 days
+- **Trending Days**: 86
+- **Longest Streak**: 16 days
 
 ---
 
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 3,295+ stars, strong contributor base |
+| **Community** | Very Active | 3,297+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-16T21:00:56.154Z*  
-*Data from 85 trending reports*
+*Last updated: 2026-11-17T21:01:04.616Z*  
+*Data from 86 trending reports*

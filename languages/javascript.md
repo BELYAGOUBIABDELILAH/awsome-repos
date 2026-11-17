@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 192
+- **Total Repositories**: 195
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-12
 
@@ -16,31 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 70,623 | 2026-08-01 | 22 |
+| [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,485 | 2026-08-11 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 65,279 | 2026-08-27 | 16 |
+| [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) | ⭐ 23,386 | 2026-08-14 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [maillab/cloud-mail](../repos/maillab/cloud-mail.md) | ⭐ 16,274 | 2026-09-06 | 3 |
+| [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 53,356 | 2026-08-26 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hanliang97/MatrixMedia](../repos/hanliang97/MatrixMedia.md) | ⭐ 1,444 | 2026-10-27 | 3 |
+| [hanliang97/MatrixMedia](../repos/hanliang97/MatrixMedia.md) | ⭐ 1,529 | 2026-10-27 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DeanChensj/jiangshan-map](../repos/DeanChensj/jiangshan-map.md) | ⭐ 6,652 | 2026-11-02 | 4 |
+| [DeanChensj/jiangshan-map](../repos/DeanChensj/jiangshan-map.md) | ⭐ 7,616 | 2026-11-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [airbnb/lottie-web](../repos/airbnb/lottie-web.md) | ⭐ 32,476 | 2026-11-16 | 1 |
+| [Jeffallan/claude-skills](../repos/Jeffallan/claude-skills.md) | ⭐ 12,425 | 2026-11-17 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Minglink/dsh-infinite-gen-5](../repos/Minglink/dsh-infinite-gen-5.md) | ⭐ 4,472 | 2026-11-17 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [aliyun/ai-agent-handbook](../repos/aliyun/ai-agent-handbook.md) | ⭐ 3,440 | 2026-11-17 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [guoyue2010/lxmusic-](../repos/guoyue2010/lxmusic-.md) | ⭐ 6,466 | 2026-10-18 | lxmusic(洛雪音乐)全网最新最全音源 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [YuJunZhiXue/dsh-purge](../repos/YuJunZhiXue/dsh-purge.md) | ⭐ 13,038 | 2026-10-19 | DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts... |
@@ -68,6 +71,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [algorithm-visualizer/algorithm-visualizer](../repos/algorithm-visualizer/algorithm-visualizer.md) | ⭐ 49,214 | 2026-10-27 | :fireworks:Interactive Online Platform that Visualizes Algorithms from Code |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [hanliang97/MatrixMedia](../repos/hanliang97/MatrixMedia.md) | ⭐ 1,529 | 2026-10-27 | 视频矩阵工具 vue electorn puppeteer 批量发布 视频到各个视频平台 自媒体 矩阵 抖音 小红书 头条 视频号 快手等 ai 自动化 cli |
 
 
 ---
@@ -93,7 +99,7 @@
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,980 | 2026-08-04 | 4 |
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 65,279 | 2026-08-27 | 16 |
 | [jgraph/drawio-desktop](../repos/jgraph/drawio-desktop.md) | ⭐ 63,817 | 2026-11-04 | 1 |
-| [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,346 | 2026-08-11 | 4 |
+| [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,485 | 2026-08-11 | 5 |
 | [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 59,798 | 2026-10-14 | 1 |
 | [chinese-poetry/chinese-poetry](../repos/chinese-poetry/chinese-poetry.md) | ⭐ 54,296 | 2026-11-10 | 2 |
 
@@ -221,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-11-16T21:00:54.494Z*
+*Last updated: 2026-11-17T21:01:02.438Z*

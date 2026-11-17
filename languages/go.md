@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 352
+- **Total Repositories**: 353
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-11-13
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [golang/go](../repos/golang/go.md) | ⭐ 139,950 | 2026-07-31 | 20 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 52,095 | 2026-08-01 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 6,873 | 2026-08-02 | 26 |
+| [getarcaneapp/arcane](../repos/getarcaneapp/arcane.md) | ⭐ 9,248 | 2026-08-06 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kubescape/kubescape](../repos/kubescape/kubescape.md) | ⭐ 11,939 | 2026-08-02 | 7 |
+| [knadh/listmonk](../repos/knadh/listmonk.md) | ⭐ 24,355 | 2026-08-14 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 129,115 | 2026-08-04 | 16 |
+| [seaweedfs/seaweedfs](../repos/seaweedfs/seaweedfs.md) | ⭐ 36,124 | 2026-08-19 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [docker/compose](../repos/docker/compose.md) | ⭐ 38,891 | 2026-08-04 | 7 |
+| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 53,646 | 2026-08-20 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [getarcaneapp/arcane](../repos/getarcaneapp/arcane.md) | ⭐ 8,631 | 2026-08-06 | 6 |
+| [crossplane/crossplane](../repos/crossplane/crossplane.md) | ⭐ 12,249 | 2026-09-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 52,872 | 2026-08-20 | 22 |
+| [guohuiyuan/go-music-dl](../repos/guohuiyuan/go-music-dl.md) | ⭐ 6,549 | 2026-09-20 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openbkn-ai/bkn-foundry](../repos/openbkn-ai/bkn-foundry.md) | ⭐ 1,399 | 2026-09-22 | 2 |
+| [google/ax](../repos/google/ax.md) | ⭐ 14,763 | 2026-09-22 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Billionmail/BillionMail](../repos/Billionmail/BillionMail.md) | ⭐ 16,392 | 2026-09-27 | 4 |
+| [ArvinLovegood/go-stock](../repos/ArvinLovegood/go-stock.md) | ⭐ 8,195 | 2026-09-24 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tencent/LoopForge](../repos/Tencent/LoopForge.md) | ⭐ 2,302 | 2026-11-11 | 6 |
+| [Autumn-27/ScopeSentry](../repos/Autumn-27/ScopeSentry.md) | ⭐ 2,485 | 2026-10-11 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [heartleo/zlib](../repos/heartleo/zlib.md) | ⭐ 1,074 | 2026-10-18 | A command-line tool for Z-Library. Search, download, send to Kindle, and integrate with AI agents. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Mag1cFall/AIStudio2API](../repos/Mag1cFall/AIStudio2API.md) | ⭐ 677 | 2026-10-18 | 将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic &amp; Gemini Compatible API |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [goharbor/harbor](../repos/goharbor/harbor.md) | ⭐ 29,577 | 2026-10-20 | An open source trusted cloud native registry project that stores, signs, and scans content. |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [go-git/go-git](../repos/go-git/go-git.md) | ⭐ 7,830 | 2026-10-26 | A highly extensible Git implementation in pure Go. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [benbjohnson/litestream](../repos/benbjohnson/litestream.md) | ⭐ 14,540 | 2026-10-26 | Streaming replication for SQLite. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [klauspost/compress](../repos/klauspost/compress.md) | ⭐ 5,704 | 2026-10-27 | Optimized Go Compression Packages |
 
 
 ---
@@ -103,9 +103,9 @@
 | [minio/minio](../repos/minio/minio.md) | ⭐ 61,365 | 2026-08-12 | 2 |
 | [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | 2 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 56,051 | 2026-08-01 | 29 |
-| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 52,872 | 2026-08-20 | 22 |
+| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 53,646 | 2026-08-20 | 23 |
 | [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,668 | 2026-08-22 | 7 |
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 51,364 | 2026-08-01 | 22 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 52,095 | 2026-08-01 | 23 |
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,305 | 2026-08-04 | 3 |
 | [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 50,430 | 2026-08-03 | 2 |
 
@@ -120,8 +120,8 @@
 | [ollama/ollama](../repos/ollama/ollama.md) | 28 | ⭐ 186,884 | 2026-08-01 | 2026-11-13 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 27 | ⭐ 39,342 | 2026-08-01 | 2026-11-14 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 26 | ⭐ 6,873 | 2026-08-02 | 2026-11-16 |
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 22 | ⭐ 51,364 | 2026-08-01 | 2026-11-04 |
-| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 22 | ⭐ 52,872 | 2026-08-20 | 2026-11-16 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 23 | ⭐ 52,095 | 2026-08-01 | 2026-11-17 |
+| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 23 | ⭐ 53,646 | 2026-08-20 | 2026-11-17 |
 | [golang/go](../repos/golang/go.md) | 20 | ⭐ 139,950 | 2026-07-31 | 2026-11-16 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 20 | ⭐ 45,097 | 2026-08-07 | 2026-10-29 |
 | [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | 18 | ⭐ 1,031 | 2026-08-01 | 2026-11-04 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-16T21:00:54.484Z*
+*Last updated: 2026-11-17T21:01:02.427Z*

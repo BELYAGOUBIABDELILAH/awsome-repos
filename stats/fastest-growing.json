@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T21:00:59.365Z",
+  "generated_at": "2026-11-17T21:01:08.776Z",
   "total_count": 100,
   "repositories": [
     {
@@ -823,19 +823,6 @@
     },
     {
       "rank": 64,
-      "full_name": "ArvinLovegood/go-stock",
-      "owner": "ArvinLovegood",
-      "name": "go-stock",
-      "stars": 7708,
-      "estimated_initial_stars": 7608,
-      "growth": 100,
-      "growth_rate": 100,
-      "language": "Go",
-      "first_seen": "2026-09-24",
-      "trending_days": 2
-    },
-    {
-      "rank": 65,
       "full_name": "vercel-labs/deepsec",
       "owner": "vercel-labs",
       "name": "deepsec",
@@ -848,7 +835,7 @@
       "trending_days": 2
     },
     {
-      "rank": 66,
+      "rank": 65,
       "full_name": "arkime/arkime",
       "owner": "arkime",
       "name": "arkime",
@@ -861,7 +848,7 @@
       "trending_days": 2
     },
     {
-      "rank": 67,
+      "rank": 66,
       "full_name": "1weiho/open-slide",
       "owner": "1weiho",
       "name": "open-slide",
@@ -874,7 +861,7 @@
       "trending_days": 2
     },
     {
-      "rank": 68,
+      "rank": 67,
       "full_name": "JiaFeiMiao-K-Cat/DiscImageStudio",
       "owner": "JiaFeiMiao-K-Cat",
       "name": "DiscImageStudio",
@@ -887,7 +874,7 @@
       "trending_days": 2
     },
     {
-      "rank": 69,
+      "rank": 68,
       "full_name": "elder-plinius/T3MP3ST",
       "owner": "elder-plinius",
       "name": "T3MP3ST",
@@ -900,7 +887,7 @@
       "trending_days": 2
     },
     {
-      "rank": 70,
+      "rank": 69,
       "full_name": "wesnoth/wesnoth",
       "owner": "wesnoth",
       "name": "wesnoth",
@@ -913,7 +900,7 @@
       "trending_days": 2
     },
     {
-      "rank": 71,
+      "rank": 70,
       "full_name": "olikraus/u8g2",
       "owner": "olikraus",
       "name": "u8g2",
@@ -926,7 +913,7 @@
       "trending_days": 2
     },
     {
-      "rank": 72,
+      "rank": 71,
       "full_name": "crocodilestick/Calibre-Web-Automated",
       "owner": "crocodilestick",
       "name": "Calibre-Web-Automated",
@@ -939,7 +926,7 @@
       "trending_days": 2
     },
     {
-      "rank": 73,
+      "rank": 72,
       "full_name": "ikarus23/MifareClassicTool",
       "owner": "ikarus23",
       "name": "MifareClassicTool",
@@ -952,7 +939,7 @@
       "trending_days": 2
     },
     {
-      "rank": 74,
+      "rank": 73,
       "full_name": "daeuniverse/dae",
       "owner": "daeuniverse",
       "name": "dae",
@@ -965,7 +952,7 @@
       "trending_days": 2
     },
     {
-      "rank": 75,
+      "rank": 74,
       "full_name": "LingDong-/shan-shui-inf",
       "owner": "LingDong-",
       "name": "shan-shui-inf",
@@ -978,7 +965,7 @@
       "trending_days": 2
     },
     {
-      "rank": 76,
+      "rank": 75,
       "full_name": "papercups-io/papercups",
       "owner": "papercups-io",
       "name": "papercups",
@@ -991,7 +978,7 @@
       "trending_days": 2
     },
     {
-      "rank": 77,
+      "rank": 76,
       "full_name": "Redot-Engine/redot-engine",
       "owner": "Redot-Engine",
       "name": "redot-engine",
@@ -1004,7 +991,7 @@
       "trending_days": 2
     },
     {
-      "rank": 78,
+      "rank": 77,
       "full_name": "tech-leads-club/agent-skills",
       "owner": "tech-leads-club",
       "name": "agent-skills",
@@ -1017,7 +1004,7 @@
       "trending_days": 2
     },
     {
-      "rank": 79,
+      "rank": 78,
       "full_name": "mayswind/ezbookkeeping",
       "owner": "mayswind",
       "name": "ezbookkeeping",
@@ -1030,7 +1017,7 @@
       "trending_days": 2
     },
     {
-      "rank": 80,
+      "rank": 79,
       "full_name": "FxEmbed/FxEmbed",
       "owner": "FxEmbed",
       "name": "FxEmbed",
@@ -1043,7 +1030,7 @@
       "trending_days": 2
     },
     {
-      "rank": 81,
+      "rank": 80,
       "full_name": "apache/opendal",
       "owner": "apache",
       "name": "opendal",
@@ -1056,7 +1043,7 @@
       "trending_days": 2
     },
     {
-      "rank": 82,
+      "rank": 81,
       "full_name": "higgsfield-ai/higgsfield",
       "owner": "higgsfield-ai",
       "name": "higgsfield",
@@ -1069,7 +1056,7 @@
       "trending_days": 2
     },
     {
-      "rank": 83,
+      "rank": 82,
       "full_name": "beclab/Olares",
       "owner": "beclab",
       "name": "Olares",
@@ -1082,7 +1069,7 @@
       "trending_days": 2
     },
     {
-      "rank": 84,
+      "rank": 83,
       "full_name": "lightvector/KataGo",
       "owner": "lightvector",
       "name": "KataGo",
@@ -1095,7 +1082,7 @@
       "trending_days": 2
     },
     {
-      "rank": 85,
+      "rank": 84,
       "full_name": "blackcandy-org/blackcandy",
       "owner": "blackcandy-org",
       "name": "blackcandy",
@@ -1108,7 +1095,7 @@
       "trending_days": 2
     },
     {
-      "rank": 86,
+      "rank": 85,
       "full_name": "cloudflare/mcp-server-cloudflare",
       "owner": "cloudflare",
       "name": "mcp-server-cloudflare",
@@ -1121,7 +1108,7 @@
       "trending_days": 2
     },
     {
-      "rank": 87,
+      "rank": 86,
       "full_name": "folke/flash.nvim",
       "owner": "folke",
       "name": "flash.nvim",
@@ -1134,7 +1121,7 @@
       "trending_days": 2
     },
     {
-      "rank": 88,
+      "rank": 87,
       "full_name": "rhysd/actionlint",
       "owner": "rhysd",
       "name": "actionlint",
@@ -1147,7 +1134,7 @@
       "trending_days": 2
     },
     {
-      "rank": 89,
+      "rank": 88,
       "full_name": "surge-synthesizer/surge",
       "owner": "surge-synthesizer",
       "name": "surge",
@@ -1160,7 +1147,7 @@
       "trending_days": 2
     },
     {
-      "rank": 90,
+      "rank": 89,
       "full_name": "microsoft/AI-Engineering-Coach",
       "owner": "microsoft",
       "name": "AI-Engineering-Coach",
@@ -1173,7 +1160,7 @@
       "trending_days": 2
     },
     {
-      "rank": 91,
+      "rank": 90,
       "full_name": "openssh/openssh-portable",
       "owner": "openssh",
       "name": "openssh-portable",
@@ -1183,6 +1170,19 @@
       "growth_rate": 100,
       "language": "C",
       "first_seen": "2026-11-06",
+      "trending_days": 2
+    },
+    {
+      "rank": 91,
+      "full_name": "lay295/TwitchDownloader",
+      "owner": "lay295",
+      "name": "TwitchDownloader",
+      "stars": 4072,
+      "estimated_initial_stars": 3972,
+      "growth": 100,
+      "growth_rate": 100,
+      "language": "C#",
+      "first_seen": "2026-11-16",
       "trending_days": 2
     },
     {
@@ -1200,19 +1200,6 @@
     },
     {
       "rank": 93,
-      "full_name": "plannotator/effective-html",
-      "owner": "plannotator",
-      "name": "effective-html",
-      "stars": 4045,
-      "estimated_initial_stars": 3945,
-      "growth": 100,
-      "growth_rate": 100,
-      "language": "HTML",
-      "first_seen": "2026-11-06",
-      "trending_days": 2
-    },
-    {
-      "rank": 94,
       "full_name": "redlib-org/redlib",
       "owner": "redlib-org",
       "name": "redlib",
@@ -1225,7 +1212,7 @@
       "trending_days": 2
     },
     {
-      "rank": 95,
+      "rank": 94,
       "full_name": "ZiggyCreatures/FusionCache",
       "owner": "ZiggyCreatures",
       "name": "FusionCache",
@@ -1238,7 +1225,7 @@
       "trending_days": 2
     },
     {
-      "rank": 96,
+      "rank": 95,
       "full_name": "jwt/ruby-jwt",
       "owner": "jwt",
       "name": "ruby-jwt",
@@ -1251,7 +1238,7 @@
       "trending_days": 2
     },
     {
-      "rank": 97,
+      "rank": 96,
       "full_name": "CopilotC-Nvim/CopilotChat.nvim",
       "owner": "CopilotC-Nvim",
       "name": "CopilotChat.nvim",
@@ -1264,7 +1251,7 @@
       "trending_days": 2
     },
     {
-      "rank": 98,
+      "rank": 97,
       "full_name": "erigontech/erigon",
       "owner": "erigontech",
       "name": "erigon",
@@ -1277,7 +1264,7 @@
       "trending_days": 2
     },
     {
-      "rank": 99,
+      "rank": 98,
       "full_name": "tutti-os/tutti",
       "owner": "tutti-os",
       "name": "tutti",
@@ -1290,7 +1277,7 @@
       "trending_days": 2
     },
     {
-      "rank": 100,
+      "rank": 99,
       "full_name": "AIDotNet/OpenDeepWiki",
       "owner": "AIDotNet",
       "name": "OpenDeepWiki",
@@ -1300,6 +1287,19 @@
       "growth_rate": 100,
       "language": "C#",
       "first_seen": "2026-08-06",
+      "trending_days": 2
+    },
+    {
+      "rank": 100,
+      "full_name": "bowenliang123/dsh-context",
+      "owner": "bowenliang123",
+      "name": "dsh-context",
+      "stars": 3474,
+      "estimated_initial_stars": 3374,
+      "growth": 100,
+      "growth_rate": 100,
+      "language": "TypeScript",
+      "first_seen": "2026-10-22",
       "trending_days": 2
     }
   ]

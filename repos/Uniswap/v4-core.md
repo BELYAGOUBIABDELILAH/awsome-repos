@@ -13,12 +13,12 @@
 | **Language** | Solidity |
 | **License** | Not specified |
 | **Stars** | ⭐ 2,565 |
-| **Forks** | 🍴 1,346 |
-| **Trending Days** | 41 |
+| **Forks** | 🍴 1,345 |
+| **Trending Days** | 42 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 16, 2026 |
+| **Last Seen** | Nov 17, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 41
-- **Longest Streak**: 6 days
+- **Trending Days**: 42
+- **Longest Streak**: 7 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-16T21:00:56.146Z*  
-*Data from 41 trending reports*
+*Last updated: 2026-11-17T21:01:04.593Z*  
+*Data from 42 trending reports*

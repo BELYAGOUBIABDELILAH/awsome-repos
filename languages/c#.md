@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 203
+- **Total Repositories**: 204
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-16
 
@@ -16,40 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 33,352 | 2026-08-01 | 24 |
+| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 27,091 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 15,022 | 2026-08-01 | 24 |
+| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 12,378 | 2026-08-04 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openutau/OpenUtau](../repos/openutau/OpenUtau.md) | ⭐ 4,596 | 2026-08-01 | 8 |
+| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,786 | 2026-08-05 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 120,762 | 2026-08-02 | 36 |
+| [TechnitiumSoftware/DnsServer](../repos/TechnitiumSoftware/DnsServer.md) | ⭐ 10,383 | 2026-08-12 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 59,438 | 2026-08-02 | 26 |
+| [umbraco/Umbraco-CMS](../repos/umbraco/Umbraco-CMS.md) | ⭐ 5,286 | 2026-08-14 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PCL-Community/PCL-CE](../repos/PCL-Community/PCL-CE.md) | ⭐ 5,153 | 2026-09-14 | 5 |
+| [SakiRinn/LiveCaptions-Translator](../repos/SakiRinn/LiveCaptions-Translator.md) | ⭐ 4,091 | 2026-11-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MoFeng2223/BrimDeck](../repos/MoFeng2223/BrimDeck.md) | ⭐ 764 | 2026-11-06 | 6 |
+| [lay295/TwitchDownloader](../repos/lay295/TwitchDownloader.md) | ⭐ 4,072 | 2026-11-16 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lay295/TwitchDownloader](../repos/lay295/TwitchDownloader.md) | ⭐ 4,055 | 2026-11-16 | 1 |
+| [WalletWasabi/WalletWasabi](../repos/WalletWasabi/WalletWasabi.md) | ⭐ 2,636 | 2026-11-17 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Interkarma/daggerfall-unity](../repos/Interkarma/daggerfall-unity.md) | ⭐ 3,535 | 2026-10-18 | Open source recreation of Daggerfall in the Unity engine |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ANYNC/TaskbarLyrics](../repos/ANYNC/TaskbarLyrics.md) | ⭐ 406 | 2026-10-18 |  Windows 任务栏歌词工具 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [zqq-699/BlockHelm-Launcher](../repos/zqq-699/BlockHelm-Launcher.md) | ⭐ 264 | 2026-10-25 | 简洁现代的 Minecraft Java 版启动器，支持实例、资源与账户管理。 |
@@ -74,6 +68,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [JiaFeiMiao-K-Cat/DiscImageStudio](../repos/JiaFeiMiao-K-Cat/DiscImageStudio.md) | ⭐ 7,201 | 2026-11-04 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [MoFeng2223/BrimDeck](../repos/MoFeng2223/BrimDeck.md) | ⭐ 764 | 2026-11-06 | A Dynamic Island for Windows 11 with AI coding tool quotas, usage tracking, music controls, and m... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Azure/azure-functions-host](../repos/Azure/azure-functions-host.md) | ⭐ 2,025 | 2026-11-06 | The host&#x2F;runtime that powers Azure Functions |
 
 
 ---
@@ -94,9 +94,9 @@
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 32,177 | 2026-08-22 | 6 |
 | [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,082 | 2026-08-28 | 4 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
-| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,772 | 2026-08-05 | 16 |
+| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,786 | 2026-08-05 | 17 |
 | [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,572 | 2026-08-10 | 11 |
-| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 27,055 | 2026-08-02 | 10 |
+| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 27,091 | 2026-08-02 | 11 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,954 | 2026-08-01 | 13 |
 | [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 25,767 | 2026-08-27 | 11 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,316 | 2026-08-04 | 5 |
@@ -227,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-11-16T21:00:54.457Z*
+*Last updated: 2026-11-17T21:01:02.398Z*

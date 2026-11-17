@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 113
+- **Total Repositories**: 114
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-16
+- **Last Updated**: 2026-11-17
 
 ---
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 50,556 | 2026-08-01 | 36 |
+| [zammad/zammad](../repos/zammad/zammad.md) | ⭐ 6,125 | 2026-08-01 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,819 | 2026-08-01 | 47 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,823 | 2026-08-01 | 48 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ubicloud/ubicloud](../repos/ubicloud/ubicloud.md) | ⭐ 12,418 | 2026-08-01 | 18 |
+| [spree/spree](../repos/spree/spree.md) | ⭐ 15,847 | 2026-08-01 | 42 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spree/spree](../repos/spree/spree.md) | ⭐ 15,844 | 2026-08-01 | 41 |
+| [github-linguist/linguist](../repos/github-linguist/linguist.md) | ⭐ 13,795 | 2026-08-01 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [antiwork/gumroad](../repos/antiwork/gumroad.md) | ⭐ 10,165 | 2026-08-01 | 35 |
+| [ruby/gem_rbs_collection](../repos/ruby/gem_rbs_collection.md) | ⭐ 302 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,085 | 2026-08-01 | 44 |
+| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,085 | 2026-08-01 | 45 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [we-promise/sure](../repos/we-promise/sure.md) | ⭐ 15,960 | 2026-08-02 | 47 |
+| [rails/rails](../repos/rails/rails.md) | ⭐ 59,232 | 2026-08-02 | 57 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rails/rails](../repos/rails/rails.md) | ⭐ 59,043 | 2026-08-02 | 56 |
+| [docusealco/docuseal](../repos/docusealco/docuseal.md) | ⭐ 19,077 | 2026-08-02 | 37 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jekyll/jekyll](../repos/jekyll/jekyll.md) | ⭐ 51,786 | 2026-08-03 | 29 |
+| [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 42,400 | 2026-08-04 | 47 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 42,398 | 2026-08-04 | 46 |
+| [puma/puma](../repos/puma/puma.md) | ⭐ 7,928 | 2026-08-04 | 9 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [patterns-ai-core/langchainrb](../repos/patterns-ai-core/langchainrb.md) | ⭐ 2,006 | 2026-10-18 | Build LLM-powered applications in Ruby |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [tobymao/18xx](../repos/tobymao/18xx.md) | ⭐ 376 | 2026-10-18 | A platform for playing 18xx games online! |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [red-data-tools/YouPlot](../repos/red-data-tools/YouPlot.md) | ⭐ 4,871 | 2026-10-18 | A command line tool that draw plots on the terminal. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [coinbase/temporal-ruby](../repos/coinbase/temporal-ruby.md) | ⭐ 287 | 2026-10-28 | Ruby SDK for Temporal |
@@ -80,6 +71,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [inspec/inspec](../repos/inspec/inspec.md) | ⭐ 3,105 | 2026-11-15 | InSpec: Auditing and Testing Framework |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [eventmachine/eventmachine](../repos/eventmachine/eventmachine.md) | ⭐ 4,280 | 2026-11-17 | EventMachine: fast, simple event-processing library for Ruby programs |
 
 
 ---
@@ -88,23 +82,23 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rails/rails](../repos/rails/rails.md) | ⭐ 59,043 | 2026-08-02 | 56 |
+| [rails/rails](../repos/rails/rails.md) | ⭐ 59,232 | 2026-08-02 | 57 |
 | [jekyll/jekyll](../repos/jekyll/jekyll.md) | ⭐ 51,786 | 2026-08-03 | 29 |
 | [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 50,556 | 2026-08-01 | 36 |
 | [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 48,084 | 2026-08-01 | 56 |
-| [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 42,398 | 2026-08-04 | 46 |
+| [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 42,400 | 2026-08-04 | 47 |
 | [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | ⭐ 39,562 | 2026-08-01 | 42 |
-| [hashicorp/vagrant](../repos/hashicorp/vagrant.md) | ⭐ 27,231 | 2026-08-05 | 16 |
+| [hashicorp/vagrant](../repos/hashicorp/vagrant.md) | ⭐ 27,231 | 2026-08-05 | 17 |
 | [matteocrippa/awesome-swift](../repos/matteocrippa/awesome-swift.md) | ⭐ 26,364 | 2026-09-27 | 9 |
 | [gitlabhq/gitlabhq](../repos/gitlabhq/gitlabhq.md) | ⭐ 24,565 | 2026-08-01 | 19 |
 | [heartcombo/devise](../repos/heartcombo/devise.md) | ⭐ 24,355 | 2026-09-08 | 5 |
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,819 | 2026-08-01 | 47 |
-| [forem/forem](../repos/forem/forem.md) | ⭐ 22,832 | 2026-08-04 | 21 |
-| [docusealco/docuseal](../repos/docusealco/docuseal.md) | ⭐ 19,056 | 2026-08-02 | 36 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,823 | 2026-08-01 | 48 |
+| [forem/forem](../repos/forem/forem.md) | ⭐ 22,833 | 2026-08-04 | 22 |
+| [docusealco/docuseal](../repos/docusealco/docuseal.md) | ⭐ 19,077 | 2026-08-02 | 37 |
 | [opf/openproject](../repos/opf/openproject.md) | ⭐ 17,372 | 2026-08-01 | 56 |
 | [postalserver/postal](../repos/postalserver/postal.md) | ⭐ 16,957 | 2026-08-04 | 22 |
 | [we-promise/sure](../repos/we-promise/sure.md) | ⭐ 15,960 | 2026-08-02 | 47 |
-| [spree/spree](../repos/spree/spree.md) | ⭐ 15,844 | 2026-08-01 | 41 |
+| [spree/spree](../repos/spree/spree.md) | ⭐ 15,847 | 2026-08-01 | 42 |
 | [CocoaPods/CocoaPods](../repos/CocoaPods/CocoaPods.md) | ⭐ 14,833 | 2026-09-02 | 5 |
 | [neutraltone/awesome-stock-resources](../repos/neutraltone/awesome-stock-resources.md) | ⭐ 14,815 | 2026-09-04 | 11 |
 | [basecamp/kamal](../repos/basecamp/kamal.md) | ⭐ 14,727 | 2026-08-12 | 18 |
@@ -115,15 +109,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [rails/rails](../repos/rails/rails.md) | 57 | ⭐ 59,232 | 2026-08-02 | 2026-11-17 |
 | [discourse/discourse](../repos/discourse/discourse.md) | 56 | ⭐ 48,084 | 2026-08-01 | 2026-11-14 |
 | [opf/openproject](../repos/opf/openproject.md) | 56 | ⭐ 17,372 | 2026-08-01 | 2026-11-14 |
-| [rails/rails](../repos/rails/rails.md) | 56 | ⭐ 59,043 | 2026-08-02 | 2026-11-16 |
-| [ruby/ruby](../repos/ruby/ruby.md) | 47 | ⭐ 23,819 | 2026-08-01 | 2026-11-16 |
+| [ruby/ruby](../repos/ruby/ruby.md) | 48 | ⭐ 23,823 | 2026-08-01 | 2026-11-17 |
 | [we-promise/sure](../repos/we-promise/sure.md) | 47 | ⭐ 15,960 | 2026-08-02 | 2026-11-16 |
-| [fastlane/fastlane](../repos/fastlane/fastlane.md) | 46 | ⭐ 42,398 | 2026-08-04 | 2026-11-16 |
-| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 44 | ⭐ 1,085 | 2026-08-01 | 2026-11-16 |
+| [fastlane/fastlane](../repos/fastlane/fastlane.md) | 47 | ⭐ 42,400 | 2026-08-04 | 2026-11-17 |
+| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 45 | ⭐ 1,085 | 2026-08-01 | 2026-11-17 |
+| [spree/spree](../repos/spree/spree.md) | 42 | ⭐ 15,847 | 2026-08-01 | 2026-11-17 |
 | [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | 42 | ⭐ 39,562 | 2026-08-01 | 2026-11-12 |
-| [spree/spree](../repos/spree/spree.md) | 41 | ⭐ 15,844 | 2026-08-01 | 2026-11-16 |
 | [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | 39 | ⭐ 5,849 | 2026-08-01 | 2026-11-15 |
 
 ---
@@ -233,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-11-16T21:00:54.535Z*
+*Last updated: 2026-11-17T21:01:02.479Z*

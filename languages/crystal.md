@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 5
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-16
+- **Last Updated**: 2026-11-17
 
 ---
 
@@ -16,7 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 26,062 | 2026-08-01 | 58 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 26,079 | 2026-08-01 | 59 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [iyilang/iyi](../repos/iyilang/iyi.md) | ⭐ 132 | 2026-11-13 | 2 |
 
 
 ---
@@ -28,7 +31,7 @@
 | [amberframework/amber](../repos/amberframework/amber.md) | ⭐ 2,607 | 2026-10-19 | A Crystal web framework that makes building applications fast, simple, and enjoyable. Get started... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [iyilang/iyi](../repos/iyilang/iyi.md) | ⭐ 116 | 2026-11-13 | A friendly, fast programming language for people and their agents. |
+| [iyilang/iyi](../repos/iyilang/iyi.md) | ⭐ 132 | 2026-11-13 | A friendly, fast programming language for people and their agents. |
 
 
 ---
@@ -37,11 +40,11 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 26,062 | 2026-08-01 | 58 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 26,079 | 2026-08-01 | 59 |
 | [amberframework/amber](../repos/amberframework/amber.md) | ⭐ 2,607 | 2026-10-19 | 1 |
 | [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,486 | 2026-08-06 | 13 |
 | [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | ⭐ 1,030 | 2026-10-02 | 8 |
-| [iyilang/iyi](../repos/iyilang/iyi.md) | ⭐ 116 | 2026-11-13 | 1 |
+| [iyilang/iyi](../repos/iyilang/iyi.md) | ⭐ 132 | 2026-11-13 | 2 |
 
 ---
 
@@ -49,11 +52,11 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | 58 | ⭐ 26,062 | 2026-08-01 | 2026-11-16 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | 59 | ⭐ 26,079 | 2026-08-01 | 2026-11-17 |
 | [owasp-noir/noir](../repos/owasp-noir/noir.md) | 13 | ⭐ 1,486 | 2026-08-06 | 2026-11-09 |
 | [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | 8 | ⭐ 1,030 | 2026-10-02 | 2026-10-13 |
+| [iyilang/iyi](../repos/iyilang/iyi.md) | 2 | ⭐ 132 | 2026-11-13 | 2026-11-17 |
 | [amberframework/amber](../repos/amberframework/amber.md) | 1 | ⭐ 2,607 | 2026-10-19 | 2026-10-19 |
-| [iyilang/iyi](../repos/iyilang/iyi.md) | 1 | ⭐ 116 | 2026-11-13 | 2026-11-13 |
 
 ---
 
@@ -67,4 +70,4 @@
 
 ---
 
-*Last updated: 2026-11-16T21:00:54.468Z*
+*Last updated: 2026-11-17T21:01:02.410Z*

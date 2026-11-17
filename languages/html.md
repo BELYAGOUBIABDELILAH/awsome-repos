@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 125
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-07
+- **Last Updated**: 2026-11-17
 
 ---
 
@@ -16,31 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iptv-org/epg](../repos/iptv-org/epg.md) | ⭐ 3,521 | 2026-08-02 | 10 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 211,228 | 2026-08-03 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | ⭐ 6,314 | 2026-08-05 | 18 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 29,980 | 2026-08-04 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nova-video-player/aos-AVP](../repos/nova-video-player/aos-AVP.md) | ⭐ 4,808 | 2026-08-16 | 4 |
+| [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 76,773 | 2026-08-19 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MengTo/Skills](../repos/MengTo/Skills.md) | ⭐ 7,655 | 2026-08-19 | 14 |
+| [MengTo/Skills](../repos/MengTo/Skills.md) | ⭐ 7,681 | 2026-08-19 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xbtlin/ai-berkshire](../repos/xbtlin/ai-berkshire.md) | ⭐ 17,155 | 2026-09-14 | 11 |
+| [datawhalechina/Agent-Learning-Hub](../repos/datawhalechina/Agent-Learning-Hub.md) | ⭐ 9,447 | 2026-09-03 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [faroukbmiled/RyukGram](../repos/faroukbmiled/RyukGram.md) | ⭐ 823 | 2026-10-25 | 4 |
+| [aoaostar/legado](../repos/aoaostar/legado.md) | ⭐ 7,462 | 2026-09-07 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sdli1995/dlssg_for_sm86](../repos/sdli1995/dlssg_for_sm86.md) | ⭐ 5,254 | 2026-11-08 | 5 |
+| [Guyungy/damaihelper](../repos/Guyungy/damaihelper.md) | ⭐ 4,545 | 2026-09-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jephersonRD/PC-Free](../repos/jephersonRD/PC-Free.md) | ⭐ 291 | 2026-11-14 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [microsoft/zerotrustassessment](../repos/microsoft/zerotrustassessment.md) | ⭐ 499 | 2026-11-15 | 2 |
+| [plannotator/effective-html](../repos/plannotator/effective-html.md) | ⭐ 4,228 | 2026-11-06 | 3 |
 
 
 ---
@@ -64,7 +61,7 @@
 | [alshedivat/al-folio](../repos/alshedivat/al-folio.md) | ⭐ 16,310 | 2026-11-04 | A beautiful, simple, clean, and responsive Jekyll theme for academics |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [plannotator/effective-html](../repos/plannotator/effective-html.md) | ⭐ 4,045 | 2026-11-06 | Agent skills for useful HTML artifacts, wireframes, interactive prototypes, plans, and diagrams. |
+| [plannotator/effective-html](../repos/plannotator/effective-html.md) | ⭐ 4,228 | 2026-11-06 | Agent skills for useful HTML artifacts, wireframes, interactive prototypes, plans, and diagrams. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [naveedharri/baalda](../repos/naveedharri/baalda.md) | ⭐ 287 | 2026-11-06 | The team second brain. Plain Markdown files on your disk, edited together in real time, and read ... |
@@ -85,9 +82,9 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 210,940 | 2026-08-03 | 23 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 211,228 | 2026-08-03 | 24 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 141,705 | 2026-08-08 | 18 |
-| [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 76,613 | 2026-08-19 | 9 |
+| [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 76,773 | 2026-08-19 | 10 |
 | [eternity4719/HowToLiveBetter](../repos/eternity4719/HowToLiveBetter.md) | ⭐ 75,766 | 2026-11-13 | 2 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,943 | 2026-08-01 | 24 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,685 | 2026-08-01 | 11 |
@@ -99,7 +96,7 @@
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,980 | 2026-08-12 | 2 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 30,478 | 2026-08-09 | 17 |
 | [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 30,260 | 2026-08-19 | 12 |
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 29,759 | 2026-08-04 | 17 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 29,980 | 2026-08-04 | 18 |
 | [alchaincyf/huashu-design](../repos/alchaincyf/huashu-design.md) | ⭐ 27,955 | 2026-10-09 | 7 |
 | [Tencent/weui](../repos/Tencent/weui.md) | ⭐ 27,434 | 2026-09-25 | 1 |
 | [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 1 |
@@ -113,15 +110,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 24 | ⭐ 68,943 | 2026-08-01 | 2026-11-10 |
-| [ossu/computer-science](../repos/ossu/computer-science.md) | 23 | ⭐ 210,940 | 2026-08-03 | 2026-11-07 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | 24 | ⭐ 211,228 | 2026-08-03 | 2026-11-17 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 18 | ⭐ 10,131 | 2026-08-01 | 2026-11-07 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 18 | ⭐ 11,040 | 2026-08-03 | 2026-10-28 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 18 | ⭐ 29,980 | 2026-08-04 | 2026-11-17 |
 | [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 18 | ⭐ 6,314 | 2026-08-05 | 2026-11-16 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 18 | ⭐ 141,705 | 2026-08-08 | 2026-11-03 |
 | [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | 18 | ⭐ 6,316 | 2026-08-11 | 2026-11-13 |
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 17 | ⭐ 29,759 | 2026-08-04 | 2026-11-13 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 17 | ⭐ 30,478 | 2026-08-09 | 2026-11-04 |
-| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 14 | ⭐ 16,637 | 2026-08-04 | 2026-11-15 |
+| [MengTo/Skills](../repos/MengTo/Skills.md) | 15 | ⭐ 7,681 | 2026-08-19 | 2026-11-17 |
 
 ---
 
@@ -230,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-11-16T21:00:54.488Z*
+*Last updated: 2026-11-17T21:01:02.432Z*

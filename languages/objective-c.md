@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,934 | 2026-08-01 | 36 |
+| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,937 | 2026-08-01 | 37 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,645 | 2026-08-02 | 45 |
+| [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 27 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 775 | 2026-08-02 | 33 |
+| [google/promises](../repos/google/promises.md) | ⭐ 3,828 | 2026-08-01 | 59 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iodefog/VipVideo](../repos/iodefog/VipVideo.md) | ⭐ 6,220 | 2026-08-02 | 27 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 136 | 2026-08-01 | 60 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,287 | 2026-08-02 | 26 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 60 | 2026-08-01 | 60 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,784 | 2026-08-03 | 32 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 292 | 2026-08-01 | 59 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [danveloper/flash-moe](../repos/danveloper/flash-moe.md) | ⭐ 4,526 | 2026-08-03 | 16 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,610 | 2026-08-01 | 60 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nfzerox/VirtualMacOniPad](../repos/nfzerox/VirtualMacOniPad.md) | ⭐ 2,079 | 2026-10-03 | 14 |
+| [iodefog/VipVideo](../repos/iodefog/VipVideo.md) | ⭐ 6,228 | 2026-08-02 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [skopevoj/spoti.pw](../repos/skopevoj/spoti.pw.md) | ⭐ 954 | 2026-11-08 | 6 |
+| [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | ⭐ 678 | 2026-08-04 | 40 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Alinto/sogo](../repos/Alinto/sogo.md) | ⭐ 2,187 | 2026-11-15 | 2 |
+| [skopevoj/spoti.pw](../repos/skopevoj/spoti.pw.md) | ⭐ 957 | 2026-11-08 | 7 |
 
 
 ---
@@ -61,13 +61,13 @@
 | [Tunnelblick/Tunnelblick](../repos/Tunnelblick/Tunnelblick.md) | ⭐ 3,294 | 2026-10-25 | The official Tunnelblick website is at https:&#x2F;&#x2F;tunnelblick.net; the official Tunnelblick GitHub r... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [skopevoj/spoti.pw](../repos/skopevoj/spoti.pw.md) | ⭐ 954 | 2026-11-08 | Liquid Glass UI for the Spotify iOS app, no jailbreak |
+| [skopevoj/spoti.pw](../repos/skopevoj/spoti.pw.md) | ⭐ 957 | 2026-11-08 | Liquid Glass UI for the Spotify iOS app, no jailbreak |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nakst/gf](../repos/nakst/gf.md) | ⭐ 3,541 | 2026-11-09 | A GDB frontend for Lïnux. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [pookjw/HermesEnabler](../repos/pookjw/HermesEnabler.md) | ⭐ 1,867 | 2026-11-11 | Enable Hermès Watch Faces on any Apple Watch devices |
+| [pookjw/HermesEnabler](../repos/pookjw/HermesEnabler.md) | ⭐ 2,175 | 2026-11-11 | Enable Hermès Watch Faces on any Apple Watch devices |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Turbo1123/Turbo-IO](../repos/Turbo1123/Turbo-IO.md) | ⭐ 346 | 2026-11-11 | 雷鸟 iO &#x2F; RayNeo iO 非官方 SDK：原生鸿蒙 HarmonyOS SDK&#x2F;客户端、iOS 客户端及 iOS&#x2F;Android 官方 App 扩展。自有模型、联网搜索、眼镜导航、录音... |
@@ -84,7 +84,7 @@
 |------------|-------|------------|---------------|
 | [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | 1 |
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,371 | 2026-08-02 | 7 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,610 | 2026-08-01 | 59 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,610 | 2026-08-01 | 60 |
 | [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,645 | 2026-08-02 | 45 |
 | [SnapKit/Masonry](../repos/SnapKit/Masonry.md) | ⭐ 18,130 | 2026-09-02 | 1 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,600 | 2026-08-04 | 38 |
@@ -109,15 +109,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 59 | ⭐ 136 | 2026-08-01 | 2026-11-14 |
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 59 | ⭐ 60 | 2026-08-01 | 2026-11-14 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 59 | ⭐ 25,610 | 2026-08-01 | 2026-11-14 |
-| [google/promises](../repos/google/promises.md) | 58 | ⭐ 3,829 | 2026-08-01 | 2026-11-14 |
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 58 | ⭐ 292 | 2026-08-01 | 2026-11-14 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 60 | ⭐ 136 | 2026-08-01 | 2026-11-17 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 60 | ⭐ 60 | 2026-08-01 | 2026-11-17 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 60 | ⭐ 25,610 | 2026-08-01 | 2026-11-17 |
+| [google/promises](../repos/google/promises.md) | 59 | ⭐ 3,828 | 2026-08-01 | 2026-11-17 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 59 | ⭐ 292 | 2026-08-01 | 2026-11-17 |
 | [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | 49 | ⭐ 2,039 | 2026-08-08 | 2026-11-14 |
 | [opa334/TrollStore](../repos/opa334/TrollStore.md) | 45 | ⭐ 22,645 | 2026-08-02 | 2026-11-16 |
 | [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | 43 | ⭐ 4,506 | 2026-08-05 | 2026-11-14 |
-| [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 39 | ⭐ 678 | 2026-08-04 | 2026-11-14 |
+| [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 40 | ⭐ 678 | 2026-08-04 | 2026-11-17 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | 38 | ⭐ 16,600 | 2026-08-04 | 2026-11-12 |
 
 ---
@@ -227,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-11-16T21:00:54.518Z*
+*Last updated: 2026-11-17T21:01:02.460Z*

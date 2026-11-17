@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 314
+- **Total Repositories**: 315
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-12
 
@@ -16,34 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 120,277 | 2026-08-01 | 14 |
+| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,767 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shadps4-emu/shadPS4](../repos/shadps4-emu/shadPS4.md) | ⭐ 34,237 | 2026-08-03 | 14 |
+| [CleverRaven/Cataclysm-DDA](../repos/CleverRaven/Cataclysm-DDA.md) | ⭐ 13,541 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stenzek/duckstation](../repos/stenzek/duckstation.md) | ⭐ 11,020 | 2026-08-03 | 5 |
+| [IfcOpenShell/IfcOpenShell](../repos/IfcOpenShell/IfcOpenShell.md) | ⭐ 2,967 | 2026-08-28 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 77,136 | 2026-08-08 | 19 |
+| [gta-reversed/gta-reversed](../repos/gta-reversed/gta-reversed.md) | ⭐ 1,290 | 2026-09-27 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 54,482 | 2026-10-06 | 15 |
+| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 54,857 | 2026-10-06 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Likely7/Veyra-NRVideo](../repos/Likely7/Veyra-NRVideo.md) | ⭐ 3,043 | 2026-11-13 | 4 |
+| [jimmgreen/pulse](../repos/jimmgreen/pulse.md) | ⭐ 1,743 | 2026-11-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Helldez/BigMoeOnEdge](../repos/Helldez/BigMoeOnEdge.md) | ⭐ 965 | 2026-11-14 | 2 |
+| [Helldez/BigMoeOnEdge](../repos/Helldez/BigMoeOnEdge.md) | ⭐ 1,008 | 2026-11-14 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [sonicnext-dev/MarathonRecomp](../repos/sonicnext-dev/MarathonRecomp.md) | ⭐ 942 | 2026-11-15 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [clice-io/clice](../repos/clice-io/clice.md) | ⭐ 1,772 | 2026-11-17 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mzzvxm/LARecomp](../repos/mzzvxm/LARecomp.md) | ⭐ 172 | 2026-10-18 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [0x23/MicroManipulatorStepper](../repos/0x23/MicroManipulatorStepper.md) | ⭐ 2,183 | 2026-10-20 | A sub-micrometer 3D motion control plattform. |
@@ -71,6 +74,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Z3Prover/z3](../repos/Z3Prover/z3.md) | ⭐ 12,842 | 2026-10-26 | The Z3 Theorem Prover |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [isl-org/Open3D](../repos/isl-org/Open3D.md) | ⭐ 14,128 | 2026-10-27 | Open3D: A Modern Library for 3D Data Processing |
 
 
 ---
@@ -90,7 +96,7 @@
 | [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 77,136 | 2026-08-08 | 19 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,174 | 2026-08-01 | 22 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 55,165 | 2026-08-02 | 2 |
-| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 54,482 | 2026-10-06 | 15 |
+| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 54,857 | 2026-10-06 | 16 |
 | [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,787 | 2026-08-03 | 13 |
 | [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,454 | 2026-09-01 | 3 |
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,405 | 2026-08-02 | 10 |
@@ -224,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-11-16T21:00:54.460Z*
+*Last updated: 2026-11-17T21:01:02.401Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | Not specified |
-| **Stars** | ⭐ 77,020 |
-| **Forks** | 🍴 9,081 |
-| **Trending Days** | 10 |
+| **Stars** | ⭐ 79,726 |
+| **Forks** | 🍴 9,764 |
+| **Trending Days** | 11 |
 | **Peak Rank** | #9 |
 
 | **First Seen** | Aug 6, 2026 |
-| **Last Seen** | Oct 13, 2026 |
+| **Last Seen** | Nov 17, 2026 |
 
 
 ---
@@ -49,7 +49,7 @@
 ### Highlights
 
 - **Peak Rank**: #9
-- **Trending Days**: 10
+- **Trending Days**: 11
 - **Longest Streak**: 3 days
 
 ---
@@ -93,5 +93,5 @@
 
 ---
 
-*Last updated: 2026-11-16T21:00:56.765Z*  
-*Data from 10 trending reports*
+*Last updated: 2026-11-17T21:01:05.368Z*  
+*Data from 11 trending reports*
