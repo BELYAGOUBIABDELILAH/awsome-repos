@@ -7,7 +7,7 @@
 ## October 2026
 
 **Period**: 2026-10-01 to 2026-10-28  
-**Gems Found**: 364
+**Gems Found**: 355
 
 ---
 
@@ -31,47 +31,7 @@
 
 ---
 
-### 2. [julyx10&#x2F;lap](../../repos/julyx10/lap.md)
-
-**An offline-first photo manager for large local libraries**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 4,132 |
-| 💻 **Language** | Vue |
-| 🏆 **Gem Score** | 93/100 |
-| 📈 **Trending Days** | 33 |
-| 📅 **First Seen** | Aug 2, 2026 |
-
-**Why it's a gem**: High growth velocity (+53 stars&#x2F;day) • Trending 33 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/julyx10/lap.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;julyx10&#x2F;lap)
-
----
-
-### 3. [mixelpixx&#x2F;Konnect](../../repos/mixelpixx/Konnect.md)
-
-**AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,282 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 93/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Sep 6, 2026 |
-
-**Why it's a gem**: High growth velocity (+73 stars&#x2F;day) • Trending 6 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/mixelpixx/Konnect.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mixelpixx&#x2F;Konnect)
-
----
-
-### 4. [plugin87&#x2F;ux-ui-agent-skills](../../repos/plugin87/ux-ui-agent-skills.md)
+### 2. [plugin87&#x2F;ux-ui-agent-skills](../../repos/plugin87/ux-ui-agent-skills.md)
 
 **Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.**
 
@@ -88,6 +48,46 @@
 **Best for**: 
 
 [View Passport](../../repos/plugin87/ux-ui-agent-skills.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;plugin87&#x2F;ux-ui-agent-skills)
+
+---
+
+### 3. [julyx10&#x2F;lap](../../repos/julyx10/lap.md)
+
+**An offline-first photo manager for large local libraries**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 4,132 |
+| 💻 **Language** | Vue |
+| 🏆 **Gem Score** | 92/100 |
+| 📈 **Trending Days** | 33 |
+| 📅 **First Seen** | Aug 2, 2026 |
+
+**Why it's a gem**: High growth velocity (+53 stars&#x2F;day) • Trending 33 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/julyx10/lap.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;julyx10&#x2F;lap)
+
+---
+
+### 4. [mixelpixx&#x2F;Konnect](../../repos/mixelpixx/Konnect.md)
+
+**AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,282 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 92/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Sep 6, 2026 |
+
+**Why it's a gem**: High growth velocity (+73 stars&#x2F;day) • Trending 6 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/mixelpixx/Konnect.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mixelpixx&#x2F;Konnect)
 
 ---
 
@@ -131,27 +131,7 @@
 
 ---
 
-### 7. [androoAGI&#x2F;starnet](../../repos/androoAGI/starnet.md)
-
-**A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,011 |
-| 💻 **Language** | JavaScript |
-| 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Sep 24, 2026 |
-
-**Why it's a gem**: High growth velocity (+117 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/androoAGI/starnet.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;androoAGI&#x2F;starnet)
-
----
-
-### 8. [JetBrains&#x2F;thinkrail](../../repos/JetBrains/thinkrail.md)
+### 7. [JetBrains&#x2F;thinkrail](../../repos/JetBrains/thinkrail.md)
 
 **Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need**
 
@@ -171,27 +151,27 @@
 
 ---
 
-### 9. [mg-chao&#x2F;snow-apps](../../repos/mg-chao/snow-apps.md)
+### 8. [androoAGI&#x2F;starnet](../../repos/androoAGI/starnet.md)
 
-**Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.**
+**A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6,186 |
-| 💻 **Language** | C++ |
+| ⭐ **Stars** | 1,011 |
+| 💻 **Language** | JavaScript |
 | 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Sep 21, 2026 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Sep 24, 2026 |
 
-**Why it's a gem**: High growth velocity (+63 stars&#x2F;day) • Trending 6 times • Strong community engagement
+**Why it's a gem**: High growth velocity (+117 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/mg-chao/snow-apps.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mg-chao&#x2F;snow-apps)
+[View Passport](../../repos/androoAGI/starnet.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;androoAGI&#x2F;starnet)
 
 ---
 
-### 10. [apache&#x2F;maka](../../repos/apache/maka.md)
+### 9. [apache&#x2F;maka](../../repos/apache/maka.md)
 
 **Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.**
 
@@ -211,7 +191,7 @@
 
 ---
 
-### 11. [alsk1992&#x2F;CloddsBot](../../repos/alsk1992/CloddsBot.md)
+### 10. [alsk1992&#x2F;CloddsBot](../../repos/alsk1992/CloddsBot.md)
 
 **Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.**
 
@@ -228,6 +208,26 @@
 **Best for**: 
 
 [View Passport](../../repos/alsk1992/CloddsBot.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;alsk1992&#x2F;CloddsBot)
+
+---
+
+### 11. [mg-chao&#x2F;snow-apps](../../repos/mg-chao/snow-apps.md)
+
+**Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 6,186 |
+| 💻 **Language** | C++ |
+| 🏆 **Gem Score** | 89/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Sep 21, 2026 |
+
+**Why it's a gem**: High growth velocity (+63 stars&#x2F;day) • Trending 6 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/mg-chao/snow-apps.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mg-chao&#x2F;snow-apps)
 
 ---
 
@@ -311,27 +311,7 @@
 
 ---
 
-### 16. [Armur-Ai&#x2F;Pentest-Swarm-AI](../../repos/Armur-Ai/Pentest-Swarm-AI.md)
-
-**Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,961 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 87/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 25, 2026 |
-
-**Why it's a gem**: High growth velocity (+42 stars&#x2F;day) • Trending 6 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/Armur-Ai/Pentest-Swarm-AI.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Armur-Ai&#x2F;Pentest-Swarm-AI)
-
----
-
-### 17. [tbphp&#x2F;gpt-load](../../repos/tbphp/gpt-load.md)
+### 16. [tbphp&#x2F;gpt-load](../../repos/tbphp/gpt-load.md)
 
 **Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。**
 
@@ -351,7 +331,7 @@
 
 ---
 
-### 18. [willfaust&#x2F;Madeira](../../repos/willfaust/Madeira.md)
+### 17. [willfaust&#x2F;Madeira](../../repos/willfaust/Madeira.md)
 
 **Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT**
 
@@ -371,7 +351,7 @@
 
 ---
 
-### 19. [BuilderIO&#x2F;agent-native](../../repos/BuilderIO/agent-native.md)
+### 18. [BuilderIO&#x2F;agent-native](../../repos/BuilderIO/agent-native.md)
 
 **A framework for building agentic apps**
 
@@ -391,7 +371,7 @@
 
 ---
 
-### 20. [weave-os&#x2F;router](../../repos/weave-os/router.md)
+### 19. [weave-os&#x2F;router](../../repos/weave-os/router.md)
 
 **Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.**
 
@@ -411,6 +391,26 @@
 
 ---
 
+### 20. [ashhart&#x2F;TensorFold](../../repos/ashhart/TensorFold.md)
+
+**LLM Inference Engine for Metal, CUDA and Vulkan.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,537 |
+| 💻 **Language** | Zig |
+| 🏆 **Gem Score** | 87/100 |
+| 📈 **Trending Days** | 15 |
+| 📅 **First Seen** | Sep 28, 2026 |
+
+**Why it's a gem**: Trending 15 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/ashhart/TensorFold.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;ashhart&#x2F;TensorFold)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-17T21:01:08.556Z*  
+*Generated: 2026-11-18T21:01:10.444Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

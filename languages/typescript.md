@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 330
+- **Total Repositories**: 331
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-07
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 16,851 | 2026-08-01 | 25 |
+| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 17,157 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 58,009 | 2026-08-01 | 20 |
+| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 65,124 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [karakeep-app/karakeep](../repos/karakeep-app/karakeep.md) | ⭐ 30,648 | 2026-08-03 | 2 |
+| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,199 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dream-num/univer](../repos/dream-num/univer.md) | ⭐ 28,839 | 2026-08-05 | 12 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 77,981 | 2026-08-01 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 54,008 | 2026-08-07 | 22 |
+| [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 91,632 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 127,723 | 2026-08-11 | 26 |
+| [angular/angular](../repos/angular/angular.md) | ⭐ 101,442 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-labs-code/stitch-skills](../repos/google-labs-code/stitch-skills.md) | ⭐ 10,044 | 2026-08-22 | 11 |
+| [dream-num/univer](../repos/dream-num/univer.md) | ⭐ 29,865 | 2026-08-05 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mastra-ai/mastra](../repos/mastra-ai/mastra.md) | ⭐ 29,569 | 2026-08-25 | 2 |
+| [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 211,009 | 2026-08-11 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [backnotprop/plannotator](../repos/backnotprop/plannotator.md) | ⭐ 13,014 | 2026-08-26 | 13 |
+| [google-labs-code/stitch-skills](../repos/google-labs-code/stitch-skills.md) | ⭐ 10,369 | 2026-08-22 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ag-ui-protocol/ag-ui](../repos/ag-ui-protocol/ag-ui.md) | ⭐ 19,923 | 2026-10-01 | 5 |
+| [backnotprop/plannotator](../repos/backnotprop/plannotator.md) | ⭐ 13,399 | 2026-08-26 | 14 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [trycompai/crm](../repos/trycompai/crm.md) | ⭐ 11,501 | 2026-10-19 | Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [croffasia/itsaplan](../repos/croffasia/itsaplan.md) | ⭐ 1,733 | 2026-10-19 | ⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tra... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [emdash-cms/emdash](../repos/emdash-cms/emdash.md) | ⭐ 13,825 | 2026-10-20 | EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [liguobao/ds-harness-remote](../repos/liguobao/ds-harness-remote.md) | ⭐ 1,934 | 2026-10-23 | 基于 DeepSeek Harness 插件机制构建的远程访问方案，通过低延迟、端到端加密的 P2P 网络，支持使用 PC、移动端 和 Web 随时访问本地设备上的DSH 、CodeX、Curs... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [JetBrains/thinkrail](../repos/JetBrains/thinkrail.md) | ⭐ 5,934 | 2026-10-25 | Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [anthropics/sandbox-runtime](../repos/anthropics/sandbox-runtime.md) | ⭐ 6,592 | 2026-10-25 | A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary proc... |
 
 
 ---
@@ -90,7 +90,7 @@
 |------------|-------|------------|---------------|
 | [morluto/rea](../repos/morluto/rea.md) | ⭐ 440,692 | 2026-10-06 | 11 |
 | [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 212,590 | 2026-08-04 | 2 |
-| [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 210,322 | 2026-08-11 | 8 |
+| [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 211,009 | 2026-08-11 | 9 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 195,293 | 2026-08-07 | 8 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 195,138 | 2026-07-30 | 9 |
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 158,228 | 2026-09-01 | 4 |
@@ -103,7 +103,7 @@
 | [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 116,129 | 2026-08-07 | 12 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 110,330 | 2026-08-02 | 11 |
 | [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 108,379 | 2026-08-23 | 2 |
-| [angular/angular](../repos/angular/angular.md) | ⭐ 101,437 | 2026-08-04 | 8 |
+| [angular/angular](../repos/angular/angular.md) | ⭐ 101,442 | 2026-08-04 | 9 |
 | [microsoft/playwright](../repos/microsoft/playwright.md) | ⭐ 98,817 | 2026-10-15 | 2 |
 | [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 98,649 | 2026-08-04 | 6 |
 | [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | 2026-08-22 | 1 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 27 | ⭐ 77,981 | 2026-08-01 | 2026-11-18 |
+| [cursor/plugins](../repos/cursor/plugins.md) | 26 | ⭐ 17,157 | 2026-08-01 | 2026-11-18 |
 | [stablyai/orca](../repos/stablyai/orca.md) | 26 | ⭐ 127,723 | 2026-08-11 | 2026-11-17 |
-| [cursor/plugins](../repos/cursor/plugins.md) | 25 | ⭐ 16,851 | 2026-08-01 | 2026-11-17 |
 | [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 23 | ⭐ 74,642 | 2026-08-08 | 2026-10-28 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 22 | ⭐ 54,008 | 2026-08-07 | 2026-11-17 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | 21 | ⭐ 154,905 | 2026-08-07 | 2026-11-07 |
 | [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 20 | ⭐ 58,009 | 2026-08-01 | 2026-11-17 |
+| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 20 | ⭐ 65,124 | 2026-08-01 | 2026-11-18 |
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 20 | ⭐ 78,178 | 2026-08-10 | 2026-10-21 |
-| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 19 | ⭐ 48,123 | 2026-08-01 | 2026-11-05 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 19 | ⭐ 140,636 | 2026-08-02 | 2026-11-07 |
-| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 14 | ⭐ 34,200 | 2026-08-02 | 2026-10-03 |
 
 ---
 
@@ -141,11 +141,12 @@
 - [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) - Chrome DevTools for coding agents
 - [google-labs-code/design.md](../repos/google-labs-code/design.md.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents ...
 - [fingerprintjs/fingerprintjs](../repos/fingerprintjs/fingerprintjs.md) - The most advanced free and open-source browser fingerprinting library
-- [pingdotgg/t3code](../repos/pingdotgg/t3code.md) - 
+- [pingdotgg/t3code](../repos/pingdotgg/t3code.md) - The best way to control Claude Code, Codex and more from any computer or phone
 - [continuedev/continue](../repos/continuedev/continue.md) - open-source coding agent
 - [portainer/portainer](../repos/portainer/portainer.md) - Making Docker and Kubernetes management easy.
 - [appwrite/appwrite](../repos/appwrite/appwrite.md) - The open-source cloud for agents &amp; devs. Including Auth, Databases, Storage, Functions, Messaging...
 - [podman-desktop/podman-desktop](../repos/podman-desktop/podman-desktop.md) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for d...
+- [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cur...
 - [actions/checkout](../repos/actions/checkout.md) - Action for checking out a repo
 - [Narcooo/inkos](../repos/Narcooo/inkos.md) - Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content
 - [gitroomhq/postiz-app](../repos/gitroomhq/postiz-app.md) - 📨 The ultimate agentic social media scheduling tool 🤖
@@ -229,8 +230,7 @@
 - [every-app/open-seo](../repos/every-app/open-seo.md) - Open source alternative to Semrush and Ahrefs
 - [documenso/documenso](../repos/documenso/documenso.md) - The Open Source DocuSign Alternative.
 - [vercel-labs/deepsec](../repos/vercel-labs/deepsec.md) - Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
-- [upscayl/upscayl](../repos/upscayl/upscayl.md) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 
 ---
 
-*Last updated: 2026-11-17T21:01:02.494Z*
+*Last updated: 2026-11-18T21:01:03.132Z*

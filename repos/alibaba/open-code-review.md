@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 53,646 |
-| **Forks** | 🍴 4,427 |
-| **Trending Days** | 23 |
+| **Stars** | ⭐ 54,160 |
+| **Forks** | 🍴 4,481 |
+| **Trending Days** | 24 |
 | **Peak Rank** | #1 |
 
 | **First Seen** | Aug 20, 2026 |
-| **Last Seen** | Nov 17, 2026 |
+| **Last Seen** | Nov 18, 2026 |
 
 
 ---
@@ -55,8 +55,8 @@
 ### Highlights
 
 - **Peak Rank**: #1
-- **Trending Days**: 23
-- **Longest Streak**: 5 days
+- **Trending Days**: 24
+- **Longest Streak**: 6 days
 
 ---
 
@@ -99,5 +99,5 @@
 
 ---
 
-*Last updated: 2026-11-17T21:01:06.388Z*  
-*Data from 23 trending reports*
+*Last updated: 2026-11-18T21:01:07.935Z*  
+*Data from 24 trending reports*

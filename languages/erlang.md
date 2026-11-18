@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 16
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-16
+- **Last Updated**: 2026-11-18
 
 ---
 
@@ -16,7 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,362 | 2026-08-01 | 65 |
+| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,363 | 2026-08-01 | 66 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,923 | 2026-08-01 | 77 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ninenines/cowlib](../repos/ninenines/cowlib.md) | ⭐ 298 | 2026-08-02 | 15 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [processone/ejabberd](../repos/processone/ejabberd.md) | ⭐ 6,753 | 2026-08-08 | 38 |
 
 
 ---
@@ -32,11 +41,11 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,918 | 2026-08-01 | 76 |
-| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,362 | 2026-08-01 | 65 |
+| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,923 | 2026-08-01 | 77 |
+| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,363 | 2026-08-01 | 66 |
 | [ninenines/cowboy](../repos/ninenines/cowboy.md) | ⭐ 7,522 | 2026-08-03 | 25 |
 | [apache/couchdb](../repos/apache/couchdb.md) | ⭐ 7,014 | 2026-08-03 | 34 |
-| [processone/ejabberd](../repos/processone/ejabberd.md) | ⭐ 6,751 | 2026-08-08 | 37 |
+| [processone/ejabberd](../repos/processone/ejabberd.md) | ⭐ 6,753 | 2026-08-08 | 38 |
 | [erlang/rebar3](../repos/erlang/rebar3.md) | ⭐ 1,826 | 2026-08-03 | 8 |
 | [ninenines/ranch](../repos/ninenines/ranch.md) | ⭐ 1,244 | 2026-08-02 | 8 |
 | [ninenines/gun](../repos/ninenines/gun.md) | ⭐ 947 | 2026-08-06 | 2 |
@@ -44,7 +53,7 @@
 | [talentdeficit/jsx](../repos/talentdeficit/jsx.md) | ⭐ 699 | 2026-08-02 | 2 |
 | [erlanglab/erlangpl](../repos/erlanglab/erlangpl.md) | ⭐ 547 | 2026-08-10 | 1 |
 | [WhatsApp/erlfmt](../repos/WhatsApp/erlfmt.md) | ⭐ 466 | 2026-08-01 | 24 |
-| [ninenines/cowlib](../repos/ninenines/cowlib.md) | ⭐ 299 | 2026-08-02 | 14 |
+| [ninenines/cowlib](../repos/ninenines/cowlib.md) | ⭐ 298 | 2026-08-02 | 15 |
 | [hexpm/hex_core](../repos/hexpm/hex_core.md) | ⭐ 105 | 2026-08-06 | 2 |
 | [blt/port_compiler](../repos/blt/port_compiler.md) | ⭐ 69 | 2026-08-01 | 27 |
 | [apache/couchdb-couch](../repos/apache/couchdb-couch.md) | ⭐ 44 | 2026-10-16 | 7 |
@@ -55,14 +64,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [emqx/emqx](../repos/emqx/emqx.md) | 76 | ⭐ 16,918 | 2026-08-01 | 2026-11-16 |
-| [erlang/otp](../repos/erlang/otp.md) | 65 | ⭐ 12,362 | 2026-08-01 | 2026-11-17 |
-| [processone/ejabberd](../repos/processone/ejabberd.md) | 37 | ⭐ 6,751 | 2026-08-08 | 2026-11-06 |
+| [emqx/emqx](../repos/emqx/emqx.md) | 77 | ⭐ 16,923 | 2026-08-01 | 2026-11-18 |
+| [erlang/otp](../repos/erlang/otp.md) | 66 | ⭐ 12,363 | 2026-08-01 | 2026-11-18 |
+| [processone/ejabberd](../repos/processone/ejabberd.md) | 38 | ⭐ 6,753 | 2026-08-08 | 2026-11-18 |
 | [apache/couchdb](../repos/apache/couchdb.md) | 34 | ⭐ 7,014 | 2026-08-03 | 2026-11-16 |
 | [blt/port_compiler](../repos/blt/port_compiler.md) | 27 | ⭐ 69 | 2026-08-01 | 2026-11-06 |
 | [ninenines/cowboy](../repos/ninenines/cowboy.md) | 25 | ⭐ 7,522 | 2026-08-03 | 2026-11-12 |
 | [WhatsApp/erlfmt](../repos/WhatsApp/erlfmt.md) | 24 | ⭐ 466 | 2026-08-01 | 2026-09-09 |
-| [ninenines/cowlib](../repos/ninenines/cowlib.md) | 14 | ⭐ 299 | 2026-08-02 | 2026-11-13 |
+| [ninenines/cowlib](../repos/ninenines/cowlib.md) | 15 | ⭐ 298 | 2026-08-02 | 2026-11-18 |
 | [ninenines/ranch](../repos/ninenines/ranch.md) | 8 | ⭐ 1,244 | 2026-08-02 | 2026-08-29 |
 | [erlang/rebar3](../repos/erlang/rebar3.md) | 8 | ⭐ 1,826 | 2026-08-03 | 2026-11-16 |
 
@@ -89,4 +98,4 @@
 
 ---
 
-*Last updated: 2026-11-17T21:01:02.422Z*
+*Last updated: 2026-11-18T21:01:03.041Z*

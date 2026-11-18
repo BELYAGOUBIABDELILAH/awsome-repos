@@ -1,6 +1,6 @@
 # Vincentwei1021&#x2F;video-shotcraft
 
-> AI video skill for Claude Code &amp; Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template
+> AI video skill for Claude Code &amp; Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench &amp; JianYing (CapCut CN) export.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;Vincentwei1021&#x2F;video-shotcraft) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 13,220 |
-| **Forks** | 🍴 1,196 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 21,257 |
+| **Forks** | 🍴 1,961 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 8, 2026 |
-| **Last Seen** | Oct 23, 2026 |
+| **Last Seen** | Nov 18, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 2 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 50&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-17T21:01:07.627Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-11-18T21:01:09.352Z*  
+*Data from 4 trending reports*

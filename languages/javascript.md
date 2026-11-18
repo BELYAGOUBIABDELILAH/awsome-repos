@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 195
+- **Total Repositories**: 197
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-12
 
@@ -16,43 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,485 | 2026-08-11 | 5 |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,756 | 2026-07-30 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) | ⭐ 23,386 | 2026-08-14 | 12 |
+| [github/awesome-copilot](../repos/github/awesome-copilot.md) | ⭐ 41,323 | 2026-08-14 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 53,356 | 2026-08-26 | 5 |
+| [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 60,003 | 2026-10-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hanliang97/MatrixMedia](../repos/hanliang97/MatrixMedia.md) | ⭐ 1,529 | 2026-10-27 | 4 |
+| [DeanChensj/jiangshan-map](../repos/DeanChensj/jiangshan-map.md) | ⭐ 7,904 | 2026-11-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DeanChensj/jiangshan-map](../repos/DeanChensj/jiangshan-map.md) | ⭐ 7,616 | 2026-11-02 | 5 |
+| [Minglink/dsh-infinite-gen-5](../repos/Minglink/dsh-infinite-gen-5.md) | ⭐ 4,534 | 2026-11-17 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Jeffallan/claude-skills](../repos/Jeffallan/claude-skills.md) | ⭐ 12,425 | 2026-11-17 | 1 |
+| [qwdwqfwq/topconf-paper-figure-gallery](../repos/qwdwqfwq/topconf-paper-figure-gallery.md) | ⭐ 1,890 | 2026-11-18 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Minglink/dsh-infinite-gen-5](../repos/Minglink/dsh-infinite-gen-5.md) | ⭐ 4,472 | 2026-11-17 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [aliyun/ai-agent-handbook](../repos/aliyun/ai-agent-handbook.md) | ⭐ 3,440 | 2026-11-17 | 1 |
+| [pugarte7/spanish-top-tech-companies](../repos/pugarte7/spanish-top-tech-companies.md) | ⭐ 601 | 2026-11-18 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [YuJunZhiXue/dsh-purge](../repos/YuJunZhiXue/dsh-purge.md) | ⭐ 13,038 | 2026-10-19 | DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [datawhalechina/easy-vibe](../repos/datawhalechina/easy-vibe.md) | ⭐ 20,059 | 2026-10-19 | 💻  Vibe Coding 101｜Your First Course For AI Product Builders. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [flizzywine/dsh-tavern](../repos/flizzywine/dsh-tavern.md) | ⭐ 1,128 | 2026-10-19 | 基于DSH的Agent酒馆。类酒馆文字游戏Agent。兼容SillyTavern生态，人物卡直接导入就能玩。更快、更稳、更鲜活。所有模型都能用。手机也能玩。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [NomaDamas/CozyClay](../repos/NomaDamas/CozyClay.md) | ⭐ 886 | 2026-10-21 | Open source previs software in the browser: block a scene, pose characters, author camera moves a... |
@@ -74,6 +62,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [hanliang97/MatrixMedia](../repos/hanliang97/MatrixMedia.md) | ⭐ 1,529 | 2026-10-27 | 视频矩阵工具 vue electorn puppeteer 批量发布 视频到各个视频平台 自媒体 矩阵 抖音 小红书 头条 视频号 快手等 ai 自动化 cli |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [QCYTSN/dsh-dafeiyu](../repos/QCYTSN/dsh-dafeiyu.md) | ⭐ 527 | 2026-10-27 | Desktop-native BigFish companion for DeepSeek Harness — real Agent status, always on top on Windows. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [DavidHDev/react-bits](../repos/DavidHDev/react-bits.md) | ⭐ 50,534 | 2026-10-28 | The largest open-source library of animated, interactive, and customizable React &amp; Next.js compon... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mozilla-firefox/firefox](../repos/mozilla-firefox/firefox.md) | ⭐ 13,636 | 2026-10-28 | The official repository of Mozilla&#39;s Firefox web browser. |
 
 
 ---
@@ -86,7 +83,7 @@
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | 2026-07-30 | 3 |
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 158,907 | 2026-08-06 | 4 |
 | [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | 2 |
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,323 | 2026-07-30 | 14 |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,756 | 2026-07-30 | 15 |
 | [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 117,534 | 2026-08-05 | 39 |
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,607 | 2026-08-06 | 3 |
@@ -100,7 +97,7 @@
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 65,279 | 2026-08-27 | 16 |
 | [jgraph/drawio-desktop](../repos/jgraph/drawio-desktop.md) | ⭐ 63,817 | 2026-11-04 | 1 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,485 | 2026-08-11 | 5 |
-| [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 59,798 | 2026-10-14 | 1 |
+| [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 60,003 | 2026-10-14 | 2 |
 | [chinese-poetry/chinese-poetry](../repos/chinese-poetry/chinese-poetry.md) | ⭐ 54,296 | 2026-11-10 | 2 |
 
 ---
@@ -116,9 +113,9 @@
 | [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 19 | ⭐ 34,116 | 2026-08-08 | 2026-11-11 |
 | [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | 19 | ⭐ 69,110 | 2026-08-28 | 2026-11-10 |
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | 16 | ⭐ 65,279 | 2026-08-27 | 2026-11-16 |
+| [vercel/next.js](../repos/vercel/next.js.md) | 15 | ⭐ 143,756 | 2026-07-30 | 2026-11-18 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
 | [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | 15 | ⭐ 39,049 | 2026-08-16 | 2026-11-09 |
-| [vercel/next.js](../repos/vercel/next.js.md) | 14 | ⭐ 143,323 | 2026-07-30 | 2026-11-04 |
 
 ---
 
@@ -227,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-11-17T21:01:02.438Z*
+*Last updated: 2026-11-18T21:01:03.063Z*

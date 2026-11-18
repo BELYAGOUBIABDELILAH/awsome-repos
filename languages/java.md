@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 233
+- **Total Repositories**: 236
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-10
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,474 | 2026-08-01 | 16 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,658 | 2026-08-02 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 28,137 | 2026-08-02 | 26 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 30,279 | 2026-08-04 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 30,252 | 2026-08-04 | 25 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,881 | 2026-08-04 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 36,419 | 2026-08-04 | 25 |
+| [openjdk/jdk](../repos/openjdk/jdk.md) | ⭐ 23,543 | 2026-08-04 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 82,050 | 2026-08-04 | 24 |
+| [apache/doris](../repos/apache/doris.md) | ⭐ 16,241 | 2026-08-05 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xuxueli/xxl-job](../repos/xuxueli/xxl-job.md) | ⭐ 30,669 | 2026-08-05 | 16 |
+| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 40,516 | 2026-08-06 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 40,475 | 2026-08-06 | 15 |
+| [thingsboard/thingsboard](../repos/thingsboard/thingsboard.md) | ⭐ 22,692 | 2026-08-08 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZCShou/GoGoGo](../repos/ZCShou/GoGoGo.md) | ⭐ 11,854 | 2026-08-22 | 7 |
+| [zalexdev/strykerapp](../repos/zalexdev/strykerapp.md) | ⭐ 2,089 | 2026-08-08 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JetBrains/intellij-community](../repos/JetBrains/intellij-community.md) | ⭐ 20,740 | 2026-08-25 | 8 |
+| [alibaba/spring-ai-alibaba](../repos/alibaba/spring-ai-alibaba.md) | ⭐ 11,162 | 2026-08-11 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hibernate/hibernate-orm](../repos/hibernate/hibernate-orm.md) | ⭐ 6,488 | 2026-09-12 | 2 |
+| [00-Evan/shattered-pixel-dungeon](../repos/00-Evan/shattered-pixel-dungeon.md) | ⭐ 6,827 | 2026-08-17 | 4 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [MewX/light-novel-library_Wenku8_Android](../repos/MewX/light-novel-library_Wenku8_Android.md) | ⭐ 3,550 | 2026-10-19 | [CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [apache/nifi](../repos/apache/nifi.md) | ⭐ 6,295 | 2026-10-23 | Apache NiFi |
@@ -67,7 +64,7 @@
 | [cyberkaida/reverse-engineering-assistant](../repos/cyberkaida/reverse-engineering-assistant.md) | ⭐ 935 | 2026-11-04 | MCP server for reverse engineering tasks in Ghidra 👩‍💻 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [dotnetdreamer/open-android-dex](../repos/dotnetdreamer/open-android-dex.md) | ⭐ 270 | 2026-11-04 | Turn any android phone into Desktop class experience including full linux environment without root |
+| [dotnetdreamer/open-android-dex](../repos/dotnetdreamer/open-android-dex.md) | ⭐ 343 | 2026-11-04 | Turn any android phone into Desktop class experience including full linux environment without root |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [openrewrite/rewrite](../repos/openrewrite/rewrite.md) | ⭐ 3,941 | 2026-11-05 | Automated mass refactoring of source code. |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [pgjdbc/pgjdbc](../repos/pgjdbc/pgjdbc.md) | ⭐ 1,747 | 2026-11-06 | Postgresql JDBC Driver |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ddd-by-examples/library](../repos/ddd-by-examples/library.md) | ⭐ 5,994 | 2026-11-08 | A comprehensive Domain-Driven Design example with problem space strategic analysis and various ta... |
 
 
 ---
@@ -89,8 +89,8 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 99,333 | 2026-08-03 | 32 |
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 82,050 | 2026-08-04 | 24 |
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,655 | 2026-08-02 | 27 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,881 | 2026-08-04 | 25 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,658 | 2026-08-02 | 28 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 67,230 | 2026-08-04 | 14 |
 | [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,508 | 2026-08-08 | 3 |
@@ -102,7 +102,7 @@
 | [ReactiveX/RxJava](../repos/ReactiveX/RxJava.md) | ⭐ 48,208 | 2026-08-28 | 1 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 43,363 | 2026-08-05 | 22 |
 | [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 40,546 | 2026-08-02 | 15 |
-| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 40,475 | 2026-08-06 | 15 |
+| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 40,516 | 2026-08-06 | 16 |
 | [halo-dev/halo](../repos/halo-dev/halo.md) | ⭐ 40,150 | 2026-08-22 | 5 |
 | [PhilJay/MPAndroidChart](../repos/PhilJay/MPAndroidChart.md) | ⭐ 38,169 | 2026-09-21 | 1 |
 | [alibaba/arthas](../repos/alibaba/arthas.md) | ⭐ 37,526 | 2026-08-28 | 2 |
@@ -117,11 +117,11 @@
 |------------|---------------|-------|------------|-----------|
 | [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 34 | ⭐ 6,364 | 2026-08-05 | 2026-11-13 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 32 | ⭐ 99,333 | 2026-08-03 | 2026-11-10 |
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 27 | ⭐ 78,655 | 2026-08-02 | 2026-11-16 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 28 | ⭐ 78,658 | 2026-08-02 | 2026-11-18 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 26 | ⭐ 28,137 | 2026-08-02 | 2026-11-17 |
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 25 | ⭐ 30,252 | 2026-08-04 | 2026-11-17 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 26 | ⭐ 30,279 | 2026-08-04 | 2026-11-18 |
 | [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 25 | ⭐ 36,419 | 2026-08-04 | 2026-11-17 |
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 24 | ⭐ 82,050 | 2026-08-04 | 2026-11-17 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 25 | ⭐ 81,881 | 2026-08-04 | 2026-11-18 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 22 | ⭐ 43,363 | 2026-08-05 | 2026-11-13 |
 | [microg/GmsCore](../repos/microg/GmsCore.md) | 22 | ⭐ 15,343 | 2026-08-06 | 2026-11-16 |
 | [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | 22 | ⭐ 7,664 | 2026-08-14 | 2026-11-14 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-17T21:01:02.436Z*
+*Last updated: 2026-11-18T21:01:03.060Z*

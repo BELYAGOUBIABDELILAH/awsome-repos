@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 315
+- **Total Repositories**: 316
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-11-12
+- **Last Updated**: 2026-11-18
 
 ---
 
@@ -16,31 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,767 | 2026-08-01 | 15 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,616 | 2026-07-30 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CleverRaven/Cataclysm-DDA](../repos/CleverRaven/Cataclysm-DDA.md) | ⭐ 13,541 | 2026-08-03 | 6 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 135,648 | 2026-08-01 | 40 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [IfcOpenShell/IfcOpenShell](../repos/IfcOpenShell/IfcOpenShell.md) | ⭐ 2,967 | 2026-08-28 | 3 |
+| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,771 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gta-reversed/gta-reversed](../repos/gta-reversed/gta-reversed.md) | ⭐ 1,290 | 2026-09-27 | 4 |
+| [openvinotoolkit/openvino](../repos/openvinotoolkit/openvino.md) | ⭐ 11,300 | 2026-08-07 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 54,857 | 2026-10-06 | 16 |
+| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 41,978 | 2026-08-09 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jimmgreen/pulse](../repos/jimmgreen/pulse.md) | ⭐ 1,743 | 2026-11-03 | 3 |
+| [Neroued/ninfer](../repos/Neroued/ninfer.md) | ⭐ 3,381 | 2026-08-29 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Helldez/BigMoeOnEdge](../repos/Helldez/BigMoeOnEdge.md) | ⭐ 1,008 | 2026-11-14 | 3 |
+| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 55,767 | 2026-10-06 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sonicnext-dev/MarathonRecomp](../repos/sonicnext-dev/MarathonRecomp.md) | ⭐ 942 | 2026-11-15 | 2 |
+| [socquique/TamaPoke](../repos/socquique/TamaPoke.md) | ⭐ 327 | 2026-10-25 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [clice-io/clice](../repos/clice-io/clice.md) | ⭐ 1,772 | 2026-11-17 | 1 |
+| [incoai/splash](../repos/incoai/splash.md) | ⭐ 2,404 | 2026-11-18 | 1 |
 
 
 ---
@@ -67,7 +67,7 @@
 | [wopss/RED4ext](../repos/wopss/RED4ext.md) | ⭐ 501 | 2026-10-25 | A script extender for REDengine 4 (Cyberpunk 2077). |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [socquique/TamaPoke](../repos/socquique/TamaPoke.md) | ⭐ 223 | 2026-10-25 | A Pokemon Gen-1 Tamagotchi for the Waveshare ESP32-S3-Touch-AMOLED-1.75 round display — open firm... |
+| [socquique/TamaPoke](../repos/socquique/TamaPoke.md) | ⭐ 327 | 2026-10-25 | A Pokemon Gen-1 Tamagotchi for the Waveshare ESP32-S3-Touch-AMOLED-1.75 round display — open firm... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [psiberx/cp2077-archive-xl](../repos/psiberx/cp2077-archive-xl.md) | ⭐ 138 | 2026-10-25 | Cyberpunk 2077 mod that allows you to expand game resources without conflicts. |
@@ -85,8 +85,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,580 | 2026-07-30 | 33 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 135,049 | 2026-08-01 | 39 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,616 | 2026-07-30 | 34 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 135,648 | 2026-08-01 | 40 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,803 | 2026-08-04 | 7 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 123,622 | 2026-08-01 | 7 |
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 120,277 | 2026-08-01 | 14 |
@@ -95,16 +95,16 @@
 | [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 77,216 | 2026-08-12 | 7 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 77,136 | 2026-08-08 | 19 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,174 | 2026-08-01 | 22 |
+| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 55,767 | 2026-10-06 | 17 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 55,165 | 2026-08-02 | 2 |
-| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 54,857 | 2026-10-06 | 16 |
 | [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,787 | 2026-08-03 | 13 |
 | [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,454 | 2026-09-01 | 3 |
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,405 | 2026-08-02 | 10 |
 | [SunshineStream/Sunshine](../repos/SunshineStream/Sunshine.md) | ⭐ 43,449 | 2026-11-15 | 1 |
 | [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 43,382 | 2026-09-06 | 3 |
 | [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 42,460 | 2026-08-19 | 14 |
+| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 41,978 | 2026-08-09 | 16 |
 | [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 41,612 | 2026-08-06 | 7 |
-| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 41,574 | 2026-08-09 | 15 |
 
 ---
 
@@ -113,15 +113,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 46 | ⭐ 439 | 2026-08-01 | 2026-10-09 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 39 | ⭐ 135,049 | 2026-08-01 | 2026-11-14 |
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 33 | ⭐ 201,580 | 2026-07-30 | 2026-11-12 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 40 | ⭐ 135,648 | 2026-08-01 | 2026-11-18 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 34 | ⭐ 201,616 | 2026-07-30 | 2026-11-18 |
 | [google/googletest](../repos/google/googletest.md) | 29 | ⭐ 39,737 | 2026-08-04 | 2026-11-13 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 22 | ⭐ 72,174 | 2026-08-01 | 2026-11-14 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 19 | ⭐ 546 | 2026-08-01 | 2026-10-29 |
 | [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | 19 | ⭐ 32,839 | 2026-08-03 | 2026-11-07 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 19 | ⭐ 77,136 | 2026-08-08 | 2026-11-16 |
-| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 16 | ⭐ 12,656 | 2026-08-02 | 2026-11-14 |
-| [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | 16 | ⭐ 22,255 | 2026-08-06 | 2026-11-06 |
+| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | 17 | ⭐ 55,767 | 2026-10-06 | 2026-11-18 |
+| [gabime/spdlog](../repos/gabime/spdlog.md) | 16 | ⭐ 29,771 | 2026-08-01 | 2026-11-18 |
 
 ---
 
@@ -230,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-11-17T21:01:02.401Z*
+*Last updated: 2026-11-18T21:01:03.013Z*

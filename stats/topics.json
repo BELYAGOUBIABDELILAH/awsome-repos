@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T21:01:08.800Z",
+  "generated_at": "2026-11-18T21:01:10.738Z",
   "total_topics": 100,
   "topics": [
     {
@@ -9,12 +9,12 @@
     },
     {
       "topic": "ai",
-      "repository_count": 259,
+      "repository_count": 261,
       "percentage": 5.6
     },
     {
       "topic": "android",
-      "repository_count": 226,
+      "repository_count": 227,
       "percentage": 4.9
     },
     {
@@ -24,12 +24,17 @@
     },
     {
       "topic": "rust",
-      "repository_count": 178,
+      "repository_count": 179,
       "percentage": 3.8
     },
     {
+      "topic": "mcp",
+      "repository_count": 169,
+      "percentage": 3.6
+    },
+    {
       "topic": "ai-agents",
-      "repository_count": 168,
+      "repository_count": 169,
       "percentage": 3.6
     },
     {
@@ -38,18 +43,13 @@
       "percentage": 3.6
     },
     {
-      "topic": "mcp",
-      "repository_count": 167,
-      "percentage": 3.6
-    },
-    {
       "topic": "macos",
-      "repository_count": 157,
+      "repository_count": 158,
       "percentage": 3.4
     },
     {
       "topic": "claude-code",
-      "repository_count": 153,
+      "repository_count": 154,
       "percentage": 3.3
     },
     {
@@ -94,7 +94,7 @@
     },
     {
       "topic": "codex",
-      "repository_count": 112,
+      "repository_count": 113,
       "percentage": 2.4
     },
     {
@@ -114,7 +114,7 @@
     },
     {
       "topic": "docker",
-      "repository_count": 98,
+      "repository_count": 99,
       "percentage": 2.1
     },
     {
@@ -134,7 +134,7 @@
     },
     {
       "topic": "agents",
-      "repository_count": 87,
+      "repository_count": 88,
       "percentage": 1.9
     },
     {
@@ -148,12 +148,12 @@
       "percentage": 1.7
     },
     {
-      "topic": "php",
-      "repository_count": 78,
+      "topic": "claude",
+      "repository_count": 80,
       "percentage": 1.7
     },
     {
-      "topic": "claude",
+      "topic": "php",
       "repository_count": 78,
       "percentage": 1.7
     },
@@ -174,13 +174,13 @@
     },
     {
       "topic": "machine-learning",
-      "repository_count": 73,
+      "repository_count": 74,
       "percentage": 1.6
     },
     {
       "topic": "openai",
       "repository_count": 72,
-      "percentage": 1.6
+      "percentage": 1.5
     },
     {
       "topic": "database",
@@ -220,7 +220,7 @@
     {
       "topic": "neovim",
       "repository_count": 58,
-      "percentage": 1.3
+      "percentage": 1.2
     },
     {
       "topic": "dotnet",
@@ -253,13 +253,18 @@
       "percentage": 1.1
     },
     {
+      "topic": "terminal",
+      "repository_count": 53,
+      "percentage": 1.1
+    },
+    {
       "topic": "csharp",
       "repository_count": 52,
       "percentage": 1.1
     },
     {
-      "topic": "terminal",
-      "repository_count": 52,
+      "topic": "mcp-server",
+      "repository_count": 51,
       "percentage": 1.1
     },
     {
@@ -269,11 +274,6 @@
     },
     {
       "topic": "gemini",
-      "repository_count": 50,
-      "percentage": 1.1
-    },
-    {
-      "topic": "mcp-server",
       "repository_count": 50,
       "percentage": 1.1
     },
@@ -309,7 +309,7 @@
     },
     {
       "topic": "deep-learning",
-      "repository_count": 42,
+      "repository_count": 43,
       "percentage": 0.9
     },
     {
@@ -328,17 +328,17 @@
       "percentage": 0.9
     },
     {
+      "topic": "cursor",
+      "repository_count": 40,
+      "percentage": 0.9
+    },
+    {
       "topic": "cloud-native",
       "repository_count": 40,
       "percentage": 0.9
     },
     {
       "topic": "scala",
-      "repository_count": 39,
-      "percentage": 0.8
-    },
-    {
-      "topic": "cursor",
       "repository_count": 39,
       "percentage": 0.8
     },
@@ -399,12 +399,12 @@
     },
     {
       "topic": "awesome-list",
-      "repository_count": 35,
+      "repository_count": 36,
       "percentage": 0.8
     },
     {
       "topic": "chatgpt",
-      "repository_count": 35,
+      "repository_count": 36,
       "percentage": 0.8
     },
     {

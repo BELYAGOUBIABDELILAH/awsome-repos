@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 184
+- **Total Repositories**: 186
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-16
 
@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | ⭐ 8,960 | 2026-08-02 | 16 |
+| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | ⭐ 8,998 | 2026-08-02 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HapeLee/legado-with-MD3](../repos/HapeLee/legado-with-MD3.md) | ⭐ 7,067 | 2026-08-02 | 15 |
+| [bitwarden/android](../repos/bitwarden/android.md) | ⭐ 9,662 | 2026-08-05 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jay3-yy/BiliPai](../repos/jay3-yy/BiliPai.md) | ⭐ 5,288 | 2026-08-03 | 6 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 57,897 | 2026-08-06 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cwuom/NeriPlayer](../repos/cwuom/NeriPlayer.md) | ⭐ 4,260 | 2026-08-05 | 8 |
+| [aquamarine5/ChaoxingSignFaker](../repos/aquamarine5/ChaoxingSignFaker.md) | ⭐ 1,165 | 2026-09-24 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitwarden/android](../repos/bitwarden/android.md) | ⭐ 9,655 | 2026-08-05 | 10 |
+| [carlelieser/shizzi](../repos/carlelieser/shizzi.md) | ⭐ 344 | 2026-10-16 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 57,583 | 2026-08-06 | 19 |
+| [SukiSU-Nova/SukiSU-Nova](../repos/SukiSU-Nova/SukiSU-Nova.md) | ⭐ 7,240 | 2026-11-16 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [android/skills](../repos/android/skills.md) | ⭐ 10,629 | 2026-08-07 | 8 |
+| [ravindu644/Droidspaces-OSS](../repos/ravindu644/Droidspaces-OSS.md) | ⭐ 2,547 | 2026-11-18 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wgtunnel/android](../repos/wgtunnel/android.md) | ⭐ 3,366 | 2026-08-15 | 9 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [tasks/tasks](../repos/tasks/tasks.md) | ⭐ 5,762 | 2026-09-27 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [PimpinPumpkin/Vela](../repos/PimpinPumpkin/Vela.md) | ⭐ 2,742 | 2026-10-06 | 12 |
+| [justshivv/Opentune](../repos/justshivv/Opentune.md) | ⭐ 324 | 2026-11-18 | 1 |
 
 
 ---
@@ -90,7 +84,7 @@
 |------------|-------|------------|---------------|
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 66,022 | 2026-08-02 | 26 |
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 64,065 | 2026-08-03 | 19 |
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 57,583 | 2026-08-06 | 19 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 57,897 | 2026-08-06 | 20 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,561 | 2026-08-04 | 15 |
 | [android/architecture-samples](../repos/android/architecture-samples.md) | ⭐ 45,876 | 2026-10-14 | 2 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 44,223 | 2026-08-03 | 18 |
@@ -118,12 +112,12 @@
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 26 | ⭐ 66,022 | 2026-08-02 | 2026-11-16 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 24 | ⭐ 33,864 | 2026-08-08 | 2026-11-16 |
 | [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 22 | ⭐ 3,366 | 2026-08-02 | 2026-11-15 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 20 | ⭐ 57,897 | 2026-08-06 | 2026-11-18 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 19 | ⭐ 25,276 | 2026-08-01 | 2026-11-13 |
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 19 | ⭐ 64,065 | 2026-08-03 | 2026-11-16 |
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 19 | ⭐ 57,583 | 2026-08-06 | 2026-11-17 |
 | [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | 18 | ⭐ 11,324 | 2026-08-03 | 2026-11-16 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | 18 | ⭐ 44,223 | 2026-08-03 | 2026-11-07 |
-| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | 16 | ⭐ 8,960 | 2026-08-02 | 2026-11-17 |
+| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | 17 | ⭐ 8,998 | 2026-08-02 | 2026-11-18 |
 | [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) | 16 | ⭐ 2,217 | 2026-08-04 | 2026-11-09 |
 
 ---
@@ -233,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-11-17T21:01:02.445Z*
+*Last updated: 2026-11-18T21:01:03.071Z*

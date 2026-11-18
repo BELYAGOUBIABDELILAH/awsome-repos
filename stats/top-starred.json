@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T21:01:08.740Z",
+  "generated_at": "2026-11-18T21:01:10.684Z",
   "total_count": 100,
   "repositories": [
     {
@@ -127,30 +127,30 @@
       "full_name": "ossu/computer-science",
       "owner": "ossu",
       "name": "computer-science",
-      "stars": 211228,
+      "stars": 211284,
       "language": "HTML",
       "first_seen": "2026-08-03",
-      "trending_days": 24
+      "trending_days": 25
     },
     {
       "rank": 14,
       "full_name": "n8n-io/n8n",
       "owner": "n8n-io",
       "name": "n8n",
-      "stars": 210322,
+      "stars": 211009,
       "language": "TypeScript",
       "first_seen": "2026-08-11",
-      "trending_days": 8
+      "trending_days": 9
     },
     {
       "rank": 15,
       "full_name": "tensorflow/tensorflow",
       "owner": "tensorflow",
       "name": "tensorflow",
-      "stars": 201580,
+      "stars": 201616,
       "language": "C++",
       "first_seen": "2026-07-30",
-      "trending_days": 33
+      "trending_days": 34
     },
     {
       "rank": 16,
@@ -227,20 +227,20 @@
       "full_name": "flutter/flutter",
       "owner": "flutter",
       "name": "flutter",
-      "stars": 181441,
+      "stars": 181291,
       "language": "Dart",
       "first_seen": "2026-08-01",
-      "trending_days": 56
+      "trending_days": 57
     },
     {
       "rank": 24,
       "full_name": "huggingface/transformers",
       "owner": "huggingface",
       "name": "transformers",
-      "stars": 169057,
+      "stars": 169239,
       "language": "Python",
       "first_seen": "2026-07-31",
-      "trending_days": 11
+      "trending_days": 12
     },
     {
       "rank": 25,
@@ -317,10 +317,10 @@
       "full_name": "vercel/next.js",
       "owner": "vercel",
       "name": "next.js",
-      "stars": 143323,
+      "stars": 143756,
       "language": "JavaScript",
       "first_seen": "2026-07-30",
-      "trending_days": 14
+      "trending_days": 15
     },
     {
       "rank": 33,
@@ -387,10 +387,10 @@
       "full_name": "golang/go",
       "owner": "golang",
       "name": "go",
-      "stars": 139950,
+      "stars": 140079,
       "language": "Go",
       "first_seen": "2026-07-31",
-      "trending_days": 20
+      "trending_days": 21
     },
     {
       "rank": 40,
@@ -407,10 +407,10 @@
       "full_name": "ggml-org/llama.cpp",
       "owner": "ggml-org",
       "name": "llama.cpp",
-      "stars": 135049,
+      "stars": 135648,
       "language": "C++",
       "first_seen": "2026-08-01",
-      "trending_days": 39
+      "trending_days": 40
     },
     {
       "rank": 42,
@@ -437,10 +437,10 @@
       "full_name": "kubernetes/kubernetes",
       "owner": "kubernetes",
       "name": "kubernetes",
-      "stars": 129115,
+      "stars": 129259,
       "language": "Go",
       "first_seen": "2026-08-04",
-      "trending_days": 16
+      "trending_days": 17
     },
     {
       "rank": 45,
@@ -487,10 +487,10 @@
       "full_name": "rust-lang/rust",
       "owner": "rust-lang",
       "name": "rust",
-      "stars": 122055,
+      "stars": 122230,
       "language": "Rust",
       "first_seen": "2026-07-30",
-      "trending_days": 15
+      "trending_days": 16
     },
     {
       "rank": 50,
@@ -587,10 +587,10 @@
       "full_name": "openai/whisper",
       "owner": "openai",
       "name": "whisper",
-      "stars": 112835,
+      "stars": 113019,
       "language": "Python",
       "first_seen": "2026-07-31",
-      "trending_days": 8
+      "trending_days": 9
     },
     {
       "rank": 60,
@@ -737,10 +737,10 @@
       "full_name": "angular/angular",
       "owner": "angular",
       "name": "angular",
-      "stars": 101437,
+      "stars": 101442,
       "language": "TypeScript",
       "first_seen": "2026-08-04",
-      "trending_days": 8
+      "trending_days": 9
     },
     {
       "rank": 75,
@@ -784,6 +784,16 @@
     },
     {
       "rank": 79,
+      "full_name": "punkpeye/awesome-mcp-servers",
+      "owner": "punkpeye",
+      "name": "awesome-mcp-servers",
+      "stars": 97989,
+      "language": "Unknown",
+      "first_seen": "2026-11-18",
+      "trending_days": 1
+    },
+    {
+      "rank": 80,
       "full_name": "oven-sh/bun",
       "owner": "oven-sh",
       "name": "bun",
@@ -793,7 +803,7 @@
       "trending_days": 10
     },
     {
-      "rank": 80,
+      "rank": 81,
       "full_name": "microsoft/Web-Dev-For-Beginners",
       "owner": "microsoft",
       "name": "Web-Dev-For-Beginners",
@@ -803,17 +813,17 @@
       "trending_days": 3
     },
     {
-      "rank": 81,
+      "rank": 82,
       "full_name": "nvm-sh/nvm",
       "owner": "nvm-sh",
       "name": "nvm",
-      "stars": 96266,
+      "stars": 96145,
       "language": "Shell",
       "first_seen": "2026-08-01",
-      "trending_days": 56
+      "trending_days": 57
     },
     {
-      "rank": 82,
+      "rank": 83,
       "full_name": "puppeteer/puppeteer",
       "owner": "puppeteer",
       "name": "puppeteer",
@@ -823,7 +833,7 @@
       "trending_days": 1
     },
     {
-      "rank": 83,
+      "rank": 84,
       "full_name": "ryanmcdermott/clean-code-javascript",
       "owner": "ryanmcdermott",
       "name": "clean-code-javascript",
@@ -833,7 +843,7 @@
       "trending_days": 1
     },
     {
-      "rank": 84,
+      "rank": 85,
       "full_name": "infiniflow/ragflow",
       "owner": "infiniflow",
       "name": "ragflow",
@@ -843,7 +853,7 @@
       "trending_days": 15
     },
     {
-      "rank": 85,
+      "rank": 86,
       "full_name": "3b1b/manim",
       "owner": "3b1b",
       "name": "manim",
@@ -853,27 +863,27 @@
       "trending_days": 6
     },
     {
-      "rank": 86,
-      "full_name": "astral-sh/uv",
-      "owner": "astral-sh",
-      "name": "uv",
-      "stars": 92022,
-      "language": "Rust",
-      "first_seen": "2026-07-31",
-      "trending_days": 10
-    },
-    {
       "rank": 87,
       "full_name": "home-assistant/core",
       "owner": "home-assistant",
       "name": "core",
-      "stars": 91745,
+      "stars": 92336,
       "language": "Python",
       "first_seen": "2026-08-27",
-      "trending_days": 5
+      "trending_days": 6
     },
     {
       "rank": 88,
+      "full_name": "astral-sh/uv",
+      "owner": "astral-sh",
+      "name": "uv",
+      "stars": 92198,
+      "language": "Rust",
+      "first_seen": "2026-07-31",
+      "trending_days": 11
+    },
+    {
+      "rank": 89,
       "full_name": "OpenHands/OpenHands",
       "owner": "OpenHands",
       "name": "OpenHands",
@@ -883,7 +893,17 @@
       "trending_days": 4
     },
     {
-      "rank": 89,
+      "rank": 90,
+      "full_name": "storybookjs/storybook",
+      "owner": "storybookjs",
+      "name": "storybook",
+      "stars": 91632,
+      "language": "TypeScript",
+      "first_seen": "2026-08-02",
+      "trending_days": 2
+    },
+    {
+      "rank": 91,
       "full_name": "modelcontextprotocol/servers",
       "owner": "modelcontextprotocol",
       "name": "servers",
@@ -893,7 +913,7 @@
       "trending_days": 3
     },
     {
-      "rank": 90,
+      "rank": 92,
       "full_name": "koala73/worldmonitor",
       "owner": "koala73",
       "name": "worldmonitor",
@@ -903,17 +923,7 @@
       "trending_days": 8
     },
     {
-      "rank": 91,
-      "full_name": "storybookjs/storybook",
-      "owner": "storybookjs",
-      "name": "storybook",
-      "stars": 90749,
-      "language": "TypeScript",
-      "first_seen": "2026-08-02",
-      "trending_days": 1
-    },
-    {
-      "rank": 92,
+      "rank": 93,
       "full_name": "bitcoin/bitcoin",
       "owner": "bitcoin",
       "name": "bitcoin",
@@ -923,17 +933,17 @@
       "trending_days": 12
     },
     {
-      "rank": 93,
+      "rank": 94,
       "full_name": "gohugoio/hugo",
       "owner": "gohugoio",
       "name": "hugo",
-      "stars": 90478,
+      "stars": 90509,
       "language": "Go",
       "first_seen": "2026-08-03",
-      "trending_days": 5
+      "trending_days": 6
     },
     {
-      "rank": 94,
+      "rank": 95,
       "full_name": "tt-a1i/archify",
       "owner": "tt-a1i",
       "name": "archify",
@@ -943,7 +953,7 @@
       "trending_days": 22
     },
     {
-      "rank": 95,
+      "rank": 96,
       "full_name": "PanJiaChen/vue-element-admin",
       "owner": "PanJiaChen",
       "name": "vue-element-admin",
@@ -953,7 +963,7 @@
       "trending_days": 24
     },
     {
-      "rank": 96,
+      "rank": 97,
       "full_name": "gin-gonic/gin",
       "owner": "gin-gonic",
       "name": "gin",
@@ -963,7 +973,7 @@
       "trending_days": 6
     },
     {
-      "rank": 97,
+      "rank": 98,
       "full_name": "ByteByteGoHq/system-design-101",
       "owner": "ByteByteGoHq",
       "name": "system-design-101",
@@ -973,7 +983,7 @@
       "trending_days": 1
     },
     {
-      "rank": 98,
+      "rank": 99,
       "full_name": "cheaper-inference/OmniRoute",
       "owner": "cheaper-inference",
       "name": "OmniRoute",
@@ -983,7 +993,7 @@
       "trending_days": 2
     },
     {
-      "rank": 99,
+      "rank": 100,
       "full_name": "mlabonne/llm-course",
       "owner": "mlabonne",
       "name": "llm-course",
@@ -991,16 +1001,6 @@
       "language": "Unknown",
       "first_seen": "2026-10-18",
       "trending_days": 1
-    },
-    {
-      "rank": 100,
-      "full_name": "bytedance/deer-flow",
-      "owner": "bytedance",
-      "name": "deer-flow",
-      "stars": 83226,
-      "language": "Python",
-      "first_seen": "2026-08-02",
-      "trending_days": 6
     }
   ]
 }

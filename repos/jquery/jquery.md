@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | JavaScript |
 | **License** | MIT |
-| **Stars** | ⭐ 59,798 |
-| **Forks** | 🍴 20,514 |
-| **Trending Days** | 1 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 60,003 |
+| **Forks** | 🍴 20,715 |
+| **Trending Days** | 2 |
+| **Peak Rank** | #12 |
 
 | **First Seen** | Oct 14, 2026 |
-| **Last Seen** | Oct 14, 2026 |
+| **Last Seen** | Nov 18, 2026 |
 
 
 ---
@@ -43,11 +43,12 @@
 
 ## Trending Timeline
 
+**Nov 18, 2026** — Rank #12 (+268 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Peak Rank**: #12
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -70,9 +71,9 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Good | Well-maintained documentation |
-| **Community** | Very Active | 59,798+ stars, strong contributor base |
+| **Community** | Very Active | 60,003+ stars, strong contributor base |
 | **Maturity** | Production Ready | Battle-tested and stable |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 20&#x2F;100
-- **Historical Rank**: No ranking data
+- **Trending Score**: 35&#x2F;100
+- **Historical Rank**: Peak: #12
 
 
 ---
 
-*Last updated: 2026-11-17T21:01:07.750Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-11-18T21:01:09.489Z*  
+*Data from 2 trending reports*

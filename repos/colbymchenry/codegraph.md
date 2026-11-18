@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | C |
+| **Language** | TypeScript |
 | **License** | MIT |
-| **Stars** | ⭐ 75,752 |
-| **Forks** | 🍴 4,996 |
-| **Trending Days** | 26 |
+| **Stars** | ⭐ 77,981 |
+| **Forks** | 🍴 5,205 |
+| **Trending Days** | 27 |
 | **Peak Rank** | #13 |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Oct 28, 2026 |
+| **Last Seen** | Nov 18, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in C or similar-topics*
+*Similar: Check repositories in TypeScript or similar-topics*
 
 ---
 
@@ -48,7 +48,7 @@
 ### Highlights
 
 - **Peak Rank**: #13
-- **Trending Days**: 26
+- **Trending Days**: 27
 - **Longest Streak**: 5 days
 
 ---
@@ -69,12 +69,12 @@
 
 | Aspect | Rating | Details |
 |--------|--------|---------|
-| **Difficulty** | Advanced | Requires systems programming knowledge |
+| **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
-| **Learning Curve** | Medium | Moderate learning investment |
+| **Maintenance** | Very Active | Updated within last week |
+| **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
 - General purpose
@@ -82,7 +82,7 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in C
+- Check similar projects in TypeScript
 
 #### Metrics
 - **Hidden Gem**: ✗ No
@@ -92,5 +92,5 @@
 
 ---
 
-*Last updated: 2026-11-17T21:01:04.297Z*  
-*Data from 26 trending reports*
+*Last updated: 2026-11-18T21:01:05.447Z*  
+*Data from 27 trending reports*

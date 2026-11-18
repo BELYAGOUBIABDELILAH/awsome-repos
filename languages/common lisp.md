@@ -14,13 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,662 | 2026-08-03 | 59 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) | ⭐ 11,070 | 2026-08-04 | 2 |
 
+*No Common Lisp repositories trending today*
 
 ---
 
@@ -76,4 +71,4 @@
 
 ---
 
-*Last updated: 2026-11-17T21:01:02.409Z*
+*Last updated: 2026-11-18T21:01:03.023Z*

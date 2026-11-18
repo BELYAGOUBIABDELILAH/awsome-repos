@@ -1,6 +1,6 @@
 # pingdotgg&#x2F;t3code
 
-> No description available
+> The best way to control Claude Code, Codex and more from any computer or phone
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;pingdotgg&#x2F;t3code) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | MIT |
-| **Stars** | ⭐ 48,123 |
-| **Forks** | 🍴 9,593 |
-| **Trending Days** | 19 |
+| **Stars** | ⭐ 65,124 |
+| **Forks** | 🍴 11,418 |
+| **Trending Days** | 20 |
 | **Peak Rank** | #7 |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 5, 2026 |
+| **Last Seen** | Nov 18, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in TypeScript or similar-topics*
+*Similar: Check repositories in TypeScript or agent-orchestration*
 
 ---
 
@@ -51,7 +51,7 @@
 ### Highlights
 
 - **Peak Rank**: #7
-- **Trending Days**: 19
+- **Trending Days**: 20
 - **Longest Streak**: 4 days
 
 ---
@@ -59,10 +59,10 @@
 ## Categories
 
 ### Topics
-
+[`agent-orchestration`](../../topics/agent-orchestration.md) [`agents`](../../topics/agents.md) [`ai`](../../topics/ai.md) [`chatgpt`](../../topics/chatgpt.md) [`claude`](../../topics/claude.md) [`claude-code`](../../topics/claude-code.md) [`code`](../../topics/code.md) [`vibe-coding`](../../topics/vibe-coding.md) 
 
 ### Curated Categories
-`General` 
+`Artificial Intelligence` `Large Language Models` `Containers &amp; Orchestration` `Systems Programming` 
 
 ---
 
@@ -72,12 +72,12 @@
 
 | Aspect | Rating | Details |
 |--------|--------|---------|
-| **Difficulty** | Beginner | Approachable with good examples |
-| **Documentation** | Average | Basic documentation available |
-| **Community** | Growing | Emerging community |
+| **Difficulty** | Intermediate | Well-documented but extensive API |
+| **Documentation** | Good | Well-maintained documentation |
+| **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
-| **Learning Curve** | Medium | Moderate learning investment |
+| **Maintenance** | Very Active | Updated within last week |
+| **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
 - General purpose
@@ -95,5 +95,5 @@
 
 ---
 
-*Last updated: 2026-11-17T21:01:04.219Z*  
-*Data from 19 trending reports*
+*Last updated: 2026-11-18T21:01:05.351Z*  
+*Data from 20 trending reports*

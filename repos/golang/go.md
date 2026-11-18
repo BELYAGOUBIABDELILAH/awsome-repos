@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | BSD-3-Clause |
-| **Stars** | ⭐ 139,950 |
-| **Forks** | 🍴 20,260 |
-| **Trending Days** | 20 |
+| **Stars** | ⭐ 140,079 |
+| **Forks** | 🍴 20,267 |
+| **Trending Days** | 21 |
 | **Peak Rank** | #8 |
 
 | **First Seen** | Jul 31, 2026 |
-| **Last Seen** | Nov 16, 2026 |
+| **Last Seen** | Nov 18, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #8
-- **Trending Days**: 20
+- **Trending Days**: 21
 - **Longest Streak**: 2 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 139,950+ stars, strong contributor base |
+| **Community** | Very Active | 140,079+ stars, strong contributor base |
 | **Maturity** | Production Ready | Battle-tested and stable |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
@@ -95,5 +95,5 @@
 
 ---
 
-*Last updated: 2026-11-17T21:01:04.168Z*  
-*Data from 20 trending reports*
+*Last updated: 2026-11-18T21:01:05.282Z*  
+*Data from 21 trending reports*

@@ -16,10 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 739 | 2026-08-01 | 68 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [SciFracX/FractionalCalculus.jl](../repos/SciFracX/FractionalCalculus.jl.md) | ⭐ 44 | 2026-11-12 | 6 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 739 | 2026-08-01 | 69 |
 
 
 ---
@@ -56,7 +53,7 @@
 | [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,448 | 2026-08-02 | 39 |
 | [JuliaGPU/CUDA.jl](../repos/JuliaGPU/CUDA.jl.md) | ⭐ 1,419 | 2026-08-12 | 1 |
 | [JuliaStats/Distributions.jl](../repos/JuliaStats/Distributions.jl.md) | ⭐ 1,196 | 2026-08-12 | 1 |
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 739 | 2026-08-01 | 68 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 739 | 2026-08-01 | 69 |
 | [trixi-framework/Trixi.jl](../repos/trixi-framework/Trixi.jl.md) | ⭐ 736 | 2026-08-07 | 3 |
 | [LuxDL/Lux.jl](../repos/LuxDL/Lux.jl.md) | ⭐ 721 | 2026-08-12 | 1 |
 | [EnzymeAD/Enzyme.jl](../repos/EnzymeAD/Enzyme.jl.md) | ⭐ 586 | 2026-09-09 | 2 |
@@ -76,7 +73,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 68 | ⭐ 739 | 2026-08-01 | 2026-11-17 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 69 | ⭐ 739 | 2026-08-01 | 2026-11-18 |
 | [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | 39 | ⭐ 1,448 | 2026-08-02 | 2026-11-06 |
 | [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | 15 | ⭐ 46 | 2026-08-02 | 2026-08-25 |
 | [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | 14 | ⭐ 126 | 2026-08-01 | 2026-09-12 |
@@ -120,4 +117,4 @@
 
 ---
 
-*Last updated: 2026-11-17T21:01:02.441Z*
+*Last updated: 2026-11-18T21:01:03.066Z*

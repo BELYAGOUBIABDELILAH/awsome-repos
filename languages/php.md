@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 15,193 | 2026-08-01 | 36 |
+| [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 15,200 | 2026-08-01 | 37 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [glpi-project/glpi](../repos/glpi-project/glpi.md) | ⭐ 6,632 | 2026-08-01 | 47 |
+| [laravel/framework](../repos/laravel/framework.md) | ⭐ 35,000 | 2026-08-01 | 43 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pestphp/pest](../repos/pestphp/pest.md) | ⭐ 11,775 | 2026-08-01 | 5 |
+| [WordPress/wordpress-develop](../repos/WordPress/wordpress-develop.md) | ⭐ 3,515 | 2026-08-01 | 35 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akaunting/akaunting](../repos/akaunting/akaunting.md) | ⭐ 10,314 | 2026-08-01 | 18 |
+| [PrestaShop/PrestaShop](../repos/PrestaShop/PrestaShop.md) | ⭐ 9,256 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WordPress/wordpress-develop](../repos/WordPress/wordpress-develop.md) | ⭐ 3,515 | 2026-08-01 | 34 |
+| [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,445 | 2026-08-02 | 43 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 22,033 | 2026-08-01 | 36 |
+| [kimai/kimai](../repos/kimai/kimai.md) | ⭐ 5,168 | 2026-08-03 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MISP/MISP](../repos/MISP/MISP.md) | ⭐ 6,671 | 2026-08-01 | 13 |
+| [RSS-Bridge/rss-bridge](../repos/RSS-Bridge/rss-bridge.md) | ⭐ 9,370 | 2026-08-03 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,383 | 2026-08-01 | 31 |
+| [librenms/librenms](../repos/librenms/librenms.md) | ⭐ 5,017 | 2026-08-04 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,446 | 2026-08-02 | 42 |
+| [Automattic/jetpack](../repos/Automattic/jetpack.md) | ⭐ 1,859 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cedar2025/Xboard](../repos/cedar2025/Xboard.md) | ⭐ 4,871 | 2026-08-02 | 27 |
+| [TYPO3/typo3](../repos/TYPO3/typo3.md) | ⭐ 1,223 | 2026-08-07 | 2 |
 
 
 ---
@@ -52,13 +52,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [bobthecow/psysh](../repos/bobthecow/psysh.md) | ⭐ 9,829 | 2026-10-19 | A REPL for PHP |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [guzzle/guzzle](../repos/guzzle/guzzle.md) | ⭐ 23,445 | 2026-10-20 | Guzzle, an extensible PHP HTTP client |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [jez500/pricebuddy](../repos/jez500/pricebuddy.md) | ⭐ 1,431 | 2026-10-21 | A self hostable app that tracks prices and sends you notifications when prices match your prefere... |
+| [jez500/pricebuddy](../repos/jez500/pricebuddy.md) | ⭐ 1,520 | 2026-10-21 | A self hostable app that tracks prices and sends you notifications when prices match your prefere... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [metadist/synaplan-nextcloud](../repos/metadist/synaplan-nextcloud.md) | ⭐ 157 | 2026-10-25 | Synaplan AI integration into nextcloud for RAG powered discussions, translations and summaries. R... |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [maicong/music](../repos/maicong/music.md) | ⭐ 2,176 | 2026-11-02 | 音乐搜索器 - 多站合一音乐搜索解决方案 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [postfixadmin/postfixadmin](../repos/postfixadmin/postfixadmin.md) | ⭐ 1,265 | 2026-11-04 | PostfixAdmin - web based virtual user administration interface for Postfix mail servers |
 
 
 ---
@@ -89,9 +89,9 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 37,539 | 2026-08-02 | 44 |
-| [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,999 | 2026-08-01 | 42 |
+| [laravel/framework](../repos/laravel/framework.md) | ⭐ 35,000 | 2026-08-01 | 43 |
 | [filamentphp/filament](../repos/filamentphp/filament.md) | ⭐ 32,515 | 2026-08-02 | 33 |
-| [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,446 | 2026-08-02 | 42 |
+| [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,445 | 2026-08-02 | 43 |
 | [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,383 | 2026-08-01 | 31 |
 | [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,791 | 2026-08-04 | 25 |
 | [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 24,163 | 2026-08-07 | 28 |
@@ -102,7 +102,7 @@
 | [easychen/opc-methodology](../repos/easychen/opc-methodology.md) | ⭐ 17,034 | 2026-08-04 | 9 |
 | [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 16,581 | 2026-08-02 | 29 |
 | [getgrav/grav](../repos/getgrav/grav.md) | ⭐ 15,672 | 2026-08-12 | 7 |
-| [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 15,193 | 2026-08-01 | 36 |
+| [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 15,200 | 2026-08-01 | 37 |
 | [PHPOffice/PhpSpreadsheet](../repos/PHPOffice/PhpSpreadsheet.md) | ⭐ 14,005 | 2026-08-19 | 7 |
 | [PHP-CS-Fixer/PHP-CS-Fixer](../repos/PHP-CS-Fixer/PHP-CS-Fixer.md) | ⭐ 13,565 | 2026-08-04 | 5 |
 | [wallabag/wallabag](../repos/wallabag/wallabag.md) | ⭐ 13,063 | 2026-08-05 | 11 |
@@ -117,12 +117,12 @@
 |------------|---------------|-------|------------|-----------|
 | [glpi-project/glpi](../repos/glpi-project/glpi.md) | 47 | ⭐ 6,632 | 2026-08-01 | 2026-11-17 |
 | [nextcloud/server](../repos/nextcloud/server.md) | 44 | ⭐ 37,539 | 2026-08-02 | 2026-11-16 |
-| [laravel/framework](../repos/laravel/framework.md) | 42 | ⭐ 34,999 | 2026-08-01 | 2026-11-13 |
-| [symfony/symfony](../repos/symfony/symfony.md) | 42 | ⭐ 31,446 | 2026-08-02 | 2026-11-17 |
+| [laravel/framework](../repos/laravel/framework.md) | 43 | ⭐ 35,000 | 2026-08-01 | 2026-11-18 |
+| [symfony/symfony](../repos/symfony/symfony.md) | 43 | ⭐ 31,445 | 2026-08-02 | 2026-11-18 |
 | [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | 41 | ⭐ 10,858 | 2026-08-09 | 2026-11-17 |
-| [grokability/snipe-it](../repos/grokability/snipe-it.md) | 36 | ⭐ 15,193 | 2026-08-01 | 2026-11-17 |
+| [grokability/snipe-it](../repos/grokability/snipe-it.md) | 37 | ⭐ 15,200 | 2026-08-01 | 2026-11-18 |
 | [matomo-org/matomo](../repos/matomo-org/matomo.md) | 36 | ⭐ 22,033 | 2026-08-01 | 2026-11-17 |
-| [WordPress/wordpress-develop](../repos/WordPress/wordpress-develop.md) | 34 | ⭐ 3,515 | 2026-08-01 | 2026-11-17 |
+| [WordPress/wordpress-develop](../repos/WordPress/wordpress-develop.md) | 35 | ⭐ 3,515 | 2026-08-01 | 2026-11-18 |
 | [filamentphp/filament](../repos/filamentphp/filament.md) | 33 | ⭐ 32,515 | 2026-08-02 | 2026-11-16 |
 | [bagisto/bagisto](../repos/bagisto/bagisto.md) | 31 | ⭐ 28,383 | 2026-08-01 | 2026-11-17 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-17T21:01:02.463Z*
+*Last updated: 2026-11-18T21:01:03.093Z*

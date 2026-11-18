@@ -16,19 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/hve-core](../repos/microsoft/hve-core.md) | ⭐ 1,622 | 2026-08-01 | 18 |
+| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,632 | 2026-08-01 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Euro-Office/DesktopEditors](../repos/Euro-Office/DesktopEditors.md) | ⭐ 987 | 2026-08-01 | 20 |
+| [Euro-Office/DesktopEditors](../repos/Euro-Office/DesktopEditors.md) | ⭐ 991 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | ⭐ 1,585 | 2026-08-01 | 27 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 953 | 2026-08-01 | 51 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,802 | 2026-08-11 | 23 |
+| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | ⭐ 1,586 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/copilot-plugins](../repos/github/copilot-plugins.md) | ⭐ 386 | 2026-08-26 | 10 |
+| [actions/python-versions](../repos/actions/python-versions.md) | ⭐ 242 | 2026-08-03 | 15 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,804 | 2026-08-11 | 24 |
 
 
 ---
@@ -83,7 +86,7 @@
 | [SpecterOps/BloodHound-Legacy](../repos/SpecterOps/BloodHound-Legacy.md) | ⭐ 10,597 | 2026-08-06 | 1 |
 | [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,136 | 2026-08-03 | 11 |
 | [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 9,321 | 2026-08-06 | 24 |
-| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,610 | 2026-08-01 | 33 |
+| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,632 | 2026-08-01 | 34 |
 | [javaht/claude-desktop-zh-cn](../repos/javaht/claude-desktop-zh-cn.md) | ⭐ 8,542 | 2026-10-23 | 14 |
 | [mandiant/commando-vm](../repos/mandiant/commando-vm.md) | ⭐ 7,779 | 2026-08-12 | 1 |
 | [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,674 | 2026-08-07 | 7 |
@@ -92,7 +95,7 @@
 | [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 3,576 | 2026-08-01 | 29 |
 | [pester/Pester](../repos/pester/Pester.md) | ⭐ 3,369 | 2026-10-29 | 1 |
 | [dataplat/dbatools](../repos/dataplat/dbatools.md) | ⭐ 2,857 | 2026-08-04 | 4 |
-| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,802 | 2026-08-11 | 23 |
+| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,804 | 2026-08-11 | 24 |
 
 ---
 
@@ -101,15 +104,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [actions/runner-images](../repos/actions/runner-images.md) | 63 | ⭐ 13,590 | 2026-08-01 | 2026-11-12 |
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 50 | ⭐ 951 | 2026-08-01 | 2026-11-13 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 51 | ⭐ 953 | 2026-08-01 | 2026-11-18 |
 | [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 37 | ⭐ 1,727 | 2026-08-03 | 2026-11-14 |
-| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 33 | ⭐ 8,610 | 2026-08-01 | 2026-11-11 |
+| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 34 | ⭐ 8,632 | 2026-08-01 | 2026-11-18 |
 | [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 29 | ⭐ 3,576 | 2026-08-01 | 2026-11-12 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 29 | ⭐ 6,178 | 2026-08-01 | 2026-11-11 |
+| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 28 | ⭐ 1,586 | 2026-08-01 | 2026-11-18 |
 | [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 28 | ⭐ 545 | 2026-08-04 | 2026-11-16 |
-| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 27 | ⭐ 1,585 | 2026-08-01 | 2026-11-17 |
 | [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | 24 | ⭐ 9,321 | 2026-08-06 | 2026-11-13 |
-| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | 23 | ⭐ 2,802 | 2026-08-11 | 2026-11-17 |
+| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | 24 | ⭐ 2,804 | 2026-08-11 | 2026-11-18 |
 
 ---
 
@@ -185,4 +188,4 @@
 
 ---
 
-*Last updated: 2026-11-17T21:01:02.468Z*
+*Last updated: 2026-11-18T21:01:03.099Z*

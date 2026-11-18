@@ -71,27 +71,7 @@
 
 ---
 
-### 4. [alielsokary&#x2F;CaskHub](../../repos/alielsokary/CaskHub.md)
-
-**Native GUI for Homebrew Casks**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,131 |
-| 💻 **Language** | Swift |
-| 🏆 **Gem Score** | 83/100 |
-| 📈 **Trending Days** | 8 |
-| 📅 **First Seen** | Aug 10, 2026 |
-
-**Why it's a gem**: High growth velocity (+42 stars&#x2F;day) • Trending 8 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/alielsokary/CaskHub.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;alielsokary&#x2F;CaskHub)
-
----
-
-### 5. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
+### 4. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
 
 **Source control for agents. Use multiple coding agents, track their changes and query them in one place**
 
@@ -111,7 +91,7 @@
 
 ---
 
-### 6. [huangruiteng&#x2F;loopx](../../repos/huangruiteng/loopx.md)
+### 5. [huangruiteng&#x2F;loopx](../../repos/huangruiteng/loopx.md)
 
 **Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.**
 
@@ -128,6 +108,26 @@
 **Best for**: 
 
 [View Passport](../../repos/huangruiteng/loopx.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;huangruiteng&#x2F;loopx)
+
+---
+
+### 6. [alielsokary&#x2F;CaskHub](../../repos/alielsokary/CaskHub.md)
+
+**Native GUI for Homebrew Casks**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,131 |
+| 💻 **Language** | Swift |
+| 🏆 **Gem Score** | 82/100 |
+| 📈 **Trending Days** | 8 |
+| 📅 **First Seen** | Aug 10, 2026 |
+
+**Why it's a gem**: High growth velocity (+42 stars&#x2F;day) • Trending 8 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/alielsokary/CaskHub.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;alielsokary&#x2F;CaskHub)
 
 ---
 
@@ -239,7 +239,7 @@
 |---|---|
 | ⭐ **Stars** | 3,363 |
 | 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 80/100 |
+| 🏆 **Gem Score** | 79/100 |
 | 📈 **Trending Days** | 4 |
 | 📅 **First Seen** | Sep 2, 2026 |
 
@@ -311,27 +311,7 @@
 
 ---
 
-### 16. [aipoch&#x2F;open-science](../../repos/aipoch/open-science.md)
-
-**The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python&#x2F;R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 4,884 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 78/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Sep 6, 2026 |
-
-**Why it's a gem**: High growth velocity (+158 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/aipoch/open-science.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;aipoch&#x2F;open-science)
-
----
-
-### 17. [huggingface&#x2F;funes](../../repos/huggingface/funes.md)
+### 16. [huggingface&#x2F;funes](../../repos/huggingface/funes.md)
 
 **Durable, searchable memory of your past agent sessions.**
 
@@ -351,7 +331,7 @@
 
 ---
 
-### 18. [adongwanai&#x2F;AgentGuide](../../repos/adongwanai/AgentGuide.md)
+### 17. [adongwanai&#x2F;AgentGuide](../../repos/adongwanai/AgentGuide.md)
 
 **https:&#x2F;&#x2F;adongwanai.github.io&#x2F;AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成**
 
@@ -371,7 +351,7 @@
 
 ---
 
-### 19. [cobusgreyling&#x2F;loop-engineering](../../repos/cobusgreyling/loop-engineering.md)
+### 18. [cobusgreyling&#x2F;loop-engineering](../../repos/cobusgreyling/loop-engineering.md)
 
 **Practical patterns, starters &amp; CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.**
 
@@ -391,7 +371,7 @@
 
 ---
 
-### 20. [Osmantic&#x2F;ODS](../../repos/Osmantic/ODS.md)
+### 19. [Osmantic&#x2F;ODS](../../repos/Osmantic/ODS.md)
 
 **Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.**
 
@@ -411,6 +391,26 @@
 
 ---
 
+### 20. [Sumanth077&#x2F;Hands-On-AI-Engineering](../../repos/Sumanth077/Hands-On-AI-Engineering.md)
+
+**A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3,360 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 77/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Sep 4, 2026 |
+
+**Why it's a gem**: High growth velocity (+60 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/Sumanth077/Hands-On-AI-Engineering.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Sumanth077&#x2F;Hands-On-AI-Engineering)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-17T21:01:08.558Z*  
+*Generated: 2026-11-18T21:01:10.446Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

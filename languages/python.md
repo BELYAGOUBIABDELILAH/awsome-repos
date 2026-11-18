@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 68,909 | 2026-08-01 | 12 |
+| [openai/whisper](../repos/openai/whisper.md) | ⭐ 113,019 | 2026-07-31 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 149,584 | 2026-08-03 | 12 |
+| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 169,239 | 2026-07-31 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [usestrix/strix](../repos/usestrix/strix.md) | ⭐ 76,303 | 2026-08-04 | 12 |
+| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 69,894 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ComposioHQ/awesome-claude-skills](../repos/ComposioHQ/awesome-claude-skills.md) | ⭐ 79,726 | 2026-08-06 | 11 |
+| [anthropics/claude-code-security-review](../repos/anthropics/claude-code-security-review.md) | ⭐ 7,003 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jingyaogong/minimind](../repos/jingyaogong/minimind.md) | ⭐ 65,869 | 2026-09-01 | 5 |
+| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 59,622 | 2026-08-15 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HKUDS/AutoSwarm](../repos/HKUDS/AutoSwarm.md) | ⭐ 2,626 | 2026-10-27 | 3 |
+| [bojieli/ai-agent-book](../repos/bojieli/ai-agent-book.md) | ⭐ 58,696 | 2026-08-19 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/SkillEvaluator](../repos/NVIDIA/SkillEvaluator.md) | ⭐ 3,309 | 2026-11-12 | 5 |
+| [home-assistant/core](../repos/home-assistant/core.md) | ⭐ 92,336 | 2026-08-27 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tradermonty/claude-trading-skills](../repos/tradermonty/claude-trading-skills.md) | ⭐ 6,830 | 2026-11-13 | 5 |
+| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 41,948 | 2026-08-29 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-research/paper-orchestra](../repos/google-research/paper-orchestra.md) | ⭐ 2,827 | 2026-11-16 | 2 |
+| [jingyaogong/minimind](../repos/jingyaogong/minimind.md) | ⭐ 66,480 | 2026-09-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vstorm-co/agenticos](../repos/vstorm-co/agenticos.md) | ⭐ 404 | 2026-11-16 | 2 |
+| [XiaoYouChR/Ghost-Downloader-3](../repos/XiaoYouChR/Ghost-Downloader-3.md) | ⭐ 12,108 | 2026-10-11 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [bobeff/open-source-games](../repos/bobeff/open-source-games.md) | ⭐ 17,817 | 2026-10-19 | A list of open source games. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [fastapi/fastapi](../repos/fastapi/fastapi.md) | ⭐ 104,666 | 2026-10-19 | FastAPI framework, high performance, easy to learn, fast to code, ready for production |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [onyx-dot-app/onyx](../repos/onyx-dot-app/onyx.md) | ⭐ 32,925 | 2026-10-22 | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [NVIDIA/auto-ontology](../repos/NVIDIA/auto-ontology.md) | ⭐ 9,728 | 2026-10-27 | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [beenuar/AiSOC](../repos/beenuar/AiSOC.md) | ⭐ 6,658 | 2026-10-28 | Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&amp;CK investiga... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [shitagaki-lab/see-through](../repos/shitagaki-lab/see-through.md) | ⭐ 5,091 | 2026-10-28 | &quot;Single-image Layer Decomposition for Anime Characters&quot; (SIGGRAPH 2026 Conference Paper) |
 
 
 ---
@@ -98,7 +98,7 @@
 | [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 193,049 | 2026-08-11 | 13 |
 | [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 189,013 | 2026-09-07 | 3 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,775 | 2026-08-06 | 9 |
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 169,057 | 2026-07-31 | 11 |
+| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 169,239 | 2026-07-31 | 12 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 149,584 | 2026-08-03 | 12 |
 | [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 147,818 | 2026-08-14 | 13 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 143,038 | 2026-08-04 | 8 |
@@ -107,7 +107,7 @@
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 132,217 | 2026-08-04 | 17 |
 | [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 120,731 | 2026-08-20 | 10 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 117,829 | 2026-08-08 | 16 |
-| [openai/whisper](../repos/openai/whisper.md) | ⭐ 112,835 | 2026-07-31 | 8 |
+| [openai/whisper](../repos/openai/whisper.md) | ⭐ 113,019 | 2026-07-31 | 9 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-17T21:01:02.471Z*
+*Last updated: 2026-11-18T21:01:03.103Z*

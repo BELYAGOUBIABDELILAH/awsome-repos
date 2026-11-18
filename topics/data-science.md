@@ -9,7 +9,7 @@
 - **Total Repositories**: 140
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-16
-- **Average Stars**: 15080
+- **Average Stars**: 15081
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,823 | Ruby |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,829 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,648 | Scala |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,652 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,555 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,562 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,385 | Clojure |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,402 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,777 | C |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,809 | C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 41,443 | Vim Script |  |
+| [vim/vim](../repos/vim/vim.md) | ⭐ 41,282 | Vim Script |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 79,696 | C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,705 | R |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | ⭐ 2,146 | Vue |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
 | [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,083 | R |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | ⭐ 7,028 | R |  |
+| [r-spatial/sf](../repos/r-spatial/sf.md) | ⭐ 1,457 | R |  |
 
 
 ---
@@ -55,13 +55,13 @@
 |------------|-------|----------|------------|---------------|
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 154,980 | C | 2026-08-07 | 20 |
 | [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 104,706 | Python | 2026-07-30 | 6 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 79,589 | C | 2026-08-02 | 20 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 79,696 | C | 2026-08-02 | 21 |
 | [nektos/act](../repos/nektos/act.md) | ⭐ 71,966 | Go | 2026-08-07 | 2 |
 | [git/git](../repos/git/git.md) | ⭐ 64,135 | C | 2026-08-05 | 10 |
 | [chinese-poetry/chinese-poetry](../repos/chinese-poetry/chinese-poetry.md) | ⭐ 54,296 | JavaScript | 2026-11-10 | 2 |
 | [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | ⭐ 52,636 | Python | 2026-08-03 | 16 |
 | [pandas-dev/pandas](../repos/pandas-dev/pandas.md) | ⭐ 50,466 | Python | 2026-08-04 | 2 |
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,385 | Clojure | 2026-08-01 | 86 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,402 | Clojure | 2026-08-01 | 87 |
 | [TanStack/query](../repos/TanStack/query.md) | ⭐ 50,183 | TypeScript | 2026-08-22 | 1 |
 
 ---
@@ -70,25 +70,25 @@
 
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,823 | Ruby | 6 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,829 | Ruby | 7 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,648 | Scala | 2 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,652 | Scala | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [microsoft/SynapseML](../repos/microsoft/SynapseML.md) | ⭐ 5,256 | Scala | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,555 | Scala | 16 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,562 | Scala | 17 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,385 | Clojure | 16 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,402 | Clojure | 17 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,777 | C | 1 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,809 | C | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 41,443 | Vim Script | 4 |
+| [vim/vim](../repos/vim/vim.md) | ⭐ 41,282 | Vim Script | 5 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 993 | MATLAB | 1 |
@@ -97,7 +97,7 @@
 | [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 29,209 | C | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 79,589 | C | 1 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 79,696 | C | 1 |
 
 ---
 
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-11-18](../archive/2026/11/2026-11-18.md)
+- 12 repositories trending
+- Top: obsproject&#x2F;obs-studio
+
 ### [2026-11-17](../archive/2026/11/2026-11-17.md)
 - 15 repositories trending
 - Top: metabase&#x2F;metabase
@@ -162,10 +166,6 @@
 - 11 repositories trending
 - Top: obsproject&#x2F;obs-studio
 
-### [2026-11-11](../archive/2026/11/2026-11-11.md)
-- 4 repositories trending
-- Top: chinese-poetry&#x2F;chinese-poetry
-
 
 ---
 
@@ -175,16 +175,16 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 89 days | 2026-08-01 | 2026-11-17 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 86 days | 2026-08-01 | 2026-11-17 |
-| [vim/vim](../repos/vim/vim.md) | 75 days | 2026-08-01 | 2026-11-17 |
-| [joernio/joern](../repos/joernio/joern.md) | 65 days | 2026-08-01 | 2026-11-17 |
-| [ruby/ruby](../repos/ruby/ruby.md) | 48 days | 2026-08-01 | 2026-11-17 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 42 days | 2026-08-01 | 2026-11-17 |
+| [apache/spark](../repos/apache/spark.md) | 90 days | 2026-08-01 | 2026-11-18 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 87 days | 2026-08-01 | 2026-11-18 |
+| [vim/vim](../repos/vim/vim.md) | 76 days | 2026-08-01 | 2026-11-18 |
+| [joernio/joern](../repos/joernio/joern.md) | 66 days | 2026-08-01 | 2026-11-18 |
+| [ruby/ruby](../repos/ruby/ruby.md) | 49 days | 2026-08-01 | 2026-11-18 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 43 days | 2026-08-01 | 2026-11-18 |
 | [facebook/infer](../repos/facebook/infer.md) | 41 days | 2026-08-02 | 2026-10-25 |
 | [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | 37 days | 2026-08-02 | 2026-11-17 |
 | [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | 37 days | 2026-08-04 | 2026-11-17 |
-| [rstudio/shiny](../repos/rstudio/shiny.md) | 35 days | 2026-08-02 | 2026-11-17 |
+| [rstudio/shiny](../repos/rstudio/shiny.md) | 36 days | 2026-08-02 | 2026-11-18 |
 
 ---
 
@@ -314,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-11-17T21:01:02.125Z*
+*Last updated: 2026-11-18T21:01:02.660Z*

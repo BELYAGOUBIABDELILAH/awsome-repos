@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | LGPL-3.0 |
-| **Stars** | ⭐ 45,097 |
-| **Forks** | 🍴 9,704 |
-| **Trending Days** | 20 |
+| **Stars** | ⭐ 46,265 |
+| **Forks** | 🍴 10,028 |
+| **Trending Days** | 21 |
 | **Peak Rank** | #5 |
 
 | **First Seen** | Aug 7, 2026 |
-| **Last Seen** | Oct 29, 2026 |
+| **Last Seen** | Nov 18, 2026 |
 
 
 ---
@@ -48,7 +48,7 @@
 ### Highlights
 
 - **Peak Rank**: #5
-- **Trending Days**: 20
+- **Trending Days**: 21
 - **Longest Streak**: 5 days
 
 ---
@@ -73,7 +73,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -92,5 +92,5 @@
 
 ---
 
-*Last updated: 2026-11-17T21:01:05.531Z*  
-*Data from 20 trending reports*
+*Last updated: 2026-11-18T21:01:06.935Z*  
+*Data from 21 trending reports*

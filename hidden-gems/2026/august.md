@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 73
+**Gems Found**: 71
 
 ---
 
@@ -51,27 +51,7 @@
 
 ---
 
-### 3. [marin-community&#x2F;marin](../../repos/marin-community/marin.md)
-
-**Open-source framework for the research and development of foundation models.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,876 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 77/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 24, 2026 |
-
-**Why it's a gem**: High growth velocity (+529 stars&#x2F;day) • Trending 5 times • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/marin-community/marin.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;marin-community&#x2F;marin)
-
----
-
-### 4. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
+### 3. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
 
 **OCTO Android Client — Open-source enterprise IM**
 
@@ -88,6 +68,26 @@
 **Best for**: 
 
 [View Passport](../../repos/Mininglamp-OSS/octo-android.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Mininglamp-OSS&#x2F;octo-android)
+
+---
+
+### 4. [marin-community&#x2F;marin](../../repos/marin-community/marin.md)
+
+**Open-source framework for the research and development of foundation models.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,876 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 76/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 24, 2026 |
+
+**Why it's a gem**: High growth velocity (+529 stars&#x2F;day) • Trending 5 times • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/marin-community/marin.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;marin-community&#x2F;marin)
 
 ---
 
@@ -119,7 +119,7 @@
 |---|---|
 | ⭐ **Stars** | 3,033 |
 | 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 75/100 |
+| 🏆 **Gem Score** | 74/100 |
 | 📈 **Trending Days** | 3 |
 | 📅 **First Seen** | Aug 20, 2026 |
 
@@ -299,7 +299,7 @@
 |---|---|
 | ⭐ **Stars** | 1,865 |
 | 💻 **Language** | C++ |
-| 🏆 **Gem Score** | 69/100 |
+| 🏆 **Gem Score** | 68/100 |
 | 📈 **Trending Days** | 3 |
 | 📅 **First Seen** | Aug 12, 2026 |
 
@@ -391,23 +391,23 @@
 
 ---
 
-### 20. [Xoshbin&#x2F;asyar](../../repos/Xoshbin/asyar.md)
+### 20. [laude-institute&#x2F;headlong](../../repos/laude-institute/headlong.md)
 
-**The power of Raycast. The speed of Alfred. Privacy by design.**
+**An open source agent microharness featuring persistent agency and recursive LLMs. Of bash, by bash, for bash; it&#39;s shells all the way down.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 519 |
-| 💻 **Language** | Rust |
+| ⭐ **Stars** | 921 |
+| 💻 **Language** | Shell |
 | 🏆 **Gem Score** | 66/100 |
-| 📈 **Trending Days** | 1 |
+| 📈 **Trending Days** | 2 |
 | 📅 **First Seen** | Aug 26, 2026 |
 
-**Why it's a gem**: High growth velocity (+42 stars&#x2F;day) • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+264 stars&#x2F;day) • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/Xoshbin/asyar.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Xoshbin&#x2F;asyar)
+[View Passport](../../repos/laude-institute/headlong.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;laude-institute&#x2F;headlong)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-17T21:01:08.560Z*  
+*Generated: 2026-11-18T21:01:10.449Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

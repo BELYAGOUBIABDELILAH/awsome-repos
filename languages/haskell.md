@@ -16,13 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,764 | 2026-08-01 | 73 |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,764 | 2026-08-01 | 74 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [haskell/cabal](../repos/haskell/cabal.md) | ⭐ 1,750 | 2026-08-01 | 34 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [commercialhaskell/stack](../repos/commercialhaskell/stack.md) | ⭐ 4,084 | 2026-08-05 | 24 |
+| [haskell/cabal](../repos/haskell/cabal.md) | ⭐ 1,750 | 2026-08-01 | 35 |
 
 
 ---
@@ -47,7 +44,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,353 | 2026-08-01 | 75 |
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,764 | 2026-08-01 | 73 |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,764 | 2026-08-01 | 74 |
 | [purescript/purescript](../repos/purescript/purescript.md) | ⭐ 8,914 | 2026-08-08 | 6 |
 | [elm/compiler](../repos/elm/compiler.md) | ⭐ 7,931 | 2026-08-09 | 6 |
 | [unisonweb/unison](../repos/unisonweb/unison.md) | ⭐ 6,773 | 2026-08-06 | 13 |
@@ -64,7 +61,7 @@
 | [nammayatri/nammayatri](../repos/nammayatri/nammayatri.md) | ⭐ 2,580 | 2026-08-03 | 15 |
 | [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 2,118 | 2026-08-01 | 61 |
 | [haskell-servant/servant](../repos/haskell-servant/servant.md) | ⭐ 1,967 | 2026-09-02 | 1 |
-| [haskell/cabal](../repos/haskell/cabal.md) | ⭐ 1,750 | 2026-08-01 | 34 |
+| [haskell/cabal](../repos/haskell/cabal.md) | ⭐ 1,750 | 2026-08-01 | 35 |
 | [IntersectMBO/plutus](../repos/IntersectMBO/plutus.md) | ⭐ 1,635 | 2026-08-05 | 2 |
 
 ---
@@ -74,11 +71,11 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 75 | ⭐ 40,353 | 2026-08-01 | 2026-11-16 |
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | 73 | ⭐ 27,764 | 2026-08-01 | 2026-11-17 |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | 74 | ⭐ 27,764 | 2026-08-01 | 2026-11-18 |
 | [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | 61 | ⭐ 2,118 | 2026-08-01 | 2026-11-16 |
 | [mtolly/onyx](../repos/mtolly/onyx.md) | 40 | ⭐ 312 | 2026-08-08 | 2026-11-16 |
 | [agda/agda](../repos/agda/agda.md) | 37 | ⭐ 2,975 | 2026-08-03 | 2026-11-15 |
-| [haskell/cabal](../repos/haskell/cabal.md) | 34 | ⭐ 1,750 | 2026-08-01 | 2026-11-17 |
+| [haskell/cabal](../repos/haskell/cabal.md) | 35 | ⭐ 1,750 | 2026-08-01 | 2026-11-18 |
 | [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | 34 | ⭐ 3,172 | 2026-08-01 | 2026-11-11 |
 | [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | 25 | ⭐ 2,966 | 2026-08-01 | 2026-11-06 |
 | [commercialhaskell/stack](../repos/commercialhaskell/stack.md) | 24 | ⭐ 4,084 | 2026-08-05 | 2026-11-17 |
@@ -129,4 +126,4 @@
 
 ---
 
-*Last updated: 2026-11-17T21:01:02.434Z*
+*Last updated: 2026-11-18T21:01:03.057Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Solidity |
 | **License** | MIT |
-| **Stars** | ⭐ 27,368 |
-| **Forks** | 🍴 12,415 |
-| **Trending Days** | 89 |
+| **Stars** | ⭐ 27,371 |
+| **Forks** | 🍴 12,412 |
+| **Trending Days** | 90 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 17, 2026 |
+| **Last Seen** | Nov 18, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 89
-- **Longest Streak**: 16 days
+- **Trending Days**: 90
+- **Longest Streak**: 17 days
 
 ---
 
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Average | Basic documentation available |
-| **Community** | Very Active | 27,368+ stars, strong contributor base |
+| **Community** | Very Active | 27,371+ stars, strong contributor base |
 | **Maturity** | Stable | Mature with proven track record |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-17T21:01:04.591Z*  
-*Data from 89 trending reports*
+*Last updated: 2026-11-18T21:01:05.795Z*  
+*Data from 90 trending reports*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 204
+- **Total Repositories**: 205
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-16
 
@@ -16,28 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 27,091 | 2026-08-02 | 11 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 33,432 | 2026-08-01 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 12,378 | 2026-08-04 | 19 |
+| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,787 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,786 | 2026-08-05 | 17 |
+| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 27,100 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TechnitiumSoftware/DnsServer](../repos/TechnitiumSoftware/DnsServer.md) | ⭐ 10,383 | 2026-08-12 | 13 |
+| [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) | ⭐ 7,349 | 2026-08-02 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [umbraco/Umbraco-CMS](../repos/umbraco/Umbraco-CMS.md) | ⭐ 5,286 | 2026-08-14 | 8 |
+| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 12,650 | 2026-08-04 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SakiRinn/LiveCaptions-Translator](../repos/SakiRinn/LiveCaptions-Translator.md) | ⭐ 4,091 | 2026-11-12 | 2 |
+| [MiniMax-AI/skills](../repos/MiniMax-AI/skills.md) | ⭐ 13,870 | 2026-08-05 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lay295/TwitchDownloader](../repos/lay295/TwitchDownloader.md) | ⭐ 4,072 | 2026-11-16 | 2 |
+| [LibreHardwareMonitor/LibreHardwareMonitor](../repos/LibreHardwareMonitor/LibreHardwareMonitor.md) | ⭐ 9,422 | 2026-08-09 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WalletWasabi/WalletWasabi](../repos/WalletWasabi/WalletWasabi.md) | ⭐ 2,636 | 2026-11-17 | 1 |
+| [STranslate/STranslate](../repos/STranslate/STranslate.md) | ⭐ 8,646 | 2026-09-08 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [lay295/TwitchDownloader](../repos/lay295/TwitchDownloader.md) | ⭐ 4,091 | 2026-11-16 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Unity-Technologies/unity-agent-plugin](../repos/Unity-Technologies/unity-agent-plugin.md) | ⭐ 657 | 2026-11-18 | 1 |
 
 
 ---
@@ -90,17 +96,17 @@
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 39,237 | 2026-08-03 | 18 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,524 | 2026-08-01 | 26 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 33,799 | 2026-08-02 | 44 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 33,352 | 2026-08-01 | 24 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 33,432 | 2026-08-01 | 25 |
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 32,177 | 2026-08-22 | 6 |
 | [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,082 | 2026-08-28 | 4 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
 | [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,786 | 2026-08-05 | 17 |
 | [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,572 | 2026-08-10 | 11 |
+| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 27,100 | 2026-08-01 | 14 |
 | [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 27,091 | 2026-08-02 | 11 |
-| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,954 | 2026-08-01 | 13 |
 | [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 25,767 | 2026-08-27 | 11 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,316 | 2026-08-04 | 5 |
-| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,765 | 2026-08-01 | 12 |
+| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,787 | 2026-08-01 | 13 |
 | [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,638 | 2026-08-01 | 14 |
 
 ---
@@ -115,8 +121,8 @@
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 27 | ⭐ 17,894 | 2026-08-02 | 2026-11-10 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 26 | ⭐ 38,524 | 2026-08-01 | 2026-11-14 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 26 | ⭐ 59,438 | 2026-08-02 | 2026-11-16 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 25 | ⭐ 33,432 | 2026-08-01 | 2026-11-18 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | 25 | ⭐ 56,176 | 2026-08-06 | 2026-11-14 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 24 | ⭐ 33,352 | 2026-08-01 | 2026-11-16 |
 | [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 24 | ⭐ 15,022 | 2026-08-01 | 2026-11-16 |
 | [dotnet/runtime](../repos/dotnet/runtime.md) | 24 | ⭐ 18,437 | 2026-08-04 | 2026-11-14 |
 
@@ -227,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-17T21:01:02.398Z*
+*Last updated: 2026-11-18T21:01:03.008Z*

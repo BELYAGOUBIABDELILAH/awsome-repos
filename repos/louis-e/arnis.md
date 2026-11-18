@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 17,871 |
-| **Forks** | 🍴 1,502 |
-| **Trending Days** | 5 |
+| **Stars** | ⭐ 18,710 |
+| **Forks** | 🍴 1,587 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 9, 2026 |
-| **Last Seen** | Sep 14, 2026 |
+| **Last Seen** | Nov 18, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Rust or maps*
+*Similar: Check repositories in Rust or minecraft*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 1 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`maps`](../../topics/maps.md) [`minecraft`](../../topics/minecraft.md) [`openstreetmap`](../../topics/openstreetmap.md) [`osm`](../../topics/osm.md) [`overpass-api`](../../topics/overpass-api.md) [`rust`](../../topics/rust.md) [`tauri`](../../topics/tauri.md) 
+[`minecraft`](../../topics/minecraft.md) [`minecraft-world-generator`](../../topics/minecraft-world-generator.md) [`openstreetmap`](../../topics/openstreetmap.md) [`osm`](../../topics/osm.md) [`overpass-turbo`](../../topics/overpass-turbo.md) [`procedural-generation`](../../topics/procedural-generation.md) [`rust`](../../topics/rust.md) [`tauri`](../../topics/tauri.md) 
 
 ### Curated Categories
-`Backend Development` `Systems Programming` `Automation` 
+`Systems Programming` `Automation` 
 
 ---
 
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 80&#x2F;100
+- **Trending Score**: 95&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-17T21:01:05.721Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-11-18T21:01:07.166Z*  
+*Data from 6 trending reports*

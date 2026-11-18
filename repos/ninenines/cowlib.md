@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Erlang |
 | **License** | ISC |
-| **Stars** | ⭐ 299 |
+| **Stars** | ⭐ 298 |
 | **Forks** | 🍴 199 |
-| **Trending Days** | 14 |
+| **Trending Days** | 15 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Nov 13, 2026 |
+| **Last Seen** | Nov 18, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 14
+- **Trending Days**: 15
 - **Longest Streak**: 6 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 299+ stars, strong contributor base |
+| **Community** | Very Active | 298+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-17T21:01:04.811Z*  
-*Data from 14 trending reports*
+*Last updated: 2026-11-18T21:01:06.073Z*  
+*Data from 15 trending reports*

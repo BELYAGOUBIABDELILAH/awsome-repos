@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 247
+- **Total Repositories**: 249
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-05
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 30,628 | 2026-08-01 | 18 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 122,230 | 2026-07-30 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 112,097 | 2026-08-05 | 30 |
+| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 92,198 | 2026-07-31 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) | ⭐ 22,801 | 2026-08-07 | 10 |
+| [malisper/pgrust](../repos/malisper/pgrust.md) | ⭐ 5,899 | 2026-08-08 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [malisper/pgrust](../repos/malisper/pgrust.md) | ⭐ 5,849 | 2026-08-08 | 5 |
+| [louis-e/arnis](../repos/louis-e/arnis.md) | ⭐ 18,710 | 2026-08-09 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rustfs/rustfs](../repos/rustfs/rustfs.md) | ⭐ 36,217 | 2026-08-09 | 12 |
+| [rustfs/rustfs](../repos/rustfs/rustfs.md) | ⭐ 36,252 | 2026-08-09 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA-NeMo/Switchyard](../repos/NVIDIA-NeMo/Switchyard.md) | ⭐ 3,629 | 2026-08-12 | 4 |
+| [Automattic/harper](../repos/Automattic/harper.md) | ⭐ 17,842 | 2026-08-10 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jlcodes99/cockpit-tools](../repos/jlcodes99/cockpit-tools.md) | ⭐ 20,079 | 2026-08-14 | 8 |
+| [screenpipe/screenpipe](../repos/screenpipe/screenpipe.md) | ⭐ 22,435 | 2026-08-10 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [leepokai/Codync](../repos/leepokai/Codync.md) | ⭐ 2,215 | 2026-10-19 | 4 |
+| [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 51,270 | 2026-08-12 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ShayanAbbas1/dbdelve](../repos/ShayanAbbas1/dbdelve.md) | ⭐ 1,546 | 2026-10-27 | 5 |
+| [leepokai/Codync](../repos/leepokai/Codync.md) | ⭐ 2,252 | 2026-10-19 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aimod-cc/Agent2API](../repos/aimod-cc/Agent2API.md) | ⭐ 2,462 | 2026-11-13 | 2 |
+| [ViceVerse-cz/Serein](../repos/ViceVerse-cz/Serein.md) | ⭐ 1,419 | 2026-11-09 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [smg-project/smg](../repos/smg-project/smg.md) | ⭐ 636 | 2026-10-19 | Engine-agnostic LLM gateway in Rust. Full OpenAI &amp; Anthropic API compatibility across vLLM, TRT-L... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [leepokai/Codync](../repos/leepokai/Codync.md) | ⭐ 2,215 | 2026-10-19 | Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Cod... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [fish-shell/fish-shell](../repos/fish-shell/fish-shell.md) | ⭐ 34,332 | 2026-10-19 | The user-friendly command line shell. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ModernRelay/omnigraph](../repos/ModernRelay/omnigraph.md) | ⭐ 2,819 | 2026-10-20 | Object-storage native graph database with branching and typed ontology |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jub0t/Concat](../repos/jub0t/Concat.md) | ⭐ 16,148 | 2026-10-29 | Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [hydro-project/infinity](../repos/hydro-project/infinity.md) | ⭐ 683 | 2026-10-29 | An agent runtime and tool protocol for principled agent concurrency |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [nearai/ironclaw](../repos/nearai/ironclaw.md) | ⭐ 12,689 | 2026-10-29 | IronClaw is an Agent OS focused on privacy, security and extensibility |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [vercel-labs/agent-desktop](../repos/vercel-labs/agent-desktop.md) | ⭐ 16,683 | 2026-11-02 | Computer use CLI for AI agents |
 
 
 ---
@@ -89,12 +89,12 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [openai/codex](../repos/openai/codex.md) | ⭐ 133,337 | 2026-08-01 | 19 |
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 122,055 | 2026-07-30 | 15 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 122,230 | 2026-07-30 | 16 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 112,097 | 2026-08-05 | 30 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,907 | 2026-07-30 | 5 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 104,032 | 2026-08-09 | 25 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 96,635 | 2026-08-11 | 10 |
-| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 92,022 | 2026-07-31 | 10 |
+| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 92,198 | 2026-07-31 | 11 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 67,032 | 2026-08-05 | 13 |
@@ -103,7 +103,7 @@
 | [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 64,099 | 2026-08-03 | 2 |
 | [rust-unofficial/awesome-rust](../repos/rust-unofficial/awesome-rust.md) | ⭐ 59,459 | 2026-09-03 | 3 |
 | [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 56,661 | 2026-08-19 | 8 |
-| [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 51,108 | 2026-08-12 | 7 |
+| [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 51,270 | 2026-08-12 | 8 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 50,290 | 2026-08-02 | 23 |
 | [herdrdev/herdr](../repos/herdrdev/herdr.md) | ⭐ 49,394 | 2026-11-03 | 2 |
 | [bevyengine/bevy](../repos/bevyengine/bevy.md) | ⭐ 48,449 | 2026-08-28 | 3 |
@@ -123,8 +123,8 @@
 | [openai/codex](../repos/openai/codex.md) | 19 | ⭐ 133,337 | 2026-08-01 | 2026-11-05 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 18 | ⭐ 30,628 | 2026-08-01 | 2026-11-17 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 17 | ⭐ 42,354 | 2026-08-10 | 2026-10-26 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | 16 | ⭐ 122,230 | 2026-07-30 | 2026-11-18 |
 | [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | 16 | ⭐ 12,999 | 2026-08-17 | 2026-10-23 |
-| [rust-lang/rust](../repos/rust-lang/rust.md) | 15 | ⭐ 122,055 | 2026-07-30 | 2026-11-16 |
 
 ---
 
@@ -217,7 +217,7 @@
 - [run-llama/liteparse](../repos/run-llama/liteparse.md) - A fast, helpful, and open-source document parser
 - [Automattic/harper](../repos/Automattic/harper.md) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [apache/datafusion](../repos/apache/datafusion.md) - Apache DataFusion SQL Query Engine
-- [screenpipe/screenpipe](../repos/screenpipe/screenpipe.md) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workf...
+- [screenpipe/screenpipe](../repos/screenpipe/screenpipe.md) - YC (S26) | Screenpipe finds the work worth automating | Continuously record computer work locally...
 - [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) - The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $1...
 - [mufeedvh/code2prompt](../repos/mufeedvh/code2prompt.md) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating,...
 - [macro-inc/macro](../repos/macro-inc/macro.md) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-link...
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-17T21:01:02.481Z*
+*Last updated: 2026-11-18T21:01:03.115Z*

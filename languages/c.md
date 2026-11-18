@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 239
+- **Total Repositories**: 238
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-16
 
@@ -16,31 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,777 | 2026-08-01 | 42 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 41,805 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 17,109 | 2026-08-06 | 30 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,809 | 2026-08-01 | 43 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 48,774 | 2026-08-07 | 27 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 79,696 | 2026-08-02 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [eclipse-mosquitto/mosquitto](../repos/eclipse-mosquitto/mosquitto.md) | ⭐ 11,462 | 2026-08-14 | 6 |
+| [redis/redis](../repos/redis/redis.md) | ⭐ 77,519 | 2026-08-04 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Cisco-Talos/clamav](../repos/Cisco-Talos/clamav.md) | ⭐ 7,653 | 2026-11-14 | 2 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 17,126 | 2026-08-06 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aircrack-ng/aircrack-ng](../repos/aircrack-ng/aircrack-ng.md) | ⭐ 7,928 | 2026-11-17 | 1 |
+| [pgvector/pgvector](../repos/pgvector/pgvector.md) | ⭐ 23,728 | 2026-08-12 | 12 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [OpenIPC/firmware](../repos/OpenIPC/firmware.md) | ⭐ 2,297 | 2026-08-16 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 80,953 | 2026-08-24 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Cisco-Talos/clamav](../repos/Cisco-Talos/clamav.md) | ⭐ 7,667 | 2026-11-14 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [V4bel/dirtyfrag](../repos/V4bel/dirtyfrag.md) | ⭐ 5,281 | 2026-10-19 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [c-ares/c-ares](../repos/c-ares/c-ares.md) | ⭐ 2,196 | 2026-10-21 | A C library for asynchronous DNS requests |
@@ -68,6 +74,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [openssh/openssh-portable](../repos/openssh/openssh-portable.md) | ⭐ 4,098 | 2026-11-06 | Portable OpenSSH |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [meta/zstd](../repos/meta/zstd.md) | ⭐ 28,197 | 2026-11-07 | Zstandard - Fast real-time compression algorithm |
 
 
 ---
@@ -78,14 +87,13 @@
 |------------|-------|------------|---------------|
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 154,980 | 2026-08-07 | 20 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 140,879 | 2026-08-01 | 26 |
-| [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 80,843 | 2026-08-24 | 5 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 79,589 | 2026-08-02 | 20 |
-| [redis/redis](../repos/redis/redis.md) | ⭐ 77,492 | 2026-08-04 | 13 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 75,752 | 2026-08-01 | 26 |
+| [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 80,953 | 2026-08-24 | 6 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 79,696 | 2026-08-02 | 21 |
+| [redis/redis](../repos/redis/redis.md) | ⭐ 77,519 | 2026-08-04 | 14 |
 | [git/git](../repos/git/git.md) | ⭐ 64,135 | 2026-08-05 | 10 |
 | [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 51,088 | 2026-09-01 | 26 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 48,774 | 2026-08-07 | 27 |
-| [php/php-src](../repos/php/php-src.md) | ⭐ 41,787 | 2026-08-01 | 13 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 41,805 | 2026-08-01 | 14 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 38,334 | 2026-08-08 | 5 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,982 | 2026-08-02 | 11 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,813 | 2026-08-04 | 10 |
@@ -96,6 +104,7 @@
 | [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,952 | 2026-08-02 | 9 |
 | [coolsnowwolf/lede](../repos/coolsnowwolf/lede.md) | ⭐ 31,611 | 2026-08-16 | 3 |
 | [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 29,209 | 2026-08-02 | 14 |
+| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 29,094 | 2026-08-09 | 15 |
 
 ---
 
@@ -103,23 +112,22 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 42 | ⭐ 17,777 | 2026-08-01 | 2026-11-17 |
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 30 | ⭐ 17,109 | 2026-08-06 | 2026-11-17 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 43 | ⭐ 17,809 | 2026-08-01 | 2026-11-18 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 31 | ⭐ 17,126 | 2026-08-06 | 2026-11-18 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 27 | ⭐ 48,774 | 2026-08-07 | 2026-11-17 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 26 | ⭐ 140,879 | 2026-08-01 | 2026-11-11 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 26 | ⭐ 75,752 | 2026-08-01 | 2026-10-28 |
 | [JustVugg/colibri](../repos/JustVugg/colibri.md) | 26 | ⭐ 51,088 | 2026-09-01 | 2026-11-14 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 21 | ⭐ 79,696 | 2026-08-02 | 2026-11-18 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 21 | ⭐ 28,089 | 2026-08-07 | 2026-10-23 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 20 | ⭐ 79,589 | 2026-08-02 | 2026-11-16 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 20 | ⭐ 154,980 | 2026-08-07 | 2026-11-16 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 19 | ⭐ 7,021 | 2026-08-04 | 2026-10-23 |
+| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | 17 | ⭐ 4,652 | 2026-08-04 | 2026-11-13 |
 
 ---
 
 ## 📋 All C Repositories
 
 - [microsoft/PowerToys](../repos/microsoft/PowerToys.md) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization ...
-- [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cur...
 - [libuv/libuv](../repos/libuv/libuv.md) - Cross-platform asynchronous I&#x2F;O
 - [DarkFlippers/unleashed-firmware](../repos/DarkFlippers/unleashed-firmware.md) - Flipper Zero Unleashed Firmware
 - [DaveGamble/cJSON](../repos/DaveGamble/cJSON.md) - Ultralightweight JSON parser in ANSI C
@@ -218,7 +226,8 @@
 - [nuta/operating-system-in-1000-lines](../repos/nuta/operating-system-in-1000-lines.md) - Writing an OS in 1,000 lines.
 - [superturtlee/gbl_root_canoe](../repos/superturtlee/gbl_root_canoe.md) - No TrickyStore on Canoe
 - [duixcom/Duix-Avatar](../repos/duixcom/Duix-Avatar.md) - 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital hu...
+- [microsoft/msquic](../repos/microsoft/msquic.md) - Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.
 
 ---
 
-*Last updated: 2026-11-17T21:01:02.394Z*
+*Last updated: 2026-11-18T21:01:03.004Z*

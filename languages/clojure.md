@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 18
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-17
+- **Last Updated**: 2026-11-18
 
 ---
 
@@ -16,19 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,385 | 2026-08-01 | 86 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,402 | 2026-08-01 | 87 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 82,210 | 2026-08-01 | 74 |
+| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 82,207 | 2026-08-01 | 75 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 62,474 | 2026-08-01 | 78 |
+| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 62,526 | 2026-08-01 | 79 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,632 | 2026-08-01 | 83 |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,651 | 2026-08-01 | 84 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jepsen-io/jepsen](../repos/jepsen-io/jepsen.md) | ⭐ 7,588 | 2026-11-04 | 4 |
+| [ObneyAI/grain](../repos/ObneyAI/grain.md) | ⭐ 172 | 2026-11-16 | 2 |
 
 
 ---
@@ -43,7 +43,7 @@
 | [jepsen-io/jepsen](../repos/jepsen-io/jepsen.md) | ⭐ 7,588 | 2026-11-04 | A framework for distributed systems verification, with fault injection |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ObneyAI/grain](../repos/ObneyAI/grain.md) | ⭐ 168 | 2026-11-16 | Build Reasonable Applications with Clojure in the World of Natural Language Programming |
+| [ObneyAI/grain](../repos/ObneyAI/grain.md) | ⭐ 172 | 2026-11-16 | Build Reasonable Applications with Clojure in the World of Natural Language Programming |
 
 
 ---
@@ -52,10 +52,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 82,210 | 2026-08-01 | 74 |
-| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 62,474 | 2026-08-01 | 78 |
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,385 | 2026-08-01 | 86 |
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,632 | 2026-08-01 | 83 |
+| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 82,207 | 2026-08-01 | 75 |
+| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 62,526 | 2026-08-01 | 79 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,402 | 2026-08-01 | 87 |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,651 | 2026-08-01 | 84 |
 | [clojure/clojurescript](../repos/clojure/clojurescript.md) | ⭐ 9,393 | 2026-09-07 | 1 |
 | [jepsen-io/jepsen](../repos/jepsen-io/jepsen.md) | ⭐ 7,588 | 2026-11-04 | 4 |
 | [babashka/babashka](../repos/babashka/babashka.md) | ⭐ 4,630 | 2026-10-27 | 2 |
@@ -68,7 +68,7 @@
 | [logseq/og](../repos/logseq/og.md) | ⭐ 328 | 2026-08-02 | 26 |
 | [cognitect-labs/test-runner](../repos/cognitect-labs/test-runner.md) | ⭐ 308 | 2026-08-01 | 12 |
 | [logseq/docs](../repos/logseq/docs.md) | ⭐ 205 | 2026-09-25 | 21 |
-| [ObneyAI/grain](../repos/ObneyAI/grain.md) | ⭐ 168 | 2026-11-16 | 1 |
+| [ObneyAI/grain](../repos/ObneyAI/grain.md) | ⭐ 172 | 2026-11-16 | 2 |
 | [miniforge-ai/miniforge](../repos/miniforge-ai/miniforge.md) | ⭐ 46 | 2026-10-01 | 2 |
 
 ---
@@ -77,10 +77,10 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [metabase/metabase](../repos/metabase/metabase.md) | 86 | ⭐ 50,385 | 2026-08-01 | 2026-11-17 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 83 | ⭐ 45,632 | 2026-08-01 | 2026-11-17 |
-| [penpot/penpot](../repos/penpot/penpot.md) | 78 | ⭐ 62,474 | 2026-08-01 | 2026-11-17 |
-| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | 74 | ⭐ 82,210 | 2026-08-01 | 2026-11-17 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 87 | ⭐ 50,402 | 2026-08-01 | 2026-11-18 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 84 | ⭐ 45,651 | 2026-08-01 | 2026-11-18 |
+| [penpot/penpot](../repos/penpot/penpot.md) | 79 | ⭐ 62,526 | 2026-08-01 | 2026-11-18 |
+| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | 75 | ⭐ 82,207 | 2026-08-01 | 2026-11-18 |
 | [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | 61 | ⭐ 4,106 | 2026-08-02 | 2026-11-15 |
 | [logseq/og](../repos/logseq/og.md) | 26 | ⭐ 328 | 2026-08-02 | 2026-10-12 |
 | [status-im/status-legacy](../repos/status-im/status-legacy.md) | 23 | ⭐ 4,023 | 2026-08-02 | 2026-11-12 |
@@ -113,4 +113,4 @@
 
 ---
 
-*Last updated: 2026-11-17T21:01:02.405Z*
+*Last updated: 2026-11-18T21:01:03.018Z*

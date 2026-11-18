@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | MIT |
-| **Stars** | ⭐ 33,709 |
-| **Forks** | 🍴 5,273 |
-| **Trending Days** | 17 |
+| **Stars** | ⭐ 34,548 |
+| **Forks** | 🍴 5,483 |
+| **Trending Days** | 18 |
 | **Peak Rank** | #8 |
 
 | **First Seen** | Aug 6, 2026 |
-| **Last Seen** | Nov 8, 2026 |
+| **Last Seen** | Nov 18, 2026 |
 
 
 ---
@@ -50,7 +50,7 @@
 ### Highlights
 
 - **Peak Rank**: #8
-- **Trending Days**: 17
+- **Trending Days**: 18
 - **Longest Streak**: 4 days
 
 ---
@@ -75,7 +75,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -94,5 +94,5 @@
 
 ---
 
-*Last updated: 2026-11-17T21:01:05.399Z*  
-*Data from 17 trending reports*
+*Last updated: 2026-11-18T21:01:06.804Z*  
+*Data from 18 trending reports*

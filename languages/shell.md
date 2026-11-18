@@ -16,31 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 96,266 | 2026-08-01 | 56 |
+| [HQarroum/docker-android](../repos/HQarroum/docker-android.md) | ⭐ 7,439 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | ⭐ 10,335 | 2026-08-03 | 16 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 96,145 | 2026-08-01 | 57 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openshift/release](../repos/openshift/release.md) | ⭐ 332 | 2026-08-04 | 9 |
+| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 2,263 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 4,182 | 2026-08-07 | 41 |
+| [openshift/release](../repos/openshift/release.md) | ⭐ 333 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [d3/d3](../repos/d3/d3.md) | ⭐ 113,950 | 2026-08-07 | 6 |
+| [nyldn/claude-octopus](../repos/nyldn/claude-octopus.md) | ⭐ 4,471 | 2026-08-06 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 22,434 | 2026-08-07 | 12 |
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,656 | 2026-08-20 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,651 | 2026-08-20 | 18 |
+| [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 5,548 | 2026-09-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CISOfy/lynis](../repos/CISOfy/lynis.md) | ⭐ 16,705 | 2026-08-24 | 3 |
+| [ONLYOFFICE/DocumentServer](../repos/ONLYOFFICE/DocumentServer.md) | ⭐ 7,140 | 2026-09-25 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [VIKINGYFY/OpenWRT-CI](../repos/VIKINGYFY/OpenWRT-CI.md) | ⭐ 1,197 | 2026-11-17 | 1 |
+| [itsnotkubrick/3X-UI_KIT](../repos/itsnotkubrick/3X-UI_KIT.md) | ⭐ 721 | 2026-10-15 | 5 |
 
 
 ---
@@ -87,7 +87,7 @@
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,950 | 2026-08-07 | 6 |
 | [papers-we-love/papers-we-love](../repos/papers-we-love/papers-we-love.md) | ⭐ 110,960 | 2026-10-27 | 1 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 96,266 | 2026-08-01 | 56 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 96,145 | 2026-08-01 | 57 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,756 | 2026-08-04 | 10 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,702 | 2026-08-06 | 15 |
@@ -112,11 +112,11 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 56 | ⭐ 96,266 | 2026-08-01 | 2026-11-17 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 57 | ⭐ 96,145 | 2026-08-01 | 2026-11-18 |
 | [expo/skills](../repos/expo/skills.md) | 41 | ⭐ 4,182 | 2026-08-07 | 2026-11-17 |
 | [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 27 | ⭐ 8,876 | 2026-08-12 | 2026-11-14 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
-| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | 18 | ⭐ 1,651 | 2026-08-20 | 2026-11-17 |
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | 19 | ⭐ 1,656 | 2026-08-20 | 2026-11-18 |
 | [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | 17 | ⭐ 11,015 | 2026-08-07 | 2026-11-10 |
 | [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | 17 | ⭐ 3,982 | 2026-08-19 | 2026-11-16 |
 | [omacom/omarchy](../repos/omacom/omarchy.md) | 17 | ⭐ 46,666 | 2026-08-29 | 2026-11-09 |
@@ -230,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-11-17T21:01:02.486Z*
+*Last updated: 2026-11-18T21:01:03.122Z*

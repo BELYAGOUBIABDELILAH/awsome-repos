@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 31,155 | 2026-08-01 | 50 |
+| [apache/apisix](../repos/apache/apisix.md) | ⭐ 17,339 | 2026-08-01 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/apisix](../repos/apache/apisix.md) | ⭐ 17,334 | 2026-08-01 | 26 |
+| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | ⭐ 305 | 2026-08-01 | 56 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,389 | 2026-08-01 | 38 |
+| [ntop/ntopng](../repos/ntop/ntopng.md) | ⭐ 8,359 | 2026-08-02 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | ⭐ 305 | 2026-08-01 | 55 |
+| [id577/FS25_AdvancedDamageSystem](../repos/id577/FS25_AdvancedDamageSystem.md) | ⭐ 327 | 2026-08-02 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RLS-Modding/rls_career_overhaul](../repos/RLS-Modding/rls_career_overhaul.md) | ⭐ 298 | 2026-08-01 | 22 |
+| [MeanderingProgrammer/render-markdown.nvim](../repos/MeanderingProgrammer/render-markdown.nvim.md) | ⭐ 5,261 | 2026-08-04 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [beyond-all-reason/Beyond-All-Reason](../repos/beyond-all-reason/Beyond-All-Reason.md) | ⭐ 4,354 | 2026-08-03 | 25 |
+| [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | ⭐ 8,223 | 2026-08-08 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,697 | 2026-08-04 | 43 |
+| [PathOfBuildingCommunity/PathOfBuilding](../repos/PathOfBuildingCommunity/PathOfBuilding.md) | ⭐ 5,527 | 2026-08-09 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [folke/lazy.nvim](../repos/folke/lazy.nvim.md) | ⭐ 21,734 | 2026-08-06 | 13 |
+| [CorsixTH/CorsixTH](../repos/CorsixTH/CorsixTH.md) | ⭐ 4,740 | 2026-08-10 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | ⭐ 8,224 | 2026-08-08 | 27 |
+| [PathOfBuildingCommunity/PathOfBuilding-PoE2](../repos/PathOfBuildingCommunity/PathOfBuilding-PoE2.md) | ⭐ 1,949 | 2026-08-20 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PathOfBuildingCommunity/PathOfBuilding](../repos/PathOfBuildingCommunity/PathOfBuilding.md) | ⭐ 5,526 | 2026-08-09 | 19 |
+| [FrSkyRC/ETHOS-Feedback-Community](../repos/FrSkyRC/ETHOS-Feedback-Community.md) | ⭐ 252 | 2026-08-20 | 20 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [SpartanJ/ecode](../repos/SpartanJ/ecode.md) | ⭐ 1,691 | 2026-10-19 | Lightweight multi-platform code editor designed for modern hardware with a focus on responsivenes... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [alpinelinux/docker-alpine](../repos/alpinelinux/docker-alpine.md) | ⭐ 1,308 | 2026-10-22 | Official Alpine Linux Docker image. Win at minimalism! |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [iho-ohi/TWCWG](../repos/iho-ohi/TWCWG.md) | ⭐ 21 | 2026-11-06 | Purpose of the repository is to facilitate easier and more efficient collaboration on TWCWG tasks... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [rusty-key/spoken-wow](../repos/rusty-key/spoken-wow.md) | ⭐ 95 | 2026-11-07 | Voiced quest dialogue, zone lore and in-world books for World of Warcraft Forever&#x2F;Classic — addon... |
 
 
 ---
@@ -99,14 +99,14 @@
 | [nvim-telescope/telescope.nvim](../repos/nvim-telescope/telescope.nvim.md) | ⭐ 19,853 | 2026-08-11 | 18 |
 | [LunarVim/LunarVim](../repos/LunarVim/LunarVim.md) | ⭐ 19,254 | 2026-10-23 | 1 |
 | [yetone/avante.nvim](../repos/yetone/avante.nvim.md) | ⭐ 18,120 | 2026-08-03 | 5 |
-| [apache/apisix](../repos/apache/apisix.md) | ⭐ 17,334 | 2026-08-01 | 26 |
+| [apache/apisix](../repos/apache/apisix.md) | ⭐ 17,339 | 2026-08-01 | 27 |
 | [xmake-io/xmake](../repos/xmake-io/xmake.md) | ⭐ 12,281 | 2026-08-04 | 17 |
 | [mason-org/mason.nvim](../repos/mason-org/mason.nvim.md) | ⭐ 10,533 | 2026-08-04 | 8 |
 | [nvim-mini/mini.nvim](../repos/nvim-mini/mini.nvim.md) | ⭐ 9,669 | 2026-08-26 | 17 |
 | [nvim-tree/nvim-tree.lua](../repos/nvim-tree/nvim-tree.lua.md) | ⭐ 8,666 | 2026-08-05 | 8 |
-| [ntop/ntopng](../repos/ntop/ntopng.md) | ⭐ 8,329 | 2026-08-02 | 15 |
+| [ntop/ntopng](../repos/ntop/ntopng.md) | ⭐ 8,359 | 2026-08-02 | 16 |
 | [folke/tokyonight.nvim](../repos/folke/tokyonight.nvim.md) | ⭐ 8,254 | 2026-08-05 | 5 |
-| [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | ⭐ 8,224 | 2026-08-08 | 27 |
+| [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | ⭐ 8,223 | 2026-08-08 | 28 |
 | [nvim-lualine/lualine.nvim](../repos/nvim-lualine/lualine.nvim.md) | ⭐ 8,125 | 2026-09-05 | 3 |
 
 ---
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | 55 | ⭐ 305 | 2026-08-01 | 2026-11-17 |
+| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | 56 | ⭐ 305 | 2026-08-01 | 2026-11-18 |
 | [koreader/koreader](../repos/koreader/koreader.md) | 50 | ⭐ 31,155 | 2026-08-01 | 2026-11-17 |
 | [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | 43 | ⭐ 31,697 | 2026-08-04 | 2026-11-17 |
 | [Kong/kong](../repos/Kong/kong.md) | 38 | ⭐ 44,389 | 2026-08-01 | 2026-11-17 |
 | [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | 34 | ⭐ 1,210 | 2026-08-01 | 2026-11-10 |
 | [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | 33 | ⭐ 27,836 | 2026-08-04 | 2026-11-10 |
 | [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | 29 | ⭐ 20,090 | 2026-08-03 | 2026-11-08 |
-| [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | 27 | ⭐ 8,224 | 2026-08-08 | 2026-11-17 |
-| [apache/apisix](../repos/apache/apisix.md) | 26 | ⭐ 17,334 | 2026-08-01 | 2026-11-17 |
-| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | 26 | ⭐ 5,130 | 2026-08-01 | 2026-11-13 |
+| [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | 28 | ⭐ 8,223 | 2026-08-08 | 2026-11-18 |
+| [apache/apisix](../repos/apache/apisix.md) | 27 | ⭐ 17,339 | 2026-08-01 | 2026-11-18 |
+| [id577/FS25_AdvancedDamageSystem](../repos/id577/FS25_AdvancedDamageSystem.md) | 27 | ⭐ 327 | 2026-08-02 | 2026-11-18 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-17T21:01:02.449Z*
+*Last updated: 2026-11-18T21:01:03.075Z*
