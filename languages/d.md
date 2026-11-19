@@ -8,14 +8,16 @@
 
 - **Total Repositories**: 2
 - **First Seen**: 2026-08-09
-- **Last Updated**: 2026-11-17
+- **Last Updated**: 2026-11-19
 
 ---
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Inochi2D/inochi2d](../repos/Inochi2D/inochi2d.md) | ⭐ 1,880 | 2026-11-14 | 4 |
 
-*No D repositories trending today*
 
 ---
 
@@ -23,7 +25,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Inochi2D/inochi2d](../repos/Inochi2D/inochi2d.md) | ⭐ 1,878 | 2026-11-14 | Inochi2D SDK - Bring your characters to life |
+| [Inochi2D/inochi2d](../repos/Inochi2D/inochi2d.md) | ⭐ 1,880 | 2026-11-14 | Inochi2D SDK - Bring your characters to life |
 
 
 ---
@@ -32,7 +34,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Inochi2D/inochi2d](../repos/Inochi2D/inochi2d.md) | ⭐ 1,878 | 2026-11-14 | 3 |
+| [Inochi2D/inochi2d](../repos/Inochi2D/inochi2d.md) | ⭐ 1,880 | 2026-11-14 | 4 |
 | [ldc-developers/ldc](../repos/ldc-developers/ldc.md) | ⭐ 1,384 | 2026-08-09 | 9 |
 
 ---
@@ -42,7 +44,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [ldc-developers/ldc](../repos/ldc-developers/ldc.md) | 9 | ⭐ 1,384 | 2026-08-09 | 2026-11-06 |
-| [Inochi2D/inochi2d](../repos/Inochi2D/inochi2d.md) | 3 | ⭐ 1,878 | 2026-11-14 | 2026-11-17 |
+| [Inochi2D/inochi2d](../repos/Inochi2D/inochi2d.md) | 4 | ⭐ 1,880 | 2026-11-14 | 2026-11-19 |
 
 ---
 
@@ -53,4 +55,4 @@
 
 ---
 
-*Last updated: 2026-11-18T21:01:03.029Z*
+*Last updated: 2026-11-19T21:00:52.865Z*

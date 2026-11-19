@@ -1,6 +1,6 @@
 # zhouxiaoka&#x2F;autoclip
 
-> AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具
+> AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping &amp; content repurposing.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;zhouxiaoka&#x2F;autoclip) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | MIT |
-| **Stars** | ⭐ 8,703 |
-| **Forks** | 🍴 1,608 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 11,145 |
+| **Forks** | 🍴 1,934 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #9 |
 
 | **First Seen** | Sep 20, 2026 |
-| **Last Seen** | Sep 22, 2026 |
+| **Last Seen** | Nov 19, 2026 |
 
 
 ---
@@ -37,18 +37,19 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Python or ai*
+*Similar: Check repositories in Python or ai-agent*
 
 ---
 
 ## Trending Timeline
 
 **Sep 21, 2026** — Rank #9 (+266 ⭐)  
+**Nov 19, 2026** — Rank #16 (+110 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #9
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 3 days
 
 ---
@@ -56,10 +57,10 @@
 ## Categories
 
 ### Topics
-[`ai`](../../topics/ai.md) [`ai-agents`](../../topics/ai-agents.md) [`ai-tools`](../../topics/ai-tools.md) [`ai-video`](../../topics/ai-video.md) [`ai-video-editor`](../../topics/ai-video-editor.md) [`auto`](../../topics/auto.md) [`auto-highlight`](../../topics/auto-highlight.md) [`highlight`](../../topics/highlight.md) [`llm`](../../topics/llm.md) [`video`](../../topics/video.md) [`video-editing`](../../topics/video-editing.md) [`video-processing`](../../topics/video-processing.md) [`videos`](../../topics/videos.md) 
+[`ai-agent`](../../topics/ai-agent.md) [`ai-video-editor`](../../topics/ai-video-editor.md) [`content-repurposing`](../../topics/content-repurposing.md) [`desktop-app`](../../topics/desktop-app.md) [`douyin`](../../topics/douyin.md) [`instagram-reels`](../../topics/instagram-reels.md) [`mcp`](../../topics/mcp.md) [`open-source`](../../topics/open-source.md) [`podcast`](../../topics/podcast.md) [`subtitles`](../../topics/subtitles.md) [`tiktok`](../../topics/tiktok.md) [`video-clipping`](../../topics/video-clipping.md) [`video-editing-software`](../../topics/video-editing-software.md) [`xiaohongshu`](../../topics/xiaohongshu.md) [`youtube-shorts`](../../topics/youtube-shorts.md) 
 
 ### Curated Categories
-`Artificial Intelligence` `Large Language Models` `Systems Programming` `Developer Tools` 
+`Artificial Intelligence` `Systems Programming` `Developer Tools` 
 
 ---
 
@@ -70,10 +71,10 @@
 | Aspect | Rating | Details |
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
-| **Documentation** | Limited | May require reading source code |
-| **Community** | Small | Niche but dedicated community |
+| **Documentation** | Average | Basic documentation available |
+| **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -86,11 +87,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 60&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: Top 10 (Peak: #9)
 
 
 ---
 
-*Last updated: 2026-11-18T21:01:08.953Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-11-19T21:00:57.622Z*  
+*Data from 4 trending reports*

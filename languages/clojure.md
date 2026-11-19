@@ -16,19 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,402 | 2026-08-01 | 87 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,434 | 2026-08-01 | 88 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 82,207 | 2026-08-01 | 75 |
+| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 62,555 | 2026-08-01 | 80 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 62,526 | 2026-08-01 | 79 |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,668 | 2026-08-01 | 85 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,651 | 2026-08-01 | 84 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ObneyAI/grain](../repos/ObneyAI/grain.md) | ⭐ 172 | 2026-11-16 | 2 |
+| [jepsen-io/jepsen](../repos/jepsen-io/jepsen.md) | ⭐ 7,597 | 2026-11-04 | 5 |
 
 
 ---
@@ -40,7 +37,7 @@
 | [babashka/babashka](../repos/babashka/babashka.md) | ⭐ 4,630 | 2026-10-27 | Native, fast starting Clojure interpreter for scripting |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [jepsen-io/jepsen](../repos/jepsen-io/jepsen.md) | ⭐ 7,588 | 2026-11-04 | A framework for distributed systems verification, with fault injection |
+| [jepsen-io/jepsen](../repos/jepsen-io/jepsen.md) | ⭐ 7,597 | 2026-11-04 | A framework for distributed systems verification, with fault injection |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ObneyAI/grain](../repos/ObneyAI/grain.md) | ⭐ 172 | 2026-11-16 | Build Reasonable Applications with Clojure in the World of Natural Language Programming |
@@ -53,11 +50,11 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 82,207 | 2026-08-01 | 75 |
-| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 62,526 | 2026-08-01 | 79 |
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,402 | 2026-08-01 | 87 |
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,651 | 2026-08-01 | 84 |
+| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 62,555 | 2026-08-01 | 80 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,434 | 2026-08-01 | 88 |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,668 | 2026-08-01 | 85 |
 | [clojure/clojurescript](../repos/clojure/clojurescript.md) | ⭐ 9,393 | 2026-09-07 | 1 |
-| [jepsen-io/jepsen](../repos/jepsen-io/jepsen.md) | ⭐ 7,588 | 2026-11-04 | 4 |
+| [jepsen-io/jepsen](../repos/jepsen-io/jepsen.md) | ⭐ 7,597 | 2026-11-04 | 5 |
 | [babashka/babashka](../repos/babashka/babashka.md) | ⭐ 4,630 | 2026-10-27 | 2 |
 | [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | ⭐ 4,106 | 2026-08-02 | 61 |
 | [status-im/status-legacy](../repos/status-im/status-legacy.md) | ⭐ 4,023 | 2026-08-02 | 23 |
@@ -77,9 +74,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [metabase/metabase](../repos/metabase/metabase.md) | 87 | ⭐ 50,402 | 2026-08-01 | 2026-11-18 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 84 | ⭐ 45,651 | 2026-08-01 | 2026-11-18 |
-| [penpot/penpot](../repos/penpot/penpot.md) | 79 | ⭐ 62,526 | 2026-08-01 | 2026-11-18 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 88 | ⭐ 50,434 | 2026-08-01 | 2026-11-19 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 85 | ⭐ 45,668 | 2026-08-01 | 2026-11-19 |
+| [penpot/penpot](../repos/penpot/penpot.md) | 80 | ⭐ 62,555 | 2026-08-01 | 2026-11-19 |
 | [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | 75 | ⭐ 82,207 | 2026-08-01 | 2026-11-18 |
 | [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | 61 | ⭐ 4,106 | 2026-08-02 | 2026-11-15 |
 | [logseq/og](../repos/logseq/og.md) | 26 | ⭐ 328 | 2026-08-02 | 2026-10-12 |
@@ -113,4 +110,4 @@
 
 ---
 
-*Last updated: 2026-11-18T21:01:03.018Z*
+*Last updated: 2026-11-19T21:00:52.858Z*

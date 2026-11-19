@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 739 | 2026-08-01 | 69 |
+| [StructuralEquationModels/StructuralEquationModels.jl](../repos/StructuralEquationModels/StructuralEquationModels.jl.md) | ⭐ 56 | 2026-11-09 | 5 |
 
 
 ---
@@ -31,7 +31,7 @@
 | [FluxML/Flux.jl](../repos/FluxML/Flux.jl.md) | ⭐ 4,755 | 2026-10-29 | Relax! Flux is the ML library that doesn&#39;t make you tensor |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [StructuralEquationModels/StructuralEquationModels.jl](../repos/StructuralEquationModels/StructuralEquationModels.jl.md) | ⭐ 55 | 2026-11-09 | A fast and flexible Structural Equation Modelling Framework |
+| [StructuralEquationModels/StructuralEquationModels.jl](../repos/StructuralEquationModels/StructuralEquationModels.jl.md) | ⭐ 56 | 2026-11-09 | A fast and flexible Structural Equation Modelling Framework |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [FourierFlows/FourierFlows.jl](../repos/FourierFlows/FourierFlows.jl.md) | ⭐ 219 | 2026-11-11 | Tools for building fast, hackable, pseudospectral partial differential equation solvers on period... |
@@ -80,8 +80,8 @@
 | [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | 12 | ⭐ 117 | 2026-08-01 | 2026-09-12 |
 | [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | 8 | ⭐ 73 | 2026-08-01 | 2026-08-12 |
 | [SciFracX/FractionalCalculus.jl](../repos/SciFracX/FractionalCalculus.jl.md) | 6 | ⭐ 44 | 2026-11-12 | 2026-11-17 |
+| [StructuralEquationModels/StructuralEquationModels.jl](../repos/StructuralEquationModels/StructuralEquationModels.jl.md) | 5 | ⭐ 56 | 2026-11-09 | 2026-11-19 |
 | [JuliaGPU/KernelAbstractions.jl](../repos/JuliaGPU/KernelAbstractions.jl.md) | 4 | ⭐ 529 | 2026-10-11 | 2026-10-14 |
-| [StructuralEquationModels/StructuralEquationModels.jl](../repos/StructuralEquationModels/StructuralEquationModels.jl.md) | 4 | ⭐ 55 | 2026-11-09 | 2026-11-12 |
 | [trixi-framework/Trixi.jl](../repos/trixi-framework/Trixi.jl.md) | 3 | ⭐ 736 | 2026-08-07 | 2026-10-16 |
 
 ---
@@ -117,4 +117,4 @@
 
 ---
 
-*Last updated: 2026-11-18T21:01:03.066Z*
+*Last updated: 2026-11-19T21:00:52.894Z*

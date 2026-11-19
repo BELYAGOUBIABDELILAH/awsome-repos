@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 354
+- **Total Repositories**: 359
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-03
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/whisper](../repos/openai/whisper.md) | ⭐ 113,019 | 2026-07-31 | 9 |
+| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 70,715 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 169,239 | 2026-07-31 | 12 |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 150,680 | 2026-08-14 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 69,894 | 2026-08-01 | 13 |
+| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 60,461 | 2026-08-15 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-code-security-review](../repos/anthropics/claude-code-security-review.md) | ⭐ 7,003 | 2026-08-08 | 2 |
+| [Tracer-Cloud/opensre](../repos/Tracer-Cloud/opensre.md) | ⭐ 13,059 | 2026-08-24 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 59,622 | 2026-08-15 | 14 |
+| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 42,173 | 2026-08-29 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bojieli/ai-agent-book](../repos/bojieli/ai-agent-book.md) | ⭐ 58,696 | 2026-08-19 | 4 |
+| [Imbad0202/academic-research-skills](../repos/Imbad0202/academic-research-skills.md) | ⭐ 57,752 | 2026-09-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [home-assistant/core](../repos/home-assistant/core.md) | ⭐ 92,336 | 2026-08-27 | 6 |
+| [jingyaogong/minimind](../repos/jingyaogong/minimind.md) | ⭐ 66,793 | 2026-09-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 41,948 | 2026-08-29 | 10 |
+| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 196,996 | 2026-09-07 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jingyaogong/minimind](../repos/jingyaogong/minimind.md) | ⭐ 66,480 | 2026-09-01 | 6 |
+| [zhouxiaoka/autoclip](../repos/zhouxiaoka/autoclip.md) | ⭐ 11,145 | 2026-09-20 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [XiaoYouChR/Ghost-Downloader-3](../repos/XiaoYouChR/Ghost-Downloader-3.md) | ⭐ 12,108 | 2026-10-11 | 5 |
+| [superdesigndev/treg](../repos/superdesigndev/treg.md) | ⭐ 8,525 | 2026-09-22 | 9 |
 
 
 ---
@@ -95,12 +95,12 @@
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 243,012 | 2026-08-01 | 17 |
 | [TheAlgorithms/Python](../repos/TheAlgorithms/Python.md) | ⭐ 226,056 | 2026-11-12 | 1 |
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 198,857 | 2026-08-02 | 8 |
+| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 196,996 | 2026-09-07 | 4 |
 | [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 193,049 | 2026-08-11 | 13 |
-| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 189,013 | 2026-09-07 | 3 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,775 | 2026-08-06 | 9 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 169,239 | 2026-07-31 | 12 |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 150,680 | 2026-08-14 | 14 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 149,584 | 2026-08-03 | 12 |
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 147,818 | 2026-08-14 | 13 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 143,038 | 2026-08-04 | 8 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 141,991 | 2026-08-05 | 13 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 139,731 | 2026-08-01 | 19 |
@@ -124,7 +124,7 @@
 | [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 17 | ⭐ 65,960 | 2026-08-22 | 2026-10-14 |
 | [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 16 | ⭐ 52,636 | 2026-08-03 | 2026-10-18 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | 16 | ⭐ 117,829 | 2026-08-08 | 2026-10-28 |
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 14 | ⭐ 104,830 | 2026-08-01 | 2026-10-27 |
+| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | 15 | ⭐ 60,461 | 2026-08-15 | 2026-11-19 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-18T21:01:03.103Z*
+*Last updated: 2026-11-19T21:00:52.923Z*

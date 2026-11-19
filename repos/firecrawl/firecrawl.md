@@ -1,6 +1,6 @@
 # firecrawl&#x2F;firecrawl
 
-> Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
+> Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;firecrawl&#x2F;firecrawl) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 195,293 |
-| **Forks** | 🍴 10,305 |
-| **Trending Days** | 8 |
-| **Peak Rank** | #10 |
+| **Stars** | ⭐ 204,044 |
+| **Forks** | 🍴 10,694 |
+| **Trending Days** | 9 |
+| **Peak Rank** | #6 |
 
 | **First Seen** | Aug 7, 2026 |
-| **Last Seen** | Oct 25, 2026 |
+| **Last Seen** | Nov 19, 2026 |
 
 
 ---
@@ -44,11 +44,12 @@
 ## Trending Timeline
 
 **Aug 10, 2026** — Rank #10 (+815 ⭐)  
+**Nov 19, 2026** — Rank #6 (+795 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #10
-- **Trending Days**: 8
+- **Peak Rank**: #6
+- **Trending Days**: 9
 - **Longest Streak**: 3 days
 
 ---
@@ -71,9 +72,9 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 195,293+ stars, strong contributor base |
+| **Community** | Very Active | 204,044+ stars, strong contributor base |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
@@ -87,10 +88,10 @@
 #### Metrics
 - **Hidden Gem**: ✗ No
 - **Trending Score**: 100&#x2F;100
-- **Historical Rank**: Top 10 (Peak: #10)
+- **Historical Rank**: Top 10 (Peak: #6)
 
 
 ---
 
-*Last updated: 2026-11-18T21:01:06.920Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-11-19T21:00:55.920Z*  
+*Data from 9 trending reports*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 331
+- **Total Repositories**: 335
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-07
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 17,157 | 2026-08-01 | 26 |
+| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 17,517 | 2026-08-01 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 65,124 | 2026-08-01 | 20 |
+| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,401 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,199 | 2026-08-01 | 5 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 78,117 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 77,981 | 2026-08-01 | 27 |
+| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 204,044 | 2026-08-07 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 91,632 | 2026-08-02 | 2 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 122,917 | 2026-08-07 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [angular/angular](../repos/angular/angular.md) | ⭐ 101,442 | 2026-08-04 | 9 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 4,193 | 2026-08-07 | 42 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dream-num/univer](../repos/dream-num/univer.md) | ⭐ 29,865 | 2026-08-05 | 13 |
+| [twentyhq/twenty](../repos/twentyhq/twenty.md) | ⭐ 61,215 | 2026-08-12 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 211,009 | 2026-08-11 | 9 |
+| [google-labs-code/stitch-skills](../repos/google-labs-code/stitch-skills.md) | ⭐ 10,667 | 2026-08-22 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-labs-code/stitch-skills](../repos/google-labs-code/stitch-skills.md) | ⭐ 10,369 | 2026-08-22 | 12 |
+| [mastra-ai/mastra](../repos/mastra-ai/mastra.md) | ⭐ 29,660 | 2026-08-25 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [backnotprop/plannotator](../repos/backnotprop/plannotator.md) | ⭐ 13,399 | 2026-08-26 | 14 |
+| [tianma-if/edgeever](../repos/tianma-if/edgeever.md) | ⭐ 3,436 | 2026-08-27 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [emdash-cms/emdash](../repos/emdash-cms/emdash.md) | ⭐ 13,825 | 2026-10-20 | EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [PC2005-cloud/dsh-pet](../repos/PC2005-cloud/dsh-pet.md) | ⭐ 3,057 | 2026-10-20 | DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [genspark-ai/genoffice](../repos/genspark-ai/genoffice.md) | ⭐ 10,649 | 2026-10-22 | Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a bu... |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [anthropics/sandbox-runtime](../repos/anthropics/sandbox-runtime.md) | ⭐ 6,592 | 2026-10-25 | A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary proc... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mantrakp04/ardia](../repos/mantrakp04/ardia.md) | ⭐ 1,637 | 2026-10-25 | A free Chromium browser for the Mac: Arc&#39;s sidebar, Dia&#39;s polish. Chat on Discord: discord.gg&#x2F;Tdh... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [MoonshotAI/kimi-code](../repos/MoonshotAI/kimi-code.md) | ⭐ 8,013 | 2026-10-25 | Kimi Code CLI  —  The Starting Point for Next-Gen Agents |
 
 
 ---
@@ -91,7 +91,7 @@
 | [morluto/rea](../repos/morluto/rea.md) | ⭐ 440,692 | 2026-10-06 | 11 |
 | [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 212,590 | 2026-08-04 | 2 |
 | [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 211,009 | 2026-08-11 | 9 |
-| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 195,293 | 2026-08-07 | 8 |
+| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 204,044 | 2026-08-07 | 9 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 195,138 | 2026-07-30 | 9 |
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 158,228 | 2026-09-01 | 4 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 154,905 | 2026-08-07 | 21 |
@@ -99,8 +99,8 @@
 | [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 140,636 | 2026-08-02 | 19 |
 | [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 127,723 | 2026-08-11 | 26 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | 2026-07-31 | 3 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 122,917 | 2026-08-07 | 13 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 118,331 | 2026-08-17 | 5 |
-| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 116,129 | 2026-08-07 | 12 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 110,330 | 2026-08-02 | 11 |
 | [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 108,379 | 2026-08-23 | 2 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 101,442 | 2026-08-04 | 9 |
@@ -115,8 +115,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 27 | ⭐ 77,981 | 2026-08-01 | 2026-11-18 |
-| [cursor/plugins](../repos/cursor/plugins.md) | 26 | ⭐ 17,157 | 2026-08-01 | 2026-11-18 |
+| [expo/skills](../repos/expo/skills.md) | 42 | ⭐ 4,193 | 2026-08-07 | 2026-11-19 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 28 | ⭐ 78,117 | 2026-08-01 | 2026-11-19 |
+| [cursor/plugins](../repos/cursor/plugins.md) | 27 | ⭐ 17,517 | 2026-08-01 | 2026-11-19 |
 | [stablyai/orca](../repos/stablyai/orca.md) | 26 | ⭐ 127,723 | 2026-08-11 | 2026-11-17 |
 | [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 23 | ⭐ 74,642 | 2026-08-08 | 2026-10-28 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 22 | ⭐ 54,008 | 2026-08-07 | 2026-11-17 |
@@ -124,7 +125,6 @@
 | [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 20 | ⭐ 58,009 | 2026-08-01 | 2026-11-17 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 20 | ⭐ 65,124 | 2026-08-01 | 2026-11-18 |
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 20 | ⭐ 78,178 | 2026-08-10 | 2026-10-21 |
-| [garrytan/gstack](../repos/garrytan/gstack.md) | 19 | ⭐ 140,636 | 2026-08-02 | 2026-11-07 |
 
 ---
 
@@ -191,10 +191,11 @@
 - [open-mercato/open-mercato](../repos/open-mercato/open-mercato.md) - AI-Engineering Foundation Framework built with AI and designed for AI. Hundreds of architectural ...
 - [payloadcms/payload](../repos/payloadcms/payload.md) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. ...
 - [CodebuffAI/freebuff](../repos/CodebuffAI/freebuff.md) - The free coding agent
-- [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) - Supercharge your AI agents with data from the web and beyond. Building the library for superintel...
+- [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) - Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers thro...
 - [CopilotKit/CopilotKit](../repos/CopilotKit/CopilotKit.md) - The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more.  Makers o...
 - [earendil-works/pi](../repos/earendil-works/pi.md) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [deepcoldy/botmux](../repos/deepcoldy/botmux.md) - Bridge Feishu&#x2F;Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or t...
+- [expo/skills](../repos/expo/skills.md) - A collection of AI agent skills for working with Expo projects and Expo Application Services
 - [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) - Write HTML. Render video. Built for agents.
 - [remnawave/panel](../repos/remnawave/panel.md) - A powerful proxy management tool, built on top of Xray-core, with a focus on simplicity and ease ...
 - [jordanrendric/claude-video-vision](../repos/jordanrendric/claude-video-vision.md) - Give Claude the ability to watch and understand videos — Claude Code plugin with frame extraction...
@@ -229,8 +230,7 @@
 - [Jakubantalik/Libraries](../repos/Jakubantalik/Libraries.md) - Collection of effects for React: Border beam, Liquid Gooey
 - [every-app/open-seo](../repos/every-app/open-seo.md) - Open source alternative to Semrush and Ahrefs
 - [documenso/documenso](../repos/documenso/documenso.md) - The Open Source DocuSign Alternative.
-- [vercel-labs/deepsec](../repos/vercel-labs/deepsec.md) - Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
 
 ---
 
-*Last updated: 2026-11-18T21:01:03.132Z*
+*Last updated: 2026-11-19T21:00:52.946Z*

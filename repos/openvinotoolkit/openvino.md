@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C++ |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 11,300 |
-| **Forks** | 🍴 3,601 |
-| **Trending Days** | 9 |
-| **Peak Rank** | #14 |
+| **Stars** | ⭐ 11,532 |
+| **Forks** | 🍴 3,619 |
+| **Trending Days** | 10 |
+| **Peak Rank** | #8 |
 
 | **First Seen** | Aug 7, 2026 |
-| **Last Seen** | Nov 18, 2026 |
+| **Last Seen** | Nov 19, 2026 |
 
 
 ---
@@ -44,11 +44,12 @@
 ## Trending Timeline
 
 **Nov 18, 2026** — Rank #14 (+18 ⭐)  
+**Nov 19, 2026** — Rank #8 (+246 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #14
-- **Trending Days**: 9
+- **Peak Rank**: #8
+- **Trending Days**: 10
 - **Longest Streak**: 3 days
 
 ---
@@ -71,7 +72,7 @@
 |--------|--------|---------|
 | **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Average | Basic documentation available |
-| **Community** | Very Active | 11,300+ stars, strong contributor base |
+| **Community** | Very Active | 11,532+ stars, strong contributor base |
 | **Maturity** | Stable | Mature with proven track record |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
@@ -87,10 +88,10 @@
 #### Metrics
 - **Hidden Gem**: ✓ Yes
 - **Trending Score**: 100&#x2F;100
-- **Historical Rank**: Peak: #14
+- **Historical Rank**: Top 10 (Peak: #8)
 
 
 ---
 
-*Last updated: 2026-11-18T21:01:06.951Z*  
-*Data from 9 trending reports*
+*Last updated: 2026-11-19T21:00:55.945Z*  
+*Data from 10 trending reports*

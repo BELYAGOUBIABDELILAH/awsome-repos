@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 2975
+- **Total Repositories**: 2995
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-02
-- **Average Stars**: 15733
+- **Average Stars**: 15693
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,616 | C++ |  |
+| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 70,715 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 122,230 | Rust |  |
+| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,401 | TypeScript |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,756 | JavaScript |  |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 30,924 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 169,239 | Python |  |
+| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,482 | Java |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 92,198 | Rust |  |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 14,038 | Java |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 69,894 | Python |  |
+| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,778 | C++ |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 65,124 | TypeScript |  |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 33,459 | C# |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,199 | TypeScript |  |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,686 | C# |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 52,173 | Go |  |
+| [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 15,205 | PHP |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 39,511 | Go |  |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 22,033 | PHP |  |
 
 
 ---
@@ -85,7 +85,7 @@
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 92,198 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 69,894 | Python | 3 |
+| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 70,715 | Python | 4 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 70,623 | JavaScript | 1 |
@@ -105,38 +105,42 @@
 
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [emdash-cms/emdash](../repos/emdash-cms/emdash.md) | ⭐ 13,825 | TypeScript | 2026-10-20 |
+| [NomaDamas/CozyClay](../repos/NomaDamas/CozyClay.md) | ⭐ 886 | JavaScript | 2026-10-21 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [ModernRelay/omnigraph](../repos/ModernRelay/omnigraph.md) | ⭐ 2,819 | Rust | 2026-10-20 |
+| [xmanrui/dsh-im](../repos/xmanrui/dsh-im.md) | ⭐ 2,615 | JavaScript | 2026-10-21 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [Jamailar/Beav](../repos/Jamailar/Beav.md) | ⭐ 2,089 | Rust | 2026-10-20 |
+| [trymirai/uzu](../repos/trymirai/uzu.md) | ⭐ 3,333 | Rust | 2026-10-21 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [goharbor/harbor](../repos/goharbor/harbor.md) | ⭐ 29,577 | Go | 2026-10-20 |
+| [Asymptote-Labs/agent-beacon](../repos/Asymptote-Labs/agent-beacon.md) | ⭐ 2,698 | Go | 2026-10-21 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [istio/istio](../repos/istio/istio.md) | ⭐ 38,492 | Go | 2026-10-20 |
+| [DataDog/dd-trace-go](../repos/DataDog/dd-trace-go.md) | ⭐ 861 | Go | 2026-10-21 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [zufuliu/notepad4](../repos/zufuliu/notepad4.md) | ⭐ 5,054 | C++ | 2026-10-20 |
+| [c-ares/c-ares](../repos/c-ares/c-ares.md) | ⭐ 2,196 | C | 2026-10-21 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [guzzle/guzzle](../repos/guzzle/guzzle.md) | ⭐ 23,445 | PHP | 2026-10-20 |
+| [jez500/pricebuddy](../repos/jez500/pricebuddy.md) | ⭐ 1,520 | PHP | 2026-10-21 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [lycorp-jp/sim-use](../repos/lycorp-jp/sim-use.md) | ⭐ 1,469 | Swift | 2026-10-20 |
+| [auscaster/frantic-board](../repos/auscaster/frantic-board.md) | ⭐ 642 | Shell | 2026-10-21 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [slick/slick](../repos/slick/slick.md) | ⭐ 2,666 | Scala | 2026-10-20 |
+| [Meloong-Git/PCL](../repos/Meloong-Git/PCL.md) | ⭐ 8,657 | Visual Basic .NET | 2026-10-22 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [UdashFramework/udash-core](../repos/UdashFramework/udash-core.md) | ⭐ 452 | Scala | 2026-10-20 |
+| [onyx-dot-app/onyx](../repos/onyx-dot-app/onyx.md) | ⭐ 32,925 | Python | 2026-10-22 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-11-19](../archive/2026/11/2026-11-19.md)
+- 232 repositories trending
+- Top: ossu&#x2F;computer-science
 
 ### [2026-11-18](../archive/2026/11/2026-11-18.md)
 - 219 repositories trending
@@ -162,10 +166,6 @@
 - 180 repositories trending
 - Top: Genymobile&#x2F;scrcpy
 
-### [2026-11-12](../archive/2026/11/2026-11-12.md)
-- 201 repositories trending
-- Top: react&#x2F;react
-
 
 ---
 
@@ -175,27 +175,27 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 90 days | 2026-08-01 | 2026-11-18 |
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 90 days | 2026-08-01 | 2026-11-18 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 87 days | 2026-08-01 | 2026-11-18 |
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 87 days | 2026-08-01 | 2026-11-18 |
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 86 days | 2026-08-01 | 2026-11-18 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 84 days | 2026-08-01 | 2026-11-18 |
-| [vlang/v](../repos/vlang/v.md) | 83 days | 2026-08-01 | 2026-11-17 |
-| [penpot/penpot](../repos/penpot/penpot.md) | 79 days | 2026-08-01 | 2026-11-18 |
-| [emqx/emqx](../repos/emqx/emqx.md) | 77 days | 2026-08-01 | 2026-11-18 |
-| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 77 days | 2026-08-02 | 2026-11-18 |
+| [apache/spark](../repos/apache/spark.md) | 91 days | 2026-08-01 | 2026-11-19 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 91 days | 2026-08-01 | 2026-11-19 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 88 days | 2026-08-01 | 2026-11-19 |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 88 days | 2026-08-01 | 2026-11-19 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 87 days | 2026-08-01 | 2026-11-19 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 85 days | 2026-08-01 | 2026-11-19 |
+| [vlang/v](../repos/vlang/v.md) | 84 days | 2026-08-01 | 2026-11-19 |
+| [penpot/penpot](../repos/penpot/penpot.md) | 80 days | 2026-08-01 | 2026-11-19 |
+| [emqx/emqx](../repos/emqx/emqx.md) | 78 days | 2026-08-01 | 2026-11-19 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 78 days | 2026-08-02 | 2026-11-19 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Go**: 284 repositories (10%)
-- **Python**: 236 repositories (8%)
-- **TypeScript**: 229 repositories (8%)
+- **Go**: 285 repositories (10%)
+- **Python**: 239 repositories (8%)
+- **TypeScript**: 232 repositories (8%)
 - **C++**: 208 repositories (7%)
-- **Rust**: 191 repositories (6%)
+- **Rust**: 192 repositories (6%)
 
 ### Trending Frequency
 - **Daily Average**: 229.4 repositories
@@ -314,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-11-18T21:01:02.818Z*
+*Last updated: 2026-11-19T21:00:52.695Z*

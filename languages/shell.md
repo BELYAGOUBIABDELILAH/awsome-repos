@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 158
+- **Total Repositories**: 159
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-17
 
@@ -16,31 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HQarroum/docker-android](../repos/HQarroum/docker-android.md) | ⭐ 7,439 | 2026-08-01 | 2 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 96,252 | 2026-08-01 | 58 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 96,145 | 2026-08-01 | 57 |
+| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 2,273 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 2,263 | 2026-08-01 | 15 |
+| [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,973 | 2026-08-04 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openshift/release](../repos/openshift/release.md) | ⭐ 333 | 2026-08-04 | 10 |
+| [cloudflare/skills](../repos/cloudflare/skills.md) | ⭐ 3,406 | 2026-08-05 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nyldn/claude-octopus](../repos/nyldn/claude-octopus.md) | ⭐ 4,471 | 2026-08-06 | 9 |
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,658 | 2026-08-20 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,656 | 2026-08-20 | 19 |
+| [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,902 | 2026-09-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 5,548 | 2026-09-01 | 16 |
+| [itsnotkubrick/3X-UI_KIT](../repos/itsnotkubrick/3X-UI_KIT.md) | ⭐ 730 | 2026-10-15 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ONLYOFFICE/DocumentServer](../repos/ONLYOFFICE/DocumentServer.md) | ⭐ 7,140 | 2026-09-25 | 6 |
+| [liandu2024/Open-Box](../repos/liandu2024/Open-Box.md) | ⭐ 2,815 | 2026-10-22 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [itsnotkubrick/3X-UI_KIT](../repos/itsnotkubrick/3X-UI_KIT.md) | ⭐ 721 | 2026-10-15 | 5 |
+| [FFmpeg-Builds/FFmpeg-Builds](../repos/FFmpeg-Builds/FFmpeg-Builds.md) | ⭐ 12,006 | 2026-11-19 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [home-assistant/apps](../repos/home-assistant/apps.md) | ⭐ 2,266 | 2026-11-19 | 1 |
 
 
 ---
@@ -49,13 +52,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [sorin-ionescu/prezto](../repos/sorin-ionescu/prezto.md) | ⭐ 14,576 | 2026-10-20 | The configuration framework for Zsh |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [auscaster/frantic-board](../repos/auscaster/frantic-board.md) | ⭐ 642 | 2026-10-21 | HELP WANTED: AI AGENTS. Real bounties, real money, every payout sealed to a public ledger. The no... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [liandu2024/Open-Box](../repos/liandu2024/Open-Box.md) | ⭐ 2,770 | 2026-10-22 | Open-Box 一体化透明代理：OpenWrt &#x2F; Debian &#x2F; Ubuntu &#x2F; Docker；自有程序闭源，第三方组件遵守原许可。 |
+| [liandu2024/Open-Box](../repos/liandu2024/Open-Box.md) | ⭐ 2,815 | 2026-10-22 | Open-Box 一体化透明代理：OpenWrt &#x2F; Debian &#x2F; Ubuntu &#x2F; Docker；自有程序闭源，第三方组件遵守原许可。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nextcloud/docker](../repos/nextcloud/docker.md) | ⭐ 7,406 | 2026-10-23 | A community maintained docker micro-image for deploying Nextcloud on container platforms |
@@ -77,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [agarrharr/awesome-cli-apps](../repos/agarrharr/awesome-cli-apps.md) | ⭐ 20,600 | 2026-11-04 | 🖥 📊 🕹 🛠 A curated list of command line apps |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [kiddin9/Kwrt](../repos/kiddin9/Kwrt.md) | ⭐ 9,079 | 2026-11-06 | openwrt 软路由固件 |
 
 
 ---
@@ -87,7 +90,7 @@
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,950 | 2026-08-07 | 6 |
 | [papers-we-love/papers-we-love](../repos/papers-we-love/papers-we-love.md) | ⭐ 110,960 | 2026-10-27 | 1 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 96,145 | 2026-08-01 | 57 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 96,252 | 2026-08-01 | 58 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,756 | 2026-08-04 | 10 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,702 | 2026-08-06 | 15 |
@@ -96,7 +99,7 @@
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
 | [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 34,152 | 2026-08-20 | 15 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 33,123 | 2026-08-02 | 22 |
-| [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,871 | 2026-09-02 | 7 |
+| [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,902 | 2026-09-02 | 8 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
 | [lxgw/LxgwWenKai](../repos/lxgw/LxgwWenKai.md) | ⭐ 26,857 | 2026-11-07 | 1 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 26,538 | 2026-08-04 | 16 |
@@ -112,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 57 | ⭐ 96,145 | 2026-08-01 | 2026-11-18 |
-| [expo/skills](../repos/expo/skills.md) | 41 | ⭐ 4,182 | 2026-08-07 | 2026-11-17 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 58 | ⭐ 96,252 | 2026-08-01 | 2026-11-19 |
 | [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 27 | ⭐ 8,876 | 2026-08-12 | 2026-11-14 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
-| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | 19 | ⭐ 1,656 | 2026-08-20 | 2026-11-18 |
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | 20 | ⭐ 1,658 | 2026-08-20 | 2026-11-19 |
+| [cloudflare/skills](../repos/cloudflare/skills.md) | 17 | ⭐ 3,406 | 2026-08-05 | 2026-11-19 |
 | [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | 17 | ⭐ 11,015 | 2026-08-07 | 2026-11-10 |
 | [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | 17 | ⭐ 3,982 | 2026-08-19 | 2026-11-16 |
 | [omacom/omarchy](../repos/omacom/omarchy.md) | 17 | ⭐ 46,666 | 2026-08-29 | 2026-11-09 |
+| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | 16 | ⭐ 2,273 | 2026-08-01 | 2026-11-19 |
 | [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | 16 | ⭐ 10,335 | 2026-08-03 | 2026-11-17 |
-| [a2aproject/A2A](../repos/a2aproject/A2A.md) | 16 | ⭐ 26,538 | 2026-08-04 | 2026-11-14 |
 
 ---
 
@@ -169,7 +172,6 @@
 - [nyldn/claude-octopus](../repos/nyldn/claude-octopus.md) - Run multiple AI models against the same research, design, or coding task. Surface disagreements b...
 - [bitnami/containers](../repos/bitnami/containers.md) - Bitnami container images
 - [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) - A Zsh theme
-- [expo/skills](../repos/expo/skills.md) - A collection of AI agent skills for working with Expo projects and Expo Application Services
 - [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) - Certified Kubernetes Administrator - CKA Course
 - [nelvko/clash-for-linux-install](../repos/nelvko/clash-for-linux-install.md) - 😼 优雅地使用基于 clash&#x2F;mihomo 的代理环境
 - [d3/d3](../repos/d3/d3.md) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
@@ -227,7 +229,8 @@
 - [zhnnky329/MathModeling-skills](../repos/zhnnky329/MathModeling-skills.md) - 面向数学建模竞赛的 Claude Code &#x2F; Codex Skills ，支持分阶段建模流程与 Python、MATLAB&#x2F;北太天元代码分支。
 - [thibmaek/awesome-raspberry-pi](../repos/thibmaek/awesome-raspberry-pi.md) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [bitol-io/open-data-contract-standard](../repos/bitol-io/open-data-contract-standard.md) - Home of the Open Data Contract Standard (ODCS).
+- [CachyOS/CachyOS-PKGBUILDS](../repos/CachyOS/CachyOS-PKGBUILDS.md) - PKGBUILDs for CachyOS
 
 ---
 
-*Last updated: 2026-11-18T21:01:03.122Z*
+*Last updated: 2026-11-19T21:00:52.939Z*

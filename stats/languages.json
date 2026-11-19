@@ -1,159 +1,159 @@
 {
-  "generated_at": "2026-11-18T21:01:10.722Z",
+  "generated_at": "2026-11-19T21:00:59.104Z",
   "total_languages": 63,
   "languages": [
     {
       "language": "Python",
-      "repository_count": 354,
-      "total_stars": 11509453,
-      "avg_stars": 32513,
-      "percentage": 7.6
+      "repository_count": 359,
+      "total_stars": 11582404,
+      "avg_stars": 32263,
+      "percentage": 7.7
     },
     {
       "language": "Go",
-      "repository_count": 353,
-      "total_stars": 5794758,
-      "avg_stars": 16416,
+      "repository_count": 354,
+      "total_stars": 5800054,
+      "avg_stars": 16384,
       "percentage": 7.6
     },
     {
       "language": "TypeScript",
-      "repository_count": 331,
-      "total_stars": 8864053,
-      "avg_stars": 26780,
-      "percentage": 7.1
+      "repository_count": 335,
+      "total_stars": 8932286,
+      "avg_stars": 26664,
+      "percentage": 7.2
     },
     {
       "language": "C++",
-      "repository_count": 316,
-      "total_stars": 4578263,
-      "avg_stars": 14488,
+      "repository_count": 317,
+      "total_stars": 4582084,
+      "avg_stars": 14455,
       "percentage": 6.8
     },
     {
       "language": "Rust",
-      "repository_count": 249,
-      "total_stars": 4217212,
-      "avg_stars": 16937,
-      "percentage": 5.4
+      "repository_count": 250,
+      "total_stars": 4230889,
+      "avg_stars": 16924,
+      "percentage": 5.3
     },
     {
       "language": "C",
-      "repository_count": 238,
-      "total_stars": 2786634,
-      "avg_stars": 11709,
+      "repository_count": 239,
+      "total_stars": 2789163,
+      "avg_stars": 11670,
       "percentage": 5.1
     },
     {
       "language": "Java",
-      "repository_count": 236,
-      "total_stars": 2938212,
-      "avg_stars": 12450,
+      "repository_count": 239,
+      "total_stars": 2971920,
+      "avg_stars": 12435,
       "percentage": 5.1
     },
     {
       "language": "C#",
-      "repository_count": 205,
-      "total_stars": 1775840,
-      "avg_stars": 8663,
+      "repository_count": 206,
+      "total_stars": 1777739,
+      "avg_stars": 8630,
       "percentage": 4.4
     },
     {
       "language": "JavaScript",
-      "repository_count": 197,
-      "total_stars": 4222672,
-      "avg_stars": 21435,
+      "repository_count": 198,
+      "total_stars": 4228720,
+      "avg_stars": 21357,
       "percentage": 4.2
     },
     {
       "language": "Kotlin",
-      "repository_count": 186,
-      "total_stars": 1177640,
-      "avg_stars": 6331,
+      "repository_count": 187,
+      "total_stars": 1180643,
+      "avg_stars": 6314,
       "percentage": 4
     },
     {
       "language": "Shell",
-      "repository_count": 158,
-      "total_stars": 1567075,
-      "avg_stars": 9918,
+      "repository_count": 159,
+      "total_stars": 1577440,
+      "avg_stars": 9921,
       "percentage": 3.4
     },
     {
       "language": "Swift",
-      "repository_count": 154,
-      "total_stars": 1030733,
-      "avg_stars": 6693,
+      "repository_count": 155,
+      "total_stars": 1033641,
+      "avg_stars": 6669,
       "percentage": 3.3
     },
     {
       "language": "Lua",
-      "repository_count": 138,
-      "total_stars": 602128,
-      "avg_stars": 4363,
+      "repository_count": 139,
+      "total_stars": 602295,
+      "avg_stars": 4333,
       "percentage": 3
     },
     {
       "language": "PHP",
       "repository_count": 130,
-      "total_stars": 867916,
-      "avg_stars": 6676,
+      "total_stars": 867963,
+      "avg_stars": 6677,
       "percentage": 2.8
     },
     {
       "language": "HTML",
       "repository_count": 125,
-      "total_stars": 1663405,
-      "avg_stars": 13307,
+      "total_stars": 1666406,
+      "avg_stars": 13331,
       "percentage": 2.7
     },
     {
       "language": "Dart",
-      "repository_count": 117,
-      "total_stars": 965777,
-      "avg_stars": 8255,
-      "percentage": 2.5
+      "repository_count": 120,
+      "total_stars": 970236,
+      "avg_stars": 8085,
+      "percentage": 2.6
     },
     {
       "language": "Ruby",
       "repository_count": 114,
-      "total_stars": 948807,
-      "avg_stars": 8323,
-      "percentage": 2.5
+      "total_stars": 949145,
+      "avg_stars": 8326,
+      "percentage": 2.4
     },
     {
       "language": "Objective-C",
       "repository_count": 112,
-      "total_stars": 597725,
+      "total_stars": 597723,
       "avg_stars": 5337,
       "percentage": 2.4
     },
     {
       "language": "Vue",
       "repository_count": 101,
-      "total_stars": 662638,
-      "avg_stars": 6561,
+      "total_stars": 662761,
+      "avg_stars": 6562,
       "percentage": 2.2
     },
     {
       "language": "CSS",
       "repository_count": 81,
-      "total_stars": 550024,
-      "avg_stars": 6790,
+      "total_stars": 550684,
+      "avg_stars": 6799,
       "percentage": 1.7
     },
     {
       "language": "Scala",
       "repository_count": 78,
-      "total_stars": 364064,
-      "avg_stars": 4667,
+      "total_stars": 364102,
+      "avg_stars": 4668,
       "percentage": 1.7
     },
     {
       "language": "PowerShell",
       "repository_count": 67,
-      "total_stars": 266214,
-      "avg_stars": 3973,
+      "total_stars": 266270,
+      "avg_stars": 3974,
       "percentage": 1.4
     },
     {
@@ -166,43 +166,43 @@
     {
       "language": "Assembly",
       "repository_count": 54,
-      "total_stars": 120127,
+      "total_stars": 120133,
       "avg_stars": 2225,
       "percentage": 1.2
     },
     {
       "language": "Elixir",
-      "repository_count": 49,
-      "total_stars": 200193,
-      "avg_stars": 4086,
+      "repository_count": 50,
+      "total_stars": 202136,
+      "avg_stars": 4043,
       "percentage": 1.1
     },
     {
       "language": "Zig",
-      "repository_count": 44,
-      "total_stars": 212545,
-      "avg_stars": 4831,
-      "percentage": 0.9
+      "repository_count": 45,
+      "total_stars": 212900,
+      "avg_stars": 4731,
+      "percentage": 1
     },
     {
       "language": "Perl",
       "repository_count": 41,
-      "total_stars": 92107,
+      "total_stars": 92112,
       "avg_stars": 2247,
       "percentage": 0.9
     },
     {
       "language": "Vim Script",
       "repository_count": 38,
-      "total_stars": 287354,
+      "total_stars": 287355,
       "avg_stars": 7562,
       "percentage": 0.8
     },
     {
       "language": "Haskell",
       "repository_count": 38,
-      "total_stars": 148167,
-      "avg_stars": 3899,
+      "total_stars": 148200,
+      "avg_stars": 3900,
       "percentage": 0.8
     },
     {
@@ -215,50 +215,50 @@
     {
       "language": "Fortran",
       "repository_count": 33,
-      "total_stars": 16547,
+      "total_stars": 16549,
       "avg_stars": 501,
       "percentage": 0.7
     },
     {
       "language": "OCaml",
       "repository_count": 28,
-      "total_stars": 96282,
-      "avg_stars": 3439,
+      "total_stars": 96313,
+      "avg_stars": 3440,
       "percentage": 0.6
     },
     {
       "language": "Julia",
       "repository_count": 26,
-      "total_stars": 20270,
+      "total_stars": 20271,
       "avg_stars": 780,
       "percentage": 0.6
     },
     {
       "language": "Verilog",
       "repository_count": 23,
-      "total_stars": 32140,
-      "avg_stars": 1397,
+      "total_stars": 32146,
+      "avg_stars": 1398,
       "percentage": 0.5
     },
     {
       "language": "Clojure",
       "repository_count": 18,
-      "total_stars": 284053,
-      "avg_stars": 15781,
+      "total_stars": 284140,
+      "avg_stars": 15786,
       "percentage": 0.4
     },
     {
       "language": "Erlang",
       "repository_count": 16,
-      "total_stars": 57738,
+      "total_stars": 57741,
       "avg_stars": 3609,
       "percentage": 0.3
     },
     {
       "language": "Groovy",
       "repository_count": 15,
-      "total_stars": 45866,
-      "avg_stars": 3058,
+      "total_stars": 45862,
+      "avg_stars": 3057,
       "percentage": 0.3
     },
     {
@@ -278,8 +278,8 @@
     {
       "language": "MATLAB",
       "repository_count": 8,
-      "total_stars": 14179,
-      "avg_stars": 1772,
+      "total_stars": 14182,
+      "avg_stars": 1773,
       "percentage": 0.2
     },
     {
@@ -287,14 +287,14 @@
       "repository_count": 7,
       "total_stars": 21944,
       "avg_stars": 3135,
-      "percentage": 0.2
+      "percentage": 0.1
     },
     {
       "language": "CoffeeScript",
       "repository_count": 7,
-      "total_stars": 77645,
-      "avg_stars": 11092,
-      "percentage": 0.2
+      "total_stars": 77648,
+      "avg_stars": 11093,
+      "percentage": 0.1
     },
     {
       "language": "F#",
@@ -306,8 +306,8 @@
     {
       "language": "V",
       "repository_count": 5,
-      "total_stars": 41604,
-      "avg_stars": 8321,
+      "total_stars": 41601,
+      "avg_stars": 8320,
       "percentage": 0.1
     },
     {
@@ -348,8 +348,8 @@
     {
       "language": "D",
       "repository_count": 2,
-      "total_stars": 3262,
-      "avg_stars": 1631,
+      "total_stars": 3264,
+      "avg_stars": 1632,
       "percentage": 0
     },
     {

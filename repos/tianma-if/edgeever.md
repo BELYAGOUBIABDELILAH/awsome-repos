@@ -1,6 +1,6 @@
 # tianma-if&#x2F;edgeever
 
-> Serverless, 100% free, and open-source Evernote alternative on Cloudflare with native MCP | 无需服务器、0费用、原生支持 AI Agent 的开源自托管『印象笔记』
+> AI-native note-taking app &amp; Evernote&#x2F;Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper &amp; MCP. 100% free on Cloudflare or Docker.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;tianma-if&#x2F;edgeever) 
 
@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | HTML |
+| **Language** | TypeScript |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 1,289 |
-| **Forks** | 🍴 711 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 3,436 |
+| **Forks** | 🍴 1,788 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 27, 2026 |
-| **Last Seen** | Aug 28, 2026 |
+| **Last Seen** | Nov 19, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in HTML or cloudflare*
+*Similar: Check repositories in TypeScript or ai-agent*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 2 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`cloudflare`](../../topics/cloudflare.md) [`cloudflare-d1`](../../topics/cloudflare-d1.md) [`cloudflare-r2`](../../topics/cloudflare-r2.md) [`cloudflare-workers`](../../topics/cloudflare-workers.md) [`electron`](../../topics/electron.md) [`evernote`](../../topics/evernote.md) [`evernote-alternative`](../../topics/evernote-alternative.md) [`hono`](../../topics/hono.md) [`knowledge-base`](../../topics/knowledge-base.md) [`mcp`](../../topics/mcp.md) [`note-taking`](../../topics/note-taking.md) [`notes`](../../topics/notes.md) [`obsidian`](../../topics/obsidian.md) [`personal-knowledge-base`](../../topics/personal-knowledge-base.md) [`pwa`](../../topics/pwa.md) [`pwa-app`](../../topics/pwa-app.md) [`self-hosted`](../../topics/self-hosted.md) [`self-hosting`](../../topics/self-hosting.md) [`tiptap`](../../topics/tiptap.md) [`workers`](../../topics/workers.md) 
+[`ai-agent`](../../topics/ai-agent.md) [`cloudflare`](../../topics/cloudflare.md) [`cloudflare-workers`](../../topics/cloudflare-workers.md) [`diagrams`](../../topics/diagrams.md) [`docker`](../../topics/docker.md) [`evernote`](../../topics/evernote.md) [`evernote-alternative`](../../topics/evernote-alternative.md) [`knowledge-base`](../../topics/knowledge-base.md) [`markdown`](../../topics/markdown.md) [`mcp`](../../topics/mcp.md) [`mindmap`](../../topics/mindmap.md) [`note-taking`](../../topics/note-taking.md) [`obsidian`](../../topics/obsidian.md) [`obsidian-alternative`](../../topics/obsidian-alternative.md) [`offline-first`](../../topics/offline-first.md) [`pkm`](../../topics/pkm.md) [`second-brain`](../../topics/second-brain.md) [`self-hosted`](../../topics/self-hosted.md) [`sqlite`](../../topics/sqlite.md) [`web-clipper`](../../topics/web-clipper.md) 
 
 ### Curated Categories
-`Cloud &amp; Infrastructure` `Systems Programming` 
+`Artificial Intelligence` `Web Development` `Cloud &amp; Infrastructure` `Containers &amp; Orchestration` `Databases` `Systems Programming` `Developer Tools` `Documentation` 
 
 ---
 
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 1,289+ stars, strong contributor base |
+| **Community** | Very Active | 3,436+ stars, strong contributor base |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -81,15 +81,15 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in HTML
+- Check similar projects in TypeScript
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 40&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-18T21:01:08.253Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-11-19T21:00:57.029Z*  
+*Data from 3 trending reports*

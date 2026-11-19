@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 117
+- **Total Repositories**: 120
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-18
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 181,291 | 2026-08-01 | 57 |
+| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 79,218 | 2026-08-01 | 39 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xiaoyaocz/dart_simple_live](../repos/xiaoyaocz/dart_simple_live.md) | ⭐ 16,247 | 2026-08-01 | 27 |
+| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 64,182 | 2026-08-02 | 48 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 63,956 | 2026-08-02 | 47 |
+| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 99,781 | 2026-08-02 | 45 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | ⭐ 4,661 | 2026-08-02 | 30 |
+| [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | ⭐ 4,681 | 2026-08-02 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [KaringX/clashmi](../repos/KaringX/clashmi.md) | ⭐ 10,599 | 2026-08-02 | 18 |
+| [KaringX/clashmi](../repos/KaringX/clashmi.md) | ⭐ 10,617 | 2026-08-02 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jiangtian616/JHenTai](../repos/jiangtian616/JHenTai.md) | ⭐ 5,862 | 2026-08-03 | 14 |
+| [sass/dart-sass](../repos/sass/dart-sass.md) | ⭐ 4,238 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TNT-Likely/BeeCount](../repos/TNT-Likely/BeeCount.md) | ⭐ 2,839 | 2026-08-06 | 28 |
+| [InlitX/GymMane](../repos/InlitX/GymMane.md) | ⭐ 1,877 | 2026-10-13 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Kyosee/VeneraX](../repos/Kyosee/VeneraX.md) | ⭐ 941 | 2026-10-02 | 7 |
+| [AneryCoft/course_helper](../repos/AneryCoft/course_helper.md) | ⭐ 488 | 2026-10-14 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [InlitX/GymMane](../repos/InlitX/GymMane.md) | ⭐ 1,840 | 2026-10-13 | 14 |
+| [GhostenEditor/Ghosten-Player](../repos/GhostenEditor/Ghosten-Player.md) | ⭐ 3,452 | 2026-10-21 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [GhostenEditor/Ghosten-Player](../repos/GhostenEditor/Ghosten-Player.md) | ⭐ 3,449 | 2026-10-21 | 3 |
+| [ch6vip/novel-sound](../repos/ch6vip/novel-sound.md) | ⭐ 1,616 | 2026-11-13 | 4 |
 
 
 ---
@@ -55,7 +55,7 @@
 | [Aglglg/No-Reload-Mod-Manager](../repos/Aglglg/No-Reload-Mod-Manager.md) | ⭐ 115 | 2026-10-21 | A tool to manage your XXMI Anime Games Mods |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [GhostenEditor/Ghosten-Player](../repos/GhostenEditor/Ghosten-Player.md) | ⭐ 3,449 | 2026-10-21 | 一个视频播放器，支持网盘直连、元数据刮削、IPTV、文件管理等 &#x2F;   A video player that supports direct connection to network dis... |
+| [GhostenEditor/Ghosten-Player](../repos/GhostenEditor/Ghosten-Player.md) | ⭐ 3,452 | 2026-10-21 | 一个视频播放器，支持网盘直连、元数据刮削、IPTV、文件管理等 &#x2F;   A video player that supports direct connection to network dis... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [MuFengDR/AstrBot-Bubble-Android-App](../repos/MuFengDR/AstrBot-Bubble-Android-App.md) | ⭐ 108 | 2026-10-26 | AstrBot 安卓APP |
@@ -89,9 +89,9 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 181,291 | 2026-08-01 | 57 |
-| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 99,142 | 2026-08-02 | 44 |
-| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 79,097 | 2026-08-01 | 38 |
-| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 63,956 | 2026-08-02 | 47 |
+| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 99,781 | 2026-08-02 | 45 |
+| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 79,218 | 2026-08-01 | 39 |
+| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 64,182 | 2026-08-02 | 48 |
 | [KRTirtho/spotube](../repos/KRTirtho/spotube.md) | ⭐ 49,303 | 2026-08-04 | 20 |
 | [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 42,769 | 2026-08-01 | 45 |
 | [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 34,082 | 2026-08-02 | 53 |
@@ -117,13 +117,13 @@
 |------------|---------------|-------|------------|-----------|
 | [flutter/flutter](../repos/flutter/flutter.md) | 57 | ⭐ 181,291 | 2026-08-01 | 2026-11-18 |
 | [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | 53 | ⭐ 34,082 | 2026-08-02 | 2026-11-16 |
-| [chen08209/FlClash](../repos/chen08209/FlClash.md) | 47 | ⭐ 63,956 | 2026-08-02 | 2026-11-18 |
+| [chen08209/FlClash](../repos/chen08209/FlClash.md) | 48 | ⭐ 64,182 | 2026-08-02 | 2026-11-19 |
 | [KaringX/karing](../repos/KaringX/karing.md) | 46 | ⭐ 16,158 | 2026-08-02 | 2026-11-14 |
 | [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | 45 | ⭐ 42,769 | 2026-08-01 | 2026-11-16 |
+| [localsend/localsend](../repos/localsend/localsend.md) | 45 | ⭐ 99,781 | 2026-08-02 | 2026-11-19 |
 | [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | 44 | ⭐ 20,960 | 2026-08-02 | 2026-11-16 |
-| [localsend/localsend](../repos/localsend/localsend.md) | 44 | ⭐ 99,142 | 2026-08-02 | 2026-11-15 |
-| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | 38 | ⭐ 79,097 | 2026-08-01 | 2026-11-17 |
-| [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | 30 | ⭐ 4,661 | 2026-08-02 | 2026-11-18 |
+| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | 39 | ⭐ 79,218 | 2026-08-01 | 2026-11-19 |
+| [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | 31 | ⭐ 4,681 | 2026-08-02 | 2026-11-19 |
 | [TNT-Likely/BeeCount](../repos/TNT-Likely/BeeCount.md) | 28 | ⭐ 2,839 | 2026-08-06 | 2026-11-18 |
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-18T21:01:03.031Z*
+*Last updated: 2026-11-19T21:00:52.867Z*

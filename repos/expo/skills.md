@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | Shell |
+| **Language** | TypeScript |
 | **License** | MIT |
-| **Stars** | ⭐ 4,182 |
-| **Forks** | 🍴 274 |
-| **Trending Days** | 41 |
+| **Stars** | ⭐ 4,193 |
+| **Forks** | 🍴 277 |
+| **Trending Days** | 42 |
 | **Peak Rank** | #12 |
 
 | **First Seen** | Aug 7, 2026 |
-| **Last Seen** | Nov 17, 2026 |
+| **Last Seen** | Nov 19, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Shell or similar-topics*
+*Similar: Check repositories in TypeScript or similar-topics*
 
 ---
 
@@ -48,7 +48,7 @@
 ### Highlights
 
 - **Peak Rank**: #12
-- **Trending Days**: 41
+- **Trending Days**: 42
 - **Longest Streak**: 5 days
 
 ---
@@ -82,7 +82,7 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in Shell
+- Check similar projects in TypeScript
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
@@ -92,5 +92,5 @@
 
 ---
 
-*Last updated: 2026-11-18T21:01:06.989Z*  
-*Data from 41 trending reports*
+*Last updated: 2026-11-19T21:00:55.975Z*  
+*Data from 42 trending reports*

@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 38
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-16
+- **Last Updated**: 2026-11-19
 
 ---
 
@@ -16,10 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,764 | 2026-08-01 | 74 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,359 | 2026-08-01 | 76 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [haskell/cabal](../repos/haskell/cabal.md) | ⭐ 1,750 | 2026-08-01 | 35 |
+| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,175 | 2026-08-01 | 35 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [reanimate/reanimate](../repos/reanimate/reanimate.md) | ⭐ 1,402 | 2026-11-02 | 7 |
 
 
 ---
@@ -31,7 +34,7 @@
 | [ghc/ghc](../repos/ghc/ghc.md) | ⭐ 3,274 | 2026-10-22 | Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC&#39;s Gitlab instance... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [reanimate/reanimate](../repos/reanimate/reanimate.md) | ⭐ 1,378 | 2026-11-02 | Haskell library for building declarative animations based on SVG graphics |
+| [reanimate/reanimate](../repos/reanimate/reanimate.md) | ⭐ 1,402 | 2026-11-02 | Haskell library for building declarative animations based on SVG graphics |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [clash-lang/clash-compiler](../repos/clash-lang/clash-compiler.md) | ⭐ 1,626 | 2026-11-06 | Haskell to VHDL&#x2F;Verilog&#x2F;SystemVerilog compiler |
@@ -43,7 +46,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,353 | 2026-08-01 | 75 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,359 | 2026-08-01 | 76 |
 | [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,764 | 2026-08-01 | 74 |
 | [purescript/purescript](../repos/purescript/purescript.md) | ⭐ 8,914 | 2026-08-08 | 6 |
 | [elm/compiler](../repos/elm/compiler.md) | ⭐ 7,931 | 2026-08-09 | 6 |
@@ -53,7 +56,7 @@
 | [hledgerorg/hledger](../repos/hledgerorg/hledger.md) | ⭐ 4,814 | 2026-09-29 | 24 |
 | [commercialhaskell/stack](../repos/commercialhaskell/stack.md) | ⭐ 4,084 | 2026-08-05 | 24 |
 | [ghc/ghc](../repos/ghc/ghc.md) | ⭐ 3,274 | 2026-10-22 | 2 |
-| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,172 | 2026-08-01 | 34 |
+| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,175 | 2026-08-01 | 35 |
 | [agda/agda](../repos/agda/agda.md) | ⭐ 2,975 | 2026-08-03 | 37 |
 | [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | ⭐ 2,966 | 2026-08-01 | 25 |
 | [wireapp/wire-server](../repos/wireapp/wire-server.md) | ⭐ 2,783 | 2026-08-04 | 2 |
@@ -70,13 +73,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 75 | ⭐ 40,353 | 2026-08-01 | 2026-11-16 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 76 | ⭐ 40,359 | 2026-08-01 | 2026-11-19 |
 | [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | 74 | ⭐ 27,764 | 2026-08-01 | 2026-11-18 |
 | [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | 61 | ⭐ 2,118 | 2026-08-01 | 2026-11-16 |
 | [mtolly/onyx](../repos/mtolly/onyx.md) | 40 | ⭐ 312 | 2026-08-08 | 2026-11-16 |
 | [agda/agda](../repos/agda/agda.md) | 37 | ⭐ 2,975 | 2026-08-03 | 2026-11-15 |
 | [haskell/cabal](../repos/haskell/cabal.md) | 35 | ⭐ 1,750 | 2026-08-01 | 2026-11-18 |
-| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | 34 | ⭐ 3,172 | 2026-08-01 | 2026-11-11 |
+| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | 35 | ⭐ 3,175 | 2026-08-01 | 2026-11-19 |
 | [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | 25 | ⭐ 2,966 | 2026-08-01 | 2026-11-06 |
 | [commercialhaskell/stack](../repos/commercialhaskell/stack.md) | 24 | ⭐ 4,084 | 2026-08-05 | 2026-11-17 |
 | [hledgerorg/hledger](../repos/hledgerorg/hledger.md) | 24 | ⭐ 4,814 | 2026-09-29 | 2026-11-07 |
@@ -126,4 +129,4 @@
 
 ---
 
-*Last updated: 2026-11-18T21:01:03.057Z*
+*Last updated: 2026-11-19T21:00:52.887Z*

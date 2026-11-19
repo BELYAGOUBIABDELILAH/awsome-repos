@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 197
+- **Total Repositories**: 198
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-12
 
@@ -16,25 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,756 | 2026-07-30 | 15 |
+| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 35,295 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/awesome-copilot](../repos/github/awesome-copilot.md) | ⭐ 41,323 | 2026-08-14 | 12 |
+| [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) | ⭐ 34,539 | 2026-08-19 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 60,003 | 2026-10-14 | 2 |
+| [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 60,105 | 2026-10-14 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DeanChensj/jiangshan-map](../repos/DeanChensj/jiangshan-map.md) | ⭐ 7,904 | 2026-11-02 | 6 |
+| [michael-denyer/pstack-claude](../repos/michael-denyer/pstack-claude.md) | ⭐ 4,572 | 2026-10-16 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Minglink/dsh-infinite-gen-5](../repos/Minglink/dsh-infinite-gen-5.md) | ⭐ 4,534 | 2026-11-17 | 2 |
+| [babygoton/WorkDaddy](../repos/babygoton/WorkDaddy.md) | ⭐ 3,282 | 2026-11-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [qwdwqfwq/topconf-paper-figure-gallery](../repos/qwdwqfwq/topconf-paper-figure-gallery.md) | ⭐ 1,890 | 2026-11-18 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [pugarte7/spanish-top-tech-companies](../repos/pugarte7/spanish-top-tech-companies.md) | ⭐ 601 | 2026-11-18 | 1 |
+| [micromatch/picomatch](../repos/micromatch/picomatch.md) | ⭐ 1,332 | 2026-11-19 | 1 |
 
 
 ---
@@ -97,7 +94,7 @@
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 65,279 | 2026-08-27 | 16 |
 | [jgraph/drawio-desktop](../repos/jgraph/drawio-desktop.md) | ⭐ 63,817 | 2026-11-04 | 1 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,485 | 2026-08-11 | 5 |
-| [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 60,003 | 2026-10-14 | 2 |
+| [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 60,105 | 2026-10-14 | 3 |
 | [chinese-poetry/chinese-poetry](../repos/chinese-poetry/chinese-poetry.md) | ⭐ 54,296 | 2026-11-10 | 2 |
 
 ---
@@ -224,4 +221,4 @@
 
 ---
 
-*Last updated: 2026-11-18T21:01:03.063Z*
+*Last updated: 2026-11-19T21:00:52.892Z*

@@ -16,22 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,357 | 2026-08-01 | 75 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,363 | 2026-08-01 | 76 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ocaml/opam](../repos/ocaml/opam.md) | ⭐ 1,389 | 2026-08-01 | 23 |
+| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,128 | 2026-08-01 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,645 | 2026-08-01 | 66 |
+| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,645 | 2026-08-01 | 67 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [semgrep/semgrep-interfaces](../repos/semgrep/semgrep-interfaces.md) | ⭐ 20 | 2026-10-27 | 14 |
+| [janestreet/bonsai](../repos/janestreet/bonsai.md) | ⭐ 1,451 | 2026-08-05 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [janestreet/core](../repos/janestreet/core.md) | ⭐ 1,385 | 2026-11-13 | 3 |
+| [janestreet/magic-trace](../repos/janestreet/magic-trace.md) | ⭐ 6,425 | 2026-08-05 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [janestreet/hardcaml](../repos/janestreet/hardcaml.md) | ⭐ 1,188 | 2026-11-18 | 1 |
+| [semgrep/semgrep-interfaces](../repos/semgrep/semgrep-interfaces.md) | ⭐ 20 | 2026-10-27 | 15 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [janestreet/core](../repos/janestreet/core.md) | ⭐ 1,388 | 2026-11-13 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [janestreet/hardcaml](../repos/janestreet/hardcaml.md) | ⭐ 1,188 | 2026-11-18 | 2 |
 
 
 ---
@@ -49,7 +55,7 @@
 | [geocaml/ocaml-tiff](../repos/geocaml/ocaml-tiff.md) | ⭐ 21 | 2026-11-05 | Pure OCaml library for working with TIFF files |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [janestreet/core](../repos/janestreet/core.md) | ⭐ 1,385 | 2026-11-13 | Jane Street Capital&#39;s standard library overlay |
+| [janestreet/core](../repos/janestreet/core.md) | ⭐ 1,388 | 2026-11-13 | Jane Street Capital&#39;s standard library overlay |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [janestreet/hardcaml](../repos/janestreet/hardcaml.md) | ⭐ 1,188 | 2026-11-18 | Hardcaml is an OCaml library for designing hardware. |
@@ -65,22 +71,22 @@
 | [facebook/infer](../repos/facebook/infer.md) | ⭐ 15,728 | 2026-08-02 | 41 |
 | [rescript-lang/rescript](../repos/rescript-lang/rescript.md) | ⭐ 7,485 | 2026-10-03 | 9 |
 | [facebook/pyre-check](../repos/facebook/pyre-check.md) | ⭐ 7,177 | 2026-09-02 | 3 |
-| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,645 | 2026-08-01 | 66 |
-| [janestreet/magic-trace](../repos/janestreet/magic-trace.md) | ⭐ 6,407 | 2026-08-05 | 16 |
+| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,645 | 2026-08-01 | 67 |
+| [janestreet/magic-trace](../repos/janestreet/magic-trace.md) | ⭐ 6,425 | 2026-08-05 | 17 |
 | [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | ⭐ 5,670 | 2026-08-01 | 43 |
 | [bcpierce00/unison](../repos/bcpierce00/unison.md) | ⭐ 5,560 | 2026-08-07 | 29 |
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,357 | 2026-08-01 | 75 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,363 | 2026-08-01 | 76 |
 | [mirage/mirage](../repos/mirage/mirage.md) | ⭐ 3,006 | 2026-10-07 | 1 |
 | [CatalaLang/catala](../repos/CatalaLang/catala.md) | ⭐ 2,418 | 2026-08-02 | 4 |
-| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,128 | 2026-08-01 | 33 |
+| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,128 | 2026-08-01 | 34 |
 | [ocaml/dune](../repos/ocaml/dune.md) | ⭐ 1,935 | 2026-08-01 | 45 |
 | [savonet/liquidsoap](../repos/savonet/liquidsoap.md) | ⭐ 1,755 | 2026-08-10 | 6 |
-| [janestreet/bonsai](../repos/janestreet/bonsai.md) | ⭐ 1,447 | 2026-08-05 | 5 |
+| [janestreet/bonsai](../repos/janestreet/bonsai.md) | ⭐ 1,451 | 2026-08-05 | 6 |
 | [ocaml/opam](../repos/ocaml/opam.md) | ⭐ 1,389 | 2026-08-01 | 23 |
-| [janestreet/core](../repos/janestreet/core.md) | ⭐ 1,385 | 2026-11-13 | 3 |
+| [janestreet/core](../repos/janestreet/core.md) | ⭐ 1,388 | 2026-11-13 | 4 |
 | [stategraph/stategraph](../repos/stategraph/stategraph.md) | ⭐ 1,283 | 2026-08-09 | 2 |
 | [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 1,214 | 2026-08-01 | 54 |
-| [janestreet/hardcaml](../repos/janestreet/hardcaml.md) | ⭐ 1,188 | 2026-11-18 | 1 |
+| [janestreet/hardcaml](../repos/janestreet/hardcaml.md) | ⭐ 1,188 | 2026-11-18 | 2 |
 
 ---
 
@@ -88,13 +94,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | 75 | ⭐ 3,357 | 2026-08-01 | 2026-11-18 |
-| [ocaml/ocaml](../repos/ocaml/ocaml.md) | 66 | ⭐ 6,645 | 2026-08-01 | 2026-11-18 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | 76 | ⭐ 3,363 | 2026-08-01 | 2026-11-19 |
+| [ocaml/ocaml](../repos/ocaml/ocaml.md) | 67 | ⭐ 6,645 | 2026-08-01 | 2026-11-19 |
 | [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | 54 | ⭐ 1,214 | 2026-08-01 | 2026-11-17 |
 | [ocaml/dune](../repos/ocaml/dune.md) | 45 | ⭐ 1,935 | 2026-08-01 | 2026-11-17 |
 | [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | 43 | ⭐ 5,670 | 2026-08-01 | 2026-11-16 |
 | [facebook/infer](../repos/facebook/infer.md) | 41 | ⭐ 15,728 | 2026-08-02 | 2026-10-25 |
-| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | 33 | ⭐ 2,128 | 2026-08-01 | 2026-11-06 |
+| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | 34 | ⭐ 2,128 | 2026-08-01 | 2026-11-19 |
 | [bcpierce00/unison](../repos/bcpierce00/unison.md) | 29 | ⭐ 5,560 | 2026-08-07 | 2026-10-29 |
 | [semgrep/ocaml-tree-sitter-core](../repos/semgrep/ocaml-tree-sitter-core.md) | 24 | ⭐ 59 | 2026-08-01 | 2026-08-29 |
 | [ocaml/opam](../repos/ocaml/opam.md) | 23 | ⭐ 1,389 | 2026-08-01 | 2026-11-18 |
@@ -134,4 +140,4 @@
 
 ---
 
-*Last updated: 2026-11-18T21:01:03.087Z*
+*Last updated: 2026-11-19T21:00:52.911Z*

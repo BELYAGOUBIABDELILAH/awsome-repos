@@ -1,6 +1,6 @@
 # Tracer-Cloud&#x2F;opensre
 
-> Build your own AI SRE agents. The open source toolkit for the AI era.
+> The open-source agent for CI&#x2F;CD reliability.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;Tracer-Cloud&#x2F;opensre) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 11,650 |
-| **Forks** | 🍴 1,704 |
-| **Trending Days** | 4 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 13,059 |
+| **Forks** | 🍴 1,901 |
+| **Trending Days** | 5 |
+| **Peak Rank** | #13 |
 
 | **First Seen** | Aug 24, 2026 |
-| **Last Seen** | Oct 8, 2026 |
+| **Last Seen** | Nov 19, 2026 |
 
 
 ---
@@ -37,17 +37,18 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Python or ai-sre*
+*Similar: Check repositories in Python or alerting*
 
 ---
 
 ## Trending Timeline
 
+**Nov 19, 2026** — Rank #13 (+25 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 4
+- **Peak Rank**: #13
+- **Trending Days**: 5
 - **Longest Streak**: 2 days
 
 ---
@@ -55,10 +56,10 @@
 ## Categories
 
 ### Topics
-[`ai-sre`](../../topics/ai-sre.md) [`alerting`](../../topics/alerting.md) [`datadog`](../../topics/datadog.md) [`grafana`](../../topics/grafana.md) [`incident-management`](../../topics/incident-management.md) [`observability`](../../topics/observability.md) [`remediation`](../../topics/remediation.md) [`root-cause-analysis`](../../topics/root-cause-analysis.md) [`site-reliability-engineering`](../../topics/site-reliability-engineering.md) [`slack`](../../topics/slack.md) [`sre`](../../topics/sre.md) 
+[`alerting`](../../topics/alerting.md) [`ci-cd`](../../topics/ci-cd.md) [`cli`](../../topics/cli.md) [`datadog`](../../topics/datadog.md) [`devops`](../../topics/devops.md) [`gitlab-ci`](../../topics/gitlab-ci.md) [`grafana`](../../topics/grafana.md) [`incident-management`](../../topics/incident-management.md) [`llm`](../../topics/llm.md) [`observability`](../../topics/observability.md) [`ollama`](../../topics/ollama.md) [`remediation`](../../topics/remediation.md) [`root-cause-analysis`](../../topics/root-cause-analysis.md) [`site-reliability-engineering`](../../topics/site-reliability-engineering.md) [`slack`](../../topics/slack.md) 
 
 ### Curated Categories
-`Artificial Intelligence` `Systems Programming` `Developer Tools` 
+`Large Language Models` `DevOps &amp; CI&#x2F;CD` `Systems Programming` `Developer Tools` 
 
 ---
 
@@ -72,7 +73,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 65&#x2F;100
-- **Historical Rank**: No ranking data
+- **Trending Score**: 80&#x2F;100
+- **Historical Rank**: Peak: #13
 
 
 ---
 
-*Last updated: 2026-11-18T21:01:08.082Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-11-19T21:00:56.887Z*  
+*Data from 5 trending reports*

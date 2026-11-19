@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 236
+- **Total Repositories**: 239
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-10
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,658 | 2026-08-02 | 28 |
+| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,482 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 30,279 | 2026-08-04 | 26 |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 14,038 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,881 | 2026-08-04 | 25 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 30,288 | 2026-08-04 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openjdk/jdk](../repos/openjdk/jdk.md) | ⭐ 23,543 | 2026-08-04 | 11 |
+| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 52,482 | 2026-08-04 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/doris](../repos/apache/doris.md) | ⭐ 16,241 | 2026-08-05 | 13 |
+| [openjdk/jdk](../repos/openjdk/jdk.md) | ⭐ 23,548 | 2026-08-04 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 40,516 | 2026-08-06 | 16 |
+| [StarRocks/starrocks](../repos/StarRocks/starrocks.md) | ⭐ 12,270 | 2026-08-05 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [thingsboard/thingsboard](../repos/thingsboard/thingsboard.md) | ⭐ 22,692 | 2026-08-08 | 10 |
+| [langchain4j/langchain4j](../repos/langchain4j/langchain4j.md) | ⭐ 13,424 | 2026-08-05 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zalexdev/strykerapp](../repos/zalexdev/strykerapp.md) | ⭐ 2,089 | 2026-08-08 | 7 |
+| [apache/seatunnel](../repos/apache/seatunnel.md) | ⭐ 9,818 | 2026-08-19 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alibaba/spring-ai-alibaba](../repos/alibaba/spring-ai-alibaba.md) | ⭐ 11,162 | 2026-08-11 | 15 |
+| [apache/fineract](../repos/apache/fineract.md) | ⭐ 2,635 | 2026-08-27 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [00-Evan/shattered-pixel-dungeon](../repos/00-Evan/shattered-pixel-dungeon.md) | ⭐ 6,827 | 2026-08-17 | 4 |
+| [AbdurazaaqMohammed/MP-Manager](../repos/AbdurazaaqMohammed/MP-Manager.md) | ⭐ 600 | 2026-09-27 | 9 |
 
 
 ---
@@ -52,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [apache/nifi](../repos/apache/nifi.md) | ⭐ 6,295 | 2026-10-23 | Apache NiFi |
+| [apache/nifi](../repos/apache/nifi.md) | ⭐ 6,329 | 2026-10-23 | Apache NiFi |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [apache/pulsar](../repos/apache/pulsar.md) | ⭐ 15,354 | 2026-10-25 | Apache Pulsar - distributed pub-sub messaging system |
@@ -95,7 +95,7 @@
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 67,230 | 2026-08-04 | 14 |
 | [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,508 | 2026-08-08 | 3 |
 | [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,311 | 2026-08-08 | 12 |
-| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 52,327 | 2026-08-04 | 15 |
+| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 52,482 | 2026-08-04 | 16 |
 | [google/guava](../repos/google/guava.md) | ⭐ 51,912 | 2026-08-02 | 12 |
 | [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 51,593 | 2026-08-12 | 12 |
 | [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 48,481 | 2026-08-07 | 14 |
@@ -118,8 +118,8 @@
 | [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 34 | ⭐ 6,364 | 2026-08-05 | 2026-11-13 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 32 | ⭐ 99,333 | 2026-08-03 | 2026-11-10 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 28 | ⭐ 78,658 | 2026-08-02 | 2026-11-18 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 27 | ⭐ 30,288 | 2026-08-04 | 2026-11-19 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 26 | ⭐ 28,137 | 2026-08-02 | 2026-11-17 |
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 26 | ⭐ 30,279 | 2026-08-04 | 2026-11-18 |
 | [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 25 | ⭐ 36,419 | 2026-08-04 | 2026-11-17 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 25 | ⭐ 81,881 | 2026-08-04 | 2026-11-18 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 22 | ⭐ 43,363 | 2026-08-05 | 2026-11-13 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-18T21:01:03.060Z*
+*Last updated: 2026-11-19T21:00:52.890Z*

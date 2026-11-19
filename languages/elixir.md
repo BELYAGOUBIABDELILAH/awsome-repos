@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 49
+- **Total Repositories**: 50
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-09
 
@@ -16,16 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,727 | 2026-08-01 | 76 |
+| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,737 | 2026-08-01 | 77 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,288 | 2026-08-02 | 77 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,293 | 2026-08-02 | 78 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [firezone/firezone](../repos/firezone/firezone.md) | ⭐ 9,191 | 2026-08-02 | 64 |
+| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,223 | 2026-08-03 | 58 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [livebook-dev/livebook](../repos/livebook-dev/livebook.md) | ⭐ 5,941 | 2026-08-05 | 10 |
+| [livebook-dev/livebook](../repos/livebook-dev/livebook.md) | ⭐ 5,945 | 2026-08-05 | 11 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Spectral-Finance/lux](../repos/Spectral-Finance/lux.md) | ⭐ 140 | 2026-09-12 | 9 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [agentjido/jido](../repos/agentjido/jido.md) | ⭐ 1,920 | 2026-11-19 | 1 |
 
 
 ---
@@ -38,6 +44,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jsmestad/minga](../repos/jsmestad/minga.md) | ⭐ 31 | 2026-11-06 | A modal text editor built for the age of AI agents — Neovim-style editing, Emacs-style runtime fl... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [agentjido/jido](../repos/agentjido/jido.md) | ⭐ 1,920 | 2026-11-19 | 🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic ... |
 
 
 ---
@@ -48,24 +57,24 @@
 |------------|-------|------------|---------------|
 | [anoma/anoma](../repos/anoma/anoma.md) | ⭐ 33,620 | 2026-09-04 | 4 |
 | [openai/symphony](../repos/openai/symphony.md) | ⭐ 27,756 | 2026-08-01 | 57 |
-| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,727 | 2026-08-01 | 76 |
-| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,219 | 2026-08-03 | 57 |
+| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,737 | 2026-08-01 | 77 |
+| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,223 | 2026-08-03 | 58 |
 | [h4cc/awesome-elixir](../repos/h4cc/awesome-elixir.md) | ⭐ 13,166 | 2026-09-08 | 1 |
-| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,288 | 2026-08-02 | 77 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,293 | 2026-08-02 | 78 |
 | [firezone/firezone](../repos/firezone/firezone.md) | ⭐ 9,191 | 2026-08-02 | 64 |
 | [phoenixframework/phoenix_live_view](../repos/phoenixframework/phoenix_live_view.md) | ⭐ 6,839 | 2026-08-01 | 27 |
 | [elixir-ecto/ecto](../repos/elixir-ecto/ecto.md) | ⭐ 6,500 | 2026-08-06 | 8 |
 | [papercups-io/papercups](../repos/papercups-io/papercups.md) | ⭐ 6,113 | 2026-09-21 | 2 |
-| [livebook-dev/livebook](../repos/livebook-dev/livebook.md) | ⭐ 5,941 | 2026-08-05 | 10 |
+| [livebook-dev/livebook](../repos/livebook-dev/livebook.md) | ⭐ 5,945 | 2026-08-05 | 11 |
 | [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | ⭐ 5,467 | 2026-08-01 | 64 |
 | [ash-project/ash](../repos/ash-project/ash.md) | ⭐ 2,559 | 2026-09-01 | 23 |
 | [expert-lsp/expert](../repos/expert-lsp/expert.md) | ⭐ 2,048 | 2026-08-01 | 6 |
 | [mtrudel/bandit](../repos/mtrudel/bandit.md) | ⭐ 1,922 | 2026-08-22 | 4 |
+| [agentjido/jido](../repos/agentjido/jido.md) | ⭐ 1,920 | 2026-11-19 | 1 |
 | [semaphoreio/semaphore](../repos/semaphoreio/semaphore.md) | ⭐ 1,570 | 2026-08-09 | 1 |
 | [algora-io/algora](../repos/algora-io/algora.md) | ⭐ 1,541 | 2026-08-09 | 12 |
 | [elixir-grpc/grpc](../repos/elixir-grpc/grpc.md) | ⭐ 1,522 | 2026-08-01 | 2 |
 | [Phineas/lanyard](../repos/Phineas/lanyard.md) | ⭐ 1,486 | 2026-09-02 | 4 |
-| [ex-aws/ex_aws](../repos/ex-aws/ex_aws.md) | ⭐ 1,340 | 2026-08-05 | 2 |
 
 ---
 
@@ -73,12 +82,12 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 77 | ⭐ 9,288 | 2026-08-02 | 2026-11-18 |
-| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | 76 | ⭐ 26,727 | 2026-08-01 | 2026-11-18 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 78 | ⭐ 9,293 | 2026-08-02 | 2026-11-19 |
+| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | 77 | ⭐ 26,737 | 2026-08-01 | 2026-11-19 |
 | [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | 64 | ⭐ 5,467 | 2026-08-01 | 2026-11-16 |
 | [firezone/firezone](../repos/firezone/firezone.md) | 64 | ⭐ 9,191 | 2026-08-02 | 2026-11-18 |
+| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | 58 | ⭐ 23,223 | 2026-08-03 | 2026-11-19 |
 | [openai/symphony](../repos/openai/symphony.md) | 57 | ⭐ 27,756 | 2026-08-01 | 2026-10-20 |
-| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | 57 | ⭐ 23,219 | 2026-08-03 | 2026-11-14 |
 | [phoenixframework/phoenix_live_view](../repos/phoenixframework/phoenix_live_view.md) | 27 | ⭐ 6,839 | 2026-08-01 | 2026-11-17 |
 | [open-telemetry/opentelemetry-erlang-contrib](../repos/open-telemetry/opentelemetry-erlang-contrib.md) | 26 | ⭐ 220 | 2026-08-01 | 2026-11-14 |
 | [ash-project/ash](../repos/ash-project/ash.md) | 23 | ⭐ 2,559 | 2026-09-01 | 2026-11-11 |
@@ -137,7 +146,8 @@
 - [elixirs/faker](../repos/elixirs/faker.md) - Faker is a pure Elixir library for generating fake data.
 - [ash-project/ash_postgres](../repos/ash-project/ash_postgres.md) - The PostgreSQL data layer for Ash Framework
 - [jsmestad/minga](../repos/jsmestad/minga.md) - A modal text editor built for the age of AI agents — Neovim-style editing, Emacs-style runtime fl...
+- [agentjido/jido](../repos/agentjido/jido.md) - 🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic ...
 
 ---
 
-*Last updated: 2026-11-18T21:01:03.039Z*
+*Last updated: 2026-11-19T21:00:52.874Z*

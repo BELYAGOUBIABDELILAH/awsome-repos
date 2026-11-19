@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 71
+**Gems Found**: 64
 
 ---
 
@@ -31,47 +31,7 @@
 
 ---
 
-### 2. [chaitanyagiri&#x2F;munder-difflin](../../repos/chaitanyagiri/munder-difflin.md)
-
-**local multi-agent harness**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 3,374 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 78/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 16, 2026 |
-
-**Why it's a gem**: High growth velocity (+634 stars&#x2F;day) • Trending 4 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/chaitanyagiri/munder-difflin.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;chaitanyagiri&#x2F;munder-difflin)
-
----
-
-### 3. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
-
-**OCTO Android Client — Open-source enterprise IM**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 613 |
-| 💻 **Language** | Java |
-| 🏆 **Gem Score** | 76/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 7, 2026 |
-
-**Why it's a gem**: High growth velocity (+45 stars&#x2F;day) • Trending 6 times • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/Mininglamp-OSS/octo-android.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Mininglamp-OSS&#x2F;octo-android)
-
----
-
-### 4. [marin-community&#x2F;marin](../../repos/marin-community/marin.md)
+### 2. [marin-community&#x2F;marin](../../repos/marin-community/marin.md)
 
 **Open-source framework for the research and development of foundation models.**
 
@@ -91,7 +51,7 @@
 
 ---
 
-### 5. [JetBrains&#x2F;go-modern-guidelines](../../repos/JetBrains/go-modern-guidelines.md)
+### 3. [JetBrains&#x2F;go-modern-guidelines](../../repos/JetBrains/go-modern-guidelines.md)
 
 **Help AI coding agents write modern Go**
 
@@ -111,7 +71,27 @@
 
 ---
 
-### 6. [bookorbit&#x2F;bookorbit](../../repos/bookorbit/bookorbit.md)
+### 4. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
+
+**OCTO Android Client — Open-source enterprise IM**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 613 |
+| 💻 **Language** | Java |
+| 🏆 **Gem Score** | 75/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 7, 2026 |
+
+**Why it's a gem**: High growth velocity (+45 stars&#x2F;day) • Trending 6 times • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/Mininglamp-OSS/octo-android.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Mininglamp-OSS&#x2F;octo-android)
+
+---
+
+### 5. [bookorbit&#x2F;bookorbit](../../repos/bookorbit/bookorbit.md)
 
 **BookOrbit: Your Reading Space**
 
@@ -131,7 +111,7 @@
 
 ---
 
-### 7. [RizRiyz&#x2F;luvus](../../repos/RizRiyz/luvus.md)
+### 6. [RizRiyz&#x2F;luvus](../../repos/RizRiyz/luvus.md)
 
 **Mission control for your AI agents**
 
@@ -139,7 +119,7 @@
 |---|---|
 | ⭐ **Stars** | 477 |
 | 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 74/100 |
+| 🏆 **Gem Score** | 73/100 |
 | 📈 **Trending Days** | 2 |
 | 📅 **First Seen** | Aug 26, 2026 |
 
@@ -151,7 +131,7 @@
 
 ---
 
-### 8. [booklore-app&#x2F;booklore](../../repos/booklore-app/booklore.md)
+### 7. [booklore-app&#x2F;booklore](../../repos/booklore-app/booklore.md)
 
 **BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo &amp; KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.**
 
@@ -159,7 +139,7 @@
 |---|---|
 | ⭐ **Stars** | 971 |
 | 💻 **Language** | Java |
-| 🏆 **Gem Score** | 73/100 |
+| 🏆 **Gem Score** | 72/100 |
 | 📈 **Trending Days** | 4 |
 | 📅 **First Seen** | Aug 8, 2026 |
 
@@ -171,7 +151,7 @@
 
 ---
 
-### 9. [AgriciDaniel&#x2F;claude-obsidian](../../repos/AgriciDaniel/claude-obsidian.md)
+### 8. [AgriciDaniel&#x2F;claude-obsidian](../../repos/AgriciDaniel/claude-obsidian.md)
 
 **Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy&#39;s LLM Wiki pattern.**
 
@@ -191,7 +171,7 @@
 
 ---
 
-### 10. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
+### 9. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
 
 **Visualize your year in travel using your Google Location History (Timeline) data**
 
@@ -211,27 +191,7 @@
 
 ---
 
-### 11. [Tencent&#x2F;AI-Infra-Guard](../../repos/Tencent/AI-Infra-Guard.md)
-
-**A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 5,454 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 72/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Aug 20, 2026 |
-
-**Why it's a gem**: High growth velocity (+416 stars&#x2F;day) • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/Tencent/AI-Infra-Guard.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Tencent&#x2F;AI-Infra-Guard)
-
----
-
-### 12. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
+### 10. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
 
 **Portable Tool for an Ideal Windows Setup**
 
@@ -251,7 +211,7 @@
 
 ---
 
-### 13. [workweave&#x2F;router](../../repos/workweave/router.md)
+### 11. [workweave&#x2F;router](../../repos/workweave/router.md)
 
 **Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.**
 
@@ -271,7 +231,7 @@
 
 ---
 
-### 14. [tutti-os&#x2F;tutti](../../repos/tutti-os/tutti.md)
+### 12. [tutti-os&#x2F;tutti](../../repos/tutti-os/tutti.md)
 
 **Where people and agents build in tune.**
 
@@ -279,7 +239,7 @@
 |---|---|
 | ⭐ **Stars** | 3,575 |
 | 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 71/100 |
+| 🏆 **Gem Score** | 70/100 |
 | 📈 **Trending Days** | 2 |
 | 📅 **First Seen** | Aug 27, 2026 |
 
@@ -291,7 +251,7 @@
 
 ---
 
-### 15. [microsoft&#x2F;intelligent-terminal](../../repos/microsoft/intelligent-terminal.md)
+### 13. [microsoft&#x2F;intelligent-terminal](../../repos/microsoft/intelligent-terminal.md)
 
 **A fork of Windows Terminal with native agent integration, right in your command line.**
 
@@ -311,7 +271,7 @@
 
 ---
 
-### 16. [worldwonderer&#x2F;oh-story-claudecode](../../repos/worldwonderer/oh-story-claudecode.md)
+### 14. [worldwonderer&#x2F;oh-story-claudecode](../../repos/worldwonderer/oh-story-claudecode.md)
 
 **网文&#x2F;小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-form web fiction.**
 
@@ -331,7 +291,7 @@
 
 ---
 
-### 17. [kitknox&#x2F;rootshell](../../repos/kitknox/rootshell.md)
+### 15. [kitknox&#x2F;rootshell](../../repos/kitknox/rootshell.md)
 
 **rootshell - The terminal, reimagined for Apple platforms**
 
@@ -351,7 +311,7 @@
 
 ---
 
-### 18. [jnMetaCode&#x2F;agency-agents-zh](../../repos/jnMetaCode/agency-agents-zh.md)
+### 16. [jnMetaCode&#x2F;agency-agents-zh](../../repos/jnMetaCode/agency-agents-zh.md)
 
 **🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent&#x2F;Claude Code&#x2F;Cursor&#x2F;Copilot 等 18 种工具，覆盖工程&#x2F;设计&#x2F;营销&#x2F;金融等 20 个部门。含 52 个中国市场原创智能体（小红书&#x2F;抖音&#x2F;微信&#x2F;飞书&#x2F;钉钉等）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。**
 
@@ -371,7 +331,7 @@
 
 ---
 
-### 19. [shy3130&#x2F;tickflow-stock-panel](../../repos/shy3130/tickflow-stock-panel.md)
+### 17. [shy3130&#x2F;tickflow-stock-panel](../../repos/shy3130/tickflow-stock-panel.md)
 
 **TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目**
 
@@ -391,7 +351,7 @@
 
 ---
 
-### 20. [laude-institute&#x2F;headlong](../../repos/laude-institute/headlong.md)
+### 18. [laude-institute&#x2F;headlong](../../repos/laude-institute/headlong.md)
 
 **An open source agent microharness featuring persistent agency and recursive LLMs. Of bash, by bash, for bash; it&#39;s shells all the way down.**
 
@@ -411,6 +371,46 @@
 
 ---
 
+### 19. [Xoshbin&#x2F;asyar](../../repos/Xoshbin/asyar.md)
+
+**The power of Raycast. The speed of Alfred. Privacy by design.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 519 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 65/100 |
+| 📈 **Trending Days** | 1 |
+| 📅 **First Seen** | Aug 26, 2026 |
+
+**Why it's a gem**: High growth velocity (+42 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/Xoshbin/asyar.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Xoshbin&#x2F;asyar)
+
+---
+
+### 20. [1weiho&#x2F;open-slide](../../repos/1weiho/open-slide.md)
+
+**A slide framework built for agents.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 7,243 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 64/100 |
+| 📈 **Trending Days** | 2 |
+| 📅 **First Seen** | Aug 27, 2026 |
+
+**Why it's a gem**: High growth velocity (+120 stars&#x2F;day) • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/1weiho/open-slide.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;1weiho&#x2F;open-slide)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-18T21:01:10.449Z*  
+*Generated: 2026-11-19T21:00:58.891Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

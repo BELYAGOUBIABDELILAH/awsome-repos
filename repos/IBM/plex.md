@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | CSS |
 | **License** | OFL-1.1 |
-| **Stars** | ⭐ 11,778 |
-| **Forks** | 🍴 625 |
-| **Trending Days** | 16 |
+| **Stars** | ⭐ 11,783 |
+| **Forks** | 🍴 624 |
+| **Trending Days** | 17 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 6, 2026 |
-| **Last Seen** | Nov 17, 2026 |
+| **Last Seen** | Nov 19, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 16
+- **Trending Days**: 17
 - **Longest Streak**: 3 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-18T21:01:06.886Z*  
-*Data from 16 trending reports*
+*Last updated: 2026-11-19T21:00:55.889Z*  
+*Data from 17 trending reports*

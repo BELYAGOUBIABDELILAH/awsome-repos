@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 249
+- **Total Repositories**: 250
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-05
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 122,230 | 2026-07-30 | 16 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 30,924 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 92,198 | 2026-07-31 | 11 |
+| [wealthfolio/wealthfolio](../repos/wealthfolio/wealthfolio.md) | ⭐ 9,596 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [malisper/pgrust](../repos/malisper/pgrust.md) | ⭐ 5,899 | 2026-08-08 | 6 |
+| [0xPlaygrounds/rig](../repos/0xPlaygrounds/rig.md) | ⭐ 9,190 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [louis-e/arnis](../repos/louis-e/arnis.md) | ⭐ 18,710 | 2026-08-09 | 6 |
+| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 45,850 | 2026-08-05 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rustfs/rustfs](../repos/rustfs/rustfs.md) | ⭐ 36,252 | 2026-08-09 | 13 |
+| [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 40,387 | 2026-08-05 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Automattic/harper](../repos/Automattic/harper.md) | ⭐ 17,842 | 2026-08-10 | 13 |
+| [malisper/pgrust](../repos/malisper/pgrust.md) | ⭐ 5,947 | 2026-08-08 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [screenpipe/screenpipe](../repos/screenpipe/screenpipe.md) | ⭐ 22,435 | 2026-08-10 | 3 |
+| [louis-e/arnis](../repos/louis-e/arnis.md) | ⭐ 18,737 | 2026-08-09 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 51,270 | 2026-08-12 | 8 |
+| [janhq/jan](../repos/janhq/jan.md) | ⭐ 45,862 | 2026-08-26 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [leepokai/Codync](../repos/leepokai/Codync.md) | ⭐ 2,252 | 2026-10-19 | 5 |
+| [SaladDay/cc-switch-cli](../repos/SaladDay/cc-switch-cli.md) | ⭐ 5,544 | 2026-11-18 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ViceVerse-cz/Serein](../repos/ViceVerse-cz/Serein.md) | ⭐ 1,419 | 2026-11-09 | 2 |
+| [perspective-dev/perspective](../repos/perspective-dev/perspective.md) | ⭐ 11,599 | 2026-11-19 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ModernRelay/omnigraph](../repos/ModernRelay/omnigraph.md) | ⭐ 2,819 | 2026-10-20 | Object-storage native graph database with branching and typed ontology |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Jamailar/Beav](../repos/Jamailar/Beav.md) | ⭐ 2,089 | 2026-10-20 | 小红书 AI 运营工作台｜小红书采集、评论区下载、素材库、选题、AI写作、小红书全域解决方案，开箱即用，一键安装，小红书AI工作台，自媒体素材库，AI写作+图片自动编排，小红书版OpenClaw... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [trymirai/uzu](../repos/trymirai/uzu.md) | ⭐ 3,333 | 2026-10-21 | A high-performance inference engine for AI models |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [vercel-labs/agent-desktop](../repos/vercel-labs/agent-desktop.md) | ⭐ 16,683 | 2026-11-02 | Computer use CLI for AI agents |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Duecki1/CalibRaw](../repos/Duecki1/CalibRaw.md) | ⭐ 287 | 2026-11-02 | Free, open-source RAW editor for Linux, Android, Windows and macOS. GPU-accelerated, non-destruct... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [lexmount/moli](../repos/lexmount/moli.md) | ⭐ 22,355 | 2026-11-03 | Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust |
 
 
 ---
@@ -121,7 +121,7 @@
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 22 | ⭐ 24,202 | 2026-08-08 | 2026-10-25 |
 | [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 20 | ⭐ 11,934 | 2026-08-26 | 2026-11-07 |
 | [openai/codex](../repos/openai/codex.md) | 19 | ⭐ 133,337 | 2026-08-01 | 2026-11-05 |
-| [t8y2/dbx](../repos/t8y2/dbx.md) | 18 | ⭐ 30,628 | 2026-08-01 | 2026-11-17 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | 19 | ⭐ 30,924 | 2026-08-01 | 2026-11-19 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 17 | ⭐ 42,354 | 2026-08-10 | 2026-10-26 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | 16 | ⭐ 122,230 | 2026-07-30 | 2026-11-18 |
 | [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | 16 | ⭐ 12,999 | 2026-08-17 | 2026-10-23 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-18T21:01:03.115Z*
+*Last updated: 2026-11-19T21:00:52.933Z*

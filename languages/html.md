@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 125
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-18
+- **Last Updated**: 2026-11-19
 
 ---
 
@@ -16,22 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 69,210 | 2026-08-01 | 25 |
+| [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | ⭐ 9,156 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 211,284 | 2026-08-03 | 25 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 69,231 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 30,053 | 2026-08-04 | 19 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 211,335 | 2026-08-03 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [datawhalechina/Agent-Learning-Hub](../repos/datawhalechina/Agent-Learning-Hub.md) | ⭐ 9,468 | 2026-09-03 | 11 |
+| [aoaostar/legado](../repos/aoaostar/legado.md) | ⭐ 7,522 | 2026-09-07 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Guyungy/damaihelper](../repos/Guyungy/damaihelper.md) | ⭐ 4,552 | 2026-09-09 | 4 |
+| [xbtlin/ai-berkshire](../repos/xbtlin/ai-berkshire.md) | ⭐ 17,193 | 2026-09-14 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [plannotator/effective-html](../repos/plannotator/effective-html.md) | ⭐ 4,252 | 2026-11-06 | 4 |
+| [CoolDude2349/Offline-HTML-Games-Pack](../repos/CoolDude2349/Offline-HTML-Games-Pack.md) | ⭐ 281 | 2026-09-29 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [plannotator/effective-html](../repos/plannotator/effective-html.md) | ⭐ 4,266 | 2026-11-06 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [projectcontour/contour](../repos/projectcontour/contour.md) | ⭐ 3,969 | 2026-11-19 | 1 |
 
 
 ---
@@ -55,7 +61,7 @@
 | [alshedivat/al-folio](../repos/alshedivat/al-folio.md) | ⭐ 16,310 | 2026-11-04 | A beautiful, simple, clean, and responsive Jekyll theme for academics |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [plannotator/effective-html](../repos/plannotator/effective-html.md) | ⭐ 4,252 | 2026-11-06 | Agent skills for useful HTML artifacts, wireframes, interactive prototypes, plans, and diagrams. |
+| [plannotator/effective-html](../repos/plannotator/effective-html.md) | ⭐ 4,266 | 2026-11-06 | Agent skills for useful HTML artifacts, wireframes, interactive prototypes, plans, and diagrams. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [naveedharri/baalda](../repos/naveedharri/baalda.md) | ⭐ 287 | 2026-11-06 | The team second brain. Plain Markdown files on your disk, edited together in real time, and read ... |
@@ -76,11 +82,11 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 211,284 | 2026-08-03 | 25 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 211,335 | 2026-08-03 | 26 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 141,705 | 2026-08-08 | 18 |
 | [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 76,773 | 2026-08-19 | 10 |
 | [eternity4719/HowToLiveBetter](../repos/eternity4719/HowToLiveBetter.md) | ⭐ 75,766 | 2026-11-13 | 2 |
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 69,210 | 2026-08-01 | 25 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 69,231 | 2026-08-01 | 26 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,685 | 2026-08-01 | 11 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 43,224 | 2026-08-12 | 13 |
 | [QSCTech/zju-icicles](../repos/QSCTech/zju-icicles.md) | ⭐ 41,365 | 2026-09-03 | 5 |
@@ -103,8 +109,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 25 | ⭐ 69,210 | 2026-08-01 | 2026-11-18 |
-| [ossu/computer-science](../repos/ossu/computer-science.md) | 25 | ⭐ 211,284 | 2026-08-03 | 2026-11-18 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 26 | ⭐ 69,231 | 2026-08-01 | 2026-11-19 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | 26 | ⭐ 211,335 | 2026-08-03 | 2026-11-19 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 19 | ⭐ 30,053 | 2026-08-04 | 2026-11-18 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 18 | ⭐ 10,131 | 2026-08-01 | 2026-11-07 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 18 | ⭐ 11,040 | 2026-08-03 | 2026-10-28 |
@@ -175,7 +181,6 @@
 - [davidarroyo1234/InstagramUnfollowers](../repos/davidarroyo1234/InstagramUnfollowers.md) - Check if people follows you back on Instagram.
 - [Manavarya09/design-extract](../repos/Manavarya09/design-extract.md) - Extract any website&#39;s complete design system with one command. DTCG tokens, semantic+primitive+co...
 - [fcaronte/KingInstaller](../repos/fcaronte/KingInstaller.md) - Porting of KingInstaller get from GitLab by annexhack
-- [tianma-if/edgeever](../repos/tianma-if/edgeever.md) - Serverless, 100% free, and open-source Evernote alternative on Cloudflare with native MCP | 无需服务器...
 - [rdkit/rdkit](../repos/rdkit/rdkit.md) - The official sources for the RDKit library
 - [openshift/openshift-docs](../repos/openshift/openshift-docs.md) - OpenShift 3 and 4 product and community documentation
 - [ultrasecurity/Storm-Breaker](../repos/ultrasecurity/Storm-Breaker.md) - Social engineering tool [Access Webcam &amp; Microphone  &amp; Location Finder] With {Py,JS,PHP}
@@ -218,7 +223,8 @@
 - [dequelabs/axe-core](../repos/dequelabs/axe-core.md) - Accessibility engine for automated Web UI testing
 - [gn-math/html](../repos/gn-math/html.md) - used for statistics https:&#x2F;&#x2F;data.jsdelivr.com&#x2F;v1&#x2F;stats&#x2F;packages&#x2F;gh&#x2F;gn-math&#x2F;html@main&#x2F;files?period...
 - [pedrohcgs/claude-code-my-workflow](../repos/pedrohcgs/claude-code-my-workflow.md) - A ready-to-fork Claude Code template for academics using LaTeX&#x2F;Beamer + R. Multi-agent review, qu...
+- [alchaincyf/darwin-skill](../repos/alchaincyf/darwin-skill.md) - 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimizati...
 
 ---
 
-*Last updated: 2026-11-18T21:01:03.055Z*
+*Last updated: 2026-11-19T21:00:52.886Z*

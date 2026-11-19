@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 186
+- **Total Repositories**: 187
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-16
 
@@ -16,28 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | ⭐ 8,998 | 2026-08-02 | 17 |
+| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | ⭐ 9,037 | 2026-08-02 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitwarden/android](../repos/bitwarden/android.md) | ⭐ 9,662 | 2026-08-05 | 11 |
+| [cwuom/NeriPlayer](../repos/cwuom/NeriPlayer.md) | ⭐ 4,298 | 2026-08-05 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 57,897 | 2026-08-06 | 20 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 57,948 | 2026-08-06 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aquamarine5/ChaoxingSignFaker](../repos/aquamarine5/ChaoxingSignFaker.md) | ⭐ 1,165 | 2026-09-24 | 5 |
+| [EchoMusicApp/Echo-Music](../repos/EchoMusicApp/Echo-Music.md) | ⭐ 2,640 | 2026-08-09 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [carlelieser/shizzi](../repos/carlelieser/shizzi.md) | ⭐ 344 | 2026-10-16 | 5 |
+| [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 28,950 | 2026-08-11 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SukiSU-Nova/SukiSU-Nova](../repos/SukiSU-Nova/SukiSU-Nova.md) | ⭐ 7,240 | 2026-11-16 | 2 |
+| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 25,381 | 2026-08-12 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ravindu644/Droidspaces-OSS](../repos/ravindu644/Droidspaces-OSS.md) | ⭐ 2,547 | 2026-11-18 | 1 |
+| [ianshulyadav/PixelMusic](../repos/ianshulyadav/PixelMusic.md) | ⭐ 382 | 2026-11-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [justshivv/Opentune](../repos/justshivv/Opentune.md) | ⭐ 324 | 2026-11-18 | 1 |
+| [SukiSU-Nova/SukiSU-Nova](../repos/SukiSU-Nova/SukiSU-Nova.md) | ⭐ 7,268 | 2026-11-16 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [madkongo/CallVault](../repos/madkongo/CallVault.md) | ⭐ 292 | 2026-11-17 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [justshivv/Opentune](../repos/justshivv/Opentune.md) | ⭐ 337 | 2026-11-18 | 2 |
 
 
 ---
@@ -61,7 +67,7 @@
 | [realidkroo/Mochy-Music](../repos/realidkroo/Mochy-Music.md) | ⭐ 1,796 | 2026-10-28 | A modern, cool, sleek music player. made with &lt;3 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ianshulyadav/PixelMusic](../repos/ianshulyadav/PixelMusic.md) | ⭐ 295 | 2026-11-02 | Pixel Music is an open-source Android music player. Stream YouTube Music &amp; Telegram, play Hi-Res ... |
+| [ianshulyadav/PixelMusic](../repos/ianshulyadav/PixelMusic.md) | ⭐ 382 | 2026-11-02 | Pixel Music is an open-source Android music player. Stream YouTube Music &amp; Telegram, play Hi-Res ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [roro2239/Stellar](../repos/roro2239/Stellar.md) | ⭐ 1,821 | 2026-11-08 | Another Shizuku impl |
@@ -84,15 +90,15 @@
 |------------|-------|------------|---------------|
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 66,022 | 2026-08-02 | 26 |
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 64,065 | 2026-08-03 | 19 |
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 57,897 | 2026-08-06 | 20 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 57,948 | 2026-08-06 | 21 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,561 | 2026-08-04 | 15 |
 | [android/architecture-samples](../repos/android/architecture-samples.md) | ⭐ 45,876 | 2026-10-14 | 2 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 44,223 | 2026-08-03 | 18 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 33,864 | 2026-08-08 | 24 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,537 | 2026-08-05 | 8 |
-| [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 28,342 | 2026-08-11 | 5 |
+| [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 28,950 | 2026-08-11 | 6 |
+| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 25,381 | 2026-08-12 | 11 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 25,276 | 2026-08-01 | 19 |
-| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 25,103 | 2026-08-12 | 10 |
 | [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,479 | 2026-08-05 | 6 |
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 23,173 | 2026-08-02 | 6 |
 | [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 22,074 | 2026-08-01 | 12 |
@@ -112,12 +118,12 @@
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 26 | ⭐ 66,022 | 2026-08-02 | 2026-11-16 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 24 | ⭐ 33,864 | 2026-08-08 | 2026-11-16 |
 | [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 22 | ⭐ 3,366 | 2026-08-02 | 2026-11-15 |
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 20 | ⭐ 57,897 | 2026-08-06 | 2026-11-18 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 21 | ⭐ 57,948 | 2026-08-06 | 2026-11-19 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 19 | ⭐ 25,276 | 2026-08-01 | 2026-11-13 |
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 19 | ⭐ 64,065 | 2026-08-03 | 2026-11-16 |
+| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | 18 | ⭐ 9,037 | 2026-08-02 | 2026-11-19 |
 | [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | 18 | ⭐ 11,324 | 2026-08-03 | 2026-11-16 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | 18 | ⭐ 44,223 | 2026-08-03 | 2026-11-07 |
-| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | 17 | ⭐ 8,998 | 2026-08-02 | 2026-11-18 |
 | [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) | 16 | ⭐ 2,217 | 2026-08-04 | 2026-11-09 |
 
 ---
@@ -227,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-18T21:01:03.071Z*
+*Last updated: 2026-11-19T21:00:52.897Z*
