@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 45
+- **Total Repositories**: 46
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-19
+- **Last Updated**: 2026-11-20
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | ⭐ 1,281 | 2026-08-01 | 62 |
+| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | ⭐ 1,286 | 2026-08-01 | 63 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | ⭐ 64,249 | 2026-08-01 | 86 |
+| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | ⭐ 64,284 | 2026-08-01 | 87 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | ⭐ 17,403 | 2026-08-01 | 82 |
+| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | ⭐ 17,410 | 2026-08-01 | 83 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/native](../repos/vercel-labs/native.md) | ⭐ 7,852 | 2026-08-02 | 61 |
+| [vercel-labs/native](../repos/vercel-labs/native.md) | ⭐ 7,854 | 2026-08-02 | 62 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mitchellh/libxev](../repos/mitchellh/libxev.md) | ⭐ 3,612 | 2026-08-23 | 9 |
+| [mitchellh/libxev](../repos/mitchellh/libxev.md) | ⭐ 3,612 | 2026-08-23 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [antflydb/antfly](../repos/antflydb/antfly.md) | ⭐ 511 | 2026-08-26 | 5 |
+| [antflydb/antfly](../repos/antflydb/antfly.md) | ⭐ 517 | 2026-08-26 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sleep3r/mtproto.zig](../repos/sleep3r/mtproto.zig.md) | ⭐ 1,966 | 2026-09-05 | 42 |
+| [sleep3r/mtproto.zig](../repos/sleep3r/mtproto.zig.md) | ⭐ 1,957 | 2026-09-05 | 43 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/fx](../repos/vercel-labs/fx.md) | ⭐ 3,926 | 2026-10-11 | 30 |
+| [vercel-labs/fx](../repos/vercel-labs/fx.md) | ⭐ 3,937 | 2026-10-11 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [blackboardsh/electrobun](../repos/blackboardsh/electrobun.md) | ⭐ 13,090 | 2026-10-29 | 12 |
+| [blackboardsh/electrobun](../repos/blackboardsh/electrobun.md) | ⭐ 13,103 | 2026-10-29 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [karlseguin/websocket.zig](../repos/karlseguin/websocket.zig.md) | ⭐ 527 | 2026-11-13 | 3 |
+| [karlseguin/websocket.zig](../repos/karlseguin/websocket.zig.md) | ⭐ 528 | 2026-11-13 | 4 |
 
 
 ---
@@ -52,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [blackboardsh/electrobun](../repos/blackboardsh/electrobun.md) | ⭐ 13,090 | 2026-10-29 | Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Rust, Go, or Odin. |
+| [blackboardsh/electrobun](../repos/blackboardsh/electrobun.md) | ⭐ 13,103 | 2026-10-29 | Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Rust, Go, or Odin. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [const-void/DOOM-fire-zig](../repos/const-void/DOOM-fire-zig.md) | ⭐ 261 | 2026-11-05 | DOOM&#39;s fire algo, in zig, for 256 color terminals w&#x2F;no dependencies |
@@ -61,13 +61,16 @@
 | [manishrjain/egres](../repos/manishrjain/egres.md) | ⭐ 273 | 2026-11-07 | A Postgres Compatible Database for Heavy, Multi-Tenant Workloads |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [karlseguin/websocket.zig](../repos/karlseguin/websocket.zig.md) | ⭐ 527 | 2026-11-13 | A websocket implementation for zig |
+| [karlseguin/websocket.zig](../repos/karlseguin/websocket.zig.md) | ⭐ 528 | 2026-11-13 | A websocket implementation for zig |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [natecraddock/ziglua](../repos/natecraddock/ziglua.md) | ⭐ 544 | 2026-11-16 | Zig bindings for the Lua C API |
+| [natecraddock/ziglua](../repos/natecraddock/ziglua.md) | ⭐ 547 | 2026-11-16 | Zig bindings for the Lua C API |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [simoarpe/ziggity](../repos/simoarpe/ziggity.md) | ⭐ 479 | 2026-11-19 | ⚡️  Ziggity an ultra fast, keyboard driven terminal UI for Git, written in Zig.  |
+| [simoarpe/ziggity](../repos/simoarpe/ziggity.md) | ⭐ 485 | 2026-11-19 | ⚡️  Ziggity an ultra fast, keyboard driven terminal UI for Git, written in Zig.  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [beamivalice/sushi](../repos/beamivalice/sushi.md) | ⭐ 499 | 2026-11-20 | Sushi engine runs very high quality quant model in Apple Silicon, using both STQ and EXL3 format ... |
 
 
 ---
@@ -76,17 +79,17 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | ⭐ 64,249 | 2026-08-01 | 86 |
+| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | ⭐ 64,284 | 2026-08-01 | 87 |
 | [lightpanda-io/browser](../repos/lightpanda-io/browser.md) | ⭐ 42,223 | 2026-08-02 | 71 |
-| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | ⭐ 17,403 | 2026-08-01 | 82 |
-| [blackboardsh/electrobun](../repos/blackboardsh/electrobun.md) | ⭐ 13,090 | 2026-10-29 | 12 |
+| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | ⭐ 17,410 | 2026-08-01 | 83 |
+| [blackboardsh/electrobun](../repos/blackboardsh/electrobun.md) | ⭐ 13,103 | 2026-10-29 | 13 |
 | [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | ⭐ 8,229 | 2026-08-04 | 44 |
-| [vercel-labs/native](../repos/vercel-labs/native.md) | ⭐ 7,852 | 2026-08-02 | 61 |
+| [vercel-labs/native](../repos/vercel-labs/native.md) | ⭐ 7,854 | 2026-08-02 | 62 |
 | [riverwm/river](../repos/riverwm/river.md) | ⭐ 4,320 | 2026-08-01 | 15 |
 | [zml/zml](../repos/zml/zml.md) | ⭐ 4,259 | 2026-08-01 | 41 |
-| [vercel-labs/fx](../repos/vercel-labs/fx.md) | ⭐ 3,926 | 2026-10-11 | 30 |
+| [vercel-labs/fx](../repos/vercel-labs/fx.md) | ⭐ 3,937 | 2026-10-11 | 31 |
 | [PixelGuys/Cubyz](../repos/PixelGuys/Cubyz.md) | ⭐ 3,747 | 2026-08-01 | 23 |
-| [mitchellh/libxev](../repos/mitchellh/libxev.md) | ⭐ 3,612 | 2026-08-23 | 9 |
+| [mitchellh/libxev](../repos/mitchellh/libxev.md) | ⭐ 3,612 | 2026-08-23 | 10 |
 | [jstrieb/github-stats](../repos/jstrieb/github-stats.md) | ⭐ 3,559 | 2026-08-01 | 21 |
 | [Loongphy/codex-auth](../repos/Loongphy/codex-auth.md) | ⭐ 2,868 | 2026-08-01 | 52 |
 | [pedropark99/zig-book](../repos/pedropark99/zig-book.md) | ⭐ 2,679 | 2026-08-02 | 3 |
@@ -94,7 +97,7 @@
 | [ZigEmbeddedGroup/microzig](../repos/ZigEmbeddedGroup/microzig.md) | ⭐ 2,337 | 2026-08-03 | 8 |
 | [neurosnap/zmx](../repos/neurosnap/zmx.md) | ⭐ 2,286 | 2026-08-01 | 57 |
 | [rockorager/libvaxis](../repos/rockorager/libvaxis.md) | ⭐ 2,007 | 2026-08-01 | 14 |
-| [sleep3r/mtproto.zig](../repos/sleep3r/mtproto.zig.md) | ⭐ 1,966 | 2026-09-05 | 42 |
+| [sleep3r/mtproto.zig](../repos/sleep3r/mtproto.zig.md) | ⭐ 1,957 | 2026-09-05 | 43 |
 | [raylib-zig/raylib-zig](../repos/raylib-zig/raylib-zig.md) | ⭐ 1,909 | 2026-08-07 | 8 |
 
 ---
@@ -103,15 +106,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | 86 | ⭐ 64,249 | 2026-08-01 | 2026-11-19 |
-| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | 82 | ⭐ 17,403 | 2026-08-01 | 2026-11-19 |
+| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | 87 | ⭐ 64,284 | 2026-08-01 | 2026-11-20 |
+| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | 83 | ⭐ 17,410 | 2026-08-01 | 2026-11-20 |
 | [lightpanda-io/browser](../repos/lightpanda-io/browser.md) | 71 | ⭐ 42,223 | 2026-08-02 | 2026-11-18 |
-| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | 62 | ⭐ 1,281 | 2026-08-01 | 2026-11-19 |
-| [vercel-labs/native](../repos/vercel-labs/native.md) | 61 | ⭐ 7,852 | 2026-08-02 | 2026-11-19 |
+| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | 63 | ⭐ 1,286 | 2026-08-01 | 2026-11-20 |
+| [vercel-labs/native](../repos/vercel-labs/native.md) | 62 | ⭐ 7,854 | 2026-08-02 | 2026-11-20 |
 | [neurosnap/zmx](../repos/neurosnap/zmx.md) | 57 | ⭐ 2,286 | 2026-08-01 | 2026-11-16 |
 | [Loongphy/codex-auth](../repos/Loongphy/codex-auth.md) | 52 | ⭐ 2,868 | 2026-08-01 | 2026-11-13 |
 | [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | 44 | ⭐ 8,229 | 2026-08-04 | 2026-11-16 |
-| [sleep3r/mtproto.zig](../repos/sleep3r/mtproto.zig.md) | 42 | ⭐ 1,966 | 2026-09-05 | 2026-11-19 |
+| [sleep3r/mtproto.zig](../repos/sleep3r/mtproto.zig.md) | 43 | ⭐ 1,957 | 2026-09-05 | 2026-11-20 |
 | [zml/zml](../repos/zml/zml.md) | 41 | ⭐ 4,259 | 2026-08-01 | 2026-11-14 |
 
 ---
@@ -163,7 +166,8 @@
 - [karlseguin/websocket.zig](../repos/karlseguin/websocket.zig.md) - A websocket implementation for zig
 - [natecraddock/ziglua](../repos/natecraddock/ziglua.md) - Zig bindings for the Lua C API
 - [simoarpe/ziggity](../repos/simoarpe/ziggity.md) - ⚡️  Ziggity an ultra fast, keyboard driven terminal UI for Git, written in Zig. 
+- [beamivalice/sushi](../repos/beamivalice/sushi.md) - Sushi engine runs very high quality quant model in Apple Silicon, using both STQ and EXL3 format ...
 
 ---
 
-*Last updated: 2026-11-19T21:00:52.961Z*
+*Last updated: 2026-11-20T21:01:06.538Z*

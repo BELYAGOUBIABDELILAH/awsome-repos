@@ -14,11 +14,11 @@
 | **License** | BSD-3-Clause |
 | **Stars** | ⭐ 7,928 |
 | **Forks** | 🍴 1,525 |
-| **Trending Days** | 11 |
+| **Trending Days** | 12 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Nov 19, 2026 |
+| **Last Seen** | Nov 20, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 11
-- **Longest Streak**: 6 days
+- **Trending Days**: 12
+- **Longest Streak**: 7 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-19T21:00:55.545Z*  
-*Data from 11 trending reports*
+*Last updated: 2026-11-20T21:01:08.609Z*  
+*Data from 12 trending reports*

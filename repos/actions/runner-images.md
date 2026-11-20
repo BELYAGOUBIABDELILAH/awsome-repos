@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | PowerShell |
 | **License** | MIT |
-| **Stars** | ⭐ 13,614 |
-| **Forks** | 🍴 3,998 |
-| **Trending Days** | 64 |
+| **Stars** | ⭐ 13,615 |
+| **Forks** | 🍴 3,996 |
+| **Trending Days** | 65 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 19, 2026 |
+| **Last Seen** | Nov 20, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 64
+- **Trending Days**: 65
 - **Longest Streak**: 8 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-19T21:00:54.959Z*  
-*Data from 64 trending reports*
+*Last updated: 2026-11-20T21:01:08.141Z*  
+*Data from 65 trending reports*

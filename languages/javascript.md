@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 198
+- **Total Repositories**: 199
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-12
 
@@ -16,37 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 35,295 | 2026-08-02 | 12 |
+| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 35,311 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) | ⭐ 34,539 | 2026-08-19 | 11 |
+| [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) | ⭐ 34,608 | 2026-08-19 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 60,105 | 2026-10-14 | 3 |
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,662 | 2026-08-20 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [michael-denyer/pstack-claude](../repos/michael-denyer/pstack-claude.md) | ⭐ 4,572 | 2026-10-16 | 6 |
+| [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 60,107 | 2026-10-14 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [babygoton/WorkDaddy](../repos/babygoton/WorkDaddy.md) | ⭐ 3,282 | 2026-11-07 | 2 |
+| [michael-denyer/pstack-claude](../repos/michael-denyer/pstack-claude.md) | ⭐ 4,618 | 2026-10-16 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [micromatch/picomatch](../repos/micromatch/picomatch.md) | ⭐ 1,332 | 2026-11-19 | 1 |
+| [babygoton/WorkDaddy](../repos/babygoton/WorkDaddy.md) | ⭐ 3,305 | 2026-11-07 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [micromatch/picomatch](../repos/micromatch/picomatch.md) | ⭐ 1,331 | 2026-11-19 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [NomaDamas/CozyClay](../repos/NomaDamas/CozyClay.md) | ⭐ 886 | 2026-10-21 | Open source previs software in the browser: block a scene, pose characters, author camera moves a... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [xmanrui/dsh-im](../repos/xmanrui/dsh-im.md) | ⭐ 2,615 | 2026-10-21 | 通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect I... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [shaobeichen/dsh-pocket](../repos/shaobeichen/dsh-pocket.md) | ⭐ 2,244 | 2026-10-21 | 把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）Put DeepSeek Harness in your pocke... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [adobe/skills](../repos/adobe/skills.md) | ⭐ 295 | 2026-10-22 | Adobe Skills for Agents |
@@ -68,6 +62,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mozilla-firefox/firefox](../repos/mozilla-firefox/firefox.md) | ⭐ 13,636 | 2026-10-28 | The official repository of Mozilla&#39;s Firefox web browser. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Orkas-AI/Orkas](../repos/Orkas-AI/Orkas.md) | ⭐ 9,302 | 2026-11-02 | Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [DeanChensj/jiangshan-map](../repos/DeanChensj/jiangshan-map.md) | ⭐ 7,904 | 2026-11-02 | 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynastie... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [csyangwen/dsh-memory-evolve](../repos/csyangwen/dsh-memory-evolve.md) | ⭐ 627 | 2026-11-03 | 为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 ·... |
 
 
 ---
@@ -94,7 +97,7 @@
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 65,279 | 2026-08-27 | 16 |
 | [jgraph/drawio-desktop](../repos/jgraph/drawio-desktop.md) | ⭐ 63,817 | 2026-11-04 | 1 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,485 | 2026-08-11 | 5 |
-| [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 60,105 | 2026-10-14 | 3 |
+| [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 60,107 | 2026-10-14 | 4 |
 | [chinese-poetry/chinese-poetry](../repos/chinese-poetry/chinese-poetry.md) | ⭐ 54,296 | 2026-11-10 | 2 |
 
 ---
@@ -107,12 +110,12 @@
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 32 | ⭐ 14,607 | 2026-08-02 | 2026-11-07 |
 | [byoungd/up](../repos/byoungd/up.md) | 22 | ⭐ 70,623 | 2026-08-01 | 2026-11-16 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 22 | ⭐ 90,383 | 2026-08-04 | 2026-10-27 |
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | 21 | ⭐ 1,662 | 2026-08-20 | 2026-11-20 |
 | [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 19 | ⭐ 34,116 | 2026-08-08 | 2026-11-11 |
 | [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | 19 | ⭐ 69,110 | 2026-08-28 | 2026-11-10 |
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | 16 | ⭐ 65,279 | 2026-08-27 | 2026-11-16 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 15 | ⭐ 143,756 | 2026-07-30 | 2026-11-18 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
-| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | 15 | ⭐ 39,049 | 2026-08-16 | 2026-11-09 |
 
 ---
 
@@ -210,6 +213,7 @@
 - [simple-icons/simple-icons](../repos/simple-icons/simple-icons.md) - SVG icons for popular brands
 - [jarrodwatts/claude-hud](../repos/jarrodwatts/claude-hud.md) - A Claude Code plugin that shows what&#39;s happening - context usage, active tools, running agents, a...
 - [google/zx](../repos/google/zx.md) - A tool for writing better scripts
+- [microsoft/azure-skills](../repos/microsoft/azure-skills.md) - Official agent plugin providing skills and MCP server configurations for Azure scenarios.
 - [anthropics/claude-plugins-community](../repos/anthropics/claude-plugins-community.md) - Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins...
 - [team-codebug/babua-dsa-patterns-course](../repos/team-codebug/babua-dsa-patterns-course.md) - 
 - [kunchenguid/lavish-axi](../repos/kunchenguid/lavish-axi.md) - HTML is the new markdown. Lavish is the new editor for your HTML artifacts.
@@ -217,8 +221,7 @@
 - [openwrt/luci](../repos/openwrt/luci.md) - LuCI - OpenWrt Configuration Interface
 - [FB208/OpenBidKit_Yibiao](../repos/FB208/OpenBidKit_Yibiao.md) - 开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用
 - [fmhy/edit](../repos/fmhy/edit.md) - Make changes to FMHY
-- [nasa-gibs/worldview](../repos/nasa-gibs/worldview.md) - Interactive interface for browsing global, full-resolution satellite imagery
 
 ---
 
-*Last updated: 2026-11-19T21:00:52.892Z*
+*Last updated: 2026-11-20T21:01:06.474Z*

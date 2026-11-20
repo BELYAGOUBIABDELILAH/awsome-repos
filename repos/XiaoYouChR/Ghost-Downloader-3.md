@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 12,589 |
-| **Forks** | 🍴 785 |
-| **Trending Days** | 6 |
+| **Stars** | ⭐ 13,601 |
+| **Forks** | 🍴 836 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #15 |
 
 | **First Seen** | Oct 11, 2026 |
-| **Last Seen** | Nov 19, 2026 |
+| **Last Seen** | Nov 20, 2026 |
 
 
 ---
@@ -44,11 +44,12 @@
 ## Trending Timeline
 
 **Nov 19, 2026** — Rank #15 (+449 ⭐)  
+**Nov 20, 2026** — Rank #15 (+1082 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #15
-- **Trending Days**: 6
+- **Trending Days**: 7
 - **Longest Streak**: 3 days
 
 ---
@@ -92,5 +93,5 @@
 
 ---
 
-*Last updated: 2026-11-19T21:00:58.007Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-11-20T21:01:10.608Z*  
+*Data from 7 trending reports*

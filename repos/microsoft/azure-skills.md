@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | Shell |
+| **Language** | JavaScript |
 | **License** | MIT |
-| **Stars** | ⭐ 1,658 |
-| **Forks** | 🍴 270 |
-| **Trending Days** | 20 |
+| **Stars** | ⭐ 1,662 |
+| **Forks** | 🍴 272 |
+| **Trending Days** | 21 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 20, 2026 |
-| **Last Seen** | Nov 19, 2026 |
+| **Last Seen** | Nov 20, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Shell or agent-skills*
+*Similar: Check repositories in JavaScript or agent-skills*
 
 ---
 
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 20
-- **Longest Streak**: 3 days
+- **Trending Days**: 21
+- **Longest Streak**: 4 days
 
 ---
 
@@ -81,7 +81,7 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in Shell
+- Check similar projects in JavaScript
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-19T21:00:56.779Z*  
-*Data from 20 trending reports*
+*Last updated: 2026-11-20T21:01:09.589Z*  
+*Data from 21 trending reports*

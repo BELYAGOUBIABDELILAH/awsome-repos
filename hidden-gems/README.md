@@ -7,27 +7,27 @@
 ## All Time
 
 **Period**: Beginning to Present  
-**Gems Found**: 1240
+**Gems Found**: 1234
 
 ---
 
-### 1. [leepokai&#x2F;Codync](../../repos/leepokai/Codync.md)
+### 1. [croffasia&#x2F;itsaplan](../../repos/croffasia/itsaplan.md)
 
-**Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.**
+**⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2,252 |
-| 💻 **Language** | Rust |
+| ⭐ **Stars** | 2,437 |
+| 💻 **Language** | TypeScript |
 | 🏆 **Gem Score** | 98/100 |
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Oct 19, 2026 |
 
-**Why it's a gem**: High growth velocity (+108 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+91 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/leepokai/Codync.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;leepokai&#x2F;Codync)
+[View Passport](../../repos/croffasia/itsaplan.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;croffasia&#x2F;itsaplan)
 
 ---
 
@@ -71,23 +71,23 @@
 
 ---
 
-### 4. [ModernRelay&#x2F;omnigraph](../../repos/ModernRelay/omnigraph.md)
+### 4. [leepokai&#x2F;Codync](../../repos/leepokai/Codync.md)
 
-**Object-storage native graph database with branching and typed ontology**
+**Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2,819 |
+| ⭐ **Stars** | 2,252 |
 | 💻 **Language** | Rust |
 | 🏆 **Gem Score** | 97/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Oct 20, 2026 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Oct 19, 2026 |
 
-**Why it's a gem**: High growth velocity (+161 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+108 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/ModernRelay/omnigraph.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;ModernRelay&#x2F;omnigraph)
+[View Passport](../../repos/leepokai/Codync.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;leepokai&#x2F;Codync)
 
 ---
 
@@ -131,47 +131,27 @@
 
 ---
 
-### 7. [zzet&#x2F;gortex](../../repos/zzet/gortex.md)
+### 7. [ModernRelay&#x2F;omnigraph](../../repos/ModernRelay/omnigraph.md)
 
-**High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https:&#x2F;&#x2F;discord.gg&#x2F;39MFHu3J5d**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,003 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 96/100 |
-| 📈 **Trending Days** | 7 |
-| 📅 **First Seen** | Aug 4, 2026 |
-
-**Why it's a gem**: High growth velocity (+50 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/zzet/gortex.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;zzet&#x2F;gortex)
-
----
-
-### 8. [Tencent&#x2F;LoopForge](../../repos/Tencent/LoopForge.md)
-
-**Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.**
+**Object-storage native graph database with branching and typed ontology**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4,046 |
-| 💻 **Language** | Go |
+| ⭐ **Stars** | 2,819 |
+| 💻 **Language** | Rust |
 | 🏆 **Gem Score** | 96/100 |
-| 📈 **Trending Days** | 9 |
-| 📅 **First Seen** | Nov 11, 2026 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Oct 20, 2026 |
 
-**Why it's a gem**: High growth velocity (+561 stars&#x2F;day) • Trending 9 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+161 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/Tencent/LoopForge.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Tencent&#x2F;LoopForge)
+[View Passport](../../repos/ModernRelay/omnigraph.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;ModernRelay&#x2F;omnigraph)
 
 ---
 
-### 9. [NVIDIA&#x2F;SkillEvaluator](../../repos/NVIDIA/SkillEvaluator.md)
+### 8. [NVIDIA&#x2F;SkillEvaluator](../../repos/NVIDIA/SkillEvaluator.md)
 
 **Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.**
 
@@ -191,7 +171,7 @@
 
 ---
 
-### 10. [vivizzz007&#x2F;vivi-music](../../repos/vivizzz007/vivi-music.md)
+### 9. [vivizzz007&#x2F;vivi-music](../../repos/vivizzz007/vivi-music.md)
 
 **Vivi-Music is an expressive Material 3–based YouTube Music client for Android.**
 
@@ -211,19 +191,39 @@
 
 ---
 
+### 10. [zzet&#x2F;gortex](../../repos/zzet/gortex.md)
+
+**High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https:&#x2F;&#x2F;discord.gg&#x2F;39MFHu3J5d**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,003 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 95/100 |
+| 📈 **Trending Days** | 7 |
+| 📅 **First Seen** | Aug 4, 2026 |
+
+**Why it's a gem**: High growth velocity (+50 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/zzet/gortex.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;zzet&#x2F;gortex)
+
+---
+
 ### 11. [michael-denyer&#x2F;pstack-claude](../../repos/michael-denyer/pstack-claude.md)
 
 **Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto&#39;s pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4,572 |
+| ⭐ **Stars** | 4,618 |
 | 💻 **Language** | JavaScript |
 | 🏆 **Gem Score** | 95/100 |
-| 📈 **Trending Days** | 6 |
+| 📈 **Trending Days** | 7 |
 | 📅 **First Seen** | Oct 16, 2026 |
 
-**Why it's a gem**: High growth velocity (+166 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+149 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -231,19 +231,39 @@
 
 ---
 
-### 12. [malisper&#x2F;pgrust](../../repos/malisper/pgrust.md)
+### 12. [Tencent&#x2F;LoopForge](../../repos/Tencent/LoopForge.md)
+
+**Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 5,258 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 95/100 |
+| 📈 **Trending Days** | 10 |
+| 📅 **First Seen** | Nov 11, 2026 |
+
+**Why it's a gem**: High growth velocity (+627 stars&#x2F;day) • Trending 10 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/Tencent/LoopForge.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Tencent&#x2F;LoopForge)
+
+---
+
+### 13. [malisper&#x2F;pgrust](../../repos/malisper/pgrust.md)
 
 **Postgres rewritten in Rust, now faster than Postgres and Clickhouse**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5,947 |
+| ⭐ **Stars** | 5,969 |
 | 💻 **Language** | Rust |
 | 🏆 **Gem Score** | 94/100 |
-| 📈 **Trending Days** | 7 |
+| 📈 **Trending Days** | 8 |
 | 📅 **First Seen** | Aug 8, 2026 |
 
-**Why it's a gem**: High growth velocity (+64 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+60 stars&#x2F;day) • Trending 8 times • Very active development • Strong community engagement
 
 **Best for**: 
 
@@ -251,7 +271,7 @@
 
 ---
 
-### 13. [PCL-Community&#x2F;PCL-CE](../../repos/PCL-Community/PCL-CE.md)
+### 14. [PCL-Community&#x2F;PCL-CE](../../repos/PCL-Community/PCL-CE.md)
 
 **PCL 社区版 由社区开发者维护与管理**
 
@@ -271,7 +291,7 @@
 
 ---
 
-### 14. [derv82&#x2F;wifit3](../../repos/derv82/wifit3.md)
+### 15. [derv82&#x2F;wifit3](../../repos/derv82/wifit3.md)
 
 **Wifite but USB-only &amp; cross-platform.**
 
@@ -291,19 +311,19 @@
 
 ---
 
-### 15. [InlitX&#x2F;GymMane](../../repos/InlitX/GymMane.md)
+### 16. [InlitX&#x2F;GymMane](../../repos/InlitX/GymMane.md)
 
 ** Offline gym log for Android. No account, no ads, no internet.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1,877 |
+| ⭐ **Stars** | 1,915 |
 | 💻 **Language** | Dart |
 | 🏆 **Gem Score** | 94/100 |
-| 📈 **Trending Days** | 15 |
+| 📈 **Trending Days** | 16 |
 | 📅 **First Seen** | Oct 13, 2026 |
 
-**Why it's a gem**: High growth velocity (+42 stars&#x2F;day) • Trending 15 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+42 stars&#x2F;day) • Trending 16 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -311,47 +331,7 @@
 
 ---
 
-### 16. [croffasia&#x2F;itsaplan](../../repos/croffasia/itsaplan.md)
-
-**⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,414 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 94/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Oct 19, 2026 |
-
-**Why it's a gem**: High growth velocity (+109 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/croffasia/itsaplan.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;croffasia&#x2F;itsaplan)
-
----
-
-### 17. [hanliang97&#x2F;MatrixMedia](../../repos/hanliang97/MatrixMedia.md)
-
-**视频矩阵工具 vue electorn puppeteer 批量发布 视频到各个视频平台 自媒体 矩阵 抖音 小红书 头条 视频号 快手等 ai 自动化 cli**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,529 |
-| 💻 **Language** | JavaScript |
-| 🏆 **Gem Score** | 94/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Oct 27, 2026 |
-
-**Why it's a gem**: High growth velocity (+56 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/hanliang97/MatrixMedia.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;hanliang97&#x2F;MatrixMedia)
-
----
-
-### 18. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
+### 17. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
 
 **GitHub Stacked PRs**
 
@@ -371,7 +351,7 @@
 
 ---
 
-### 19. [harry0703&#x2F;MangoDisk](../../repos/harry0703/MangoDisk.md)
+### 18. [harry0703&#x2F;MangoDisk](../../repos/harry0703/MangoDisk.md)
 
 **Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.**
 
@@ -391,27 +371,27 @@
 
 ---
 
-### 20. [plannotator&#x2F;effective-html](../../repos/plannotator/effective-html.md)
+### 19. [hanliang97&#x2F;MatrixMedia](../../repos/hanliang97/MatrixMedia.md)
 
-**Agent skills for useful HTML artifacts, wireframes, interactive prototypes, plans, and diagrams.**
+**视频矩阵工具 vue electorn puppeteer 批量发布 视频到各个视频平台 自媒体 矩阵 抖音 小红书 头条 视频号 快手等 ai 自动化 cli**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4,266 |
-| 💻 **Language** | HTML |
+| ⭐ **Stars** | 1,529 |
+| 💻 **Language** | JavaScript |
 | 🏆 **Gem Score** | 93/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Nov 6, 2026 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Oct 27, 2026 |
 
-**Why it's a gem**: High growth velocity (+56 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+56 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/plannotator/effective-html.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;plannotator&#x2F;effective-html)
+[View Passport](../../repos/hanliang97/MatrixMedia.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;hanliang97&#x2F;MatrixMedia)
 
 ---
 
-### 21. [julyx10&#x2F;lap](../../repos/julyx10/lap.md)
+### 20. [julyx10&#x2F;lap](../../repos/julyx10/lap.md)
 
 **An offline-first photo manager for large local libraries**
 
@@ -431,7 +411,7 @@
 
 ---
 
-### 22. [OpenAEC-Foundation&#x2F;open-pdf-studio](../../repos/OpenAEC-Foundation/open-pdf-studio.md)
+### 21. [OpenAEC-Foundation&#x2F;open-pdf-studio](../../repos/OpenAEC-Foundation/open-pdf-studio.md)
 
 **An open source PDF viewer&#x2F;editor with it&#39;s own blazing fast rust engine**
 
@@ -451,7 +431,7 @@
 
 ---
 
-### 23. [Jakubantalik&#x2F;transitions.dev](../../repos/Jakubantalik/transitions.dev.md)
+### 22. [Jakubantalik&#x2F;transitions.dev](../../repos/Jakubantalik/transitions.dev.md)
 
 **UI motion agent, a library of 43+ crafted transitions, a skill that fits your workflow.**
 
@@ -471,7 +451,7 @@
 
 ---
 
-### 24. [Gaurav-Gosain&#x2F;tuios](../../repos/Gaurav-Gosain/tuios.md)
+### 23. [Gaurav-Gosain&#x2F;tuios](../../repos/Gaurav-Gosain/tuios.md)
 
 **A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X&#x2F;Twitter account.**
 
@@ -491,7 +471,7 @@
 
 ---
 
-### 25. [mixelpixx&#x2F;Konnect](../../repos/mixelpixx/Konnect.md)
+### 24. [mixelpixx&#x2F;Konnect](../../repos/mixelpixx/Konnect.md)
 
 **AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing**
 
@@ -511,7 +491,7 @@
 
 ---
 
-### 26. [metadist&#x2F;synaplan](../../repos/metadist/synaplan.md)
+### 25. [metadist&#x2F;synaplan](../../repos/metadist/synaplan.md)
 
 **Own the flow: one open-source AI platform for your knowledge, models and channels – web, WhatsApp, email, Outlook, Nextcloud &amp; ownCloud. Local and cloud models side by side, with the cost on every answer.**
 
@@ -531,7 +511,7 @@
 
 ---
 
-### 27. [plugin87&#x2F;ux-ui-agent-skills](../../repos/plugin87/ux-ui-agent-skills.md)
+### 26. [plugin87&#x2F;ux-ui-agent-skills](../../repos/plugin87/ux-ui-agent-skills.md)
 
 **Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.**
 
@@ -551,7 +531,7 @@
 
 ---
 
-### 28. [trymirai&#x2F;uzu](../../repos/trymirai/uzu.md)
+### 27. [trymirai&#x2F;uzu](../../repos/trymirai/uzu.md)
 
 **A high-performance inference engine for AI models**
 
@@ -571,7 +551,7 @@
 
 ---
 
-### 29. [DeanChensj&#x2F;jiangshan-map](../../repos/DeanChensj/jiangshan-map.md)
+### 28. [DeanChensj&#x2F;jiangshan-map](../../repos/DeanChensj/jiangshan-map.md)
 
 **江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy &amp; classical poetry routes**
 
@@ -591,23 +571,43 @@
 
 ---
 
-### 30. [AdventDevInc&#x2F;kudu](../../repos/AdventDevInc/kudu.md)
+### 29. [plannotator&#x2F;effective-html](../../repos/plannotator/effective-html.md)
 
-**Free Windows, Mac and Linux cleaner, scanner, and more.**
+**Agent skills for useful HTML artifacts, wireframes, interactive prototypes, plans, and diagrams.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4,336 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 6, 2026 |
+| ⭐ **Stars** | 4,274 |
+| 💻 **Language** | HTML |
+| 🏆 **Gem Score** | 92/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Nov 6, 2026 |
 
-**Why it's a gem**: High growth velocity (+147 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+50 stars&#x2F;day) • Trending 6 times • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/AdventDevInc/kudu.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;AdventDevInc&#x2F;kudu)
+[View Passport](../../repos/plannotator/effective-html.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;plannotator&#x2F;effective-html)
+
+---
+
+### 30. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
+
+**Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 5,640 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 91/100 |
+| 📈 **Trending Days** | 9 |
+| 📅 **First Seen** | Aug 11, 2026 |
+
+**Why it's a gem**: High growth velocity (+318 stars&#x2F;day) • Trending 9 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/macro-inc/macro.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;macro-inc&#x2F;macro)
 
 ---
 
@@ -627,5 +627,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-19T21:00:58.909Z*  
+*Generated: 2026-11-20T21:01:11.344Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 64
+**Gems Found**: 57
 
 ---
 
@@ -51,27 +51,7 @@
 
 ---
 
-### 3. [JetBrains&#x2F;go-modern-guidelines](../../repos/JetBrains/go-modern-guidelines.md)
-
-**Help AI coding agents write modern Go**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,846 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 76/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Aug 27, 2026 |
-
-**Why it's a gem**: High growth velocity (+788 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/JetBrains/go-modern-guidelines.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;JetBrains&#x2F;go-modern-guidelines)
-
----
-
-### 4. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
+### 3. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
 
 **OCTO Android Client — Open-source enterprise IM**
 
@@ -88,6 +68,26 @@
 **Best for**: 
 
 [View Passport](../../repos/Mininglamp-OSS/octo-android.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Mininglamp-OSS&#x2F;octo-android)
+
+---
+
+### 4. [JetBrains&#x2F;go-modern-guidelines](../../repos/JetBrains/go-modern-guidelines.md)
+
+**Help AI coding agents write modern Go**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,846 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 75/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 27, 2026 |
+
+**Why it's a gem**: High growth velocity (+788 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/JetBrains/go-modern-guidelines.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;JetBrains&#x2F;go-modern-guidelines)
 
 ---
 
@@ -171,27 +171,7 @@
 
 ---
 
-### 9. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
-
-**Visualize your year in travel using your Google Location History (Timeline) data**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,684 |
-| 💻 **Language** | Kotlin |
-| 🏆 **Gem Score** | 72/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 20, 2026 |
-
-**Why it's a gem**: High growth velocity (+1084 stars&#x2F;day) • Trending 4 times • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/mahlernim/google-timeline-visualizer.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mahlernim&#x2F;google-timeline-visualizer)
-
----
-
-### 10. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
+### 9. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
 
 **Portable Tool for an Ideal Windows Setup**
 
@@ -211,7 +191,7 @@
 
 ---
 
-### 11. [workweave&#x2F;router](../../repos/workweave/router.md)
+### 10. [workweave&#x2F;router](../../repos/workweave/router.md)
 
 **Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.**
 
@@ -228,6 +208,26 @@
 **Best for**: 
 
 [View Passport](../../repos/workweave/router.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;workweave&#x2F;router)
+
+---
+
+### 11. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
+
+**Visualize your year in travel using your Google Location History (Timeline) data**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,684 |
+| 💻 **Language** | Kotlin |
+| 🏆 **Gem Score** | 71/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 20, 2026 |
+
+**Why it's a gem**: High growth velocity (+1084 stars&#x2F;day) • Trending 4 times • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/mahlernim/google-timeline-visualizer.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mahlernim&#x2F;google-timeline-visualizer)
 
 ---
 
@@ -271,27 +271,7 @@
 
 ---
 
-### 14. [worldwonderer&#x2F;oh-story-claudecode](../../repos/worldwonderer/oh-story-claudecode.md)
-
-**网文&#x2F;小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-form web fiction.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 5,980 |
-| 💻 **Language** | JavaScript |
-| 🏆 **Gem Score** | 67/100 |
-| 📈 **Trending Days** | 2 |
-| 📅 **First Seen** | Aug 4, 2026 |
-
-**Why it's a gem**: High growth velocity (+51 stars&#x2F;day) • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/worldwonderer/oh-story-claudecode.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;worldwonderer&#x2F;oh-story-claudecode)
-
----
-
-### 15. [kitknox&#x2F;rootshell](../../repos/kitknox/rootshell.md)
+### 14. [kitknox&#x2F;rootshell](../../repos/kitknox/rootshell.md)
 
 **rootshell - The terminal, reimagined for Apple platforms**
 
@@ -311,7 +291,7 @@
 
 ---
 
-### 16. [jnMetaCode&#x2F;agency-agents-zh](../../repos/jnMetaCode/agency-agents-zh.md)
+### 15. [jnMetaCode&#x2F;agency-agents-zh](../../repos/jnMetaCode/agency-agents-zh.md)
 
 **🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent&#x2F;Claude Code&#x2F;Cursor&#x2F;Copilot 等 18 种工具，覆盖工程&#x2F;设计&#x2F;营销&#x2F;金融等 20 个部门。含 52 个中国市场原创智能体（小红书&#x2F;抖音&#x2F;微信&#x2F;飞书&#x2F;钉钉等）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。**
 
@@ -331,27 +311,7 @@
 
 ---
 
-### 17. [shy3130&#x2F;tickflow-stock-panel](../../repos/shy3130/tickflow-stock-panel.md)
-
-**TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 3,455 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 66/100 |
-| 📈 **Trending Days** | 1 |
-| 📅 **First Seen** | Aug 22, 2026 |
-
-**Why it's a gem**: High growth velocity (+90 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/shy3130/tickflow-stock-panel.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;shy3130&#x2F;tickflow-stock-panel)
-
----
-
-### 18. [laude-institute&#x2F;headlong](../../repos/laude-institute/headlong.md)
+### 16. [laude-institute&#x2F;headlong](../../repos/laude-institute/headlong.md)
 
 **An open source agent microharness featuring persistent agency and recursive LLMs. Of bash, by bash, for bash; it&#39;s shells all the way down.**
 
@@ -371,7 +331,7 @@
 
 ---
 
-### 19. [Xoshbin&#x2F;asyar](../../repos/Xoshbin/asyar.md)
+### 17. [Xoshbin&#x2F;asyar](../../repos/Xoshbin/asyar.md)
 
 **The power of Raycast. The speed of Alfred. Privacy by design.**
 
@@ -391,7 +351,7 @@
 
 ---
 
-### 20. [1weiho&#x2F;open-slide](../../repos/1weiho/open-slide.md)
+### 18. [1weiho&#x2F;open-slide](../../repos/1weiho/open-slide.md)
 
 **A slide framework built for agents.**
 
@@ -411,6 +371,46 @@
 
 ---
 
+### 19. [ongridio&#x2F;ongrid](../../repos/ongridio/ongrid.md)
+
+**An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, Lark or DingTalk.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 890 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 63/100 |
+| 📈 **Trending Days** | 2 |
+| 📅 **First Seen** | Aug 19, 2026 |
+
+**Why it's a gem**: Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/ongridio/ongrid.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;ongridio&#x2F;ongrid)
+
+---
+
+### 20. [pipecat-ai&#x2F;pipecat](../../repos/pipecat-ai/pipecat.md)
+
+**Open Source framework for voice agents, multimodal apps, and realtime AI. Maintained by Daily and the community.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 14,712 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 63/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 20, 2026 |
+
+**Why it's a gem**: High growth velocity (+57 stars&#x2F;day) • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/pipecat-ai/pipecat.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;pipecat-ai&#x2F;pipecat)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-19T21:00:58.891Z*  
+*Generated: 2026-11-20T21:01:11.328Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

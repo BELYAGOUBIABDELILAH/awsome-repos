@@ -16,28 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,624 | 2026-08-01 | 58 |
+| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,624 | 2026-08-01 | 59 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 695 | 2026-08-01 | 63 |
+| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 695 | 2026-08-01 | 64 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,819 | 2026-08-01 | 52 |
+| [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,819 | 2026-08-01 | 53 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,704 | 2026-08-02 | 37 |
+| [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,704 | 2026-08-02 | 38 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,084 | 2026-08-04 | 37 |
+| [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,085 | 2026-08-04 | 38 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [r-spatial/sf](../repos/r-spatial/sf.md) | ⭐ 1,458 | 2026-08-04 | 23 |
+| [r-spatial/sf](../repos/r-spatial/sf.md) | ⭐ 1,458 | 2026-08-04 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 448 | 2026-08-08 | 61 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 448 | 2026-08-08 | 62 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rstudio/rmarkdown](../repos/rstudio/rmarkdown.md) | ⭐ 3,066 | 2026-08-08 | 15 |
+| [rstudio/rmarkdown](../repos/rstudio/rmarkdown.md) | ⭐ 3,066 | 2026-08-08 | 16 |
 
 
 ---
@@ -83,19 +83,19 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | ⭐ 7,028 | 2026-08-04 | 37 |
-| [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,704 | 2026-08-02 | 37 |
+| [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,704 | 2026-08-02 | 38 |
 | [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,187 | 2026-08-04 | 23 |
-| [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,084 | 2026-08-04 | 37 |
-| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,624 | 2026-08-01 | 58 |
+| [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,085 | 2026-08-04 | 38 |
+| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,624 | 2026-08-01 | 59 |
 | [briatte/awesome-network-analysis](../repos/briatte/awesome-network-analysis.md) | ⭐ 4,134 | 2026-10-18 | 2 |
 | [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,929 | 2026-08-04 | 36 |
-| [rstudio/rmarkdown](../repos/rstudio/rmarkdown.md) | ⭐ 3,066 | 2026-08-08 | 15 |
-| [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,819 | 2026-08-01 | 52 |
+| [rstudio/rmarkdown](../repos/rstudio/rmarkdown.md) | ⭐ 3,066 | 2026-08-08 | 16 |
+| [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,819 | 2026-08-01 | 53 |
 | [r-lib/devtools](../repos/r-lib/devtools.md) | ⭐ 2,525 | 2026-11-06 | 1 |
 | [rstudio/gt](../repos/rstudio/gt.md) | ⭐ 2,161 | 2026-11-06 | 1 |
 | [rstudio/reticulate](../repos/rstudio/reticulate.md) | ⭐ 1,766 | 2026-11-06 | 1 |
 | [jokergoo/ComplexHeatmap](../repos/jokergoo/ComplexHeatmap.md) | ⭐ 1,554 | 2026-09-01 | 1 |
-| [r-spatial/sf](../repos/r-spatial/sf.md) | ⭐ 1,458 | 2026-08-04 | 23 |
+| [r-spatial/sf](../repos/r-spatial/sf.md) | ⭐ 1,458 | 2026-08-04 | 24 |
 | [tidyverse/tidyr](../repos/tidyverse/tidyr.md) | ⭐ 1,446 | 2026-11-06 | 2 |
 | [rstudio/renv](../repos/rstudio/renv.md) | ⭐ 1,166 | 2026-08-06 | 2 |
 | [tidyverse/readr](../repos/tidyverse/readr.md) | ⭐ 1,041 | 2026-11-06 | 1 |
@@ -109,16 +109,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [jinworks/CellChat](../repos/jinworks/CellChat.md) | 63 | ⭐ 695 | 2026-08-01 | 2026-11-19 |
-| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | 61 | ⭐ 448 | 2026-08-08 | 2026-11-19 |
-| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | 58 | ⭐ 4,624 | 2026-08-01 | 2026-11-19 |
+| [jinworks/CellChat](../repos/jinworks/CellChat.md) | 64 | ⭐ 695 | 2026-08-01 | 2026-11-20 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | 62 | ⭐ 448 | 2026-08-08 | 2026-11-20 |
+| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | 59 | ⭐ 4,624 | 2026-08-01 | 2026-11-20 |
+| [satijalab/seurat](../repos/satijalab/seurat.md) | 53 | ⭐ 2,819 | 2026-08-01 | 2026-11-20 |
 | [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | 53 | ⭐ 896 | 2026-08-01 | 2026-11-17 |
-| [satijalab/seurat](../repos/satijalab/seurat.md) | 52 | ⭐ 2,819 | 2026-08-01 | 2026-11-19 |
-| [rstudio/shiny](../repos/rstudio/shiny.md) | 37 | ⭐ 5,704 | 2026-08-02 | 2026-11-19 |
-| [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | 37 | ⭐ 5,084 | 2026-08-04 | 2026-11-19 |
+| [rstudio/shiny](../repos/rstudio/shiny.md) | 38 | ⭐ 5,704 | 2026-08-02 | 2026-11-20 |
+| [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | 38 | ⭐ 5,085 | 2026-08-04 | 2026-11-20 |
 | [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | 37 | ⭐ 7,028 | 2026-08-04 | 2026-11-17 |
 | [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | 36 | ⭐ 3,929 | 2026-08-04 | 2026-11-18 |
-| [hadley/r4ds](../repos/hadley/r4ds.md) | 23 | ⭐ 5,187 | 2026-08-04 | 2026-10-25 |
+| [r-spatial/sf](../repos/r-spatial/sf.md) | 24 | ⭐ 1,458 | 2026-08-04 | 2026-11-20 |
 
 ---
 
@@ -165,4 +165,4 @@
 
 ---
 
-*Last updated: 2026-11-19T21:00:52.928Z*
+*Last updated: 2026-11-20T21:01:06.505Z*

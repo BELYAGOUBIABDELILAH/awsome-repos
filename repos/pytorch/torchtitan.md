@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | BSD-3-Clause |
-| **Stars** | ⭐ 5,927 |
-| **Forks** | 🍴 1,091 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 5,932 |
+| **Forks** | 🍴 1,092 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Nov 19, 2026 |
-| **Last Seen** | Nov 19, 2026 |
+| **Last Seen** | Nov 20, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
-- **Longest Streak**: 1 days
+- **Trending Days**: 2
+- **Longest Streak**: 2 days
 
 ---
 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 40&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-19T21:00:58.629Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-11-20T21:01:11.109Z*  
+*Data from 2 trending reports*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 159
+- **Total Repositories**: 158
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-17
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 96,252 | 2026-08-01 | 58 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 96,262 | 2026-08-01 | 59 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 2,273 | 2026-08-01 | 16 |
+| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 2,281 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,973 | 2026-08-04 | 12 |
+| [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,976 | 2026-08-04 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/skills](../repos/cloudflare/skills.md) | ⭐ 3,406 | 2026-08-05 | 17 |
+| [cloudflare/skills](../repos/cloudflare/skills.md) | ⭐ 3,412 | 2026-08-05 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,658 | 2026-08-20 | 20 |
+| [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,907 | 2026-09-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,902 | 2026-09-02 | 8 |
+| [itsnotkubrick/3X-UI_KIT](../repos/itsnotkubrick/3X-UI_KIT.md) | ⭐ 735 | 2026-10-15 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [itsnotkubrick/3X-UI_KIT](../repos/itsnotkubrick/3X-UI_KIT.md) | ⭐ 730 | 2026-10-15 | 6 |
+| [liandu2024/Open-Box](../repos/liandu2024/Open-Box.md) | ⭐ 2,827 | 2026-10-22 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [liandu2024/Open-Box](../repos/liandu2024/Open-Box.md) | ⭐ 2,815 | 2026-10-22 | 9 |
+| [FFmpeg-Builds/FFmpeg-Builds](../repos/FFmpeg-Builds/FFmpeg-Builds.md) | ⭐ 12,012 | 2026-11-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FFmpeg-Builds/FFmpeg-Builds](../repos/FFmpeg-Builds/FFmpeg-Builds.md) | ⭐ 12,006 | 2026-11-19 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [home-assistant/apps](../repos/home-assistant/apps.md) | ⭐ 2,266 | 2026-11-19 | 1 |
+| [home-assistant/apps](../repos/home-assistant/apps.md) | ⭐ 2,267 | 2026-11-19 | 2 |
 
 
 ---
@@ -52,10 +49,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [auscaster/frantic-board](../repos/auscaster/frantic-board.md) | ⭐ 642 | 2026-10-21 | HELP WANTED: AI AGENTS. Real bounties, real money, every payout sealed to a public ledger. The no... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [liandu2024/Open-Box](../repos/liandu2024/Open-Box.md) | ⭐ 2,815 | 2026-10-22 | Open-Box 一体化透明代理：OpenWrt &#x2F; Debian &#x2F; Ubuntu &#x2F; Docker；自有程序闭源，第三方组件遵守原许可。 |
+| [liandu2024/Open-Box](../repos/liandu2024/Open-Box.md) | ⭐ 2,827 | 2026-10-22 | Open-Box 一体化透明代理：OpenWrt &#x2F; Debian &#x2F; Ubuntu &#x2F; Docker；自有程序闭源，第三方组件遵守原许可。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nextcloud/docker](../repos/nextcloud/docker.md) | ⭐ 7,406 | 2026-10-23 | A community maintained docker micro-image for deploying Nextcloud on container platforms |
@@ -80,6 +74,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [kiddin9/Kwrt](../repos/kiddin9/Kwrt.md) | ⭐ 9,079 | 2026-11-06 | openwrt 软路由固件 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [melodic-software/claude-code-plugins](../repos/melodic-software/claude-code-plugins.md) | ⭐ 30 | 2026-11-07 | Claude Code plugin marketplace: repo-agnostic skills, hooks, agents, and MCP servers. |
 
 
 ---
@@ -90,7 +87,7 @@
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,950 | 2026-08-07 | 6 |
 | [papers-we-love/papers-we-love](../repos/papers-we-love/papers-we-love.md) | ⭐ 110,960 | 2026-10-27 | 1 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 96,252 | 2026-08-01 | 58 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 96,262 | 2026-08-01 | 59 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,756 | 2026-08-04 | 10 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,702 | 2026-08-06 | 15 |
@@ -99,7 +96,7 @@
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
 | [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 34,152 | 2026-08-20 | 15 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 33,123 | 2026-08-02 | 22 |
-| [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,902 | 2026-09-02 | 8 |
+| [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,907 | 2026-09-02 | 9 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
 | [lxgw/LxgwWenKai](../repos/lxgw/LxgwWenKai.md) | ⭐ 26,857 | 2026-11-07 | 1 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 26,538 | 2026-08-04 | 16 |
@@ -115,16 +112,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 58 | ⭐ 96,252 | 2026-08-01 | 2026-11-19 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 59 | ⭐ 96,262 | 2026-08-01 | 2026-11-20 |
 | [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 27 | ⭐ 8,876 | 2026-08-12 | 2026-11-14 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
-| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | 20 | ⭐ 1,658 | 2026-08-20 | 2026-11-19 |
-| [cloudflare/skills](../repos/cloudflare/skills.md) | 17 | ⭐ 3,406 | 2026-08-05 | 2026-11-19 |
+| [cloudflare/skills](../repos/cloudflare/skills.md) | 18 | ⭐ 3,412 | 2026-08-05 | 2026-11-20 |
+| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | 17 | ⭐ 2,281 | 2026-08-01 | 2026-11-20 |
 | [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | 17 | ⭐ 11,015 | 2026-08-07 | 2026-11-10 |
 | [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | 17 | ⭐ 3,982 | 2026-08-19 | 2026-11-16 |
 | [omacom/omarchy](../repos/omacom/omarchy.md) | 17 | ⭐ 46,666 | 2026-08-29 | 2026-11-09 |
-| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | 16 | ⭐ 2,273 | 2026-08-01 | 2026-11-19 |
 | [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | 16 | ⭐ 10,335 | 2026-08-03 | 2026-11-17 |
+| [a2aproject/A2A](../repos/a2aproject/A2A.md) | 16 | ⭐ 26,538 | 2026-08-04 | 2026-11-14 |
 
 ---
 
@@ -205,7 +202,6 @@
 - [vinceliuice/grub2-themes](../repos/vinceliuice/grub2-themes.md) - Modern Design theme for Grub2
 - [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) - OSINT &amp; recon toolkit &#x2F;&#x2F; 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark ...
 - [VSCodium/vscodium](../repos/VSCodium/vscodium.md) - binary releases of VS Code without MS branding&#x2F;telemetry&#x2F;licensing
-- [microsoft/azure-skills](../repos/microsoft/azure-skills.md) - Official agent plugin providing skills and MCP server configurations for Azure scenarios.
 - [ophub/amlogic-s9xxx-openwrt](../repos/ophub/amlogic-s9xxx-openwrt.md) - Supports running OpenWrt on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x...
 - [ophub/fnnas](../repos/ophub/fnnas.md) - Supports running FnNAS on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3,...
 - [CISOfy/lynis](../repos/CISOfy/lynis.md) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance ...
@@ -230,7 +226,8 @@
 - [thibmaek/awesome-raspberry-pi](../repos/thibmaek/awesome-raspberry-pi.md) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [bitol-io/open-data-contract-standard](../repos/bitol-io/open-data-contract-standard.md) - Home of the Open Data Contract Standard (ODCS).
 - [CachyOS/CachyOS-PKGBUILDS](../repos/CachyOS/CachyOS-PKGBUILDS.md) - PKGBUILDs for CachyOS
+- [gnzsnz/ib-gateway-docker](../repos/gnzsnz/ib-gateway-docker.md) - Docker image with IB Gateway&#x2F;TWS and IBC 
 
 ---
 
-*Last updated: 2026-11-19T21:00:52.939Z*
+*Last updated: 2026-11-20T21:01:06.515Z*

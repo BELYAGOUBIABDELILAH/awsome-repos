@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 79,218 | 2026-08-01 | 39 |
+| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 79,270 | 2026-08-01 | 40 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 64,182 | 2026-08-02 | 48 |
+| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 64,414 | 2026-08-02 | 49 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 99,781 | 2026-08-02 | 45 |
+| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 99,957 | 2026-08-02 | 46 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | ⭐ 4,681 | 2026-08-02 | 31 |
+| [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | ⭐ 4,695 | 2026-08-02 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [KaringX/clashmi](../repos/KaringX/clashmi.md) | ⭐ 10,617 | 2026-08-02 | 19 |
+| [KaringX/clashmi](../repos/KaringX/clashmi.md) | ⭐ 10,625 | 2026-08-02 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sass/dart-sass](../repos/sass/dart-sass.md) | ⭐ 4,238 | 2026-08-04 | 2 |
+| [sass/dart-sass](../repos/sass/dart-sass.md) | ⭐ 4,238 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [InlitX/GymMane](../repos/InlitX/GymMane.md) | ⭐ 1,877 | 2026-10-13 | 15 |
+| [InlitX/GymMane](../repos/InlitX/GymMane.md) | ⭐ 1,915 | 2026-10-13 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AneryCoft/course_helper](../repos/AneryCoft/course_helper.md) | ⭐ 488 | 2026-10-14 | 9 |
+| [AneryCoft/course_helper](../repos/AneryCoft/course_helper.md) | ⭐ 493 | 2026-10-14 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [GhostenEditor/Ghosten-Player](../repos/GhostenEditor/Ghosten-Player.md) | ⭐ 3,452 | 2026-10-21 | 4 |
+| [GhostenEditor/Ghosten-Player](../repos/GhostenEditor/Ghosten-Player.md) | ⭐ 3,453 | 2026-10-21 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ch6vip/novel-sound](../repos/ch6vip/novel-sound.md) | ⭐ 1,616 | 2026-11-13 | 4 |
+| [ch6vip/novel-sound](../repos/ch6vip/novel-sound.md) | ⭐ 1,646 | 2026-11-13 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Aglglg/No-Reload-Mod-Manager](../repos/Aglglg/No-Reload-Mod-Manager.md) | ⭐ 115 | 2026-10-21 | A tool to manage your XXMI Anime Games Mods |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [GhostenEditor/Ghosten-Player](../repos/GhostenEditor/Ghosten-Player.md) | ⭐ 3,452 | 2026-10-21 | 一个视频播放器，支持网盘直连、元数据刮削、IPTV、文件管理等 &#x2F;   A video player that supports direct connection to network dis... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [MuFengDR/AstrBot-Bubble-Android-App](../repos/MuFengDR/AstrBot-Bubble-Android-App.md) | ⭐ 108 | 2026-10-26 | AstrBot 安卓APP |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ZhFahim/anchor](../repos/ZhFahim/anchor.md) | ⭐ 1,711 | 2026-11-12 | Offline first, self hostable note taking application |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ch6vip/novel-sound](../repos/ch6vip/novel-sound.md) | ⭐ 1,646 | 2026-11-13 | 内容聚合 Android 客户端：小说&#x2F;短剧&#x2F;漫剧&#x2F;听书&#x2F;漫画，Flutter UI + 进程内 Rust 核心，无自建服务器、无需 root |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ComicSparks/pikapika](../repos/ComicSparks/pikapika.md) | ⭐ 8,411 | 2026-11-17 | bika 哔咔 全平台客户端。A comic browser，support Android &#x2F; iOS &#x2F; MacOS &#x2F; Windows &#x2F; Linux. |
 
 
 ---
@@ -89,9 +89,9 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 181,291 | 2026-08-01 | 57 |
-| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 99,781 | 2026-08-02 | 45 |
-| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 79,218 | 2026-08-01 | 39 |
-| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 64,182 | 2026-08-02 | 48 |
+| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 99,957 | 2026-08-02 | 46 |
+| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 79,270 | 2026-08-01 | 40 |
+| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 64,414 | 2026-08-02 | 49 |
 | [KRTirtho/spotube](../repos/KRTirtho/spotube.md) | ⭐ 49,303 | 2026-08-04 | 20 |
 | [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 42,769 | 2026-08-01 | 45 |
 | [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 34,082 | 2026-08-02 | 53 |
@@ -117,13 +117,13 @@
 |------------|---------------|-------|------------|-----------|
 | [flutter/flutter](../repos/flutter/flutter.md) | 57 | ⭐ 181,291 | 2026-08-01 | 2026-11-18 |
 | [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | 53 | ⭐ 34,082 | 2026-08-02 | 2026-11-16 |
-| [chen08209/FlClash](../repos/chen08209/FlClash.md) | 48 | ⭐ 64,182 | 2026-08-02 | 2026-11-19 |
+| [chen08209/FlClash](../repos/chen08209/FlClash.md) | 49 | ⭐ 64,414 | 2026-08-02 | 2026-11-20 |
 | [KaringX/karing](../repos/KaringX/karing.md) | 46 | ⭐ 16,158 | 2026-08-02 | 2026-11-14 |
+| [localsend/localsend](../repos/localsend/localsend.md) | 46 | ⭐ 99,957 | 2026-08-02 | 2026-11-20 |
 | [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | 45 | ⭐ 42,769 | 2026-08-01 | 2026-11-16 |
-| [localsend/localsend](../repos/localsend/localsend.md) | 45 | ⭐ 99,781 | 2026-08-02 | 2026-11-19 |
 | [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | 44 | ⭐ 20,960 | 2026-08-02 | 2026-11-16 |
-| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | 39 | ⭐ 79,218 | 2026-08-01 | 2026-11-19 |
-| [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | 31 | ⭐ 4,681 | 2026-08-02 | 2026-11-19 |
+| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | 40 | ⭐ 79,270 | 2026-08-01 | 2026-11-20 |
+| [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | 32 | ⭐ 4,695 | 2026-08-02 | 2026-11-20 |
 | [TNT-Likely/BeeCount](../repos/TNT-Likely/BeeCount.md) | 28 | ⭐ 2,839 | 2026-08-06 | 2026-11-18 |
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-19T21:00:52.867Z*
+*Last updated: 2026-11-20T21:01:06.451Z*

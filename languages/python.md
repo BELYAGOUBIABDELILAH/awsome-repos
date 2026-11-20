@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 70,715 | 2026-08-01 | 14 |
+| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 71,374 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 150,680 | 2026-08-14 | 14 |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 150,813 | 2026-08-14 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 60,461 | 2026-08-15 | 15 |
+| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 61,294 | 2026-08-15 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tracer-Cloud/opensre](../repos/Tracer-Cloud/opensre.md) | ⭐ 13,059 | 2026-08-24 | 5 |
+| [Tracer-Cloud/opensre](../repos/Tracer-Cloud/opensre.md) | ⭐ 13,548 | 2026-08-24 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 42,173 | 2026-08-29 | 11 |
+| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 42,349 | 2026-08-29 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Imbad0202/academic-research-skills](../repos/Imbad0202/academic-research-skills.md) | ⭐ 57,752 | 2026-09-01 | 8 |
+| [Imbad0202/academic-research-skills](../repos/Imbad0202/academic-research-skills.md) | ⭐ 57,878 | 2026-09-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jingyaogong/minimind](../repos/jingyaogong/minimind.md) | ⭐ 66,793 | 2026-09-01 | 7 |
+| [jingyaogong/minimind](../repos/jingyaogong/minimind.md) | ⭐ 67,643 | 2026-09-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 196,996 | 2026-09-07 | 4 |
+| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 197,239 | 2026-09-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhouxiaoka/autoclip](../repos/zhouxiaoka/autoclip.md) | ⭐ 11,145 | 2026-09-20 | 4 |
+| [zhouxiaoka/autoclip](../repos/zhouxiaoka/autoclip.md) | ⭐ 12,108 | 2026-09-20 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [superdesigndev/treg](../repos/superdesigndev/treg.md) | ⭐ 8,525 | 2026-09-22 | 9 |
+| [superdesigndev/treg](../repos/superdesigndev/treg.md) | ⭐ 8,619 | 2026-09-22 | 10 |
 
 
 ---
@@ -95,11 +95,11 @@
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 243,012 | 2026-08-01 | 17 |
 | [TheAlgorithms/Python](../repos/TheAlgorithms/Python.md) | ⭐ 226,056 | 2026-11-12 | 1 |
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 198,857 | 2026-08-02 | 8 |
-| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 196,996 | 2026-09-07 | 4 |
+| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 197,239 | 2026-09-07 | 5 |
 | [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 193,049 | 2026-08-11 | 13 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,775 | 2026-08-06 | 9 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 169,239 | 2026-07-31 | 12 |
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 150,680 | 2026-08-14 | 14 |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 150,813 | 2026-08-14 | 15 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 149,584 | 2026-08-03 | 12 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 143,038 | 2026-08-04 | 8 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 141,991 | 2026-08-05 | 13 |
@@ -124,7 +124,7 @@
 | [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 17 | ⭐ 65,960 | 2026-08-22 | 2026-10-14 |
 | [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 16 | ⭐ 52,636 | 2026-08-03 | 2026-10-18 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | 16 | ⭐ 117,829 | 2026-08-08 | 2026-10-28 |
-| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | 15 | ⭐ 60,461 | 2026-08-15 | 2026-11-19 |
+| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | 16 | ⭐ 61,294 | 2026-08-15 | 2026-11-20 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-19T21:00:52.923Z*
+*Last updated: 2026-11-20T21:01:06.501Z*

@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [libsdl-org/SDL](../repos/libsdl-org/SDL.md) | ⭐ 17,027 | 2026-08-01 | 13 |
+| [libsdl-org/SDL](../repos/libsdl-org/SDL.md) | ⭐ 17,039 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [php/php-src](../repos/php/php-src.md) | ⭐ 41,841 | 2026-08-01 | 15 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 41,848 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,832 | 2026-08-01 | 44 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,861 | 2026-08-01 | 45 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 32,294 | 2026-08-02 | 10 |
+| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 32,533 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [flipperdevices/flipperzero-firmware](../repos/flipperdevices/flipperzero-firmware.md) | ⭐ 16,930 | 2026-08-03 | 4 |
+| [flipperdevices/flipperzero-firmware](../repos/flipperdevices/flipperzero-firmware.md) | ⭐ 16,941 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 17,137 | 2026-08-06 | 32 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 17,148 | 2026-08-06 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [madler/zlib](../repos/madler/zlib.md) | ⭐ 7,235 | 2026-08-07 | 16 |
+| [madler/zlib](../repos/madler/zlib.md) | ⭐ 7,241 | 2026-08-07 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [espressif/esp-idf](../repos/espressif/esp-idf.md) | ⭐ 19,546 | 2026-08-12 | 12 |
+| [espressif/esp-idf](../repos/espressif/esp-idf.md) | ⭐ 19,553 | 2026-08-12 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pgvector/pgvector](../repos/pgvector/pgvector.md) | ⭐ 23,737 | 2026-08-12 | 13 |
+| [pgvector/pgvector](../repos/pgvector/pgvector.md) | ⭐ 23,751 | 2026-08-12 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [meta/zstd](../repos/meta/zstd.md) | ⭐ 28,265 | 2026-11-07 | 2 |
+| [meta/zstd](../repos/meta/zstd.md) | ⭐ 28,279 | 2026-11-07 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [c-ares/c-ares](../repos/c-ares/c-ares.md) | ⭐ 2,196 | 2026-10-21 | A C library for asynchronous DNS requests |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [fifthBro/mh2p-cluster](../repos/fifthBro/mh2p-cluster.md) | ⭐ 118 | 2026-10-26 | Bridge Android Auto and CarPlay navigation from Porsche PCM5 &#x2F; MH2P to instrument cluster displays. |
@@ -79,7 +76,10 @@
 | [openssh/openssh-portable](../repos/openssh/openssh-portable.md) | ⭐ 4,098 | 2026-11-06 | Portable OpenSSH |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [meta/zstd](../repos/meta/zstd.md) | ⭐ 28,265 | 2026-11-07 | Zstandard - Fast real-time compression algorithm |
+| [meta/zstd](../repos/meta/zstd.md) | ⭐ 28,279 | 2026-11-07 | Zstandard - Fast real-time compression algorithm |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [zeldaret/oot](../repos/zeldaret/oot.md) | ⭐ 5,711 | 2026-11-07 | Decompilation of The Legend of Zelda: Ocarina of Time |
 
 
 ---
@@ -96,14 +96,14 @@
 | [git/git](../repos/git/git.md) | ⭐ 64,135 | 2026-08-05 | 10 |
 | [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 51,088 | 2026-09-01 | 26 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 48,774 | 2026-08-07 | 27 |
-| [php/php-src](../repos/php/php-src.md) | ⭐ 41,841 | 2026-08-01 | 15 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 41,848 | 2026-08-01 | 16 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 38,334 | 2026-08-08 | 5 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,982 | 2026-08-02 | 11 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,813 | 2026-08-04 | 10 |
 | [nothings/stb](../repos/nothings/stb.md) | ⭐ 35,019 | 2026-08-03 | 9 |
 | [valinet/ExplorerPatcher](../repos/valinet/ExplorerPatcher.md) | ⭐ 34,217 | 2026-09-06 | 5 |
+| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 32,533 | 2026-08-02 | 11 |
 | [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,509 | 2026-08-01 | 6 |
-| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 32,294 | 2026-08-02 | 10 |
 | [lizongying/my-tv](../repos/lizongying/my-tv.md) | ⭐ 31,960 | 2026-08-17 | 2 |
 | [coolsnowwolf/lede](../repos/coolsnowwolf/lede.md) | ⭐ 31,611 | 2026-08-16 | 3 |
 | [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 29,209 | 2026-08-02 | 14 |
@@ -115,8 +115,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 44 | ⭐ 17,832 | 2026-08-01 | 2026-11-19 |
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 32 | ⭐ 17,137 | 2026-08-06 | 2026-11-19 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 45 | ⭐ 17,861 | 2026-08-01 | 2026-11-20 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 33 | ⭐ 17,148 | 2026-08-06 | 2026-11-20 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 27 | ⭐ 48,774 | 2026-08-07 | 2026-11-17 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 26 | ⭐ 140,879 | 2026-08-01 | 2026-11-11 |
 | [JustVugg/colibri](../repos/JustVugg/colibri.md) | 26 | ⭐ 51,088 | 2026-09-01 | 2026-11-14 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-19T21:00:52.844Z*
+*Last updated: 2026-11-20T21:01:06.433Z*

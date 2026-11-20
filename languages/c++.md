@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,778 | 2026-08-01 | 17 |
+| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,781 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/perfetto](../repos/google/perfetto.md) | ⭐ 6,801 | 2026-08-07 | 8 |
+| [google/perfetto](../repos/google/perfetto.md) | ⭐ 6,809 | 2026-08-07 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openvinotoolkit/openvino](../repos/openvinotoolkit/openvino.md) | ⭐ 11,532 | 2026-08-07 | 10 |
+| [openvinotoolkit/openvino](../repos/openvinotoolkit/openvino.md) | ⭐ 11,756 | 2026-08-07 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k2-fsa/sherpa-onnx](../repos/k2-fsa/sherpa-onnx.md) | ⭐ 16,050 | 2026-08-07 | 4 |
+| [k2-fsa/sherpa-onnx](../repos/k2-fsa/sherpa-onnx.md) | ⭐ 16,068 | 2026-08-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 42,224 | 2026-08-09 | 17 |
+| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 42,335 | 2026-08-09 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kvcache-ai/Mooncake](../repos/kvcache-ai/Mooncake.md) | ⭐ 7,084 | 2026-08-15 | 9 |
+| [kvcache-ai/Mooncake](../repos/kvcache-ai/Mooncake.md) | ⭐ 7,092 | 2026-08-15 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 57,669 | 2026-10-06 | 18 |
+| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 58,695 | 2026-10-06 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hypery11/flipper-tesla-fsd](../repos/hypery11/flipper-tesla-fsd.md) | ⭐ 1,313 | 2026-10-29 | 2 |
+| [hypery11/flipper-tesla-fsd](../repos/hypery11/flipper-tesla-fsd.md) | ⭐ 1,327 | 2026-10-29 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [incoai/splash](../repos/incoai/splash.md) | ⭐ 2,466 | 2026-11-18 | 2 |
+| [incoai/splash](../repos/incoai/splash.md) | ⭐ 2,569 | 2026-11-18 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [intrinsic-ai/intrinsic-core](../repos/intrinsic-ai/intrinsic-core.md) | ⭐ 760 | 2026-11-19 | 1 |
+| [intrinsic-ai/intrinsic-core](../repos/intrinsic-ai/intrinsic-core.md) | ⭐ 767 | 2026-11-19 | 2 |
 
 
 ---
@@ -79,7 +79,7 @@
 | [oceanbase/seekdb](../repos/oceanbase/seekdb.md) | ⭐ 3,199 | 2026-10-28 | The AI-Native Search Database. Best for agent storage, it unifies vector, text, structured, and s... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [hypery11/flipper-tesla-fsd](../repos/hypery11/flipper-tesla-fsd.md) | ⭐ 1,313 | 2026-10-29 | Tesla Mod — Flipper Zero &amp; ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind... |
+| [hypery11/flipper-tesla-fsd](../repos/hypery11/flipper-tesla-fsd.md) | ⭐ 1,327 | 2026-10-29 | Tesla Mod — Flipper Zero &amp; ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind... |
 
 
 ---
@@ -98,7 +98,7 @@
 | [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 77,216 | 2026-08-12 | 7 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 77,136 | 2026-08-08 | 19 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,174 | 2026-08-01 | 22 |
-| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 57,669 | 2026-10-06 | 18 |
+| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 58,695 | 2026-10-06 | 19 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 55,165 | 2026-08-02 | 2 |
 | [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,787 | 2026-08-03 | 13 |
 | [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,454 | 2026-09-01 | 3 |
@@ -106,7 +106,7 @@
 | [SunshineStream/Sunshine](../repos/SunshineStream/Sunshine.md) | ⭐ 43,449 | 2026-11-15 | 1 |
 | [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 43,382 | 2026-09-06 | 3 |
 | [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 42,460 | 2026-08-19 | 14 |
-| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 42,224 | 2026-08-09 | 17 |
+| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 42,335 | 2026-08-09 | 18 |
 | [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 41,612 | 2026-08-06 | 7 |
 
 ---
@@ -123,8 +123,8 @@
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 19 | ⭐ 546 | 2026-08-01 | 2026-10-29 |
 | [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | 19 | ⭐ 32,839 | 2026-08-03 | 2026-11-07 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 19 | ⭐ 77,136 | 2026-08-08 | 2026-11-16 |
-| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | 18 | ⭐ 57,669 | 2026-10-06 | 2026-11-19 |
-| [gabime/spdlog](../repos/gabime/spdlog.md) | 17 | ⭐ 29,778 | 2026-08-01 | 2026-11-19 |
+| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | 19 | ⭐ 58,695 | 2026-10-06 | 2026-11-20 |
+| [gabime/spdlog](../repos/gabime/spdlog.md) | 18 | ⭐ 29,781 | 2026-08-01 | 2026-11-20 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-19T21:00:52.854Z*
+*Last updated: 2026-11-20T21:01:06.439Z*

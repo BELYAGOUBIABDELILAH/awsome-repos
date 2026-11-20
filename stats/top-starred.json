@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T21:00:59.076Z",
+  "generated_at": "2026-11-20T21:01:11.486Z",
   "total_count": 100,
   "repositories": [
     {
@@ -127,10 +127,10 @@
       "full_name": "ossu/computer-science",
       "owner": "ossu",
       "name": "computer-science",
-      "stars": 211335,
+      "stars": 211364,
       "language": "HTML",
       "first_seen": "2026-08-03",
-      "trending_days": 26
+      "trending_days": 27
     },
     {
       "rank": 14,
@@ -147,10 +147,10 @@
       "full_name": "firecrawl/firecrawl",
       "owner": "firecrawl",
       "name": "firecrawl",
-      "stars": 204044,
+      "stars": 205138,
       "language": "TypeScript",
       "first_seen": "2026-08-07",
-      "trending_days": 9
+      "trending_days": 10
     },
     {
       "rank": 16,
@@ -177,10 +177,10 @@
       "full_name": "microsoft/markitdown",
       "owner": "microsoft",
       "name": "markitdown",
-      "stars": 196996,
+      "stars": 197239,
       "language": "Python",
       "first_seen": "2026-09-07",
-      "trending_days": 4
+      "trending_days": 5
     },
     {
       "rank": 19,
@@ -287,10 +287,10 @@
       "full_name": "github/spec-kit",
       "owner": "github",
       "name": "spec-kit",
-      "stars": 150680,
+      "stars": 150813,
       "language": "Python",
       "first_seen": "2026-08-14",
-      "trending_days": 14
+      "trending_days": 15
     },
     {
       "rank": 30,
@@ -487,10 +487,10 @@
       "full_name": "earendil-works/pi",
       "owner": "earendil-works",
       "name": "pi",
-      "stars": 122917,
+      "stars": 123060,
       "language": "TypeScript",
       "first_seen": "2026-08-07",
-      "trending_days": 13
+      "trending_days": 14
     },
     {
       "rank": 50,
@@ -507,10 +507,10 @@
       "full_name": "2dust/v2rayN",
       "owner": "2dust",
       "name": "v2rayN",
-      "stars": 120984,
+      "stars": 121068,
       "language": "C#",
       "first_seen": "2026-08-02",
-      "trending_days": 37
+      "trending_days": 38
     },
     {
       "rank": 52,
@@ -747,10 +747,10 @@
       "full_name": "localsend/localsend",
       "owner": "localsend",
       "name": "localsend",
-      "stars": 99781,
+      "stars": 99957,
       "language": "Dart",
       "first_seen": "2026-08-02",
-      "trending_days": 45
+      "trending_days": 46
     },
     {
       "rank": 76,
@@ -817,10 +817,10 @@
       "full_name": "nvm-sh/nvm",
       "owner": "nvm-sh",
       "name": "nvm",
-      "stars": 96252,
+      "stars": 96262,
       "language": "Shell",
       "first_seen": "2026-08-01",
-      "trending_days": 58
+      "trending_days": 59
     },
     {
       "rank": 83,

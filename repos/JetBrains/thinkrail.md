@@ -95,5 +95,5 @@
 
 ---
 
-*Last updated: 2026-11-19T21:00:58.228Z*  
+*Last updated: 2026-11-20T21:01:10.795Z*  
 *Data from 5 trending reports*

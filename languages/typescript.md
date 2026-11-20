@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 17,517 | 2026-08-01 | 27 |
+| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 17,801 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,401 | 2026-08-01 | 6 |
+| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,438 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 78,117 | 2026-08-01 | 28 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 78,236 | 2026-08-01 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 204,044 | 2026-08-07 | 9 |
+| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 205,138 | 2026-08-07 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 122,917 | 2026-08-07 | 13 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 123,060 | 2026-08-07 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 4,193 | 2026-08-07 | 42 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 4,195 | 2026-08-07 | 43 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twentyhq/twenty](../repos/twentyhq/twenty.md) | ⭐ 61,215 | 2026-08-12 | 9 |
+| [twentyhq/twenty](../repos/twentyhq/twenty.md) | ⭐ 61,257 | 2026-08-12 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-labs-code/stitch-skills](../repos/google-labs-code/stitch-skills.md) | ⭐ 10,667 | 2026-08-22 | 13 |
+| [google-labs-code/stitch-skills](../repos/google-labs-code/stitch-skills.md) | ⭐ 10,981 | 2026-08-22 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mastra-ai/mastra](../repos/mastra-ai/mastra.md) | ⭐ 29,660 | 2026-08-25 | 3 |
+| [mastra-ai/mastra](../repos/mastra-ai/mastra.md) | ⭐ 29,701 | 2026-08-25 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tianma-if/edgeever](../repos/tianma-if/edgeever.md) | ⭐ 3,436 | 2026-08-27 | 3 |
+| [tianma-if/edgeever](../repos/tianma-if/edgeever.md) | ⭐ 3,458 | 2026-08-27 | 4 |
 
 
 ---
@@ -91,7 +91,7 @@
 | [morluto/rea](../repos/morluto/rea.md) | ⭐ 440,692 | 2026-10-06 | 11 |
 | [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 212,590 | 2026-08-04 | 2 |
 | [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 211,009 | 2026-08-11 | 9 |
-| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 204,044 | 2026-08-07 | 9 |
+| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 205,138 | 2026-08-07 | 10 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 195,138 | 2026-07-30 | 9 |
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 158,228 | 2026-09-01 | 4 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 154,905 | 2026-08-07 | 21 |
@@ -99,7 +99,7 @@
 | [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 140,636 | 2026-08-02 | 19 |
 | [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 127,723 | 2026-08-11 | 26 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | 2026-07-31 | 3 |
-| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 122,917 | 2026-08-07 | 13 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 123,060 | 2026-08-07 | 14 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 118,331 | 2026-08-17 | 5 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 110,330 | 2026-08-02 | 11 |
 | [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 108,379 | 2026-08-23 | 2 |
@@ -115,9 +115,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [expo/skills](../repos/expo/skills.md) | 42 | ⭐ 4,193 | 2026-08-07 | 2026-11-19 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 28 | ⭐ 78,117 | 2026-08-01 | 2026-11-19 |
-| [cursor/plugins](../repos/cursor/plugins.md) | 27 | ⭐ 17,517 | 2026-08-01 | 2026-11-19 |
+| [expo/skills](../repos/expo/skills.md) | 43 | ⭐ 4,195 | 2026-08-07 | 2026-11-20 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 29 | ⭐ 78,236 | 2026-08-01 | 2026-11-20 |
+| [cursor/plugins](../repos/cursor/plugins.md) | 28 | ⭐ 17,801 | 2026-08-01 | 2026-11-20 |
 | [stablyai/orca](../repos/stablyai/orca.md) | 26 | ⭐ 127,723 | 2026-08-11 | 2026-11-17 |
 | [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 23 | ⭐ 74,642 | 2026-08-08 | 2026-10-28 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 22 | ⭐ 54,008 | 2026-08-07 | 2026-11-17 |
@@ -191,7 +191,7 @@
 - [open-mercato/open-mercato](../repos/open-mercato/open-mercato.md) - AI-Engineering Foundation Framework built with AI and designed for AI. Hundreds of architectural ...
 - [payloadcms/payload](../repos/payloadcms/payload.md) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. ...
 - [CodebuffAI/freebuff](../repos/CodebuffAI/freebuff.md) - The free coding agent
-- [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) - Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers thro...
+- [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) - Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data provide...
 - [CopilotKit/CopilotKit](../repos/CopilotKit/CopilotKit.md) - The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more.  Makers o...
 - [earendil-works/pi](../repos/earendil-works/pi.md) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [deepcoldy/botmux](../repos/deepcoldy/botmux.md) - Bridge Feishu&#x2F;Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or t...
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-19T21:00:52.946Z*
+*Last updated: 2026-11-20T21:01:06.524Z*
