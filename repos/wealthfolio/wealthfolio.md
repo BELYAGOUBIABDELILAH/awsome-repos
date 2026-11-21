@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 9,634 |
-| **Forks** | 🍴 843 |
-| **Trending Days** | 6 |
+| **Stars** | ⭐ 9,669 |
+| **Forks** | 🍴 846 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Nov 20, 2026 |
+| **Last Seen** | Nov 21, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 6
-- **Longest Streak**: 2 days
+- **Trending Days**: 7
+- **Longest Streak**: 3 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-20T21:01:08.229Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-11-21T21:01:05.488Z*  
+*Data from 7 trending reports*

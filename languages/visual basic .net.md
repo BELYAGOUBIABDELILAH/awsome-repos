@@ -21,10 +21,8 @@
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Meloong-Git/PCL](../repos/Meloong-Git/PCL.md) | ⭐ 8,657 | 2026-10-22 | Minecraft 启动器 Plain Craft Launcher（PCL）。 |
 
+*No new Visual Basic .NET repositories in the last 30 days*
 
 ---
 
@@ -50,4 +48,4 @@
 
 ---
 
-*Last updated: 2026-11-20T21:01:06.535Z*
+*Last updated: 2026-11-21T21:01:02.670Z*

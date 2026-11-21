@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 71,374 | 2026-08-01 | 15 |
+| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 71,910 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 150,813 | 2026-08-14 | 15 |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 150,929 | 2026-08-14 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 61,294 | 2026-08-15 | 16 |
+| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 61,987 | 2026-08-15 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tracer-Cloud/opensre](../repos/Tracer-Cloud/opensre.md) | ⭐ 13,548 | 2026-08-24 | 6 |
+| [Tracer-Cloud/opensre](../repos/Tracer-Cloud/opensre.md) | ⭐ 13,934 | 2026-08-24 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 42,349 | 2026-08-29 | 12 |
+| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 42,481 | 2026-08-29 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Imbad0202/academic-research-skills](../repos/Imbad0202/academic-research-skills.md) | ⭐ 57,878 | 2026-09-01 | 9 |
+| [Imbad0202/academic-research-skills](../repos/Imbad0202/academic-research-skills.md) | ⭐ 57,982 | 2026-09-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jingyaogong/minimind](../repos/jingyaogong/minimind.md) | ⭐ 67,643 | 2026-09-01 | 8 |
+| [jingyaogong/minimind](../repos/jingyaogong/minimind.md) | ⭐ 68,098 | 2026-09-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 197,239 | 2026-09-07 | 5 |
+| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 197,448 | 2026-09-07 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhouxiaoka/autoclip](../repos/zhouxiaoka/autoclip.md) | ⭐ 12,108 | 2026-09-20 | 5 |
+| [zhouxiaoka/autoclip](../repos/zhouxiaoka/autoclip.md) | ⭐ 12,777 | 2026-09-20 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [superdesigndev/treg](../repos/superdesigndev/treg.md) | ⭐ 8,619 | 2026-09-22 | 10 |
+| [superdesigndev/treg](../repos/superdesigndev/treg.md) | ⭐ 8,706 | 2026-09-22 | 11 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [onyx-dot-app/onyx](../repos/onyx-dot-app/onyx.md) | ⭐ 32,925 | 2026-10-22 | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Mailu/Mailu](../repos/Mailu/Mailu.md) | ⭐ 7,583 | 2026-10-23 | Insular email distribution - mail server as Docker images |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [shitagaki-lab/see-through](../repos/shitagaki-lab/see-through.md) | ⭐ 5,091 | 2026-10-28 | &quot;Single-image Layer Decomposition for Anime Characters&quot; (SIGGRAPH 2026 Conference Paper) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ansible/ansible](../repos/ansible/ansible.md) | ⭐ 71,494 | 2026-10-29 | Ansible is a radically simple IT automation platform that makes your applications and systems eas... |
 
 
 ---
@@ -95,11 +95,11 @@
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 243,012 | 2026-08-01 | 17 |
 | [TheAlgorithms/Python](../repos/TheAlgorithms/Python.md) | ⭐ 226,056 | 2026-11-12 | 1 |
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 198,857 | 2026-08-02 | 8 |
-| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 197,239 | 2026-09-07 | 5 |
+| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 197,448 | 2026-09-07 | 6 |
 | [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 193,049 | 2026-08-11 | 13 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,775 | 2026-08-06 | 9 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 169,239 | 2026-07-31 | 12 |
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 150,813 | 2026-08-14 | 15 |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 150,929 | 2026-08-14 | 16 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 149,584 | 2026-08-03 | 12 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 143,038 | 2026-08-04 | 8 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 141,991 | 2026-08-05 | 13 |
@@ -121,10 +121,10 @@
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 17 | ⭐ 243,012 | 2026-08-01 | 2026-09-07 |
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | 17 | ⭐ 132,217 | 2026-08-04 | 2026-11-11 |
 | [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | 17 | ⭐ 47,286 | 2026-08-07 | 2026-11-14 |
+| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | 17 | ⭐ 61,987 | 2026-08-15 | 2026-11-21 |
 | [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 17 | ⭐ 65,960 | 2026-08-22 | 2026-10-14 |
+| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | 16 | ⭐ 71,910 | 2026-08-01 | 2026-11-21 |
 | [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 16 | ⭐ 52,636 | 2026-08-03 | 2026-10-18 |
-| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | 16 | ⭐ 117,829 | 2026-08-08 | 2026-10-28 |
-| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | 16 | ⭐ 61,294 | 2026-08-15 | 2026-11-20 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-20T21:01:06.501Z*
+*Last updated: 2026-11-21T21:01:02.623Z*

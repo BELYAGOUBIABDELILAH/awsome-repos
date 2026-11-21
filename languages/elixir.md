@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 50
+- **Total Repositories**: 51
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-09
 
@@ -16,19 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,738 | 2026-08-01 | 78 |
+| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,741 | 2026-08-01 | 79 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,296 | 2026-08-02 | 79 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,298 | 2026-08-02 | 80 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,223 | 2026-08-03 | 59 |
+| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,223 | 2026-08-03 | 60 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [livebook-dev/livebook](../repos/livebook-dev/livebook.md) | ⭐ 5,946 | 2026-08-05 | 12 |
+| [livebook-dev/livebook](../repos/livebook-dev/livebook.md) | ⭐ 5,948 | 2026-08-05 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Spectral-Finance/lux](../repos/Spectral-Finance/lux.md) | ⭐ 140 | 2026-09-12 | 10 |
+| [Spectral-Finance/lux](../repos/Spectral-Finance/lux.md) | ⭐ 141 | 2026-09-12 | 11 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [AndrewDryga/emisar](../repos/AndrewDryga/emisar.md) | ⭐ 481 | 2026-11-21 | 1 |
 
 
 ---
@@ -44,6 +47,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [agentjido/jido](../repos/agentjido/jido.md) | ⭐ 1,920 | 2026-11-19 | 🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [AndrewDryga/emisar](../repos/AndrewDryga/emisar.md) | ⭐ 481 | 2026-11-21 | Let AI agents investigate and operate infrastructure through declared actions, bounded by policy ... |
 
 
 ---
@@ -54,15 +60,15 @@
 |------------|-------|------------|---------------|
 | [anoma/anoma](../repos/anoma/anoma.md) | ⭐ 33,620 | 2026-09-04 | 4 |
 | [openai/symphony](../repos/openai/symphony.md) | ⭐ 27,756 | 2026-08-01 | 57 |
-| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,738 | 2026-08-01 | 78 |
-| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,223 | 2026-08-03 | 59 |
+| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,741 | 2026-08-01 | 79 |
+| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,223 | 2026-08-03 | 60 |
 | [h4cc/awesome-elixir](../repos/h4cc/awesome-elixir.md) | ⭐ 13,166 | 2026-09-08 | 1 |
-| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,296 | 2026-08-02 | 79 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,298 | 2026-08-02 | 80 |
 | [firezone/firezone](../repos/firezone/firezone.md) | ⭐ 9,191 | 2026-08-02 | 64 |
 | [phoenixframework/phoenix_live_view](../repos/phoenixframework/phoenix_live_view.md) | ⭐ 6,839 | 2026-08-01 | 27 |
 | [elixir-ecto/ecto](../repos/elixir-ecto/ecto.md) | ⭐ 6,500 | 2026-08-06 | 8 |
 | [papercups-io/papercups](../repos/papercups-io/papercups.md) | ⭐ 6,113 | 2026-09-21 | 2 |
-| [livebook-dev/livebook](../repos/livebook-dev/livebook.md) | ⭐ 5,946 | 2026-08-05 | 12 |
+| [livebook-dev/livebook](../repos/livebook-dev/livebook.md) | ⭐ 5,948 | 2026-08-05 | 13 |
 | [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | ⭐ 5,467 | 2026-08-01 | 64 |
 | [ash-project/ash](../repos/ash-project/ash.md) | ⭐ 2,559 | 2026-09-01 | 23 |
 | [expert-lsp/expert](../repos/expert-lsp/expert.md) | ⭐ 2,048 | 2026-08-01 | 6 |
@@ -79,11 +85,11 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 79 | ⭐ 9,296 | 2026-08-02 | 2026-11-20 |
-| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | 78 | ⭐ 26,738 | 2026-08-01 | 2026-11-20 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 80 | ⭐ 9,298 | 2026-08-02 | 2026-11-21 |
+| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | 79 | ⭐ 26,741 | 2026-08-01 | 2026-11-21 |
 | [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | 64 | ⭐ 5,467 | 2026-08-01 | 2026-11-16 |
 | [firezone/firezone](../repos/firezone/firezone.md) | 64 | ⭐ 9,191 | 2026-08-02 | 2026-11-18 |
-| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | 59 | ⭐ 23,223 | 2026-08-03 | 2026-11-20 |
+| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | 60 | ⭐ 23,223 | 2026-08-03 | 2026-11-21 |
 | [openai/symphony](../repos/openai/symphony.md) | 57 | ⭐ 27,756 | 2026-08-01 | 2026-10-20 |
 | [phoenixframework/phoenix_live_view](../repos/phoenixframework/phoenix_live_view.md) | 27 | ⭐ 6,839 | 2026-08-01 | 2026-11-17 |
 | [open-telemetry/opentelemetry-erlang-contrib](../repos/open-telemetry/opentelemetry-erlang-contrib.md) | 26 | ⭐ 220 | 2026-08-01 | 2026-11-14 |
@@ -144,7 +150,8 @@
 - [ash-project/ash_postgres](../repos/ash-project/ash_postgres.md) - The PostgreSQL data layer for Ash Framework
 - [jsmestad/minga](../repos/jsmestad/minga.md) - A modal text editor built for the age of AI agents — Neovim-style editing, Emacs-style runtime fl...
 - [agentjido/jido](../repos/agentjido/jido.md) - 🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic ...
+- [AndrewDryga/emisar](../repos/AndrewDryga/emisar.md) - Let AI agents investigate and operate infrastructure through declared actions, bounded by policy ...
 
 ---
 
-*Last updated: 2026-11-20T21:01:06.457Z*
+*Last updated: 2026-11-21T21:01:02.558Z*

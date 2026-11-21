@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,507 | 2026-08-01 | 36 |
+| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,508 | 2026-08-01 | 37 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wux1an/wxapkg](../repos/wux1an/wxapkg.md) | ⭐ 4,406 | 2026-08-01 | 26 |
+| [wux1an/wxapkg](../repos/wux1an/wxapkg.md) | ⭐ 4,409 | 2026-08-01 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frappe/crm](../repos/frappe/crm.md) | ⭐ 4,015 | 2026-08-01 | 53 |
+| [frappe/crm](../repos/frappe/crm.md) | ⭐ 4,022 | 2026-08-01 | 54 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ljxi/Cloudflare-R2-oss](../repos/ljxi/Cloudflare-R2-oss.md) | ⭐ 528 | 2026-08-02 | 13 |
+| [ljxi/Cloudflare-R2-oss](../repos/ljxi/Cloudflare-R2-oss.md) | ⭐ 529 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | ⭐ 2,161 | 2026-08-02 | 39 |
+| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | ⭐ 2,165 | 2026-08-02 | 40 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 12,189 | 2026-08-04 | 37 |
+| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 12,225 | 2026-08-04 | 38 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DependencyTrack/frontend](../repos/DependencyTrack/frontend.md) | ⭐ 185 | 2026-08-04 | 6 |
+| [DependencyTrack/frontend](../repos/DependencyTrack/frontend.md) | ⭐ 185 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Daymychen/art-design-pro](../repos/Daymychen/art-design-pro.md) | ⭐ 6,027 | 2026-08-07 | 26 |
+| [Daymychen/art-design-pro](../repos/Daymychen/art-design-pro.md) | ⭐ 6,029 | 2026-08-07 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HuLaSpark/HuLa](../repos/HuLaSpark/HuLa.md) | ⭐ 7,877 | 2026-08-08 | 20 |
+| [HuLaSpark/HuLa](../repos/HuLaSpark/HuLa.md) | ⭐ 7,877 | 2026-08-08 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chaitin/xray](../repos/chaitin/xray.md) | ⭐ 11,797 | 2026-08-12 | 8 |
+| [chaitin/xray](../repos/chaitin/xray.md) | ⭐ 11,798 | 2026-08-12 | 9 |
 
 
 ---
@@ -78,7 +78,7 @@
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,644 | 2026-08-01 | 40 |
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,587 | 2026-08-01 | 35 |
 | [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 29,058 | 2026-08-01 | 36 |
-| [docmirror/dev-sidecar](../repos/docmirror/dev-sidecar.md) | ⭐ 25,141 | 2026-10-06 | 26 |
+| [docmirror/dev-sidecar](../repos/docmirror/dev-sidecar.md) | ⭐ 25,159 | 2026-10-06 | 27 |
 | [iview/iview](../repos/iview/iview.md) | ⭐ 23,775 | 2026-08-22 | 2 |
 | [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 22,482 | 2026-08-01 | 45 |
 | [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,702 | 2026-08-02 | 20 |
@@ -87,11 +87,11 @@
 | [Hunlongyu/ZY-Player](../repos/Hunlongyu/ZY-Player.md) | ⭐ 14,511 | 2026-10-12 | 2 |
 | [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,450 | 2026-08-05 | 16 |
 | [tiny-craft/tiny-rdm](../repos/tiny-craft/tiny-rdm.md) | ⭐ 13,171 | 2026-08-20 | 6 |
-| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 12,189 | 2026-08-04 | 37 |
-| [chaitin/xray](../repos/chaitin/xray.md) | ⭐ 11,797 | 2026-08-12 | 8 |
+| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 12,225 | 2026-08-04 | 38 |
+| [chaitin/xray](../repos/chaitin/xray.md) | ⭐ 11,798 | 2026-08-12 | 9 |
 | [zyronon/douyin](../repos/zyronon/douyin.md) | ⭐ 11,550 | 2026-08-17 | 5 |
 | [dicebear/dicebear](../repos/dicebear/dicebear.md) | ⭐ 10,038 | 2026-10-16 | 5 |
-| [pipipi-pikachu/PPTist](../repos/pipipi-pikachu/PPTist.md) | ⭐ 9,508 | 2026-08-23 | 21 |
+| [pipipi-pikachu/PPTist](../repos/pipipi-pikachu/PPTist.md) | ⭐ 9,507 | 2026-08-23 | 22 |
 | [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,479 | 2026-08-03 | 26 |
 
 ---
@@ -100,16 +100,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [frappe/crm](../repos/frappe/crm.md) | 53 | ⭐ 4,015 | 2026-08-01 | 2026-11-20 |
+| [frappe/crm](../repos/frappe/crm.md) | 54 | ⭐ 4,022 | 2026-08-01 | 2026-11-21 |
 | [RikkaApps/websites](../repos/RikkaApps/websites.md) | 51 | ⭐ 479 | 2026-08-02 | 2026-11-16 |
 | [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | 48 | ⭐ 17,561 | 2026-08-02 | 2026-11-12 |
 | [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 45 | ⭐ 22,482 | 2026-08-01 | 2026-11-17 |
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | 40 | ⭐ 33,644 | 2026-08-01 | 2026-11-18 |
-| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | 39 | ⭐ 2,161 | 2026-08-02 | 2026-11-20 |
+| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | 40 | ⭐ 2,165 | 2026-08-02 | 2026-11-21 |
+| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | 38 | ⭐ 12,225 | 2026-08-04 | 2026-11-21 |
+| [frappe/helpdesk](../repos/frappe/helpdesk.md) | 37 | ⭐ 3,508 | 2026-08-01 | 2026-11-21 |
 | [unovue/reka-ui](../repos/unovue/reka-ui.md) | 37 | ⭐ 6,951 | 2026-08-02 | 2026-11-11 |
-| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | 37 | ⭐ 12,189 | 2026-08-04 | 2026-11-20 |
 | [requarks/wiki](../repos/requarks/wiki.md) | 36 | ⭐ 29,058 | 2026-08-01 | 2026-10-20 |
-| [frappe/helpdesk](../repos/frappe/helpdesk.md) | 36 | ⭐ 3,507 | 2026-08-01 | 2026-11-20 |
 
 ---
 
@@ -218,4 +218,4 @@
 
 ---
 
-*Last updated: 2026-11-20T21:01:06.536Z*
+*Last updated: 2026-11-21T21:01:02.672Z*

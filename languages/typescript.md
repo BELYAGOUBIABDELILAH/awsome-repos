@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 17,801 | 2026-08-01 | 28 |
+| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 18,065 | 2026-08-01 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,438 | 2026-08-01 | 7 |
+| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,497 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 78,236 | 2026-08-01 | 29 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 78,317 | 2026-08-01 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 205,138 | 2026-08-07 | 10 |
+| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 206,066 | 2026-08-07 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 123,060 | 2026-08-07 | 14 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 123,185 | 2026-08-07 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 4,195 | 2026-08-07 | 43 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 4,204 | 2026-08-07 | 44 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twentyhq/twenty](../repos/twentyhq/twenty.md) | ⭐ 61,257 | 2026-08-12 | 10 |
+| [twentyhq/twenty](../repos/twentyhq/twenty.md) | ⭐ 61,293 | 2026-08-12 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-labs-code/stitch-skills](../repos/google-labs-code/stitch-skills.md) | ⭐ 10,981 | 2026-08-22 | 14 |
+| [google-labs-code/stitch-skills](../repos/google-labs-code/stitch-skills.md) | ⭐ 11,365 | 2026-08-22 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mastra-ai/mastra](../repos/mastra-ai/mastra.md) | ⭐ 29,701 | 2026-08-25 | 4 |
+| [mastra-ai/mastra](../repos/mastra-ai/mastra.md) | ⭐ 29,724 | 2026-08-25 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tianma-if/edgeever](../repos/tianma-if/edgeever.md) | ⭐ 3,458 | 2026-08-27 | 4 |
+| [tianma-if/edgeever](../repos/tianma-if/edgeever.md) | ⭐ 3,475 | 2026-08-27 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [genspark-ai/genoffice](../repos/genspark-ai/genoffice.md) | ⭐ 10,649 | 2026-10-22 | Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a bu... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [bowenliang123/dsh-context](../repos/bowenliang123/dsh-context.md) | ⭐ 3,474 | 2026-10-22 | The best DeepSeek Harness plugin for context insight and management, with context dashboard &#x2F; bro... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [CopilotKit/OpenBot](../repos/CopilotKit/OpenBot.md) | ⭐ 12,264 | 2026-10-22 | Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Renhuai123/ziwei-doushu](../repos/Renhuai123/ziwei-doushu.md) | ⭐ 15,752 | 2026-10-23 | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [MoonshotAI/kimi-code](../repos/MoonshotAI/kimi-code.md) | ⭐ 8,013 | 2026-10-25 | Kimi Code CLI  —  The Starting Point for Next-Gen Agents |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [nightly-labs/openbot](../repos/nightly-labs/openbot.md) | ⭐ 8,594 | 2026-10-25 | A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with ded... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [google/brotli](../repos/google/brotli.md) | ⭐ 15,011 | 2026-10-25 | Brotli compression format |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [basketikun/infinite-canvas](../repos/basketikun/infinite-canvas.md) | ⭐ 10,115 | 2026-10-25 | 面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼... |
 
 
 ---
@@ -91,7 +91,7 @@
 | [morluto/rea](../repos/morluto/rea.md) | ⭐ 440,692 | 2026-10-06 | 11 |
 | [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 212,590 | 2026-08-04 | 2 |
 | [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 211,009 | 2026-08-11 | 9 |
-| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 205,138 | 2026-08-07 | 10 |
+| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 206,066 | 2026-08-07 | 11 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 195,138 | 2026-07-30 | 9 |
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 158,228 | 2026-09-01 | 4 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 154,905 | 2026-08-07 | 21 |
@@ -99,7 +99,7 @@
 | [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 140,636 | 2026-08-02 | 19 |
 | [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 127,723 | 2026-08-11 | 26 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | 2026-07-31 | 3 |
-| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 123,060 | 2026-08-07 | 14 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 123,185 | 2026-08-07 | 15 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 118,331 | 2026-08-17 | 5 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 110,330 | 2026-08-02 | 11 |
 | [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 108,379 | 2026-08-23 | 2 |
@@ -115,9 +115,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [expo/skills](../repos/expo/skills.md) | 43 | ⭐ 4,195 | 2026-08-07 | 2026-11-20 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 29 | ⭐ 78,236 | 2026-08-01 | 2026-11-20 |
-| [cursor/plugins](../repos/cursor/plugins.md) | 28 | ⭐ 17,801 | 2026-08-01 | 2026-11-20 |
+| [expo/skills](../repos/expo/skills.md) | 44 | ⭐ 4,204 | 2026-08-07 | 2026-11-21 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 30 | ⭐ 78,317 | 2026-08-01 | 2026-11-21 |
+| [cursor/plugins](../repos/cursor/plugins.md) | 29 | ⭐ 18,065 | 2026-08-01 | 2026-11-21 |
 | [stablyai/orca](../repos/stablyai/orca.md) | 26 | ⭐ 127,723 | 2026-08-11 | 2026-11-17 |
 | [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 23 | ⭐ 74,642 | 2026-08-08 | 2026-10-28 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 22 | ⭐ 54,008 | 2026-08-07 | 2026-11-17 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-20T21:01:06.524Z*
+*Last updated: 2026-11-21T21:01:02.653Z*

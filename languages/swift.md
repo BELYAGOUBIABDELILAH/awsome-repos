@@ -16,28 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 4,268 | 2026-08-01 | 18 |
+| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 4,272 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [seemoo-lab/openhaystack](../repos/seemoo-lab/openhaystack.md) | ⭐ 14,188 | 2026-08-17 | 7 |
+| [seemoo-lab/openhaystack](../repos/seemoo-lab/openhaystack.md) | ⭐ 14,245 | 2026-08-17 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jipika/WaifuX](../repos/jipika/WaifuX.md) | ⭐ 1,683 | 2026-08-20 | 5 |
+| [jipika/WaifuX](../repos/jipika/WaifuX.md) | ⭐ 1,686 | 2026-08-20 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | ⭐ 1,518 | 2026-09-13 | 15 |
+| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | ⭐ 1,526 | 2026-09-13 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [suversal/WrapPin](../repos/suversal/WrapPin.md) | ⭐ 1,132 | 2026-11-15 | 5 |
+| [suversal/WrapPin](../repos/suversal/WrapPin.md) | ⭐ 1,142 | 2026-11-15 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [consolelabs/hidden](../repos/consolelabs/hidden.md) | ⭐ 15,525 | 2026-11-17 | 4 |
+| [consolelabs/hidden](../repos/consolelabs/hidden.md) | ⭐ 15,540 | 2026-11-17 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gauthierpiarrette/highball](../repos/gauthierpiarrette/highball.md) | ⭐ 2,298 | 2026-11-19 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [driceroland/Search](../repos/driceroland/Search.md) | ⭐ 3,505 | 2026-11-20 | 1 |
+| [gauthierpiarrette/highball](../repos/gauthierpiarrette/highball.md) | ⭐ 2,312 | 2026-11-19 | 3 |
 
 
 ---
@@ -96,7 +93,7 @@
 | [SnapKit/SnapKit](../repos/SnapKit/SnapKit.md) | ⭐ 20,344 | 2026-08-14 | 1 |
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,685 | 2026-08-01 | 4 |
 | [OpenEmu/OpenEmu](../repos/OpenEmu/OpenEmu.md) | ⭐ 17,766 | 2026-09-13 | 1 |
-| [consolelabs/hidden](../repos/consolelabs/hidden.md) | ⭐ 15,525 | 2026-11-17 | 4 |
+| [consolelabs/hidden](../repos/consolelabs/hidden.md) | ⭐ 15,540 | 2026-11-17 | 5 |
 | [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 15,451 | 2026-09-21 | 16 |
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 15,429 | 2026-08-03 | 5 |
 | [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 15,311 | 2026-08-24 | 13 |
@@ -113,12 +110,12 @@
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 28 | ⭐ 28,794 | 2026-08-01 | 2026-11-14 |
 | [apple/container](../repos/apple/container.md) | 25 | ⭐ 51,943 | 2026-08-01 | 2026-11-18 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 22 | ⭐ 14,999 | 2026-08-04 | 2026-10-29 |
+| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 19 | ⭐ 4,272 | 2026-08-01 | 2026-11-21 |
 | [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 19 | ⭐ 9,443 | 2026-08-02 | 2026-11-16 |
-| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 18 | ⭐ 4,268 | 2026-08-01 | 2026-11-20 |
 | [swiftlang/swift](../repos/swiftlang/swift.md) | 18 | ⭐ 70,542 | 2026-08-05 | 2026-11-06 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 17 | ⭐ 26,944 | 2026-08-04 | 2026-11-17 |
 | [apple/swift-nio](../repos/apple/swift-nio.md) | 16 | ⭐ 8,547 | 2026-08-04 | 2026-11-06 |
-| [xtool-org/xtool](../repos/xtool-org/xtool.md) | 16 | ⭐ 15,451 | 2026-09-21 | 2026-11-13 |
+| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | 16 | ⭐ 1,526 | 2026-09-13 | 2026-11-21 |
 
 ---
 
@@ -227,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-11-20T21:01:06.519Z*
+*Last updated: 2026-11-21T21:01:02.646Z*

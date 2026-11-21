@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-20T21:01:11.478Z",
-  "total_repositories": 4680,
-  "trending_today": 355,
-  "new_this_month": 538,
+  "generated_at": "2026-11-21T21:01:10.506Z",
+  "total_repositories": 4682,
+  "trending_today": 357,
+  "new_this_month": 525,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-11-20",
+  "last_collection": "2026-11-21",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
@@ -12,13 +12,13 @@
   },
   "most_frequent": {
     "full_name": "apache/spark",
-    "trending_days": 92,
+    "trending_days": 93,
     "first_seen": "2026-08-01"
   },
   "newest_discovery": {
-    "full_name": "driceroland/Search",
-    "stars": 3505,
-    "first_seen": "2026-11-20"
+    "full_name": "N3urda/hongguoTV",
+    "stars": 1501,
+    "first_seen": "2026-11-21"
   },
   "fastest_growing": {
     "full_name": "different-ai/openwork",
@@ -26,9 +26,9 @@
     "growth_rate": 100,
     "first_seen": "2026-08-01"
   },
-  "total_stars": 61940763,
-  "avg_stars": 13235,
-  "avg_trending_days": 7.4,
+  "total_stars": 61955477,
+  "avg_stars": 13233,
+  "avg_trending_days": 7.5,
   "language_count": 62,
   "topic_count": 11494,
   "collection_success_rate": 100,

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Shell |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 12,976 |
-| **Forks** | 🍴 3,009 |
-| **Trending Days** | 13 |
+| **Stars** | ⭐ 12,977 |
+| **Forks** | 🍴 3,010 |
+| **Trending Days** | 14 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Nov 20, 2026 |
+| **Last Seen** | Nov 21, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 13
-- **Longest Streak**: 2 days
+- **Trending Days**: 14
+- **Longest Streak**: 3 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-20T21:01:08.632Z*  
-*Data from 13 trending reports*
+*Last updated: 2026-11-21T21:01:06.143Z*  
+*Data from 14 trending reports*

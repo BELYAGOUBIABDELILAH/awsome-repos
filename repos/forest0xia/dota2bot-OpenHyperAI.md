@@ -13,12 +13,12 @@
 | **Language** | Lua |
 | **License** | MIT |
 | **Stars** | ⭐ 308 |
-| **Forks** | 🍴 84 |
-| **Trending Days** | 58 |
+| **Forks** | 🍴 85 |
+| **Trending Days** | 59 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 20, 2026 |
+| **Last Seen** | Nov 21, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 58
+- **Trending Days**: 59
 - **Longest Streak**: 8 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-20T21:01:08.057Z*  
-*Data from 58 trending reports*
+*Last updated: 2026-11-21T21:01:05.219Z*  
+*Data from 59 trending reports*

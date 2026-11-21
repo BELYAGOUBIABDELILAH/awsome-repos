@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T21:01:11.522Z",
+  "generated_at": "2026-11-21T21:01:10.567Z",
   "total_topics": 100,
   "topics": [
     {
@@ -9,7 +9,7 @@
     },
     {
       "topic": "ai",
-      "repository_count": 261,
+      "repository_count": 262,
       "percentage": 5.6
     },
     {
@@ -29,16 +29,16 @@
     },
     {
       "topic": "mcp",
-      "repository_count": 172,
+      "repository_count": 173,
+      "percentage": 3.7
+    },
+    {
+      "topic": "ai-agents",
+      "repository_count": 171,
       "percentage": 3.7
     },
     {
       "topic": "python",
-      "repository_count": 170,
-      "percentage": 3.6
-    },
-    {
-      "topic": "ai-agents",
       "repository_count": 170,
       "percentage": 3.6
     },
@@ -89,7 +89,7 @@
     },
     {
       "topic": "self-hosted",
-      "repository_count": 120,
+      "repository_count": 121,
       "percentage": 2.6
     },
     {
@@ -104,7 +104,7 @@
     },
     {
       "topic": "security",
-      "repository_count": 103,
+      "repository_count": 104,
       "percentage": 2.2
     },
     {
@@ -129,7 +129,7 @@
     },
     {
       "topic": "go",
-      "repository_count": 89,
+      "repository_count": 90,
       "percentage": 1.9
     },
     {
@@ -263,12 +263,12 @@
       "percentage": 1.1
     },
     {
-      "topic": "gemini",
-      "repository_count": 51,
+      "topic": "mcp-server",
+      "repository_count": 52,
       "percentage": 1.1
     },
     {
-      "topic": "mcp-server",
+      "topic": "gemini",
       "repository_count": 51,
       "percentage": 1.1
     },
@@ -363,12 +363,12 @@
       "percentage": 0.8
     },
     {
-      "topic": "dart",
-      "repository_count": 37,
+      "topic": "devops",
+      "repository_count": 38,
       "percentage": 0.8
     },
     {
-      "topic": "devops",
+      "topic": "dart",
       "repository_count": 37,
       "percentage": 0.8
     },
@@ -463,6 +463,11 @@
       "percentage": 0.7
     },
     {
+      "topic": "elixir",
+      "repository_count": 31,
+      "percentage": 0.7
+    },
+    {
       "topic": "observability",
       "repository_count": 31,
       "percentage": 0.7
@@ -494,11 +499,6 @@
     },
     {
       "topic": "analytics",
-      "repository_count": 30,
-      "percentage": 0.6
-    },
-    {
-      "topic": "cloud",
       "repository_count": 30,
       "percentage": 0.6
     }

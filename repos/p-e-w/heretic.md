@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 42,349 |
-| **Forks** | 🍴 5,250 |
-| **Trending Days** | 12 |
+| **Stars** | ⭐ 42,481 |
+| **Forks** | 🍴 5,282 |
+| **Trending Days** | 13 |
 | **Peak Rank** | #6 |
 
 | **First Seen** | Aug 29, 2026 |
-| **Last Seen** | Nov 20, 2026 |
+| **Last Seen** | Nov 21, 2026 |
 
 
 ---
@@ -49,8 +49,8 @@
 ### Highlights
 
 - **Peak Rank**: #6
-- **Trending Days**: 12
-- **Longest Streak**: 3 days
+- **Trending Days**: 13
+- **Longest Streak**: 4 days
 
 ---
 
@@ -93,5 +93,5 @@
 
 ---
 
-*Last updated: 2026-11-20T21:01:09.826Z*  
-*Data from 12 trending reports*
+*Last updated: 2026-11-21T21:01:07.983Z*  
+*Data from 13 trending reports*

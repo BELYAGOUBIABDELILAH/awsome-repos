@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 35,311 | 2026-08-02 | 13 |
+| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 35,329 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) | ⭐ 34,608 | 2026-08-19 | 12 |
+| [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) | ⭐ 34,664 | 2026-08-19 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,662 | 2026-08-20 | 21 |
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,662 | 2026-08-20 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 60,107 | 2026-10-14 | 4 |
+| [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 60,118 | 2026-10-14 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [michael-denyer/pstack-claude](../repos/michael-denyer/pstack-claude.md) | ⭐ 4,618 | 2026-10-16 | 7 |
+| [michael-denyer/pstack-claude](../repos/michael-denyer/pstack-claude.md) | ⭐ 4,672 | 2026-10-16 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [babygoton/WorkDaddy](../repos/babygoton/WorkDaddy.md) | ⭐ 3,305 | 2026-11-07 | 3 |
+| [babygoton/WorkDaddy](../repos/babygoton/WorkDaddy.md) | ⭐ 3,332 | 2026-11-07 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [micromatch/picomatch](../repos/micromatch/picomatch.md) | ⭐ 1,331 | 2026-11-19 | 2 |
+| [micromatch/picomatch](../repos/micromatch/picomatch.md) | ⭐ 1,332 | 2026-11-19 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [adobe/skills](../repos/adobe/skills.md) | ⭐ 295 | 2026-10-22 | Adobe Skills for Agents |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [maboloshi/github-chinese](../repos/maboloshi/github-chinese.md) | ⭐ 36,643 | 2026-10-25 | GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese) |
@@ -71,6 +68,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [csyangwen/dsh-memory-evolve](../repos/csyangwen/dsh-memory-evolve.md) | ⭐ 627 | 2026-11-03 | 为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 ·... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jgraph/drawio-desktop](../repos/jgraph/drawio-desktop.md) | ⭐ 63,817 | 2026-11-04 | Official electron build of draw.io |
 
 
 ---
@@ -97,7 +97,7 @@
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 65,279 | 2026-08-27 | 16 |
 | [jgraph/drawio-desktop](../repos/jgraph/drawio-desktop.md) | ⭐ 63,817 | 2026-11-04 | 1 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,485 | 2026-08-11 | 5 |
-| [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 60,107 | 2026-10-14 | 4 |
+| [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 60,118 | 2026-10-14 | 5 |
 | [chinese-poetry/chinese-poetry](../repos/chinese-poetry/chinese-poetry.md) | ⭐ 54,296 | 2026-11-10 | 2 |
 
 ---
@@ -110,7 +110,7 @@
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 32 | ⭐ 14,607 | 2026-08-02 | 2026-11-07 |
 | [byoungd/up](../repos/byoungd/up.md) | 22 | ⭐ 70,623 | 2026-08-01 | 2026-11-16 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 22 | ⭐ 90,383 | 2026-08-04 | 2026-10-27 |
-| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | 21 | ⭐ 1,662 | 2026-08-20 | 2026-11-20 |
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | 22 | ⭐ 1,662 | 2026-08-20 | 2026-11-21 |
 | [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 19 | ⭐ 34,116 | 2026-08-08 | 2026-11-11 |
 | [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | 19 | ⭐ 69,110 | 2026-08-28 | 2026-11-10 |
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | 16 | ⭐ 65,279 | 2026-08-27 | 2026-11-16 |
@@ -224,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-11-20T21:01:06.474Z*
+*Last updated: 2026-11-21T21:01:02.581Z*

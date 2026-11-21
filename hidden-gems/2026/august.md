@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 57
+**Gems Found**: 50
 
 ---
 
@@ -19,7 +19,7 @@
 |---|---|
 | ⭐ **Stars** | 659 |
 | 💻 **Language** | Go |
-| 🏆 **Gem Score** | 85/100 |
+| 🏆 **Gem Score** | 84/100 |
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Aug 19, 2026 |
 
@@ -91,27 +91,7 @@
 
 ---
 
-### 5. [bookorbit&#x2F;bookorbit](../../repos/bookorbit/bookorbit.md)
-
-**BookOrbit: Your Reading Space**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 3,033 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 74/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Aug 20, 2026 |
-
-**Why it's a gem**: High growth velocity (+195 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/bookorbit/bookorbit.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;bookorbit&#x2F;bookorbit)
-
----
-
-### 6. [RizRiyz&#x2F;luvus](../../repos/RizRiyz/luvus.md)
+### 5. [RizRiyz&#x2F;luvus](../../repos/RizRiyz/luvus.md)
 
 **Mission control for your AI agents**
 
@@ -131,7 +111,7 @@
 
 ---
 
-### 7. [booklore-app&#x2F;booklore](../../repos/booklore-app/booklore.md)
+### 6. [booklore-app&#x2F;booklore](../../repos/booklore-app/booklore.md)
 
 **BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo &amp; KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.**
 
@@ -151,7 +131,7 @@
 
 ---
 
-### 8. [AgriciDaniel&#x2F;claude-obsidian](../../repos/AgriciDaniel/claude-obsidian.md)
+### 7. [AgriciDaniel&#x2F;claude-obsidian](../../repos/AgriciDaniel/claude-obsidian.md)
 
 **Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy&#39;s LLM Wiki pattern.**
 
@@ -171,7 +151,7 @@
 
 ---
 
-### 9. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
+### 8. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
 
 **Portable Tool for an Ideal Windows Setup**
 
@@ -191,7 +171,7 @@
 
 ---
 
-### 10. [workweave&#x2F;router](../../repos/workweave/router.md)
+### 9. [workweave&#x2F;router](../../repos/workweave/router.md)
 
 **Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.**
 
@@ -199,7 +179,7 @@
 |---|---|
 | ⭐ **Stars** | 2,635 |
 | 💻 **Language** | Go |
-| 🏆 **Gem Score** | 72/100 |
+| 🏆 **Gem Score** | 71/100 |
 | 📈 **Trending Days** | 2 |
 | 📅 **First Seen** | Aug 28, 2026 |
 
@@ -211,27 +191,7 @@
 
 ---
 
-### 11. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
-
-**Visualize your year in travel using your Google Location History (Timeline) data**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,684 |
-| 💻 **Language** | Kotlin |
-| 🏆 **Gem Score** | 71/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 20, 2026 |
-
-**Why it's a gem**: High growth velocity (+1084 stars&#x2F;day) • Trending 4 times • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/mahlernim/google-timeline-visualizer.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mahlernim&#x2F;google-timeline-visualizer)
-
----
-
-### 12. [tutti-os&#x2F;tutti](../../repos/tutti-os/tutti.md)
+### 10. [tutti-os&#x2F;tutti](../../repos/tutti-os/tutti.md)
 
 **Where people and agents build in tune.**
 
@@ -251,7 +211,7 @@
 
 ---
 
-### 13. [microsoft&#x2F;intelligent-terminal](../../repos/microsoft/intelligent-terminal.md)
+### 11. [microsoft&#x2F;intelligent-terminal](../../repos/microsoft/intelligent-terminal.md)
 
 **A fork of Windows Terminal with native agent integration, right in your command line.**
 
@@ -271,27 +231,7 @@
 
 ---
 
-### 14. [kitknox&#x2F;rootshell](../../repos/kitknox/rootshell.md)
-
-**rootshell - The terminal, reimagined for Apple platforms**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 555 |
-| 💻 **Language** | Swift |
-| 🏆 **Gem Score** | 67/100 |
-| 📈 **Trending Days** | 2 |
-| 📅 **First Seen** | Aug 27, 2026 |
-
-**Why it's a gem**: High growth velocity (+55 stars&#x2F;day) • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/kitknox/rootshell.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;kitknox&#x2F;rootshell)
-
----
-
-### 15. [jnMetaCode&#x2F;agency-agents-zh](../../repos/jnMetaCode/agency-agents-zh.md)
+### 12. [jnMetaCode&#x2F;agency-agents-zh](../../repos/jnMetaCode/agency-agents-zh.md)
 
 **🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent&#x2F;Claude Code&#x2F;Cursor&#x2F;Copilot 等 18 种工具，覆盖工程&#x2F;设计&#x2F;营销&#x2F;金融等 20 个部门。含 52 个中国市场原创智能体（小红书&#x2F;抖音&#x2F;微信&#x2F;飞书&#x2F;钉钉等）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。**
 
@@ -311,7 +251,7 @@
 
 ---
 
-### 16. [laude-institute&#x2F;headlong](../../repos/laude-institute/headlong.md)
+### 13. [laude-institute&#x2F;headlong](../../repos/laude-institute/headlong.md)
 
 **An open source agent microharness featuring persistent agency and recursive LLMs. Of bash, by bash, for bash; it&#39;s shells all the way down.**
 
@@ -331,7 +271,27 @@
 
 ---
 
-### 17. [Xoshbin&#x2F;asyar](../../repos/Xoshbin/asyar.md)
+### 14. [kitknox&#x2F;rootshell](../../repos/kitknox/rootshell.md)
+
+**rootshell - The terminal, reimagined for Apple platforms**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 555 |
+| 💻 **Language** | Swift |
+| 🏆 **Gem Score** | 66/100 |
+| 📈 **Trending Days** | 2 |
+| 📅 **First Seen** | Aug 27, 2026 |
+
+**Why it's a gem**: High growth velocity (+55 stars&#x2F;day) • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/kitknox/rootshell.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;kitknox&#x2F;rootshell)
+
+---
+
+### 15. [Xoshbin&#x2F;asyar](../../repos/Xoshbin/asyar.md)
 
 **The power of Raycast. The speed of Alfred. Privacy by design.**
 
@@ -351,7 +311,7 @@
 
 ---
 
-### 18. [1weiho&#x2F;open-slide](../../repos/1weiho/open-slide.md)
+### 16. [1weiho&#x2F;open-slide](../../repos/1weiho/open-slide.md)
 
 **A slide framework built for agents.**
 
@@ -371,7 +331,7 @@
 
 ---
 
-### 19. [ongridio&#x2F;ongrid](../../repos/ongridio/ongrid.md)
+### 17. [ongridio&#x2F;ongrid](../../repos/ongridio/ongrid.md)
 
 **An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, Lark or DingTalk.**
 
@@ -391,7 +351,7 @@
 
 ---
 
-### 20. [pipecat-ai&#x2F;pipecat](../../repos/pipecat-ai/pipecat.md)
+### 18. [pipecat-ai&#x2F;pipecat](../../repos/pipecat-ai/pipecat.md)
 
 **Open Source framework for voice agents, multimodal apps, and realtime AI. Maintained by Daily and the community.**
 
@@ -411,6 +371,46 @@
 
 ---
 
+### 19. [OleksandrChekhovskyi&#x2F;hax](../../repos/OleksandrChekhovskyi/hax.md)
+
+**A minimalist, terminal-native coding agent written in C.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 650 |
+| 💻 **Language** | C |
+| 🏆 **Gem Score** | 62/100 |
+| 📈 **Trending Days** | 1 |
+| 📅 **First Seen** | Aug 25, 2026 |
+
+**Why it's a gem**: High growth velocity (+36 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/OleksandrChekhovskyi/hax.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;OleksandrChekhovskyi&#x2F;hax)
+
+---
+
+### 20. [piratuks&#x2F;invoice-builder](../../repos/piratuks/invoice-builder.md)
+
+**Invoice and quotation builder desktop app with PDF export, designed for small businesses and freelancers. Create, manage, and export invoices and quotes easily using a local database in an Electron-based app.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 923 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 62/100 |
+| 📈 **Trending Days** | 1 |
+| 📅 **First Seen** | Aug 26, 2026 |
+
+**Why it's a gem**: High growth velocity (+88 stars&#x2F;day) • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/piratuks/invoice-builder.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;piratuks&#x2F;invoice-builder)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-20T21:01:11.328Z*  
+*Generated: 2026-11-21T21:01:10.282Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

@@ -7,7 +7,7 @@
 ## October 2026
 
 **Period**: 2026-10-01 to 2026-10-28  
-**Gems Found**: 349
+**Gems Found**: 348
 
 ---
 
@@ -99,7 +99,7 @@
 |---|---|
 | ⭐ **Stars** | 5,640 |
 | 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 91/100 |
+| 🏆 **Gem Score** | 90/100 |
 | 📈 **Trending Days** | 9 |
 | 📅 **First Seen** | Aug 11, 2026 |
 
@@ -119,7 +119,7 @@
 |---|---|
 | ⭐ **Stars** | 3,393 |
 | 💻 **Language** | Shell |
-| 🏆 **Gem Score** | 91/100 |
+| 🏆 **Gem Score** | 90/100 |
 | 📈 **Trending Days** | 6 |
 | 📅 **First Seen** | Aug 15, 2026 |
 
@@ -351,27 +351,7 @@
 
 ---
 
-### 18. [wuwangzhang1216&#x2F;ChinaTextbookStudyFree](../../repos/wuwangzhang1216/ChinaTextbookStudyFree.md)
-
-**给所有中国小学生打造的免费学习平台，从一年级到六年级所有的课本知识点全汇总。**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 863 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 87/100 |
-| 📈 **Trending Days** | 7 |
-| 📅 **First Seen** | Oct 12, 2026 |
-
-**Why it's a gem**: High growth velocity (+91 stars&#x2F;day) • Trending 7 times • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/wuwangzhang1216/ChinaTextbookStudyFree.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;wuwangzhang1216&#x2F;ChinaTextbookStudyFree)
-
----
-
-### 19. [Armur-Ai&#x2F;Pentest-Swarm-AI](../../repos/Armur-Ai/Pentest-Swarm-AI.md)
+### 18. [Armur-Ai&#x2F;Pentest-Swarm-AI](../../repos/Armur-Ai/Pentest-Swarm-AI.md)
 
 **Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.**
 
@@ -391,7 +371,7 @@
 
 ---
 
-### 20. [willfaust&#x2F;Madeira](../../repos/willfaust/Madeira.md)
+### 19. [willfaust&#x2F;Madeira](../../repos/willfaust/Madeira.md)
 
 **Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT**
 
@@ -411,6 +391,26 @@
 
 ---
 
+### 20. [weave-os&#x2F;router](../../repos/weave-os/router.md)
+
+**Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 5,557 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 86/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Sep 19, 2026 |
+
+**Why it's a gem**: High growth velocity (+83 stars&#x2F;day) • Trending 5 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/weave-os/router.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;weave-os&#x2F;router)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-20T21:01:11.324Z*  
+*Generated: 2026-11-21T21:01:10.277Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*
