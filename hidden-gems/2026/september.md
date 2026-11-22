@@ -7,7 +7,7 @@
 ## September 2026
 
 **Period**: 2026-09-01 to 2026-09-28  
-**Gems Found**: 294
+**Gems Found**: 292
 
 ---
 
@@ -251,27 +251,7 @@
 
 ---
 
-### 13. [cactus-compute&#x2F;needle](../../repos/cactus-compute/needle.md)
-
-**Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 12,523 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 78/100 |
-| 📈 **Trending Days** | 10 |
-| 📅 **First Seen** | Aug 11, 2026 |
-
-**Why it's a gem**: High growth velocity (+626 stars&#x2F;day) • Trending 10 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/cactus-compute/needle.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;needle)
-
----
-
-### 14. [superradcompany&#x2F;microsandbox](../../repos/superradcompany/microsandbox.md)
+### 13. [superradcompany&#x2F;microsandbox](../../repos/superradcompany/microsandbox.md)
 
 **🧱 Easy fast local-first microVM runtime and library**
 
@@ -288,6 +268,26 @@
 **Best for**: 
 
 [View Passport](../../repos/superradcompany/microsandbox.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;superradcompany&#x2F;microsandbox)
+
+---
+
+### 14. [cactus-compute&#x2F;needle](../../repos/cactus-compute/needle.md)
+
+**Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 12,523 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 77/100 |
+| 📈 **Trending Days** | 10 |
+| 📅 **First Seen** | Aug 11, 2026 |
+
+**Why it's a gem**: High growth velocity (+626 stars&#x2F;day) • Trending 10 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/cactus-compute/needle.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;needle)
 
 ---
 
@@ -311,27 +311,7 @@
 
 ---
 
-### 16. [Osmantic&#x2F;ODS](../../repos/Osmantic/ODS.md)
-
-**Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 5,807 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 77/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 20, 2026 |
-
-**Why it's a gem**: High growth velocity (+213 stars&#x2F;day) • Trending 4 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/Osmantic/ODS.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Osmantic&#x2F;ODS)
-
----
-
-### 17. [aipoch&#x2F;open-science](../../repos/aipoch/open-science.md)
+### 16. [aipoch&#x2F;open-science](../../repos/aipoch/open-science.md)
 
 **The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python&#x2F;R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.**
 
@@ -351,7 +331,7 @@
 
 ---
 
-### 18. [huggingface&#x2F;funes](../../repos/huggingface/funes.md)
+### 17. [huggingface&#x2F;funes](../../repos/huggingface/funes.md)
 
 **Durable, searchable memory of your past agent sessions.**
 
@@ -371,7 +351,7 @@
 
 ---
 
-### 19. [adongwanai&#x2F;AgentGuide](../../repos/adongwanai/AgentGuide.md)
+### 18. [adongwanai&#x2F;AgentGuide](../../repos/adongwanai/AgentGuide.md)
 
 **https:&#x2F;&#x2F;adongwanai.github.io&#x2F;AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成**
 
@@ -391,7 +371,7 @@
 
 ---
 
-### 20. [cobusgreyling&#x2F;loop-engineering](../../repos/cobusgreyling/loop-engineering.md)
+### 19. [cobusgreyling&#x2F;loop-engineering](../../repos/cobusgreyling/loop-engineering.md)
 
 **Practical patterns, starters &amp; CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.**
 
@@ -411,6 +391,26 @@
 
 ---
 
+### 20. [Osmantic&#x2F;ODS](../../repos/Osmantic/ODS.md)
+
+**Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 5,807 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 76/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 20, 2026 |
+
+**Why it's a gem**: High growth velocity (+213 stars&#x2F;day) • Trending 4 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/Osmantic/ODS.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Osmantic&#x2F;ODS)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-21T21:01:10.279Z*  
+*Generated: 2026-11-22T21:01:12.241Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

@@ -19,7 +19,7 @@
 |---|---|
 | ⭐ **Stars** | 1,725 |
 | 💻 **Language** | Go |
-| 🏆 **Gem Score** | 93/100 |
+| 🏆 **Gem Score** | 92/100 |
 | 📈 **Trending Days** | 6 |
 | 📅 **First Seen** | Aug 1, 2026 |
 
@@ -251,27 +251,7 @@
 
 ---
 
-### 13. [uber&#x2F;ADR](../../repos/uber/ADR.md)
-
-**ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,893 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 87/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 4, 2026 |
-
-**Why it's a gem**: High growth velocity (+336 stars&#x2F;day) • Trending 4 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/uber/ADR.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;uber&#x2F;ADR)
-
----
-
-### 14. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
+### 13. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
 
 **Multi-account API gateway for Grok Build, Grok Web, and Grok Console**
 
@@ -291,7 +271,7 @@
 
 ---
 
-### 15. [tbphp&#x2F;gpt-load](../../repos/tbphp/gpt-load.md)
+### 14. [tbphp&#x2F;gpt-load](../../repos/tbphp/gpt-load.md)
 
 **Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。**
 
@@ -311,27 +291,7 @@
 
 ---
 
-### 16. [BuilderIO&#x2F;agent-native](../../repos/BuilderIO/agent-native.md)
-
-**A framework for building agentic apps**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 7,390 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 87/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Sep 12, 2026 |
-
-**Why it's a gem**: High growth velocity (+446 stars&#x2F;day) • Trending 5 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/BuilderIO/agent-native.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;BuilderIO&#x2F;agent-native)
-
----
-
-### 17. [mvschwarz&#x2F;openrig](../../repos/mvschwarz/openrig.md)
+### 15. [mvschwarz&#x2F;openrig](../../repos/mvschwarz/openrig.md)
 
 **Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.**
 
@@ -351,7 +311,27 @@
 
 ---
 
-### 18. [Armur-Ai&#x2F;Pentest-Swarm-AI](../../repos/Armur-Ai/Pentest-Swarm-AI.md)
+### 16. [uber&#x2F;ADR](../../repos/uber/ADR.md)
+
+**ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,893 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 86/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 4, 2026 |
+
+**Why it's a gem**: High growth velocity (+336 stars&#x2F;day) • Trending 4 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/uber/ADR.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;uber&#x2F;ADR)
+
+---
+
+### 17. [Armur-Ai&#x2F;Pentest-Swarm-AI](../../repos/Armur-Ai/Pentest-Swarm-AI.md)
 
 **Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.**
 
@@ -371,7 +351,7 @@
 
 ---
 
-### 19. [willfaust&#x2F;Madeira](../../repos/willfaust/Madeira.md)
+### 18. [willfaust&#x2F;Madeira](../../repos/willfaust/Madeira.md)
 
 **Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT**
 
@@ -388,6 +368,26 @@
 **Best for**: 
 
 [View Passport](../../repos/willfaust/Madeira.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;willfaust&#x2F;Madeira)
+
+---
+
+### 19. [BuilderIO&#x2F;agent-native](../../repos/BuilderIO/agent-native.md)
+
+**A framework for building agentic apps**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 7,390 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 86/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Sep 12, 2026 |
+
+**Why it's a gem**: High growth velocity (+446 stars&#x2F;day) • Trending 5 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/BuilderIO/agent-native.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;BuilderIO&#x2F;agent-native)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-21T21:01:10.277Z*  
+*Generated: 2026-11-22T21:01:12.238Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

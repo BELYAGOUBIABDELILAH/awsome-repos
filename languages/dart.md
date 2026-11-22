@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 79,316 | 2026-08-01 | 41 |
+| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 79,376 | 2026-08-01 | 42 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 64,610 | 2026-08-02 | 50 |
+| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 64,777 | 2026-08-02 | 51 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 100,125 | 2026-08-02 | 47 |
+| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 100,285 | 2026-08-02 | 48 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | ⭐ 4,712 | 2026-08-02 | 33 |
+| [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | ⭐ 4,737 | 2026-08-02 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [KaringX/clashmi](../repos/KaringX/clashmi.md) | ⭐ 10,643 | 2026-08-02 | 21 |
+| [KaringX/clashmi](../repos/KaringX/clashmi.md) | ⭐ 10,663 | 2026-08-02 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sass/dart-sass](../repos/sass/dart-sass.md) | ⭐ 4,238 | 2026-08-04 | 4 |
+| [sass/dart-sass](../repos/sass/dart-sass.md) | ⭐ 4,238 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [InlitX/GymMane](../repos/InlitX/GymMane.md) | ⭐ 1,931 | 2026-10-13 | 17 |
+| [InlitX/GymMane](../repos/InlitX/GymMane.md) | ⭐ 1,942 | 2026-10-13 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AneryCoft/course_helper](../repos/AneryCoft/course_helper.md) | ⭐ 495 | 2026-10-14 | 11 |
+| [AneryCoft/course_helper](../repos/AneryCoft/course_helper.md) | ⭐ 497 | 2026-10-14 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [GhostenEditor/Ghosten-Player](../repos/GhostenEditor/Ghosten-Player.md) | ⭐ 3,458 | 2026-10-21 | 6 |
+| [GhostenEditor/Ghosten-Player](../repos/GhostenEditor/Ghosten-Player.md) | ⭐ 3,460 | 2026-10-21 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ch6vip/novel-sound](../repos/ch6vip/novel-sound.md) | ⭐ 1,665 | 2026-11-13 | 6 |
+| [ch6vip/novel-sound](../repos/ch6vip/novel-sound.md) | ⭐ 1,679 | 2026-11-13 | 7 |
 
 
 ---
@@ -76,7 +76,7 @@
 | [ZhFahim/anchor](../repos/ZhFahim/anchor.md) | ⭐ 1,711 | 2026-11-12 | Offline first, self hostable note taking application |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ch6vip/novel-sound](../repos/ch6vip/novel-sound.md) | ⭐ 1,665 | 2026-11-13 | 内容聚合 Android 客户端：小说&#x2F;短剧&#x2F;漫剧&#x2F;听书&#x2F;漫画，Flutter UI + 进程内 Rust 核心，无自建服务器、无需 root |
+| [ch6vip/novel-sound](../repos/ch6vip/novel-sound.md) | ⭐ 1,679 | 2026-11-13 | 内容聚合 Android 客户端：小说&#x2F;短剧&#x2F;漫剧&#x2F;听书&#x2F;漫画，Flutter UI + 进程内 Rust 核心，无自建服务器、无需 root |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ComicSparks/pikapika](../repos/ComicSparks/pikapika.md) | ⭐ 8,411 | 2026-11-17 | bika 哔咔 全平台客户端。A comic browser，support Android &#x2F; iOS &#x2F; MacOS &#x2F; Windows &#x2F; Linux. |
@@ -89,9 +89,9 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 181,291 | 2026-08-01 | 57 |
-| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 100,125 | 2026-08-02 | 47 |
-| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 79,316 | 2026-08-01 | 41 |
-| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 64,610 | 2026-08-02 | 50 |
+| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 100,285 | 2026-08-02 | 48 |
+| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 79,376 | 2026-08-01 | 42 |
+| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 64,777 | 2026-08-02 | 51 |
 | [KRTirtho/spotube](../repos/KRTirtho/spotube.md) | ⭐ 49,303 | 2026-08-04 | 20 |
 | [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 42,769 | 2026-08-01 | 45 |
 | [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 34,082 | 2026-08-02 | 53 |
@@ -117,13 +117,13 @@
 |------------|---------------|-------|------------|-----------|
 | [flutter/flutter](../repos/flutter/flutter.md) | 57 | ⭐ 181,291 | 2026-08-01 | 2026-11-18 |
 | [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | 53 | ⭐ 34,082 | 2026-08-02 | 2026-11-16 |
-| [chen08209/FlClash](../repos/chen08209/FlClash.md) | 50 | ⭐ 64,610 | 2026-08-02 | 2026-11-21 |
-| [localsend/localsend](../repos/localsend/localsend.md) | 47 | ⭐ 100,125 | 2026-08-02 | 2026-11-21 |
+| [chen08209/FlClash](../repos/chen08209/FlClash.md) | 51 | ⭐ 64,777 | 2026-08-02 | 2026-11-22 |
+| [localsend/localsend](../repos/localsend/localsend.md) | 48 | ⭐ 100,285 | 2026-08-02 | 2026-11-22 |
 | [KaringX/karing](../repos/KaringX/karing.md) | 46 | ⭐ 16,158 | 2026-08-02 | 2026-11-14 |
 | [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | 45 | ⭐ 42,769 | 2026-08-01 | 2026-11-16 |
 | [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | 44 | ⭐ 20,960 | 2026-08-02 | 2026-11-16 |
-| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | 41 | ⭐ 79,316 | 2026-08-01 | 2026-11-21 |
-| [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | 33 | ⭐ 4,712 | 2026-08-02 | 2026-11-21 |
+| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | 42 | ⭐ 79,376 | 2026-08-01 | 2026-11-22 |
+| [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | 34 | ⭐ 4,737 | 2026-08-02 | 2026-11-22 |
 | [TNT-Likely/BeeCount](../repos/TNT-Likely/BeeCount.md) | 28 | ⭐ 2,839 | 2026-08-06 | 2026-11-18 |
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-21T21:01:02.549Z*
+*Last updated: 2026-11-22T21:01:04.041Z*

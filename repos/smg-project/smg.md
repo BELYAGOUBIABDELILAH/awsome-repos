@@ -71,7 +71,7 @@
 | **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Very Active | 636+ stars, strong contributor base |
-| **Maturity** | Experimental | New project, evolving rapidly |
+| **Maturity** | Stable | Established project |
 | **Maintenance** | Slow | Occasional updates |
 | **Learning Curve** | Hard | Requires domain expertise |
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-21T21:01:09.392Z*  
+*Last updated: 2026-11-22T21:01:11.240Z*  
 *Data from 1 trending reports*

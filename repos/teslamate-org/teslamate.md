@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Elixir |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 9,298 |
-| **Forks** | 🍴 1,043 |
-| **Trending Days** | 80 |
+| **Stars** | ⭐ 9,303 |
+| **Forks** | 🍴 1,045 |
+| **Trending Days** | 81 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Nov 21, 2026 |
+| **Last Seen** | Nov 22, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 80
-- **Longest Streak**: 20 days
+- **Trending Days**: 81
+- **Longest Streak**: 21 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-21T21:01:05.680Z*  
-*Data from 80 trending reports*
+*Last updated: 2026-11-22T21:01:07.191Z*  
+*Data from 81 trending reports*

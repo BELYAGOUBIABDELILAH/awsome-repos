@@ -16,31 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 27 | 2026-08-01 | 26 |
+| [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 28 | 2026-08-01 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/promises](../repos/google/promises.md) | ⭐ 3,827 | 2026-08-01 | 63 |
+| [google/promises](../repos/google/promises.md) | ⭐ 3,827 | 2026-08-01 | 64 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 136 | 2026-08-01 | 63 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 136 | 2026-08-01 | 64 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 60 | 2026-08-01 | 64 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 60 | 2026-08-01 | 65 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 292 | 2026-08-01 | 63 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 292 | 2026-08-01 | 64 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,604 | 2026-08-04 | 42 |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,604 | 2026-08-04 | 43 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mParticle/mparticle-apple-sdk](../repos/mParticle/mparticle-apple-sdk.md) | ⭐ 55 | 2026-10-23 | mParticle Apple SDK |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [apache/cordova-plugin-camera](../repos/apache/cordova-plugin-camera.md) | ⭐ 979 | 2026-10-25 | Apache Cordova Plugin camera |
@@ -75,7 +72,7 @@
 | [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,610 | 2026-08-01 | 61 |
 | [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,645 | 2026-08-02 | 45 |
 | [SnapKit/Masonry](../repos/SnapKit/Masonry.md) | ⭐ 18,130 | 2026-09-02 | 1 |
-| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,604 | 2026-08-04 | 42 |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,604 | 2026-08-04 | 43 |
 | [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,450 | 2026-08-04 | 23 |
 | [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,893 | 2026-08-04 | 13 |
 | [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,201 | 2026-08-01 | 14 |
@@ -97,15 +94,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 64 | ⭐ 60 | 2026-08-01 | 2026-11-21 |
-| [google/promises](../repos/google/promises.md) | 63 | ⭐ 3,827 | 2026-08-01 | 2026-11-21 |
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 63 | ⭐ 136 | 2026-08-01 | 2026-11-21 |
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 63 | ⭐ 292 | 2026-08-01 | 2026-11-21 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 65 | ⭐ 60 | 2026-08-01 | 2026-11-22 |
+| [google/promises](../repos/google/promises.md) | 64 | ⭐ 3,827 | 2026-08-01 | 2026-11-22 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 64 | ⭐ 136 | 2026-08-01 | 2026-11-22 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 64 | ⭐ 292 | 2026-08-01 | 2026-11-22 |
 | [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 61 | ⭐ 25,610 | 2026-08-01 | 2026-11-18 |
 | [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | 49 | ⭐ 2,039 | 2026-08-08 | 2026-11-14 |
 | [opa334/TrollStore](../repos/opa334/TrollStore.md) | 45 | ⭐ 22,645 | 2026-08-02 | 2026-11-16 |
 | [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | 44 | ⭐ 4,507 | 2026-08-05 | 2026-11-18 |
-| [realm/realm-swift](../repos/realm/realm-swift.md) | 42 | ⭐ 16,604 | 2026-08-04 | 2026-11-21 |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | 43 | ⭐ 16,604 | 2026-08-04 | 2026-11-22 |
 | [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 40 | ⭐ 678 | 2026-08-04 | 2026-11-17 |
 
 ---
@@ -215,4 +212,4 @@
 
 ---
 
-*Last updated: 2026-11-21T21:01:02.609Z*
+*Last updated: 2026-11-22T21:01:04.097Z*

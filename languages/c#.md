@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 206
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-21
+- **Last Updated**: 2026-11-22
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 33,506 | 2026-08-01 | 28 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 33,525 | 2026-08-01 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,701 | 2026-08-01 | 17 |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,706 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 15,091 | 2026-08-01 | 27 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 15,100 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 121,129 | 2026-08-02 | 39 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 121,181 | 2026-08-02 | 40 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) | ⭐ 7,513 | 2026-08-02 | 20 |
+| [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) | ⭐ 7,566 | 2026-08-02 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 12,844 | 2026-08-04 | 23 |
+| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 12,954 | 2026-08-04 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NickvisionApps/Parabolic](../repos/NickvisionApps/Parabolic.md) | ⭐ 7,766 | 2026-08-14 | 11 |
+| [NickvisionApps/Parabolic](../repos/NickvisionApps/Parabolic.md) | ⭐ 7,782 | 2026-08-14 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Cysharp/UniTask](../repos/Cysharp/UniTask.md) | ⭐ 11,316 | 2026-08-19 | 10 |
+| [Cysharp/UniTask](../repos/Cysharp/UniTask.md) | ⭐ 11,317 | 2026-08-19 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [STranslate/STranslate](../repos/STranslate/STranslate.md) | ⭐ 8,681 | 2026-09-08 | 9 |
+| [STranslate/STranslate](../repos/STranslate/STranslate.md) | ⭐ 8,695 | 2026-09-08 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [greenshot/greenshot](../repos/greenshot/greenshot.md) | ⭐ 5,280 | 2026-09-25 | 5 |
+| [greenshot/greenshot](../repos/greenshot/greenshot.md) | ⭐ 5,282 | 2026-09-25 | 6 |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 121,129 | 2026-08-02 | 39 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 121,181 | 2026-08-02 | 40 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 59,438 | 2026-08-02 | 26 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 56,176 | 2026-08-06 | 25 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,663 | 2026-08-01 | 18 |
@@ -96,7 +96,7 @@
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 39,237 | 2026-08-03 | 18 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,524 | 2026-08-01 | 26 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 33,633 | 2026-08-02 | 45 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 33,506 | 2026-08-01 | 28 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 33,525 | 2026-08-01 | 29 |
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 32,177 | 2026-08-22 | 6 |
 | [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,082 | 2026-08-28 | 4 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
@@ -107,7 +107,7 @@
 | [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 25,767 | 2026-08-27 | 11 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,316 | 2026-08-04 | 5 |
 | [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,787 | 2026-08-01 | 13 |
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,701 | 2026-08-01 | 17 |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,706 | 2026-08-01 | 18 |
 
 ---
 
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 45 | ⭐ 33,633 | 2026-08-02 | 2026-11-19 |
 | [dotnet/skills](../repos/dotnet/skills.md) | 44 | ⭐ 6,179 | 2026-08-03 | 2026-11-14 |
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 39 | ⭐ 121,129 | 2026-08-02 | 2026-11-21 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 28 | ⭐ 33,506 | 2026-08-01 | 2026-11-21 |
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 27 | ⭐ 15,091 | 2026-08-01 | 2026-11-21 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 40 | ⭐ 121,181 | 2026-08-02 | 2026-11-22 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 29 | ⭐ 33,525 | 2026-08-01 | 2026-11-22 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 28 | ⭐ 15,100 | 2026-08-01 | 2026-11-22 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 27 | ⭐ 17,894 | 2026-08-02 | 2026-11-10 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 26 | ⭐ 38,524 | 2026-08-01 | 2026-11-14 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 26 | ⭐ 59,438 | 2026-08-02 | 2026-11-16 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | 25 | ⭐ 56,176 | 2026-08-06 | 2026-11-14 |
-| [dotnet/runtime](../repos/dotnet/runtime.md) | 24 | ⭐ 18,437 | 2026-08-04 | 2026-11-14 |
+| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | 24 | ⭐ 12,954 | 2026-08-04 | 2026-11-22 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-21T21:01:02.524Z*
+*Last updated: 2026-11-22T21:01:04.020Z*

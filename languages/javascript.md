@@ -16,25 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 35,329 | 2026-08-02 | 14 |
+| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 35,360 | 2026-08-02 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) | ⭐ 34,664 | 2026-08-19 | 13 |
+| [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) | ⭐ 34,734 | 2026-08-19 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,662 | 2026-08-20 | 22 |
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,666 | 2026-08-20 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 60,118 | 2026-10-14 | 5 |
+| [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 60,202 | 2026-10-14 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [michael-denyer/pstack-claude](../repos/michael-denyer/pstack-claude.md) | ⭐ 4,672 | 2026-10-16 | 8 |
+| [michael-denyer/pstack-claude](../repos/michael-denyer/pstack-claude.md) | ⭐ 4,711 | 2026-10-16 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [babygoton/WorkDaddy](../repos/babygoton/WorkDaddy.md) | ⭐ 3,332 | 2026-11-07 | 4 |
+| [babygoton/WorkDaddy](../repos/babygoton/WorkDaddy.md) | ⭐ 3,356 | 2026-11-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [micromatch/picomatch](../repos/micromatch/picomatch.md) | ⭐ 1,332 | 2026-11-19 | 3 |
+| [micromatch/picomatch](../repos/micromatch/picomatch.md) | ⭐ 1,336 | 2026-11-19 | 4 |
 
 
 ---
@@ -97,7 +97,7 @@
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 65,279 | 2026-08-27 | 16 |
 | [jgraph/drawio-desktop](../repos/jgraph/drawio-desktop.md) | ⭐ 63,817 | 2026-11-04 | 1 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,485 | 2026-08-11 | 5 |
-| [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 60,118 | 2026-10-14 | 5 |
+| [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 60,202 | 2026-10-14 | 6 |
 | [chinese-poetry/chinese-poetry](../repos/chinese-poetry/chinese-poetry.md) | ⭐ 54,296 | 2026-11-10 | 2 |
 
 ---
@@ -108,9 +108,9 @@
 |------------|---------------|-------|------------|-----------|
 | [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 39 | ⭐ 117,534 | 2026-08-05 | 2026-11-14 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 32 | ⭐ 14,607 | 2026-08-02 | 2026-11-07 |
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | 23 | ⭐ 1,666 | 2026-08-20 | 2026-11-22 |
 | [byoungd/up](../repos/byoungd/up.md) | 22 | ⭐ 70,623 | 2026-08-01 | 2026-11-16 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 22 | ⭐ 90,383 | 2026-08-04 | 2026-10-27 |
-| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | 22 | ⭐ 1,662 | 2026-08-20 | 2026-11-21 |
 | [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 19 | ⭐ 34,116 | 2026-08-08 | 2026-11-11 |
 | [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | 19 | ⭐ 69,110 | 2026-08-28 | 2026-11-10 |
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | 16 | ⭐ 65,279 | 2026-08-27 | 2026-11-16 |
@@ -224,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-11-21T21:01:02.581Z*
+*Last updated: 2026-11-22T21:01:04.071Z*

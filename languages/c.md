@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [libsdl-org/SDL](../repos/libsdl-org/SDL.md) | ⭐ 17,044 | 2026-08-01 | 15 |
+| [libsdl-org/SDL](../repos/libsdl-org/SDL.md) | ⭐ 17,053 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [php/php-src](../repos/php/php-src.md) | ⭐ 41,852 | 2026-08-01 | 17 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 41,853 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,880 | 2026-08-01 | 46 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,890 | 2026-08-01 | 47 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 32,709 | 2026-08-02 | 12 |
+| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 32,864 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [flipperdevices/flipperzero-firmware](../repos/flipperdevices/flipperzero-firmware.md) | ⭐ 16,951 | 2026-08-03 | 6 |
+| [flipperdevices/flipperzero-firmware](../repos/flipperdevices/flipperzero-firmware.md) | ⭐ 16,961 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 17,153 | 2026-08-06 | 34 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 17,166 | 2026-08-06 | 35 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [madler/zlib](../repos/madler/zlib.md) | ⭐ 7,242 | 2026-08-07 | 18 |
+| [madler/zlib](../repos/madler/zlib.md) | ⭐ 7,244 | 2026-08-07 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [espressif/esp-idf](../repos/espressif/esp-idf.md) | ⭐ 19,564 | 2026-08-12 | 14 |
+| [espressif/esp-idf](../repos/espressif/esp-idf.md) | ⭐ 19,571 | 2026-08-12 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pgvector/pgvector](../repos/pgvector/pgvector.md) | ⭐ 23,765 | 2026-08-12 | 15 |
+| [pgvector/pgvector](../repos/pgvector/pgvector.md) | ⭐ 23,779 | 2026-08-12 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [meta/zstd](../repos/meta/zstd.md) | ⭐ 28,281 | 2026-11-07 | 4 |
+| [meta/zstd](../repos/meta/zstd.md) | ⭐ 28,288 | 2026-11-07 | 5 |
 
 
 ---
@@ -76,7 +76,7 @@
 | [openssh/openssh-portable](../repos/openssh/openssh-portable.md) | ⭐ 4,098 | 2026-11-06 | Portable OpenSSH |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [meta/zstd](../repos/meta/zstd.md) | ⭐ 28,281 | 2026-11-07 | Zstandard - Fast real-time compression algorithm |
+| [meta/zstd](../repos/meta/zstd.md) | ⭐ 28,288 | 2026-11-07 | Zstandard - Fast real-time compression algorithm |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [zeldaret/oot](../repos/zeldaret/oot.md) | ⭐ 5,711 | 2026-11-07 | Decompilation of The Legend of Zelda: Ocarina of Time |
@@ -96,13 +96,13 @@
 | [git/git](../repos/git/git.md) | ⭐ 64,135 | 2026-08-05 | 10 |
 | [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 51,088 | 2026-09-01 | 26 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 48,774 | 2026-08-07 | 27 |
-| [php/php-src](../repos/php/php-src.md) | ⭐ 41,852 | 2026-08-01 | 17 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 41,853 | 2026-08-01 | 18 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 38,334 | 2026-08-08 | 5 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,982 | 2026-08-02 | 11 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,813 | 2026-08-04 | 10 |
 | [nothings/stb](../repos/nothings/stb.md) | ⭐ 35,019 | 2026-08-03 | 9 |
 | [valinet/ExplorerPatcher](../repos/valinet/ExplorerPatcher.md) | ⭐ 34,217 | 2026-09-06 | 5 |
-| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 32,709 | 2026-08-02 | 12 |
+| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 32,864 | 2026-08-02 | 13 |
 | [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,509 | 2026-08-01 | 6 |
 | [lizongying/my-tv](../repos/lizongying/my-tv.md) | ⭐ 31,960 | 2026-08-17 | 2 |
 | [coolsnowwolf/lede](../repos/coolsnowwolf/lede.md) | ⭐ 31,611 | 2026-08-16 | 3 |
@@ -115,8 +115,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 46 | ⭐ 17,880 | 2026-08-01 | 2026-11-21 |
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 34 | ⭐ 17,153 | 2026-08-06 | 2026-11-21 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 47 | ⭐ 17,890 | 2026-08-01 | 2026-11-22 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 35 | ⭐ 17,166 | 2026-08-06 | 2026-11-22 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 27 | ⭐ 48,774 | 2026-08-07 | 2026-11-17 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 26 | ⭐ 140,879 | 2026-08-01 | 2026-11-11 |
 | [JustVugg/colibri](../repos/JustVugg/colibri.md) | 26 | ⭐ 51,088 | 2026-09-01 | 2026-11-14 |
@@ -124,7 +124,7 @@
 | [facebook/zstd](../repos/facebook/zstd.md) | 21 | ⭐ 28,089 | 2026-08-07 | 2026-10-23 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 20 | ⭐ 154,980 | 2026-08-07 | 2026-11-16 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 19 | ⭐ 7,021 | 2026-08-04 | 2026-10-23 |
-| [madler/zlib](../repos/madler/zlib.md) | 18 | ⭐ 7,242 | 2026-08-07 | 2026-11-21 |
+| [madler/zlib](../repos/madler/zlib.md) | 19 | ⭐ 7,244 | 2026-08-07 | 2026-11-22 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-21T21:01:02.517Z*
+*Last updated: 2026-11-22T21:01:04.015Z*

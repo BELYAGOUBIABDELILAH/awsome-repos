@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T21:01:10.567Z",
+  "generated_at": "2026-11-22T21:01:12.531Z",
   "total_topics": 100,
   "topics": [
     {
@@ -54,7 +54,7 @@
     },
     {
       "topic": "windows",
-      "repository_count": 149,
+      "repository_count": 150,
       "percentage": 3.2
     },
     {
@@ -488,12 +488,12 @@
       "percentage": 0.7
     },
     {
-      "topic": "security-tools",
+      "topic": "openclaw",
       "repository_count": 31,
       "percentage": 0.7
     },
     {
-      "topic": "openclaw",
+      "topic": "security-tools",
       "repository_count": 31,
       "percentage": 0.7
     },

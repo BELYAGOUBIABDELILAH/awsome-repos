@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | PHP |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 15,220 |
-| **Forks** | 🍴 4,077 |
-| **Trending Days** | 40 |
+| **Stars** | ⭐ 15,228 |
+| **Forks** | 🍴 4,079 |
+| **Trending Days** | 41 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 21, 2026 |
+| **Last Seen** | Nov 22, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 40
-- **Longest Streak**: 5 days
+- **Trending Days**: 41
+- **Longest Streak**: 6 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-21T21:01:05.092Z*  
-*Data from 40 trending reports*
+*Last updated: 2026-11-22T21:01:06.594Z*  
+*Data from 41 trending reports*

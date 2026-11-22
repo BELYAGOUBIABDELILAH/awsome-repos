@@ -9,7 +9,7 @@
 - **Total Repositories**: 597
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-07
-- **Average Stars**: 21951
+- **Average Stars**: 21957
 
 ---
 
@@ -17,31 +17,31 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 31,099 | Rust |  |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 31,142 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 33,506 | C# |  |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 33,525 | C# |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,856 | Ruby |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,858 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,657 | Scala |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,658 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,594 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,605 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,404 | Lua |  |
+| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,401 | Lua |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,880 | C |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,890 | C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,545 | Perl |  |
+| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,546 | Perl |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 69,291 | HTML |  |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 69,317 | HTML |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,324 | Nim |  |
@@ -56,8 +56,8 @@
 | [morluto/rea](../repos/morluto/rea.md) | ⭐ 440,692 | TypeScript | 2026-10-06 | 11 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 243,012 | Python | 2026-08-01 | 17 |
 | [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 211,009 | TypeScript | 2026-08-11 | 9 |
-| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 206,066 | TypeScript | 2026-08-07 | 11 |
-| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 197,448 | Python | 2026-09-07 | 6 |
+| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 206,910 | TypeScript | 2026-08-07 | 12 |
+| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 197,854 | Python | 2026-09-07 | 7 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,775 | Python | 2026-08-06 | 9 |
 | [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 186,884 | Go | 2026-08-01 | 28 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 169,239 | Python | 2026-07-31 | 12 |
@@ -82,19 +82,19 @@
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 65,124 | TypeScript | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 31,099 | Rust | 3 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 31,142 | Rust | 4 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 52,173 | Go | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 33,506 | C# | 4 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 33,525 | C# | 5 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,856 | Ruby | 10 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,858 | Ruby | 11 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,657 | Scala | 6 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,658 | Scala | 7 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [microsoft/SynapseML](../repos/microsoft/SynapseML.md) | ⭐ 5,256 | Scala | 1 |
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-11-22](../archive/2026/11/2026-11-22.md)
+- 50 repositories trending
+- Top: firecrawl&#x2F;firecrawl
+
 ### [2026-11-21](../archive/2026/11/2026-11-21.md)
 - 51 repositories trending
 - Top: firecrawl&#x2F;firecrawl
@@ -162,10 +166,6 @@
 - 36 repositories trending
 - Top: huggingface&#x2F;transformers
 
-### [2026-11-15](../archive/2026/11/2026-11-15.md)
-- 25 repositories trending
-- Top: aaif-goose&#x2F;goose
-
 
 ---
 
@@ -175,15 +175,15 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 93 days | 2026-08-01 | 2026-11-21 |
-| [vlang/v](../repos/vlang/v.md) | 86 days | 2026-08-01 | 2026-11-21 |
+| [apache/spark](../repos/apache/spark.md) | 94 days | 2026-08-01 | 2026-11-22 |
+| [vlang/v](../repos/vlang/v.md) | 87 days | 2026-08-01 | 2026-11-22 |
 | [vim/vim](../repos/vim/vim.md) | 76 days | 2026-08-01 | 2026-11-18 |
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | 73 days | 2026-08-01 | 2026-11-21 |
-| [joernio/joern](../repos/joernio/joern.md) | 69 days | 2026-08-01 | 2026-11-21 |
-| [wrf-model/WRF](../repos/wrf-model/WRF.md) | 67 days | 2026-08-04 | 2026-11-21 |
-| [OpenKore/openkore](../repos/OpenKore/openkore.md) | 53 days | 2026-08-01 | 2026-11-21 |
-| [ruby/ruby](../repos/ruby/ruby.md) | 52 days | 2026-08-01 | 2026-11-21 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 46 days | 2026-08-01 | 2026-11-21 |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | 74 days | 2026-08-01 | 2026-11-22 |
+| [joernio/joern](../repos/joernio/joern.md) | 70 days | 2026-08-01 | 2026-11-22 |
+| [wrf-model/WRF](../repos/wrf-model/WRF.md) | 68 days | 2026-08-04 | 2026-11-22 |
+| [OpenKore/openkore](../repos/OpenKore/openkore.md) | 54 days | 2026-08-01 | 2026-11-22 |
+| [ruby/ruby](../repos/ruby/ruby.md) | 53 days | 2026-08-01 | 2026-11-22 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 47 days | 2026-08-01 | 2026-11-22 |
 | [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | 44 days | 2026-08-04 | 2026-11-16 |
 
 ---
@@ -198,7 +198,7 @@
 - **C**: 43 repositories (7%)
 
 ### Trending Frequency
-- **Daily Average**: 42.1 repositories
+- **Daily Average**: 42.2 repositories
 - **Peak Day**: 2026-08-19 (66 repositories)
 - **Growth Rate**: 12% this month
 
@@ -314,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-11-21T21:01:02.037Z*
+*Last updated: 2026-11-22T21:01:03.672Z*

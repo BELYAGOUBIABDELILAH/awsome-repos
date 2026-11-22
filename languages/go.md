@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 57,042 | 2026-08-01 | 32 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 57,179 | 2026-08-01 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 8,085 | 2026-08-02 | 30 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 8,161 | 2026-08-02 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 28,893 | 2026-08-04 | 20 |
+| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 28,927 | 2026-08-04 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [getarcaneapp/arcane](../repos/getarcaneapp/arcane.md) | ⭐ 10,249 | 2026-08-06 | 11 |
+| [getarcaneapp/arcane](../repos/getarcaneapp/arcane.md) | ⭐ 10,297 | 2026-08-06 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 34,742 | 2026-08-06 | 21 |
+| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 34,808 | 2026-08-06 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [putyy/res-downloader](../repos/putyy/res-downloader.md) | ⭐ 21,416 | 2026-08-10 | 7 |
+| [putyy/res-downloader](../repos/putyy/res-downloader.md) | ⭐ 21,443 | 2026-08-10 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nats-io/nats-server](../repos/nats-io/nats-server.md) | ⭐ 21,094 | 2026-08-11 | 11 |
+| [nats-io/nats-server](../repos/nats-io/nats-server.md) | ⭐ 21,110 | 2026-08-11 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TencentCloud/CubeSandbox](../repos/TencentCloud/CubeSandbox.md) | ⭐ 13,392 | 2026-08-19 | 15 |
+| [TencentCloud/CubeSandbox](../repos/TencentCloud/CubeSandbox.md) | ⭐ 13,398 | 2026-08-19 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Autumn-27/ScopeSentry](../repos/Autumn-27/ScopeSentry.md) | ⭐ 2,605 | 2026-10-11 | 7 |
+| [Autumn-27/ScopeSentry](../repos/Autumn-27/ScopeSentry.md) | ⭐ 2,626 | 2026-10-11 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opensandbox-group/OpenSandbox](../repos/opensandbox-group/OpenSandbox.md) | ⭐ 17,762 | 2026-11-09 | 7 |
+| [opensandbox-group/OpenSandbox](../repos/opensandbox-group/OpenSandbox.md) | ⭐ 17,802 | 2026-11-09 | 8 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [fleetdm/fleet](../repos/fleetdm/fleet.md) | ⭐ 7,142 | 2026-10-23 | Open device management |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [php/frankenphp](../repos/php/frankenphp.md) | ⭐ 11,457 | 2026-10-23 | 🧟 The modern PHP app server |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [encoredev/encore](../repos/encoredev/encore.md) | ⭐ 12,624 | 2026-10-25 | Infrastructure orchestration from local to your cloud |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mayswind/ezbookkeeping](../repos/mayswind/ezbookkeeping.md) | ⭐ 5,957 | 2026-11-02 | ezBookkeeping is an open source, powerful, self-hosted personal finance app that is easy to use. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [m5stack/StackChan](../repos/m5stack/StackChan.md) | ⭐ 1,494 | 2026-11-02 | StackChan open source! |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [xpzouying/xiaohongshu-mcp](../repos/xpzouying/xiaohongshu-mcp.md) | ⭐ 16,899 | 2026-11-02 | MCP for xiaohongshu.com |
 
 
 ---
@@ -102,7 +102,7 @@
 | [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 67,560 | 2026-08-11 | 9 |
 | [minio/minio](../repos/minio/minio.md) | ⭐ 61,365 | 2026-08-12 | 2 |
 | [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | 2 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 57,042 | 2026-08-01 | 32 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 57,179 | 2026-08-01 | 33 |
 | [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 54,160 | 2026-08-20 | 24 |
 | [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,668 | 2026-08-22 | 7 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 52,173 | 2026-08-01 | 24 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | 32 | ⭐ 57,042 | 2026-08-01 | 2026-11-21 |
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 30 | ⭐ 8,085 | 2026-08-02 | 2026-11-21 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | 33 | ⭐ 57,179 | 2026-08-01 | 2026-11-22 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 31 | ⭐ 8,161 | 2026-08-02 | 2026-11-22 |
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 29 | ⭐ 37,394 | 2026-08-01 | 2026-11-13 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 28 | ⭐ 39,511 | 2026-08-01 | 2026-11-18 |
 | [ollama/ollama](../repos/ollama/ollama.md) | 28 | ⭐ 186,884 | 2026-08-01 | 2026-11-13 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 24 | ⭐ 52,173 | 2026-08-01 | 2026-11-18 |
 | [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 24 | ⭐ 54,160 | 2026-08-20 | 2026-11-18 |
+| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | 22 | ⭐ 34,808 | 2026-08-06 | 2026-11-22 |
 | [golang/go](../repos/golang/go.md) | 21 | ⭐ 140,079 | 2026-07-31 | 2026-11-18 |
-| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | 21 | ⭐ 34,742 | 2026-08-06 | 2026-11-21 |
-| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 21 | ⭐ 46,265 | 2026-08-07 | 2026-11-18 |
+| [gastownhall/beads](../repos/gastownhall/beads.md) | 21 | ⭐ 28,927 | 2026-08-04 | 2026-11-22 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-21T21:01:02.567Z*
+*Last updated: 2026-11-22T21:01:04.057Z*
