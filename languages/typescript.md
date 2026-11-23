@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 18,402 | 2026-08-01 | 30 |
+| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 18,766 | 2026-08-01 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,587 | 2026-08-01 | 9 |
+| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,543 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 78,407 | 2026-08-01 | 31 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 78,508 | 2026-08-01 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 206,910 | 2026-08-07 | 12 |
+| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 207,789 | 2026-08-07 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 123,326 | 2026-08-07 | 16 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 123,510 | 2026-08-07 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 4,215 | 2026-08-07 | 45 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 4,224 | 2026-08-07 | 46 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twentyhq/twenty](../repos/twentyhq/twenty.md) | ⭐ 61,333 | 2026-08-12 | 12 |
+| [twentyhq/twenty](../repos/twentyhq/twenty.md) | ⭐ 61,377 | 2026-08-12 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-labs-code/stitch-skills](../repos/google-labs-code/stitch-skills.md) | ⭐ 11,860 | 2026-08-22 | 16 |
+| [google-labs-code/stitch-skills](../repos/google-labs-code/stitch-skills.md) | ⭐ 12,227 | 2026-08-22 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mastra-ai/mastra](../repos/mastra-ai/mastra.md) | ⭐ 29,741 | 2026-08-25 | 6 |
+| [mastra-ai/mastra](../repos/mastra-ai/mastra.md) | ⭐ 29,767 | 2026-08-25 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tianma-if/edgeever](../repos/tianma-if/edgeever.md) | ⭐ 3,495 | 2026-08-27 | 6 |
+| [tianma-if/edgeever](../repos/tianma-if/edgeever.md) | ⭐ 3,524 | 2026-08-27 | 7 |
 
 
 ---
@@ -91,14 +91,14 @@
 | [morluto/rea](../repos/morluto/rea.md) | ⭐ 440,692 | 2026-10-06 | 11 |
 | [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 212,590 | 2026-08-04 | 2 |
 | [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 211,009 | 2026-08-11 | 9 |
-| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 206,910 | 2026-08-07 | 12 |
+| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 207,789 | 2026-08-07 | 13 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 195,138 | 2026-07-30 | 9 |
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 158,228 | 2026-09-01 | 4 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 154,905 | 2026-08-07 | 21 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 141,850 | 2026-08-02 | 8 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 140,636 | 2026-08-02 | 19 |
 | [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 127,723 | 2026-08-11 | 26 |
-| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 123,326 | 2026-08-07 | 16 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 123,510 | 2026-08-07 | 17 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | 2026-07-31 | 3 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 118,331 | 2026-08-17 | 5 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 110,330 | 2026-08-02 | 11 |
@@ -115,9 +115,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [expo/skills](../repos/expo/skills.md) | 45 | ⭐ 4,215 | 2026-08-07 | 2026-11-22 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 31 | ⭐ 78,407 | 2026-08-01 | 2026-11-22 |
-| [cursor/plugins](../repos/cursor/plugins.md) | 30 | ⭐ 18,402 | 2026-08-01 | 2026-11-22 |
+| [expo/skills](../repos/expo/skills.md) | 46 | ⭐ 4,224 | 2026-08-07 | 2026-11-23 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 32 | ⭐ 78,508 | 2026-08-01 | 2026-11-23 |
+| [cursor/plugins](../repos/cursor/plugins.md) | 31 | ⭐ 18,766 | 2026-08-01 | 2026-11-23 |
 | [stablyai/orca](../repos/stablyai/orca.md) | 26 | ⭐ 127,723 | 2026-08-11 | 2026-11-17 |
 | [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 23 | ⭐ 74,642 | 2026-08-08 | 2026-10-28 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 22 | ⭐ 54,008 | 2026-08-07 | 2026-11-17 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-22T21:01:04.138Z*
+*Last updated: 2026-11-23T21:01:09.781Z*

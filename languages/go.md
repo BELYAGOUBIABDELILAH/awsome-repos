@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 57,179 | 2026-08-01 | 33 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 57,548 | 2026-08-01 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 8,161 | 2026-08-02 | 31 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 8,219 | 2026-08-02 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 28,927 | 2026-08-04 | 21 |
+| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 28,950 | 2026-08-04 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [getarcaneapp/arcane](../repos/getarcaneapp/arcane.md) | ⭐ 10,297 | 2026-08-06 | 12 |
+| [getarcaneapp/arcane](../repos/getarcaneapp/arcane.md) | ⭐ 10,343 | 2026-08-06 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 34,808 | 2026-08-06 | 22 |
+| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 34,867 | 2026-08-06 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [putyy/res-downloader](../repos/putyy/res-downloader.md) | ⭐ 21,443 | 2026-08-10 | 8 |
+| [putyy/res-downloader](../repos/putyy/res-downloader.md) | ⭐ 21,466 | 2026-08-10 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nats-io/nats-server](../repos/nats-io/nats-server.md) | ⭐ 21,110 | 2026-08-11 | 12 |
+| [nats-io/nats-server](../repos/nats-io/nats-server.md) | ⭐ 21,123 | 2026-08-11 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TencentCloud/CubeSandbox](../repos/TencentCloud/CubeSandbox.md) | ⭐ 13,398 | 2026-08-19 | 16 |
+| [TencentCloud/CubeSandbox](../repos/TencentCloud/CubeSandbox.md) | ⭐ 13,414 | 2026-08-19 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Autumn-27/ScopeSentry](../repos/Autumn-27/ScopeSentry.md) | ⭐ 2,626 | 2026-10-11 | 8 |
+| [Autumn-27/ScopeSentry](../repos/Autumn-27/ScopeSentry.md) | ⭐ 2,654 | 2026-10-11 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opensandbox-group/OpenSandbox](../repos/opensandbox-group/OpenSandbox.md) | ⭐ 17,802 | 2026-11-09 | 8 |
+| [opensandbox-group/OpenSandbox](../repos/opensandbox-group/OpenSandbox.md) | ⭐ 17,836 | 2026-11-09 | 9 |
 
 
 ---
@@ -102,7 +102,7 @@
 | [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 67,560 | 2026-08-11 | 9 |
 | [minio/minio](../repos/minio/minio.md) | ⭐ 61,365 | 2026-08-12 | 2 |
 | [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | 2 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 57,179 | 2026-08-01 | 33 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 57,548 | 2026-08-01 | 34 |
 | [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 54,160 | 2026-08-20 | 24 |
 | [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,668 | 2026-08-22 | 7 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 52,173 | 2026-08-01 | 24 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | 33 | ⭐ 57,179 | 2026-08-01 | 2026-11-22 |
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 31 | ⭐ 8,161 | 2026-08-02 | 2026-11-22 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | 34 | ⭐ 57,548 | 2026-08-01 | 2026-11-23 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 32 | ⭐ 8,219 | 2026-08-02 | 2026-11-23 |
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 29 | ⭐ 37,394 | 2026-08-01 | 2026-11-13 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 28 | ⭐ 39,511 | 2026-08-01 | 2026-11-18 |
 | [ollama/ollama](../repos/ollama/ollama.md) | 28 | ⭐ 186,884 | 2026-08-01 | 2026-11-13 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 24 | ⭐ 52,173 | 2026-08-01 | 2026-11-18 |
 | [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 24 | ⭐ 54,160 | 2026-08-20 | 2026-11-18 |
-| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | 22 | ⭐ 34,808 | 2026-08-06 | 2026-11-22 |
+| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | 23 | ⭐ 34,867 | 2026-08-06 | 2026-11-23 |
+| [gastownhall/beads](../repos/gastownhall/beads.md) | 22 | ⭐ 28,950 | 2026-08-04 | 2026-11-23 |
 | [golang/go](../repos/golang/go.md) | 21 | ⭐ 140,079 | 2026-07-31 | 2026-11-18 |
-| [gastownhall/beads](../repos/gastownhall/beads.md) | 21 | ⭐ 28,927 | 2026-08-04 | 2026-11-22 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-22T21:01:04.057Z*
+*Last updated: 2026-11-23T21:01:09.707Z*

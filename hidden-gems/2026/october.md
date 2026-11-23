@@ -171,27 +171,7 @@
 
 ---
 
-### 9. [alsk1992&#x2F;CloddsBot](../../repos/alsk1992/CloddsBot.md)
-
-**Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,944 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Sep 10, 2026 |
-
-**Why it's a gem**: High growth velocity (+345 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/alsk1992/CloddsBot.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;alsk1992&#x2F;CloddsBot)
-
----
-
-### 10. [mg-chao&#x2F;snow-apps](../../repos/mg-chao/snow-apps.md)
+### 9. [mg-chao&#x2F;snow-apps](../../repos/mg-chao/snow-apps.md)
 
 **Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.**
 
@@ -211,7 +191,7 @@
 
 ---
 
-### 11. [apache&#x2F;maka](../../repos/apache/maka.md)
+### 10. [apache&#x2F;maka](../../repos/apache/maka.md)
 
 **Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.**
 
@@ -228,6 +208,26 @@
 **Best for**: 
 
 [View Passport](../../repos/apache/maka.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;apache&#x2F;maka)
+
+---
+
+### 11. [alsk1992&#x2F;CloddsBot](../../repos/alsk1992/CloddsBot.md)
+
+**Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,944 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 88/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Sep 10, 2026 |
+
+**Why it's a gem**: High growth velocity (+345 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/alsk1992/CloddsBot.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;alsk1992&#x2F;CloddsBot)
 
 ---
 
@@ -271,27 +271,7 @@
 
 ---
 
-### 14. [tbphp&#x2F;gpt-load](../../repos/tbphp/gpt-load.md)
-
-**Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 7,140 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 87/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Sep 3, 2026 |
-
-**Why it's a gem**: High growth velocity (+51 stars&#x2F;day) • Trending 5 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/tbphp/gpt-load.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;tbphp&#x2F;gpt-load)
-
----
-
-### 15. [mvschwarz&#x2F;openrig](../../repos/mvschwarz/openrig.md)
+### 14. [mvschwarz&#x2F;openrig](../../repos/mvschwarz/openrig.md)
 
 **Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.**
 
@@ -311,7 +291,7 @@
 
 ---
 
-### 16. [uber&#x2F;ADR](../../repos/uber/ADR.md)
+### 15. [uber&#x2F;ADR](../../repos/uber/ADR.md)
 
 **ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.**
 
@@ -331,7 +311,7 @@
 
 ---
 
-### 17. [Armur-Ai&#x2F;Pentest-Swarm-AI](../../repos/Armur-Ai/Pentest-Swarm-AI.md)
+### 16. [Armur-Ai&#x2F;Pentest-Swarm-AI](../../repos/Armur-Ai/Pentest-Swarm-AI.md)
 
 **Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.**
 
@@ -348,6 +328,26 @@
 **Best for**: 
 
 [View Passport](../../repos/Armur-Ai/Pentest-Swarm-AI.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Armur-Ai&#x2F;Pentest-Swarm-AI)
+
+---
+
+### 17. [tbphp&#x2F;gpt-load](../../repos/tbphp/gpt-load.md)
+
+**Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 7,140 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 86/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Sep 3, 2026 |
+
+**Why it's a gem**: High growth velocity (+51 stars&#x2F;day) • Trending 5 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/tbphp/gpt-load.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;tbphp&#x2F;gpt-load)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-22T21:01:12.238Z*  
+*Generated: 2026-11-23T21:01:17.568Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

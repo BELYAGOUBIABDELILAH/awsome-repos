@@ -9,7 +9,7 @@
 - **Total Repositories**: 2997
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-02
-- **Average Stars**: 15693
+- **Average Stars**: 15696
 
 ---
 
@@ -17,31 +17,31 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 72,620 | Python |  |
+| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 73,372 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,587 | TypeScript |  |
+| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,543 | TypeScript |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 31,142 | Rust |  |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 31,224 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,499 | Java |  |
+| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,510 | Java |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 14,049 | Java |  |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 14,061 | Java |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,833 | C++ |  |
+| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,805 | C++ |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 33,525 | C# |  |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 33,540 | C# |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,706 | C# |  |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,709 | C# |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 15,228 | PHP |  |
+| [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 15,238 | PHP |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 22,046 | PHP |  |
@@ -85,10 +85,7 @@
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 92,198 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 72,620 | Python | 7 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 70,623 | JavaScript | 1 |
+| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 73,372 | Python | 8 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 58,009 | TypeScript | 6 |
@@ -97,7 +94,10 @@
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 65,124 | TypeScript | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,587 | TypeScript | 5 |
+| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,543 | TypeScript | 6 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 31,224 | Rust | 5 |
 
 ---
 
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-11-23](../archive/2026/11/2026-11-23.md)
+- 230 repositories trending
+- Top: ossu&#x2F;computer-science
+
 ### [2026-11-22](../archive/2026/11/2026-11-22.md)
 - 230 repositories trending
 - Top: ossu&#x2F;computer-science
@@ -162,10 +166,6 @@
 - 227 repositories trending
 - Top: ossu&#x2F;computer-science
 
-### [2026-11-16](../archive/2026/11/2026-11-16.md)
-- 202 repositories trending
-- Top: flutter&#x2F;flutter
-
 
 ---
 
@@ -175,16 +175,16 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 94 days | 2026-08-01 | 2026-11-22 |
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 94 days | 2026-08-01 | 2026-11-22 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 91 days | 2026-08-01 | 2026-11-22 |
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 91 days | 2026-08-01 | 2026-11-22 |
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 90 days | 2026-08-01 | 2026-11-22 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 88 days | 2026-08-01 | 2026-11-22 |
-| [vlang/v](../repos/vlang/v.md) | 87 days | 2026-08-01 | 2026-11-22 |
-| [penpot/penpot](../repos/penpot/penpot.md) | 83 days | 2026-08-01 | 2026-11-22 |
-| [emqx/emqx](../repos/emqx/emqx.md) | 81 days | 2026-08-01 | 2026-11-22 |
-| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 81 days | 2026-08-02 | 2026-11-22 |
+| [apache/spark](../repos/apache/spark.md) | 95 days | 2026-08-01 | 2026-11-23 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 95 days | 2026-08-01 | 2026-11-23 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 92 days | 2026-08-01 | 2026-11-23 |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 92 days | 2026-08-01 | 2026-11-23 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 91 days | 2026-08-01 | 2026-11-23 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 89 days | 2026-08-01 | 2026-11-23 |
+| [vlang/v](../repos/vlang/v.md) | 88 days | 2026-08-01 | 2026-11-23 |
+| [penpot/penpot](../repos/penpot/penpot.md) | 84 days | 2026-08-01 | 2026-11-23 |
+| [emqx/emqx](../repos/emqx/emqx.md) | 82 days | 2026-08-01 | 2026-11-23 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 82 days | 2026-08-02 | 2026-11-23 |
 
 ---
 
@@ -314,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-11-22T21:01:03.844Z*
+*Last updated: 2026-11-23T21:01:09.489Z*

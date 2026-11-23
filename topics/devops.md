@@ -9,7 +9,7 @@
 - **Total Repositories**: 378
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-16
-- **Average Stars**: 14321
+- **Average Stars**: 14322
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,587 | TypeScript |  |
+| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,543 | TypeScript |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 31,142 | Rust |  |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 31,224 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,706 | C# |  |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,709 | C# |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [MISP/MISP](../repos/MISP/MISP.md) | ⭐ 6,695 | PHP |  |
+| [MISP/MISP](../repos/MISP/MISP.md) | ⭐ 6,701 | PHP |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,858 | Ruby |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,851 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,860 | Ruby |  |
+| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,865 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,658 | Scala |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,663 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,605 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,606 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/apisix](../repos/apache/apisix.md) | ⭐ 17,360 | Lua |  |
+| [apache/apisix](../repos/apache/apisix.md) | ⭐ 17,365 | Lua |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,401 | Lua |  |
+| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,407 | Lua |  |
 
 
 ---
@@ -70,34 +70,34 @@
 
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,587 | TypeScript | 5 |
+| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,543 | TypeScript | 6 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 31,142 | Rust | 4 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 31,224 | Rust | 5 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 39,511 | Go | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,706 | C# | 4 |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,709 | C# | 5 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [MISP/MISP](../repos/MISP/MISP.md) | ⭐ 6,695 | PHP | 4 |
+| [MISP/MISP](../repos/MISP/MISP.md) | ⭐ 6,701 | PHP | 5 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,858 | Ruby | 11 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,851 | Ruby | 12 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ubicloud/ubicloud](../repos/ubicloud/ubicloud.md) | ⭐ 12,418 | Ruby | 1 |
+| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,865 | Ruby | 5 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,860 | Ruby | 4 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,658 | Scala | 7 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,663 | Scala | 8 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | ⭐ 9,422 | Scala | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,606 | Scala | 22 |
 
 ---
 
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-11-23](../archive/2026/11/2026-11-23.md)
+- 35 repositories trending
+- Top: appwrite&#x2F;appwrite
+
 ### [2026-11-22](../archive/2026/11/2026-11-22.md)
 - 34 repositories trending
 - Top: appwrite&#x2F;appwrite
@@ -162,10 +166,6 @@
 - 32 repositories trending
 - Top: logseq&#x2F;logseq
 
-### [2026-11-16](../archive/2026/11/2026-11-16.md)
-- 28 repositories trending
-- Top: Genymobile&#x2F;scrcpy
-
 
 ---
 
@@ -175,16 +175,16 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 94 days | 2026-08-01 | 2026-11-22 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 88 days | 2026-08-01 | 2026-11-22 |
-| [vlang/v](../repos/vlang/v.md) | 87 days | 2026-08-01 | 2026-11-22 |
-| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 81 days | 2026-08-02 | 2026-11-22 |
+| [apache/spark](../repos/apache/spark.md) | 95 days | 2026-08-01 | 2026-11-23 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 89 days | 2026-08-01 | 2026-11-23 |
+| [vlang/v](../repos/vlang/v.md) | 88 days | 2026-08-01 | 2026-11-23 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 82 days | 2026-08-02 | 2026-11-23 |
 | [vim/vim](../repos/vim/vim.md) | 76 days | 2026-08-01 | 2026-11-18 |
-| [joernio/joern](../repos/joernio/joern.md) | 70 days | 2026-08-01 | 2026-11-22 |
-| [rundeck/rundeck](../repos/rundeck/rundeck.md) | 59 days | 2026-08-02 | 2026-11-22 |
-| [ruby/ruby](../repos/ruby/ruby.md) | 53 days | 2026-08-01 | 2026-11-22 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 47 days | 2026-08-01 | 2026-11-22 |
-| [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | 45 days | 2026-08-02 | 2026-11-22 |
+| [joernio/joern](../repos/joernio/joern.md) | 71 days | 2026-08-01 | 2026-11-23 |
+| [rundeck/rundeck](../repos/rundeck/rundeck.md) | 60 days | 2026-08-02 | 2026-11-23 |
+| [ruby/ruby](../repos/ruby/ruby.md) | 54 days | 2026-08-01 | 2026-11-23 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 48 days | 2026-08-01 | 2026-11-23 |
+| [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | 46 days | 2026-08-02 | 2026-11-23 |
 
 ---
 
@@ -198,7 +198,7 @@
 - **Rust**: 16 repositories (4%)
 
 ### Trending Frequency
-- **Daily Average**: 30.8 repositories
+- **Daily Average**: 30.9 repositories
 - **Peak Day**: 2026-11-06 (58 repositories)
 - **Growth Rate**: 11% this month
 
@@ -314,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-11-22T21:01:03.741Z*
+*Last updated: 2026-11-23T21:01:09.391Z*

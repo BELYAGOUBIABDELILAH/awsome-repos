@@ -13,12 +13,12 @@
 | **Language** | CSS |
 | **License** | Apache-2.0 |
 | **Stars** | ⭐ 9,672 |
-| **Forks** | 🍴 31,235 |
-| **Trending Days** | 36 |
+| **Forks** | 🍴 31,242 |
+| **Trending Days** | 37 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 5, 2026 |
-| **Last Seen** | Nov 22, 2026 |
+| **Last Seen** | Nov 23, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 36
-- **Longest Streak**: 5 days
+- **Trending Days**: 37
+- **Longest Streak**: 6 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-22T21:01:07.881Z*  
-*Data from 36 trending reports*
+*Last updated: 2026-11-23T21:01:13.557Z*  
+*Data from 37 trending reports*

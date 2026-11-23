@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Scala |
 | **License** | MulanPSL-2.0 |
-| **Stars** | ⭐ 7,415 |
-| **Forks** | 🍴 987 |
-| **Trending Days** | 73 |
+| **Stars** | ⭐ 7,419 |
+| **Forks** | 🍴 989 |
+| **Trending Days** | 74 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 22, 2026 |
+| **Last Seen** | Nov 23, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 73
-- **Longest Streak**: 14 days
+- **Trending Days**: 74
+- **Longest Streak**: 15 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-22T21:01:06.661Z*  
-*Data from 73 trending reports*
+*Last updated: 2026-11-23T21:01:12.371Z*  
+*Data from 74 trending reports*

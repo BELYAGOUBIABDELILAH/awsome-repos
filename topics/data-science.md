@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 141
+- **Total Repositories**: 142
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-16
-- **Average Stars**: 15060
+- **Average Stars**: 15471
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,858 | Ruby |  |
+| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 73,372 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,658 | Scala |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,851 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,605 | Scala |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,663 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,477 | Clojure |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,606 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,890 | C |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,487 | Clojure |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,910 | C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,704 | R |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | ⭐ 2,168 | Vue |  |
+| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | ⭐ 2,173 | Vue |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,087 | R |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [r-spatial/sf](../repos/r-spatial/sf.md) | ⭐ 1,458 | R |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [rstudio/rmarkdown](../repos/rstudio/rmarkdown.md) | ⭐ 3,067 | R |  |
 
 
 ---
@@ -56,13 +56,13 @@
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 154,980 | C | 2026-08-07 | 20 |
 | [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 104,706 | Python | 2026-07-30 | 6 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 79,696 | C | 2026-08-02 | 21 |
+| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 73,372 | Python | 2026-08-01 | 18 |
 | [nektos/act](../repos/nektos/act.md) | ⭐ 71,966 | Go | 2026-08-07 | 2 |
 | [git/git](../repos/git/git.md) | ⭐ 64,135 | C | 2026-08-05 | 10 |
 | [chinese-poetry/chinese-poetry](../repos/chinese-poetry/chinese-poetry.md) | ⭐ 54,296 | JavaScript | 2026-11-10 | 2 |
 | [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | ⭐ 52,636 | Python | 2026-08-03 | 16 |
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,477 | Clojure | 2026-08-01 | 91 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,487 | Clojure | 2026-08-01 | 92 |
 | [pandas-dev/pandas](../repos/pandas-dev/pandas.md) | ⭐ 50,466 | Python | 2026-08-04 | 2 |
-| [TanStack/query](../repos/TanStack/query.md) | ⭐ 50,183 | TypeScript | 2026-08-22 | 1 |
 
 ---
 
@@ -70,34 +70,34 @@
 
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,858 | Ruby | 11 |
+| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 73,372 | Python | 8 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,658 | Scala | 7 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,851 | Ruby | 12 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [microsoft/SynapseML](../repos/microsoft/SynapseML.md) | ⭐ 5,256 | Scala | 1 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,663 | Scala | 8 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,605 | Scala | 21 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,606 | Scala | 22 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,477 | Clojure | 21 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,487 | Clojure | 22 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,890 | C | 6 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,910 | C | 7 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [vim/vim](../repos/vim/vim.md) | ⭐ 41,282 | Vim Script | 5 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 29,209 | C | 2 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 79,696 | C | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,704 | R | 7 |
+| [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,704 | R | 8 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | ⭐ 2,173 | Vue | 5 |
 
 ---
 
@@ -114,7 +114,7 @@
 | [microsoft/AL-Go](../repos/microsoft/AL-Go.md) | ⭐ 513 | PowerShell | 2026-11-05 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [apache/airflow](../repos/apache/airflow.md) | ⭐ 47,600 | Python | 2026-11-06 |
+| [apache/airflow](../repos/apache/airflow.md) | ⭐ 47,628 | Python | 2026-11-06 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [airbytehq/airbyte](../repos/airbytehq/airbyte.md) | ⭐ 22,329 | Python | 2026-11-06 |
@@ -138,33 +138,33 @@
 
 ## 📅 Recent History
 
+### [2026-11-23](../archive/2026/11/2026-11-23.md)
+- 15 repositories trending
+- Top: mvanhorn&#x2F;last30days-skill
+
 ### [2026-11-22](../archive/2026/11/2026-11-22.md)
-- 14 repositories trending
-- Top: metabase&#x2F;metabase
+- 15 repositories trending
+- Top: mvanhorn&#x2F;last30days-skill
 
 ### [2026-11-21](../archive/2026/11/2026-11-21.md)
-- 14 repositories trending
-- Top: metabase&#x2F;metabase
+- 15 repositories trending
+- Top: mvanhorn&#x2F;last30days-skill
 
 ### [2026-11-20](../archive/2026/11/2026-11-20.md)
-- 14 repositories trending
-- Top: metabase&#x2F;metabase
+- 15 repositories trending
+- Top: mvanhorn&#x2F;last30days-skill
 
 ### [2026-11-19](../archive/2026/11/2026-11-19.md)
-- 14 repositories trending
-- Top: metabase&#x2F;metabase
+- 15 repositories trending
+- Top: mvanhorn&#x2F;last30days-skill
 
 ### [2026-11-18](../archive/2026/11/2026-11-18.md)
-- 12 repositories trending
+- 13 repositories trending
 - Top: obsproject&#x2F;obs-studio
 
 ### [2026-11-17](../archive/2026/11/2026-11-17.md)
-- 15 repositories trending
-- Top: metabase&#x2F;metabase
-
-### [2026-11-16](../archive/2026/11/2026-11-16.md)
-- 15 repositories trending
-- Top: Genymobile&#x2F;scrcpy
+- 16 repositories trending
+- Top: mvanhorn&#x2F;last30days-skill
 
 
 ---
@@ -175,16 +175,16 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 94 days | 2026-08-01 | 2026-11-22 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 91 days | 2026-08-01 | 2026-11-22 |
+| [apache/spark](../repos/apache/spark.md) | 95 days | 2026-08-01 | 2026-11-23 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 92 days | 2026-08-01 | 2026-11-23 |
 | [vim/vim](../repos/vim/vim.md) | 76 days | 2026-08-01 | 2026-11-18 |
-| [joernio/joern](../repos/joernio/joern.md) | 70 days | 2026-08-01 | 2026-11-22 |
-| [ruby/ruby](../repos/ruby/ruby.md) | 53 days | 2026-08-01 | 2026-11-22 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 47 days | 2026-08-01 | 2026-11-22 |
+| [joernio/joern](../repos/joernio/joern.md) | 71 days | 2026-08-01 | 2026-11-23 |
+| [ruby/ruby](../repos/ruby/ruby.md) | 54 days | 2026-08-01 | 2026-11-23 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 48 days | 2026-08-01 | 2026-11-23 |
+| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | 42 days | 2026-08-02 | 2026-11-23 |
+| [rstudio/shiny](../repos/rstudio/shiny.md) | 41 days | 2026-08-02 | 2026-11-23 |
 | [facebook/infer](../repos/facebook/infer.md) | 41 days | 2026-08-02 | 2026-10-25 |
-| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | 41 days | 2026-08-02 | 2026-11-22 |
-| [rstudio/shiny](../repos/rstudio/shiny.md) | 40 days | 2026-08-02 | 2026-11-22 |
-| [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | 40 days | 2026-08-04 | 2026-11-22 |
+| [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | 41 days | 2026-08-04 | 2026-11-23 |
 
 ---
 
@@ -192,13 +192,13 @@
 
 ### Language Breakdown
 - **C**: 38 repositories (27%)
-- **Python**: 15 repositories (11%)
+- **Python**: 16 repositories (11%)
 - **R**: 14 repositories (10%)
 - **Scala**: 7 repositories (5%)
 - **Java**: 7 repositories (5%)
 
 ### Trending Frequency
-- **Daily Average**: 13.9 repositories
+- **Daily Average**: 14.1 repositories
 - **Peak Day**: 2026-11-06 (36 repositories)
 - **Growth Rate**: 12% this month
 
@@ -212,6 +212,7 @@
 ## 🔍 Browse All Repositories
 
 - [pytorch/pytorch](../repos/pytorch/pytorch.md) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web -...
 - [fluent/fluent-bit](../repos/fluent/fluent-bit.md) - Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows
 - [glfw/glfw](../repos/glfw/glfw.md) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [pret/pokeemerald](../repos/pret/pokeemerald.md) - Decompilation of Pokémon Emerald
@@ -310,8 +311,7 @@
 - [aipoch/open-science](../repos/aipoch/open-science.md) - The open-source AI research workbench for scientific research and agent workflows. Local-first, m...
 - [spotify/scio](../repos/spotify/scio.md) - A Scala API for Apache Beam and Google Cloud Dataflow.
 - [numpy/numpy](../repos/numpy/numpy.md) - The fundamental package for scientific computing with Python.
-- [munificent/craftinginterpreters](../repos/munificent/craftinginterpreters.md) - Repository for the book &quot;Crafting Interpreters&quot;
 
 ---
 
-*Last updated: 2026-11-22T21:01:03.700Z*
+*Last updated: 2026-11-23T21:01:09.354Z*

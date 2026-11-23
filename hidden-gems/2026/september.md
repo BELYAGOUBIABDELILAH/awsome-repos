@@ -7,7 +7,7 @@
 ## September 2026
 
 **Period**: 2026-09-01 to 2026-09-28  
-**Gems Found**: 292
+**Gems Found**: 286
 
 ---
 
@@ -39,7 +39,7 @@
 |---|---|
 | ⭐ **Stars** | 4,130 |
 | 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 87/100 |
+| 🏆 **Gem Score** | 86/100 |
 | 📈 **Trending Days** | 6 |
 | 📅 **First Seen** | Aug 5, 2026 |
 
@@ -351,27 +351,7 @@
 
 ---
 
-### 18. [adongwanai&#x2F;AgentGuide](../../repos/adongwanai/AgentGuide.md)
-
-**https:&#x2F;&#x2F;adongwanai.github.io&#x2F;AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 9,116 |
-| 💻 **Language** | HTML |
-| 🏆 **Gem Score** | 76/100 |
-| 📈 **Trending Days** | 8 |
-| 📅 **First Seen** | Aug 3, 2026 |
-
-**Why it's a gem**: High growth velocity (+59 stars&#x2F;day) • Trending 8 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/adongwanai/AgentGuide.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;adongwanai&#x2F;AgentGuide)
-
----
-
-### 19. [cobusgreyling&#x2F;loop-engineering](../../repos/cobusgreyling/loop-engineering.md)
+### 18. [cobusgreyling&#x2F;loop-engineering](../../repos/cobusgreyling/loop-engineering.md)
 
 **Practical patterns, starters &amp; CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.**
 
@@ -391,7 +371,7 @@
 
 ---
 
-### 20. [Osmantic&#x2F;ODS](../../repos/Osmantic/ODS.md)
+### 19. [Osmantic&#x2F;ODS](../../repos/Osmantic/ODS.md)
 
 **Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.**
 
@@ -411,6 +391,26 @@
 
 ---
 
+### 20. [Sumanth077&#x2F;Hands-On-AI-Engineering](../../repos/Sumanth077/Hands-On-AI-Engineering.md)
+
+**A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3,360 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 76/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Sep 4, 2026 |
+
+**Why it's a gem**: High growth velocity (+60 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/Sumanth077/Hands-On-AI-Engineering.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Sumanth077&#x2F;Hands-On-AI-Engineering)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-22T21:01:12.241Z*  
+*Generated: 2026-11-23T21:01:17.570Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

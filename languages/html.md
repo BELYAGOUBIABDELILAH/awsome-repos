@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 125
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-22
+- **Last Updated**: 2026-11-23
 
 ---
 
@@ -16,28 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | ⭐ 9,186 | 2026-08-01 | 14 |
+| [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | ⭐ 9,198 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 69,317 | 2026-08-01 | 29 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 69,353 | 2026-08-01 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 211,435 | 2026-08-03 | 29 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 211,460 | 2026-08-03 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aoaostar/legado](../repos/aoaostar/legado.md) | ⭐ 7,651 | 2026-09-07 | 11 |
+| [aoaostar/legado](../repos/aoaostar/legado.md) | ⭐ 7,812 | 2026-09-07 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xbtlin/ai-berkshire](../repos/xbtlin/ai-berkshire.md) | ⭐ 17,214 | 2026-09-14 | 15 |
+| [xbtlin/ai-berkshire](../repos/xbtlin/ai-berkshire.md) | ⭐ 17,230 | 2026-09-14 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CoolDude2349/Offline-HTML-Games-Pack](../repos/CoolDude2349/Offline-HTML-Games-Pack.md) | ⭐ 288 | 2026-09-29 | 7 |
+| [CoolDude2349/Offline-HTML-Games-Pack](../repos/CoolDude2349/Offline-HTML-Games-Pack.md) | ⭐ 293 | 2026-09-29 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [plannotator/effective-html](../repos/plannotator/effective-html.md) | ⭐ 4,299 | 2026-11-06 | 8 |
+| [plannotator/effective-html](../repos/plannotator/effective-html.md) | ⭐ 4,304 | 2026-11-06 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [projectcontour/contour](../repos/projectcontour/contour.md) | ⭐ 3,969 | 2026-11-19 | 4 |
+| [projectcontour/contour](../repos/projectcontour/contour.md) | ⭐ 3,970 | 2026-11-19 | 5 |
 
 
 ---
@@ -58,7 +58,7 @@
 | [alshedivat/al-folio](../repos/alshedivat/al-folio.md) | ⭐ 16,310 | 2026-11-04 | A beautiful, simple, clean, and responsive Jekyll theme for academics |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [plannotator/effective-html](../repos/plannotator/effective-html.md) | ⭐ 4,299 | 2026-11-06 | Agent skills for useful HTML artifacts, wireframes, interactive prototypes, plans, and diagrams. |
+| [plannotator/effective-html](../repos/plannotator/effective-html.md) | ⭐ 4,304 | 2026-11-06 | Agent skills for useful HTML artifacts, wireframes, interactive prototypes, plans, and diagrams. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [naveedharri/baalda](../repos/naveedharri/baalda.md) | ⭐ 287 | 2026-11-06 | The team second brain. Plain Markdown files on your disk, edited together in real time, and read ... |
@@ -82,11 +82,11 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 211,435 | 2026-08-03 | 29 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 211,460 | 2026-08-03 | 30 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 141,705 | 2026-08-08 | 18 |
 | [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 76,773 | 2026-08-19 | 10 |
 | [eternity4719/HowToLiveBetter](../repos/eternity4719/HowToLiveBetter.md) | ⭐ 75,766 | 2026-11-13 | 2 |
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 69,317 | 2026-08-01 | 29 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 69,353 | 2026-08-01 | 30 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,685 | 2026-08-01 | 11 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 43,224 | 2026-08-12 | 13 |
 | [QSCTech/zju-icicles](../repos/QSCTech/zju-icicles.md) | ⭐ 41,365 | 2026-09-03 | 5 |
@@ -109,8 +109,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 29 | ⭐ 69,317 | 2026-08-01 | 2026-11-22 |
-| [ossu/computer-science](../repos/ossu/computer-science.md) | 29 | ⭐ 211,435 | 2026-08-03 | 2026-11-22 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 30 | ⭐ 69,353 | 2026-08-01 | 2026-11-23 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | 30 | ⭐ 211,460 | 2026-08-03 | 2026-11-23 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 19 | ⭐ 30,053 | 2026-08-04 | 2026-11-18 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 18 | ⭐ 10,131 | 2026-08-01 | 2026-11-07 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 18 | ⭐ 11,040 | 2026-08-03 | 2026-10-28 |
@@ -118,7 +118,7 @@
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 18 | ⭐ 141,705 | 2026-08-08 | 2026-11-03 |
 | [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | 18 | ⭐ 6,316 | 2026-08-11 | 2026-11-13 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 17 | ⭐ 30,478 | 2026-08-09 | 2026-11-04 |
-| [MengTo/Skills](../repos/MengTo/Skills.md) | 15 | ⭐ 7,681 | 2026-08-19 | 2026-11-17 |
+| [xbtlin/ai-berkshire](../repos/xbtlin/ai-berkshire.md) | 16 | ⭐ 17,230 | 2026-09-14 | 2026-11-23 |
 
 ---
 
@@ -227,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-11-22T21:01:04.063Z*
+*Last updated: 2026-11-23T21:01:09.713Z*

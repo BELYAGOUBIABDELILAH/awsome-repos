@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | Other |
-| **Stars** | ⭐ 13,398 |
-| **Forks** | 🍴 1,241 |
-| **Trending Days** | 16 |
+| **Stars** | ⭐ 13,414 |
+| **Forks** | 🍴 1,243 |
+| **Trending Days** | 17 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 19, 2026 |
-| **Last Seen** | Nov 22, 2026 |
+| **Last Seen** | Nov 23, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 16
-- **Longest Streak**: 5 days
+- **Trending Days**: 17
+- **Longest Streak**: 6 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-22T21:01:09.110Z*  
-*Data from 16 trending reports*
+*Last updated: 2026-11-23T21:01:14.702Z*  
+*Data from 17 trending reports*

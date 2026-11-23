@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T21:01:12.531Z",
+  "generated_at": "2026-11-23T21:01:17.842Z",
   "total_topics": 100,
   "topics": [
     {
@@ -49,7 +49,7 @@
     },
     {
       "topic": "claude-code",
-      "repository_count": 155,
+      "repository_count": 154,
       "percentage": 3.3
     },
     {
@@ -99,7 +99,7 @@
     },
     {
       "topic": "golang",
-      "repository_count": 111,
+      "repository_count": 112,
       "percentage": 2.4
     },
     {
@@ -148,12 +148,12 @@
       "percentage": 1.7
     },
     {
-      "topic": "claude",
-      "repository_count": 80,
+      "topic": "developer-tools",
+      "repository_count": 79,
       "percentage": 1.7
     },
     {
-      "topic": "developer-tools",
+      "topic": "claude",
       "repository_count": 79,
       "percentage": 1.7
     },
@@ -198,12 +198,12 @@
       "percentage": 1.4
     },
     {
-      "topic": "cross-platform",
-      "repository_count": 64,
+      "topic": "automation",
+      "repository_count": 65,
       "percentage": 1.4
     },
     {
-      "topic": "automation",
+      "topic": "cross-platform",
       "repository_count": 64,
       "percentage": 1.4
     },
@@ -229,7 +229,7 @@
     },
     {
       "topic": "agent-skills",
-      "repository_count": 56,
+      "repository_count": 57,
       "percentage": 1.2
     },
     {
@@ -238,12 +238,12 @@
       "percentage": 1.2
     },
     {
-      "topic": "rag",
-      "repository_count": 54,
+      "topic": "terminal",
+      "repository_count": 55,
       "percentage": 1.2
     },
     {
-      "topic": "terminal",
+      "topic": "rag",
       "repository_count": 54,
       "percentage": 1.2
     },
@@ -368,6 +368,11 @@
       "percentage": 0.8
     },
     {
+      "topic": "dsh-plugin",
+      "repository_count": 38,
+      "percentage": 0.8
+    },
+    {
       "topic": "dart",
       "repository_count": 37,
       "percentage": 0.8
@@ -384,11 +389,6 @@
     },
     {
       "topic": "neovim-plugin",
-      "repository_count": 37,
-      "percentage": 0.8
-    },
-    {
-      "topic": "dsh-plugin",
       "repository_count": 37,
       "percentage": 0.8
     },
@@ -483,12 +483,12 @@
       "percentage": 0.7
     },
     {
-      "topic": "cncf",
+      "topic": "artificial-intelligence",
       "repository_count": 31,
       "percentage": 0.7
     },
     {
-      "topic": "openclaw",
+      "topic": "cncf",
       "repository_count": 31,
       "percentage": 0.7
     },

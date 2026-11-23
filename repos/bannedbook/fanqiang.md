@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Kotlin |
 | **License** | Not specified |
-| **Stars** | ⭐ 58,147 |
-| **Forks** | 🍴 8,858 |
-| **Trending Days** | 24 |
+| **Stars** | ⭐ 58,187 |
+| **Forks** | 🍴 8,861 |
+| **Trending Days** | 25 |
 | **Peak Rank** | #11 |
 
 | **First Seen** | Aug 6, 2026 |
-| **Last Seen** | Nov 22, 2026 |
+| **Last Seen** | Nov 23, 2026 |
 
 
 ---
@@ -50,8 +50,8 @@
 ### Highlights
 
 - **Peak Rank**: #11
-- **Trending Days**: 24
-- **Longest Streak**: 6 days
+- **Trending Days**: 25
+- **Longest Streak**: 7 days
 
 ---
 
@@ -94,5 +94,5 @@
 
 ---
 
-*Last updated: 2026-11-22T21:01:07.993Z*  
-*Data from 24 trending reports*
+*Last updated: 2026-11-23T21:01:13.657Z*  
+*Data from 25 trending reports*

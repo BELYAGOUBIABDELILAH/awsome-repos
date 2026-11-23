@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | MIT |
-| **Stars** | ⭐ 72,620 |
-| **Forks** | 🍴 6,419 |
-| **Trending Days** | 17 |
+| **Stars** | ⭐ 73,372 |
+| **Forks** | 🍴 6,477 |
+| **Trending Days** | 18 |
 | **Peak Rank** | #2 |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 22, 2026 |
+| **Last Seen** | Nov 23, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Python or ai-prompts*
+*Similar: Check repositories in Python or agent-skills*
 
 ---
 
@@ -51,22 +51,23 @@
 **Nov 20, 2026** — Rank #10 (+685 ⭐)  
 **Nov 21, 2026** — Rank #10 (+566 ⭐)  
 **Nov 22, 2026** — Rank #10 (+673 ⭐)  
+**Nov 23, 2026** — Rank #10 (+790 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #2
-- **Trending Days**: 17
-- **Longest Streak**: 7 days
+- **Trending Days**: 18
+- **Longest Streak**: 8 days
 
 ---
 
 ## Categories
 
 ### Topics
-[`ai-prompts`](../../topics/ai-prompts.md) [`ai-skill`](../../topics/ai-skill.md) [`bluesky`](../../topics/bluesky.md) [`claude`](../../topics/claude.md) [`claude-code`](../../topics/claude-code.md) [`clawhub`](../../topics/clawhub.md) [`deep-research`](../../topics/deep-research.md) [`hackernews`](../../topics/hackernews.md) [`instagram`](../../topics/instagram.md) [`openclaw`](../../topics/openclaw.md) [`polymarket`](../../topics/polymarket.md) [`recency`](../../topics/recency.md) [`reddit`](../../topics/reddit.md) [`research`](../../topics/research.md) [`social-media`](../../topics/social-media.md) [`tiktok`](../../topics/tiktok.md) [`trends`](../../topics/trends.md) [`twitter`](../../topics/twitter.md) [`web-search`](../../topics/web-search.md) [`youtube`](../../topics/youtube.md) 
+[`agent-skills`](../../topics/agent-skills.md) [`artificial-intelligence`](../../topics/artificial-intelligence.md) [`automation`](../../topics/automation.md) [`bot`](../../topics/bot.md) [`command-line`](../../topics/command-line.md) [`data-science`](../../topics/data-science.md) [`dsh`](../../topics/dsh.md) [`dsh-plugin`](../../topics/dsh-plugin.md) [`golang`](../../topics/golang.md) [`instagram`](../../topics/instagram.md) [`llms`](../../topics/llms.md) [`nlp`](../../topics/nlp.md) [`osint`](../../topics/osint.md) [`polymarket`](../../topics/polymarket.md) [`python3`](../../topics/python3.md) [`reddit`](../../topics/reddit.md) [`terminal`](../../topics/terminal.md) [`tiktok`](../../topics/tiktok.md) [`twitter`](../../topics/twitter.md) [`youtube`](../../topics/youtube.md) 
 
 ### Curated Categories
-`Artificial Intelligence` `Large Language Models` `Web Development` `Systems Programming` 
+`Artificial Intelligence` `Large Language Models` `Data Science` `DevOps &amp; CI&#x2F;CD` `Systems Programming` `Automation` 
 
 ---
 
@@ -99,5 +100,5 @@
 
 ---
 
-*Last updated: 2026-11-22T21:01:06.396Z*  
-*Data from 17 trending reports*
+*Last updated: 2026-11-23T21:01:12.128Z*  
+*Data from 18 trending reports*
