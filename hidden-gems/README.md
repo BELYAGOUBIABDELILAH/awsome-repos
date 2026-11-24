@@ -7,7 +7,7 @@
 ## All Time
 
 **Period**: Beginning to Present  
-**Gems Found**: 1205
+**Gems Found**: 1186
 
 ---
 
@@ -17,13 +17,13 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2,312 |
+| ⭐ **Stars** | 2,328 |
 | 💻 **Language** | Go |
 | 🏆 **Gem Score** | 98/100 |
-| 📈 **Trending Days** | 5 |
+| 📈 **Trending Days** | 6 |
 | 📅 **First Seen** | Nov 19, 2026 |
 
-**Why it's a gem**: High growth velocity (+80 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+71 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -37,13 +37,13 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2,087 |
+| ⭐ **Stars** | 2,165 |
 | 💻 **Language** | C |
 | 🏆 **Gem Score** | 98/100 |
-| 📈 **Trending Days** | 5 |
+| 📈 **Trending Days** | 6 |
 | 📅 **First Seen** | Nov 19, 2026 |
 
-**Why it's a gem**: High growth velocity (+161 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+147 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -57,13 +57,13 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2,558 |
+| ⭐ **Stars** | 2,613 |
 | 💻 **Language** | TypeScript |
 | 🏆 **Gem Score** | 97/100 |
-| 📈 **Trending Days** | 8 |
+| 📈 **Trending Days** | 9 |
 | 📅 **First Seen** | Oct 19, 2026 |
 
-**Why it's a gem**: High growth velocity (+71 stars&#x2F;day) • Trending 8 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+70 stars&#x2F;day) • Trending 9 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -131,39 +131,19 @@
 
 ---
 
-### 7. [dsx-ai-factory&#x2F;nvke](../../repos/dsx-ai-factory/nvke.md)
-
-**NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,110 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 97/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Nov 5, 2026 |
-
-**Why it's a gem**: High growth velocity (+268 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/dsx-ai-factory/nvke.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;dsx-ai-factory&#x2F;nvke)
-
----
-
-### 8. [incoai&#x2F;splash](../../repos/incoai/splash.md)
+### 7. [incoai&#x2F;splash](../../repos/incoai/splash.md)
 
 **A local inference engine for Apple silicon, built around the model.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2,678 |
+| ⭐ **Stars** | 2,738 |
 | 💻 **Language** | C++ |
 | 🏆 **Gem Score** | 97/100 |
-| 📈 **Trending Days** | 6 |
+| 📈 **Trending Days** | 7 |
 | 📅 **First Seen** | Nov 18, 2026 |
 
-**Why it's a gem**: High growth velocity (+57 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+57 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -171,7 +151,7 @@
 
 ---
 
-### 9. [PimpinPumpkin&#x2F;Vela](../../repos/PimpinPumpkin/Vela.md)
+### 8. [PimpinPumpkin&#x2F;Vela](../../repos/PimpinPumpkin/Vela.md)
 
 **Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras**
 
@@ -191,7 +171,7 @@
 
 ---
 
-### 10. [ModernRelay&#x2F;omnigraph](../../repos/ModernRelay/omnigraph.md)
+### 9. [ModernRelay&#x2F;omnigraph](../../repos/ModernRelay/omnigraph.md)
 
 **Object-storage native graph database with branching and typed ontology**
 
@@ -208,6 +188,26 @@
 **Best for**: 
 
 [View Passport](../../repos/ModernRelay/omnigraph.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;ModernRelay&#x2F;omnigraph)
+
+---
+
+### 10. [dsx-ai-factory&#x2F;nvke](../../repos/dsx-ai-factory/nvke.md)
+
+**NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,110 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 96/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Nov 5, 2026 |
+
+**Why it's a gem**: High growth velocity (+268 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/dsx-ai-factory/nvke.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;dsx-ai-factory&#x2F;nvke)
 
 ---
 
@@ -237,13 +237,13 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4,769 |
+| ⭐ **Stars** | 4,824 |
 | 💻 **Language** | JavaScript |
 | 🏆 **Gem Score** | 95/100 |
-| 📈 **Trending Days** | 10 |
+| 📈 **Trending Days** | 11 |
 | 📅 **First Seen** | Oct 16, 2026 |
 
-**Why it's a gem**: High growth velocity (+120 stars&#x2F;day) • Trending 10 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+114 stars&#x2F;day) • Trending 11 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -317,13 +317,13 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5,863 |
+| ⭐ **Stars** | 5,986 |
 | 💻 **Language** | Go |
 | 🏆 **Gem Score** | 94/100 |
-| 📈 **Trending Days** | 13 |
+| 📈 **Trending Days** | 14 |
 | 📅 **First Seen** | Nov 11, 2026 |
 
-**Why it's a gem**: High growth velocity (+530 stars&#x2F;day) • Trending 13 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+501 stars&#x2F;day) • Trending 14 times • Very active development • Strong community engagement
 
 **Best for**: 
 
@@ -337,13 +337,13 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4,664 |
+| ⭐ **Stars** | 4,887 |
 | 💻 **Language** | Python |
 | 🏆 **Gem Score** | 94/100 |
-| 📈 **Trending Days** | 5 |
+| 📈 **Trending Days** | 6 |
 | 📅 **First Seen** | Nov 19, 2026 |
 
-**Why it's a gem**: High growth velocity (+267 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+272 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -357,13 +357,13 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5,584 |
+| ⭐ **Stars** | 5,703 |
 | 💻 **Language** | Python |
 | 🏆 **Gem Score** | 94/100 |
-| 📈 **Trending Days** | 5 |
+| 📈 **Trending Days** | 6 |
 | 📅 **First Seen** | Nov 19, 2026 |
 
-**Why it's a gem**: High growth velocity (+99 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+96 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement
 
 **Best for**: 
 
@@ -371,27 +371,7 @@
 
 ---
 
-### 19. [malisper&#x2F;pgrust](../../repos/malisper/pgrust.md)
-
-**Postgres rewritten in Rust, now faster than Postgres and Clickhouse**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 6,021 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 93/100 |
-| 📈 **Trending Days** | 11 |
-| 📅 **First Seen** | Aug 8, 2026 |
-
-**Why it's a gem**: High growth velocity (+49 stars&#x2F;day) • Trending 11 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/malisper/pgrust.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;malisper&#x2F;pgrust)
-
----
-
-### 20. [PCL-Community&#x2F;PCL-CE](../../repos/PCL-Community/PCL-CE.md)
+### 19. [PCL-Community&#x2F;PCL-CE](../../repos/PCL-Community/PCL-CE.md)
 
 **PCL 社区版 由社区开发者维护与管理**
 
@@ -411,27 +391,7 @@
 
 ---
 
-### 21. [harry0703&#x2F;MangoDisk](../../repos/harry0703/MangoDisk.md)
-
-**Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 5,765 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 93/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Oct 7, 2026 |
-
-**Why it's a gem**: High growth velocity (+70 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/harry0703/MangoDisk.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;harry0703&#x2F;MangoDisk)
-
----
-
-### 22. [hanliang97&#x2F;MatrixMedia](../../repos/hanliang97/MatrixMedia.md)
+### 20. [hanliang97&#x2F;MatrixMedia](../../repos/hanliang97/MatrixMedia.md)
 
 **视频矩阵工具 vue electorn puppeteer 批量发布 视频到各个视频平台 自媒体 矩阵 抖音 小红书 头条 视频号 快手等 ai 自动化 cli**
 
@@ -451,7 +411,7 @@
 
 ---
 
-### 23. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
+### 21. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
 
 **GitHub Stacked PRs**
 
@@ -471,7 +431,7 @@
 
 ---
 
-### 24. [julyx10&#x2F;lap](../../repos/julyx10/lap.md)
+### 22. [julyx10&#x2F;lap](../../repos/julyx10/lap.md)
 
 **An offline-first photo manager for large local libraries**
 
@@ -491,7 +451,7 @@
 
 ---
 
-### 25. [mixelpixx&#x2F;Konnect](../../repos/mixelpixx/Konnect.md)
+### 23. [mixelpixx&#x2F;Konnect](../../repos/mixelpixx/Konnect.md)
 
 **AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing**
 
@@ -511,7 +471,7 @@
 
 ---
 
-### 26. [plugin87&#x2F;ux-ui-agent-skills](../../repos/plugin87/ux-ui-agent-skills.md)
+### 24. [plugin87&#x2F;ux-ui-agent-skills](../../repos/plugin87/ux-ui-agent-skills.md)
 
 **Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.**
 
@@ -531,27 +491,27 @@
 
 ---
 
-### 27. [InlitX&#x2F;GymMane](../../repos/InlitX/GymMane.md)
+### 25. [harry0703&#x2F;MangoDisk](../../repos/harry0703/MangoDisk.md)
 
-** Offline gym log for Android. No account, no ads, no internet.**
+**Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1,948 |
-| 💻 **Language** | Dart |
+| ⭐ **Stars** | 5,765 |
+| 💻 **Language** | Rust |
 | 🏆 **Gem Score** | 92/100 |
-| 📈 **Trending Days** | 19 |
-| 📅 **First Seen** | Oct 13, 2026 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Oct 7, 2026 |
 
-**Why it's a gem**: High growth velocity (+38 stars&#x2F;day) • Trending 19 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+70 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/InlitX/GymMane.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;InlitX&#x2F;GymMane)
+[View Passport](../../repos/harry0703/MangoDisk.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;harry0703&#x2F;MangoDisk)
 
 ---
 
-### 28. [OpenAEC-Foundation&#x2F;open-pdf-studio](../../repos/OpenAEC-Foundation/open-pdf-studio.md)
+### 26. [OpenAEC-Foundation&#x2F;open-pdf-studio](../../repos/OpenAEC-Foundation/open-pdf-studio.md)
 
 **An open source PDF viewer&#x2F;editor with it&#39;s own blazing fast rust engine**
 
@@ -571,7 +531,27 @@
 
 ---
 
-### 29. [Jakubantalik&#x2F;transitions.dev](../../repos/Jakubantalik/transitions.dev.md)
+### 27. [malisper&#x2F;pgrust](../../repos/malisper/pgrust.md)
+
+**Postgres rewritten in Rust, now faster than Postgres and Clickhouse**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 6,046 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 91/100 |
+| 📈 **Trending Days** | 12 |
+| 📅 **First Seen** | Aug 8, 2026 |
+
+**Why it's a gem**: High growth velocity (+47 stars&#x2F;day) • Trending 12 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/malisper/pgrust.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;malisper&#x2F;pgrust)
+
+---
+
+### 28. [Jakubantalik&#x2F;transitions.dev](../../repos/Jakubantalik/transitions.dev.md)
 
 **UI motion agent, a library of 43+ crafted transitions, a skill that fits your workflow.**
 
@@ -591,7 +571,7 @@
 
 ---
 
-### 30. [Gaurav-Gosain&#x2F;tuios](../../repos/Gaurav-Gosain/tuios.md)
+### 29. [Gaurav-Gosain&#x2F;tuios](../../repos/Gaurav-Gosain/tuios.md)
 
 **A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X&#x2F;Twitter account.**
 
@@ -611,6 +591,26 @@
 
 ---
 
+### 30. [metadist&#x2F;synaplan](../../repos/metadist/synaplan.md)
+
+**Own the flow: one open-source AI platform for your knowledge, models and channels – web, WhatsApp, email, Outlook, Nextcloud &amp; ownCloud. Local and cloud models side by side, with the cost on every answer.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 973 |
+| 💻 **Language** | PHP |
+| 🏆 **Gem Score** | 91/100 |
+| 📈 **Trending Days** | 19 |
+| 📅 **First Seen** | Sep 9, 2026 |
+
+**Why it's a gem**: High growth velocity (+36 stars&#x2F;day) • Trending 19 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/metadist/synaplan.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;metadist&#x2F;synaplan)
+
+---
+
 
 ## Scoring Methodology
 
@@ -627,5 +627,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-23T21:01:17.597Z*  
+*Generated: 2026-11-24T21:01:07.625Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

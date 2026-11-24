@@ -7,7 +7,7 @@
 ## October 2026
 
 **Period**: 2026-10-01 to 2026-10-28  
-**Gems Found**: 348
+**Gems Found**: 347
 
 ---
 
@@ -171,27 +171,7 @@
 
 ---
 
-### 9. [mg-chao&#x2F;snow-apps](../../repos/mg-chao/snow-apps.md)
-
-**Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 6,186 |
-| 💻 **Language** | C++ |
-| 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Sep 21, 2026 |
-
-**Why it's a gem**: High growth velocity (+63 stars&#x2F;day) • Trending 6 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/mg-chao/snow-apps.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mg-chao&#x2F;snow-apps)
-
----
-
-### 10. [apache&#x2F;maka](../../repos/apache/maka.md)
+### 9. [apache&#x2F;maka](../../repos/apache/maka.md)
 
 **Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.**
 
@@ -211,7 +191,7 @@
 
 ---
 
-### 11. [alsk1992&#x2F;CloddsBot](../../repos/alsk1992/CloddsBot.md)
+### 10. [alsk1992&#x2F;CloddsBot](../../repos/alsk1992/CloddsBot.md)
 
 **Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.**
 
@@ -231,27 +211,27 @@
 
 ---
 
-### 12. [makecindy&#x2F;cindy](../../repos/makecindy/cindy.md)
+### 11. [mg-chao&#x2F;snow-apps](../../repos/mg-chao/snow-apps.md)
 
-**Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。**
+**Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 8,006 |
-| 💻 **Language** | TypeScript |
+| ⭐ **Stars** | 6,186 |
+| 💻 **Language** | C++ |
 | 🏆 **Gem Score** | 88/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Oct 9, 2026 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Sep 21, 2026 |
 
-**Why it's a gem**: High growth velocity (+1657 stars&#x2F;day) • Trending 5 times • Strong community engagement
+**Why it's a gem**: High growth velocity (+63 stars&#x2F;day) • Trending 6 times • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/makecindy/cindy.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;makecindy&#x2F;cindy)
+[View Passport](../../repos/mg-chao/snow-apps.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mg-chao&#x2F;snow-apps)
 
 ---
 
-### 13. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
+### 12. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
 
 **Multi-account API gateway for Grok Build, Grok Web, and Grok Console**
 
@@ -271,7 +251,7 @@
 
 ---
 
-### 14. [mvschwarz&#x2F;openrig](../../repos/mvschwarz/openrig.md)
+### 13. [mvschwarz&#x2F;openrig](../../repos/mvschwarz/openrig.md)
 
 **Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.**
 
@@ -288,6 +268,26 @@
 **Best for**: 
 
 [View Passport](../../repos/mvschwarz/openrig.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mvschwarz&#x2F;openrig)
+
+---
+
+### 14. [makecindy&#x2F;cindy](../../repos/makecindy/cindy.md)
+
+**Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 8,006 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 87/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Oct 9, 2026 |
+
+**Why it's a gem**: High growth velocity (+1657 stars&#x2F;day) • Trending 5 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/makecindy/cindy.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;makecindy&#x2F;cindy)
 
 ---
 
@@ -311,27 +311,7 @@
 
 ---
 
-### 16. [Armur-Ai&#x2F;Pentest-Swarm-AI](../../repos/Armur-Ai/Pentest-Swarm-AI.md)
-
-**Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,961 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 86/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 25, 2026 |
-
-**Why it's a gem**: High growth velocity (+42 stars&#x2F;day) • Trending 6 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/Armur-Ai/Pentest-Swarm-AI.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Armur-Ai&#x2F;Pentest-Swarm-AI)
-
----
-
-### 17. [tbphp&#x2F;gpt-load](../../repos/tbphp/gpt-load.md)
+### 16. [tbphp&#x2F;gpt-load](../../repos/tbphp/gpt-load.md)
 
 **Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。**
 
@@ -351,7 +331,7 @@
 
 ---
 
-### 18. [willfaust&#x2F;Madeira](../../repos/willfaust/Madeira.md)
+### 17. [willfaust&#x2F;Madeira](../../repos/willfaust/Madeira.md)
 
 **Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT**
 
@@ -371,7 +351,7 @@
 
 ---
 
-### 19. [BuilderIO&#x2F;agent-native](../../repos/BuilderIO/agent-native.md)
+### 18. [BuilderIO&#x2F;agent-native](../../repos/BuilderIO/agent-native.md)
 
 **A framework for building agentic apps**
 
@@ -391,7 +371,7 @@
 
 ---
 
-### 20. [weave-os&#x2F;router](../../repos/weave-os/router.md)
+### 19. [weave-os&#x2F;router](../../repos/weave-os/router.md)
 
 **Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.**
 
@@ -411,6 +391,26 @@
 
 ---
 
+### 20. [ashhart&#x2F;TensorFold](../../repos/ashhart/TensorFold.md)
+
+**LLM Inference Engine for Metal, CUDA and Vulkan.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,537 |
+| 💻 **Language** | Zig |
+| 🏆 **Gem Score** | 86/100 |
+| 📈 **Trending Days** | 15 |
+| 📅 **First Seen** | Sep 28, 2026 |
+
+**Why it's a gem**: Trending 15 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/ashhart/TensorFold.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;ashhart&#x2F;TensorFold)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-23T21:01:17.568Z*  
+*Generated: 2026-11-24T21:01:07.596Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

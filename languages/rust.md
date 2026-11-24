@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 31,224 | 2026-08-01 | 23 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 31,321 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wealthfolio/wealthfolio](../repos/wealthfolio/wealthfolio.md) | ⭐ 9,722 | 2026-08-02 | 9 |
+| [wealthfolio/wealthfolio](../repos/wealthfolio/wealthfolio.md) | ⭐ 9,743 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [0xPlaygrounds/rig](../repos/0xPlaygrounds/rig.md) | ⭐ 9,238 | 2026-08-03 | 7 |
+| [0xPlaygrounds/rig](../repos/0xPlaygrounds/rig.md) | ⭐ 9,253 | 2026-08-03 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 45,879 | 2026-08-05 | 16 |
+| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 45,893 | 2026-08-05 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 40,462 | 2026-08-05 | 12 |
+| [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 40,485 | 2026-08-05 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [malisper/pgrust](../repos/malisper/pgrust.md) | ⭐ 6,021 | 2026-08-08 | 11 |
+| [malisper/pgrust](../repos/malisper/pgrust.md) | ⭐ 6,046 | 2026-08-08 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [louis-e/arnis](../repos/louis-e/arnis.md) | ⭐ 18,803 | 2026-08-09 | 11 |
+| [louis-e/arnis](../repos/louis-e/arnis.md) | ⭐ 18,818 | 2026-08-09 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [janhq/jan](../repos/janhq/jan.md) | ⭐ 46,051 | 2026-08-26 | 8 |
+| [janhq/jan](../repos/janhq/jan.md) | ⭐ 46,079 | 2026-08-26 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SaladDay/cc-switch-cli](../repos/SaladDay/cc-switch-cli.md) | ⭐ 5,567 | 2026-11-18 | 6 |
+| [SaladDay/cc-switch-cli](../repos/SaladDay/cc-switch-cli.md) | ⭐ 5,573 | 2026-11-18 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [perspective-dev/perspective](../repos/perspective-dev/perspective.md) | ⭐ 11,732 | 2026-11-19 | 5 |
+| [perspective-dev/perspective](../repos/perspective-dev/perspective.md) | ⭐ 11,758 | 2026-11-19 | 6 |
 
 
 ---
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 30 | ⭐ 112,097 | 2026-08-05 | 2026-11-17 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 25 | ⭐ 104,032 | 2026-08-09 | 2026-11-11 |
-| [t8y2/dbx](../repos/t8y2/dbx.md) | 23 | ⭐ 31,224 | 2026-08-01 | 2026-11-23 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | 24 | ⭐ 31,321 | 2026-08-01 | 2026-11-24 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 23 | ⭐ 50,290 | 2026-08-02 | 2026-11-12 |
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 22 | ⭐ 24,202 | 2026-08-08 | 2026-10-25 |
 | [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 20 | ⭐ 11,934 | 2026-08-26 | 2026-11-07 |
 | [openai/codex](../repos/openai/codex.md) | 19 | ⭐ 133,337 | 2026-08-01 | 2026-11-05 |
+| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | 17 | ⭐ 45,893 | 2026-08-05 | 2026-11-24 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 17 | ⭐ 42,354 | 2026-08-10 | 2026-10-26 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | 16 | ⭐ 122,230 | 2026-07-30 | 2026-11-18 |
-| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | 16 | ⭐ 45,879 | 2026-08-05 | 2026-11-23 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-23T21:01:09.767Z*
+*Last updated: 2026-11-24T21:01:01.140Z*

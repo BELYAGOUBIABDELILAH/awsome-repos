@@ -13,12 +13,12 @@
 | **Language** | Solidity |
 | **License** | MIT |
 | **Stars** | ⭐ 27,365 |
-| **Forks** | 🍴 12,414 |
-| **Trending Days** | 95 |
+| **Forks** | 🍴 12,415 |
+| **Trending Days** | 96 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 23, 2026 |
+| **Last Seen** | Nov 24, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 95
-- **Longest Streak**: 22 days
+- **Trending Days**: 96
+- **Longest Streak**: 23 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-23T21:01:12.621Z*  
-*Data from 95 trending reports*
+*Last updated: 2026-11-24T21:01:03.265Z*  
+*Data from 96 trending reports*

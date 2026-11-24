@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 2
 - **First Seen**: 2026-08-09
-- **Last Updated**: 2026-11-23
+- **Last Updated**: 2026-11-24
 
 ---
 
@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Inochi2D/inochi2d](../repos/Inochi2D/inochi2d.md) | ⭐ 1,886 | 2026-11-14 | 8 |
+| [Inochi2D/inochi2d](../repos/Inochi2D/inochi2d.md) | ⭐ 1,886 | 2026-11-14 | 9 |
 
 
 ---
@@ -34,7 +34,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Inochi2D/inochi2d](../repos/Inochi2D/inochi2d.md) | ⭐ 1,886 | 2026-11-14 | 8 |
+| [Inochi2D/inochi2d](../repos/Inochi2D/inochi2d.md) | ⭐ 1,886 | 2026-11-14 | 9 |
 | [ldc-developers/ldc](../repos/ldc-developers/ldc.md) | ⭐ 1,384 | 2026-08-09 | 9 |
 
 ---
@@ -44,7 +44,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [ldc-developers/ldc](../repos/ldc-developers/ldc.md) | 9 | ⭐ 1,384 | 2026-08-09 | 2026-11-06 |
-| [Inochi2D/inochi2d](../repos/Inochi2D/inochi2d.md) | 8 | ⭐ 1,886 | 2026-11-14 | 2026-11-23 |
+| [Inochi2D/inochi2d](../repos/Inochi2D/inochi2d.md) | 9 | ⭐ 1,886 | 2026-11-14 | 2026-11-24 |
 
 ---
 
@@ -55,4 +55,4 @@
 
 ---
 
-*Last updated: 2026-11-23T21:01:09.690Z*
+*Last updated: 2026-11-24T21:01:01.069Z*

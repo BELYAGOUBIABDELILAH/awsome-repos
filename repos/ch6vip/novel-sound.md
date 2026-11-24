@@ -1,6 +1,6 @@
 # ch6vip&#x2F;novel-sound
 
-> 内容聚合 Android 客户端：小说&#x2F;短剧&#x2F;漫剧&#x2F;听书&#x2F;漫画，Flutter UI + 进程内 Rust 核心，无自建服务器、无需 root
+> 「什锦铺」免费开源的内容聚合客户端：小说、短剧、漫剧、听书、漫画一站搞定 | Flutter UI + Rust 核心 | Android &#x2F; Windows &#x2F; Linux | 无广告
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;ch6vip&#x2F;novel-sound) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Dart |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 1,701 |
-| **Forks** | 🍴 260 |
-| **Trending Days** | 8 |
+| **Stars** | ⭐ 1,715 |
+| **Forks** | 🍴 263 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Nov 13, 2026 |
-| **Last Seen** | Nov 23, 2026 |
+| **Last Seen** | Nov 24, 2026 |
 
 
 ---
@@ -47,15 +47,15 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 8
-- **Longest Streak**: 7 days
+- **Trending Days**: 9
+- **Longest Streak**: 8 days
 
 ---
 
 ## Categories
 
 ### Topics
-[`android`](../../topics/android.md) [`audiobook`](../../topics/audiobook.md) [`dart`](../../topics/dart.md) [`flutter`](../../topics/flutter.md) [`manga`](../../topics/manga.md) [`novel`](../../topics/novel.md) [`rust`](../../topics/rust.md) 
+[`android`](../../topics/android.md) [`audiobook`](../../topics/audiobook.md) [`dart`](../../topics/dart.md) [`ebook`](../../topics/ebook.md) [`flutter`](../../topics/flutter.md) [`linux`](../../topics/linux.md) [`manga`](../../topics/manga.md) [`novel`](../../topics/novel.md) [`rust`](../../topics/rust.md) [`short-drama`](../../topics/short-drama.md) [`windows`](../../topics/windows.md) 
 
 ### Curated Categories
 `Mobile Development` 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-23T21:01:17.121Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-11-24T21:01:07.226Z*  
+*Data from 9 trending reports*

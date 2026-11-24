@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 12,227 |
-| **Forks** | 🍴 1,510 |
-| **Trending Days** | 17 |
+| **Stars** | ⭐ 12,598 |
+| **Forks** | 🍴 1,523 |
+| **Trending Days** | 18 |
 | **Peak Rank** | #3 |
 
 | **First Seen** | Aug 22, 2026 |
-| **Last Seen** | Nov 23, 2026 |
+| **Last Seen** | Nov 24, 2026 |
 
 
 ---
@@ -52,12 +52,13 @@
 **Nov 21, 2026** — Rank #11 (+324 ⭐)  
 **Nov 22, 2026** — Rank #11 (+516 ⭐)  
 **Nov 23, 2026** — Rank #11 (+425 ⭐)  
+**Nov 24, 2026** — Rank #11 (+401 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #3
-- **Trending Days**: 17
-- **Longest Streak**: 9 days
+- **Trending Days**: 18
+- **Longest Streak**: 10 days
 
 ---
 
@@ -100,5 +101,5 @@
 
 ---
 
-*Last updated: 2026-11-23T21:01:14.849Z*  
-*Data from 17 trending reports*
+*Last updated: 2026-11-24T21:01:05.342Z*  
+*Data from 18 trending reports*

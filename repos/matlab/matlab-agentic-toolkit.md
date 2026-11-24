@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | MATLAB |
 | **License** | Other |
-| **Stars** | ⭐ 1,331 |
+| **Stars** | ⭐ 1,336 |
 | **Forks** | 🍴 151 |
-| **Trending Days** | 50 |
+| **Trending Days** | 51 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 10, 2026 |
-| **Last Seen** | Nov 23, 2026 |
+| **Last Seen** | Nov 24, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 50
-- **Longest Streak**: 7 days
+- **Trending Days**: 51
+- **Longest Streak**: 8 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-23T21:01:15.725Z*  
-*Data from 50 trending reports*
+*Last updated: 2026-11-24T21:01:06.072Z*  
+*Data from 51 trending reports*

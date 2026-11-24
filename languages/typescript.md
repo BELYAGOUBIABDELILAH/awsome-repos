@@ -16,61 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 18,766 | 2026-08-01 | 31 |
+| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 19,146 | 2026-08-01 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,543 | 2026-08-01 | 10 |
+| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,576 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 78,508 | 2026-08-01 | 32 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 78,608 | 2026-08-01 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 207,789 | 2026-08-07 | 13 |
+| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 208,804 | 2026-08-07 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 123,510 | 2026-08-07 | 17 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 123,712 | 2026-08-07 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 4,224 | 2026-08-07 | 46 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 4,227 | 2026-08-07 | 47 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twentyhq/twenty](../repos/twentyhq/twenty.md) | ⭐ 61,377 | 2026-08-12 | 13 |
+| [twentyhq/twenty](../repos/twentyhq/twenty.md) | ⭐ 61,428 | 2026-08-12 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-labs-code/stitch-skills](../repos/google-labs-code/stitch-skills.md) | ⭐ 12,227 | 2026-08-22 | 17 |
+| [google-labs-code/stitch-skills](../repos/google-labs-code/stitch-skills.md) | ⭐ 12,598 | 2026-08-22 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mastra-ai/mastra](../repos/mastra-ai/mastra.md) | ⭐ 29,767 | 2026-08-25 | 7 |
+| [mastra-ai/mastra](../repos/mastra-ai/mastra.md) | ⭐ 29,793 | 2026-08-25 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tianma-if/edgeever](../repos/tianma-if/edgeever.md) | ⭐ 3,524 | 2026-08-27 | 7 |
+| [tianma-if/edgeever](../repos/tianma-if/edgeever.md) | ⭐ 3,535 | 2026-08-27 | 8 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [JetBrains/thinkrail](../repos/JetBrains/thinkrail.md) | ⭐ 5,934 | 2026-10-25 | Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [anthropics/sandbox-runtime](../repos/anthropics/sandbox-runtime.md) | ⭐ 6,592 | 2026-10-25 | A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary proc... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mantrakp04/ardia](../repos/mantrakp04/ardia.md) | ⭐ 1,637 | 2026-10-25 | A free Chromium browser for the Mac: Arc&#39;s sidebar, Dia&#39;s polish. Chat on Discord: discord.gg&#x2F;Tdh... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [MoonshotAI/kimi-code](../repos/MoonshotAI/kimi-code.md) | ⭐ 8,013 | 2026-10-25 | Kimi Code CLI  —  The Starting Point for Next-Gen Agents |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [nightly-labs/openbot](../repos/nightly-labs/openbot.md) | ⭐ 8,594 | 2026-10-25 | A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with ded... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [google/brotli](../repos/google/brotli.md) | ⭐ 15,011 | 2026-10-25 | Brotli compression format |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [basketikun/infinite-canvas](../repos/basketikun/infinite-canvas.md) | ⭐ 10,115 | 2026-10-25 | 面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/skill-recorder](../repos/microsoft/skill-recorder.md) | ⭐ 5,206 | 2026-10-26 | Desktop app that records your on-screen work session and uses the GitHub Copilot SDK to reconstru... |
@@ -80,6 +59,27 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [video-db/call.md](../repos/video-db/call.md.md) | ⭐ 1,928 | 2026-10-27 | Turn meetings into live agent loops. Record, transcribe, and analyze meetings with real-time AI i... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [galaxy-s10/billd-desk](../repos/galaxy-s10/billd-desk.md) | ⭐ 8,956 | 2026-10-27 | 基于Vue3 + WebRTC + Nodejs + Flutter搭建的远程桌面控制、游戏串流 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Raktim94/nodedr-restaurant-pos](../repos/Raktim94/nodedr-restaurant-pos.md) | ⭐ 181 | 2026-10-27 | Self-hosted restaurant POS with tables, kitchen display, reservations, QR ordering, loyalty and l... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ParadevAI/Paradev](../repos/ParadevAI/Paradev.md) | ⭐ 16,103 | 2026-10-28 | Paradev is an open-source Codex App and Conductor alternative. Orchestrate an army coding agents ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [agentscope-ai/QwenPaw](../repos/agentscope-ai/QwenPaw.md) | ⭐ 36,879 | 2026-10-29 | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [openobserve/openobserve](../repos/openobserve/openobserve.md) | ⭐ 22,797 | 2026-10-29 | Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session re... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [prisma/orm](../repos/prisma/orm.md) | ⭐ 47,666 | 2026-10-29 | The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [CNCKitchen/ScanRuler](../repos/CNCKitchen/ScanRuler.md) | ⭐ 770 | 2026-11-02 |  |
 
 
 ---
@@ -91,14 +91,14 @@
 | [morluto/rea](../repos/morluto/rea.md) | ⭐ 440,692 | 2026-10-06 | 11 |
 | [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 212,590 | 2026-08-04 | 2 |
 | [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 211,009 | 2026-08-11 | 9 |
-| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 207,789 | 2026-08-07 | 13 |
+| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 208,804 | 2026-08-07 | 14 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 195,138 | 2026-07-30 | 9 |
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 158,228 | 2026-09-01 | 4 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 154,905 | 2026-08-07 | 21 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 141,850 | 2026-08-02 | 8 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 140,636 | 2026-08-02 | 19 |
 | [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 127,723 | 2026-08-11 | 26 |
-| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 123,510 | 2026-08-07 | 17 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 123,712 | 2026-08-07 | 18 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | 2026-07-31 | 3 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 118,331 | 2026-08-17 | 5 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 110,330 | 2026-08-02 | 11 |
@@ -115,9 +115,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [expo/skills](../repos/expo/skills.md) | 46 | ⭐ 4,224 | 2026-08-07 | 2026-11-23 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 32 | ⭐ 78,508 | 2026-08-01 | 2026-11-23 |
-| [cursor/plugins](../repos/cursor/plugins.md) | 31 | ⭐ 18,766 | 2026-08-01 | 2026-11-23 |
+| [expo/skills](../repos/expo/skills.md) | 47 | ⭐ 4,227 | 2026-08-07 | 2026-11-24 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 33 | ⭐ 78,608 | 2026-08-01 | 2026-11-24 |
+| [cursor/plugins](../repos/cursor/plugins.md) | 32 | ⭐ 19,146 | 2026-08-01 | 2026-11-24 |
 | [stablyai/orca](../repos/stablyai/orca.md) | 26 | ⭐ 127,723 | 2026-08-11 | 2026-11-17 |
 | [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 23 | ⭐ 74,642 | 2026-08-08 | 2026-10-28 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 22 | ⭐ 54,008 | 2026-08-07 | 2026-11-17 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-23T21:01:09.781Z*
+*Last updated: 2026-11-24T21:01:01.153Z*

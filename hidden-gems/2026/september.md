@@ -7,7 +7,7 @@
 ## September 2026
 
 **Period**: 2026-09-01 to 2026-09-28  
-**Gems Found**: 286
+**Gems Found**: 281
 
 ---
 
@@ -51,27 +51,7 @@
 
 ---
 
-### 3. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
-
-**Source control for agents. Use multiple coding agents, track their changes and query them in one place**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 8,197 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 83/100 |
-| 📈 **Trending Days** | 8 |
-| 📅 **First Seen** | Aug 14, 2026 |
-
-**Why it's a gem**: High growth velocity (+571 stars&#x2F;day) • Trending 8 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/pacifio/atlas.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;pacifio&#x2F;atlas)
-
----
-
-### 4. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
+### 3. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
 
 **A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol **
 
@@ -91,27 +71,27 @@
 
 ---
 
-### 5. [alielsokary&#x2F;CaskHub](../../repos/alielsokary/CaskHub.md)
+### 4. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
 
-**Native GUI for Homebrew Casks**
+**Source control for agents. Use multiple coding agents, track their changes and query them in one place**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1,131 |
-| 💻 **Language** | Swift |
+| ⭐ **Stars** | 8,197 |
+| 💻 **Language** | Rust |
 | 🏆 **Gem Score** | 82/100 |
 | 📈 **Trending Days** | 8 |
-| 📅 **First Seen** | Aug 10, 2026 |
+| 📅 **First Seen** | Aug 14, 2026 |
 
-**Why it's a gem**: High growth velocity (+42 stars&#x2F;day) • Trending 8 times • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+571 stars&#x2F;day) • Trending 8 times • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/alielsokary/CaskHub.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;alielsokary&#x2F;CaskHub)
+[View Passport](../../repos/pacifio/atlas.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;pacifio&#x2F;atlas)
 
 ---
 
-### 6. [huangruiteng&#x2F;loopx](../../repos/huangruiteng/loopx.md)
+### 5. [huangruiteng&#x2F;loopx](../../repos/huangruiteng/loopx.md)
 
 **Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.**
 
@@ -128,6 +108,26 @@
 **Best for**: 
 
 [View Passport](../../repos/huangruiteng/loopx.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;huangruiteng&#x2F;loopx)
+
+---
+
+### 6. [alielsokary&#x2F;CaskHub](../../repos/alielsokary/CaskHub.md)
+
+**Native GUI for Homebrew Casks**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,131 |
+| 💻 **Language** | Swift |
+| 🏆 **Gem Score** | 81/100 |
+| 📈 **Trending Days** | 8 |
+| 📅 **First Seen** | Aug 10, 2026 |
+
+**Why it's a gem**: High growth velocity (+42 stars&#x2F;day) • Trending 8 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/alielsokary/CaskHub.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;alielsokary&#x2F;CaskHub)
 
 ---
 
@@ -211,27 +211,7 @@
 
 ---
 
-### 11. [Ed1s0nZ&#x2F;CyberStrikeAI](../../repos/Ed1s0nZ/CyberStrikeAI.md)
-
-**The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 6,342 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 79/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 1, 2026 |
-
-**Why it's a gem**: High growth velocity (+59 stars&#x2F;day) • Trending 5 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/Ed1s0nZ/CyberStrikeAI.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Ed1s0nZ&#x2F;CyberStrikeAI)
-
----
-
-### 12. [arcboxlabs&#x2F;arcbox](../../repos/arcboxlabs/arcbox.md)
+### 11. [arcboxlabs&#x2F;arcbox](../../repos/arcboxlabs/arcbox.md)
 
 **Run AI agents on real and isolated machines — own kernel, filesystem, and network — with &lt;100ms boot. Local first, OCI compatible, pure Rust.**
 
@@ -239,7 +219,7 @@
 |---|---|
 | ⭐ **Stars** | 3,363 |
 | 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 79/100 |
+| 🏆 **Gem Score** | 78/100 |
 | 📈 **Trending Days** | 4 |
 | 📅 **First Seen** | Sep 2, 2026 |
 
@@ -251,7 +231,7 @@
 
 ---
 
-### 13. [superradcompany&#x2F;microsandbox](../../repos/superradcompany/microsandbox.md)
+### 12. [superradcompany&#x2F;microsandbox](../../repos/superradcompany/microsandbox.md)
 
 **🧱 Easy fast local-first microVM runtime and library**
 
@@ -271,7 +251,7 @@
 
 ---
 
-### 14. [cactus-compute&#x2F;needle](../../repos/cactus-compute/needle.md)
+### 13. [cactus-compute&#x2F;needle](../../repos/cactus-compute/needle.md)
 
 **Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.**
 
@@ -291,7 +271,7 @@
 
 ---
 
-### 15. [tonhowtf&#x2F;omniget](../../repos/tonhowtf/omniget.md)
+### 14. [tonhowtf&#x2F;omniget](../../repos/tonhowtf/omniget.md)
 
 **Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF&#x2F;EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.**
 
@@ -311,27 +291,7 @@
 
 ---
 
-### 16. [aipoch&#x2F;open-science](../../repos/aipoch/open-science.md)
-
-**The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python&#x2F;R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 4,884 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 77/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Sep 6, 2026 |
-
-**Why it's a gem**: High growth velocity (+158 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/aipoch/open-science.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;aipoch&#x2F;open-science)
-
----
-
-### 17. [huggingface&#x2F;funes](../../repos/huggingface/funes.md)
+### 15. [huggingface&#x2F;funes](../../repos/huggingface/funes.md)
 
 **Durable, searchable memory of your past agent sessions.**
 
@@ -351,7 +311,7 @@
 
 ---
 
-### 18. [cobusgreyling&#x2F;loop-engineering](../../repos/cobusgreyling/loop-engineering.md)
+### 16. [cobusgreyling&#x2F;loop-engineering](../../repos/cobusgreyling/loop-engineering.md)
 
 **Practical patterns, starters &amp; CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.**
 
@@ -371,7 +331,7 @@
 
 ---
 
-### 19. [Osmantic&#x2F;ODS](../../repos/Osmantic/ODS.md)
+### 17. [Osmantic&#x2F;ODS](../../repos/Osmantic/ODS.md)
 
 **Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.**
 
@@ -391,7 +351,7 @@
 
 ---
 
-### 20. [Sumanth077&#x2F;Hands-On-AI-Engineering](../../repos/Sumanth077/Hands-On-AI-Engineering.md)
+### 18. [Sumanth077&#x2F;Hands-On-AI-Engineering](../../repos/Sumanth077/Hands-On-AI-Engineering.md)
 
 **A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases.**
 
@@ -411,6 +371,46 @@
 
 ---
 
+### 19. [aipoch&#x2F;open-science](../../repos/aipoch/open-science.md)
+
+**The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python&#x2F;R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 4,884 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 76/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Sep 6, 2026 |
+
+**Why it's a gem**: High growth velocity (+158 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/aipoch/open-science.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;aipoch&#x2F;open-science)
+
+---
+
+### 20. [crivion&#x2F;laranode](../../repos/crivion/laranode.md)
+
+**Free Hosting Panel - Easily manage your VPS&#x2F;dedicated machine with Laranode (a cPanel&#x2F;Plesk alternative) **
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,493 |
+| 💻 **Language** | PHP |
+| 🏆 **Gem Score** | 76/100 |
+| 📈 **Trending Days** | 2 |
+| 📅 **First Seen** | Sep 20, 2026 |
+
+**Why it's a gem**: High growth velocity (+227 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/crivion/laranode.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;crivion&#x2F;laranode)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-23T21:01:17.570Z*  
+*Generated: 2026-11-24T21:01:07.598Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

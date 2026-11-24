@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T21:01:17.794Z",
+  "generated_at": "2026-11-24T21:01:07.795Z",
   "total_count": 100,
   "repositories": [
     {
@@ -127,10 +127,10 @@
       "full_name": "ossu/computer-science",
       "owner": "ossu",
       "name": "computer-science",
-      "stars": 211460,
+      "stars": 211505,
       "language": "HTML",
       "first_seen": "2026-08-03",
-      "trending_days": 30
+      "trending_days": 31
     },
     {
       "rank": 14,
@@ -147,10 +147,10 @@
       "full_name": "firecrawl/firecrawl",
       "owner": "firecrawl",
       "name": "firecrawl",
-      "stars": 207789,
+      "stars": 208804,
       "language": "TypeScript",
       "first_seen": "2026-08-07",
-      "trending_days": 13
+      "trending_days": 14
     },
     {
       "rank": 16,
@@ -177,10 +177,10 @@
       "full_name": "microsoft/markitdown",
       "owner": "microsoft",
       "name": "markitdown",
-      "stars": 198079,
+      "stars": 198255,
       "language": "Python",
       "first_seen": "2026-09-07",
-      "trending_days": 8
+      "trending_days": 9
     },
     {
       "rank": 19,
@@ -287,10 +287,10 @@
       "full_name": "github/spec-kit",
       "owner": "github",
       "name": "spec-kit",
-      "stars": 151150,
+      "stars": 151271,
       "language": "Python",
       "first_seen": "2026-08-14",
-      "trending_days": 18
+      "trending_days": 19
     },
     {
       "rank": 30,
@@ -464,6 +464,16 @@
     },
     {
       "rank": 47,
+      "full_name": "earendil-works/pi",
+      "owner": "earendil-works",
+      "name": "pi",
+      "stars": 123712,
+      "language": "TypeScript",
+      "first_seen": "2026-08-07",
+      "trending_days": 18
+    },
+    {
+      "rank": 48,
       "full_name": "electron/electron",
       "owner": "electron",
       "name": "electron",
@@ -471,16 +481,6 @@
       "language": "C++",
       "first_seen": "2026-08-01",
       "trending_days": 7
-    },
-    {
-      "rank": 48,
-      "full_name": "earendil-works/pi",
-      "owner": "earendil-works",
-      "name": "pi",
-      "stars": 123510,
-      "language": "TypeScript",
-      "first_seen": "2026-08-07",
-      "trending_days": 17
     },
     {
       "rank": 49,
@@ -507,10 +507,10 @@
       "full_name": "2dust/v2rayN",
       "owner": "2dust",
       "name": "v2rayN",
-      "stars": 121264,
+      "stars": 121356,
       "language": "C#",
       "first_seen": "2026-08-02",
-      "trending_days": 41
+      "trending_days": 42
     },
     {
       "rank": 52,
@@ -747,10 +747,10 @@
       "full_name": "localsend/localsend",
       "owner": "localsend",
       "name": "localsend",
-      "stars": 100449,
+      "stars": 100643,
       "language": "Dart",
       "first_seen": "2026-08-02",
-      "trending_days": 49
+      "trending_days": 50
     },
     {
       "rank": 76,
@@ -817,10 +817,10 @@
       "full_name": "nvm-sh/nvm",
       "owner": "nvm-sh",
       "name": "nvm",
-      "stars": 96278,
+      "stars": 96286,
       "language": "Shell",
       "first_seen": "2026-08-01",
-      "trending_days": 62
+      "trending_days": 63
     },
     {
       "rank": 83,

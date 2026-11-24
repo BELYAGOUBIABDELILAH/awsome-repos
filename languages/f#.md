@@ -23,9 +23,6 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [leafOfTree/WindowTabs](../repos/leafOfTree/WindowTabs.md) | ⭐ 1,034 | 2026-10-25 | A utility that brings browser-style tabbed window management to the desktop. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [fsprojects/FAKE](../repos/fsprojects/FAKE.md) | ⭐ 1,327 | 2026-10-26 | FAKE - F# Make |
 
 
@@ -68,4 +65,4 @@
 
 ---
 
-*Last updated: 2026-11-23T21:01:09.702Z*
+*Last updated: 2026-11-24T21:01:01.082Z*

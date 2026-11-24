@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 50,614 | 2026-08-01 | 41 |
+| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 50,623 | 2026-08-01 | 42 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zammad/zammad](../repos/zammad/zammad.md) | ⭐ 6,138 | 2026-08-01 | 38 |
+| [zammad/zammad](../repos/zammad/zammad.md) | ⭐ 6,142 | 2026-08-01 | 39 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,851 | 2026-08-01 | 54 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,859 | 2026-08-01 | 55 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opf/openproject](../repos/opf/openproject.md) | ⭐ 17,662 | 2026-08-01 | 61 |
+| [opf/openproject](../repos/opf/openproject.md) | ⭐ 17,695 | 2026-08-01 | 62 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,865 | 2026-08-01 | 44 |
+| [antiwork/gumroad](../repos/antiwork/gumroad.md) | ⭐ 10,206 | 2026-08-01 | 38 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [docusealco/docuseal](../repos/docusealco/docuseal.md) | ⭐ 19,134 | 2026-08-02 | 43 |
+| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,867 | 2026-08-01 | 45 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [puma/puma](../repos/puma/puma.md) | ⭐ 7,930 | 2026-08-04 | 15 |
+| [docusealco/docuseal](../repos/docusealco/docuseal.md) | ⭐ 19,147 | 2026-08-02 | 44 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [forem/forem](../repos/forem/forem.md) | ⭐ 22,845 | 2026-08-04 | 27 |
+| [puma/puma](../repos/puma/puma.md) | ⭐ 7,930 | 2026-08-04 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruby/rubygems](../repos/ruby/rubygems.md) | ⭐ 3,994 | 2026-08-04 | 18 |
+| [forem/forem](../repos/forem/forem.md) | ⭐ 22,843 | 2026-08-04 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openstreetmap/openstreetmap-website](../repos/openstreetmap/openstreetmap-website.md) | ⭐ 2,898 | 2026-08-08 | 12 |
+| [ruby/rubygems](../repos/ruby/rubygems.md) | ⭐ 3,994 | 2026-08-04 | 19 |
 
 
 ---
@@ -84,7 +84,7 @@
 |------------|-------|------------|---------------|
 | [rails/rails](../repos/rails/rails.md) | ⭐ 59,048 | 2026-08-02 | 58 |
 | [jekyll/jekyll](../repos/jekyll/jekyll.md) | ⭐ 51,793 | 2026-08-03 | 30 |
-| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 50,614 | 2026-08-01 | 41 |
+| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 50,623 | 2026-08-01 | 42 |
 | [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 48,094 | 2026-08-01 | 57 |
 | [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 42,403 | 2026-08-04 | 48 |
 | [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | ⭐ 39,562 | 2026-08-01 | 42 |
@@ -92,10 +92,10 @@
 | [matteocrippa/awesome-swift](../repos/matteocrippa/awesome-swift.md) | ⭐ 26,364 | 2026-09-27 | 9 |
 | [gitlabhq/gitlabhq](../repos/gitlabhq/gitlabhq.md) | ⭐ 24,565 | 2026-08-01 | 19 |
 | [heartcombo/devise](../repos/heartcombo/devise.md) | ⭐ 24,355 | 2026-09-08 | 5 |
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,851 | 2026-08-01 | 54 |
-| [forem/forem](../repos/forem/forem.md) | ⭐ 22,845 | 2026-08-04 | 27 |
-| [docusealco/docuseal](../repos/docusealco/docuseal.md) | ⭐ 19,134 | 2026-08-02 | 43 |
-| [opf/openproject](../repos/opf/openproject.md) | ⭐ 17,662 | 2026-08-01 | 61 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,859 | 2026-08-01 | 55 |
+| [forem/forem](../repos/forem/forem.md) | ⭐ 22,843 | 2026-08-04 | 28 |
+| [docusealco/docuseal](../repos/docusealco/docuseal.md) | ⭐ 19,147 | 2026-08-02 | 44 |
+| [opf/openproject](../repos/opf/openproject.md) | ⭐ 17,695 | 2026-08-01 | 62 |
 | [postalserver/postal](../repos/postalserver/postal.md) | ⭐ 16,957 | 2026-08-04 | 22 |
 | [we-promise/sure](../repos/we-promise/sure.md) | ⭐ 15,960 | 2026-08-02 | 47 |
 | [spree/spree](../repos/spree/spree.md) | ⭐ 15,849 | 2026-08-01 | 43 |
@@ -109,16 +109,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [opf/openproject](../repos/opf/openproject.md) | 61 | ⭐ 17,662 | 2026-08-01 | 2026-11-23 |
+| [opf/openproject](../repos/opf/openproject.md) | 62 | ⭐ 17,695 | 2026-08-01 | 2026-11-24 |
 | [rails/rails](../repos/rails/rails.md) | 58 | ⭐ 59,048 | 2026-08-02 | 2026-11-18 |
 | [discourse/discourse](../repos/discourse/discourse.md) | 57 | ⭐ 48,094 | 2026-08-01 | 2026-11-18 |
-| [ruby/ruby](../repos/ruby/ruby.md) | 54 | ⭐ 23,851 | 2026-08-01 | 2026-11-23 |
+| [ruby/ruby](../repos/ruby/ruby.md) | 55 | ⭐ 23,859 | 2026-08-01 | 2026-11-24 |
 | [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 48 | ⭐ 1,084 | 2026-08-01 | 2026-11-20 |
 | [fastlane/fastlane](../repos/fastlane/fastlane.md) | 48 | ⭐ 42,403 | 2026-08-04 | 2026-11-18 |
 | [we-promise/sure](../repos/we-promise/sure.md) | 47 | ⭐ 15,960 | 2026-08-02 | 2026-11-16 |
-| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | 44 | ⭐ 5,865 | 2026-08-01 | 2026-11-23 |
+| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | 45 | ⭐ 5,867 | 2026-08-01 | 2026-11-24 |
+| [docusealco/docuseal](../repos/docusealco/docuseal.md) | 44 | ⭐ 19,147 | 2026-08-02 | 2026-11-24 |
 | [spree/spree](../repos/spree/spree.md) | 43 | ⭐ 15,849 | 2026-08-01 | 2026-11-18 |
-| [docusealco/docuseal](../repos/docusealco/docuseal.md) | 43 | ⭐ 19,134 | 2026-08-02 | 2026-11-23 |
 
 ---
 
@@ -227,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-11-23T21:01:09.764Z*
+*Last updated: 2026-11-24T21:01:01.137Z*

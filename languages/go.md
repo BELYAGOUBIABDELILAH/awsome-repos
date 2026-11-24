@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 57,548 | 2026-08-01 | 34 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 57,725 | 2026-08-01 | 35 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 8,219 | 2026-08-02 | 32 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 8,286 | 2026-08-02 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 28,950 | 2026-08-04 | 22 |
+| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 29,014 | 2026-08-04 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [getarcaneapp/arcane](../repos/getarcaneapp/arcane.md) | ⭐ 10,343 | 2026-08-06 | 13 |
+| [getarcaneapp/arcane](../repos/getarcaneapp/arcane.md) | ⭐ 10,390 | 2026-08-06 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 34,867 | 2026-08-06 | 23 |
+| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 34,950 | 2026-08-06 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [putyy/res-downloader](../repos/putyy/res-downloader.md) | ⭐ 21,466 | 2026-08-10 | 9 |
+| [putyy/res-downloader](../repos/putyy/res-downloader.md) | ⭐ 21,522 | 2026-08-10 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nats-io/nats-server](../repos/nats-io/nats-server.md) | ⭐ 21,123 | 2026-08-11 | 13 |
+| [nats-io/nats-server](../repos/nats-io/nats-server.md) | ⭐ 21,132 | 2026-08-11 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TencentCloud/CubeSandbox](../repos/TencentCloud/CubeSandbox.md) | ⭐ 13,414 | 2026-08-19 | 17 |
+| [TencentCloud/CubeSandbox](../repos/TencentCloud/CubeSandbox.md) | ⭐ 13,439 | 2026-08-19 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Autumn-27/ScopeSentry](../repos/Autumn-27/ScopeSentry.md) | ⭐ 2,654 | 2026-10-11 | 9 |
+| [Autumn-27/ScopeSentry](../repos/Autumn-27/ScopeSentry.md) | ⭐ 2,673 | 2026-10-11 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opensandbox-group/OpenSandbox](../repos/opensandbox-group/OpenSandbox.md) | ⭐ 17,836 | 2026-11-09 | 9 |
+| [opensandbox-group/OpenSandbox](../repos/opensandbox-group/OpenSandbox.md) | ⭐ 17,882 | 2026-11-09 | 10 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [encoredev/encore](../repos/encoredev/encore.md) | ⭐ 12,624 | 2026-10-25 | Infrastructure orchestration from local to your cloud |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [go-git/go-git](../repos/go-git/go-git.md) | ⭐ 7,830 | 2026-10-26 | A highly extensible Git implementation in pure Go. |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [xpzouying/xiaohongshu-mcp](../repos/xpzouying/xiaohongshu-mcp.md) | ⭐ 16,899 | 2026-11-02 | MCP for xiaohongshu.com |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [qax-os/excelize](../repos/qax-os/excelize.md) | ⭐ 21,095 | 2026-11-03 | Go language library for reading and writing Microsoft Excel™ (XLAM &#x2F; XLSM &#x2F; XLSX &#x2F; XLTM &#x2F; XLTX) s... |
 
 
 ---
@@ -102,7 +102,7 @@
 | [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 67,560 | 2026-08-11 | 9 |
 | [minio/minio](../repos/minio/minio.md) | ⭐ 61,365 | 2026-08-12 | 2 |
 | [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | 2 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 57,548 | 2026-08-01 | 34 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 57,725 | 2026-08-01 | 35 |
 | [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 54,160 | 2026-08-20 | 24 |
 | [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,668 | 2026-08-22 | 7 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 52,173 | 2026-08-01 | 24 |
@@ -115,15 +115,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | 34 | ⭐ 57,548 | 2026-08-01 | 2026-11-23 |
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 32 | ⭐ 8,219 | 2026-08-02 | 2026-11-23 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | 35 | ⭐ 57,725 | 2026-08-01 | 2026-11-24 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 33 | ⭐ 8,286 | 2026-08-02 | 2026-11-24 |
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 29 | ⭐ 37,394 | 2026-08-01 | 2026-11-13 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 28 | ⭐ 39,511 | 2026-08-01 | 2026-11-18 |
 | [ollama/ollama](../repos/ollama/ollama.md) | 28 | ⭐ 186,884 | 2026-08-01 | 2026-11-13 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 24 | ⭐ 52,173 | 2026-08-01 | 2026-11-18 |
+| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | 24 | ⭐ 34,950 | 2026-08-06 | 2026-11-24 |
 | [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 24 | ⭐ 54,160 | 2026-08-20 | 2026-11-18 |
-| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | 23 | ⭐ 34,867 | 2026-08-06 | 2026-11-23 |
-| [gastownhall/beads](../repos/gastownhall/beads.md) | 22 | ⭐ 28,950 | 2026-08-04 | 2026-11-23 |
+| [gastownhall/beads](../repos/gastownhall/beads.md) | 23 | ⭐ 29,014 | 2026-08-04 | 2026-11-24 |
 | [golang/go](../repos/golang/go.md) | 21 | ⭐ 140,079 | 2026-07-31 | 2026-11-18 |
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-23T21:01:09.707Z*
+*Last updated: 2026-11-24T21:01:01.086Z*

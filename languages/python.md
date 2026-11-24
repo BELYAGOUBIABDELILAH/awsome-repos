@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 359
+- **Total Repositories**: 360
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-03
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 73,372 | 2026-08-01 | 18 |
+| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 74,107 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 151,150 | 2026-08-14 | 18 |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 151,271 | 2026-08-14 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 63,501 | 2026-08-15 | 19 |
+| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 64,635 | 2026-08-15 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tracer-Cloud/opensre](../repos/Tracer-Cloud/opensre.md) | ⭐ 14,766 | 2026-08-24 | 9 |
+| [Tracer-Cloud/opensre](../repos/Tracer-Cloud/opensre.md) | ⭐ 15,137 | 2026-08-24 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 42,785 | 2026-08-29 | 15 |
+| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 43,007 | 2026-08-29 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Imbad0202/academic-research-skills](../repos/Imbad0202/academic-research-skills.md) | ⭐ 58,252 | 2026-09-01 | 12 |
+| [Imbad0202/academic-research-skills](../repos/Imbad0202/academic-research-skills.md) | ⭐ 58,419 | 2026-09-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jingyaogong/minimind](../repos/jingyaogong/minimind.md) | ⭐ 69,391 | 2026-09-01 | 11 |
+| [jingyaogong/minimind](../repos/jingyaogong/minimind.md) | ⭐ 70,115 | 2026-09-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 198,079 | 2026-09-07 | 8 |
+| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 198,255 | 2026-09-07 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhouxiaoka/autoclip](../repos/zhouxiaoka/autoclip.md) | ⭐ 14,327 | 2026-09-20 | 8 |
+| [zhouxiaoka/autoclip](../repos/zhouxiaoka/autoclip.md) | ⭐ 15,258 | 2026-09-20 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [superdesigndev/treg](../repos/superdesigndev/treg.md) | ⭐ 8,805 | 2026-09-22 | 13 |
+| [superdesigndev/treg](../repos/superdesigndev/treg.md) | ⭐ 8,862 | 2026-09-22 | 14 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [AstrBotDevs/AstrBot](../repos/AstrBotDevs/AstrBot.md) | ⭐ 43,810 | 2026-10-25 | AI Agent Assistant &amp; development framework that integrates lots of IM platforms, LLMs, plugins an... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [higgsfield-ai/skills](../repos/higgsfield-ai/skills.md) | ⭐ 1,672 | 2026-10-26 |  |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [FlashML-org/FreeToken](../repos/FlashML-org/FreeToken.md) | ⭐ 16,598 | 2026-11-02 | FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [karpathy/nanochat](../repos/karpathy/nanochat.md) | ⭐ 60,124 | 2026-11-02 | The best ChatGPT that $100 can buy. |
 
 
 ---
@@ -95,11 +95,11 @@
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 243,012 | 2026-08-01 | 17 |
 | [TheAlgorithms/Python](../repos/TheAlgorithms/Python.md) | ⭐ 226,056 | 2026-11-12 | 1 |
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 198,857 | 2026-08-02 | 8 |
-| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 198,079 | 2026-09-07 | 8 |
+| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 198,255 | 2026-09-07 | 9 |
 | [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 193,049 | 2026-08-11 | 13 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,775 | 2026-08-06 | 9 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 169,239 | 2026-07-31 | 12 |
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 151,150 | 2026-08-14 | 18 |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 151,271 | 2026-08-14 | 19 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 149,584 | 2026-08-03 | 12 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 143,038 | 2026-08-04 | 8 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 141,991 | 2026-08-05 | 13 |
@@ -116,11 +116,11 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [github/copilot-cli](../repos/github/copilot-cli.md) | 25 | ⭐ 11,351 | 2026-08-04 | 2026-11-04 |
+| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | 20 | ⭐ 64,635 | 2026-08-15 | 2026-11-24 |
+| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | 19 | ⭐ 74,107 | 2026-08-01 | 2026-11-24 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 19 | ⭐ 139,731 | 2026-08-01 | 2026-11-05 |
 | [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 19 | ⭐ 70,192 | 2026-08-03 | 2026-11-14 |
-| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | 19 | ⭐ 63,501 | 2026-08-15 | 2026-11-23 |
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | 18 | ⭐ 73,372 | 2026-08-01 | 2026-11-23 |
-| [github/spec-kit](../repos/github/spec-kit.md) | 18 | ⭐ 151,150 | 2026-08-14 | 2026-11-23 |
+| [github/spec-kit](../repos/github/spec-kit.md) | 19 | ⭐ 151,271 | 2026-08-14 | 2026-11-24 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 17 | ⭐ 243,012 | 2026-08-01 | 2026-09-07 |
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | 17 | ⭐ 132,217 | 2026-08-04 | 2026-11-11 |
 | [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | 17 | ⭐ 47,286 | 2026-08-07 | 2026-11-14 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-23T21:01:09.756Z*
+*Last updated: 2026-11-24T21:01:01.130Z*
