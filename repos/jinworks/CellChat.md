@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | R |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 694 |
+| **Stars** | ⭐ 695 |
 | **Forks** | 🍴 118 |
-| **Trending Days** | 68 |
+| **Trending Days** | 69 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 24, 2026 |
+| **Last Seen** | Nov 25, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 68
-- **Longest Streak**: 8 days
+- **Trending Days**: 69
+- **Longest Streak**: 9 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-24T21:01:03.107Z*  
-*Data from 68 trending reports*
+*Last updated: 2026-11-25T21:01:07.769Z*  
+*Data from 69 trending reports*

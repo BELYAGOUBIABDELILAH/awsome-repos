@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 6,046 |
+| **Stars** | ⭐ 6,073 |
 | **Forks** | 🍴 248 |
-| **Trending Days** | 12 |
+| **Trending Days** | 13 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 8, 2026 |
-| **Last Seen** | Nov 24, 2026 |
+| **Last Seen** | Nov 25, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 12
-- **Longest Streak**: 8 days
+- **Trending Days**: 13
+- **Longest Streak**: 9 days
 
 ---
 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Very Active | Updated within last week |
+| **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-24T21:01:04.263Z*  
-*Data from 12 trending reports*
+*Last updated: 2026-11-25T21:01:09.253Z*  
+*Data from 13 trending reports*

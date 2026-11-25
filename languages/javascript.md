@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 199
+- **Total Repositories**: 200
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-12
 
@@ -16,25 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 35,436 | 2026-08-02 | 17 |
+| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 35,450 | 2026-08-02 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) | ⭐ 34,864 | 2026-08-19 | 16 |
+| [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) | ⭐ 34,919 | 2026-08-19 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,672 | 2026-08-20 | 25 |
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,675 | 2026-08-20 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 60,124 | 2026-10-14 | 8 |
+| [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 60,157 | 2026-10-14 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [michael-denyer/pstack-claude](../repos/michael-denyer/pstack-claude.md) | ⭐ 4,824 | 2026-10-16 | 11 |
+| [michael-denyer/pstack-claude](../repos/michael-denyer/pstack-claude.md) | ⭐ 4,874 | 2026-10-16 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [babygoton/WorkDaddy](../repos/babygoton/WorkDaddy.md) | ⭐ 3,431 | 2026-11-07 | 7 |
+| [babygoton/WorkDaddy](../repos/babygoton/WorkDaddy.md) | ⭐ 3,461 | 2026-11-07 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [micromatch/picomatch](../repos/micromatch/picomatch.md) | ⭐ 1,339 | 2026-11-19 | 6 |
+| [micromatch/picomatch](../repos/micromatch/picomatch.md) | ⭐ 1,339 | 2026-11-19 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [qqxpee/antigravity2-cn](../repos/qqxpee/antigravity2-cn.md) | ⭐ 2,467 | 2026-11-25 | 1 |
 
 
 ---
@@ -97,7 +100,7 @@
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 65,279 | 2026-08-27 | 16 |
 | [jgraph/drawio-desktop](../repos/jgraph/drawio-desktop.md) | ⭐ 63,817 | 2026-11-04 | 1 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,485 | 2026-08-11 | 5 |
-| [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 60,124 | 2026-10-14 | 8 |
+| [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 60,157 | 2026-10-14 | 9 |
 | [chinese-poetry/chinese-poetry](../repos/chinese-poetry/chinese-poetry.md) | ⭐ 54,296 | 2026-11-10 | 2 |
 
 ---
@@ -108,13 +111,13 @@
 |------------|---------------|-------|------------|-----------|
 | [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 39 | ⭐ 117,534 | 2026-08-05 | 2026-11-14 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 32 | ⭐ 14,607 | 2026-08-02 | 2026-11-07 |
-| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | 25 | ⭐ 1,672 | 2026-08-20 | 2026-11-24 |
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | 26 | ⭐ 1,675 | 2026-08-20 | 2026-11-25 |
 | [byoungd/up](../repos/byoungd/up.md) | 22 | ⭐ 70,623 | 2026-08-01 | 2026-11-16 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 22 | ⭐ 90,383 | 2026-08-04 | 2026-10-27 |
 | [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 19 | ⭐ 34,116 | 2026-08-08 | 2026-11-11 |
 | [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | 19 | ⭐ 69,110 | 2026-08-28 | 2026-11-10 |
-| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | 17 | ⭐ 35,436 | 2026-08-02 | 2026-11-24 |
-| [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) | 16 | ⭐ 34,864 | 2026-08-19 | 2026-11-24 |
+| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | 18 | ⭐ 35,450 | 2026-08-02 | 2026-11-25 |
+| [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) | 17 | ⭐ 34,919 | 2026-08-19 | 2026-11-25 |
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | 16 | ⭐ 65,279 | 2026-08-27 | 2026-11-16 |
 
 ---
@@ -224,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-11-24T21:01:01.098Z*
+*Last updated: 2026-11-25T21:01:05.145Z*

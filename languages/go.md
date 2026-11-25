@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 57,725 | 2026-08-01 | 35 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 57,914 | 2026-08-01 | 36 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 8,286 | 2026-08-02 | 33 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 8,351 | 2026-08-02 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 29,014 | 2026-08-04 | 23 |
+| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 29,067 | 2026-08-04 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [getarcaneapp/arcane](../repos/getarcaneapp/arcane.md) | ⭐ 10,390 | 2026-08-06 | 14 |
+| [getarcaneapp/arcane](../repos/getarcaneapp/arcane.md) | ⭐ 10,474 | 2026-08-06 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 34,950 | 2026-08-06 | 24 |
+| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 35,030 | 2026-08-06 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [putyy/res-downloader](../repos/putyy/res-downloader.md) | ⭐ 21,522 | 2026-08-10 | 10 |
+| [putyy/res-downloader](../repos/putyy/res-downloader.md) | ⭐ 21,564 | 2026-08-10 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nats-io/nats-server](../repos/nats-io/nats-server.md) | ⭐ 21,132 | 2026-08-11 | 14 |
+| [nats-io/nats-server](../repos/nats-io/nats-server.md) | ⭐ 21,148 | 2026-08-11 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TencentCloud/CubeSandbox](../repos/TencentCloud/CubeSandbox.md) | ⭐ 13,439 | 2026-08-19 | 18 |
+| [TencentCloud/CubeSandbox](../repos/TencentCloud/CubeSandbox.md) | ⭐ 13,452 | 2026-08-19 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Autumn-27/ScopeSentry](../repos/Autumn-27/ScopeSentry.md) | ⭐ 2,673 | 2026-10-11 | 10 |
+| [Autumn-27/ScopeSentry](../repos/Autumn-27/ScopeSentry.md) | ⭐ 2,694 | 2026-10-11 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opensandbox-group/OpenSandbox](../repos/opensandbox-group/OpenSandbox.md) | ⭐ 17,882 | 2026-11-09 | 10 |
+| [opensandbox-group/OpenSandbox](../repos/opensandbox-group/OpenSandbox.md) | ⭐ 17,921 | 2026-11-09 | 11 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [go-git/go-git](../repos/go-git/go-git.md) | ⭐ 7,830 | 2026-10-26 | A highly extensible Git implementation in pure Go. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [benbjohnson/litestream](../repos/benbjohnson/litestream.md) | ⭐ 14,540 | 2026-10-26 | Streaming replication for SQLite. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [klauspost/compress](../repos/klauspost/compress.md) | ⭐ 5,704 | 2026-10-27 | Optimized Go Compression Packages |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [qax-os/excelize](../repos/qax-os/excelize.md) | ⭐ 21,095 | 2026-11-03 | Go language library for reading and writing Microsoft Excel™ (XLAM &#x2F; XLSM &#x2F; XLSX &#x2F; XLTM &#x2F; XLTX) s... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [gdy666/lucky](../repos/gdy666/lucky.md) | ⭐ 8,327 | 2026-11-03 | 软硬路由公网神器,ipv6&#x2F;ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [influxdata/telegraf](../repos/influxdata/telegraf.md) | ⭐ 17,895 | 2026-11-04 | Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. |
 
 
 ---
@@ -102,7 +102,7 @@
 | [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 67,560 | 2026-08-11 | 9 |
 | [minio/minio](../repos/minio/minio.md) | ⭐ 61,365 | 2026-08-12 | 2 |
 | [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | 2 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 57,725 | 2026-08-01 | 35 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 57,914 | 2026-08-01 | 36 |
 | [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 54,160 | 2026-08-20 | 24 |
 | [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,668 | 2026-08-22 | 7 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 52,173 | 2026-08-01 | 24 |
@@ -115,15 +115,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | 35 | ⭐ 57,725 | 2026-08-01 | 2026-11-24 |
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 33 | ⭐ 8,286 | 2026-08-02 | 2026-11-24 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | 36 | ⭐ 57,914 | 2026-08-01 | 2026-11-25 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 34 | ⭐ 8,351 | 2026-08-02 | 2026-11-25 |
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 29 | ⭐ 37,394 | 2026-08-01 | 2026-11-13 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 28 | ⭐ 39,511 | 2026-08-01 | 2026-11-18 |
 | [ollama/ollama](../repos/ollama/ollama.md) | 28 | ⭐ 186,884 | 2026-08-01 | 2026-11-13 |
+| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | 25 | ⭐ 35,030 | 2026-08-06 | 2026-11-25 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 24 | ⭐ 52,173 | 2026-08-01 | 2026-11-18 |
-| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | 24 | ⭐ 34,950 | 2026-08-06 | 2026-11-24 |
+| [gastownhall/beads](../repos/gastownhall/beads.md) | 24 | ⭐ 29,067 | 2026-08-04 | 2026-11-25 |
 | [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 24 | ⭐ 54,160 | 2026-08-20 | 2026-11-18 |
-| [gastownhall/beads](../repos/gastownhall/beads.md) | 23 | ⭐ 29,014 | 2026-08-04 | 2026-11-24 |
 | [golang/go](../repos/golang/go.md) | 21 | ⭐ 140,079 | 2026-07-31 | 2026-11-18 |
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-24T21:01:01.086Z*
+*Last updated: 2026-11-25T21:01:05.130Z*

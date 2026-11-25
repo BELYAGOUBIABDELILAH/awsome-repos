@@ -13,12 +13,12 @@
 | **Language** | Vue |
 | **License** | Apache-2.0 |
 | **Stars** | ⭐ 187 |
-| **Forks** | 🍴 281 |
-| **Trending Days** | 10 |
+| **Forks** | 🍴 282 |
+| **Trending Days** | 11 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Nov 24, 2026 |
+| **Last Seen** | Nov 25, 2026 |
 
 
 ---
@@ -47,18 +47,18 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 10
-- **Longest Streak**: 6 days
+- **Trending Days**: 11
+- **Longest Streak**: 7 days
 
 ---
 
 ## Categories
 
 ### Topics
-[`front-end`](../../topics/front-end.md) [`hacktoberfest`](../../topics/hacktoberfest.md) [`vue`](../../topics/vue.md) [`vuejs`](../../topics/vuejs.md) 
+[`front-end`](../../topics/front-end.md) [`vue`](../../topics/vue.md) [`vuejs`](../../topics/vuejs.md) 
 
 ### Curated Categories
-`Web Development` `Systems Programming` 
+`Web Development` 
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-24T21:01:03.866Z*  
-*Data from 10 trending reports*
+*Last updated: 2026-11-25T21:01:08.751Z*  
+*Data from 11 trending reports*

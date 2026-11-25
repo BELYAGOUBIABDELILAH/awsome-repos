@@ -7,7 +7,7 @@
 ## November 2026
 
 **Period**: 2026-11-01 to 2026-11-28  
-**Gems Found**: 534
+**Gems Found**: 536
 
 ---
 
@@ -17,13 +17,13 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2,328 |
+| ⭐ **Stars** | 2,351 |
 | 💻 **Language** | Go |
 | 🏆 **Gem Score** | 98/100 |
-| 📈 **Trending Days** | 6 |
+| 📈 **Trending Days** | 7 |
 | 📅 **First Seen** | Nov 19, 2026 |
 
-**Why it's a gem**: High growth velocity (+71 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+64 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -37,13 +37,13 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2,165 |
+| ⭐ **Stars** | 2,224 |
 | 💻 **Language** | C |
 | 🏆 **Gem Score** | 98/100 |
-| 📈 **Trending Days** | 6 |
+| 📈 **Trending Days** | 7 |
 | 📅 **First Seen** | Nov 19, 2026 |
 
-**Why it's a gem**: High growth velocity (+147 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+136 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -57,13 +57,13 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2,613 |
+| ⭐ **Stars** | 2,655 |
 | 💻 **Language** | TypeScript |
 | 🏆 **Gem Score** | 97/100 |
-| 📈 **Trending Days** | 9 |
+| 📈 **Trending Days** | 10 |
 | 📅 **First Seen** | Oct 19, 2026 |
 
-**Why it's a gem**: High growth velocity (+70 stars&#x2F;day) • Trending 9 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+67 stars&#x2F;day) • Trending 10 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -137,13 +137,13 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2,738 |
+| ⭐ **Stars** | 2,785 |
 | 💻 **Language** | C++ |
 | 🏆 **Gem Score** | 97/100 |
-| 📈 **Trending Days** | 7 |
+| 📈 **Trending Days** | 8 |
 | 📅 **First Seen** | Nov 18, 2026 |
 
-**Why it's a gem**: High growth velocity (+57 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+57 stars&#x2F;day) • Trending 8 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -237,13 +237,13 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4,824 |
+| ⭐ **Stars** | 4,874 |
 | 💻 **Language** | JavaScript |
 | 🏆 **Gem Score** | 95/100 |
-| 📈 **Trending Days** | 11 |
+| 📈 **Trending Days** | 12 |
 | 📅 **First Seen** | Oct 16, 2026 |
 
-**Why it's a gem**: High growth velocity (+114 stars&#x2F;day) • Trending 11 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+109 stars&#x2F;day) • Trending 12 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -291,39 +291,19 @@
 
 ---
 
-### 15. [derv82&#x2F;wifit3](../../repos/derv82/wifit3.md)
-
-**Wifite but USB-only &amp; cross-platform.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 3,345 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 94/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Sep 25, 2026 |
-
-**Why it's a gem**: High growth velocity (+241 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/derv82/wifit3.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;derv82&#x2F;wifit3)
-
----
-
-### 16. [Tencent&#x2F;LoopForge](../../repos/Tencent/LoopForge.md)
+### 15. [Tencent&#x2F;LoopForge](../../repos/Tencent/LoopForge.md)
 
 **Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5,986 |
+| ⭐ **Stars** | 6,091 |
 | 💻 **Language** | Go |
 | 🏆 **Gem Score** | 94/100 |
-| 📈 **Trending Days** | 14 |
+| 📈 **Trending Days** | 15 |
 | 📅 **First Seen** | Nov 11, 2026 |
 
-**Why it's a gem**: High growth velocity (+501 stars&#x2F;day) • Trending 14 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+475 stars&#x2F;day) • Trending 15 times • Very active development • Strong community engagement
 
 **Best for**: 
 
@@ -331,39 +311,19 @@
 
 ---
 
-### 17. [FlashML-org&#x2F;FreeVideo](../../repos/FlashML-org/FreeVideo.md)
-
-**Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM and 16 GB of RAM, and adapts its acceleration path to your hardware.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 4,887 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 94/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Nov 19, 2026 |
-
-**Why it's a gem**: High growth velocity (+272 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/FlashML-org/FreeVideo.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;FlashML-org&#x2F;FreeVideo)
-
----
-
-### 18. [phone-harness&#x2F;phone-harness](../../repos/phone-harness/phone-harness.md)
+### 16. [phone-harness&#x2F;phone-harness](../../repos/phone-harness/phone-harness.md)
 
 **let your agent control your phone**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5,703 |
+| ⭐ **Stars** | 5,807 |
 | 💻 **Language** | Python |
 | 🏆 **Gem Score** | 94/100 |
-| 📈 **Trending Days** | 6 |
+| 📈 **Trending Days** | 7 |
 | 📅 **First Seen** | Nov 19, 2026 |
 
-**Why it's a gem**: High growth velocity (+96 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+100 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement
 
 **Best for**: 
 
@@ -371,7 +331,7 @@
 
 ---
 
-### 19. [PCL-Community&#x2F;PCL-CE](../../repos/PCL-Community/PCL-CE.md)
+### 17. [PCL-Community&#x2F;PCL-CE](../../repos/PCL-Community/PCL-CE.md)
 
 **PCL 社区版 由社区开发者维护与管理**
 
@@ -391,7 +351,27 @@
 
 ---
 
-### 20. [hanliang97&#x2F;MatrixMedia](../../repos/hanliang97/MatrixMedia.md)
+### 18. [derv82&#x2F;wifit3](../../repos/derv82/wifit3.md)
+
+**Wifite but USB-only &amp; cross-platform.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3,345 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 93/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Sep 25, 2026 |
+
+**Why it's a gem**: High growth velocity (+241 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/derv82/wifit3.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;derv82&#x2F;wifit3)
+
+---
+
+### 19. [hanliang97&#x2F;MatrixMedia](../../repos/hanliang97/MatrixMedia.md)
 
 **视频矩阵工具 vue electorn puppeteer 批量发布 视频到各个视频平台 自媒体 矩阵 抖音 小红书 头条 视频号 快手等 ai 自动化 cli**
 
@@ -411,6 +391,26 @@
 
 ---
 
+### 20. [FlashML-org&#x2F;FreeVideo](../../repos/FlashML-org/FreeVideo.md)
+
+**Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM and 16 GB of RAM, and adapts its acceleration path to your hardware.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 4,973 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 93/100 |
+| 📈 **Trending Days** | 7 |
+| 📅 **First Seen** | Nov 19, 2026 |
+
+**Why it's a gem**: High growth velocity (+246 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/FlashML-org/FreeVideo.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;FlashML-org&#x2F;FreeVideo)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-24T21:01:07.591Z*  
+*Generated: 2026-11-25T21:01:12.913Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

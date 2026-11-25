@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 4,324 | 2026-08-01 | 22 |
+| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 4,343 | 2026-08-01 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [seemoo-lab/openhaystack](../repos/seemoo-lab/openhaystack.md) | ⭐ 14,271 | 2026-08-17 | 11 |
+| [seemoo-lab/openhaystack](../repos/seemoo-lab/openhaystack.md) | ⭐ 14,274 | 2026-08-17 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | ⭐ 1,588 | 2026-09-13 | 19 |
+| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | ⭐ 1,820 | 2026-09-13 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [suversal/WrapPin](../repos/suversal/WrapPin.md) | ⭐ 1,191 | 2026-11-15 | 9 |
+| [suversal/WrapPin](../repos/suversal/WrapPin.md) | ⭐ 1,315 | 2026-11-15 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [consolelabs/hidden](../repos/consolelabs/hidden.md) | ⭐ 15,594 | 2026-11-17 | 8 |
+| [consolelabs/hidden](../repos/consolelabs/hidden.md) | ⭐ 15,613 | 2026-11-17 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gauthierpiarrette/highball](../repos/gauthierpiarrette/highball.md) | ⭐ 2,341 | 2026-11-19 | 6 |
+| [gauthierpiarrette/highball](../repos/gauthierpiarrette/highball.md) | ⭐ 2,347 | 2026-11-19 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [driceroland/Search](../repos/driceroland/Search.md) | ⭐ 4,012 | 2026-11-20 | 4 |
+| [driceroland/Search](../repos/driceroland/Search.md) | ⭐ 4,101 | 2026-11-20 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [samhenrigold/LightTouchMac](../repos/samhenrigold/LightTouchMac.md) | ⭐ 293 | 2026-10-26 | Run classic iPhone, iPod touch and iPad apps on your Mac (iOS 1–7) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [milika/SmartTubeIOS](../repos/milika/SmartTubeIOS.md) | ⭐ 569 | 2026-10-28 | Native Swift&#x2F;SwiftUI YouTube client for iPhone, iPad, Apple TV &amp; Mac — ad-free, SponsorBlock, DeA... |
@@ -71,6 +68,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/Procexp-Mac](../repos/microsoft/Procexp-Mac.md) | ⭐ 906 | 2026-11-12 | Process Explorer for MacOS |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [chocoford/ExcalidrawZ](../repos/chocoford/ExcalidrawZ.md) | ⭐ 1,898 | 2026-11-14 | Excalidraw app for mac. Powered by pure SwiftUI. |
 
 
 ---
@@ -93,7 +93,7 @@
 | [SnapKit/SnapKit](../repos/SnapKit/SnapKit.md) | ⭐ 20,344 | 2026-08-14 | 1 |
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,685 | 2026-08-01 | 4 |
 | [OpenEmu/OpenEmu](../repos/OpenEmu/OpenEmu.md) | ⭐ 17,766 | 2026-09-13 | 1 |
-| [consolelabs/hidden](../repos/consolelabs/hidden.md) | ⭐ 15,594 | 2026-11-17 | 8 |
+| [consolelabs/hidden](../repos/consolelabs/hidden.md) | ⭐ 15,613 | 2026-11-17 | 9 |
 | [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 15,451 | 2026-09-21 | 16 |
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 15,429 | 2026-08-03 | 5 |
 | [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 15,311 | 2026-08-24 | 13 |
@@ -109,10 +109,10 @@
 | [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 33 | ⭐ 14,103 | 2026-08-01 | 2026-11-11 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 28 | ⭐ 28,794 | 2026-08-01 | 2026-11-14 |
 | [apple/container](../repos/apple/container.md) | 25 | ⭐ 51,943 | 2026-08-01 | 2026-11-18 |
-| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 22 | ⭐ 4,324 | 2026-08-01 | 2026-11-24 |
+| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 23 | ⭐ 4,343 | 2026-08-01 | 2026-11-25 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 22 | ⭐ 14,999 | 2026-08-04 | 2026-10-29 |
+| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | 20 | ⭐ 1,820 | 2026-09-13 | 2026-11-25 |
 | [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 19 | ⭐ 9,443 | 2026-08-02 | 2026-11-16 |
-| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | 19 | ⭐ 1,588 | 2026-09-13 | 2026-11-24 |
 | [swiftlang/swift](../repos/swiftlang/swift.md) | 18 | ⭐ 70,542 | 2026-08-05 | 2026-11-06 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 17 | ⭐ 26,944 | 2026-08-04 | 2026-11-17 |
 | [apple/swift-nio](../repos/apple/swift-nio.md) | 16 | ⭐ 8,547 | 2026-08-04 | 2026-11-06 |
@@ -224,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-11-24T21:01:01.149Z*
+*Last updated: 2026-11-25T21:01:05.212Z*

@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 81
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-24
+- **Last Updated**: 2026-11-25
 
 ---
 
@@ -16,22 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 60,502 | 2026-08-02 | 53 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 61,032 | 2026-08-02 | 54 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,677 | 2026-08-05 | 38 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,681 | 2026-08-05 | 39 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 83,062 | 2026-08-06 | 40 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 83,072 | 2026-08-06 | 41 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,789 | 2026-08-06 | 22 |
+| [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,792 | 2026-08-06 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 7,870 | 2026-08-10 | 37 |
+| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 7,942 | 2026-08-10 | 38 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,552 | 2026-09-02 | 12 |
+| [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,560 | 2026-09-02 | 13 |
 
 
 ---
@@ -61,8 +61,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 83,062 | 2026-08-06 | 40 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 60,502 | 2026-08-02 | 53 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 83,072 | 2026-08-06 | 41 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 61,032 | 2026-08-02 | 54 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,480 | 2026-08-01 | 15 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,470 | 2026-08-04 | 35 |
 | [adobe-fonts/source-code-pro](../repos/adobe-fonts/source-code-pro.md) | ⭐ 20,445 | 2026-09-07 | 1 |
@@ -71,12 +71,12 @@
 | [CodeByZach/pace](../repos/CodeByZach/pace.md) | ⭐ 15,601 | 2026-08-12 | 1 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,511 | 2026-08-01 | 23 |
 | [devicons/devicon](../repos/devicons/devicon.md) | ⭐ 11,877 | 2026-08-04 | 9 |
-| [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,789 | 2026-08-06 | 22 |
+| [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,792 | 2026-08-06 | 23 |
 | [tachyons-css/tachyons](../repos/tachyons-css/tachyons.md) | ⭐ 11,724 | 2026-10-16 | 6 |
 | [jdan/98.css](../repos/jdan/98.css.md) | ⭐ 11,557 | 2026-08-09 | 3 |
 | [StylishThemes/GitHub-Dark](../repos/StylishThemes/GitHub-Dark.md) | ⭐ 9,966 | 2026-08-19 | 3 |
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,677 | 2026-08-05 | 38 |
-| [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,552 | 2026-09-02 | 12 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,681 | 2026-08-05 | 39 |
+| [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,560 | 2026-09-02 | 13 |
 | [troxler/awesome-css-frameworks](../repos/troxler/awesome-css-frameworks.md) | ⭐ 9,495 | 2026-08-23 | 2 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,427 | 2026-08-01 | 19 |
 | [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,407 | 2026-08-03 | 8 |
@@ -89,15 +89,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 65 | ⭐ 1,494 | 2026-08-01 | 2026-11-18 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 53 | ⭐ 60,502 | 2026-08-02 | 2026-11-24 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 54 | ⭐ 61,032 | 2026-08-02 | 2026-11-25 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | 41 | ⭐ 83,072 | 2026-08-06 | 2026-11-25 |
 | [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 40 | ⭐ 923 | 2026-08-01 | 2026-11-15 |
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | 40 | ⭐ 83,062 | 2026-08-06 | 2026-11-24 |
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 38 | ⭐ 9,677 | 2026-08-05 | 2026-11-24 |
-| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | 37 | ⭐ 7,870 | 2026-08-10 | 2026-11-24 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 39 | ⭐ 9,681 | 2026-08-05 | 2026-11-25 |
+| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | 38 | ⭐ 7,942 | 2026-08-10 | 2026-11-25 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 35 | ⭐ 45,470 | 2026-08-04 | 2026-11-14 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 29 | ⭐ 1,431 | 2026-08-01 | 2026-10-22 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 23 | ⭐ 12,511 | 2026-08-01 | 2026-10-09 |
-| [IBM/plex](../repos/IBM/plex.md) | 22 | ⭐ 11,789 | 2026-08-06 | 2026-11-24 |
+| [IBM/plex](../repos/IBM/plex.md) | 23 | ⭐ 11,792 | 2026-08-06 | 2026-11-25 |
 
 ---
 
@@ -187,4 +187,4 @@
 
 ---
 
-*Last updated: 2026-11-24T21:01:01.059Z*
+*Last updated: 2026-11-25T21:01:05.096Z*

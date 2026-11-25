@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Kotlin |
 | **License** | BSD-2-Clause |
-| **Stars** | ⭐ 29,010 |
-| **Forks** | 🍴 3,532 |
-| **Trending Days** | 11 |
+| **Stars** | ⭐ 29,028 |
+| **Forks** | 🍴 3,534 |
+| **Trending Days** | 12 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 11, 2026 |
-| **Last Seen** | Nov 24, 2026 |
+| **Last Seen** | Nov 25, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 11
-- **Longest Streak**: 6 days
+- **Trending Days**: 12
+- **Longest Streak**: 7 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-24T21:01:04.834Z*  
-*Data from 11 trending reports*
+*Last updated: 2026-11-25T21:01:09.620Z*  
+*Data from 12 trending reports*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Java |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 4,515 |
-| **Forks** | 🍴 877 |
-| **Trending Days** | 22 |
+| **Stars** | ⭐ 4,521 |
+| **Forks** | 🍴 881 |
+| **Trending Days** | 23 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 24, 2026 |
+| **Last Seen** | Nov 25, 2026 |
 
 
 ---
@@ -47,15 +47,15 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 22
-- **Longest Streak**: 6 days
+- **Trending Days**: 23
+- **Longest Streak**: 7 days
 
 ---
 
 ## Categories
 
 ### Topics
-[`appsec`](../../topics/appsec.md) [`bill-of-materials`](../../topics/bill-of-materials.md) [`bom`](../../topics/bom.md) [`component-analysis`](../../topics/component-analysis.md) [`cyclonedx`](../../topics/cyclonedx.md) [`devsecops`](../../topics/devsecops.md) [`hacktoberfest`](../../topics/hacktoberfest.md) [`nvd`](../../topics/nvd.md) [`ossindex`](../../topics/ossindex.md) [`owasp`](../../topics/owasp.md) [`package-url`](../../topics/package-url.md) [`purl`](../../topics/purl.md) [`sbom`](../../topics/sbom.md) [`sca`](../../topics/sca.md) [`security`](../../topics/security.md) [`security-automation`](../../topics/security-automation.md) [`software-composition-analysis`](../../topics/software-composition-analysis.md) [`software-security`](../../topics/software-security.md) [`vulnerabilities`](../../topics/vulnerabilities.md) [`vulnerability-detection`](../../topics/vulnerability-detection.md) 
+[`appsec`](../../topics/appsec.md) [`bill-of-materials`](../../topics/bill-of-materials.md) [`bom`](../../topics/bom.md) [`component-analysis`](../../topics/component-analysis.md) [`cyclonedx`](../../topics/cyclonedx.md) [`devsecops`](../../topics/devsecops.md) [`nvd`](../../topics/nvd.md) [`ossindex`](../../topics/ossindex.md) [`owasp`](../../topics/owasp.md) [`package-url`](../../topics/package-url.md) [`purl`](../../topics/purl.md) [`sbom`](../../topics/sbom.md) [`sca`](../../topics/sca.md) [`security`](../../topics/security.md) [`security-automation`](../../topics/security-automation.md) [`software-composition-analysis`](../../topics/software-composition-analysis.md) [`software-security`](../../topics/software-security.md) [`vulnerabilities`](../../topics/vulnerabilities.md) [`vulnerability-detection`](../../topics/vulnerability-detection.md) 
 
 ### Curated Categories
 `DevOps &amp; CI&#x2F;CD` `Cybersecurity` `Systems Programming` `Automation` 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-24T21:01:02.957Z*  
-*Data from 22 trending reports*
+*Last updated: 2026-11-25T21:01:07.573Z*  
+*Data from 23 trending reports*

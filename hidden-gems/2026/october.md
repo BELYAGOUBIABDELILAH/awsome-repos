@@ -39,7 +39,7 @@
 |---|---|
 | ⭐ **Stars** | 4,132 |
 | 💻 **Language** | Vue |
-| 🏆 **Gem Score** | 92/100 |
+| 🏆 **Gem Score** | 91/100 |
 | 📈 **Trending Days** | 33 |
 | 📅 **First Seen** | Aug 2, 2026 |
 
@@ -59,7 +59,7 @@
 |---|---|
 | ⭐ **Stars** | 1,282 |
 | 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 92/100 |
+| 🏆 **Gem Score** | 91/100 |
 | 📈 **Trending Days** | 6 |
 | 📅 **First Seen** | Sep 6, 2026 |
 
@@ -79,7 +79,7 @@
 |---|---|
 | ⭐ **Stars** | 2,389 |
 | 💻 **Language** | JavaScript |
-| 🏆 **Gem Score** | 92/100 |
+| 🏆 **Gem Score** | 91/100 |
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Sep 14, 2026 |
 
@@ -131,27 +131,7 @@
 
 ---
 
-### 7. [androoAGI&#x2F;starnet](../../repos/androoAGI/starnet.md)
-
-**A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,011 |
-| 💻 **Language** | JavaScript |
-| 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Sep 24, 2026 |
-
-**Why it's a gem**: High growth velocity (+117 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/androoAGI/starnet.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;androoAGI&#x2F;starnet)
-
----
-
-### 8. [JetBrains&#x2F;thinkrail](../../repos/JetBrains/thinkrail.md)
+### 7. [JetBrains&#x2F;thinkrail](../../repos/JetBrains/thinkrail.md)
 
 **Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need**
 
@@ -168,6 +148,26 @@
 **Best for**: 
 
 [View Passport](../../repos/JetBrains/thinkrail.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;JetBrains&#x2F;thinkrail)
+
+---
+
+### 8. [androoAGI&#x2F;starnet](../../repos/androoAGI/starnet.md)
+
+**A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,011 |
+| 💻 **Language** | JavaScript |
+| 🏆 **Gem Score** | 89/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Sep 24, 2026 |
+
+**Why it's a gem**: High growth velocity (+117 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/androoAGI/starnet.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;androoAGI&#x2F;starnet)
 
 ---
 
@@ -231,27 +231,7 @@
 
 ---
 
-### 12. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
-
-**Multi-account API gateway for Grok Build, Grok Web, and Grok Console**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 7,848 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 87/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 6, 2026 |
-
-**Why it's a gem**: High growth velocity (+59 stars&#x2F;day) • Trending 6 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/chenyme/grok2api.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;chenyme&#x2F;grok2api)
-
----
-
-### 13. [mvschwarz&#x2F;openrig](../../repos/mvschwarz/openrig.md)
+### 12. [mvschwarz&#x2F;openrig](../../repos/mvschwarz/openrig.md)
 
 **Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.**
 
@@ -271,7 +251,7 @@
 
 ---
 
-### 14. [makecindy&#x2F;cindy](../../repos/makecindy/cindy.md)
+### 13. [makecindy&#x2F;cindy](../../repos/makecindy/cindy.md)
 
 **Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。**
 
@@ -291,7 +271,7 @@
 
 ---
 
-### 15. [uber&#x2F;ADR](../../repos/uber/ADR.md)
+### 14. [uber&#x2F;ADR](../../repos/uber/ADR.md)
 
 **ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.**
 
@@ -308,6 +288,26 @@
 **Best for**: 
 
 [View Passport](../../repos/uber/ADR.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;uber&#x2F;ADR)
+
+---
+
+### 15. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
+
+**Multi-account API gateway for Grok Build, Grok Web, and Grok Console**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 7,848 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 86/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 6, 2026 |
+
+**Why it's a gem**: High growth velocity (+59 stars&#x2F;day) • Trending 6 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/chenyme/grok2api.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;chenyme&#x2F;grok2api)
 
 ---
 
@@ -331,27 +331,7 @@
 
 ---
 
-### 17. [willfaust&#x2F;Madeira](../../repos/willfaust/Madeira.md)
-
-**Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,932 |
-| 💻 **Language** | C |
-| 🏆 **Gem Score** | 86/100 |
-| 📈 **Trending Days** | 11 |
-| 📅 **First Seen** | Sep 9, 2026 |
-
-**Why it's a gem**: High growth velocity (+133 stars&#x2F;day) • Trending 11 times • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/willfaust/Madeira.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;willfaust&#x2F;Madeira)
-
----
-
-### 18. [BuilderIO&#x2F;agent-native](../../repos/BuilderIO/agent-native.md)
+### 17. [BuilderIO&#x2F;agent-native](../../repos/BuilderIO/agent-native.md)
 
 **A framework for building agentic apps**
 
@@ -371,7 +351,7 @@
 
 ---
 
-### 19. [weave-os&#x2F;router](../../repos/weave-os/router.md)
+### 18. [weave-os&#x2F;router](../../repos/weave-os/router.md)
 
 **Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.**
 
@@ -391,23 +371,43 @@
 
 ---
 
-### 20. [ashhart&#x2F;TensorFold](../../repos/ashhart/TensorFold.md)
+### 19. [wuwangzhang1216&#x2F;ChinaTextbookStudyFree](../../repos/wuwangzhang1216/ChinaTextbookStudyFree.md)
 
-**LLM Inference Engine for Metal, CUDA and Vulkan.**
+**给所有中国小学生打造的免费学习平台，从一年级到六年级所有的课本知识点全汇总。**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1,537 |
-| 💻 **Language** | Zig |
+| ⭐ **Stars** | 863 |
+| 💻 **Language** | TypeScript |
 | 🏆 **Gem Score** | 86/100 |
-| 📈 **Trending Days** | 15 |
-| 📅 **First Seen** | Sep 28, 2026 |
+| 📈 **Trending Days** | 7 |
+| 📅 **First Seen** | Oct 12, 2026 |
 
-**Why it's a gem**: Trending 15 times • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+91 stars&#x2F;day) • Trending 7 times • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/ashhart/TensorFold.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;ashhart&#x2F;TensorFold)
+[View Passport](../../repos/wuwangzhang1216/ChinaTextbookStudyFree.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;wuwangzhang1216&#x2F;ChinaTextbookStudyFree)
+
+---
+
+### 20. [Armur-Ai&#x2F;Pentest-Swarm-AI](../../repos/Armur-Ai/Pentest-Swarm-AI.md)
+
+**Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,961 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 85/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 25, 2026 |
+
+**Why it's a gem**: High growth velocity (+42 stars&#x2F;day) • Trending 6 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/Armur-Ai/Pentest-Swarm-AI.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Armur-Ai&#x2F;Pentest-Swarm-AI)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-24T21:01:07.596Z*  
+*Generated: 2026-11-25T21:01:12.918Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

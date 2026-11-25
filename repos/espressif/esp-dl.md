@@ -14,11 +14,11 @@
 | **License** | MIT |
 | **Stars** | ⭐ 1,233 |
 | **Forks** | 🍴 235 |
-| **Trending Days** | 48 |
+| **Trending Days** | 49 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 24, 2026 |
+| **Last Seen** | Nov 25, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 48
-- **Longest Streak**: 8 days
+- **Trending Days**: 49
+- **Longest Streak**: 9 days
 
 ---
 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-24T21:01:03.246Z*  
-*Data from 48 trending reports*
+*Last updated: 2026-11-25T21:01:07.949Z*  
+*Data from 49 trending reports*

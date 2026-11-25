@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 17,226 |
-| **Forks** | 🍴 1,045 |
-| **Trending Days** | 11 |
+| **Stars** | ⭐ 18,151 |
+| **Forks** | 🍴 1,081 |
+| **Trending Days** | 12 |
 | **Peak Rank** | #15 |
 
 | **First Seen** | Oct 11, 2026 |
-| **Last Seen** | Nov 24, 2026 |
+| **Last Seen** | Nov 25, 2026 |
 
 
 ---
@@ -49,12 +49,13 @@
 **Nov 22, 2026** — Rank #15 (+690 ⭐)  
 **Nov 23, 2026** — Rank #15 (+1078 ⭐)  
 **Nov 24, 2026** — Rank #15 (+1102 ⭐)  
+**Nov 25, 2026** — Rank #15 (+950 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #15
-- **Trending Days**: 11
-- **Longest Streak**: 7 days
+- **Trending Days**: 12
+- **Longest Streak**: 8 days
 
 ---
 
@@ -97,5 +98,5 @@
 
 ---
 
-*Last updated: 2026-11-24T21:01:06.655Z*  
-*Data from 11 trending reports*
+*Last updated: 2026-11-25T21:01:11.780Z*  
+*Data from 12 trending reports*

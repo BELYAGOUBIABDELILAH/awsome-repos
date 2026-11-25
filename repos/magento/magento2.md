@@ -13,12 +13,12 @@
 | **Language** | PHP |
 | **License** | OSL-3.0 |
 | **Stars** | ⭐ 12,245 |
-| **Forks** | 🍴 9,353 |
-| **Trending Days** | 24 |
+| **Forks** | 🍴 9,354 |
+| **Trending Days** | 25 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Nov 24, 2026 |
+| **Last Seen** | Nov 25, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 24
-- **Longest Streak**: 6 days
+- **Trending Days**: 25
+- **Longest Streak**: 7 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-24T21:01:03.795Z*  
-*Data from 24 trending reports*
+*Last updated: 2026-11-25T21:01:08.665Z*  
+*Data from 25 trending reports*

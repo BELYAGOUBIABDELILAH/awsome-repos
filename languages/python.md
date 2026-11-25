@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 74,107 | 2026-08-01 | 19 |
+| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 75,017 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 151,271 | 2026-08-14 | 19 |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 151,368 | 2026-08-14 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 64,635 | 2026-08-15 | 20 |
+| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 65,595 | 2026-08-15 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tracer-Cloud/opensre](../repos/Tracer-Cloud/opensre.md) | ⭐ 15,137 | 2026-08-24 | 10 |
+| [Tracer-Cloud/opensre](../repos/Tracer-Cloud/opensre.md) | ⭐ 15,482 | 2026-08-24 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 43,007 | 2026-08-29 | 16 |
+| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 43,182 | 2026-08-29 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Imbad0202/academic-research-skills](../repos/Imbad0202/academic-research-skills.md) | ⭐ 58,419 | 2026-09-01 | 13 |
+| [Imbad0202/academic-research-skills](../repos/Imbad0202/academic-research-skills.md) | ⭐ 58,552 | 2026-09-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jingyaogong/minimind](../repos/jingyaogong/minimind.md) | ⭐ 70,115 | 2026-09-01 | 12 |
+| [jingyaogong/minimind](../repos/jingyaogong/minimind.md) | ⭐ 70,890 | 2026-09-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 198,255 | 2026-09-07 | 9 |
+| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 198,447 | 2026-09-07 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhouxiaoka/autoclip](../repos/zhouxiaoka/autoclip.md) | ⭐ 15,258 | 2026-09-20 | 9 |
+| [zhouxiaoka/autoclip](../repos/zhouxiaoka/autoclip.md) | ⭐ 16,091 | 2026-09-20 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [superdesigndev/treg](../repos/superdesigndev/treg.md) | ⭐ 8,862 | 2026-09-22 | 14 |
+| [superdesigndev/treg](../repos/superdesigndev/treg.md) | ⭐ 8,969 | 2026-09-22 | 15 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [higgsfield-ai/skills](../repos/higgsfield-ai/skills.md) | ⭐ 1,672 | 2026-10-26 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [homeassistant-ai/ha-mcp](../repos/homeassistant-ai/ha-mcp.md) | ⭐ 7,675 | 2026-10-26 | Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [HarnessRouter/harnessrouter](../repos/HarnessRouter/harnessrouter.md) | ⭐ 3,688 | 2026-10-26 | HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [HKUDS/AutoSwarm](../repos/HKUDS/AutoSwarm.md) | ⭐ 2,626 | 2026-10-27 | AutoSwarm: Unify All Your Agents. Break Context Barriers. Watch Them Work Together for You. |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [karpathy/nanochat](../repos/karpathy/nanochat.md) | ⭐ 60,124 | 2026-11-02 | The best ChatGPT that $100 can buy. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Usagi-org/ai-goofish-monitor](../repos/Usagi-org/ai-goofish-monitor.md) | ⭐ 18,312 | 2026-11-03 | 基于 Playwright 和AI实现的闲鱼多任务实时&#x2F;定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [AminBlg/SimpleEnglish](../repos/AminBlg/SimpleEnglish.md) | ⭐ 4,371 | 2026-11-03 | Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Yuan1z0825/nature-skills](../repos/Yuan1z0825/nature-skills.md) | ⭐ 52,032 | 2026-11-03 | 符合nature论文学术表达和科研绘图的Skill |
 
 
 ---
@@ -95,11 +95,11 @@
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 243,012 | 2026-08-01 | 17 |
 | [TheAlgorithms/Python](../repos/TheAlgorithms/Python.md) | ⭐ 226,056 | 2026-11-12 | 1 |
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 198,857 | 2026-08-02 | 8 |
-| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 198,255 | 2026-09-07 | 9 |
+| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 198,447 | 2026-09-07 | 10 |
 | [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 193,049 | 2026-08-11 | 13 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,775 | 2026-08-06 | 9 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 169,239 | 2026-07-31 | 12 |
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 151,271 | 2026-08-14 | 19 |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 151,368 | 2026-08-14 | 20 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 149,584 | 2026-08-03 | 12 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 143,038 | 2026-08-04 | 8 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 141,991 | 2026-08-05 | 13 |
@@ -116,11 +116,11 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [github/copilot-cli](../repos/github/copilot-cli.md) | 25 | ⭐ 11,351 | 2026-08-04 | 2026-11-04 |
-| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | 20 | ⭐ 64,635 | 2026-08-15 | 2026-11-24 |
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | 19 | ⭐ 74,107 | 2026-08-01 | 2026-11-24 |
+| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | 21 | ⭐ 65,595 | 2026-08-15 | 2026-11-25 |
+| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | 20 | ⭐ 75,017 | 2026-08-01 | 2026-11-25 |
+| [github/spec-kit](../repos/github/spec-kit.md) | 20 | ⭐ 151,368 | 2026-08-14 | 2026-11-25 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 19 | ⭐ 139,731 | 2026-08-01 | 2026-11-05 |
 | [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 19 | ⭐ 70,192 | 2026-08-03 | 2026-11-14 |
-| [github/spec-kit](../repos/github/spec-kit.md) | 19 | ⭐ 151,271 | 2026-08-14 | 2026-11-24 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 17 | ⭐ 243,012 | 2026-08-01 | 2026-09-07 |
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | 17 | ⭐ 132,217 | 2026-08-04 | 2026-11-11 |
 | [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | 17 | ⭐ 47,286 | 2026-08-07 | 2026-11-14 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-24T21:01:01.130Z*
+*Last updated: 2026-11-25T21:01:05.187Z*

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T21:01:07.819Z",
+  "generated_at": "2026-11-25T21:01:13.200Z",
   "total_count": 100,
   "repositories": [
     {
@@ -1109,6 +1109,19 @@
     },
     {
       "rank": 86,
+      "full_name": "samuelgursky/davinci-resolve-mcp",
+      "owner": "samuelgursky",
+      "name": "davinci-resolve-mcp",
+      "stars": 4374,
+      "estimated_initial_stars": 4274,
+      "growth": 100,
+      "growth_rate": 100,
+      "language": "Python",
+      "first_seen": "2026-11-24",
+      "trending_days": 2
+    },
+    {
+      "rank": 87,
       "full_name": "cloudflare/mcp-server-cloudflare",
       "owner": "cloudflare",
       "name": "mcp-server-cloudflare",
@@ -1121,7 +1134,7 @@
       "trending_days": 2
     },
     {
-      "rank": 87,
+      "rank": 88,
       "full_name": "folke/flash.nvim",
       "owner": "folke",
       "name": "flash.nvim",
@@ -1134,7 +1147,7 @@
       "trending_days": 2
     },
     {
-      "rank": 88,
+      "rank": 89,
       "full_name": "rhysd/actionlint",
       "owner": "rhysd",
       "name": "actionlint",
@@ -1147,7 +1160,7 @@
       "trending_days": 2
     },
     {
-      "rank": 89,
+      "rank": 90,
       "full_name": "surge-synthesizer/surge",
       "owner": "surge-synthesizer",
       "name": "surge",
@@ -1160,7 +1173,7 @@
       "trending_days": 2
     },
     {
-      "rank": 90,
+      "rank": 91,
       "full_name": "microsoft/AI-Engineering-Coach",
       "owner": "microsoft",
       "name": "AI-Engineering-Coach",
@@ -1173,7 +1186,7 @@
       "trending_days": 2
     },
     {
-      "rank": 91,
+      "rank": 92,
       "full_name": "openssh/openssh-portable",
       "owner": "openssh",
       "name": "openssh-portable",
@@ -1186,7 +1199,7 @@
       "trending_days": 2
     },
     {
-      "rank": 92,
+      "rank": 93,
       "full_name": "f4exb/sdrangel",
       "owner": "f4exb",
       "name": "sdrangel",
@@ -1199,7 +1212,7 @@
       "trending_days": 2
     },
     {
-      "rank": 93,
+      "rank": 94,
       "full_name": "redlib-org/redlib",
       "owner": "redlib-org",
       "name": "redlib",
@@ -1212,7 +1225,7 @@
       "trending_days": 2
     },
     {
-      "rank": 94,
+      "rank": 95,
       "full_name": "ZiggyCreatures/FusionCache",
       "owner": "ZiggyCreatures",
       "name": "FusionCache",
@@ -1225,7 +1238,7 @@
       "trending_days": 2
     },
     {
-      "rank": 95,
+      "rank": 96,
       "full_name": "jwt/ruby-jwt",
       "owner": "jwt",
       "name": "ruby-jwt",
@@ -1238,7 +1251,7 @@
       "trending_days": 2
     },
     {
-      "rank": 96,
+      "rank": 97,
       "full_name": "CopilotC-Nvim/CopilotChat.nvim",
       "owner": "CopilotC-Nvim",
       "name": "CopilotChat.nvim",
@@ -1251,7 +1264,7 @@
       "trending_days": 2
     },
     {
-      "rank": 97,
+      "rank": 98,
       "full_name": "erigontech/erigon",
       "owner": "erigontech",
       "name": "erigon",
@@ -1264,7 +1277,7 @@
       "trending_days": 2
     },
     {
-      "rank": 98,
+      "rank": 99,
       "full_name": "tutti-os/tutti",
       "owner": "tutti-os",
       "name": "tutti",
@@ -1277,7 +1290,7 @@
       "trending_days": 2
     },
     {
-      "rank": 99,
+      "rank": 100,
       "full_name": "AIDotNet/OpenDeepWiki",
       "owner": "AIDotNet",
       "name": "OpenDeepWiki",
@@ -1287,19 +1300,6 @@
       "growth_rate": 100,
       "language": "C#",
       "first_seen": "2026-08-06",
-      "trending_days": 2
-    },
-    {
-      "rank": 100,
-      "full_name": "bowenliang123/dsh-context",
-      "owner": "bowenliang123",
-      "name": "dsh-context",
-      "stars": 3474,
-      "estimated_initial_stars": 3374,
-      "growth": 100,
-      "growth_rate": 100,
-      "language": "TypeScript",
-      "first_seen": "2026-10-22",
       "trending_days": 2
     }
   ]

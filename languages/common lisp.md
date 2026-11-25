@@ -23,9 +23,6 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [nodecode-ai/nodecode](../repos/nodecode-ai/nodecode.md) | ⭐ 270 | 2026-10-26 | A living agent organism in Lisp. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [jsk-enshu/robot-programming](../repos/jsk-enshu/robot-programming.md) | ⭐ 42 | 2026-10-28 | This is exercise for robot-programming. |
 
 
@@ -71,4 +68,4 @@
 
 ---
 
-*Last updated: 2026-11-24T21:01:01.064Z*
+*Last updated: 2026-11-25T21:01:05.103Z*

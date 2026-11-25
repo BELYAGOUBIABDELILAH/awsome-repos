@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-24T21:01:07.843Z",
+  "generated_at": "2026-11-25T21:01:13.224Z",
   "total_topics": 100,
   "topics": [
     {
       "topic": "hacktoberfest",
-      "repository_count": 309,
+      "repository_count": 307,
       "percentage": 6.6
     },
     {
@@ -223,12 +223,12 @@
       "percentage": 1.2
     },
     {
-      "topic": "dotnet",
+      "topic": "agent-skills",
       "repository_count": 57,
       "percentage": 1.2
     },
     {
-      "topic": "agent-skills",
+      "topic": "dotnet",
       "repository_count": 57,
       "percentage": 1.2
     },
@@ -348,12 +348,12 @@
       "percentage": 0.8
     },
     {
-      "topic": "vim",
+      "topic": "api",
       "repository_count": 38,
       "percentage": 0.8
     },
     {
-      "topic": "api",
+      "topic": "vim",
       "repository_count": 38,
       "percentage": 0.8
     },

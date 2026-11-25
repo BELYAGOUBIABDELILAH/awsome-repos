@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Elixir |
 | **License** | MIT |
-| **Stars** | ⭐ 23,225 |
+| **Stars** | ⭐ 23,228 |
 | **Forks** | 🍴 3,147 |
-| **Trending Days** | 63 |
+| **Trending Days** | 64 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Nov 24, 2026 |
+| **Last Seen** | Nov 25, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 63
-- **Longest Streak**: 6 days
+- **Trending Days**: 64
+- **Longest Streak**: 7 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-24T21:01:03.666Z*  
-*Data from 63 trending reports*
+*Last updated: 2026-11-25T21:01:08.491Z*  
+*Data from 64 trending reports*

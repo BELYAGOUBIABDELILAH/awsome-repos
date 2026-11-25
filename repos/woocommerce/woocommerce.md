@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | PHP |
 | **License** | GPL-2.0 |
-| **Stars** | ⭐ 10,610 |
+| **Stars** | ⭐ 10,611 |
 | **Forks** | 🍴 10,670 |
-| **Trending Days** | 36 |
+| **Trending Days** | 37 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 6, 2026 |
-| **Last Seen** | Nov 24, 2026 |
+| **Last Seen** | Nov 25, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 36
+- **Trending Days**: 37
 - **Longest Streak**: 7 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Average | Basic documentation available |
-| **Community** | Very Active | 10,610+ stars, strong contributor base |
+| **Community** | Very Active | 10,611+ stars, strong contributor base |
 | **Maturity** | Stable | Mature with proven track record |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-24T21:01:04.093Z*  
-*Data from 36 trending reports*
+*Last updated: 2026-11-25T21:01:09.037Z*  
+*Data from 37 trending reports*

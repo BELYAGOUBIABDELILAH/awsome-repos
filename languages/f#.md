@@ -21,10 +21,8 @@
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [fsprojects/FAKE](../repos/fsprojects/FAKE.md) | ⭐ 1,327 | 2026-10-26 | FAKE - F# Make |
 
+*No new F# repositories in the last 30 days*
 
 ---
 
@@ -65,4 +63,4 @@
 
 ---
 
-*Last updated: 2026-11-24T21:01:01.082Z*
+*Last updated: 2026-11-25T21:01:05.124Z*

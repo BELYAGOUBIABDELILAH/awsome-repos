@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,515 | 2026-08-01 | 22 |
+| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,521 | 2026-08-01 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 14,069 | 2026-08-01 | 23 |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 14,071 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 30,334 | 2026-08-04 | 32 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 30,355 | 2026-08-04 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 52,525 | 2026-08-04 | 21 |
+| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 52,539 | 2026-08-04 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openjdk/jdk](../repos/openjdk/jdk.md) | ⭐ 23,573 | 2026-08-04 | 17 |
+| [openjdk/jdk](../repos/openjdk/jdk.md) | ⭐ 23,578 | 2026-08-04 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [StarRocks/starrocks](../repos/StarRocks/starrocks.md) | ⭐ 12,283 | 2026-08-05 | 22 |
+| [StarRocks/starrocks](../repos/StarRocks/starrocks.md) | ⭐ 12,290 | 2026-08-05 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [langchain4j/langchain4j](../repos/langchain4j/langchain4j.md) | ⭐ 13,440 | 2026-08-05 | 18 |
+| [langchain4j/langchain4j](../repos/langchain4j/langchain4j.md) | ⭐ 13,445 | 2026-08-05 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/seatunnel](../repos/apache/seatunnel.md) | ⭐ 9,830 | 2026-08-19 | 14 |
+| [apache/seatunnel](../repos/apache/seatunnel.md) | ⭐ 9,835 | 2026-08-19 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/fineract](../repos/apache/fineract.md) | ⭐ 2,656 | 2026-08-27 | 14 |
+| [apache/fineract](../repos/apache/fineract.md) | ⭐ 2,664 | 2026-08-27 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AbdurazaaqMohammed/MP-Manager](../repos/AbdurazaaqMohammed/MP-Manager.md) | ⭐ 685 | 2026-09-27 | 14 |
+| [AbdurazaaqMohammed/MP-Manager](../repos/AbdurazaaqMohammed/MP-Manager.md) | ⭐ 694 | 2026-09-27 | 15 |
 
 
 ---
@@ -95,7 +95,7 @@
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 67,230 | 2026-08-04 | 14 |
 | [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,508 | 2026-08-08 | 3 |
 | [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,311 | 2026-08-08 | 12 |
-| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 52,525 | 2026-08-04 | 21 |
+| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 52,539 | 2026-08-04 | 22 |
 | [google/guava](../repos/google/guava.md) | ⭐ 51,912 | 2026-08-02 | 12 |
 | [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 51,593 | 2026-08-12 | 12 |
 | [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 48,481 | 2026-08-07 | 14 |
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 34 | ⭐ 6,364 | 2026-08-05 | 2026-11-13 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 33 | ⭐ 30,355 | 2026-08-04 | 2026-11-25 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 32 | ⭐ 99,333 | 2026-08-03 | 2026-11-10 |
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 32 | ⭐ 30,334 | 2026-08-04 | 2026-11-24 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 28 | ⭐ 78,658 | 2026-08-02 | 2026-11-18 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 26 | ⭐ 28,137 | 2026-08-02 | 2026-11-17 |
 | [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 25 | ⭐ 36,419 | 2026-08-04 | 2026-11-17 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 25 | ⭐ 81,881 | 2026-08-04 | 2026-11-18 |
-| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 23 | ⭐ 14,069 | 2026-08-01 | 2026-11-24 |
-| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | 22 | ⭐ 4,515 | 2026-08-01 | 2026-11-24 |
-| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 22 | ⭐ 43,363 | 2026-08-05 | 2026-11-13 |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 24 | ⭐ 14,071 | 2026-08-01 | 2026-11-25 |
+| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | 23 | ⭐ 4,521 | 2026-08-01 | 2026-11-25 |
+| [StarRocks/starrocks](../repos/StarRocks/starrocks.md) | 23 | ⭐ 12,290 | 2026-08-05 | 2026-11-25 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-24T21:01:01.096Z*
+*Last updated: 2026-11-25T21:01:05.142Z*
