@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T21:01:13.200Z",
+  "generated_at": "2026-11-26T21:01:05.398Z",
   "total_count": 100,
   "repositories": [
     {
@@ -1031,6 +1031,19 @@
     },
     {
       "rank": 80,
+      "full_name": "paullarionov/claude-certified-architect",
+      "owner": "paullarionov",
+      "name": "claude-certified-architect",
+      "stars": 5362,
+      "estimated_initial_stars": 5262,
+      "growth": 100,
+      "growth_rate": 100,
+      "language": "HTML",
+      "first_seen": "2026-11-25",
+      "trending_days": 2
+    },
+    {
+      "rank": 81,
       "full_name": "apache/opendal",
       "owner": "apache",
       "name": "opendal",
@@ -1043,7 +1056,7 @@
       "trending_days": 2
     },
     {
-      "rank": 81,
+      "rank": 82,
       "full_name": "higgsfield-ai/higgsfield",
       "owner": "higgsfield-ai",
       "name": "higgsfield",
@@ -1056,7 +1069,7 @@
       "trending_days": 2
     },
     {
-      "rank": 82,
+      "rank": 83,
       "full_name": "beclab/Olares",
       "owner": "beclab",
       "name": "Olares",
@@ -1069,7 +1082,7 @@
       "trending_days": 2
     },
     {
-      "rank": 83,
+      "rank": 84,
       "full_name": "lightvector/KataGo",
       "owner": "lightvector",
       "name": "KataGo",
@@ -1082,7 +1095,7 @@
       "trending_days": 2
     },
     {
-      "rank": 84,
+      "rank": 85,
       "full_name": "Minglink/dsh-infinite-gen-5",
       "owner": "Minglink",
       "name": "dsh-infinite-gen-5",
@@ -1095,7 +1108,7 @@
       "trending_days": 2
     },
     {
-      "rank": 85,
+      "rank": 86,
       "full_name": "blackcandy-org/blackcandy",
       "owner": "blackcandy-org",
       "name": "blackcandy",
@@ -1105,19 +1118,6 @@
       "growth_rate": 100,
       "language": "Ruby",
       "first_seen": "2026-08-14",
-      "trending_days": 2
-    },
-    {
-      "rank": 86,
-      "full_name": "samuelgursky/davinci-resolve-mcp",
-      "owner": "samuelgursky",
-      "name": "davinci-resolve-mcp",
-      "stars": 4374,
-      "estimated_initial_stars": 4274,
-      "growth": 100,
-      "growth_rate": 100,
-      "language": "Python",
-      "first_seen": "2026-11-24",
       "trending_days": 2
     },
     {

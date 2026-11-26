@@ -72,7 +72,7 @@
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
-| **Maturity** | Experimental | New project, evolving rapidly |
+| **Maturity** | Stable | Established project |
 | **Maintenance** | Slow | Occasional updates |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
@@ -92,5 +92,5 @@
 
 ---
 
-*Last updated: 2026-11-25T21:01:09.106Z*  
+*Last updated: 2026-11-26T21:01:01.935Z*  
 *Data from 5 trending reports*

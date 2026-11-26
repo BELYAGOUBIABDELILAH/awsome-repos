@@ -131,27 +131,7 @@
 
 ---
 
-### 7. [JetBrains&#x2F;thinkrail](../../repos/JetBrains/thinkrail.md)
-
-**Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 5,934 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Oct 25, 2026 |
-
-**Why it's a gem**: High growth velocity (+1844 stars&#x2F;day) • Trending 5 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/JetBrains/thinkrail.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;JetBrains&#x2F;thinkrail)
-
----
-
-### 8. [androoAGI&#x2F;starnet](../../repos/androoAGI/starnet.md)
+### 7. [androoAGI&#x2F;starnet](../../repos/androoAGI/starnet.md)
 
 **A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.**
 
@@ -171,27 +151,27 @@
 
 ---
 
-### 9. [apache&#x2F;maka](../../repos/apache/maka.md)
+### 8. [JetBrains&#x2F;thinkrail](../../repos/JetBrains/thinkrail.md)
 
-**Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.**
+**Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5,811 |
+| ⭐ **Stars** | 5,934 |
 | 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 88/100 |
-| 📈 **Trending Days** | 9 |
-| 📅 **First Seen** | Aug 20, 2026 |
+| 🏆 **Gem Score** | 89/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Oct 25, 2026 |
 
-**Why it's a gem**: High growth velocity (+363 stars&#x2F;day) • Trending 9 times • Strong community engagement
+**Why it's a gem**: High growth velocity (+1844 stars&#x2F;day) • Trending 5 times • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/apache/maka.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;apache&#x2F;maka)
+[View Passport](../../repos/JetBrains/thinkrail.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;JetBrains&#x2F;thinkrail)
 
 ---
 
-### 10. [alsk1992&#x2F;CloddsBot](../../repos/alsk1992/CloddsBot.md)
+### 9. [alsk1992&#x2F;CloddsBot](../../repos/alsk1992/CloddsBot.md)
 
 **Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.**
 
@@ -211,7 +191,7 @@
 
 ---
 
-### 11. [mg-chao&#x2F;snow-apps](../../repos/mg-chao/snow-apps.md)
+### 10. [mg-chao&#x2F;snow-apps](../../repos/mg-chao/snow-apps.md)
 
 **Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.**
 
@@ -231,27 +211,27 @@
 
 ---
 
-### 12. [mvschwarz&#x2F;openrig](../../repos/mvschwarz/openrig.md)
+### 11. [apache&#x2F;maka](../../repos/apache/maka.md)
 
-**Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.**
+**Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4,646 |
+| ⭐ **Stars** | 5,811 |
 | 💻 **Language** | TypeScript |
 | 🏆 **Gem Score** | 87/100 |
-| 📈 **Trending Days** | 7 |
-| 📅 **First Seen** | Sep 25, 2026 |
+| 📈 **Trending Days** | 9 |
+| 📅 **First Seen** | Aug 20, 2026 |
 
-**Why it's a gem**: High growth velocity (+943 stars&#x2F;day) • Trending 7 times • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+363 stars&#x2F;day) • Trending 9 times • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/mvschwarz/openrig.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mvschwarz&#x2F;openrig)
+[View Passport](../../repos/apache/maka.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;apache&#x2F;maka)
 
 ---
 
-### 13. [makecindy&#x2F;cindy](../../repos/makecindy/cindy.md)
+### 12. [makecindy&#x2F;cindy](../../repos/makecindy/cindy.md)
 
 **Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。**
 
@@ -271,7 +251,7 @@
 
 ---
 
-### 14. [uber&#x2F;ADR](../../repos/uber/ADR.md)
+### 13. [uber&#x2F;ADR](../../repos/uber/ADR.md)
 
 **ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.**
 
@@ -291,7 +271,7 @@
 
 ---
 
-### 15. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
+### 14. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
 
 **Multi-account API gateway for Grok Build, Grok Web, and Grok Console**
 
@@ -311,7 +291,7 @@
 
 ---
 
-### 16. [tbphp&#x2F;gpt-load](../../repos/tbphp/gpt-load.md)
+### 15. [tbphp&#x2F;gpt-load](../../repos/tbphp/gpt-load.md)
 
 **Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。**
 
@@ -331,7 +311,7 @@
 
 ---
 
-### 17. [BuilderIO&#x2F;agent-native](../../repos/BuilderIO/agent-native.md)
+### 16. [BuilderIO&#x2F;agent-native](../../repos/BuilderIO/agent-native.md)
 
 **A framework for building agentic apps**
 
@@ -351,27 +331,27 @@
 
 ---
 
-### 18. [weave-os&#x2F;router](../../repos/weave-os/router.md)
+### 17. [mvschwarz&#x2F;openrig](../../repos/mvschwarz/openrig.md)
 
-**Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.**
+**Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5,557 |
-| 💻 **Language** | Go |
+| ⭐ **Stars** | 4,646 |
+| 💻 **Language** | TypeScript |
 | 🏆 **Gem Score** | 86/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Sep 19, 2026 |
+| 📈 **Trending Days** | 7 |
+| 📅 **First Seen** | Sep 25, 2026 |
 
-**Why it's a gem**: High growth velocity (+83 stars&#x2F;day) • Trending 5 times • Strong community engagement
+**Why it's a gem**: High growth velocity (+943 stars&#x2F;day) • Trending 7 times • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/weave-os/router.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;weave-os&#x2F;router)
+[View Passport](../../repos/mvschwarz/openrig.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mvschwarz&#x2F;openrig)
 
 ---
 
-### 19. [wuwangzhang1216&#x2F;ChinaTextbookStudyFree](../../repos/wuwangzhang1216/ChinaTextbookStudyFree.md)
+### 18. [wuwangzhang1216&#x2F;ChinaTextbookStudyFree](../../repos/wuwangzhang1216/ChinaTextbookStudyFree.md)
 
 **给所有中国小学生打造的免费学习平台，从一年级到六年级所有的课本知识点全汇总。**
 
@@ -391,7 +371,7 @@
 
 ---
 
-### 20. [Armur-Ai&#x2F;Pentest-Swarm-AI](../../repos/Armur-Ai/Pentest-Swarm-AI.md)
+### 19. [Armur-Ai&#x2F;Pentest-Swarm-AI](../../repos/Armur-Ai/Pentest-Swarm-AI.md)
 
 **Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.**
 
@@ -411,6 +391,26 @@
 
 ---
 
+### 20. [willfaust&#x2F;Madeira](../../repos/willfaust/Madeira.md)
+
+**Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,932 |
+| 💻 **Language** | C |
+| 🏆 **Gem Score** | 85/100 |
+| 📈 **Trending Days** | 11 |
+| 📅 **First Seen** | Sep 9, 2026 |
+
+**Why it's a gem**: High growth velocity (+133 stars&#x2F;day) • Trending 11 times • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/willfaust/Madeira.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;willfaust&#x2F;Madeira)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-25T21:01:12.918Z*  
+*Generated: 2026-11-26T21:01:05.177Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

@@ -9,7 +9,7 @@
 - **Total Repositories**: 624
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-07
-- **Average Stars**: 13706
+- **Average Stars**: 13709
 
 ---
 
@@ -17,28 +17,28 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,626 | TypeScript |  |
+| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,661 | TypeScript |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 22,052 | PHP |  |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 22,065 | PHP |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,864 | Ruby |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,868 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,666 | Scala |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,671 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,621 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,634 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 79,546 | Dart |  |
+| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 79,599 | Dart |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,533 | Clojure |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,597 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,946 | C |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,987 | C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 28 | Objective-C |  |
@@ -70,45 +70,39 @@
 
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,626 | TypeScript | 8 |
+| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,661 | TypeScript | 9 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 22,052 | PHP | 7 |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 22,065 | PHP | 8 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,864 | Ruby | 14 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,868 | Ruby | 15 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,666 | Scala | 10 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,671 | Scala | 11 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,621 | Scala | 24 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,634 | Scala | 25 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 79,546 | Dart | 7 |
+| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 79,599 | Dart | 8 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,533 | Clojure | 24 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,597 | Clojure | 25 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,946 | C | 9 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,987 | C | 10 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 28 | Objective-C | 9 |
+| [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 28 | Objective-C | 10 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [google/promises](../repos/google/promises.md) | ⭐ 3,826 | Objective-C | 9 |
+| [google/promises](../repos/google/promises.md) | ⭐ 3,826 | Objective-C | 10 |
 
 ---
 
 ## 🆕 New This Month
 
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [galaxy-s10/billd-desk](../repos/galaxy-s10/billd-desk.md) | ⭐ 8,956 | TypeScript | 2026-10-27 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [unoplatform/uno](../repos/unoplatform/uno.md) | ⭐ 10,103 | C# | 2026-10-27 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [DavidHDev/react-bits](../repos/DavidHDev/react-bits.md) | ⭐ 50,534 | JavaScript | 2026-10-28 |
@@ -133,10 +127,20 @@
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [AprDeci/bili-music](../repos/AprDeci/bili-music.md) | ⭐ 481 | Dart | 2026-10-29 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [Duecki1/CalibRaw](../repos/Duecki1/CalibRaw.md) | ⭐ 287 | Rust | 2026-11-02 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [mayswind/ezbookkeeping](../repos/mayswind/ezbookkeeping.md) | ⭐ 5,957 | Go | 2026-11-02 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-11-26](../archive/2026/11/2026-11-26.md)
+- 45 repositories trending
+- Top: localsend&#x2F;localsend
 
 ### [2026-11-25](../archive/2026/11/2026-11-25.md)
 - 45 repositories trending
@@ -162,10 +166,6 @@
 - 46 repositories trending
 - Top: localsend&#x2F;localsend
 
-### [2026-11-19](../archive/2026/11/2026-11-19.md)
-- 46 repositories trending
-- Top: localsend&#x2F;localsend
-
 
 ---
 
@@ -175,16 +175,16 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 97 days | 2026-08-01 | 2026-11-25 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 94 days | 2026-08-01 | 2026-11-25 |
-| [gradle/gradle](../repos/gradle/gradle.md) | 90 days | 2026-08-01 | 2026-11-25 |
-| [vlang/v](../repos/vlang/v.md) | 90 days | 2026-08-01 | 2026-11-25 |
+| [apache/spark](../repos/apache/spark.md) | 98 days | 2026-08-01 | 2026-11-26 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 95 days | 2026-08-01 | 2026-11-26 |
+| [gradle/gradle](../repos/gradle/gradle.md) | 91 days | 2026-08-01 | 2026-11-26 |
+| [vlang/v](../repos/vlang/v.md) | 91 days | 2026-08-01 | 2026-11-26 |
 | [vim/vim](../repos/vim/vim.md) | 76 days | 2026-08-01 | 2026-11-18 |
-| [joernio/joern](../repos/joernio/joern.md) | 73 days | 2026-08-01 | 2026-11-25 |
-| [google/promises](../repos/google/promises.md) | 67 days | 2026-08-01 | 2026-11-25 |
+| [joernio/joern](../repos/joernio/joern.md) | 74 days | 2026-08-01 | 2026-11-26 |
+| [google/promises](../repos/google/promises.md) | 68 days | 2026-08-01 | 2026-11-26 |
 | [apple/swift-crypto](../repos/apple/swift-crypto.md) | 63 days | 2026-08-01 | 2026-11-14 |
 | [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 61 days | 2026-08-01 | 2026-11-18 |
-| [flutter/flutter](../repos/flutter/flutter.md) | 57 days | 2026-08-01 | 2026-11-18 |
+| [ruby/ruby](../repos/ruby/ruby.md) | 57 days | 2026-08-01 | 2026-11-26 |
 
 ---
 
@@ -314,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-11-25T21:01:04.796Z*
+*Last updated: 2026-11-26T21:00:58.646Z*

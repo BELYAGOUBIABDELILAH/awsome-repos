@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-25T21:01:13.224Z",
+  "generated_at": "2026-11-26T21:01:05.416Z",
   "total_topics": 100,
   "topics": [
     {
       "topic": "hacktoberfest",
       "repository_count": 307,
-      "percentage": 6.6
+      "percentage": 6.5
     },
     {
       "topic": "ai",
@@ -49,7 +49,7 @@
     },
     {
       "topic": "claude-code",
-      "repository_count": 154,
+      "repository_count": 155,
       "percentage": 3.3
     },
     {
@@ -68,12 +68,12 @@
       "percentage": 2.9
     },
     {
-      "topic": "javascript",
-      "repository_count": 134,
+      "topic": "linux",
+      "repository_count": 135,
       "percentage": 2.9
     },
     {
-      "topic": "linux",
+      "topic": "javascript",
       "repository_count": 134,
       "percentage": 2.9
     },
@@ -248,17 +248,17 @@
       "percentage": 1.2
     },
     {
+      "topic": "mcp-server",
+      "repository_count": 54,
+      "percentage": 1.2
+    },
+    {
       "topic": "agentic-ai",
       "repository_count": 53,
       "percentage": 1.1
     },
     {
       "topic": "lua",
-      "repository_count": 53,
-      "percentage": 1.1
-    },
-    {
-      "topic": "mcp-server",
       "repository_count": 53,
       "percentage": 1.1
     },
@@ -423,6 +423,11 @@
       "percentage": 0.7
     },
     {
+      "topic": "local-first",
+      "repository_count": 34,
+      "percentage": 0.7
+    },
+    {
       "topic": "streaming",
       "repository_count": 34,
       "percentage": 0.7
@@ -430,11 +435,6 @@
     {
       "topic": "nextjs",
       "repository_count": 34,
-      "percentage": 0.7
-    },
-    {
-      "topic": "local-first",
-      "repository_count": 33,
       "percentage": 0.7
     },
     {

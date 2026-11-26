@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Vue |
 | **License** | Not specified |
-| **Stars** | ⭐ 4,424 |
-| **Forks** | 🍴 912 |
-| **Trending Days** | 31 |
+| **Stars** | ⭐ 4,429 |
+| **Forks** | 🍴 914 |
+| **Trending Days** | 32 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 25, 2026 |
+| **Last Seen** | Nov 26, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 31
-- **Longest Streak**: 9 days
+- **Trending Days**: 32
+- **Longest Streak**: 10 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-25T21:01:07.866Z*  
-*Data from 31 trending reports*
+*Last updated: 2026-11-26T21:01:00.945Z*  
+*Data from 32 trending reports*

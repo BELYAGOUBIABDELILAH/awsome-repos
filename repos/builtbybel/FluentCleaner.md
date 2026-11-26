@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C# |
 | **License** | MIT |
-| **Stars** | ⭐ 7,725 |
+| **Stars** | ⭐ 7,750 |
 | **Forks** | 🍴 258 |
-| **Trending Days** | 24 |
+| **Trending Days** | 25 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Nov 25, 2026 |
+| **Last Seen** | Nov 26, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 24
-- **Longest Streak**: 8 days
+- **Trending Days**: 25
+- **Longest Streak**: 9 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-25T21:01:08.125Z*  
-*Data from 24 trending reports*
+*Last updated: 2026-11-26T21:01:01.156Z*  
+*Data from 25 trending reports*

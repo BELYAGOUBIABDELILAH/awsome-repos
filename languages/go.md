@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 57,914 | 2026-08-01 | 36 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 58,077 | 2026-08-01 | 37 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 8,351 | 2026-08-02 | 34 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 8,425 | 2026-08-02 | 35 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 29,067 | 2026-08-04 | 24 |
+| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 29,119 | 2026-08-04 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [getarcaneapp/arcane](../repos/getarcaneapp/arcane.md) | ⭐ 10,474 | 2026-08-06 | 15 |
+| [getarcaneapp/arcane](../repos/getarcaneapp/arcane.md) | ⭐ 10,562 | 2026-08-06 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 35,030 | 2026-08-06 | 25 |
+| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 35,109 | 2026-08-06 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [putyy/res-downloader](../repos/putyy/res-downloader.md) | ⭐ 21,564 | 2026-08-10 | 11 |
+| [putyy/res-downloader](../repos/putyy/res-downloader.md) | ⭐ 21,589 | 2026-08-10 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nats-io/nats-server](../repos/nats-io/nats-server.md) | ⭐ 21,148 | 2026-08-11 | 15 |
+| [nats-io/nats-server](../repos/nats-io/nats-server.md) | ⭐ 21,166 | 2026-08-11 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TencentCloud/CubeSandbox](../repos/TencentCloud/CubeSandbox.md) | ⭐ 13,452 | 2026-08-19 | 19 |
+| [TencentCloud/CubeSandbox](../repos/TencentCloud/CubeSandbox.md) | ⭐ 13,471 | 2026-08-19 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Autumn-27/ScopeSentry](../repos/Autumn-27/ScopeSentry.md) | ⭐ 2,694 | 2026-10-11 | 11 |
+| [Autumn-27/ScopeSentry](../repos/Autumn-27/ScopeSentry.md) | ⭐ 2,716 | 2026-10-11 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opensandbox-group/OpenSandbox](../repos/opensandbox-group/OpenSandbox.md) | ⭐ 17,921 | 2026-11-09 | 11 |
+| [opensandbox-group/OpenSandbox](../repos/opensandbox-group/OpenSandbox.md) | ⭐ 17,949 | 2026-11-09 | 12 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [klauspost/compress](../repos/klauspost/compress.md) | ⭐ 5,704 | 2026-10-27 | Optimized Go Compression Packages |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [plandex-ai/plandex](../repos/plandex-ai/plandex.md) | ⭐ 15,833 | 2026-10-28 | Open source AI coding agent. Designed for large projects and real world tasks. |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [influxdata/telegraf](../repos/influxdata/telegraf.md) | ⭐ 17,895 | 2026-11-04 | Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mcpjungle/MCPJungle](../repos/mcpjungle/MCPJungle.md) | ⭐ 1,585 | 2026-11-04 | One place to manage &amp; connect to all your MCP servers |
 
 
 ---
@@ -102,7 +102,7 @@
 | [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 67,560 | 2026-08-11 | 9 |
 | [minio/minio](../repos/minio/minio.md) | ⭐ 61,365 | 2026-08-12 | 2 |
 | [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | 2 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 57,914 | 2026-08-01 | 36 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 58,077 | 2026-08-01 | 37 |
 | [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 54,160 | 2026-08-20 | 24 |
 | [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,668 | 2026-08-22 | 7 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 52,173 | 2026-08-01 | 24 |
@@ -115,14 +115,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | 36 | ⭐ 57,914 | 2026-08-01 | 2026-11-25 |
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 34 | ⭐ 8,351 | 2026-08-02 | 2026-11-25 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | 37 | ⭐ 58,077 | 2026-08-01 | 2026-11-26 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 35 | ⭐ 8,425 | 2026-08-02 | 2026-11-26 |
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 29 | ⭐ 37,394 | 2026-08-01 | 2026-11-13 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 28 | ⭐ 39,511 | 2026-08-01 | 2026-11-18 |
 | [ollama/ollama](../repos/ollama/ollama.md) | 28 | ⭐ 186,884 | 2026-08-01 | 2026-11-13 |
-| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | 25 | ⭐ 35,030 | 2026-08-06 | 2026-11-25 |
+| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | 26 | ⭐ 35,109 | 2026-08-06 | 2026-11-26 |
+| [gastownhall/beads](../repos/gastownhall/beads.md) | 25 | ⭐ 29,119 | 2026-08-04 | 2026-11-26 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 24 | ⭐ 52,173 | 2026-08-01 | 2026-11-18 |
-| [gastownhall/beads](../repos/gastownhall/beads.md) | 24 | ⭐ 29,067 | 2026-08-04 | 2026-11-25 |
 | [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 24 | ⭐ 54,160 | 2026-08-20 | 2026-11-18 |
 | [golang/go](../repos/golang/go.md) | 21 | ⭐ 140,079 | 2026-07-31 | 2026-11-18 |
 
@@ -135,7 +135,7 @@
 - [adithyan-ak/AgentHound](../repos/adithyan-ak/AgentHound.md) - Offensive security framework for AI agent infrastructure - recon, credential looting, model exfil...
 - [github/gh-stack](../repos/github/gh-stack.md) - GitHub Stacked PRs
 - [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) - The system of action for AI-native cybersecurity—where intent becomes governed execution, evidenc...
-- [multica-ai/multica](../repos/multica-ai/multica.md) - Make humans and AI agents work as one team — open-source and self-hostable.
+- [multica-ai/multica](../repos/multica-ai/multica.md) - Shared task board where people and AI coding agents work as teammates. Source-available, self-hos...
 - [heroiclabs/nakama](../repos/heroiclabs/nakama.md) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and socia...
 - [aquasecurity/trivy](../repos/aquasecurity/trivy.md) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositori...
 - [Tencent/WeKnora](../repos/Tencent/WeKnora.md) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reason...
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-25T21:01:05.130Z*
+*Last updated: 2026-11-26T21:00:58.895Z*

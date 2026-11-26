@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 31,428 | 2026-08-01 | 25 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 31,535 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wealthfolio/wealthfolio](../repos/wealthfolio/wealthfolio.md) | ⭐ 9,761 | 2026-08-02 | 11 |
+| [wealthfolio/wealthfolio](../repos/wealthfolio/wealthfolio.md) | ⭐ 9,780 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [0xPlaygrounds/rig](../repos/0xPlaygrounds/rig.md) | ⭐ 9,265 | 2026-08-03 | 9 |
+| [0xPlaygrounds/rig](../repos/0xPlaygrounds/rig.md) | ⭐ 9,279 | 2026-08-03 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 45,912 | 2026-08-05 | 18 |
+| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 45,924 | 2026-08-05 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 40,505 | 2026-08-05 | 14 |
+| [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 40,528 | 2026-08-05 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [malisper/pgrust](../repos/malisper/pgrust.md) | ⭐ 6,073 | 2026-08-08 | 13 |
+| [malisper/pgrust](../repos/malisper/pgrust.md) | ⭐ 6,092 | 2026-08-08 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [louis-e/arnis](../repos/louis-e/arnis.md) | ⭐ 18,833 | 2026-08-09 | 13 |
+| [louis-e/arnis](../repos/louis-e/arnis.md) | ⭐ 18,861 | 2026-08-09 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [janhq/jan](../repos/janhq/jan.md) | ⭐ 46,132 | 2026-08-26 | 10 |
+| [janhq/jan](../repos/janhq/jan.md) | ⭐ 46,206 | 2026-08-26 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SaladDay/cc-switch-cli](../repos/SaladDay/cc-switch-cli.md) | ⭐ 5,582 | 2026-11-18 | 8 |
+| [SaladDay/cc-switch-cli](../repos/SaladDay/cc-switch-cli.md) | ⭐ 5,586 | 2026-11-18 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [perspective-dev/perspective](../repos/perspective-dev/perspective.md) | ⭐ 11,778 | 2026-11-19 | 7 |
+| [perspective-dev/perspective](../repos/perspective-dev/perspective.md) | ⭐ 11,806 | 2026-11-19 | 8 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ShayanAbbas1/dbdelve](../repos/ShayanAbbas1/dbdelve.md) | ⭐ 1,546 | 2026-10-27 | Fast and lightweight DB Client made in Rust and GPUI. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [NVIDIA/cuda-rust](../repos/NVIDIA/cuda-rust.md) | ⭐ 3,883 | 2026-10-29 | NVIDIA&#39;s CUDA platform for Rust. Host runtime crates plus Tile (cutile-rs) and SIMT (cuda-oxide) ... |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [tembo/voxl](../repos/tembo/voxl.md) | ⭐ 1,158 | 2026-11-05 | extremely fast web remote desktop streaming |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [serde-rs/serde](../repos/serde-rs/serde.md) | ⭐ 11,056 | 2026-11-07 | Serialization framework for Rust |
 
 
 ---
@@ -116,13 +116,13 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 30 | ⭐ 112,097 | 2026-08-05 | 2026-11-17 |
-| [t8y2/dbx](../repos/t8y2/dbx.md) | 25 | ⭐ 31,428 | 2026-08-01 | 2026-11-25 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | 26 | ⭐ 31,535 | 2026-08-01 | 2026-11-26 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 25 | ⭐ 104,032 | 2026-08-09 | 2026-11-11 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 23 | ⭐ 50,290 | 2026-08-02 | 2026-11-12 |
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 22 | ⭐ 24,202 | 2026-08-08 | 2026-10-25 |
 | [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 20 | ⭐ 11,934 | 2026-08-26 | 2026-11-07 |
 | [openai/codex](../repos/openai/codex.md) | 19 | ⭐ 133,337 | 2026-08-01 | 2026-11-05 |
-| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | 18 | ⭐ 45,912 | 2026-08-05 | 2026-11-25 |
+| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | 19 | ⭐ 45,924 | 2026-08-05 | 2026-11-26 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 17 | ⭐ 42,354 | 2026-08-10 | 2026-10-26 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | 16 | ⭐ 122,230 | 2026-07-30 | 2026-11-18 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-25T21:01:05.199Z*
+*Last updated: 2026-11-26T21:00:58.946Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Assembly |
 | **License** | Other |
-| **Stars** | ⭐ 3,210 |
-| **Forks** | 🍴 1,068 |
-| **Trending Days** | 41 |
+| **Stars** | ⭐ 3,213 |
+| **Forks** | 🍴 1,070 |
+| **Trending Days** | 42 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 19, 2026 |
-| **Last Seen** | Nov 25, 2026 |
+| **Last Seen** | Nov 26, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 41
-- **Longest Streak**: 9 days
+- **Trending Days**: 42
+- **Longest Streak**: 10 days
 
 ---
 
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 3,210+ stars, strong contributor base |
+| **Community** | Very Active | 3,213+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-25T21:01:11.271Z*  
-*Data from 41 trending reports*
+*Last updated: 2026-11-26T21:01:03.795Z*  
+*Data from 42 trending reports*

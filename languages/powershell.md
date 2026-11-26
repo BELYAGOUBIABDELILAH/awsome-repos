@@ -16,28 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,627 | 2026-08-01 | 70 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,632 | 2026-08-01 | 71 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,662 | 2026-08-01 | 41 |
+| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,668 | 2026-08-01 | 42 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/hve-core](../repos/microsoft/hve-core.md) | ⭐ 1,643 | 2026-08-01 | 25 |
+| [microsoft/hve-core](../repos/microsoft/hve-core.md) | ⭐ 1,644 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 952 | 2026-08-01 | 58 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 953 | 2026-08-01 | 59 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,698 | 2026-08-07 | 14 |
+| [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,701 | 2026-08-07 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,809 | 2026-08-11 | 31 |
+| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,810 | 2026-08-11 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,317 | 2026-09-02 | 27 |
+| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,319 | 2026-09-02 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Dunterbabochka/zapret2-next](../repos/Dunterbabochka/zapret2-next.md) | ⭐ 44 | 2026-11-22 | 4 |
+| [Dunterbabochka/zapret2-next](../repos/Dunterbabochka/zapret2-next.md) | ⭐ 44 | 2026-11-22 | 5 |
 
 
 ---
@@ -80,22 +80,22 @@
 | [Atlas-OS/Atlas](../repos/Atlas-OS/Atlas.md) | ⭐ 22,127 | 2026-11-05 | 10 |
 | [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,077 | 2026-08-02 | 20 |
 | [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,799 | 2026-08-09 | 2 |
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,627 | 2026-08-01 | 70 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,632 | 2026-08-01 | 71 |
 | [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,063 | 2026-08-04 | 6 |
-| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,317 | 2026-09-02 | 27 |
+| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,319 | 2026-09-02 | 28 |
 | [SpecterOps/BloodHound-Legacy](../repos/SpecterOps/BloodHound-Legacy.md) | ⭐ 10,597 | 2026-08-06 | 1 |
 | [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,136 | 2026-08-03 | 11 |
 | [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 9,321 | 2026-08-06 | 24 |
-| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,662 | 2026-08-01 | 41 |
+| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,668 | 2026-08-01 | 42 |
 | [javaht/claude-desktop-zh-cn](../repos/javaht/claude-desktop-zh-cn.md) | ⭐ 8,542 | 2026-10-23 | 14 |
 | [mandiant/commando-vm](../repos/mandiant/commando-vm.md) | ⭐ 7,779 | 2026-08-12 | 1 |
-| [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,698 | 2026-08-07 | 14 |
+| [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,701 | 2026-08-07 | 15 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 6,178 | 2026-08-01 | 29 |
 | [jamesstringer90/Easy-GPU-PV](../repos/jamesstringer90/Easy-GPU-PV.md) | ⭐ 5,590 | 2026-09-06 | 3 |
 | [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 3,576 | 2026-08-01 | 29 |
 | [pester/Pester](../repos/pester/Pester.md) | ⭐ 3,369 | 2026-10-29 | 1 |
 | [dataplat/dbatools](../repos/dataplat/dbatools.md) | ⭐ 2,857 | 2026-08-04 | 4 |
-| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,809 | 2026-08-11 | 31 |
+| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,810 | 2026-08-11 | 32 |
 
 ---
 
@@ -103,16 +103,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [actions/runner-images](../repos/actions/runner-images.md) | 70 | ⭐ 13,627 | 2026-08-01 | 2026-11-25 |
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 58 | ⭐ 952 | 2026-08-01 | 2026-11-25 |
-| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 41 | ⭐ 8,662 | 2026-08-01 | 2026-11-25 |
+| [actions/runner-images](../repos/actions/runner-images.md) | 71 | ⭐ 13,632 | 2026-08-01 | 2026-11-26 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 59 | ⭐ 953 | 2026-08-01 | 2026-11-26 |
+| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 42 | ⭐ 8,668 | 2026-08-01 | 2026-11-26 |
 | [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 37 | ⭐ 1,727 | 2026-08-03 | 2026-11-14 |
-| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | 31 | ⭐ 2,809 | 2026-08-11 | 2026-11-25 |
+| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | 32 | ⭐ 2,810 | 2026-08-11 | 2026-11-26 |
 | [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 29 | ⭐ 3,576 | 2026-08-01 | 2026-11-12 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 29 | ⭐ 6,178 | 2026-08-01 | 2026-11-11 |
 | [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 28 | ⭐ 1,586 | 2026-08-01 | 2026-11-18 |
 | [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 28 | ⭐ 545 | 2026-08-04 | 2026-11-16 |
-| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | 27 | ⭐ 11,317 | 2026-09-02 | 2026-11-25 |
+| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | 28 | ⭐ 11,319 | 2026-09-02 | 2026-11-26 |
 
 ---
 
@@ -189,4 +189,4 @@
 
 ---
 
-*Last updated: 2026-11-25T21:01:05.183Z*
+*Last updated: 2026-11-26T21:00:58.933Z*

@@ -1,6 +1,6 @@
 # zhouxiaoka&#x2F;autoclip
 
-> AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping &amp; content repurposing.
+> AutoClip｜The open-source OpusClip alternative — local-first AI clipping &amp; MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;zhouxiaoka&#x2F;autoclip) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | MIT |
-| **Stars** | ⭐ 16,091 |
-| **Forks** | 🍴 2,324 |
-| **Trending Days** | 10 |
+| **Stars** | ⭐ 16,867 |
+| **Forks** | 🍴 2,378 |
+| **Trending Days** | 11 |
 | **Peak Rank** | #9 |
 
 | **First Seen** | Sep 20, 2026 |
-| **Last Seen** | Nov 25, 2026 |
+| **Last Seen** | Nov 26, 2026 |
 
 
 ---
@@ -51,22 +51,23 @@
 **Nov 23, 2026** — Rank #16 (+908 ⭐)  
 **Nov 24, 2026** — Rank #16 (+981 ⭐)  
 **Nov 25, 2026** — Rank #16 (+868 ⭐)  
+**Nov 26, 2026** — Rank #16 (+770 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #9
-- **Trending Days**: 10
-- **Longest Streak**: 7 days
+- **Trending Days**: 11
+- **Longest Streak**: 8 days
 
 ---
 
 ## Categories
 
 ### Topics
-[`ai-agent`](../../topics/ai-agent.md) [`ai-video-editor`](../../topics/ai-video-editor.md) [`content-repurposing`](../../topics/content-repurposing.md) [`desktop-app`](../../topics/desktop-app.md) [`douyin`](../../topics/douyin.md) [`instagram-reels`](../../topics/instagram-reels.md) [`mcp`](../../topics/mcp.md) [`open-source`](../../topics/open-source.md) [`podcast`](../../topics/podcast.md) [`subtitles`](../../topics/subtitles.md) [`tiktok`](../../topics/tiktok.md) [`video-clipping`](../../topics/video-clipping.md) [`video-editing-software`](../../topics/video-editing-software.md) [`xiaohongshu`](../../topics/xiaohongshu.md) [`youtube-shorts`](../../topics/youtube-shorts.md) 
+[`ai-agent`](../../topics/ai-agent.md) [`ai-video-editor`](../../topics/ai-video-editor.md) [`claude-code`](../../topics/claude-code.md) [`content-repurposing`](../../topics/content-repurposing.md) [`desktop-app`](../../topics/desktop-app.md) [`douyin`](../../topics/douyin.md) [`instagram-reels`](../../topics/instagram-reels.md) [`local-first`](../../topics/local-first.md) [`mcp`](../../topics/mcp.md) [`mcp-server`](../../topics/mcp-server.md) [`open-source`](../../topics/open-source.md) [`opusclip-alternative`](../../topics/opusclip-alternative.md) [`podcast`](../../topics/podcast.md) [`subtitles`](../../topics/subtitles.md) [`tiktok`](../../topics/tiktok.md) [`video-clipping`](../../topics/video-clipping.md) [`video-editing-software`](../../topics/video-editing-software.md) [`whisper`](../../topics/whisper.md) [`xiaohongshu`](../../topics/xiaohongshu.md) [`youtube-shorts`](../../topics/youtube-shorts.md) 
 
 ### Curated Categories
-`Artificial Intelligence` `Systems Programming` `Developer Tools` 
+`Artificial Intelligence` `Large Language Models` `Backend Development` `Systems Programming` `Developer Tools` 
 
 ---
 
@@ -99,5 +100,5 @@
 
 ---
 
-*Last updated: 2026-11-25T21:01:11.280Z*  
-*Data from 10 trending reports*
+*Last updated: 2026-11-26T21:01:03.802Z*  
+*Data from 11 trending reports*

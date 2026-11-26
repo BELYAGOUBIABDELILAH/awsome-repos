@@ -1,6 +1,6 @@
 # multica-ai&#x2F;multica
 
-> Make humans and AI agents work as one team — open-source and self-hostable.
+> Shared task board where people and AI coding agents work as teammates. Source-available, self-hostable.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;multica-ai&#x2F;multica) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | Other |
-| **Stars** | ⭐ 57,914 |
-| **Forks** | 🍴 7,616 |
-| **Trending Days** | 36 |
+| **Stars** | ⭐ 58,077 |
+| **Forks** | 🍴 7,638 |
+| **Trending Days** | 37 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 25, 2026 |
+| **Last Seen** | Nov 26, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 36
-- **Longest Streak**: 7 days
+- **Trending Days**: 37
+- **Longest Streak**: 8 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-25T21:01:07.555Z*  
-*Data from 36 trending reports*
+*Last updated: 2026-11-26T21:01:00.702Z*  
+*Data from 37 trending reports*

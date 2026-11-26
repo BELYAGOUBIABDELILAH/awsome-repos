@@ -14,11 +14,11 @@
 | **License** | Apache-2.0 |
 | **Stars** | ⭐ 1,452 |
 | **Forks** | 🍴 695 |
-| **Trending Days** | 18 |
+| **Trending Days** | 19 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 15, 2026 |
-| **Last Seen** | Nov 25, 2026 |
+| **Last Seen** | Nov 26, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 18
-- **Longest Streak**: 7 days
+- **Trending Days**: 19
+- **Longest Streak**: 8 days
 
 ---
 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Very Active | 1,452+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-25T21:01:11.901Z*  
-*Data from 18 trending reports*
+*Last updated: 2026-11-26T21:01:04.331Z*  
+*Data from 19 trending reports*

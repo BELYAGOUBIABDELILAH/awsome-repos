@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | HTML |
 | **License** | MIT |
-| **Stars** | ⭐ 211,558 |
-| **Forks** | 🍴 26,160 |
-| **Trending Days** | 32 |
+| **Stars** | ⭐ 211,598 |
+| **Forks** | 🍴 26,161 |
+| **Trending Days** | 33 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Nov 25, 2026 |
+| **Last Seen** | Nov 26, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 32
-- **Longest Streak**: 9 days
+- **Trending Days**: 33
+- **Longest Streak**: 10 days
 
 ---
 
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 211,558+ stars, strong contributor base |
+| **Community** | Very Active | 211,598+ stars, strong contributor base |
 | **Maturity** | Production Ready | Battle-tested and stable |
 | **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-25T21:01:08.500Z*  
-*Data from 32 trending reports*
+*Last updated: 2026-11-26T21:01:01.461Z*  
+*Data from 33 trending reports*

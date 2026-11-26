@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | PHP |
 | **License** | MIT |
-| **Stars** | ⭐ 4,894 |
+| **Stars** | ⭐ 4,895 |
 | **Forks** | 🍴 1,393 |
-| **Trending Days** | 34 |
+| **Trending Days** | 35 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Nov 25, 2026 |
+| **Last Seen** | Nov 26, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 34
-- **Longest Streak**: 7 days
+- **Trending Days**: 35
+- **Longest Streak**: 8 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-25T21:01:08.139Z*  
-*Data from 34 trending reports*
+*Last updated: 2026-11-26T21:01:01.168Z*  
+*Data from 35 trending reports*

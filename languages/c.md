@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [libsdl-org/SDL](../repos/libsdl-org/SDL.md) | ⭐ 17,070 | 2026-08-01 | 19 |
+| [libsdl-org/SDL](../repos/libsdl-org/SDL.md) | ⭐ 17,075 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [php/php-src](../repos/php/php-src.md) | ⭐ 41,872 | 2026-08-01 | 21 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 41,872 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,946 | 2026-08-01 | 50 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,987 | 2026-08-01 | 51 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 33,346 | 2026-08-02 | 16 |
+| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 33,504 | 2026-08-02 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [flipperdevices/flipperzero-firmware](../repos/flipperdevices/flipperzero-firmware.md) | ⭐ 16,995 | 2026-08-03 | 10 |
+| [flipperdevices/flipperzero-firmware](../repos/flipperdevices/flipperzero-firmware.md) | ⭐ 17,006 | 2026-08-03 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 17,181 | 2026-08-06 | 38 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 17,192 | 2026-08-06 | 39 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [madler/zlib](../repos/madler/zlib.md) | ⭐ 7,258 | 2026-08-07 | 22 |
+| [madler/zlib](../repos/madler/zlib.md) | ⭐ 7,259 | 2026-08-07 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [espressif/esp-idf](../repos/espressif/esp-idf.md) | ⭐ 19,598 | 2026-08-12 | 18 |
+| [espressif/esp-idf](../repos/espressif/esp-idf.md) | ⭐ 19,607 | 2026-08-12 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pgvector/pgvector](../repos/pgvector/pgvector.md) | ⭐ 23,818 | 2026-08-12 | 19 |
+| [pgvector/pgvector](../repos/pgvector/pgvector.md) | ⭐ 23,832 | 2026-08-12 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [meta/zstd](../repos/meta/zstd.md) | ⭐ 28,329 | 2026-11-07 | 8 |
+| [meta/zstd](../repos/meta/zstd.md) | ⭐ 28,342 | 2026-11-07 | 9 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [DualCoder/vgpu_unlock](../repos/DualCoder/vgpu_unlock.md) | ⭐ 5,368 | 2026-10-27 | Unlock vGPU functionality for consumer grade GPUs. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [HansKristian-Work/vkd3d-proton](../repos/HansKristian-Work/vkd3d-proton.md) | ⭐ 3,030 | 2026-10-29 | Fork of VKD3D. Development branches for Proton&#39;s Direct3D 12 implementation. |
@@ -73,13 +70,16 @@
 | [openssh/openssh-portable](../repos/openssh/openssh-portable.md) | ⭐ 4,098 | 2026-11-06 | Portable OpenSSH |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [meta/zstd](../repos/meta/zstd.md) | ⭐ 28,329 | 2026-11-07 | Zstandard - Fast real-time compression algorithm |
+| [meta/zstd](../repos/meta/zstd.md) | ⭐ 28,342 | 2026-11-07 | Zstandard - Fast real-time compression algorithm |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [zeldaret/oot](../repos/zeldaret/oot.md) | ⭐ 5,711 | 2026-11-07 | Decompilation of The Legend of Zelda: Ocarina of Time |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Cisco-Talos/clamav](../repos/Cisco-Talos/clamav.md) | ⭐ 7,667 | 2026-11-14 | ClamAV - Documentation is here: https:&#x2F;&#x2F;docs.clamav.net |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [surge-synthesizer/surge](../repos/surge-synthesizer/surge.md) | ⭐ 4,138 | 2026-11-15 | Free and open source hybrid synthesizer as a virtual instrument (previously released by Vember Au... |
 
 
 ---
@@ -96,13 +96,13 @@
 | [git/git](../repos/git/git.md) | ⭐ 64,135 | 2026-08-05 | 10 |
 | [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 51,088 | 2026-09-01 | 26 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 48,774 | 2026-08-07 | 27 |
-| [php/php-src](../repos/php/php-src.md) | ⭐ 41,872 | 2026-08-01 | 21 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 41,872 | 2026-08-01 | 22 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 38,334 | 2026-08-08 | 5 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,982 | 2026-08-02 | 11 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,813 | 2026-08-04 | 10 |
 | [nothings/stb](../repos/nothings/stb.md) | ⭐ 35,019 | 2026-08-03 | 9 |
 | [valinet/ExplorerPatcher](../repos/valinet/ExplorerPatcher.md) | ⭐ 34,217 | 2026-09-06 | 5 |
-| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 33,346 | 2026-08-02 | 16 |
+| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 33,504 | 2026-08-02 | 17 |
 | [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,509 | 2026-08-01 | 6 |
 | [lizongying/my-tv](../repos/lizongying/my-tv.md) | ⭐ 31,960 | 2026-08-17 | 2 |
 | [coolsnowwolf/lede](../repos/coolsnowwolf/lede.md) | ⭐ 31,611 | 2026-08-16 | 3 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 50 | ⭐ 17,946 | 2026-08-01 | 2026-11-25 |
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 38 | ⭐ 17,181 | 2026-08-06 | 2026-11-25 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 51 | ⭐ 17,987 | 2026-08-01 | 2026-11-26 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 39 | ⭐ 17,192 | 2026-08-06 | 2026-11-26 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 27 | ⭐ 48,774 | 2026-08-07 | 2026-11-17 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 26 | ⭐ 140,879 | 2026-08-01 | 2026-11-11 |
 | [JustVugg/colibri](../repos/JustVugg/colibri.md) | 26 | ⭐ 51,088 | 2026-09-01 | 2026-11-14 |
-| [madler/zlib](../repos/madler/zlib.md) | 22 | ⭐ 7,258 | 2026-08-07 | 2026-11-25 |
-| [php/php-src](../repos/php/php-src.md) | 21 | ⭐ 41,872 | 2026-08-01 | 2026-11-25 |
+| [madler/zlib](../repos/madler/zlib.md) | 23 | ⭐ 7,259 | 2026-08-07 | 2026-11-26 |
+| [php/php-src](../repos/php/php-src.md) | 22 | ⭐ 41,872 | 2026-08-01 | 2026-11-26 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 21 | ⭐ 79,696 | 2026-08-02 | 2026-11-18 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 21 | ⭐ 28,089 | 2026-08-07 | 2026-10-23 |
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 20 | ⭐ 154,980 | 2026-08-07 | 2026-11-16 |
+| [libsdl-org/SDL](../repos/libsdl-org/SDL.md) | 20 | ⭐ 17,075 | 2026-08-01 | 2026-11-26 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-25T21:01:05.083Z*
+*Last updated: 2026-11-26T21:00:58.863Z*

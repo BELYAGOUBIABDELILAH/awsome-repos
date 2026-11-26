@@ -14,11 +14,11 @@
 | **License** | Apache-2.0 |
 | **Stars** | ⭐ 2,130 |
 | **Forks** | 🍴 587 |
-| **Trending Days** | 40 |
+| **Trending Days** | 41 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 25, 2026 |
+| **Last Seen** | Nov 26, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 40
-- **Longest Streak**: 7 days
+- **Trending Days**: 41
+- **Longest Streak**: 8 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-25T21:01:07.816Z*  
-*Data from 40 trending reports*
+*Last updated: 2026-11-26T21:01:00.903Z*  
+*Data from 41 trending reports*

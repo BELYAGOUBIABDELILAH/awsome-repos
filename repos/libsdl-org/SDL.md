@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C |
 | **License** | Zlib |
-| **Stars** | ⭐ 17,070 |
-| **Forks** | 🍴 3,182 |
-| **Trending Days** | 19 |
+| **Stars** | ⭐ 17,075 |
+| **Forks** | 🍴 3,189 |
+| **Trending Days** | 20 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 25, 2026 |
+| **Last Seen** | Nov 26, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 19
-- **Longest Streak**: 7 days
+- **Trending Days**: 20
+- **Longest Streak**: 8 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-25T21:01:07.625Z*  
-*Data from 19 trending reports*
+*Last updated: 2026-11-26T21:01:00.761Z*  
+*Data from 20 trending reports*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | CSS |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 9,681 |
-| **Forks** | 🍴 31,269 |
-| **Trending Days** | 39 |
+| **Stars** | ⭐ 9,683 |
+| **Forks** | 🍴 31,277 |
+| **Trending Days** | 40 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 5, 2026 |
-| **Last Seen** | Nov 25, 2026 |
+| **Last Seen** | Nov 26, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 39
-- **Longest Streak**: 8 days
+- **Trending Days**: 40
+- **Longest Streak**: 9 days
 
 ---
 
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 9,681+ stars, strong contributor base |
+| **Community** | Very Active | 9,683+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-25T21:01:08.940Z*  
-*Data from 39 trending reports*
+*Last updated: 2026-11-26T21:01:01.799Z*  
+*Data from 40 trending reports*

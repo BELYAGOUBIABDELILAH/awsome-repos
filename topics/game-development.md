@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 361
+- **Total Repositories**: 362
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-11-07
-- **Average Stars**: 17592
+- **Average Stars**: 17547
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,864 | Ruby |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,868 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,870 | Ruby |  |
+| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,871 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,666 | Scala |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,671 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,621 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,634 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,705 | Clojure |  |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,717 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,946 | C |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,987 | C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,552 | Perl |  |
+| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,554 | Perl |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | ⭐ 1,295 | Zig |  |
+| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | ⭐ 1,297 | Zig |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | ⭐ 1,699 | Assembly |  |
+| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | ⭐ 1,700 | Assembly |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 38,154 | V |  |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 38,155 | V |  |
 
 
 ---
@@ -70,45 +70,39 @@
 
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,864 | Ruby | 14 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,868 | Ruby | 15 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,870 | Ruby | 7 |
+| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,871 | Ruby | 8 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,666 | Scala | 10 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,671 | Scala | 11 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,621 | Scala | 24 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,634 | Scala | 25 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,705 | Clojure | 14 |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,717 | Clojure | 15 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,946 | C | 9 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,987 | C | 10 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,552 | Perl | 7 |
+| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,554 | Perl | 8 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | ⭐ 1,295 | Zig | 7 |
+| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | ⭐ 1,297 | Zig | 8 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | ⭐ 1,699 | Assembly | 18 |
+| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | ⭐ 1,700 | Assembly | 19 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 38,154 | V | 7 |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 38,155 | V | 8 |
 
 ---
 
 ## 🆕 New This Month
 
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [klauspost/compress](../repos/klauspost/compress.md) | ⭐ 5,704 | Go | 2026-10-27 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [isl-org/Open3D](../repos/isl-org/Open3D.md) | ⭐ 14,128 | C++ | 2026-10-27 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [DavidHDev/react-bits](../repos/DavidHDev/react-bits.md) | ⭐ 50,534 | JavaScript | 2026-10-28 |
@@ -133,10 +127,20 @@
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [dolphin-emu/dolphin](../repos/dolphin-emu/dolphin.md) | ⭐ 15,773 | C++ | 2026-11-05 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [microsoft/AL-Go](../repos/microsoft/AL-Go.md) | ⭐ 513 | PowerShell | 2026-11-05 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [synfig/synfig](../repos/synfig/synfig.md) | ⭐ 2,364 | C++ | 2026-11-06 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-11-26](../archive/2026/11/2026-11-26.md)
+- 27 repositories trending
+- Top: boykopovar&#x2F;AnyPS5
 
 ### [2026-11-25](../archive/2026/11/2026-11-25.md)
 - 25 repositories trending
@@ -162,10 +166,6 @@
 - 25 repositories trending
 - Top: boykopovar&#x2F;AnyPS5
 
-### [2026-11-19](../archive/2026/11/2026-11-19.md)
-- 25 repositories trending
-- Top: boykopovar&#x2F;AnyPS5
-
 
 ---
 
@@ -175,16 +175,16 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 97 days | 2026-08-01 | 2026-11-25 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 91 days | 2026-08-01 | 2026-11-25 |
-| [vlang/v](../repos/vlang/v.md) | 90 days | 2026-08-01 | 2026-11-25 |
-| [lichess-org/lila](../repos/lichess-org/lila.md) | 81 days | 2026-08-02 | 2026-11-25 |
+| [apache/spark](../repos/apache/spark.md) | 98 days | 2026-08-01 | 2026-11-26 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 92 days | 2026-08-01 | 2026-11-26 |
+| [vlang/v](../repos/vlang/v.md) | 91 days | 2026-08-01 | 2026-11-26 |
+| [lichess-org/lila](../repos/lichess-org/lila.md) | 82 days | 2026-08-02 | 2026-11-26 |
 | [vim/vim](../repos/vim/vim.md) | 76 days | 2026-08-01 | 2026-11-18 |
-| [joernio/joern](../repos/joernio/joern.md) | 73 days | 2026-08-01 | 2026-11-25 |
-| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | 68 days | 2026-08-01 | 2026-11-25 |
-| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | 68 days | 2026-08-01 | 2026-11-25 |
+| [joernio/joern](../repos/joernio/joern.md) | 74 days | 2026-08-01 | 2026-11-26 |
+| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | 69 days | 2026-08-01 | 2026-11-26 |
+| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | 69 days | 2026-08-01 | 2026-11-26 |
+| [OpenKore/openkore](../repos/OpenKore/openkore.md) | 58 days | 2026-08-01 | 2026-11-26 |
 | [ebitengine/purego](../repos/ebitengine/purego.md) | 58 days | 2026-08-04 | 2026-11-18 |
-| [OpenKore/openkore](../repos/OpenKore/openkore.md) | 57 days | 2026-08-01 | 2026-11-25 |
 
 ---
 
@@ -198,9 +198,9 @@
 - **Rust**: 15 repositories (4%)
 
 ### Trending Frequency
-- **Daily Average**: 31.1 repositories
+- **Daily Average**: 31 repositories
 - **Peak Day**: 2026-08-24 (49 repositories)
-- **Growth Rate**: 11% this month
+- **Growth Rate**: 10% this month
 
 ---
 
@@ -314,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-11-25T21:01:04.863Z*
+*Last updated: 2026-11-26T21:00:58.696Z*
