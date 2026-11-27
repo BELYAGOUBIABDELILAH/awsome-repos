@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 361
+- **Total Repositories**: 362
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-11-03
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 75,661 | 2026-08-01 | 21 |
+| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 76,304 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 151,524 | 2026-08-14 | 21 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 4,248 | 2026-08-07 | 50 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 66,271 | 2026-08-15 | 22 |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 152,228 | 2026-08-14 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tracer-Cloud/opensre](../repos/Tracer-Cloud/opensre.md) | ⭐ 15,768 | 2026-08-24 | 12 |
+| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 66,915 | 2026-08-15 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 43,314 | 2026-08-29 | 18 |
+| [Tracer-Cloud/opensre](../repos/Tracer-Cloud/opensre.md) | ⭐ 16,090 | 2026-08-24 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Imbad0202/academic-research-skills](../repos/Imbad0202/academic-research-skills.md) | ⭐ 58,687 | 2026-09-01 | 15 |
+| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 43,451 | 2026-08-29 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jingyaogong/minimind](../repos/jingyaogong/minimind.md) | ⭐ 71,577 | 2026-09-01 | 14 |
+| [Imbad0202/academic-research-skills](../repos/Imbad0202/academic-research-skills.md) | ⭐ 58,846 | 2026-09-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 198,604 | 2026-09-07 | 11 |
+| [jingyaogong/minimind](../repos/jingyaogong/minimind.md) | ⭐ 72,175 | 2026-09-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhouxiaoka/autoclip](../repos/zhouxiaoka/autoclip.md) | ⭐ 16,867 | 2026-09-20 | 11 |
+| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 198,743 | 2026-09-07 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [superdesigndev/treg](../repos/superdesigndev/treg.md) | ⭐ 9,530 | 2026-09-22 | 16 |
+| [zhouxiaoka/autoclip](../repos/zhouxiaoka/autoclip.md) | ⭐ 17,540 | 2026-09-20 | 12 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [beenuar/AiSOC](../repos/beenuar/AiSOC.md) | ⭐ 6,658 | 2026-10-28 | Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&amp;CK investiga... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [shitagaki-lab/see-through](../repos/shitagaki-lab/see-through.md) | ⭐ 5,091 | 2026-10-28 | &quot;Single-image Layer Decomposition for Anime Characters&quot; (SIGGRAPH 2026 Conference Paper) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ansible/ansible](../repos/ansible/ansible.md) | ⭐ 71,494 | 2026-10-29 | Ansible is a radically simple IT automation platform that makes your applications and systems eas... |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Thysrael/Horizon](../repos/Thysrael/Horizon.md) | ⭐ 12,858 | 2026-11-04 | 📡 Your own AI-powered news radar. Generates daily briefings in English &amp; Chinese. | 用 AI 构建你专属的新闻雷达 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [scenario-labs/skills](../repos/scenario-labs/skills.md) | ⭐ 2,975 | 2026-11-04 | Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right m... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Anil-matcha/open-duet](../repos/Anil-matcha/open-duet.md) | ⭐ 6,766 | 2026-11-04 | Open-source, self-hosted alternative to Grok Bot, Claude Duet, OpenAI Dots, Meta Muse, Instinct, ... |
 
 
 ---
@@ -95,11 +95,11 @@
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 243,012 | 2026-08-01 | 17 |
 | [TheAlgorithms/Python](../repos/TheAlgorithms/Python.md) | ⭐ 226,056 | 2026-11-12 | 1 |
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 198,857 | 2026-08-02 | 8 |
-| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 198,604 | 2026-09-07 | 11 |
+| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 198,743 | 2026-09-07 | 12 |
 | [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 193,049 | 2026-08-11 | 13 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,775 | 2026-08-06 | 9 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 169,239 | 2026-07-31 | 12 |
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 151,524 | 2026-08-14 | 21 |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 152,228 | 2026-08-14 | 22 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 149,584 | 2026-08-03 | 12 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 143,038 | 2026-08-04 | 8 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 141,991 | 2026-08-05 | 13 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [expo/skills](../repos/expo/skills.md) | 50 | ⭐ 4,248 | 2026-08-07 | 2026-11-27 |
 | [github/copilot-cli](../repos/github/copilot-cli.md) | 25 | ⭐ 11,351 | 2026-08-04 | 2026-11-04 |
-| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | 22 | ⭐ 66,271 | 2026-08-15 | 2026-11-26 |
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | 21 | ⭐ 75,661 | 2026-08-01 | 2026-11-26 |
-| [github/spec-kit](../repos/github/spec-kit.md) | 21 | ⭐ 151,524 | 2026-08-14 | 2026-11-26 |
+| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | 23 | ⭐ 66,915 | 2026-08-15 | 2026-11-27 |
+| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | 22 | ⭐ 76,304 | 2026-08-01 | 2026-11-27 |
+| [github/spec-kit](../repos/github/spec-kit.md) | 22 | ⭐ 152,228 | 2026-08-14 | 2026-11-27 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 19 | ⭐ 139,731 | 2026-08-01 | 2026-11-05 |
 | [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 19 | ⭐ 70,192 | 2026-08-03 | 2026-11-14 |
-| [p-e-w/heretic](../repos/p-e-w/heretic.md) | 18 | ⭐ 43,314 | 2026-08-29 | 2026-11-26 |
+| [p-e-w/heretic](../repos/p-e-w/heretic.md) | 19 | ⭐ 43,451 | 2026-08-29 | 2026-11-27 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 17 | ⭐ 243,012 | 2026-08-01 | 2026-09-07 |
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | 17 | ⭐ 132,217 | 2026-08-04 | 2026-11-11 |
-| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | 17 | ⭐ 47,286 | 2026-08-07 | 2026-11-14 |
 
 ---
 
@@ -205,6 +205,7 @@
 - [google/skills](../repos/google/skills.md) - Agent Skills for Google products and technologies
 - [p1ngul1n0/blackbird](../repos/p1ngul1n0/blackbird.md) - An OSINT tool to search for accounts by username and email in social networks.
 - [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
+- [expo/skills](../repos/expo/skills.md) - A collection of AI agent skills for working with Expo projects and Expo Application Services
 - [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) - Curated list of project-based tutorials
 - [kyutai-labs/pocket-tts](../repos/kyutai-labs/pocket-tts.md) - A TTS that fits in your CPU (and pocket)
@@ -229,8 +230,7 @@
 - [HKUDS/DeepTutor](../repos/HKUDS/DeepTutor.md) - DeepTutor: Lifelong Personalized Tutoring. https:&#x2F;&#x2F;deeptutor.info&#x2F;.
 - [LLMQuant/quant-mind](../repos/LLMQuant/quant-mind.md) - QuantMind is an agent-native knowledge extraction and retrieval framework for quantitative finance.
 - [AWeirdDev/flights](../repos/AWeirdDev/flights.md) - Fast, robust Google Flights scraper (API) for Python. (Probably)
-- [cactus-compute/needle](../repos/cactus-compute/needle.md) - Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction a...
 
 ---
 
-*Last updated: 2026-11-26T21:00:58.936Z*
+*Last updated: 2026-11-27T21:01:03.815Z*

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T21:01:05.398Z",
+  "generated_at": "2026-11-27T21:01:11.632Z",
   "total_count": 100,
   "repositories": [
     {
@@ -1031,19 +1031,6 @@
     },
     {
       "rank": 80,
-      "full_name": "paullarionov/claude-certified-architect",
-      "owner": "paullarionov",
-      "name": "claude-certified-architect",
-      "stars": 5362,
-      "estimated_initial_stars": 5262,
-      "growth": 100,
-      "growth_rate": 100,
-      "language": "HTML",
-      "first_seen": "2026-11-25",
-      "trending_days": 2
-    },
-    {
-      "rank": 81,
       "full_name": "apache/opendal",
       "owner": "apache",
       "name": "opendal",
@@ -1056,7 +1043,7 @@
       "trending_days": 2
     },
     {
-      "rank": 82,
+      "rank": 81,
       "full_name": "higgsfield-ai/higgsfield",
       "owner": "higgsfield-ai",
       "name": "higgsfield",
@@ -1069,7 +1056,7 @@
       "trending_days": 2
     },
     {
-      "rank": 83,
+      "rank": 82,
       "full_name": "beclab/Olares",
       "owner": "beclab",
       "name": "Olares",
@@ -1082,7 +1069,7 @@
       "trending_days": 2
     },
     {
-      "rank": 84,
+      "rank": 83,
       "full_name": "lightvector/KataGo",
       "owner": "lightvector",
       "name": "KataGo",
@@ -1095,7 +1082,7 @@
       "trending_days": 2
     },
     {
-      "rank": 85,
+      "rank": 84,
       "full_name": "Minglink/dsh-infinite-gen-5",
       "owner": "Minglink",
       "name": "dsh-infinite-gen-5",
@@ -1108,7 +1095,7 @@
       "trending_days": 2
     },
     {
-      "rank": 86,
+      "rank": 85,
       "full_name": "blackcandy-org/blackcandy",
       "owner": "blackcandy-org",
       "name": "blackcandy",
@@ -1121,7 +1108,7 @@
       "trending_days": 2
     },
     {
-      "rank": 87,
+      "rank": 86,
       "full_name": "cloudflare/mcp-server-cloudflare",
       "owner": "cloudflare",
       "name": "mcp-server-cloudflare",
@@ -1134,7 +1121,7 @@
       "trending_days": 2
     },
     {
-      "rank": 88,
+      "rank": 87,
       "full_name": "folke/flash.nvim",
       "owner": "folke",
       "name": "flash.nvim",
@@ -1147,7 +1134,7 @@
       "trending_days": 2
     },
     {
-      "rank": 89,
+      "rank": 88,
       "full_name": "rhysd/actionlint",
       "owner": "rhysd",
       "name": "actionlint",
@@ -1160,7 +1147,7 @@
       "trending_days": 2
     },
     {
-      "rank": 90,
+      "rank": 89,
       "full_name": "surge-synthesizer/surge",
       "owner": "surge-synthesizer",
       "name": "surge",
@@ -1173,7 +1160,7 @@
       "trending_days": 2
     },
     {
-      "rank": 91,
+      "rank": 90,
       "full_name": "microsoft/AI-Engineering-Coach",
       "owner": "microsoft",
       "name": "AI-Engineering-Coach",
@@ -1186,7 +1173,7 @@
       "trending_days": 2
     },
     {
-      "rank": 92,
+      "rank": 91,
       "full_name": "openssh/openssh-portable",
       "owner": "openssh",
       "name": "openssh-portable",
@@ -1199,7 +1186,7 @@
       "trending_days": 2
     },
     {
-      "rank": 93,
+      "rank": 92,
       "full_name": "f4exb/sdrangel",
       "owner": "f4exb",
       "name": "sdrangel",
@@ -1212,7 +1199,7 @@
       "trending_days": 2
     },
     {
-      "rank": 94,
+      "rank": 93,
       "full_name": "redlib-org/redlib",
       "owner": "redlib-org",
       "name": "redlib",
@@ -1225,7 +1212,7 @@
       "trending_days": 2
     },
     {
-      "rank": 95,
+      "rank": 94,
       "full_name": "ZiggyCreatures/FusionCache",
       "owner": "ZiggyCreatures",
       "name": "FusionCache",
@@ -1238,7 +1225,7 @@
       "trending_days": 2
     },
     {
-      "rank": 96,
+      "rank": 95,
       "full_name": "jwt/ruby-jwt",
       "owner": "jwt",
       "name": "ruby-jwt",
@@ -1251,7 +1238,7 @@
       "trending_days": 2
     },
     {
-      "rank": 97,
+      "rank": 96,
       "full_name": "CopilotC-Nvim/CopilotChat.nvim",
       "owner": "CopilotC-Nvim",
       "name": "CopilotChat.nvim",
@@ -1264,7 +1251,7 @@
       "trending_days": 2
     },
     {
-      "rank": 98,
+      "rank": 97,
       "full_name": "erigontech/erigon",
       "owner": "erigontech",
       "name": "erigon",
@@ -1277,7 +1264,7 @@
       "trending_days": 2
     },
     {
-      "rank": 99,
+      "rank": 98,
       "full_name": "tutti-os/tutti",
       "owner": "tutti-os",
       "name": "tutti",
@@ -1290,7 +1277,7 @@
       "trending_days": 2
     },
     {
-      "rank": 100,
+      "rank": 99,
       "full_name": "AIDotNet/OpenDeepWiki",
       "owner": "AIDotNet",
       "name": "OpenDeepWiki",
@@ -1300,6 +1287,19 @@
       "growth_rate": 100,
       "language": "C#",
       "first_seen": "2026-08-06",
+      "trending_days": 2
+    },
+    {
+      "rank": 100,
+      "full_name": "bowenliang123/dsh-context",
+      "owner": "bowenliang123",
+      "name": "dsh-context",
+      "stars": 3474,
+      "estimated_initial_stars": 3374,
+      "growth": 100,
+      "growth_rate": 100,
+      "language": "TypeScript",
+      "first_seen": "2026-10-22",
       "trending_days": 2
     }
   ]

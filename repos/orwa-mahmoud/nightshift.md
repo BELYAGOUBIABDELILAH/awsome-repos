@@ -1,6 +1,6 @@
 # orwa-mahmoud&#x2F;nightshift
 
-> Accountable long-running coding shifts for Cursor, Codex, and Claude Code. Safe autonomy, recovery, persistent state, and reviewable results: a clear view of what’s done, in progress, parked, or blocked—without scrolling a marathon chat.
+> Brainstorm, compare approaches, and agree on a plan and what evidence to collect. Run it as an autonomous shift with automatic recovery. Get reviewable results with a receipt for each item showing what changed, which checks ran, and what needs your attention. Available for Claude Code, Codex, and Cursor.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;orwa-mahmoud&#x2F;nightshift) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Shell |
 | **License** | MIT |
-| **Stars** | ⭐ 571 |
-| **Forks** | 🍴 25 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 606 |
+| **Forks** | 🍴 31 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Nov 9, 2026 |
-| **Last Seen** | Nov 21, 2026 |
+| **Last Seen** | Nov 27, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 1 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 35&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-11-26T21:01:04.733Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-11-27T21:01:10.850Z*  
+*Data from 3 trending reports*

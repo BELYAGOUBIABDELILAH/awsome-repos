@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Vue |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 4,041 |
-| **Forks** | 🍴 1,642 |
-| **Trending Days** | 59 |
+| **Stars** | ⭐ 4,047 |
+| **Forks** | 🍴 1,644 |
+| **Trending Days** | 60 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 26, 2026 |
+| **Last Seen** | Nov 27, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 59
-- **Longest Streak**: 10 days
+- **Trending Days**: 60
+- **Longest Streak**: 11 days
 
 ---
 
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 4,041+ stars, strong contributor base |
+| **Community** | Very Active | 4,047+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-26T21:01:00.946Z*  
-*Data from 59 trending reports*
+*Last updated: 2026-11-27T21:01:06.423Z*  
+*Data from 60 trending reports*

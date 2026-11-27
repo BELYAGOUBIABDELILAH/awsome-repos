@@ -16,16 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,597 | 2026-08-01 | 95 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,628 | 2026-08-01 | 96 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 62,788 | 2026-08-01 | 87 |
+| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 62,829 | 2026-08-01 | 88 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,717 | 2026-08-01 | 92 |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,733 | 2026-08-01 | 93 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jepsen-io/jepsen](../repos/jepsen-io/jepsen.md) | ⭐ 7,607 | 2026-11-04 | 12 |
+| [jepsen-io/jepsen](../repos/jepsen-io/jepsen.md) | ⭐ 7,607 | 2026-11-04 | 13 |
 
 
 ---
@@ -47,11 +47,11 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 82,207 | 2026-08-01 | 75 |
-| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 62,788 | 2026-08-01 | 87 |
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,597 | 2026-08-01 | 95 |
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,717 | 2026-08-01 | 92 |
+| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 62,829 | 2026-08-01 | 88 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,628 | 2026-08-01 | 96 |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,733 | 2026-08-01 | 93 |
 | [clojure/clojurescript](../repos/clojure/clojurescript.md) | ⭐ 9,393 | 2026-09-07 | 1 |
-| [jepsen-io/jepsen](../repos/jepsen-io/jepsen.md) | ⭐ 7,607 | 2026-11-04 | 12 |
+| [jepsen-io/jepsen](../repos/jepsen-io/jepsen.md) | ⭐ 7,607 | 2026-11-04 | 13 |
 | [babashka/babashka](../repos/babashka/babashka.md) | ⭐ 4,630 | 2026-10-27 | 2 |
 | [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | ⭐ 4,106 | 2026-08-02 | 61 |
 | [status-im/status-legacy](../repos/status-im/status-legacy.md) | ⭐ 4,023 | 2026-08-02 | 23 |
@@ -71,16 +71,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [metabase/metabase](../repos/metabase/metabase.md) | 95 | ⭐ 50,597 | 2026-08-01 | 2026-11-26 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 92 | ⭐ 45,717 | 2026-08-01 | 2026-11-26 |
-| [penpot/penpot](../repos/penpot/penpot.md) | 87 | ⭐ 62,788 | 2026-08-01 | 2026-11-26 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 96 | ⭐ 50,628 | 2026-08-01 | 2026-11-27 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 93 | ⭐ 45,733 | 2026-08-01 | 2026-11-27 |
+| [penpot/penpot](../repos/penpot/penpot.md) | 88 | ⭐ 62,829 | 2026-08-01 | 2026-11-27 |
 | [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | 75 | ⭐ 82,207 | 2026-08-01 | 2026-11-18 |
 | [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | 61 | ⭐ 4,106 | 2026-08-02 | 2026-11-15 |
 | [logseq/og](../repos/logseq/og.md) | 26 | ⭐ 328 | 2026-08-02 | 2026-10-12 |
 | [status-im/status-legacy](../repos/status-im/status-legacy.md) | 23 | ⭐ 4,023 | 2026-08-02 | 2026-11-12 |
 | [logseq/docs](../repos/logseq/docs.md) | 21 | ⭐ 205 | 2026-09-25 | 2026-11-14 |
+| [jepsen-io/jepsen](../repos/jepsen-io/jepsen.md) | 13 | ⭐ 7,607 | 2026-11-04 | 2026-11-27 |
 | [cognitect-labs/test-runner](../repos/cognitect-labs/test-runner.md) | 12 | ⭐ 308 | 2026-08-01 | 2026-08-29 |
-| [jepsen-io/jepsen](../repos/jepsen-io/jepsen.md) | 12 | ⭐ 7,607 | 2026-11-04 | 2026-11-26 |
 
 ---
 
@@ -107,4 +107,4 @@
 
 ---
 
-*Last updated: 2026-11-26T21:00:58.873Z*
+*Last updated: 2026-11-27T21:01:03.737Z*

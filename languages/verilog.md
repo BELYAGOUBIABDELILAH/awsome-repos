@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 23
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-26
+- **Last Updated**: 2026-11-27
 
 ---
 
@@ -16,22 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | ⭐ 4,402 | 2026-08-01 | 74 |
+| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | ⭐ 4,402 | 2026-08-01 | 75 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EttusResearch/uhd](../repos/EttusResearch/uhd.md) | ⭐ 1,303 | 2026-08-01 | 66 |
+| [EttusResearch/uhd](../repos/EttusResearch/uhd.md) | ⭐ 1,303 | 2026-08-01 | 67 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | ⭐ 3,322 | 2026-08-01 | 95 |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | ⭐ 3,328 | 2026-08-01 | 96 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | ⭐ 821 | 2026-08-01 | 63 |
+| [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | ⭐ 824 | 2026-08-01 | 64 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | ⭐ 2,441 | 2026-08-04 | 45 |
+| [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | ⭐ 2,446 | 2026-08-04 | 46 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TinyTapeout/ttsky-verilog-template](../repos/TinyTapeout/ttsky-verilog-template.md) | ⭐ 71 | 2026-08-14 | 32 |
+| [TinyTapeout/ttsky-verilog-template](../repos/TinyTapeout/ttsky-verilog-template.md) | ⭐ 71 | 2026-08-14 | 33 |
 
 
 ---
@@ -52,20 +52,20 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | ⭐ 4,402 | 2026-08-01 | 74 |
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | ⭐ 3,322 | 2026-08-01 | 95 |
+| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | ⭐ 4,402 | 2026-08-01 | 75 |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | ⭐ 3,328 | 2026-08-01 | 96 |
 | [alexforencich/verilog-ethernet](../repos/alexforencich/verilog-ethernet.md) | ⭐ 3,133 | 2026-08-02 | 10 |
 | [corundum/corundum](../repos/corundum/corundum.md) | ⭐ 2,508 | 2026-08-07 | 8 |
-| [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | ⭐ 2,441 | 2026-08-04 | 45 |
+| [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | ⭐ 2,446 | 2026-08-04 | 46 |
 | [nvdla/hw](../repos/nvdla/hw.md) | ⭐ 2,170 | 2026-09-25 | 1 |
 | [analogdevicesinc/hdl](../repos/analogdevicesinc/hdl.md) | ⭐ 2,014 | 2026-08-01 | 34 |
 | [riscv-mcu/e203_hbirdv2](../repos/riscv-mcu/e203_hbirdv2.md) | ⭐ 1,977 | 2026-11-03 | 2 |
 | [ufrisk/pcileech-fpga](../repos/ufrisk/pcileech-fpga.md) | ⭐ 1,858 | 2026-10-25 | 3 |
 | [XUANTIE-RV/openc910](../repos/XUANTIE-RV/openc910.md) | ⭐ 1,462 | 2026-08-06 | 2 |
 | [chili-chips-ba/wireguard-fpga](../repos/chili-chips-ba/wireguard-fpga.md) | ⭐ 1,352 | 2026-08-09 | 1 |
-| [EttusResearch/uhd](../repos/EttusResearch/uhd.md) | ⭐ 1,303 | 2026-08-01 | 66 |
+| [EttusResearch/uhd](../repos/EttusResearch/uhd.md) | ⭐ 1,303 | 2026-08-01 | 67 |
 | [Digital-EDA/Digital-IDE](../repos/Digital-EDA/Digital-IDE.md) | ⭐ 1,180 | 2026-09-19 | 1 |
-| [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | ⭐ 821 | 2026-08-01 | 63 |
+| [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | ⭐ 824 | 2026-08-01 | 64 |
 | [The-OpenROAD-Project/OpenSTA](../repos/The-OpenROAD-Project/OpenSTA.md) | ⭐ 643 | 2026-08-03 | 21 |
 | [sheldonucr/ucr-eecs168-lab](../repos/sheldonucr/ucr-eecs168-lab.md) | ⭐ 595 | 2026-10-01 | 11 |
 | [openecos-projects/icsprout55-pdk](../repos/openecos-projects/icsprout55-pdk.md) | ⭐ 323 | 2026-10-29 | 1 |
@@ -79,13 +79,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 95 | ⭐ 3,322 | 2026-08-01 | 2026-11-26 |
-| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | 74 | ⭐ 4,402 | 2026-08-01 | 2026-11-26 |
-| [EttusResearch/uhd](../repos/EttusResearch/uhd.md) | 66 | ⭐ 1,303 | 2026-08-01 | 2026-11-26 |
-| [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | 63 | ⭐ 821 | 2026-08-01 | 2026-11-26 |
-| [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | 45 | ⭐ 2,441 | 2026-08-04 | 2026-11-26 |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 96 | ⭐ 3,328 | 2026-08-01 | 2026-11-27 |
+| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | 75 | ⭐ 4,402 | 2026-08-01 | 2026-11-27 |
+| [EttusResearch/uhd](../repos/EttusResearch/uhd.md) | 67 | ⭐ 1,303 | 2026-08-01 | 2026-11-27 |
+| [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | 64 | ⭐ 824 | 2026-08-01 | 2026-11-27 |
+| [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | 46 | ⭐ 2,446 | 2026-08-04 | 2026-11-27 |
 | [analogdevicesinc/hdl](../repos/analogdevicesinc/hdl.md) | 34 | ⭐ 2,014 | 2026-08-01 | 2026-09-12 |
-| [TinyTapeout/ttsky-verilog-template](../repos/TinyTapeout/ttsky-verilog-template.md) | 32 | ⭐ 71 | 2026-08-14 | 2026-11-26 |
+| [TinyTapeout/ttsky-verilog-template](../repos/TinyTapeout/ttsky-verilog-template.md) | 33 | ⭐ 71 | 2026-08-14 | 2026-11-27 |
 | [The-OpenROAD-Project/OpenSTA](../repos/The-OpenROAD-Project/OpenSTA.md) | 21 | ⭐ 643 | 2026-08-03 | 2026-11-11 |
 | [OpenPOWERFoundation/a2o](../repos/OpenPOWERFoundation/a2o.md) | 16 | ⭐ 59 | 2026-08-12 | 2026-10-08 |
 | [sheldonucr/ucr-eecs168-lab](../repos/sheldonucr/ucr-eecs168-lab.md) | 11 | ⭐ 595 | 2026-10-01 | 2026-10-19 |
@@ -120,4 +120,4 @@
 
 ---
 
-*Last updated: 2026-11-26T21:00:58.962Z*
+*Last updated: 2026-11-27T21:01:03.846Z*

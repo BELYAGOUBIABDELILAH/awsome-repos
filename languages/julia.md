@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [StructuralEquationModels/StructuralEquationModels.jl](../repos/StructuralEquationModels/StructuralEquationModels.jl.md) | ⭐ 56 | 2026-11-09 | 12 |
+| [StructuralEquationModels/StructuralEquationModels.jl](../repos/StructuralEquationModels/StructuralEquationModels.jl.md) | ⭐ 56 | 2026-11-09 | 13 |
 
 
 ---
@@ -74,8 +74,8 @@
 | [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | 39 | ⭐ 1,448 | 2026-08-02 | 2026-11-06 |
 | [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | 15 | ⭐ 46 | 2026-08-02 | 2026-08-25 |
 | [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | 14 | ⭐ 126 | 2026-08-01 | 2026-09-12 |
+| [StructuralEquationModels/StructuralEquationModels.jl](../repos/StructuralEquationModels/StructuralEquationModels.jl.md) | 13 | ⭐ 56 | 2026-11-09 | 2026-11-27 |
 | [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | 12 | ⭐ 117 | 2026-08-01 | 2026-09-12 |
-| [StructuralEquationModels/StructuralEquationModels.jl](../repos/StructuralEquationModels/StructuralEquationModels.jl.md) | 12 | ⭐ 56 | 2026-11-09 | 2026-11-26 |
 | [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | 8 | ⭐ 73 | 2026-08-01 | 2026-08-12 |
 | [SciFracX/FractionalCalculus.jl](../repos/SciFracX/FractionalCalculus.jl.md) | 6 | ⭐ 44 | 2026-11-12 | 2026-11-17 |
 | [JuliaGPU/KernelAbstractions.jl](../repos/JuliaGPU/KernelAbstractions.jl.md) | 4 | ⭐ 529 | 2026-10-11 | 2026-10-14 |
@@ -114,4 +114,4 @@
 
 ---
 
-*Last updated: 2026-11-26T21:00:58.908Z*
+*Last updated: 2026-11-27T21:01:03.780Z*

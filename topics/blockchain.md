@@ -9,7 +9,7 @@
 - **Total Repositories**: 449
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-11-07
-- **Average Stars**: 21672
+- **Average Stars**: 21677
 
 ---
 
@@ -17,31 +17,31 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,661 | TypeScript |  |
+| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,694 | TypeScript |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 31,535 | Rust |  |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 31,708 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 33,603 | C# |  |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 33,632 | C# |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,868 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,671 | Scala |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,672 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,634 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,650 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,420 | Lua |  |
+| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,426 | Lua |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,597 | Clojure |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,628 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,987 | C |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 18,014 | C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,130 | OCaml |  |
@@ -56,8 +56,8 @@
 | [morluto/rea](../repos/morluto/rea.md) | ⭐ 440,692 | TypeScript | 2026-10-06 | 11 |
 | [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 377,251 | Python | 2026-08-03 | 7 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 243,012 | Python | 2026-08-01 | 17 |
+| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 211,597 | TypeScript | 2026-08-07 | 17 |
 | [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 211,009 | TypeScript | 2026-08-11 | 9 |
-| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 210,839 | TypeScript | 2026-08-07 | 16 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,775 | Python | 2026-08-06 | 9 |
 | [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 181,291 | Dart | 2026-08-01 | 57 |
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 158,907 | JavaScript | 2026-08-06 | 4 |
@@ -70,48 +70,39 @@
 
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,661 | TypeScript | 9 |
+| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 58,694 | TypeScript | 10 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 31,535 | Rust | 8 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 31,708 | Rust | 9 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 33,603 | C# | 9 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 33,632 | C# | 10 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,868 | Ruby | 15 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,868 | Ruby | 16 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,671 | Scala | 11 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,672 | Scala | 12 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,634 | Scala | 25 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,650 | Scala | 26 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,420 | Lua | 8 |
+| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,426 | Lua | 9 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,597 | Clojure | 25 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,628 | Clojure | 26 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,987 | C | 10 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 18,014 | C | 11 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,130 | OCaml | 8 |
+| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,130 | OCaml | 9 |
 
 ---
 
 ## 🆕 New This Month
 
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [DavidHDev/react-bits](../repos/DavidHDev/react-bits.md) | ⭐ 50,534 | JavaScript | 2026-10-28 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [plandex-ai/plandex](../repos/plandex-ai/plandex.md) | ⭐ 15,833 | Go | 2026-10-28 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [meta/infer](../repos/meta/infer.md) | ⭐ 15,746 | OCaml | 2026-10-28 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [Usagi-org/ai-goofish-monitor](../repos/Usagi-org/ai-goofish-monitor.md) | ⭐ 18,312 | Python | 2026-11-03 |
@@ -133,10 +124,23 @@
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [lineofflight/frankfurter](../repos/lineofflight/frankfurter.md) | ⭐ 2,100 | Ruby | 2026-11-05 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [onnx/onnx](../repos/onnx/onnx.md) | ⭐ 21,657 | Python | 2026-11-06 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [mlflow/mlflow](../repos/mlflow/mlflow.md) | ⭐ 28,700 | Python | 2026-11-06 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [elder-plinius/T3MP3ST](../repos/elder-plinius/T3MP3ST.md) | ⭐ 6,972 | TypeScript | 2026-11-06 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-11-27](../archive/2026/11/2026-11-27.md)
+- 40 repositories trending
+- Top: firecrawl&#x2F;firecrawl
 
 ### [2026-11-26](../archive/2026/11/2026-11-26.md)
 - 40 repositories trending
@@ -162,10 +166,6 @@
 - 40 repositories trending
 - Top: firecrawl&#x2F;firecrawl
 
-### [2026-11-20](../archive/2026/11/2026-11-20.md)
-- 39 repositories trending
-- Top: firecrawl&#x2F;firecrawl
-
 
 ---
 
@@ -175,16 +175,16 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 98 days | 2026-08-01 | 2026-11-26 |
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 98 days | 2026-08-01 | 2026-11-26 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 95 days | 2026-08-01 | 2026-11-26 |
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 95 days | 2026-08-01 | 2026-11-26 |
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 94 days | 2026-08-01 | 2026-11-26 |
+| [apache/spark](../repos/apache/spark.md) | 99 days | 2026-08-01 | 2026-11-27 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 99 days | 2026-08-01 | 2026-11-27 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 96 days | 2026-08-01 | 2026-11-27 |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 96 days | 2026-08-01 | 2026-11-27 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 95 days | 2026-08-01 | 2026-11-27 |
 | [vim/vim](../repos/vim/vim.md) | 76 days | 2026-08-01 | 2026-11-18 |
-| [joernio/joern](../repos/joernio/joern.md) | 74 days | 2026-08-01 | 2026-11-26 |
-| [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | 63 days | 2026-08-01 | 2026-11-26 |
-| [OpenKore/openkore](../repos/OpenKore/openkore.md) | 58 days | 2026-08-01 | 2026-11-26 |
-| [ruby/ruby](../repos/ruby/ruby.md) | 57 days | 2026-08-01 | 2026-11-26 |
+| [joernio/joern](../repos/joernio/joern.md) | 75 days | 2026-08-01 | 2026-11-27 |
+| [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | 64 days | 2026-08-01 | 2026-11-27 |
+| [OpenKore/openkore](../repos/OpenKore/openkore.md) | 59 days | 2026-08-01 | 2026-11-27 |
+| [ruby/ruby](../repos/ruby/ruby.md) | 58 days | 2026-08-01 | 2026-11-27 |
 
 ---
 
@@ -200,7 +200,7 @@
 ### Trending Frequency
 - **Daily Average**: 37 repositories
 - **Peak Day**: 2026-11-06 (58 repositories)
-- **Growth Rate**: 9% this month
+- **Growth Rate**: 8% this month
 
 ---
 
@@ -314,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-11-26T21:00:58.659Z*
+*Last updated: 2026-11-27T21:01:03.484Z*

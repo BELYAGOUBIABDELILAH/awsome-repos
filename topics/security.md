@@ -9,7 +9,7 @@
 - **Total Repositories**: 310
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-11-07
-- **Average Stars**: 15148
+- **Average Stars**: 15149
 
 ---
 
@@ -17,13 +17,13 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,530 | Java |  |
+| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,538 | Java |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 22,065 | PHP |  |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 22,069 | PHP |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [MISP/MISP](../repos/MISP/MISP.md) | ⭐ 6,710 | PHP |  |
+| [MISP/MISP](../repos/MISP/MISP.md) | ⭐ 6,712 | PHP |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,868 | Ruby |  |
@@ -32,19 +32,19 @@
 | [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,083 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,671 | Scala |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,672 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,634 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,650 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,597 | Clojure |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,628 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,717 | Clojure |  |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,733 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,987 | C |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 18,014 | C |  |
 
 
 ---
@@ -70,45 +70,39 @@
 
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,530 | Java | 8 |
+| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,538 | Java | 9 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 22,065 | PHP | 8 |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 22,069 | PHP | 9 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [MISP/MISP](../repos/MISP/MISP.md) | ⭐ 6,710 | PHP | 8 |
+| [MISP/MISP](../repos/MISP/MISP.md) | ⭐ 6,712 | PHP | 9 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,868 | Ruby | 15 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,868 | Ruby | 16 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,083 | Ruby | 2 |
+| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,083 | Ruby | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,671 | Scala | 11 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,672 | Scala | 12 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,634 | Scala | 25 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,650 | Scala | 26 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,597 | Clojure | 25 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 50,628 | Clojure | 26 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,717 | Clojure | 15 |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,733 | Clojure | 16 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,987 | C | 10 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 18,014 | C | 11 |
 
 ---
 
 ## 🆕 New This Month
 
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [beenuar/AiSOC](../repos/beenuar/AiSOC.md) | ⭐ 6,658 | Python | 2026-10-28 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [meta/infer](../repos/meta/infer.md) | ⭐ 15,746 | OCaml | 2026-10-28 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [ViktorUJ/cks](../repos/ViktorUJ/cks.md) | ⭐ 1,669 | Shell | 2026-10-29 |
@@ -133,10 +127,20 @@
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [openssh/openssh-portable](../repos/openssh/openssh-portable.md) | ⭐ 4,098 | C | 2026-11-06 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [rstudio/gt](../repos/rstudio/gt.md) | ⭐ 2,161 | R | 2026-11-06 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [r-lib/devtools](../repos/r-lib/devtools.md) | ⭐ 2,525 | R | 2026-11-06 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-11-27](../archive/2026/11/2026-11-27.md)
+- 28 repositories trending
+- Top: metabase&#x2F;metabase
 
 ### [2026-11-26](../archive/2026/11/2026-11-26.md)
 - 28 repositories trending
@@ -162,10 +166,6 @@
 - 27 repositories trending
 - Top: metabase&#x2F;metabase
 
-### [2026-11-20](../archive/2026/11/2026-11-20.md)
-- 27 repositories trending
-- Top: metabase&#x2F;metabase
-
 
 ---
 
@@ -175,16 +175,16 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 98 days | 2026-08-01 | 2026-11-26 |
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 98 days | 2026-08-01 | 2026-11-26 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 95 days | 2026-08-01 | 2026-11-26 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 92 days | 2026-08-01 | 2026-11-26 |
-| [vlang/v](../repos/vlang/v.md) | 91 days | 2026-08-01 | 2026-11-26 |
+| [apache/spark](../repos/apache/spark.md) | 99 days | 2026-08-01 | 2026-11-27 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 99 days | 2026-08-01 | 2026-11-27 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 96 days | 2026-08-01 | 2026-11-27 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 93 days | 2026-08-01 | 2026-11-27 |
+| [vlang/v](../repos/vlang/v.md) | 92 days | 2026-08-01 | 2026-11-27 |
 | [vim/vim](../repos/vim/vim.md) | 76 days | 2026-08-01 | 2026-11-18 |
-| [joernio/joern](../repos/joernio/joern.md) | 74 days | 2026-08-01 | 2026-11-26 |
+| [joernio/joern](../repos/joernio/joern.md) | 75 days | 2026-08-01 | 2026-11-27 |
 | [firezone/firezone](../repos/firezone/firezone.md) | 64 days | 2026-08-02 | 2026-11-18 |
 | [apple/swift-crypto](../repos/apple/swift-crypto.md) | 63 days | 2026-08-01 | 2026-11-14 |
-| [ruby/ruby](../repos/ruby/ruby.md) | 57 days | 2026-08-01 | 2026-11-26 |
+| [ruby/ruby](../repos/ruby/ruby.md) | 58 days | 2026-08-01 | 2026-11-27 |
 
 ---
 
@@ -200,7 +200,7 @@
 ### Trending Frequency
 - **Daily Average**: 28.9 repositories
 - **Peak Day**: 2026-11-06 (54 repositories)
-- **Growth Rate**: 9% this month
+- **Growth Rate**: 8% this month
 
 ---
 
@@ -314,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-11-26T21:00:58.671Z*
+*Last updated: 2026-11-27T21:01:03.497Z*

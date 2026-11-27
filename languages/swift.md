@@ -16,40 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 4,357 | 2026-08-01 | 24 |
+| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 4,371 | 2026-08-01 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [seemoo-lab/openhaystack](../repos/seemoo-lab/openhaystack.md) | ⭐ 14,281 | 2026-08-17 | 13 |
+| [seemoo-lab/openhaystack](../repos/seemoo-lab/openhaystack.md) | ⭐ 14,291 | 2026-08-17 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | ⭐ 2,093 | 2026-09-13 | 21 |
+| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | ⭐ 2,258 | 2026-09-13 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [suversal/WrapPin](../repos/suversal/WrapPin.md) | ⭐ 1,358 | 2026-11-15 | 11 |
+| [suversal/WrapPin](../repos/suversal/WrapPin.md) | ⭐ 1,376 | 2026-11-15 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [consolelabs/hidden](../repos/consolelabs/hidden.md) | ⭐ 15,621 | 2026-11-17 | 10 |
+| [consolelabs/hidden](../repos/consolelabs/hidden.md) | ⭐ 15,639 | 2026-11-17 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gauthierpiarrette/highball](../repos/gauthierpiarrette/highball.md) | ⭐ 2,357 | 2026-11-19 | 8 |
+| [gauthierpiarrette/highball](../repos/gauthierpiarrette/highball.md) | ⭐ 2,362 | 2026-11-19 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [driceroland/Search](../repos/driceroland/Search.md) | ⭐ 4,202 | 2026-11-20 | 6 |
+| [driceroland/Search](../repos/driceroland/Search.md) | ⭐ 4,280 | 2026-11-20 | 7 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [milika/SmartTubeIOS](../repos/milika/SmartTubeIOS.md) | ⭐ 569 | 2026-10-28 | Native Swift&#x2F;SwiftUI YouTube client for iPhone, iPad, Apple TV &amp; Mac — ad-free, SponsorBlock, DeA... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [carloslfu/slotstream](../repos/carloslfu/slotstream.md) | ⭐ 605 | 2026-10-28 | Run a 105 GB AI model on a Mac that can&#39;t hold it. Qwen3.8-Flash-Next 4-bit, streamed from SSD on... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [cmagnussen/blitztext-app](../repos/cmagnussen/blitztext-app.md) | ⭐ 246 | 2026-10-28 | Local-first dictation for macOS. Speak, text, done. Parakeet or Whisper on your Mac, writing mode... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nook-browser/Nook](../repos/nook-browser/Nook.md) | ⭐ 2,022 | 2026-10-29 | A new browser, not owned by Atlassian. |
@@ -71,6 +62,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [chocoford/ExcalidrawZ](../repos/chocoford/ExcalidrawZ.md) | ⭐ 1,898 | 2026-11-14 | Excalidraw app for mac. Powered by pure SwiftUI. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [suversal/WrapPin](../repos/suversal/WrapPin.md) | ⭐ 1,376 | 2026-11-15 | iOS 27+ 本机虚拟定位与步行路线测试工具 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [drumih/turbo-fieldfare](../repos/drumih/turbo-fieldfare.md) | ⭐ 7,424 | 2026-11-15 | Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ResistanceTo/MiniWatts](../repos/ResistanceTo/MiniWatts.md) | ⭐ 509 | 2026-11-15 | An iPhone battery, charging and thermal instrument built on private iOS APIs — real charger watts... |
 
 
 ---
@@ -93,7 +93,7 @@
 | [SnapKit/SnapKit](../repos/SnapKit/SnapKit.md) | ⭐ 20,344 | 2026-08-14 | 1 |
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,685 | 2026-08-01 | 4 |
 | [OpenEmu/OpenEmu](../repos/OpenEmu/OpenEmu.md) | ⭐ 17,766 | 2026-09-13 | 1 |
-| [consolelabs/hidden](../repos/consolelabs/hidden.md) | ⭐ 15,621 | 2026-11-17 | 10 |
+| [consolelabs/hidden](../repos/consolelabs/hidden.md) | ⭐ 15,639 | 2026-11-17 | 11 |
 | [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 15,451 | 2026-09-21 | 16 |
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 15,429 | 2026-08-03 | 5 |
 | [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 15,311 | 2026-08-24 | 13 |
@@ -109,9 +109,9 @@
 | [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 33 | ⭐ 14,103 | 2026-08-01 | 2026-11-11 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 28 | ⭐ 28,794 | 2026-08-01 | 2026-11-14 |
 | [apple/container](../repos/apple/container.md) | 25 | ⭐ 51,943 | 2026-08-01 | 2026-11-18 |
-| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 24 | ⭐ 4,357 | 2026-08-01 | 2026-11-26 |
+| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 25 | ⭐ 4,371 | 2026-08-01 | 2026-11-27 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 22 | ⭐ 14,999 | 2026-08-04 | 2026-10-29 |
-| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | 21 | ⭐ 2,093 | 2026-09-13 | 2026-11-26 |
+| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | 22 | ⭐ 2,258 | 2026-09-13 | 2026-11-27 |
 | [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 19 | ⭐ 9,443 | 2026-08-02 | 2026-11-16 |
 | [swiftlang/swift](../repos/swiftlang/swift.md) | 18 | ⭐ 70,542 | 2026-08-05 | 2026-11-06 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 17 | ⭐ 26,944 | 2026-08-04 | 2026-11-17 |
@@ -224,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-11-26T21:00:58.954Z*
+*Last updated: 2026-11-27T21:01:03.836Z*

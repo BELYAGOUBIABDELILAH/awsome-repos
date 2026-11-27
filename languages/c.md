@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [libsdl-org/SDL](../repos/libsdl-org/SDL.md) | ⭐ 17,075 | 2026-08-01 | 20 |
+| [libsdl-org/SDL](../repos/libsdl-org/SDL.md) | ⭐ 17,085 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [php/php-src](../repos/php/php-src.md) | ⭐ 41,872 | 2026-08-01 | 22 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 41,876 | 2026-08-01 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,987 | 2026-08-01 | 51 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 18,014 | 2026-08-01 | 52 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 33,504 | 2026-08-02 | 17 |
+| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 33,651 | 2026-08-02 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [flipperdevices/flipperzero-firmware](../repos/flipperdevices/flipperzero-firmware.md) | ⭐ 17,006 | 2026-08-03 | 11 |
+| [flipperdevices/flipperzero-firmware](../repos/flipperdevices/flipperzero-firmware.md) | ⭐ 17,013 | 2026-08-03 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 17,192 | 2026-08-06 | 39 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 17,204 | 2026-08-06 | 40 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [madler/zlib](../repos/madler/zlib.md) | ⭐ 7,259 | 2026-08-07 | 23 |
+| [madler/zlib](../repos/madler/zlib.md) | ⭐ 7,264 | 2026-08-07 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [espressif/esp-idf](../repos/espressif/esp-idf.md) | ⭐ 19,607 | 2026-08-12 | 19 |
+| [espressif/esp-idf](../repos/espressif/esp-idf.md) | ⭐ 19,622 | 2026-08-12 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pgvector/pgvector](../repos/pgvector/pgvector.md) | ⭐ 23,832 | 2026-08-12 | 20 |
+| [pgvector/pgvector](../repos/pgvector/pgvector.md) | ⭐ 23,843 | 2026-08-12 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [meta/zstd](../repos/meta/zstd.md) | ⭐ 28,342 | 2026-11-07 | 9 |
+| [meta/zstd](../repos/meta/zstd.md) | ⭐ 28,360 | 2026-11-07 | 10 |
 
 
 ---
@@ -70,7 +70,7 @@
 | [openssh/openssh-portable](../repos/openssh/openssh-portable.md) | ⭐ 4,098 | 2026-11-06 | Portable OpenSSH |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [meta/zstd](../repos/meta/zstd.md) | ⭐ 28,342 | 2026-11-07 | Zstandard - Fast real-time compression algorithm |
+| [meta/zstd](../repos/meta/zstd.md) | ⭐ 28,360 | 2026-11-07 | Zstandard - Fast real-time compression algorithm |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [zeldaret/oot](../repos/zeldaret/oot.md) | ⭐ 5,711 | 2026-11-07 | Decompilation of The Legend of Zelda: Ocarina of Time |
@@ -96,13 +96,13 @@
 | [git/git](../repos/git/git.md) | ⭐ 64,135 | 2026-08-05 | 10 |
 | [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 51,088 | 2026-09-01 | 26 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 48,774 | 2026-08-07 | 27 |
-| [php/php-src](../repos/php/php-src.md) | ⭐ 41,872 | 2026-08-01 | 22 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 41,876 | 2026-08-01 | 23 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 38,334 | 2026-08-08 | 5 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,982 | 2026-08-02 | 11 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,813 | 2026-08-04 | 10 |
 | [nothings/stb](../repos/nothings/stb.md) | ⭐ 35,019 | 2026-08-03 | 9 |
 | [valinet/ExplorerPatcher](../repos/valinet/ExplorerPatcher.md) | ⭐ 34,217 | 2026-09-06 | 5 |
-| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 33,504 | 2026-08-02 | 17 |
+| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 33,651 | 2026-08-02 | 18 |
 | [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,509 | 2026-08-01 | 6 |
 | [lizongying/my-tv](../repos/lizongying/my-tv.md) | ⭐ 31,960 | 2026-08-17 | 2 |
 | [coolsnowwolf/lede](../repos/coolsnowwolf/lede.md) | ⭐ 31,611 | 2026-08-16 | 3 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 51 | ⭐ 17,987 | 2026-08-01 | 2026-11-26 |
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 39 | ⭐ 17,192 | 2026-08-06 | 2026-11-26 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 52 | ⭐ 18,014 | 2026-08-01 | 2026-11-27 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 40 | ⭐ 17,204 | 2026-08-06 | 2026-11-27 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 27 | ⭐ 48,774 | 2026-08-07 | 2026-11-17 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 26 | ⭐ 140,879 | 2026-08-01 | 2026-11-11 |
 | [JustVugg/colibri](../repos/JustVugg/colibri.md) | 26 | ⭐ 51,088 | 2026-09-01 | 2026-11-14 |
-| [madler/zlib](../repos/madler/zlib.md) | 23 | ⭐ 7,259 | 2026-08-07 | 2026-11-26 |
-| [php/php-src](../repos/php/php-src.md) | 22 | ⭐ 41,872 | 2026-08-01 | 2026-11-26 |
+| [madler/zlib](../repos/madler/zlib.md) | 24 | ⭐ 7,264 | 2026-08-07 | 2026-11-27 |
+| [php/php-src](../repos/php/php-src.md) | 23 | ⭐ 41,876 | 2026-08-01 | 2026-11-27 |
+| [libsdl-org/SDL](../repos/libsdl-org/SDL.md) | 21 | ⭐ 17,085 | 2026-08-01 | 2026-11-27 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 21 | ⭐ 79,696 | 2026-08-02 | 2026-11-18 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 21 | ⭐ 28,089 | 2026-08-07 | 2026-10-23 |
-| [libsdl-org/SDL](../repos/libsdl-org/SDL.md) | 20 | ⭐ 17,075 | 2026-08-01 | 2026-11-26 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-26T21:00:58.863Z*
+*Last updated: 2026-11-27T21:01:03.723Z*

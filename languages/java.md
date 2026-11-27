@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,530 | 2026-08-01 | 24 |
+| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,538 | 2026-08-01 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 14,079 | 2026-08-01 | 25 |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 14,083 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 30,374 | 2026-08-04 | 34 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 30,389 | 2026-08-04 | 35 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 52,544 | 2026-08-04 | 23 |
+| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 52,557 | 2026-08-04 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openjdk/jdk](../repos/openjdk/jdk.md) | ⭐ 23,584 | 2026-08-04 | 19 |
+| [openjdk/jdk](../repos/openjdk/jdk.md) | ⭐ 23,586 | 2026-08-04 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [StarRocks/starrocks](../repos/StarRocks/starrocks.md) | ⭐ 12,291 | 2026-08-05 | 24 |
+| [StarRocks/starrocks](../repos/StarRocks/starrocks.md) | ⭐ 12,295 | 2026-08-05 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [langchain4j/langchain4j](../repos/langchain4j/langchain4j.md) | ⭐ 13,447 | 2026-08-05 | 20 |
+| [langchain4j/langchain4j](../repos/langchain4j/langchain4j.md) | ⭐ 13,453 | 2026-08-05 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/seatunnel](../repos/apache/seatunnel.md) | ⭐ 9,836 | 2026-08-19 | 16 |
+| [apache/seatunnel](../repos/apache/seatunnel.md) | ⭐ 9,840 | 2026-08-19 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/fineract](../repos/apache/fineract.md) | ⭐ 2,671 | 2026-08-27 | 16 |
+| [apache/fineract](../repos/apache/fineract.md) | ⭐ 2,676 | 2026-08-27 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AbdurazaaqMohammed/MP-Manager](../repos/AbdurazaaqMohammed/MP-Manager.md) | ⭐ 706 | 2026-09-27 | 16 |
+| [AbdurazaaqMohammed/MP-Manager](../repos/AbdurazaaqMohammed/MP-Manager.md) | ⭐ 715 | 2026-09-27 | 17 |
 
 
 ---
@@ -76,7 +76,7 @@
 | [graphhopper/graphhopper](../repos/graphhopper/graphhopper.md) | ⭐ 6,806 | 2026-11-10 | Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [apache/solr](../repos/apache/solr.md) | ⭐ 1,707 | 2026-11-12 | Apache Solr open-source search software |
+| [apache/solr](../repos/apache/solr.md) | ⭐ 1,708 | 2026-11-12 | Apache Solr open-source search software |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [apache/zookeeper](../repos/apache/zookeeper.md) | ⭐ 12,834 | 2026-11-13 | Apache ZooKeeper |
@@ -95,7 +95,7 @@
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 67,230 | 2026-08-04 | 14 |
 | [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,508 | 2026-08-08 | 3 |
 | [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,311 | 2026-08-08 | 12 |
-| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 52,544 | 2026-08-04 | 23 |
+| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 52,557 | 2026-08-04 | 24 |
 | [google/guava](../repos/google/guava.md) | ⭐ 51,912 | 2026-08-02 | 12 |
 | [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 51,593 | 2026-08-12 | 12 |
 | [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 48,481 | 2026-08-07 | 14 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 34 | ⭐ 30,374 | 2026-08-04 | 2026-11-26 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 35 | ⭐ 30,389 | 2026-08-04 | 2026-11-27 |
 | [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 34 | ⭐ 6,364 | 2026-08-05 | 2026-11-13 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 32 | ⭐ 99,333 | 2026-08-03 | 2026-11-10 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 28 | ⭐ 78,658 | 2026-08-02 | 2026-11-18 |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 26 | ⭐ 14,083 | 2026-08-01 | 2026-11-27 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 26 | ⭐ 28,137 | 2026-08-02 | 2026-11-17 |
-| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 25 | ⭐ 14,079 | 2026-08-01 | 2026-11-26 |
+| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | 25 | ⭐ 4,538 | 2026-08-01 | 2026-11-27 |
 | [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 25 | ⭐ 36,419 | 2026-08-04 | 2026-11-17 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 25 | ⭐ 81,881 | 2026-08-04 | 2026-11-18 |
-| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | 24 | ⭐ 4,530 | 2026-08-01 | 2026-11-26 |
-| [StarRocks/starrocks](../repos/StarRocks/starrocks.md) | 24 | ⭐ 12,291 | 2026-08-05 | 2026-11-26 |
+| [StarRocks/starrocks](../repos/StarRocks/starrocks.md) | 25 | ⭐ 12,295 | 2026-08-05 | 2026-11-27 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-26T21:00:58.904Z*
+*Last updated: 2026-11-27T21:01:03.774Z*

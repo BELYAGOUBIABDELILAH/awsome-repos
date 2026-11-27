@@ -21,10 +21,8 @@
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [jsk-enshu/robot-programming](../repos/jsk-enshu/robot-programming.md) | ⭐ 42 | 2026-10-28 | This is exercise for robot-programming. |
 
+*No new Common Lisp repositories in the last 30 days*
 
 ---
 
@@ -68,4 +66,4 @@
 
 ---
 
-*Last updated: 2026-11-26T21:00:58.876Z*
+*Last updated: 2026-11-27T21:01:03.741Z*

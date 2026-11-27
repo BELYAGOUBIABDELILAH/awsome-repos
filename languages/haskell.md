@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 38
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-11-26
+- **Last Updated**: 2026-11-27
 
 ---
 
@@ -16,13 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,387 | 2026-08-01 | 83 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,396 | 2026-08-01 | 84 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,175 | 2026-08-01 | 42 |
+| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,175 | 2026-08-01 | 43 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [reanimate/reanimate](../repos/reanimate/reanimate.md) | ⭐ 1,435 | 2026-11-02 | 14 |
+| [reanimate/reanimate](../repos/reanimate/reanimate.md) | ⭐ 1,440 | 2026-11-02 | 15 |
 
 
 ---
@@ -31,7 +31,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [reanimate/reanimate](../repos/reanimate/reanimate.md) | ⭐ 1,435 | 2026-11-02 | Haskell library for building declarative animations based on SVG graphics |
+| [reanimate/reanimate](../repos/reanimate/reanimate.md) | ⭐ 1,440 | 2026-11-02 | Haskell library for building declarative animations based on SVG graphics |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [clash-lang/clash-compiler](../repos/clash-lang/clash-compiler.md) | ⭐ 1,626 | 2026-11-06 | Haskell to VHDL&#x2F;Verilog&#x2F;SystemVerilog compiler |
@@ -43,7 +43,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,387 | 2026-08-01 | 83 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,396 | 2026-08-01 | 84 |
 | [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,764 | 2026-08-01 | 74 |
 | [purescript/purescript](../repos/purescript/purescript.md) | ⭐ 8,914 | 2026-08-08 | 6 |
 | [elm/compiler](../repos/elm/compiler.md) | ⭐ 7,931 | 2026-08-09 | 6 |
@@ -53,7 +53,7 @@
 | [hledgerorg/hledger](../repos/hledgerorg/hledger.md) | ⭐ 4,814 | 2026-09-29 | 24 |
 | [commercialhaskell/stack](../repos/commercialhaskell/stack.md) | ⭐ 4,084 | 2026-08-05 | 24 |
 | [ghc/ghc](../repos/ghc/ghc.md) | ⭐ 3,274 | 2026-10-22 | 2 |
-| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,175 | 2026-08-01 | 42 |
+| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,175 | 2026-08-01 | 43 |
 | [agda/agda](../repos/agda/agda.md) | ⭐ 2,975 | 2026-08-03 | 37 |
 | [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | ⭐ 2,966 | 2026-08-01 | 25 |
 | [wireapp/wire-server](../repos/wireapp/wire-server.md) | ⭐ 2,783 | 2026-08-04 | 2 |
@@ -70,10 +70,10 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 83 | ⭐ 40,387 | 2026-08-01 | 2026-11-26 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 84 | ⭐ 40,396 | 2026-08-01 | 2026-11-27 |
 | [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | 74 | ⭐ 27,764 | 2026-08-01 | 2026-11-18 |
 | [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | 61 | ⭐ 2,118 | 2026-08-01 | 2026-11-16 |
-| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | 42 | ⭐ 3,175 | 2026-08-01 | 2026-11-26 |
+| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | 43 | ⭐ 3,175 | 2026-08-01 | 2026-11-27 |
 | [mtolly/onyx](../repos/mtolly/onyx.md) | 40 | ⭐ 312 | 2026-08-08 | 2026-11-16 |
 | [agda/agda](../repos/agda/agda.md) | 37 | ⭐ 2,975 | 2026-08-03 | 2026-11-15 |
 | [haskell/cabal](../repos/haskell/cabal.md) | 35 | ⭐ 1,750 | 2026-08-01 | 2026-11-18 |
@@ -126,4 +126,4 @@
 
 ---
 
-*Last updated: 2026-11-26T21:00:58.902Z*
+*Last updated: 2026-11-27T21:01:03.772Z*

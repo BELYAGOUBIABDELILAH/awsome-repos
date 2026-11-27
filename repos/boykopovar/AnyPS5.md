@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C++ |
 | **License** | GPL-2.0 |
-| **Stars** | ⭐ 62,134 |
-| **Forks** | 🍴 6,048 |
-| **Trending Days** | 25 |
+| **Stars** | ⭐ 62,722 |
+| **Forks** | 🍴 6,125 |
+| **Trending Days** | 26 |
 | **Peak Rank** | #1 |
 
 | **First Seen** | Oct 6, 2026 |
-| **Last Seen** | Nov 26, 2026 |
+| **Last Seen** | Nov 27, 2026 |
 
 
 ---
@@ -52,8 +52,8 @@
 ### Highlights
 
 - **Peak Rank**: #1
-- **Trending Days**: 25
-- **Longest Streak**: 12 days
+- **Trending Days**: 26
+- **Longest Streak**: 13 days
 
 ---
 
@@ -96,5 +96,5 @@
 
 ---
 
-*Last updated: 2026-11-26T21:01:04.110Z*  
-*Data from 25 trending reports*
+*Last updated: 2026-11-27T21:01:10.119Z*  
+*Data from 26 trending reports*

@@ -19,7 +19,7 @@
 |---|---|
 | ⭐ **Stars** | 1,024 |
 | 💻 **Language** | C++ |
-| 🏆 **Gem Score** | 89/100 |
+| 🏆 **Gem Score** | 88/100 |
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Sep 3, 2026 |
 
@@ -51,27 +51,7 @@
 
 ---
 
-### 3. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
-
-**A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol **
-
-| | |
-|---|---|
-| ⭐ **Stars** | 5,808 |
-| 💻 **Language** | C++ |
-| 🏆 **Gem Score** | 82/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 1, 2026 |
-
-**Why it's a gem**: High growth velocity (+61 stars&#x2F;day) • Trending 5 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/geo-tp/ESP32-Bit-Pirate.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;geo-tp&#x2F;ESP32-Bit-Pirate)
-
----
-
-### 4. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
+### 3. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
 
 **Source control for agents. Use multiple coding agents, track their changes and query them in one place**
 
@@ -91,27 +71,27 @@
 
 ---
 
-### 5. [huangruiteng&#x2F;loopx](../../repos/huangruiteng/loopx.md)
+### 4. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
 
-**Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.**
+**A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol **
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5,605 |
-| 💻 **Language** | Python |
+| ⭐ **Stars** | 5,808 |
+| 💻 **Language** | C++ |
 | 🏆 **Gem Score** | 81/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 4, 2026 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 1, 2026 |
 
-**Why it's a gem**: High growth velocity (+658 stars&#x2F;day) • Trending 6 times • Strong community engagement
+**Why it's a gem**: High growth velocity (+61 stars&#x2F;day) • Trending 5 times • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/huangruiteng/loopx.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;huangruiteng&#x2F;loopx)
+[View Passport](../../repos/geo-tp/ESP32-Bit-Pirate.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;geo-tp&#x2F;ESP32-Bit-Pirate)
 
 ---
 
-### 6. [alielsokary&#x2F;CaskHub](../../repos/alielsokary/CaskHub.md)
+### 5. [alielsokary&#x2F;CaskHub](../../repos/alielsokary/CaskHub.md)
 
 **Native GUI for Homebrew Casks**
 
@@ -128,6 +108,26 @@
 **Best for**: 
 
 [View Passport](../../repos/alielsokary/CaskHub.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;alielsokary&#x2F;CaskHub)
+
+---
+
+### 6. [huangruiteng&#x2F;loopx](../../repos/huangruiteng/loopx.md)
+
+**Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 5,605 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 80/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 4, 2026 |
+
+**Why it's a gem**: High growth velocity (+658 stars&#x2F;day) • Trending 6 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/huangruiteng/loopx.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;huangruiteng&#x2F;loopx)
 
 ---
 
@@ -291,27 +291,7 @@
 
 ---
 
-### 15. [huggingface&#x2F;funes](../../repos/huggingface/funes.md)
-
-**Durable, searchable memory of your past agent sessions.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 342 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 77/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Sep 7, 2026 |
-
-**Why it's a gem**: High growth velocity (+46 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/huggingface/funes.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;huggingface&#x2F;funes)
-
----
-
-### 16. [Osmantic&#x2F;ODS](../../repos/Osmantic/ODS.md)
+### 15. [Osmantic&#x2F;ODS](../../repos/Osmantic/ODS.md)
 
 **Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.**
 
@@ -331,7 +311,7 @@
 
 ---
 
-### 17. [aipoch&#x2F;open-science](../../repos/aipoch/open-science.md)
+### 16. [aipoch&#x2F;open-science](../../repos/aipoch/open-science.md)
 
 **The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python&#x2F;R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.**
 
@@ -348,6 +328,26 @@
 **Best for**: 
 
 [View Passport](../../repos/aipoch/open-science.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;aipoch&#x2F;open-science)
+
+---
+
+### 17. [huggingface&#x2F;funes](../../repos/huggingface/funes.md)
+
+**Durable, searchable memory of your past agent sessions.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 342 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 76/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Sep 7, 2026 |
+
+**Why it's a gem**: High growth velocity (+46 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/huggingface/funes.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;huggingface&#x2F;funes)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-11-26T21:01:05.180Z*  
+*Generated: 2026-11-27T21:01:11.371Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

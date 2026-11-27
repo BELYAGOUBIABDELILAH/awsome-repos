@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-26T21:01:05.365Z",
+  "generated_at": "2026-11-27T21:01:11.593Z",
   "total_repositories": 4688,
-  "trending_today": 358,
-  "new_this_month": 445,
+  "trending_today": 357,
+  "new_this_month": 420,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-11-26",
+  "last_collection": "2026-11-27",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
@@ -12,12 +12,12 @@
   },
   "most_frequent": {
     "full_name": "apache/spark",
-    "trending_days": 98,
+    "trending_days": 99,
     "first_seen": "2026-08-01"
   },
   "newest_discovery": {
     "full_name": "CroqueMr/libreelec-CB1",
-    "stars": 431,
+    "stars": 443,
     "first_seen": "2026-11-26"
   },
   "fastest_growing": {
@@ -26,8 +26,8 @@
     "growth_rate": 100,
     "first_seen": "2026-08-01"
   },
-  "total_stars": 62038690,
-  "avg_stars": 13234,
+  "total_stars": 62051755,
+  "avg_stars": 13236,
   "avg_trending_days": 7.9,
   "language_count": 62,
   "topic_count": 11506,

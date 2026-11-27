@@ -14,11 +14,11 @@
 | **License** | MIT |
 | **Stars** | ⭐ 953 |
 | **Forks** | 🍴 406 |
-| **Trending Days** | 59 |
+| **Trending Days** | 60 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 26, 2026 |
+| **Last Seen** | Nov 27, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 59
-- **Longest Streak**: 9 days
+- **Trending Days**: 60
+- **Longest Streak**: 10 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-26T21:01:00.995Z*  
-*Data from 59 trending reports*
+*Last updated: 2026-11-27T21:01:06.481Z*  
+*Data from 60 trending reports*

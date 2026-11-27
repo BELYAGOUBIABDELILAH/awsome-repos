@@ -16,40 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 96,333 | 2026-08-01 | 65 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 96,336 | 2026-08-01 | 66 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 2,323 | 2026-08-01 | 23 |
+| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 2,331 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,989 | 2026-08-04 | 19 |
+| [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,992 | 2026-08-04 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/skills](../repos/cloudflare/skills.md) | ⭐ 3,465 | 2026-08-05 | 24 |
+| [cloudflare/skills](../repos/cloudflare/skills.md) | ⭐ 3,477 | 2026-08-05 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,929 | 2026-09-02 | 15 |
+| [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,931 | 2026-09-02 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [itsnotkubrick/3X-UI_KIT](../repos/itsnotkubrick/3X-UI_KIT.md) | ⭐ 761 | 2026-10-15 | 13 |
+| [itsnotkubrick/3X-UI_KIT](../repos/itsnotkubrick/3X-UI_KIT.md) | ⭐ 763 | 2026-10-15 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [liandu2024/Open-Box](../repos/liandu2024/Open-Box.md) | ⭐ 2,909 | 2026-10-22 | 16 |
+| [liandu2024/Open-Box](../repos/liandu2024/Open-Box.md) | ⭐ 2,925 | 2026-10-22 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FFmpeg-Builds/FFmpeg-Builds](../repos/FFmpeg-Builds/FFmpeg-Builds.md) | ⭐ 12,046 | 2026-11-19 | 8 |
+| [orwa-mahmoud/nightshift](../repos/orwa-mahmoud/nightshift.md) | ⭐ 606 | 2026-11-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [home-assistant/apps](../repos/home-assistant/apps.md) | ⭐ 2,279 | 2026-11-19 | 8 |
+| [FFmpeg-Builds/FFmpeg-Builds](../repos/FFmpeg-Builds/FFmpeg-Builds.md) | ⭐ 12,051 | 2026-11-19 | 9 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [remote-android/redroid-doc](../repos/remote-android/redroid-doc.md) | ⭐ 7,051 | 2026-10-28 | redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues &#x2F; ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ViktorUJ/cks](../repos/ViktorUJ/cks.md) | ⭐ 1,669 | 2026-10-29 | Open-source Platform for learning kubernetes and aws eks   and preparation for  for  Certified Ku... |
@@ -67,7 +64,7 @@
 | [lxgw/LxgwWenKai](../repos/lxgw/LxgwWenKai.md) | ⭐ 26,857 | 2026-11-07 | An open-source Chinese font derived from Fontworks&#39; Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [orwa-mahmoud/nightshift](../repos/orwa-mahmoud/nightshift.md) | ⭐ 571 | 2026-11-09 | Accountable long-running coding shifts for Cursor, Codex, and Claude Code. Safe autonomy, recover... |
+| [orwa-mahmoud/nightshift](../repos/orwa-mahmoud/nightshift.md) | ⭐ 606 | 2026-11-09 | Brainstorm, compare approaches, and agree on a plan and what evidence to collect. Run it as an au... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [htr-tech/nexphisher](../repos/htr-tech/nexphisher.md) | ⭐ 3,939 | 2026-11-10 | Advanced Phishing tool |
@@ -77,6 +74,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [chefranov/mhi2-au37x-carplay](../repos/chefranov/mhi2-au37x-carplay.md) | ⭐ 141 | 2026-11-12 | CarPlay map, route guidance and album art on the Audi Virtual Cockpit, plus MMI touchpad D-pad. M... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [kinsamanka/OpenStick-Builder](../repos/kinsamanka/OpenStick-Builder.md) | ⭐ 102 | 2026-11-15 | Debian image builder for MSM8916 based 4G modem dongles |
 
 
 ---
@@ -87,7 +87,7 @@
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,950 | 2026-08-07 | 6 |
 | [papers-we-love/papers-we-love](../repos/papers-we-love/papers-we-love.md) | ⭐ 110,960 | 2026-10-27 | 1 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 96,333 | 2026-08-01 | 65 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 96,336 | 2026-08-01 | 66 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,756 | 2026-08-04 | 10 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,702 | 2026-08-06 | 15 |
@@ -96,7 +96,7 @@
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
 | [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 34,152 | 2026-08-20 | 15 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 33,123 | 2026-08-02 | 22 |
-| [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,929 | 2026-09-02 | 15 |
+| [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,931 | 2026-09-02 | 16 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
 | [lxgw/LxgwWenKai](../repos/lxgw/LxgwWenKai.md) | ⭐ 26,857 | 2026-11-07 | 1 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 26,538 | 2026-08-04 | 16 |
@@ -112,16 +112,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 65 | ⭐ 96,333 | 2026-08-01 | 2026-11-26 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 66 | ⭐ 96,336 | 2026-08-01 | 2026-11-27 |
 | [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 27 | ⭐ 8,876 | 2026-08-12 | 2026-11-14 |
-| [cloudflare/skills](../repos/cloudflare/skills.md) | 24 | ⭐ 3,465 | 2026-08-05 | 2026-11-26 |
-| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | 23 | ⭐ 2,323 | 2026-08-01 | 2026-11-26 |
+| [cloudflare/skills](../repos/cloudflare/skills.md) | 25 | ⭐ 3,477 | 2026-08-05 | 2026-11-27 |
+| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | 24 | ⭐ 2,331 | 2026-08-01 | 2026-11-27 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
-| [google/oss-fuzz](../repos/google/oss-fuzz.md) | 19 | ⭐ 12,989 | 2026-08-04 | 2026-11-26 |
+| [google/oss-fuzz](../repos/google/oss-fuzz.md) | 20 | ⭐ 12,992 | 2026-08-04 | 2026-11-27 |
 | [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | 17 | ⭐ 11,015 | 2026-08-07 | 2026-11-10 |
 | [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | 17 | ⭐ 3,982 | 2026-08-19 | 2026-11-16 |
 | [omacom/omarchy](../repos/omacom/omarchy.md) | 17 | ⭐ 46,666 | 2026-08-29 | 2026-11-09 |
-| [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | 16 | ⭐ 10,335 | 2026-08-03 | 2026-11-17 |
+| [liandu2024/Open-Box](../repos/liandu2024/Open-Box.md) | 17 | ⭐ 2,925 | 2026-10-22 | 2026-11-27 |
 
 ---
 
@@ -230,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-11-26T21:00:58.951Z*
+*Last updated: 2026-11-27T21:01:03.832Z*

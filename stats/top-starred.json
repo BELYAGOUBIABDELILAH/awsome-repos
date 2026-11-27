@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T21:01:05.374Z",
+  "generated_at": "2026-11-27T21:01:11.603Z",
   "total_count": 100,
   "repositories": [
     {
@@ -127,13 +127,23 @@
       "full_name": "ossu/computer-science",
       "owner": "ossu",
       "name": "computer-science",
-      "stars": 211598,
+      "stars": 211620,
       "language": "HTML",
       "first_seen": "2026-08-03",
-      "trending_days": 33
+      "trending_days": 34
     },
     {
       "rank": 14,
+      "full_name": "firecrawl/firecrawl",
+      "owner": "firecrawl",
+      "name": "firecrawl",
+      "stars": 211597,
+      "language": "TypeScript",
+      "first_seen": "2026-08-07",
+      "trending_days": 17
+    },
+    {
+      "rank": 15,
       "full_name": "n8n-io/n8n",
       "owner": "n8n-io",
       "name": "n8n",
@@ -141,16 +151,6 @@
       "language": "TypeScript",
       "first_seen": "2026-08-11",
       "trending_days": 9
-    },
-    {
-      "rank": 15,
-      "full_name": "firecrawl/firecrawl",
-      "owner": "firecrawl",
-      "name": "firecrawl",
-      "stars": 210839,
-      "language": "TypeScript",
-      "first_seen": "2026-08-07",
-      "trending_days": 16
     },
     {
       "rank": 16,
@@ -177,10 +177,10 @@
       "full_name": "microsoft/markitdown",
       "owner": "microsoft",
       "name": "markitdown",
-      "stars": 198604,
+      "stars": 198743,
       "language": "Python",
       "first_seen": "2026-09-07",
-      "trending_days": 11
+      "trending_days": 12
     },
     {
       "rank": 19,
@@ -287,10 +287,10 @@
       "full_name": "github/spec-kit",
       "owner": "github",
       "name": "spec-kit",
-      "stars": 151524,
+      "stars": 152228,
       "language": "Python",
       "first_seen": "2026-08-14",
-      "trending_days": 21
+      "trending_days": 22
     },
     {
       "rank": 30,
@@ -467,10 +467,10 @@
       "full_name": "earendil-works/pi",
       "owner": "earendil-works",
       "name": "pi",
-      "stars": 124059,
+      "stars": 124297,
       "language": "TypeScript",
       "first_seen": "2026-08-07",
-      "trending_days": 20
+      "trending_days": 21
     },
     {
       "rank": 48,
@@ -507,10 +507,10 @@
       "full_name": "2dust/v2rayN",
       "owner": "2dust",
       "name": "v2rayN",
-      "stars": 121525,
+      "stars": 121591,
       "language": "C#",
       "first_seen": "2026-08-02",
-      "trending_days": 44
+      "trending_days": 45
     },
     {
       "rank": 52,
@@ -747,10 +747,10 @@
       "full_name": "localsend/localsend",
       "owner": "localsend",
       "name": "localsend",
-      "stars": 101027,
+      "stars": 101171,
       "language": "Dart",
       "first_seen": "2026-08-02",
-      "trending_days": 52
+      "trending_days": 53
     },
     {
       "rank": 76,
@@ -817,10 +817,10 @@
       "full_name": "nvm-sh/nvm",
       "owner": "nvm-sh",
       "name": "nvm",
-      "stars": 96333,
+      "stars": 96336,
       "language": "Shell",
       "first_seen": "2026-08-01",
-      "trending_days": 65
+      "trending_days": 66
     },
     {
       "rank": 83,

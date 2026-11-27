@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | TypeScript |
+| **Language** | Python |
 | **License** | MIT |
-| **Stars** | ⭐ 4,247 |
-| **Forks** | 🍴 286 |
-| **Trending Days** | 49 |
+| **Stars** | ⭐ 4,248 |
+| **Forks** | 🍴 287 |
+| **Trending Days** | 50 |
 | **Peak Rank** | #12 |
 
 | **First Seen** | Aug 7, 2026 |
-| **Last Seen** | Nov 26, 2026 |
+| **Last Seen** | Nov 27, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in TypeScript or similar-topics*
+*Similar: Check repositories in Python or similar-topics*
 
 ---
 
@@ -48,8 +48,8 @@
 ### Highlights
 
 - **Peak Rank**: #12
-- **Trending Days**: 49
-- **Longest Streak**: 8 days
+- **Trending Days**: 50
+- **Longest Streak**: 9 days
 
 ---
 
@@ -82,7 +82,7 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in TypeScript
+- Check similar projects in Python
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
@@ -92,5 +92,5 @@
 
 ---
 
-*Last updated: 2026-11-26T21:01:02.011Z*  
-*Data from 49 trending reports*
+*Last updated: 2026-11-27T21:01:07.704Z*  
+*Data from 50 trending reports*

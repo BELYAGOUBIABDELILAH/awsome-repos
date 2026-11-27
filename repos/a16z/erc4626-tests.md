@@ -13,12 +13,12 @@
 | **Language** | Solidity |
 | **License** | AGPL-3.0 |
 | **Stars** | ⭐ 224 |
-| **Forks** | 🍴 45 |
-| **Trending Days** | 94 |
+| **Forks** | 🍴 44 |
+| **Trending Days** | 95 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 26, 2026 |
+| **Last Seen** | Nov 27, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 94
-- **Longest Streak**: 25 days
+- **Trending Days**: 95
+- **Longest Streak**: 26 days
 
 ---
 
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Active | Regular contributions and discussions |
+| **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Inactive | No recent updates |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-26T21:01:01.032Z*  
-*Data from 94 trending reports*
+*Last updated: 2026-11-27T21:01:06.528Z*  
+*Data from 95 trending reports*

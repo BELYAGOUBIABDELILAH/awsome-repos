@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C++ |
 | **License** | Other |
-| **Stars** | ⭐ 29,832 |
+| **Stars** | ⭐ 29,839 |
 | **Forks** | 🍴 5,337 |
-| **Trending Days** | 24 |
+| **Trending Days** | 25 |
 | **Peak Rank** | #10 |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 26, 2026 |
+| **Last Seen** | Nov 27, 2026 |
 
 
 ---
@@ -48,8 +48,8 @@
 ### Highlights
 
 - **Peak Rank**: #10
-- **Trending Days**: 24
-- **Longest Streak**: 10 days
+- **Trending Days**: 25
+- **Longest Streak**: 11 days
 
 ---
 
@@ -92,5 +92,5 @@
 
 ---
 
-*Last updated: 2026-11-26T21:01:00.738Z*  
-*Data from 24 trending reports*
+*Last updated: 2026-11-27T21:01:06.165Z*  
+*Data from 25 trending reports*

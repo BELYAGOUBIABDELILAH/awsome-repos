@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 58,077 | 2026-08-01 | 37 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 58,197 | 2026-08-01 | 38 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 8,425 | 2026-08-02 | 35 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 8,519 | 2026-08-02 | 36 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 29,119 | 2026-08-04 | 25 |
+| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 29,162 | 2026-08-04 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [getarcaneapp/arcane](../repos/getarcaneapp/arcane.md) | ⭐ 10,562 | 2026-08-06 | 16 |
+| [getarcaneapp/arcane](../repos/getarcaneapp/arcane.md) | ⭐ 10,637 | 2026-08-06 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 35,109 | 2026-08-06 | 26 |
+| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 35,171 | 2026-08-06 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [putyy/res-downloader](../repos/putyy/res-downloader.md) | ⭐ 21,589 | 2026-08-10 | 12 |
+| [putyy/res-downloader](../repos/putyy/res-downloader.md) | ⭐ 21,600 | 2026-08-10 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nats-io/nats-server](../repos/nats-io/nats-server.md) | ⭐ 21,166 | 2026-08-11 | 16 |
+| [nats-io/nats-server](../repos/nats-io/nats-server.md) | ⭐ 21,188 | 2026-08-11 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TencentCloud/CubeSandbox](../repos/TencentCloud/CubeSandbox.md) | ⭐ 13,471 | 2026-08-19 | 20 |
+| [TencentCloud/CubeSandbox](../repos/TencentCloud/CubeSandbox.md) | ⭐ 13,480 | 2026-08-19 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Autumn-27/ScopeSentry](../repos/Autumn-27/ScopeSentry.md) | ⭐ 2,716 | 2026-10-11 | 12 |
+| [Autumn-27/ScopeSentry](../repos/Autumn-27/ScopeSentry.md) | ⭐ 2,724 | 2026-10-11 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opensandbox-group/OpenSandbox](../repos/opensandbox-group/OpenSandbox.md) | ⭐ 17,949 | 2026-11-09 | 12 |
+| [opensandbox-group/OpenSandbox](../repos/opensandbox-group/OpenSandbox.md) | ⭐ 17,982 | 2026-11-09 | 13 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [plandex-ai/plandex](../repos/plandex-ai/plandex.md) | ⭐ 15,833 | 2026-10-28 | Open source AI coding agent. Designed for large projects and real world tasks. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [lionsoul2014/ip2region](../repos/lionsoul2014/ip2region.md) | ⭐ 19,777 | 2026-10-28 | Ip2region is an offline IP-to-Region localization library and IP data management framework with b... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [warmbly/warmbly](../repos/warmbly/warmbly.md) | ⭐ 894 | 2026-11-02 | The largest open-source B2B cold outreach and email warmup service. |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mcpjungle/MCPJungle](../repos/mcpjungle/MCPJungle.md) | ⭐ 1,585 | 2026-11-04 | One place to manage &amp; connect to all your MCP servers |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [hashicorp/terraform-provider-azurerm](../repos/hashicorp/terraform-provider-azurerm.md) | ⭐ 4,982 | 2026-11-05 | Terraform provider for Azure Resource Manager |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [openchoreo/openchoreo](../repos/openchoreo/openchoreo.md) | ⭐ 1,808 | 2026-11-05 | OpenChoreo is an internal developer platform for Kubernetes |
 
 
 ---
@@ -102,7 +102,7 @@
 | [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 67,560 | 2026-08-11 | 9 |
 | [minio/minio](../repos/minio/minio.md) | ⭐ 61,365 | 2026-08-12 | 2 |
 | [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | 2 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 58,077 | 2026-08-01 | 37 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 58,197 | 2026-08-01 | 38 |
 | [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 54,160 | 2026-08-20 | 24 |
 | [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,668 | 2026-08-22 | 7 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 52,173 | 2026-08-01 | 24 |
@@ -115,13 +115,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | 37 | ⭐ 58,077 | 2026-08-01 | 2026-11-26 |
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 35 | ⭐ 8,425 | 2026-08-02 | 2026-11-26 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | 38 | ⭐ 58,197 | 2026-08-01 | 2026-11-27 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 36 | ⭐ 8,519 | 2026-08-02 | 2026-11-27 |
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 29 | ⭐ 37,394 | 2026-08-01 | 2026-11-13 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 28 | ⭐ 39,511 | 2026-08-01 | 2026-11-18 |
 | [ollama/ollama](../repos/ollama/ollama.md) | 28 | ⭐ 186,884 | 2026-08-01 | 2026-11-13 |
-| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | 26 | ⭐ 35,109 | 2026-08-06 | 2026-11-26 |
-| [gastownhall/beads](../repos/gastownhall/beads.md) | 25 | ⭐ 29,119 | 2026-08-04 | 2026-11-26 |
+| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | 27 | ⭐ 35,171 | 2026-08-06 | 2026-11-27 |
+| [gastownhall/beads](../repos/gastownhall/beads.md) | 26 | ⭐ 29,162 | 2026-08-04 | 2026-11-27 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 24 | ⭐ 52,173 | 2026-08-01 | 2026-11-18 |
 | [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 24 | ⭐ 54,160 | 2026-08-20 | 2026-11-18 |
 | [golang/go](../repos/golang/go.md) | 21 | ⭐ 140,079 | 2026-07-31 | 2026-11-18 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-11-26T21:00:58.895Z*
+*Last updated: 2026-11-27T21:01:03.764Z*

@@ -16,37 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 35,476 | 2026-08-02 | 19 |
+| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 35,494 | 2026-08-02 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) | ⭐ 34,977 | 2026-08-19 | 18 |
+| [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) | ⭐ 35,029 | 2026-08-19 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,679 | 2026-08-20 | 27 |
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,680 | 2026-08-20 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 60,175 | 2026-10-14 | 10 |
+| [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 60,153 | 2026-10-14 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [michael-denyer/pstack-claude](../repos/michael-denyer/pstack-claude.md) | ⭐ 4,918 | 2026-10-16 | 13 |
+| [michael-denyer/pstack-claude](../repos/michael-denyer/pstack-claude.md) | ⭐ 4,954 | 2026-10-16 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [babygoton/WorkDaddy](../repos/babygoton/WorkDaddy.md) | ⭐ 3,510 | 2026-11-07 | 9 |
+| [babygoton/WorkDaddy](../repos/babygoton/WorkDaddy.md) | ⭐ 3,533 | 2026-11-07 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [micromatch/picomatch](../repos/micromatch/picomatch.md) | ⭐ 1,340 | 2026-11-19 | 8 |
+| [micromatch/picomatch](../repos/micromatch/picomatch.md) | ⭐ 1,342 | 2026-11-19 | 9 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [DavidHDev/react-bits](../repos/DavidHDev/react-bits.md) | ⭐ 50,534 | 2026-10-28 | The largest open-source library of animated, interactive, and customizable React &amp; Next.js compon... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mozilla-firefox/firefox](../repos/mozilla-firefox/firefox.md) | ⭐ 13,636 | 2026-10-28 | The official repository of Mozilla&#39;s Firefox web browser. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Orkas-AI/Orkas](../repos/Orkas-AI/Orkas.md) | ⭐ 9,302 | 2026-11-02 | Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal ... |
@@ -64,13 +58,19 @@
 | [HunYiSage/dsh-purge](../repos/HunYiSage/dsh-purge.md) | ⭐ 19,085 | 2026-11-05 | DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [babygoton/WorkDaddy](../repos/babygoton/WorkDaddy.md) | ⭐ 3,510 | 2026-11-07 | WorkBuddy、CodeBuddy 桌面端增强助手：签到猫猫旅行成长计划查询、多账号独立备份、点切即用；免打扰模式让 AI 无人值守跑长任务；跨账号会话迁移、异常中断自动续接；暂存&#x2F;快捷提示... |
+| [babygoton/WorkDaddy](../repos/babygoton/WorkDaddy.md) | ⭐ 3,533 | 2026-11-07 | WorkBuddy、CodeBuddy 桌面端增强助手：签到猫猫旅行成长计划查询、多账号独立备份、点切即用；免打扰模式让 AI 无人值守跑长任务；跨账号会话迁移、异常中断自动续接；暂存&#x2F;快捷提示... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [cobusgreyling/grok-bot-templates](../repos/cobusgreyling/grok-bot-templates.md) | ⭐ 105 | 2026-11-07 | The engineering kit for Grok Bot templates. Spec, Bot Ready score, teams, skills, routines, and a... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [chinese-poetry/chinese-poetry](../repos/chinese-poetry/chinese-poetry.md) | ⭐ 54,296 | 2026-11-10 | The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗. ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [PavelDoGreat/WebGL-Fluid-Simulation](../repos/PavelDoGreat/WebGL-Fluid-Simulation.md) | ⭐ 16,835 | 2026-11-12 | Play with fluids in your browser (works even on mobile) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [GoogleChrome/lighthouse](../repos/GoogleChrome/lighthouse.md) | ⭐ 31,089 | 2026-11-14 | Automated auditing, performance metrics, and best practices for the web. |
 
 
 ---
@@ -97,7 +97,7 @@
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 65,279 | 2026-08-27 | 16 |
 | [jgraph/drawio-desktop](../repos/jgraph/drawio-desktop.md) | ⭐ 63,817 | 2026-11-04 | 1 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,485 | 2026-08-11 | 5 |
-| [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 60,175 | 2026-10-14 | 10 |
+| [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 60,153 | 2026-10-14 | 11 |
 | [chinese-poetry/chinese-poetry](../repos/chinese-poetry/chinese-poetry.md) | ⭐ 54,296 | 2026-11-10 | 2 |
 
 ---
@@ -108,13 +108,13 @@
 |------------|---------------|-------|------------|-----------|
 | [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 39 | ⭐ 117,534 | 2026-08-05 | 2026-11-14 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 32 | ⭐ 14,607 | 2026-08-02 | 2026-11-07 |
-| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | 27 | ⭐ 1,679 | 2026-08-20 | 2026-11-26 |
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | 28 | ⭐ 1,680 | 2026-08-20 | 2026-11-27 |
 | [byoungd/up](../repos/byoungd/up.md) | 22 | ⭐ 70,623 | 2026-08-01 | 2026-11-16 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 22 | ⭐ 90,383 | 2026-08-04 | 2026-10-27 |
-| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | 19 | ⭐ 35,476 | 2026-08-02 | 2026-11-26 |
+| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | 20 | ⭐ 35,494 | 2026-08-02 | 2026-11-27 |
 | [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 19 | ⭐ 34,116 | 2026-08-08 | 2026-11-11 |
+| [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) | 19 | ⭐ 35,029 | 2026-08-19 | 2026-11-27 |
 | [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | 19 | ⭐ 69,110 | 2026-08-28 | 2026-11-10 |
-| [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) | 18 | ⭐ 34,977 | 2026-08-19 | 2026-11-26 |
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | 16 | ⭐ 65,279 | 2026-08-27 | 2026-11-16 |
 
 ---
@@ -224,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-11-26T21:00:58.906Z*
+*Last updated: 2026-11-27T21:01:03.777Z*

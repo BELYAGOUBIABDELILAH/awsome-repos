@@ -13,12 +13,12 @@
 | **Language** | Solidity |
 | **License** | Apache-2.0 |
 | **Stars** | ⭐ 1,065 |
-| **Forks** | 🍴 540 |
-| **Trending Days** | 94 |
+| **Forks** | 🍴 541 |
+| **Trending Days** | 95 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Nov 26, 2026 |
+| **Last Seen** | Nov 27, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 94
-- **Longest Streak**: 25 days
+- **Trending Days**: 95
+- **Longest Streak**: 26 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-26T21:01:01.031Z*  
-*Data from 94 trending reports*
+*Last updated: 2026-11-27T21:01:06.525Z*  
+*Data from 95 trending reports*

@@ -21,10 +21,8 @@
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [xiaolai/the-craft-of-selfteaching](../repos/xiaolai/the-craft-of-selfteaching.md) | ⭐ 18,454 | 2026-10-28 | One has no future if one couldn&#39;t teach themself. |
 
+*No new Jupyter Notebook repositories in the last 30 days*
 
 ---
 
@@ -59,4 +57,4 @@
 
 ---
 
-*Last updated: 2026-11-26T21:00:58.910Z*
+*Last updated: 2026-11-27T21:01:03.782Z*

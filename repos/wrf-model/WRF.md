@@ -13,12 +13,12 @@
 | **Language** | Fortran |
 | **License** | Other |
 | **Stars** | ⭐ 1,815 |
-| **Forks** | 🍴 908 |
-| **Trending Days** | 72 |
+| **Forks** | 🍴 907 |
+| **Trending Days** | 73 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Nov 26, 2026 |
+| **Last Seen** | Nov 27, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 72
-- **Longest Streak**: 10 days
+- **Trending Days**: 73
+- **Longest Streak**: 11 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-11-26T21:01:01.677Z*  
-*Data from 72 trending reports*
+*Last updated: 2026-11-27T21:01:07.308Z*  
+*Data from 73 trending reports*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 66,271 |
-| **Forks** | 🍴 6,027 |
-| **Trending Days** | 22 |
+| **Stars** | ⭐ 66,915 |
+| **Forks** | 🍴 6,143 |
+| **Trending Days** | 23 |
 | **Peak Rank** | #3 |
 
 | **First Seen** | Aug 15, 2026 |
-| **Last Seen** | Nov 26, 2026 |
+| **Last Seen** | Nov 27, 2026 |
 
 
 ---
@@ -43,7 +43,6 @@
 
 ## Trending Timeline
 
-**Oct 19, 2026** — Rank #10 (+607 ⭐)  
 **Nov 18, 2026** — Rank #3 (+384 ⭐)  
 **Nov 19, 2026** — Rank #3 (+899 ⭐)  
 **Nov 20, 2026** — Rank #3 (+774 ⭐)  
@@ -53,12 +52,13 @@
 **Nov 24, 2026** — Rank #3 (+1075 ⭐)  
 **Nov 25, 2026** — Rank #3 (+1094 ⭐)  
 **Nov 26, 2026** — Rank #3 (+744 ⭐)  
+**Nov 27, 2026** — Rank #3 (+668 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #3
-- **Trending Days**: 22
-- **Longest Streak**: 9 days
+- **Trending Days**: 23
+- **Longest Streak**: 10 days
 
 ---
 
@@ -82,7 +82,7 @@
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Very Active | Updated within last week |
+| **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
@@ -101,5 +101,5 @@
 
 ---
 
-*Last updated: 2026-11-26T21:01:02.531Z*  
-*Data from 22 trending reports*
+*Last updated: 2026-11-27T21:01:08.354Z*  
+*Data from 23 trending reports*
